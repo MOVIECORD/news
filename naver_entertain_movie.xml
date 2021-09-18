@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-18T20:22:13.200Z</updated>
+    <updated>2021-09-18T21:18:25.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[추석 연휴]티빙·웨이브·쿠팡, OTT도 볼거리 가득]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010729109</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010729109"/>
+        <updated>2021-09-18T21:18:08.889Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 남정현 기자 = 국내 토종 OTT(온라인 동영상 서비스) 웨이브, 티빙, 쿠팡플레이가 추석 연휴 동안 즐길 만한 콘텐츠를 적극 추천했다. 어떤 콘텐츠가 사용자들의 이목을 집중시킬지 살펴보자. 웨이브]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴시스Pic] '문화 특사' BTS, 외교관 여권 들고 출국]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010729035</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002989763"/>
         <updated>2021-09-18T16:23:55.081Z</updated>
         <content type="html"><![CDATA[변요한 김무열 주연 영화 '보이스'와 박정민 임윤아 주연 '기적'이 개봉 첫 주말 박스오피스 1,2위를 차지할 것 같다. 지난 15일 나란히 개봉한 '보이스'는 첫 주말 누적 30만명 이상을 기록하며 박스오피스 1위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[추석 특선 영화] '7번방의 선물'·'시카고'와 이번엔 19금 '보헤미안랩소디']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002989760</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002989760"/>
-        <updated>2021-09-18T16:23:55.085Z</updated>
-        <content type="html"><![CDATA[여전히 가족과 다 함께 모이기 힘든 2021 추석 연휴. 긴 추석 연휴에 코로나19로 인해 안방에서 즐길 수 있는 특선영화 라인업 긴 추석 연휴의 시작인 9월 18일 토요일에는 영화 '7번방의 선물'을 시작으로 '시]]></content>
     </entry>
 </feed>
