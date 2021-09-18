@@ -1,3 +1,12 @@
+[naver_entertain_movie]
+title = "네이버TV연예 ─ 영화"
+url = "https://entertain.naver.com/movie"
+entrySelector = "ul[class='news_lst news_lst2'] li"
+titleSelector = "div[class='tit_area'] a[class='tit']"
+linkSelector = "div[class='tit_area'] a[class='tit']"
+imageSelector = "li a[class='thumb_area'] img"
+contentSelector = "div[class='tit_area'] p[class='summary']"
+
 [daummovie_news_popular]
 title = "다음영화 뉴스 ─ 인기"
 url = "https://movie.daum.net/contents/news?type=popular"
