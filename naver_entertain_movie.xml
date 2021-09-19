@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-19T18:24:54.283Z</updated>
+    <updated>2021-09-19T19:16:46.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[추석 연휴]'오징어 게임'→'유미의 세포들' 독점 콘텐츠 풍성]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010729631</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010729631"/>
+        <updated>2021-09-19T19:16:29.724Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]백승훈 인턴 기자 = 코로나19 장기화 여파로 또 한 번의 '집콕 명절'을 앞두고 넷플릭스·티빙·웨이브·왓챠 등 국내외 대형 OTT들이 내세운 신작 독점 콘텐츠들이 쏟아진다. 다양한 작품 관람을 원하는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미나리' '다만악' '자산어보'…화제작·흥행작·신작, 풍성한 '추석 특선 영화' [종합]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000501271</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=021&amp;aid=0002486188"/>
         <updated>2021-09-19T01:10:15.267Z</updated>
         <content type="html"><![CDATA[영화 ‘보이스’와 ‘기적’이 연휴 첫 날 극장가를 쌍끌이했다. 영화관입장권통합전산망에 따르면 ‘보이스’는 18일 전국 관객 9만8060명을 모아 박스오피스 1위 자리를 지켰다. 누적 관객수는 25만 명을 넘어섰다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름 극장가 불씨, '기적'→'보이스' 추석 극장가로]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002989949</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002989949"/>
-        <updated>2021-09-19T01:10:15.267Z</updated>
-        <content type="html"><![CDATA[여름 극장가를 사로잡았던 영화 '모가디슈', '싱크홀', '인질'의 불씨가 '기적', '보이스' 등 추석 극장가 영화로 이어진다. 올 추석 극장가 두 편의 한국영화가 출격했다. '보이스'와 '기적'이 그 주인공이다.]]></content>
     </entry>
 </feed>
