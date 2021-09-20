@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-20T21:19:43.012Z</updated>
+    <updated>2021-09-20T22:21:56.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[한눈에 보는 엔터차트] 보이스·스테이·광자매·슬의생2·오징어게임, 1위]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005614263</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005614263"/>
+        <updated>2021-09-20T22:21:38.026Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = ◆ 영화='보이스' 1위 (영화진흥위원회 영화관입장권 통합 전산망 9월17일~9월19일 집계) 9월 셋째 주 주말 박스오피스 1위는 15일 개봉한 변요한 김무열 주연의 신작 '보이스']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['기적' 박정민 vs '보이스' 변요한… 추석 극장가 '빅매치']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=417&amp;aid=0000736788</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002327187"/>
         <updated>2021-09-20T04:28:28.474Z</updated>
         <content type="html"><![CDATA[팬데믹의 어려움 속에서도 제천영화제만의 역사를 이어나가다 제17회 제천국제음악영화제가 지난 8월 17일 막을 내렸다. 음악 콘서트를 비롯한 다양한 오프라인 콘텐츠를 자랑하는 제천국제음악영화제는 팬데믹이 야속했고 조성]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마블 ‘이터널스’ 마동석 깜짝 추석인사, “새로운 가족과 특별한 시간” 궁금증]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003538233</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003538233"/>
-        <updated>2021-09-20T04:28:28.475Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]2021년 전 세계가 기다리는 최고의 기대작이자 더욱 확장된 새로운 MCU의 시작을 알리며 ‘어벤져스’ 시리즈의 전설을 이어갈 영화 ‘이터널스’에서 ‘길가메시’ 역을 맡아 한국인 배우 최]]></content>
     </entry>
 </feed>
