@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-20T11:18:13.593Z</updated>
+    <updated>2021-09-20T12:35:11.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[추석특선영화 '광대들 풍문조작단', 세조실록과 어떤 관련이?]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000817738</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000817738"/>
+        <updated>2021-09-20T12:34:54.526Z</updated>
+        <content type="html"><![CDATA['광대들: 풍문조작단'이 추석 특선영화로 오늘(20일) 방송된다. 지난 2019년 개봉한 영화 '광대들:풍문조작단"은 세조실록에 기록된 기이한 현상의 뒷이야기를 그린 팩션 사극으로 조선 팔도를 무대로 풍문을 조작하고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오징어 게임'의 새벽, 정호연의 연기 신고식]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000038986</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003538232"/>
         <updated>2021-09-20T04:28:28.481Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]마블 영화 ‘가디언즈 오브 갤럭시’ 시리즈로 유명한 할리우드 스타 크리스 프랫(42)이 드라마 한 편당 약 17억원을 받았다. 최근 데일리메일에 따르면 크리스 프랫은 아마존 프라임 TV시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화가 은퇴한 영화감독 "공황장애 겪으며 생각 바뀌었다"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002327185</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002327185"/>
-        <updated>2021-09-20T04:28:28.482Z</updated>
-        <content type="html"><![CDATA[[인터뷰] 부산국제영화제 초청된 베리어프리 영화 &lt;피아노 프리즘&gt; 오재형 감독 ▲ 다큐멘터리 영화 &lt;피아노 프리즘&gt;을 연출한 오재형 감독. ⓒ 오재형 미술작가이자 영화감독으로 종종 실험적 작품을 선보이곤 했던 이 감]]></content>
     </entry>
 </feed>
