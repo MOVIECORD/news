@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-20T02:32:34.556Z</updated>
+    <updated>2021-09-20T03:23:05.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김무열의 변신..자신도 때리고 싶은 '보이스' 언밸런스한 악역]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002990178</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002990178"/>
+        <updated>2021-09-20T03:22:47.683Z</updated>
+        <content type="html"><![CDATA[배우 김무열이 영화 '보이스'(감독 김선·김곡)를 통해 때려주고 싶은 악역으로 변신했다. 개봉 후 박스오피스 1위를 유지하고 있는 '보이스'는 보이스피싱 조직의 덫에 걸려 모든 것을 잃게 된 서준(변요한 분)이 빼앗]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[추석 연휴 초반 승기 잡은 '보이스', 힘 약한 '기적']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002327176</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003780871"/>
         <updated>2021-09-20T01:13:07.207Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조지영 기자] 오는 11월 전 세계가 기다리는 최고 기대작이자 더욱 확장된 새로운 MCU(마블 시네마틱 유니버스)의 시작을 알리는 액션 영화 '이터널스'(클로이 자오 감독)에서 길가메시 역을 맡아 한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['겟 아웃' 감독 제작 '캔디맨', 22일 국내 개봉…신드롬 예고[공식]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004477940</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004477940"/>
-        <updated>2021-09-20T01:13:07.211Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] '겟 아웃' '어스' 등을 연출한 조던 필 감독이 공동 각본 및 제작을 맡아 관심을 받고 있는 영화 '캔디맨'이 북미에 이어 국내 언론의 호평을 받으며 올 가을 신화가 시작될 것을 예고했다.]]></content>
     </entry>
 </feed>
