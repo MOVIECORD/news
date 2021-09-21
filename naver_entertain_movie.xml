@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-21T09:21:23.544Z</updated>
+    <updated>2021-09-21T10:24:06.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[TEN피플] 조력자 임윤아 vs 이주영, '기적' vs '보이스' 추석 대전 승자는?]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000501469</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000501469"/>
+        <updated>2021-09-21T10:23:47.959Z</updated>
+        <content type="html"><![CDATA[[텐아시아=노규민 기자] 영화 '기적'과 '보이스', 완전히 다른 두 영화가 추석 연휴 극장가에서 맞붙게 됐다.'기적'은 박정민, '보이스'는 변요한이 극을 이끄는 가운데, 남자 주인공들의 조력자로 활약하는 여배우]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황정민 '인질', 신작 공세 속 누적 160만 돌파..빛난 존재감 [공식]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002990421</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004478266"/>
         <updated>2021-09-21T05:19:21.574Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] (인터뷰①에 이어) 변요한(36)은 최근 진행된 화상 인터뷰에서 “서준의 외형적인 모습은 분장팀의 도움을 받았는데 말끔한 모습은 아닐 거 같았다”고 말했다. ‘보이스’(감독 김선 김곡, 배급]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['샹치와 텐 링즈의 전설' 150만 돌파..전세계 누적 박스오피스 2위(공식)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003478792</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003478792"/>
-        <updated>2021-09-21T05:19:21.574Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] '샹치와 텐 링즈의 전설'이 150만 관객을 돌파했다. 21일 영화관입장권 통합전산망에 따르면 영화 '샹치와 텐 링즈의 전설'은 이날 오전 9시 40분 기준 누적 관객수 150만 2917]]></content>
     </entry>
 </feed>
