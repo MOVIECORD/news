@@ -6,7 +6,7 @@ https://moviecord.github.io/news/naver_entertain_movie.xml
   ### 최신뉴스
   - 방송·TV: https://moviecord.github.io/news/naver_entertain_now_broadcast.xml  
   - 드라마: https://moviecord.github.io/news/naver_entertain_now_drama.xml  
----
+
 ## 다음 연예
   ### 뉴스
  - 드라마: https://moviecord.github.io/news/daum_entertain_news_drama.xml  
@@ -19,9 +19,12 @@ https://moviecord.github.io/news/naver_entertain_movie.xml
   **영화 뉴스**  
 - 최신: https://moviecord.github.io/news/daummovie_news_popular.xml  
 - 많이본: https://moviecord.github.io/news/daummovie_news_recent.xml  
----
+
 ## KBS 연예
   ### 스타★연예
   - 영화: https://moviecord.github.io/news/kbs_kstar_movie.xml  
   - TVs: https://moviecord.github.io/news/kbs_kstar_tv.xml  
   - KBS: https://moviecord.github.io/news/kbs_kstar_kbs.xml  
+---
+
+▶️ [연예 뉴스로 이동하기](https://github.com/KPOPCORD/news)
