@@ -22,6 +22,15 @@ titleSelector = "span.max-progtit"
 linkSelector = "a"
 imageSelector = "span.img-thum span.img-center img"
 
+[mbc_enews_movie]
+title = "iMBC 연예 ─ 영화"
+url = "http://enews.imbc.com/Search?searchText=%EC%98%81%ED%99%94"
+entrySelector = "ul.news-list.list-square.list-latest li"
+titleSelector = "p.summary"
+linkSelector = "a"
+imageSelector = "a img"
+waitUntil = "networkidle"
+
 [naver_entertain_movie]
 title = "네이버TV연예 ─ 영화"
 url = "https://entertain.naver.com/movie"
