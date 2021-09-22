@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-22T14:21:10.176Z</updated>
+    <updated>2021-09-22T15:03:00.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[추석 극장가 한국영화 선전, 어떤 작품 얼마나 벌까]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000107089</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000107089"/>
+        <updated>2021-09-22T15:01:58.367Z</updated>
+        <content type="html"><![CDATA['모가디슈' '싱크홀' 손익분기점 넘어… '인질' '보이스' '기적' 활짝 추석 극장가에서 한국영화가 선전하고 있다. 코로나19 4차 대유행 속에서 장기 흥행을 이어가고 있는 '모가디슈' '싱크홀' '인질' 외에도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[28년 만에 돌아온 도시괴담…관객은 어느새 흑인 악당 편…영화 ‘캔디맨’ [리뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003099369</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000592543"/>
         <updated>2021-09-22T05:24:53.749Z</updated>
         <content type="html"><![CDATA[이번 추석 연휴의 승자는 ‘보이스’였다. 극의 중심에는 배우 변요한이 있었다. 변요한의 처절하고도 통쾌한 액션은 관객을 사로잡기 충분했다. 영화계에서 별다른 대표작이 없었던 그가 한 단계 발돋움하는 순간이다. 지난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 '오징어 게임', 미국 시청 1위…한국 드라마 최초]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000107057</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000107057"/>
-        <updated>2021-09-22T05:24:53.749Z</updated>
-        <content type="html"><![CDATA[홍콩 등 아시아권 나라서도 1위…영국·프랑스·독일은 2위 넷플릭스 드라마 '오징어 게임'이 미국 넷플릭스 시청 순위에서 한국 드라마 중 처음으로 1위를 기록했다. 21일(현지시간) 넷플릭스 순위 집계 사이트 플릭스]]></content>
     </entry>
 </feed>
