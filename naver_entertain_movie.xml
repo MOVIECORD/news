@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-22T19:18:24.713Z</updated>
+    <updated>2021-09-22T20:24:02.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제26회 부산국제영화제, 올해는 정상 개최...70개국 223편 상영]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010731901</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010731901"/>
+        <updated>2021-09-22T20:23:02.515Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 10월6일 개막…3대 영화제 수상작 등 대거 포함 OTT 시리즈 소개하는 '온 스크린' 신설…넷플릭스 '두각' [서울=뉴시스] 김지은 기자 = 다음 달 6일 개막하는 제26회 부산국제영화제는 코로나19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 ‘모가디슈’ 추석 역주행… 350만명 돌파]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001472171</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004478693"/>
         <updated>2021-09-22T06:25:34.464Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 제26회 부산국제영화제가 봉준호 감독과 하마구치 류스케 감독이 함께 하는 스페셜 대담, 그리고 레오스 카락스 감독의 마스터 클래스 일정을 전격 공개했다. 전 세계가 인정한 감독 봉준호, 하마]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Girls' Generation's Yoona wants the best of both worlds]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000016434</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000016434"/>
-        <updated>2021-09-22T06:25:34.464Z</updated>
-        <content type="html"><![CDATA[Singer-turned-actor Yoona is no longer just known as a member of girl group Girls’ Generation. After debuting on the sil]]></content>
     </entry>
 </feed>
