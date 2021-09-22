@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-22T15:03:00.777Z</updated>
+    <updated>2021-09-22T15:24:15.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[올가을 막 오르는 지역 영화제]독립영화 신작들이 쏟아진다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000861187</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000861187"/>
+        <updated>2021-09-22T15:23:16.539Z</updated>
+        <content type="html"><![CDATA[가을 초입, 강원지역의 영화제들이 잇따라 풍성하게 마련된다. 매년 8월 초 주말에 열렸지만 코로나19 확산 여파로 개최 이래 처음으로 가을에 열리게 된 강릉정동진독립영화제가 23일 막을 올린다. 이어 코로나19 확산]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[추석 극장가 한국영화 선전, 어떤 작품 얼마나 벌까]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000107089</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003781209"/>
         <updated>2021-09-22T05:24:53.747Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조지영 기자] 미스터리 공포 영화 '캔디맨'(니아 다코스타 감독)이 드디어 오늘(22일) 개봉한다. '캔디맨'은 이번 주 외화 개봉작 전체 예매율 1위에 등극하며 북미에 이어 국내 스크린까지 강타할 것을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흥행타 날린 변요한, “연기 정말 재미있어요” [스타★톡톡]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000592543</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000592543"/>
-        <updated>2021-09-22T05:24:53.749Z</updated>
-        <content type="html"><![CDATA[이번 추석 연휴의 승자는 ‘보이스’였다. 극의 중심에는 배우 변요한이 있었다. 변요한의 처절하고도 통쾌한 액션은 관객을 사로잡기 충분했다. 영화계에서 별다른 대표작이 없었던 그가 한 단계 발돋움하는 순간이다. 지난]]></content>
     </entry>
 </feed>
