@@ -1,3 +1,27 @@
+[kbs_kstar_movie]
+title = "KBS연예 ─ 영화"
+url = "https://kstar.kbs.co.kr/list.html?cate=MV"
+entrySelector = "ul.slice-grid3 li"
+titleSelector = "span.max-progtit"
+linkSelector = "a"
+imageSelector = "span.img-thum span.img-center img"
+
+[kbs_kstar_tv]
+title = "KBS연예 ─ TVs"
+url = "https://kstar.kbs.co.kr/list.html?cate=TV"
+entrySelector = "ul.slice-grid3 li"
+titleSelector = "span.max-progtit"
+linkSelector = "a"
+imageSelector = "span.img-thum span.img-center img"
+
+[kbs_kstar_kbs]
+title = "KBS연예 ─ KBS"
+url = "https://kstar.kbs.co.kr/list.html?cate=BC"
+entrySelector = "ul.slice-grid3 li"
+titleSelector = "span.max-progtit"
+linkSelector = "a"
+imageSelector = "span.img-thum span.img-center img"
+
 [naver_entertain_movie]
 title = "네이버TV연예 ─ 영화"
 url = "https://entertain.naver.com/movie"
