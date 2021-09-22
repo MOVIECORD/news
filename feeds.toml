@@ -7,6 +7,24 @@ linkSelector = "div[class='tit_area'] a[class='tit']"
 imageSelector = "li a[class='thumb_area'] img"
 contentSelector = "div[class='tit_area'] p[class='summary']"
 
+[naver_entertain_now_broadcast]
+title = "네이버 TV연예 ─ 최신뉴스 ─ 방송"
+url = "https://entertain.naver.com/now?sid=224"
+entrySelector = "ul.news_lst.news_lst2 li"
+titleSelector = "a.tit"
+linkSelector = "a"
+contentSelector = "p.summary"
+waitUntil = "networkidle"
+
+[naver_entertain_now_drama]
+title = "네이버 TV연예 ─ 최신뉴스 ─ 드라마"
+url = "https://entertain.naver.com/now?sid=225"
+entrySelector = "ul.news_lst.news_lst2 li"
+titleSelector = "a.tit"
+linkSelector = "a"
+contentSelector = "p.summary"
+waitUntil = "networkidle"
+
 [daummovie_news_popular]
 title = "다음영화 뉴스 ─ 인기"
 url = "https://movie.daum.net/contents/news?type=popular"
