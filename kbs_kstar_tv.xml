@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Sep 2021 21:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Sep 2021 23:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘너를 닮은 사람’ 고현정, 우아하면서 비밀스러운 정희주]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=161828</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=161828</guid>
+            <pubDate>Wed, 22 Sep 2021 23:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=161828">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210923082010_ec366e4c0d3ad246539a5c1b4fa74aa8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=161828">‘너를 닮은 사람’ 고현정, 우아하면서 비밀스러운 정희주</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210923082010_ec366e4c0d3ad246539a5c1b4fa74aa8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김현식과 봄여름가을겨울, 홀로그램 콘서트]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=161802</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=161032">이상윤 ‘원더우먼’ 포스터 컷</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210916141358_0ccde1e3b519ec5a488c498c8575c169.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허경환 “조선판스타는 우리 소리 올림픽”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=160877</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=160877</guid>
-            <pubDate>Wed, 22 Sep 2021 12:42:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=160877">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210916092525_b6578257def5f43ef405e987a24744c9.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=160877">허경환 “조선판스타는 우리 소리 올림픽”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210916092525_b6578257def5f43ef405e987a24744c9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
