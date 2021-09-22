@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-22T10:50:38.932Z</updated>
+    <updated>2021-09-22T11:19:49.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[리뷰] 아임 유어 맨 "도이치 알고리즘"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000039016</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000039016"/>
+        <updated>2021-09-22T11:18:46.099Z</updated>
+        <content type="html"><![CDATA[스파이크 존스 감독의 ‘그녀’(Her) 이전에도 이런 이야기는 많았다. 그리스 신화에 이상적인 여인 피그말리온을 직접 만든 조각가도 있다. AI시대가 도래하며, 그리고 개인화 시대가 되면서 반려자로 인간의 피조물이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 '보이스' 흥행 돌풍! 변요한, 30대 원톱 주연 배우로 '우뚝']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000134025</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000490813"/>
         <updated>2021-09-22T04:28:02.107Z</updated>
         <content type="html"><![CDATA[[뉴스엔 김노을 기자] 개봉 6주 차 추석 연휴에 접어들면서 관객들의 뜨거운 반응을 이끌어내고 있는 영화 ‘인질’이 160만 관객을 돌파했다. 올해 개봉한 스릴러 영화 중 최고 스코어를 달성하며 여전히 뜨거운 화제를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진선규, 이정재 첫 연출작 '헌트' 일정상 하차‥허성태 합류]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000490812</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000490812"/>
-        <updated>2021-09-22T04:28:02.107Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김노을 기자] 배우 진선규가 영화 '헌트'(가제)에서 하차했다. 9월 21일 영화계에 따르면 진선규는 배우 이정재의 첫 연출작 '헌트'에서 중도 하차를 결정했다. 세부사항을 조율한 끝에 일정이 맞지 않아 최]]></content>
     </entry>
 </feed>
