@@ -44,3 +44,30 @@ linkSelector = "strong a[class='link_txt']"
 imageSelector = "span[class='bg_img']"
 contentSelector = "p[class='desc_thumb'] a"
 waitUntil = "networkidle"
+
+[daum_entertain_news_drama]
+title = "다음 연예 ─ 뉴스 ─ 드라마"
+url = "https://entertain.daum.net/news/drama"
+entrySelector = "ul.list_news li"
+titleSelector = "a.link_txt"
+linkSelector = "a.link_txt"
+contentSelector = "p.desc_thumb"
+waitUntil = "networkidle"
+
+[daum_entertain_news_variety]
+title = "다음 연예 ─ 뉴스 ─ 예능"
+url = "https://entertain.daum.net/news/variety"
+entrySelector = "ul.list_news li"
+titleSelector = "a.link_txt"
+linkSelector = "a.link_txt"
+contentSelector = "p.desc_thumb"
+waitUntil = "networkidle"
+
+[daum_entertain_news_movie]
+title = "다음 연예 ─ 뉴스 ─ 영화"
+url = "https://entertain.daum.net/news/movie"
+entrySelector = "ul.list_news li"
+titleSelector = "a.link_txt"
+linkSelector = "a.link_txt"
+contentSelector = "p.desc_thumb"
+waitUntil = "networkidle"
