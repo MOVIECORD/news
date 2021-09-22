@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-22T18:26:37.606Z</updated>
+    <updated>2021-09-22T19:18:24.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 ‘모가디슈’ 추석 역주행… 350만명 돌파]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001472171</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001472171"/>
+        <updated>2021-09-22T19:17:25.064Z</updated>
+        <content type="html"><![CDATA[영화 ‘모가디슈’( 사진 )가 추석 연휴에 350만 관객을 돌파하며 장기 흥행을 이어갔다. 영화진흥위원회 영화관입장권 통합전산망에 따르면 추석 당일인 21일 ‘모가디슈’는 관객 수 3만2000여명을 모았다. 이로써]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[올가을 막 오르는 지역 영화제]독립영화 신작들이 쏟아진다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000861187</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000016434"/>
         <updated>2021-09-22T06:25:34.464Z</updated>
         <content type="html"><![CDATA[Singer-turned-actor Yoona is no longer just known as a member of girl group Girls’ Generation. After debuting on the sil]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공식] 조던 필 각본X제작 '캔디맨', '샹치' 꺾고 외화 전체 예매율 1위]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003781209</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003781209"/>
-        <updated>2021-09-22T05:24:53.747Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 미스터리 공포 영화 '캔디맨'(니아 다코스타 감독)이 드디어 오늘(22일) 개봉한다. '캔디맨'은 이번 주 외화 개봉작 전체 예매율 1위에 등극하며 북미에 이어 국내 스크린까지 강타할 것을]]></content>
     </entry>
 </feed>
