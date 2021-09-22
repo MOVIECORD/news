@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-22T11:19:49.713Z</updated>
+    <updated>2021-09-22T12:36:38.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[28년 만에 돌아온 도시괴담…관객은 어느새 흑인 악당 편…영화 ‘캔디맨’ [리뷰]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003099369</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003099369"/>
+        <updated>2021-09-22T12:35:36.325Z</updated>
+        <content type="html"><![CDATA[[경향신문] 슬럼프에 빠진 아티스트 앤서니(야히아 압둘 마틴 2세)는 어린 시절을 보낸 미국 시카고의 카브리니 그린 지역으로 돌아온다. 한때 저소득층용 공공주택이 있던 이 지역에는 재개발로 번듯한 고층건물이 들어섰다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[리뷰] 아임 유어 맨 "도이치 알고리즘"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000039016</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000107057"/>
         <updated>2021-09-22T05:24:53.749Z</updated>
         <content type="html"><![CDATA[홍콩 등 아시아권 나라서도 1위…영국·프랑스·독일은 2위 넷플릭스 드라마 '오징어 게임'이 미국 넷플릭스 시청 순위에서 한국 드라마 중 처음으로 1위를 기록했다. 21일(현지시간) 넷플릭스 순위 집계 사이트 플릭스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황정민 '인질' 160만 돌파, 흥행 장기전 이어간다[공식]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000490813</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000490813"/>
-        <updated>2021-09-22T04:28:02.107Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 김노을 기자] 개봉 6주 차 추석 연휴에 접어들면서 관객들의 뜨거운 반응을 이끌어내고 있는 영화 ‘인질’이 160만 관객을 돌파했다. 올해 개봉한 스릴러 영화 중 최고 스코어를 달성하며 여전히 뜨거운 화제를]]></content>
     </entry>
 </feed>
