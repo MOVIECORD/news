@@ -23,10 +23,10 @@ linkSelector = "a"
 imageSelector = "span.img-thum span.img-center img"
 
 [mbc_enews_movie]
-title = "iMBC 연예 ─ 영화"
+title = "MBC 연예 ─ 영화"
 url = "http://enews.imbc.com/Search?searchText=%EC%98%81%ED%99%94"
 entrySelector = "ul.news-list.list-square.list-latest li"
-titleSelector = "p.summary"
+titleSelector = "p.summary:not(div.name)"
 linkSelector = "a"
 imageSelector = "a img"
 waitUntil = "networkidle"
