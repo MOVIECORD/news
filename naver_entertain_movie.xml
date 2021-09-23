@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-23T17:25:27.329Z</updated>
+    <updated>2021-09-23T18:26:49.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['노팅힐' 감독 로저 미첼 사망…향년 65세]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005618118</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005618118"/>
+        <updated>2021-09-23T18:25:48.468Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 원태성 기자 = 로맨틱 영화 '노팅힐' 감독으로 유명한 로저 미첼이 22일(현지시간) 65세의 나이로 사망했다고 AFP통신이 23일 보도했다. 미첼의 홍보 담당자는 성명을 통해 이같은 사실을 전하며]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BNK부산은행, 제26회 부산국제영화제 골드 스폰서로 참여]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000763258</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000631048"/>
         <updated>2021-09-23T08:26:07.583Z</updated>
         <content type="html"><![CDATA['영화의 거리' 주연배우 이완이 성공적인 스크린 복귀를 알렸다. 지난 16일 개봉한 영화 '영화의 거리'는 헤어진 연인인 영화감독 도영(이완)과 로케이션 매니저 선화(한선화)의 끝났는데 끝난 것 같지 않은 럽케이션]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소문난 잔치 먹을 것 많았다…'듄', 24개 개봉국 450억 원 수익]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000275269</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000275269"/>
-        <updated>2021-09-23T08:26:07.584Z</updated>
-        <content type="html"><![CDATA[[SBS연예뉴스 | 김지혜 기자] 올 하반기 최고 기대작으로 꼽혔던 영화 '듄'의 흥행 신드롬이 시작됐다. '듄'은 지난 주말 개봉한 세계 24개 국가에서 모두 박스오피스 1위를 석권하는 기염을 토했다. 한화로 45]]></content>
     </entry>
 </feed>
