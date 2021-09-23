@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-09-23T18:26:49.504Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 23 Sep 2021 19:18:51 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가상세계로 도망친 외톨이 소녀, 하루 만에 톱스타로 우뚝]]></title>
+            <link>https://v.daum.net/v/20210924040817929</link>
+            <guid>https://v.daum.net/v/20210924040817929</guid>
+            <pubDate>Thu, 23 Sep 2021 19:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[‘포스트 미야자키 하야오’로 불리는 일본 애니메이션계의 거장 호소다 마모루 감독이 우리 일상 속으로 빠르게 스며들고 있는 메타버스 세계의 이야기를 들고 왔다. 마모루 감독의 신작 ‘용과 주근깨 공주’(사진)는 일본 시골 소녀 ‘스즈’가 메타버스 세계를 만나 성장하는 이야기다. 스즈는 어린 시절 어머니를 잃고 세상과 단절된 삶을 살아간다. 어머니와 함께 부르]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F24%2Fkukminilbo%2F20210924040818526wszn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>

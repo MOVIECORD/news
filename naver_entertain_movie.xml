@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-23T18:26:49.502Z</updated>
+    <updated>2021-09-23T19:18:51.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상세계로 도망친 외톨이 소녀, 하루 만에 톱스타로 우뚝]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001472440</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001472440"/>
+        <updated>2021-09-23T19:17:48.781Z</updated>
+        <content type="html"><![CDATA[‘포스트 미야자키 하야오’로 불리는 일본 애니메이션계의 거장 호소다 마모루 감독이 우리 일상 속으로 빠르게 스며들고 있는 메타버스 세계의 이야기를 들고 왔다. 마모루 감독의 신작 ‘용과 주근깨 공주’( 사진 )는 일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['노팅힐' 감독 로저 미첼 사망…향년 65세]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005618118</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000763141"/>
         <updated>2021-09-23T08:26:07.582Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 배우 변요한이 ‘리얼 온몸 액션’으로 추석 극장가를 사로잡았다. 변요한이 주연을 맡은 영화 ‘보이스’는 보이스피싱 조직의 덫에 걸려 모든 것을 잃게 된 서준(변요한 분)이 빼앗긴 돈을 되찾기 위해 중국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이완, '영화의 거리'로 성공적 스크린 복귀]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000631048</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000631048"/>
-        <updated>2021-09-23T08:26:07.583Z</updated>
-        <content type="html"><![CDATA['영화의 거리' 주연배우 이완이 성공적인 스크린 복귀를 알렸다. 지난 16일 개봉한 영화 '영화의 거리'는 헤어진 연인인 영화감독 도영(이완)과 로케이션 매니저 선화(한선화)의 끝났는데 끝난 것 같지 않은 럽케이션]]></content>
     </entry>
 </feed>
