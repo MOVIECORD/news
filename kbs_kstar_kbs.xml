@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Sep 2021 01:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 02:35:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“한복이 참 곱소~” 드라마 ‘연모’ 단체포스터]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=161938</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=161938</guid>
+            <pubDate>Thu, 23 Sep 2021 02:34:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=161938">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210923110408_fa8a5479212ae74d39195195fa659b77_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=161938">“한복이 참 곱소~” 드라마 ‘연모’ 단체포스터 </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%20%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%97%B0%EB%AA%A8">월화 드라마 연모</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210923110408_fa8a5479212ae74d39195195fa659b77_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[달리와 감자탕] 김민재X박규영, 정전 사고로 우왕좌왕하다 넘어져 포개지는 엔딩!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=161921</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8B%AC%EB%A6%AC%EC%99%80%20%EA%B0%90%EC%9E%90%ED%83%95">수목드라마 달리와 감자탕</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210921081539_129a2b09e50968a6a93c5eebd22d404c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추석특집 "옛날티비 그땐 그랬지"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=160951</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=160951</guid>
-            <pubDate>Wed, 22 Sep 2021 12:42:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=160951">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210916110532_c0997e00a908770e2a5fbaa20c2fdb2d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=160951">추석특집 "옛날티비 그땐 그랬지"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%84%A4%ED%8A%B9%EC%A7%91%202%EB%B6%80%EC%9E%91%20%EC%98%9B%EB%82%A0%ED%8B%B0%EB%B9%84%20%EA%B7%B8%EB%95%90%20%EA%B7%B8%EB%9E%AC%EC%A7%80">설특집 2부작 옛날티비 그땐 그랬지</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210916110532_c0997e00a908770e2a5fbaa20c2fdb2d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
