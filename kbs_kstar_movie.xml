@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Sep 2021 03:24:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 04:30:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["한국산 오징어의 위엄" ‘오징어 게임’ 미국 넷플릭스 오늘의 TOP]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=161951</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=161951</guid>
+            <pubDate>Thu, 23 Sep 2021 04:28:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=161951">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210923122533_0ec2aa4e16ca2feec738269a058c4d53.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=161951">"한국산 오징어의 위엄" ‘오징어 게임’ 미국 넷플릭스 오늘의 TOP</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210923122533_0ec2aa4e16ca2feec738269a058c4d53.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신예 강해림, 넷플릭스 ‘썸바디’ 주연 캐스팅]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=161926</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=161196">왓챠, 부산국제영화제 ‘왓챠상’ 신설</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210917094003_657e2a3608742e994287c506a916fe2f_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김민하, 애플TV 드라마 '파친코' 캐스팅]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=161125</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=161125</guid>
-            <pubDate>Wed, 22 Sep 2021 12:42:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=161125">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210916164406_6e59530e77a041c7c9885036fb0d182c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=161125">김민하, 애플TV 드라마 '파친코' 캐스팅</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210916164406_6e59530e77a041c7c9885036fb0d182c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

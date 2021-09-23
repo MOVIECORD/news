@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Sep 2021 03:24:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 04:30:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘국민머슴 삼총사’ 진성X손헌수X미키광수 ‘일꾼의 탄생’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=161956</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=161956</guid>
+            <pubDate>Thu, 23 Sep 2021 04:28:59 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=161956">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210923123351_e9fe209bd4b527cf408f71150e806f0e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=161956">‘국민머슴 삼총사’ 진성X손헌수X미키광수 ‘일꾼의 탄생’ </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A0%84%EA%B5%AD%EB%AF%BC%20%EB%AF%BC%EC%9B%90%ED%95%B4%EA%B2%B0%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%9D%BC%EA%BE%BC%EC%9D%98%20%ED%83%84%EC%83%9D">전국민 민원해결 프로젝트 일꾼의 탄생</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210923123351_e9fe209bd4b527cf408f71150e806f0e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“한복이 참 곱소~” 드라마 ‘연모’ 단체포스터]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=161938</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A7%80%EC%8B%9D%20%ED%94%8C%EB%A0%89%EC%8A%A4%EC%87%BC%20%EC%9D%B4%EA%B1%B0%20%EC%95%8C%EC%95%84%3F">지식 플렉스쇼 이거 알아?</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210921164641_5f643890060cda45df0ddf205a463584.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[우희진-안세하-송지원, 우아한 미술관 세계]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=161694</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=161694</guid>
-            <pubDate>Wed, 22 Sep 2021 12:42:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=161694">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210921081539_129a2b09e50968a6a93c5eebd22d404c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=161694">우희진-안세하-송지원, 우아한 미술관 세계</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8B%AC%EB%A6%AC%EC%99%80%20%EA%B0%90%EC%9E%90%ED%83%95">수목드라마 달리와 감자탕</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210921081539_129a2b09e50968a6a93c5eebd22d404c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
