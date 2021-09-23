@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Sep 2021 23:23:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 01:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[곽시양, '홍천기'로 인생 캐릭터 탄생!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=161871</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=161871</guid>
+            <pubDate>Thu, 23 Sep 2021 01:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=161871">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210923091853_36a79597bb11f5892b64842e5fe8c567.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=161871">곽시양, '홍천기'로 인생 캐릭터 탄생!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210923091853_36a79597bb11f5892b64842e5fe8c567.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘너를 닮은 사람’ 고현정, 우아하면서 비밀스러운 정희주]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=161828</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=160985">송승하 ‘원더우먼’ 분노유발자 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210916125420_77e29e4ae58fc9fd840cc6fd34335ded_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이상윤 ‘원더우먼’ 포스터 컷]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=161032</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=161032</guid>
-            <pubDate>Wed, 22 Sep 2021 12:42:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=161032">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210916141358_0ccde1e3b519ec5a488c498c8575c169.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=161032">이상윤 ‘원더우먼’ 포스터 컷</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210916141358_0ccde1e3b519ec5a488c498c8575c169.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
