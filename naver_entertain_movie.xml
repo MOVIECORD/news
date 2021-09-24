@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-24T16:34:39.619Z</updated>
+    <updated>2021-09-24T21:20:07.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강릉국제영화제, 20세기 프랑스 천재 악동 조르주 페렉 특별전]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010735639</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010735639"/>
+        <updated>2021-09-24T21:19:06.881Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 김지은 기자 = 제3회 강릉국제영화제가 20세기 후반 프랑스 문학을 대표하는 가장 중요한 작가 조르주 페렉의 특별전을 개최한다. 조르주 페렉은 20세기 후반 프랑스 문학을 대표하는 작가이자 비평가,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팝업★]'노팅 힐' 로저 미첼 감독 별세..향년 65세 "아주 큰 슬픔"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003479823</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004855953"/>
         <updated>2021-09-24T07:21:03.151Z</updated>
         <content type="html"><![CDATA[배우 류준열의 팬들이 독립영화 후원에 나섰다. 류준열의 생일을 기념해서다. 인디스페이스는 지난 2007년 설립된 국내 최초의 민간독립영화전용관으로 영화 개봉과 기획전, 상영회를 통해 다양한 한국 독립영화를 선보이고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류준열 팬 계정…배우 생일 맞아 독립영화 후원]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000275308</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000275308"/>
-        <updated>2021-09-24T07:21:03.152Z</updated>
-        <content type="html"><![CDATA[[SBS연예뉴스 | 김지혜 기자] 류준열의 팬들이 배우의 생일을 기념하며 독립영화 후원에 나섰다. 팬들은 2021년 9월 25일 류준열의 생일을 기념해 나눔자리 후원으로 인디스페이스 상영관 K5석에 명패를 새기며 독]]></content>
     </entry>
 </feed>
