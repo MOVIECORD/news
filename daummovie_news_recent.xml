@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-09-26T17:24:31.574Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 26 Sep 2021 22:23:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[박스오피스IS] 변요한X김무열 '보이스' 100만 돌파 목전]]></title>
+            <link>https://v.daum.net/v/20210927072203966</link>
+            <guid>https://v.daum.net/v/20210927072203966</guid>
+            <pubDate>Sun, 26 Sep 2021 22:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '보이스(김선 김곡 감독)'가 100만 돌파를 넘보고 있다. 영화진흥위원회 영화관입장권통합전산망에 따르면, '보이스'는 지난 26일 하루 동안 6만 9840명의 관객을 동원했다. 누적 관객수는 94만 4020명이다. 지난 15일 개봉해 12일 연속 박스오피스 1위 자리를 지켰다. 개봉 후 맞은 두  번째 주말에도 양일간 각각 약 7만 명의 관]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F27%2Filgansports%2F20210927072205719orso.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[변요한X김무열 '보이스', 12일 연속 1위..누적 94만 [★무비차트]]]></title>
+            <link>https://v.daum.net/v/20210927070946818</link>
+            <guid>https://v.daum.net/v/20210927070946818</guid>
+            <pubDate>Sun, 26 Sep 2021 22:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 강민경 기자] /사진=영화 '보이스' 포스터영화 '보이스'가 12일 연속 박스오피스 1위 자리를 지켰다. 27일 영진위 영화관 입장권 통합전산망에 따르면 '보이스'는 지난 26일 6만 9841명을 동원했다. 누적관객수는 94만 4021명이다. 2위는 '기적'이 차지했다. '기적'은 3만 2448명을 불러모았다. 누적관객수는 44만 3573명을 기]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F27%2Fstarnews%2F20210927070947591owmr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[주말 1위 '보이스' 100만 돌파 눈앞..94만↑[박스오피스]]]></title>
+            <link>https://v.daum.net/v/20210927050830540</link>
+            <guid>https://v.daum.net/v/20210927050830540</guid>
+            <pubDate>Sun, 26 Sep 2021 22:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '보이스'가 100만 돌파를 앞두고 있다. 9월 27일 영화진흥위원회 통합전산망 집계에 따르면 지난 주말 기간(24일~26일) 영화 '보이스'(감독 김선, 김곡)가 18만2,365명을 모으며 전체 박스오피스 1위를 차지했다. 누적 관객 수 94만4,021명으로, 곧 100만 돌파를 앞뒀다. 같은 기간 2위는 영화 '기적'(감독 이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F27%2Fnewsen%2F20210927050832811bump.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[어린 시절 엄마를 친구로 만나.. 두 소녀의 특별한 비밀과 감동]]></title>
+            <link>https://v.daum.net/v/20210927040731124</link>
+            <guid>https://v.daum.net/v/20210927040731124</guid>
+            <pubDate>Sun, 26 Sep 2021 22:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[과거로 돌아가 어린 시절 엄마와 또래 친구로 만난다면, 가끔 이해되지 않고 멀게만 느껴진 엄마와 둘도 없는 친구가 되지 않을까. 프랑스 출신 셀린 시아마 감독의 영화 ‘쁘띠 마망’은 이런 상상에서 출발한다. 8살 소녀 넬리(조세핀 산스)는 외할머니의 유품을 정리하기 위해 가족과 함께 시골집에 내려온다. 호기심 어린 눈으로 엄마와 할머니의 흔적들을 살펴보지만]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202109%2F27%2Fkukminilbo%2F20210927040733196yxdw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
