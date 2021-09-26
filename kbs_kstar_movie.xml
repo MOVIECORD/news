@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Sep 2021 21:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Sep 2021 03:24:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연상호 감독 '지옥' 11월 넷플릭스 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=162393</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=162393</guid>
+            <pubDate>Sun, 26 Sep 2021 03:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=162393">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210926080615_74082bb1943e0bc7100cd9412ae51407.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=162393">연상호 감독 '지옥' 11월 넷플릭스 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210926080615_74082bb1943e0bc7100cd9412ae51407.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[조정석을 위해 준비했어 ‘SNL코리아’]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=162332</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=161635">'오징어 게임'의 새벽, 정호연의 연기 신고식</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210920175738_c0d21fbc66bc218da264d0682a8f59c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유오성X장혁, ‘강릉’ 격돌]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=160833</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=160833</guid>
-            <pubDate>Wed, 22 Sep 2021 12:42:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=160833">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210916084622_c8cdf13c693ff6fd705c88358c09ec14_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=160833">유오성X장혁, ‘강릉’ 격돌</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210916084622_c8cdf13c693ff6fd705c88358c09ec14_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

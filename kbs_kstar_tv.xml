@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Sep 2021 21:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Sep 2021 03:24:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이하늬, '조폭이야, 검사야?']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=162416</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=162416</guid>
+            <pubDate>Sun, 26 Sep 2021 03:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=162416">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210926083748_824bedf3da3c427e63b13cccbcd7ab03.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=162416">이하늬, '조폭이야, 검사야?' </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210926083748_824bedf3da3c427e63b13cccbcd7ab03.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신민아의 남자친구는 누구? 김선호VS이상이, 뜻밖의 상견례]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=162288</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=161442">진서연, “원더우먼 천성혜 파이팅”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210918093206_4331afc86b01ae97dfcc36a646a8104d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키, '식스센스2' 해결사로 나선다]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=161339</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=161339</guid>
-            <pubDate>Wed, 22 Sep 2021 12:42:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=161339">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210917135259_74095e4f7f60c001568e444ec44e6a3a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=161339">키, '식스센스2' 해결사로 나선다</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210917135259_74095e4f7f60c001568e444ec44e6a3a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
