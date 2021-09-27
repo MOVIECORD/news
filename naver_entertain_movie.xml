@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-27T10:26:36.415Z</updated>
+    <updated>2021-09-27T11:20:43.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[백종원 “술은 하나의 음식…이젠 주량말고 주종 말했으면”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001473050</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001473050"/>
+        <updated>2021-09-27T11:19:17.191Z</updated>
+        <content type="html"><![CDATA[‘집밥백선생’ ‘스트리트푸드파이터’ 등으로 음식 문화를 알려왔던 백종원이 한국의 전통주 문화를 들고 각계각층의 유명인사를 만나 술잔을 기울인다. 이 모습은 글로벌 동영상 서비스 넷플릭스를 통해 전 세계로 퍼진다. 백]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[맷 데이먼 ‘스틸워터’, 10월6일 개봉]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000935149</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004608891"/>
         <updated>2021-09-27T08:26:53.080Z</updated>
         <content type="html"><![CDATA[배우 마동석이 헐리우드 영화 ‘이터널스’의 개봉을 앞두고 본격적인 홍보에 나섰다. 지난 24일 마동석은 그가 출연하는 마블 ‘이터널스’ 개봉을 앞두고, 디즈니와 홍보 영상 및 인터뷰를 진행했다. 공개된 사진 속 마동]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블룸버그 "'오징어 게임' 등 韓콘텐츠 주가 폭등..할리우드 위협"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002991636</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002991636"/>
-        <updated>2021-09-27T08:26:53.085Z</updated>
-        <content type="html"><![CDATA[넷플릭스 시리즈 '오징어 게임'이 한국 드라마 최초로 미국 넷플릭스 1위, 월드 랭킹 1위(플릭스 패트롤 기준)에 이름을 올리는 등 연일 화제를 모으자 한국 콘텐츠가 할리우드에 심각한 위협이 되고 있다는 보도가 나왔]]></content>
     </entry>
 </feed>
