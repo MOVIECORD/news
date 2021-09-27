@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-27T14:22:44.335Z</updated>
+    <updated>2021-09-27T20:24:36.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[13일 연속 1위 '보이스' 100만 돌파 눈앞에[박스오피스]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000492431</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000492431"/>
+        <updated>2021-09-27T20:23:34.580Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '보이스'가 13일 연속 박스오피스 1위를 차지한 가운데, 100만 돌파를 앞두고 있다. 9월 28일 영화진흥위원회 통합전산망 집계에 따르면 27일 영화 '보이스'(감독 김선, 김곡)가 2만1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백종원 “술은 하나의 음식…이젠 주량말고 주종 말했으면”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001473050</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=052&amp;aid=0001645055"/>
         <updated>2021-09-27T08:26:53.078Z</updated>
         <content type="html"><![CDATA[올해 최고의 기대작 '듄'이 2주 만에 한화 900억 원 흥행 수익 달성에 힘 입어 속편 제작에 청신호가 켜졌다. 드니 빌뇌브 감독이 개봉 전부터 계획해왔던 속편 제작에도 청신호가 켜졌다. 이에 10월 20일, 한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마동석, 안젤리나 졸리와 어깨 나란히…'이터널스' 홍보요정]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004608891</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004608891"/>
-        <updated>2021-09-27T08:26:53.080Z</updated>
-        <content type="html"><![CDATA[배우 마동석이 헐리우드 영화 ‘이터널스’의 개봉을 앞두고 본격적인 홍보에 나섰다. 지난 24일 마동석은 그가 출연하는 마블 ‘이터널스’ 개봉을 앞두고, 디즈니와 홍보 영상 및 인터뷰를 진행했다. 공개된 사진 속 마동]]></content>
     </entry>
 </feed>
