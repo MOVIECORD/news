@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Sep 2021 02:34:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Sep 2021 08:28:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김지수의 냉랭한 눈빛 '하이클래스']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=162621</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=162621</guid>
+            <pubDate>Mon, 27 Sep 2021 08:26:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=162621">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210927131854_d2c3bc27c4c095bc05da212865d58d44.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=162621">김지수의 냉랭한 눈빛 '하이클래스'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210927131854_d2c3bc27c4c095bc05da212865d58d44.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['인간실격' 류준열, 마음의 위로 전하는 호연]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=162542</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=161555">'하이클래스' 국제학교 주니어 4인방!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210919190926_96cfa2a026d5e7f8cbc60827b98efb28.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한효주X박형식X조우진, 다함께 “해피니스~”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=161326</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=161326</guid>
-            <pubDate>Wed, 22 Sep 2021 12:42:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=161326">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210917133313_3ee383baa33951d9b4f3d5079d7c13c2.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=161326">한효주X박형식X조우진, 다함께 “해피니스~”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210917133313_3ee383baa33951d9b4f3d5079d7c13c2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

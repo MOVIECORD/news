@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Sep 2021 02:34:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Sep 2021 08:28:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[제작발표회] 백종원의 인생 술자리 '백스피릿']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=162612</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=162612</guid>
+            <pubDate>Mon, 27 Sep 2021 08:26:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=162612">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210927115443_20740f199d9ec4cc854beeb617c0e6c2.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=162612">[제작발표회] 백종원의 인생 술자리 '백스피릿'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210927115443_20740f199d9ec4cc854beeb617c0e6c2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] 창극 패왕별희 “경극과 창극이 만나다 공연이 극장을 만나다”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=162577</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=161725">BIFF 프로그래머 추천 영화 '플래쉬포워드의 변화' </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210921164101_38c6fa9b5f4d4199ffd7ddc6a8b698ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부녀지간 안성기-서현진, 영화 ‘카시오페아’ 촬영시작]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=160826</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=160826</guid>
-            <pubDate>Wed, 22 Sep 2021 12:42:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=160826">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210916084102_d57df9075a1a964259e84ae9f7f05379.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=160826">부녀지간 안성기-서현진, 영화 ‘카시오페아’ 촬영시작</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210916084102_d57df9075a1a964259e84ae9f7f05379.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
