@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 06:28:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 08:28:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 황동혁 감독 "'오징어 게임' 열풍, 어안이 벙벙할 정도로 놀라운 일"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=162855</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=162855</guid>
+            <pubDate>Tue, 28 Sep 2021 08:25:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=162855">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210928163321_cf58b5d518c06e68ccb0cd60e0910079.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=162855">[인터뷰] 황동혁 감독 "'오징어 게임' 열풍, 어안이 벙벙할 정도로 놀라운 일"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210928163321_cf58b5d518c06e68ccb0cd60e0910079.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[BIFF] 레오 까락스 감독, 부산국제영화제 게스트]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=162801</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=161844">정지우 감독 + 김영광 넷플릭스  추적스릴러 ‘썸바디’</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210923084001_9d85289a120c3f7afc42cc177798b001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“명예를 위해” 리들리 스콧, 맷 데이먼 영화 ‘라스트 듀얼: 최후의 결투’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=161834</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=161834</guid>
-            <pubDate>Thu, 23 Sep 2021 01:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=161834">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210923082823_b8786bb52f9a57a11d55ef1a644f1a3a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=161834">“명예를 위해” 리들리 스콧, 맷 데이먼 영화 ‘라스트 듀얼: 최후의 결투’</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210923082823_b8786bb52f9a57a11d55ef1a644f1a3a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
