@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 08:28:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 15:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] 판문점  '뉴스타파, 미국 문서기록청, 그리고 한국전쟁'  (DMZ Docs 상영작)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=162863</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=162863</guid>
+            <pubDate>Tue, 28 Sep 2021 15:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=162863">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210928174127_dd2676ebdb83f68568bb1384f7930a27.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=162863">[리뷰] 판문점  '뉴스타파, 미국 문서기록청, 그리고 한국전쟁'  (DMZ Docs 상영작) </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210928174127_dd2676ebdb83f68568bb1384f7930a27.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 황동혁 감독 "'오징어 게임' 열풍, 어안이 벙벙할 정도로 놀라운 일"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=162855</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=161886">[넷플릭스] 어둠 속으로 시즌1&amp;2 “비상선언, 태양을 피하는 방법 (Into the Night)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210923092223_b31f0d79d9f8c15f40be1a31a967b584.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[정지우 감독 + 김영광 넷플릭스  추적스릴러 ‘썸바디’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=161844</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=161844</guid>
-            <pubDate>Thu, 23 Sep 2021 01:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=161844">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210923084001_9d85289a120c3f7afc42cc177798b001.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=161844">정지우 감독 + 김영광 넷플릭스  추적스릴러 ‘썸바디’</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210923084001_9d85289a120c3f7afc42cc177798b001.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
