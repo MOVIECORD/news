@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-09-30T18:27:36.076Z</updated>
+    <updated>2021-09-30T19:20:05.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘007 노타임 투 다이’ 개봉 첫날 10만명 관람]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001474002</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001474002"/>
+        <updated>2021-09-30T19:18:31.284Z</updated>
+        <content type="html"><![CDATA[액션 블록버스터 ‘007 노 타임 투 다이’가 개봉 첫날 10만명이 넘는 관객을 동원하며 박스오피스 1위를 차지했다. 30일 영화진흥위원회 영화관입장권 통합전산망에 따르면 전날 오후 3시 세계 최초로 한국에서 개봉한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘귀멸의 칼날: 남매의 연’ 11월 10일 개봉 확정]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000935937</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002328081"/>
         <updated>2021-09-30T14:23:31.858Z</updated>
         <content type="html"><![CDATA[[현장] 영화 기자간담회 서스펜스 스릴러라는 장르에 걸맞게 러닝타임 내내 관객의 심장을 쫄깃하게 만드는 영화 이 오는 10월 6일 개봉한다. 차별과 편견이라는 사회적 화두를 던지며 문제작으로 떠오른 이 영화는 조현병]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아시아랩, 한국판 '색,계' 영화 '시에스타' 배우 글로벌 오디션 개최]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0003968138</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0003968138"/>
-        <updated>2021-09-30T14:23:31.858Z</updated>
-        <content type="html"><![CDATA[[서울경제] 아시아랩이 전 세계를 대상으로 대규모 글로벌 오디션을 개최한다. 28일 아시아랩 측은 영화 ‘시에스타’의 여주인공(극중 나이 21세) 캐스팅을 위한 오디션을 진행한다고 밝혔다. ‘시에스타’는 스페인 바르]]></content>
     </entry>
 </feed>
