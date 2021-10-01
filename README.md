@@ -22,11 +22,15 @@ https://moviecord.github.io/news/naver_entertain_movie.xml
 - 매거진  
 - 브런치   
 
-## [KBS 연예](https://github.com/MOVIECORD/kbs)
+## [KBS연예](https://github.com/MOVIECORD/kbs)
   ### 스타★연예
   - 영화: https://moviecord.github.io/news/kbs_kstar_movie.xml  
   - TVs: https://moviecord.github.io/news/kbs_kstar_tv.xml  
   - KBS: https://moviecord.github.io/news/kbs_kstar_kbs.xml  
+
+## iMBC연예
+- 영화: https://moviecord.github.io/news/mbc_enews_movie.xml  
+
 ---
 
 ▶️ [연예 뉴스로 이동하기](https://github.com/KPOPCORD/news)
