@@ -5,6 +5,7 @@ entrySelector = "ul.slice-grid3 li"
 titleSelector = "span.max-progtit"
 linkSelector = "a"
 imageSelector = "span.img-thum span.img-center img"
+waitForSelector = ".slice-grid3"
 
 [kbs_kstar_tv]
 title = "KBS연예 ─ TVs"
@@ -13,6 +14,7 @@ entrySelector = "ul.slice-grid3 li"
 titleSelector = "span.max-progtit"
 linkSelector = "a"
 imageSelector = "span.img-thum span.img-center img"
+waitForSelector = ".slice-grid3"
 
 [kbs_kstar_kbs]
 title = "KBS연예 ─ KBS"
@@ -21,6 +23,7 @@ entrySelector = "ul.slice-grid3 li"
 titleSelector = "span.max-progtit"
 linkSelector = "a"
 imageSelector = "span.img-thum span.img-center img"
+waitForSelector = ".slice-grid3"
 
 [mbc_enews_movie]
 title = "MBC 연예 ─ 영화"
