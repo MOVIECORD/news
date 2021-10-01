@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 08:28:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 09:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰&인터뷰] 조지아, ‘소리 없는 아우성’ (제이 박 감독)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=163387</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=163387</guid>
+            <pubDate>Fri, 01 Oct 2021 09:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=163387">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211001102222_06d6532b121c6e4295e281ba82d6cabc.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=163387">[리뷰&amp;인터뷰] 조지아, ‘소리 없는 아우성’ (제이 박 감독)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8F%85%EB%A6%BD%EC%98%81%ED%99%94%EA%B4%80">독립영화관</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211001102222_06d6532b121c6e4295e281ba82d6cabc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홍자-에일리가 재탄생시키는 전율의 무대 '불후의 명곡']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=163482</link>
@@ -343,24 +361,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%91%9C%EB%A6%AC%EB%B6%80%EB%8F%99">표리부동</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210930095934_19cebbcf89129af9c7f4ad0f3be48137_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[달리와 감자탕] 썸과 쌈을 오가는 ‘김민재X박규영’ 핑크빛 로맨스 본격 시동!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=163200</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=163200</guid>
-            <pubDate>Thu, 30 Sep 2021 01:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=163200">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210930094322_7eb27741ad9c3e4834420667af8a98d3_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=163200">[달리와 감자탕] 썸과 쌈을 오가는 ‘김민재X박규영’ 핑크빛 로맨스 본격 시동!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8B%AC%EB%A6%AC%EC%99%80%20%EA%B0%90%EC%9E%90%ED%83%95">수목드라마 달리와 감자탕</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210930094322_7eb27741ad9c3e4834420667af8a98d3_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
