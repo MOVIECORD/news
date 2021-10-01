@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 07:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 08:28:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아파트에 고립된 주민들의 생존기 '해피니스']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=163464</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=163464</guid>
+            <pubDate>Fri, 01 Oct 2021 08:26:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=163464">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211001164001_e3d54a432f72845e33c8c3a3b745423f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=163464">아파트에 고립된 주민들의 생존기 '해피니스'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211001164001_e3d54a432f72845e33c8c3a3b745423f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['구경이' 이영애 "너 왜 나 아는 척 안 하니?"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=163377</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=161871">곽시양, '홍천기'로 인생 캐릭터 탄생!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210923091853_36a79597bb11f5892b64842e5fe8c567.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘너를 닮은 사람’ 고현정, 우아하면서 비밀스러운 정희주]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=161828</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=161828</guid>
-            <pubDate>Wed, 22 Sep 2021 23:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=161828">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210923082010_ec366e4c0d3ad246539a5c1b4fa74aa8.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=161828">‘너를 닮은 사람’ 고현정, 우아하면서 비밀스러운 정희주</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210923082010_ec366e4c0d3ad246539a5c1b4fa74aa8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
