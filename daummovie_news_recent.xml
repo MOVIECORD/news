@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-10-01T18:27:45.271Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 01 Oct 2021 19:20:33 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["작은 영화는 내가 원하는 방식대로 연출할 수 있어 좋아"]]></title>
+            <link>https://v.daum.net/v/20211002040757078</link>
+            <guid>https://v.daum.net/v/20211002040757078</guid>
+            <pubDate>Fri, 01 Oct 2021 19:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19로 영화계도 힘든 시기를 보내고 있다. 제작 환경이 나빠지고 비용은 늘어나는데 극장을 찾는 사람은 줄었다. 독립영화는 투자와 수익 등 모든 면에서 상업영화보다 훨씬 더 힘들다. 박홍민(39) 감독이 내놓은 독립영화 ‘그대 너머에’는 그래서 더 의미 있다. 박 감독을 지난달 7일 서울 중구 공유오피스 로컬스티치 약수에서 만났다. ‘그대 너머에’는 박]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F02%2Fkukminilbo%2F20211002040759050eoys.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>

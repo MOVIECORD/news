@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-01T18:27:45.317Z</updated>
+    <updated>2021-10-01T19:20:33.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“작은 영화는 내가 원하는 방식대로 연출할 수 있어 좋아”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001474149</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001474149"/>
+        <updated>2021-10-01T19:18:48.709Z</updated>
+        <content type="html"><![CDATA[코로나19로 영화계도 힘든 시기를 보내고 있다. 제작 환경이 나빠지고 비용은 늘어나는데 극장을 찾는 사람은 줄었다. 독립영화는 투자와 수익 등 모든 면에서 상업영화보다 훨씬 더 힘들다. 박홍민(39) 감독이 내놓은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[춘천SF영화제, 개막식 개최…방역지침에 따라 대면행사 관객과의 대화(GV)는 취소]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=016&amp;aid=0001894402</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010748151"/>
         <updated>2021-10-01T10:25:47.439Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]고다연 인턴 기자 = 할리우드 스타 스칼릿 조핸슨이 디즈니와 마블 영화 '블랙위도우' 출연료 관련 소송을 취하하기로 합의했다. 1일 외신에 따르면, 조핸슨은 지난 7월 디즈니 자회사 마블에서 주연으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['007 노 타임 투 다이' 50개국 개봉...세계적 흥행 예고]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010748135</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010748135"/>
-        <updated>2021-10-01T09:22:36.911Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]고다연 인턴 기자 = 영화 '007 노 타임 투 다이'가 자국인 영국에서 성공적인 오프닝 성적을 기록했다. 다니엘 크레이그의 마지막 영화 '007 노 타임 투 다이'가 지난 29일 한국에서 최초 개봉]]></content>
     </entry>
 </feed>
