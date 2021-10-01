@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-01T01:17:15.728Z</updated>
+    <updated>2021-10-01T01:19:06.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빈센조' 김윤혜, 공포영화 '더씬' 주인공 캐스팅]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000493861</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000493861"/>
+        <updated>2021-10-01T01:17:30.272Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 박수인 기자] 김윤혜가 ‘더씬’ 주인공으로 확정됐다. 영화 ‘더씬’은 오컬트 호러물로 흥행과 예술성을 모두 겸비한 ‘아트버스터’ 작품으로 국내 영화제는 물론 시체스와 브뤼셀 국제 영화제를 목표로 기획되됐다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제26회 부산국제영화제, 네이버 시리즈온·유튜브 영화 단편영화 상영]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001354812</id>
@@ -171,12 +178,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003784293"/>
         <updated>2021-10-01T00:55:52.491Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조지영 기자] SF 공포 스릴러 영화 '희수'(최상열 감독, KBS 한국방송 제작)가 10월 OTT 개봉을 확정하고, 포스터 2종과 티저 예고편을 공개해 이목을 집중시킨다. '희수'는 애틋한 가족애가 담]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전소민X박성훈 ‘희수’, 10월 OTT 개봉 확정]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004858837</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004858837"/>
-        <updated>2021-10-01T00:55:52.499Z</updated>
-        <content type="html"><![CDATA[영화 ‘희수’(감독 최상열)가 10월 OTT 개봉을 확정지었다. 섬뜩하면서도 가슴 저리는 SF 공포 스릴러 영화 ‘희수’는 여섯 살 난 딸을 교통사고로 잃은 부모가 상실감에서 벗어나지 못한 채 하루하루를 살아가다 V]]></content>
     </entry>
 </feed>
