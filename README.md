@@ -19,6 +19,8 @@ https://moviecord.github.io/news/naver_entertain_movie.xml
   **영화 뉴스**  
 - 최신: https://moviecord.github.io/news/daummovie_news_popular.xml  
 - 많이본: https://moviecord.github.io/news/daummovie_news_recent.xml  
+  **매거진**
+  **브런치**
 
 ## [KBS 연예](https://github.com/MOVIECORD/kbs)
   ### 스타★연예
