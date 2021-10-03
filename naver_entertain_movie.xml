@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-03T08:27:13.654Z</updated>
+    <updated>2021-10-03T09:23:04.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제26회 BIFF, 네이버 시리즈온·유튜브 영화서 단편 상영]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003558852</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003558852"/>
+        <updated>2021-10-03T09:21:48.877Z</updated>
+        <content type="html"><![CDATA[제26회 부산국제영화제가 와이드 앵글 섹션 경쟁 부문에 공식 초청된 단편영화 22편을 온라인으로 상영한다. 부산국제영화제가 네이버, 유튜브와 협업을 진행한다. 온라인으로 상영되는 총 22편의 단편영화는 부산국제영화제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임권택 감독, 부국제 ‘올해의 亞영화인상’ 선정]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000593423</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003558792"/>
         <updated>2021-10-03T02:33:46.974Z</updated>
         <content type="html"><![CDATA[제임스 본드의 마지막 미션을 그린 '007 노 타임 투 다이'가 40만 관객을 돌파했다. 3일 영화진흥위원회 영화관 입장권 통합전산망에 따르면 지난달 29일 전 세계 최초로 개봉한 '007 노 타임 투 다이'(감독]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오징어 게임' 황동혁 감독이 시즌2를 고민하는 이유 [★비하인드]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002993243</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002993243"/>
-        <updated>2021-10-03T02:33:46.977Z</updated>
-        <content type="html"><![CDATA[넷플릭스 오리지널 한국 시리즈 '오징어 게임'이 저 세계를 사로잡았다. 넷플릭스가 서비스 되는 83개국 중 82개국에서 1위 콘텐츠에 오른 가운데 시즌2를 향한 기대도 뜨겁다. '오징어 게임'의 각본을 쓰고 연출을]]></content>
     </entry>
 </feed>
