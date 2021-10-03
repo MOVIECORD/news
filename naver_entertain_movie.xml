@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-03T07:22:43.774Z</updated>
+    <updated>2021-10-03T08:27:13.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임권택 감독, 부국제 ‘올해의 亞영화인상’ 선정]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000593423</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000593423"/>
+        <updated>2021-10-03T08:25:36.146Z</updated>
+        <content type="html"><![CDATA[제26회 부산국제영화제 '올해의 아시아영화인상(The Asian Filmmaker of the Year)' 수상자로 임권택 감독이 선정됐다. 제26회 부산국제영화제는 ‘올해의 아시아영화인상’ 수상자로 한국 영화계의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘007 노 타임 투 다이’ 박스오피스 1위…제작비 2962억의 볼거리]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000593418</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002993243"/>
         <updated>2021-10-03T02:33:46.977Z</updated>
         <content type="html"><![CDATA[넷플릭스 오리지널 한국 시리즈 '오징어 게임'이 저 세계를 사로잡았다. 넷플릭스가 서비스 되는 83개국 중 82개국에서 1위 콘텐츠에 오른 가운데 시즌2를 향한 기대도 뜨겁다. '오징어 게임'의 각본을 쓰고 연출을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임권택 감독, 부국제 ‘올해의 아시아영화인상’ 수상]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=021&amp;aid=0002487467</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=021&amp;aid=0002487467"/>
-        <updated>2021-10-03T01:17:01.739Z</updated>
-        <content type="html"><![CDATA[임권택 감독이 제26회 부산국제영화제 ‘올해의 아시아영화인상(The Asian Filmmaker of the Year)’ 수상자로 선정됐다. 부산국제영화제는 3일 “‘올해의 아시아영화인상’ 수상자로 한국 영화계의 살]]></content>
     </entry>
 </feed>
