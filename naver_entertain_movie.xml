@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-03T20:24:02.569Z</updated>
+    <updated>2021-10-03T21:21:08.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['보이스' 김선 감독 "보이스피싱당한 분들 자책 말길" [N인터뷰](종합)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005635577</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005635577"/>
+        <updated>2021-10-03T21:19:53.259Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 영화 '보이스'(감독 김선, 김곡)는 가족과 동료들의 돈 30억원을 찾기 위해 보이스피싱 조직을 추적하기 시작한 전직 형사 출신 현장작업반장 서준의 추적기를 그린 범죄 액션 영화다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올해 부국제 오프라인서 만날 기대작들 [N초점]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005635542</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002993245"/>
         <updated>2021-10-03T02:33:46.967Z</updated>
         <content type="html"><![CDATA['유포리아' '오피스' '홈랜드' 등이 웨이브를 통해 한국에서 독점 공개돼 연일 화제를 모으고 있다. 그동안 한국에서 좀처럼 볼 수 없었던 화제의 미국 드라마들이 한국 OTT서비스 웨이브에서 공개되면서 유료 가입자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다니엘 크레이그의 마지막 007…'007 노타임 투 다이' 40만 돌파 [Nbox]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005634720</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005634720"/>
-        <updated>2021-10-03T02:33:46.973Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 윤효정 기자 = '007 노 타임 투 다이'(감독 캐리 후쿠나가)가 3일째 박스오피스 1위를 지키고 있다. 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '007 노 타임 투 다이'는 토요일인 지]]></content>
     </entry>
 </feed>
