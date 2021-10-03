@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Oct 2021 22:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Oct 2021 23:25:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안효섭 對 공명, ‘마왕 깨어난 밤 무슨 일 있었나?’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=163548</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=163548</guid>
+            <pubDate>Sun, 03 Oct 2021 23:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=163548">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211002105314_d95b94fa1d18257c6023f9525d54f095.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=163548">안효섭 對 공명, ‘마왕 깨어난 밤 무슨 일 있었나?’</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211002105314_d95b94fa1d18257c6023f9525d54f095.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이상엽 X 러블리즈 미주, "놀라운 토요일"  출격]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=163571</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=162100">이준호-이세영, 세기의 궁중로맨스 ‘옷소매 붉은 끝동’</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210924083858_57d3bf3755b5bfa0ede12279aa85adaf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전지현-주지훈 레인저 미스터리 ‘지리산’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=162093</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=162093</guid>
-            <pubDate>Fri, 24 Sep 2021 01:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=162093">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210924083416_4b596cafe0c49aea22a5adb99f544c76.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=162093">전지현-주지훈 레인저 미스터리 ‘지리산’</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210924083416_4b596cafe0c49aea22a5adb99f544c76.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
