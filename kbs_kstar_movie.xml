@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 01:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Oct 2021 02:38:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 정호연, 넷플릭스 프린세스]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=163840</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=163840</guid>
+            <pubDate>Mon, 04 Oct 2021 02:35:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=163840">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211004110532_1d770e131d2634c15aba29ba814c58c5.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=163840">[인터뷰] 정호연, 넷플릭스 프린세스 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211004110532_1d770e131d2634c15aba29ba814c58c5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 '스위트홈' '무브 투 헤븐'  AACA 노미네이트]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=163823</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=163078">[인터뷰] 김선 감독 “사회악, 장르물을 계속 찍을 것이다. 물론, 쌍둥이 형과 함께!” (영화 보이스)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210929165619_93d9f0c6a26ec0b3fc1f45281c9122a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 다니엘 크레이그, 레아 세이두, 캐리 후쿠나가 감독 “007 노 타임 투 다이”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=163052</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=163052</guid>
-            <pubDate>Thu, 30 Sep 2021 01:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=163052">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210929142224_a9172c331bde90ccb1d0e34f04c5b75a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=163052">[인터뷰] 다니엘 크레이그, 레아 세이두, 캐리 후쿠나가 감독 “007 노 타임 투 다이”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210929142224_a9172c331bde90ccb1d0e34f04c5b75a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
