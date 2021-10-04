@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-04T02:38:45.063Z</updated>
+    <updated>2021-10-04T03:26:19.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['007 노 타임 투 다이' 대작 영화 치고는 흥행 약하네]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002328323</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002328323"/>
+        <updated>2021-10-04T03:24:33.962Z</updated>
+        <content type="html"><![CDATA[[박스오피스] 비수기에 코로나19로 심리적 위축 작용하는 듯 ▲ &lt;007 노 타임 투 다이&gt; 한 장면 ⓒ 유니버설픽쳐스 지난 9월 29일 개봉한 &lt; 007 노 타임 투 다이 &gt;가 전체 스크린을 장악하며 독주를 이어가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 정호연, 넷플릭스 프린세스]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000039329</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002993411"/>
         <updated>2021-10-04T01:17:48.041Z</updated>
         <content type="html"><![CDATA[넷플릭스 오리지널 시리즈 '오징어 게임'의 인기가 뜨겁다. 지난달 17일 공개 후 2주가 훌쩍 지났음에도 작품에 대한 관심이 여전히 높다. '오징어 게임'은 넷플릭스가 서비스되는 83개국에서 1위를 모두 기록했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허성태, 8일 '영스트리트' 출연..'오징어게임' 흥행 후 공식 행보]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002993410</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0002993410"/>
-        <updated>2021-10-04T01:17:48.047Z</updated>
-        <content type="html"><![CDATA[배우 허성태가 SBS 라디오 '웬디의 영스트리트'에 출연한다. 소속사 한아름컴퍼니는 4일 보도자료를 통해 "허성태가 SBS 파워FM '웬디의 영스트리트'에 출연한다"고 밝혔다. 소속사에 따르면 허성태는 오는 8일 방]]></content>
     </entry>
 </feed>
