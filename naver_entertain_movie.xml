@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-04T10:27:36.159Z</updated>
+    <updated>2021-10-04T11:21:31.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임권택, 부산국제영화제 ‘亞 영화인상’]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003625096</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003625096"/>
+        <updated>2021-10-04T11:19:48.921Z</updated>
+        <content type="html"><![CDATA[아시아영화 산업·문화 발전 공로 6일부터 임권택박물관 연장 개관 부산국제영화제는 ‘올해의 아시아영화인상’ 수상자로 임권택(85·사진) 감독을 선정했다고 4일 밝혔다. 올해의 아시아영화인상은 매년 아시아영화 산업과 문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제26회 BIFF, 오픈토크 '영화·드라마 만들기' 개최…장항준·김성훈·한준희 감독 참석]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001355732</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010750001"/>
         <updated>2021-10-04T02:37:02.567Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스] 강진아 기자 = 액션 블록버스터 영화 '007 노 타임 투 다이'가 개봉 첫 주말 박스오피스 1위를 지키며 누적 관객 50만명을 돌파했다. 4일 영화진흥위원회 영화관입장권 통합전산망에 따르면 '007]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘007 노 타임 투 다이’ 개봉 첫주말 압도적 박스오피스 1위, “흥행 신드롬”]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003541866</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003541866"/>
-        <updated>2021-10-04T02:37:02.569Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]다니엘 크레이그의 마지막 액션 투혼이 빛을 발했다. 대한민국 흥행 저력을 보여주고 있는 액션 블록버스터 ‘007 노 타임 투 다이’(수입/배급: 유니버설 픽쳐스)가 개봉 첫 주말 박스오피]]></content>
     </entry>
 </feed>
