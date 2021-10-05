@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-05T15:07:14.386Z</updated>
+    <updated>2021-10-05T16:36:33.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[DA:투데이] OTT 품은 ‘부산국제영화제’, 개막…홍상수·김민희 불참 (종합)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000936676</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000936676"/>
+        <updated>2021-10-05T16:35:11.466Z</updated>
+        <content type="html"><![CDATA[제26회 부산국제영화제(BIFF)가 오늘(5일) 개막한다. 6일부터 오는 15일까지 제26회 부산국제영화제가 열흘간 개최된다. 이번 영화제는 ‘온 스크린’ 섹션을 신설해 OTT(온라인 동영상 스트리밍 서비스) 콘텐츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부산국제영화제, 새로운 기대 속 개막…신설 섹션 '눈길']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000109192</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=052&amp;aid=0001648507"/>
         <updated>2021-10-05T10:25:52.216Z</updated>
         <content type="html"><![CDATA[쿠키 영상은 여러모로 놀라움을 안기며 소니와 마블이 함께 만들어갈 다음 행보에 대한 기대감을 높였지만, 영화는 그 이상의 매력을 찾기 어려워 보였다. 3년 만에 속편으로 돌아온 '베놈2: 렛 데어 비 카니지'(이하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[14살 친구들이 '세상의 끝'에서 잡은 두 마리 토끼]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002328474</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002328474"/>
-        <updated>2021-10-05T10:25:52.228Z</updated>
-        <content type="html"><![CDATA[[신작 영화 리뷰] &lt;종착역&gt; ▲ 영화 &lt;종착역&gt; 포스터.？ ⓒ 필름다빈 중학교 1학년 14살 동갑내기 친구들 시연, 연우, 소정, 송희는 사진 동아리 '빛나리' 부원들이다. 하지만 그들에게 동아리는 큰 의미를 지니]]></content>
     </entry>
 </feed>
