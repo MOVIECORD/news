@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 07:23:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 10:27:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한다감이 간다 ‘국가대표 와이프’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=164181</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164181</guid>
+            <pubDate>Tue, 05 Oct 2021 10:25:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164181">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005162555_1f2fabf676c2ee040b021eba74371945.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164181">한다감이 간다 ‘국가대표 와이프’</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EA%B5%AD%EA%B0%80%EB%8C%80%ED%91%9C%20%EC%99%80%EC%9D%B4%ED%94%84">일일연속극 국가대표 와이프</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211005162555_1f2fabf676c2ee040b021eba74371945.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진영-정수정 재회?  '경찰수업' 오늘 밤 최종회]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=164162</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EA%B5%AD%EA%B0%80%EB%8C%80%ED%91%9C%20%EC%99%80%EC%9D%B4%ED%94%84">일일연속극 국가대표 와이프</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211004095709_9c929237eff173bf90d24276e5c56fe4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['침울한 장례식장' 혼란에 빠진 경찰대학교]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=163818</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=163818</guid>
-            <pubDate>Mon, 04 Oct 2021 01:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=163818">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211004091139_b4f17ac79744eb0a2c31c4b2181c8f4d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=163818">'침울한 장례식장' 혼란에 빠진 경찰대학교</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%B2%BD%EC%B0%B0%EC%88%98%EC%97%85">월화드라마 경찰수업</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211004091139_b4f17ac79744eb0a2c31c4b2181c8f4d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
