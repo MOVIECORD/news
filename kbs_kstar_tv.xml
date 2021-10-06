@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 22:23:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 23:24:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['구경이' 김혜준,  해맑은 학생]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=164399</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164399</guid>
+            <pubDate>Wed, 06 Oct 2021 23:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164399">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211006132330_90a4062d836305a55f8d526f93b13d8d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164399">'구경이' 김혜준,  해맑은 학생</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211006132330_90a4062d836305a55f8d526f93b13d8d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["송혜교, 돌아오는 중입니다"  SBS드라마 ‘지금, 헤어지는 중입니다’]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=164330</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=162542">'인간실격' 류준열, 마음의 위로 전하는 호연</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210927092051_7bc4ea8e1ba1f2ca959e7491fde3b211.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김유정의 위기, 공명이 나선다]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=162460</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=162460</guid>
-            <pubDate>Sun, 26 Sep 2021 23:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=162460">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210926204239_70289a0f43117536cd2af779d5626bf0.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=162460">김유정의 위기, 공명이 나선다</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20210926204239_70289a0f43117536cd2af779d5626bf0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
