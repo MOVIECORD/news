@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-06T17:25:54.478Z</updated>
+    <updated>2021-10-06T18:28:29.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[TEN 포토] 김현주 '눈부신 자체'(BIFF)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000504089</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000504089"/>
+        <updated>2021-10-06T18:26:52.329Z</updated>
+        <content type="html"><![CDATA[[텐아시아=조준원 기자]배우 김현주가 6일 오후 부산 해운대구 우동 영화의 전당에서 열린 제 26회 부산국제영화제(BIFF) 개막식 레드카펫 행사에서 포즈를 취하고 있다. 제26회 부산국제영화제는 6일 개막해 15일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[포토] 심은우, '학폭 인정 후 레드카펫으로 복귀' (부산국제영화제)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004613246</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005641852"/>
         <updated>2021-10-06T15:24:21.075Z</updated>
         <content type="html"><![CDATA[(부산=뉴스1) 권현진 기자 = 배우 심은우가 6일 오후 부산광역시 우동 영화의 전당에서 열린 '제26회 부산국제영화제(BIFF)' 개막식 레드카펫 행사에 참석하고 있다. 2021.10.6/뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MD포토] 고민시, '아름다움 한가득']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003542784</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003542784"/>
-        <updated>2021-10-06T15:24:21.078Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 부산 송일섭 기자] 배우 고민시가 6일 오후 부산 해운대구 우동 영화의 전당에서 진행된 '제26회 부산국제영화제' 개막식 레드카펫 포토월 행사에 참석하고 있다. (송일섭 기자 andlyu@mydail]]></content>
     </entry>
 </feed>
