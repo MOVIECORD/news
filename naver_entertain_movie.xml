@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-07T20:24:16.727Z</updated>
+    <updated>2021-10-07T21:20:57.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['감독 데뷔' 이제훈 "배우로서 영화제에 올 때와 완전히 다른 기분" [MD동영상]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003543241</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003543241"/>
+        <updated>2021-10-07T21:19:45.410Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 부산 김정수 기자] 배우 이제훈이 7일 오후 부산 해운대구 우동 KNN 시어터에서 진행된 제26회 부산국제영화제(BIFF)의 '액터스 하우스-이제훈' 스페셜 토크 프로그램에서 숏필름 프로젝트 '언프레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[봉준호 “비밀 캐고 싶다” 하마구치 “나도 모순된 욕망 있다”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001475535</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003543214"/>
         <updated>2021-10-07T14:20:26.488Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 부산 송일섭 기자] 배우 김선영이 7일 오후 부산광역시 해운대구 우동 벡스코 오디토리움에서 진행된 '2021 부일영화상' 레드카펫 포토월 행사에 참석하고 있다. (송일섭 기자 andlyu@mydail]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MD포토] 김옥빈, '남다른 비율']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003543213</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003543213"/>
-        <updated>2021-10-07T14:20:26.490Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 부산 송일섭 기자] 배우 김옥빈이 7일 오후 부산광역시 해운대구 우동 벡스코 오디토리움에서 진행된 '2021 부일영화상' 레드카펫 포토월 행사에 참석하고 있다. (송일섭 기자 andlyu@mydail]]></content>
     </entry>
 </feed>
