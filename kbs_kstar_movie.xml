@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 09:24:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 10:26:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[BIFF] 아시아콘텐츠필름마켓 '아시아콘텐츠어워즈' 수상자]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=164838</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164838</guid>
+            <pubDate>Fri, 08 Oct 2021 10:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164838">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211008183429_b4c009d1ca108c207201b9022566c1f8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164838">[BIFF] 아시아콘텐츠필름마켓 '아시아콘텐츠어워즈' 수상자</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211008183429_b4c009d1ca108c207201b9022566c1f8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[BIFF] 이레, "부산영화제 온 김에 부일영화상까지"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=164823</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164495">[BIFF] 특별한 청춘이야기, '그녀가 좋아하는 것은' 부산영화제 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211007082949_5a07f7ea1c82d18382be8ca630e2a88c_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BIFF] 영화 '요정', 배우 류현경-김신비 부산국제영화제 방문!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=164488</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=164488</guid>
-            <pubDate>Thu, 07 Oct 2021 01:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=164488">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211007082730_67c6bc6a9a48ae94b84d1438100923c5.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=164488">[BIFF] 영화 '요정', 배우 류현경-김신비 부산국제영화제 방문!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211007082730_67c6bc6a9a48ae94b84d1438100923c5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
