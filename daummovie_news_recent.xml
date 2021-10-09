@@ -1,8 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-10-08T19:19:31.648Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 09 Oct 2021 01:09:42 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[허성태, '월드 와이드 빌런'된 귀여운 중년 [강민경의 전지적 덕후시점]]]></title>
+            <link>https://v.daum.net/v/20211009100008761</link>
+            <guid>https://v.daum.net/v/20211009100008761</guid>
+            <pubDate>Sat, 09 Oct 2021 01:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 허성태 /사진제공=넷플릭스 /사진=이동훈 기자 photoguy@대기업에서 과장 진급까지 앞뒀던 배우 허성태는 늦은 나이에 배우가 됐다. 그는 넷플릭스 시리즈 '오징어 게임'을 통해 월드 와이드 빌런이 됐다. 허성태는 2011년 SBS '기적의 오디션'에 참가해 배우의 길을 걷게 됐다. 60여 편의 영화 단역으로 출연하다 2016년]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F09%2Fstarnews%2F20211009100010010sjhi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[한소희 등장에, '와~' 감탄이..부산 사로잡은 미모 [BIFF 현장]]]></title>
+            <link>https://v.daum.net/v/20211009100002745</link>
+            <guid>https://v.daum.net/v/20211009100002745</guid>
+            <pubDate>Sat, 09 Oct 2021 01:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 부산국제영화제=김미화 기자] 배우 한소희가 8일 오후 부산 해운대구 우동 영화의 전당에서 진행된 제26회 부산국제영화제 초청작 넷플릭스 '마이네임' 오픈 토크에 참석해 관객들을 바라보고 있다. 2021.10.08 /사진=김창현 기자 chmt@배우 한소희가 완벽한 미모로 부산을 사로잡았다. 지난 8일 오후 부산 해운대구 우동 영화의전당에서 제26회]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F09%2Fstarnews%2F20211009100003149wcvr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[유아인 '소리도 없이', 부일영화상→AFA '男주연상+신인감독상' 싹쓸이 [공식]]]></title>
+            <link>https://v.daum.net/v/20211009095441685</link>
+            <guid>https://v.daum.net/v/20211009095441685</guid>
+            <pubDate>Sat, 09 Oct 2021 01:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 부산 김나라 기자] 유아인 주연작 '소리도 없이'가 제30회 부일영화상과 제15회 아시안필름어워즈(AFA)에서 남우주연상, 신인감독상을 수상하는 영예를 안았다. '소리도 없이'는 7일 열린 제30회 부일영화상에서 남우주연상, 신인감독상을 차지했다. 말 한마디보다 호소력 짙은 눈빛 연기로 호평을 받으며 남우주연상을 거머쥔 유아인은 "전략적인]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F09%2Fmydaily%2F20211009095441711vinq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[입시 명문 학교의 '이상한' 동아리, 학생들이 마주한 진실]]></title>
+            <link>https://v.daum.net/v/20211009094200542</link>
+            <guid>https://v.daum.net/v/20211009094200542</guid>
+            <pubDate>Sat, 09 Oct 2021 01:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[[양형석 기자] 일반적인 교과과정을 이수하는 대한민국의 학생들은 대학 진학 전 초등학교 6년, 중학교 3년, 고등학교 3년까지 총 12년 동안 학교를 다닌다. 물론 시골의 작은 분교에서는 한 선생님이 짧게는 2,3년, 길게는 6년 내내 담임을 맡는 경우도 있지만 대부분의 학생들은 12년 동안 학교를 다니면서 12명의 담임선생님을 만나는 경우가 많다. 여기에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F09%2Fohmynews%2F20211009094201537jeoo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독] 레오스 카락스, 부산국제영화제 내한 일정 차질.. 왜?]]></title>
+            <link>https://v.daum.net/v/20211009093901484</link>
+            <guid>https://v.daum.net/v/20211009093901484</guid>
+            <pubDate>Sat, 09 Oct 2021 01:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[[이선필 기자] &nbsp;        ▲ &nbsp;영화 &lt;아네트&gt;로 제26회 부산국제영화제를 찾게 된 레오스 카락스 감독.    ⓒ 부산국제영화제  &nbsp; 프랑스 거장 레오스 카락스의 부산국제영화제 방한 일정에 차질이 생겼다. 8일 오후 부산국제영화제 측은 공식 SNS 등을 통해 9일 오후 있을 예정이던 레오스 카락스의 GV 행사 등을 취소한다고 알렸다. 갑작스러운 공지로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F09%2Fohmynews%2F20211009093903916tsqx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[OTT 열풍 발맞춘 부국제..'지옥'·'마이네임'과 달군 영화제 열기 [BIFF]]]></title>
+            <link>https://v.daum.net/v/20211009092559313</link>
+            <guid>https://v.daum.net/v/20211009092559313</guid>
+            <pubDate>Sat, 09 Oct 2021 01:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[(부산=뉴스1) 장아름 기자 = 여전히 신종 코로나바이러스 감염증(코로나19) 팬데믹 상황에 열린 제26회 부산국제영화제이지만, 기대 이상의 뜨거운 관심을 얻으며 펼쳐지고 있다. 톱배우들과 스타 영화인들의 높은 참여율 뿐만 아니라, 시대 패러다임에 발맞춘 방향 감각으로 영화제에 대한 대중들의 관심을 이끌어 내고 있. 그 중에서도 영화제가 온라인 동영상]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F09%2FNEWS1%2F20211009092559504pzfx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[26회 BIFF]"좋은 영화, 관객 돌아올 것" 부산서 물었다, 코로나後[초점]]]></title>
+            <link>https://v.daum.net/v/20211009090433115</link>
+            <guid>https://v.daum.net/v/20211009090433115</guid>
+            <pubDate>Sat, 09 Oct 2021 01:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[[부산=아시아경제 이이슬 기자] 관객들이 영화관에 돌아올까. 코로나19(신종 코로나바이러스감염증) 여파로 고요해진 극장이 사람들로 다시 북적이게 될까. 지난 2년간 영화계는 부침을 겪었다. 다중이용시설로 분류된 영화관을 찾는 사람들이 줄어들자 개봉을 앞둔 주요 배급사들은 일정을 줄줄이 연기했다. 우리는 다시 극장에 모여 영화를 보는 경험을 할 수 있을까.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F09%2Fakn%2F20211009090435046iqyq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["정호연 부러워"..한예리, 솔직한 여배우 입담 [26th BIFF] [종합]]]></title>
+            <link>https://v.daum.net/v/20211009090002001</link>
+            <guid>https://v.daum.net/v/20211009090002001</guid>
+            <pubDate>Sat, 09 Oct 2021 01:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 부산국제영화제=김미화 기자] 한예리 액터스 하우스 /사진제공=부산국제영화제배우 한예리가 솔직한 입담으로 관심을 사로잡았다. 한예리는 지난 8일  제26회 부산국제영화제  '액터스 하우스' 행사에 참석했다. 이날 한예리는 "단편영화를 시작할 때 제일 처음으로 온 영화제가 부산영화제였다. 좁은 숙소에서 함께 지내면서 아침부터 영화를 보고 해변에서 맥]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F09%2Fstarnews%2F20211009090003579tmue.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['스파이의 아내' 작품상..유아인 주연상·이병헌 亞엑설런스상[BIFF]]]></title>
+            <link>https://v.daum.net/v/20211009085819978</link>
+            <guid>https://v.daum.net/v/20211009085819978</guid>
+            <pubDate>Sat, 09 Oct 2021 01:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 스타in 박미애 기자] 아시아필름어워즈아카데미(Asian Film Awards Academy)가 제26회 부산국제영화제, 2021 아시아콘텐츠&amp;필름마켓과 협업하여 개최한 제15회 아시아필름어워즈 18개 부문의 수상자를 발표했다. 구로사와 기요시 감독의 ‘스파이의 아내’가 최고의 영예인 작품상을 수상했으며 한국영화로는 ‘소리도 없이’가 유아인과]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F09%2FEdaily%2F20211009085823023rjxc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[유아인·아오이 유우, 제15회 AFA 주연상..이병헌 아시아영화엑설런스상]]></title>
+            <link>https://v.daum.net/v/20211009085245933</link>
+            <guid>https://v.daum.net/v/20211009085245933</guid>
+            <pubDate>Sat, 09 Oct 2021 01:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 김노을 기자] 배우 유아인, 아오이 유우가 제15회 아시아필름어워즈 주연상을 수상했다. 10월 8일 아시아필름어워즈아카데미(Asian Film Awards Academy)는 제26회 부산국제영화제, 2021 아시아콘텐츠&amp;필름마켓과 협업해 개최한 제15회 아시아필름어워즈 18개 부문의 수상자를 발표했다. 제15회 아시아필름어워즈 시상식에는 80명의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F09%2Fnewsen%2F20211009085247860xkgp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['오징어 게임' 김주령 "SNS 팔로워 400명→168만, 살다 보니 이런 일도"[일문일답]]]></title>
+            <link>https://v.daum.net/v/20211009084300863</link>
+            <guid>https://v.daum.net/v/20211009084300863</guid>
+            <pubDate>Sat, 09 Oct 2021 01:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 김주령 /사진제공=저스트엔터테인먼트배우 김주령이 넷플릭스 시리즈 '오징어 게임'을 통해  SNS 팔로워 수가 늘어난 것에 대해 이야기 했다. 김주령은 9일 소속사 저스트 엔터테인먼트를 통해 넷플릭스 시리즈 '오징어 게임'의 캐스팅부터 작품을 준비하는 과정, 공개 이후 전 세계적인 흥행 후 느낀 마음을 고스란히 담은 소감을 전했다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F09%2Fstarnews%2F20211009084614758jzwc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['007 노타임 투 다이' 10일 연속 1위..80만 돌파[박스오피스]]]></title>
+            <link>https://v.daum.net/v/20211009083317784</link>
+            <guid>https://v.daum.net/v/20211009083317784</guid>
+            <pubDate>Sat, 09 Oct 2021 01:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 김노을 기자] '007 노 타임 투 다이'가 10일 연속 박스오피스 1위를 차지했다. 10월 9일 영화진흥위원회 통합전산망 집계에 따르면 8일 영화 '007 노 타임 투 다이'(감독 캐리 후쿠나가)가 3만4,905명을 모아 10일째 박스오피스 1위를 지켰다. 누적 관객수는 80만3,320명이다. 같은 날 2위는 영화 '보이스'로 1만6,345명이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F09%2Fnewsen%2F20211009083317547aqil.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['소리도 없이', 부일영화상·AFA서 수상..유아인X홍의정 감독 2관왕[공식]]]></title>
+            <link>https://v.daum.net/v/20211009082103695</link>
+            <guid>https://v.daum.net/v/20211009082103695</guid>
+            <pubDate>Sat, 09 Oct 2021 01:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 강민경 기자] 배우 유아인, 홍의정 감독이 8일 오후 부산 해운대구 파라다이스호텔 그랜드볼룸에서 진행된 '제26회 부산국제영화제'(BIFF) 아시아 필름 어워즈에 참석해 포토타임을 갖고 있다. 2021.10.08 /사진=김창현 기자 chmt@영화 '소리도 없이'가 제30회 부일영화상과 제15회 아시안필름어워즈(AFA)에서 남우주연상과 신인감독상을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F09%2Fstarnews%2F20211009082104496hczx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['007 노 타임 투 다이', 10일 연속 1위..80만 돌파 [★무비차트]]]></title>
+            <link>https://v.daum.net/v/20211009080438604</link>
+            <guid>https://v.daum.net/v/20211009080438604</guid>
+            <pubDate>Sat, 09 Oct 2021 01:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 강민경 기자] /사진=영화 '007 노 타임 투 다이' 포스터영화 '007 노 타임 투 다이'가 10일 연속 박스오피스 1위 자리를 유지한 가운데, 80만 관객을 돌파했다. 9일 영진위 영화관 입장권 통합전산망에 따르면 '007 노 타임 투 다이'는 지난 8일 3만 4905명을 동원했다. 누적관객수는 80만 3320명이다. 2위는 '보이스'가 차]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F09%2Fstarnews%2F20211009080439900eotm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[전종서 "'종이의 집' 촬영 중, 영화·드라마 경계 무너진 지금이 기회" [BIFF 2021]]]></title>
+            <link>https://v.daum.net/v/20211009080009491</link>
+            <guid>https://v.daum.net/v/20211009080009491</guid>
+            <pubDate>Sat, 09 Oct 2021 01:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 부산, 김유진 기자) 배우 전종서가 근황과 함께 조금씩 변해가는 촬영 환경 변화에 대해 언급했다. 8일 오후 부산 해운대구 우동 KNN타워 KNN시어터에서 제26회 부산국제영화제(BIFF) '액터스 하우스' 전종서 편이 진행됐다. '액터스 하우스'는 동시대 한국 영화계를 대표하는 배우들을 초청, 그들의 연기에 관한 친밀하면서도 심도 깊은 이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F09%2Fxportsnews%2F20211009080010698zadv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["한국의 힘" 유아인·이병헌, 존재감 입증..韓 4관왕 '쾌거'(AFA)[종합]]]></title>
+            <link>https://v.daum.net/v/20211009074830424</link>
+            <guid>https://v.daum.net/v/20211009074830424</guid>
+            <pubDate>Sat, 09 Oct 2021 01:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=부산, 김보라 기자]&nbsp;유아인과 이병헌이 아시아에서 배우로서의 존재감을 입증했다. 올해는 한국 영화인들이 4관왕을 기록하는 쾌거를 이뤘다. 지난 8일 부산 해운대 파라다이스 그랜드볼룸에서 제15회 아시안필름어워즈가 진행된 가운데 유아인과 이병헌이 각각 남우주연상, 아시아영화엑설런스상을 차지하며 기쁨을 누렸다. 이날 홍의정 감독은 영화 ‘소리도 없이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F09%2Fpoctan%2F20211009074830489kkzg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스1 ★]'반디' 최희서, 딸바보 등극]]></title>
+            <link>https://v.daum.net/v/20211009072623298</link>
+            <guid>https://v.daum.net/v/20211009072623298</guid>
+            <pubDate>Sat, 09 Oct 2021 01:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 권현진 기자 = 배우 최희서가 ‘딸바보’로 등극했다. 최희서는 8일 부산 해운대구 영화의전당 야외무대에서 자신의 작품 ‘반디’ 오픈토크에 참석했다. 극중 딸로 출연한 아역배우 박소이도 함께했다. 이날 최희서는 아직은 모든 것이 서툰 박소이를 위해 든든한 지원군 역할을 했다. 이동할 때에는 손을 꼭 잡아 그의 동선을 체크했다. 취재진 질문]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F09%2FNEWS1%2F20211009072624785qyaa.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[BIFF] 유아인·아오이유우, 아시아필름어워즈 주연상..이병헌, 아시아영화엑설런스상 [종합]]]></title>
+            <link>https://v.daum.net/v/20211009072301279</link>
+            <guid>https://v.daum.net/v/20211009072301279</guid>
+            <pubDate>Sat, 09 Oct 2021 01:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자]배우 유아인과 아오이 유우가 제 15회 아시아필름어워즈에서 남녀주연상을 수상했다. 이병헌은 아시아영화엑설런스상의 기쁨을 누렸다.제26회 부산국제영화제 기간 중인 8일 저녁 부산 파라다이스 호텔 그랜드블룸에서 제15회 아시아필름어워즈 시상식이 열렸다. 배우 김규리와 영화 유튜버 천재이승국의 사회로 진행한 이번 시상식에는 올해 심사위원장]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F09%2F10asia%2F20211009072304682yfwl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[제15회 AFA, 유아인·아오이 유우 남녀주연상..이병헌 亞영화 엑설런스상]]></title>
+            <link>https://v.daum.net/v/20211009065008950</link>
+            <guid>https://v.daum.net/v/20211009065008950</guid>
+            <pubDate>Sat, 09 Oct 2021 01:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 부산, 김유진 기자) 아시아필름어워즈아카데미(Asian Film Awards Academy)가 제26회 부산국제영화제, 2021 아시아콘텐츠&amp;필름마켓과 협업해 개최한 제15회 아시아필름어워즈 18개 부문의 수상자를 발표했다. 제26회 부산국제영화제 기간 중인 10월 8일(금) 저녁 파라다이스 호텔 부산에서 열린 제15회 아시아필름어워즈 시상]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F09%2Fxportsnews%2F20211009065009579xihh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[한소희 "근육만 10kg 증량? 지방도 있어"..'마이 네임' 향한 열정 [BIFF★]]]></title>
+            <link>https://v.daum.net/v/20211009063007796</link>
+            <guid>https://v.daum.net/v/20211009063007796</guid>
+            <pubDate>Sat, 09 Oct 2021 01:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 부산, 김유진 기자) 배우 한소희가 '마이 네임'으로 부산국제영화제를 찾아 레드카펫부터 관객과의 대화(GV), 오픈토크까지 다양한 행사를 통해 관객과 소통하고 있다. 8일 오후 부산 해운대구 우동 영화의전당 야외무대에서 제26회 부산국제영화제(BIFF) 온 스크린 섹션 초청작 '마이 네임'의 오픈토크가 진행됐다. 이 자리에는 김진민 감독과]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F09%2Fxportsnews%2F20211009063009070bhcu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
