@@ -98,7 +98,6 @@ entrySelector = "ul.list_news li"
 titleSelector = "a.link_txt"
 linkSelector = "a.link_txt"
 contentSelector = "p.desc_thumb"
-waitUntil = "networkidle"
 waitForSelector = "ul.list_news"
 onFail = "stale"
 
