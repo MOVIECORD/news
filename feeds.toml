@@ -91,8 +91,9 @@ entrySelector = "ul.list_news li"
 titleSelector = "a.link_txt"
 linkSelector = "a.link_txt"
 contentSelector = "p.desc_thumb"
-waitForSelector = "ul.list_news"
+waitForSelector = "ul.list_news li"
 onFail = "stale"
+timeout = 180
 
 [daum_entertain_news_variety]
 title = "다음 연예 ─ 뉴스 ─ 예능"
@@ -101,8 +102,9 @@ entrySelector = "ul.list_news li"
 titleSelector = "a.link_txt"
 linkSelector = "a.link_txt"
 contentSelector = "p.desc_thumb"
-waitForSelector = "ul.list_news"
+waitForSelector = "ul.list_news li"
 onFail = "stale"
+timeout = 180
 
 [daum_entertain_news_movie]
 title = "다음 연예 ─ 뉴스 ─ 영화"
@@ -111,5 +113,6 @@ entrySelector = "ul.list_news li"
 titleSelector = "a.link_txt"
 linkSelector = "a.link_txt"
 contentSelector = "p.desc_thumb"
-waitForSelector = "ul.list_news"
+waitForSelector = "ul.list_news li"
 onFail = "stale"
+timeout = 180
