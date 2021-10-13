@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-13T19:19:49.328Z</updated>
+    <updated>2021-10-13T20:25:09.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['007 스펙터' 보고 오면 더 재미...'007 노타임 투 다이']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010768331</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010768331"/>
+        <updated>2021-10-13T20:24:22.305Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]고다연 인턴 기자 = "이번 시리즈 관람 전 '007 스펙터'(2015)를 반드시 봐야 한다." 국내에서도 100만 관객을 돌파하며 흥행몰이 중인 영화 '007 노 타임 투 다이'가 시리즈 전작들과의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서촌에 스며든 신세경 (어나더 레코드)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000938407</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000938333"/>
         <updated>2021-10-13T10:25:21.481Z</updated>
         <content type="html"><![CDATA[설경구·도경수 ‘더 문’ 크랭크업 [공식] 김용화 감독의 차기작 ‘더 문’(가제)이 4개월간의 대장정을 마치고 10월 12일 크랭크업했다. 우주에 홀로 남겨진 남자와 필사적으로 그를 구하려는 지구의 또 다른 남자가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 지세현, 화가로 성공적 데뷔…6점 모두 완판]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005655759</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005655759"/>
-        <updated>2021-10-13T10:25:21.486Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 지세현이 화가로 성공적인 데뷔를 마쳤다. 지세현은 지난 8일 현대백화점 무역센터점에서 회화작품을 전시하며 화가로 데뷔했다. '가슴정원' '거짓기억; 회복된 기억' '커튼콜' 총]]></content>
     </entry>
 </feed>
