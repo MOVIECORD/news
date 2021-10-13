@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-13T13:29:08.919Z</updated>
+    <updated>2021-10-13T14:22:19.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[설경구X도경수X김희애 ‘더 문’ 크랭크업[공식]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004864469</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004864469"/>
+        <updated>2021-10-13T14:21:00.342Z</updated>
+        <content type="html"><![CDATA['신과 함께' 시리즈로 쌍천만 신화를 이룬 김용화 감독의 차기작 '더 문'(가제)이 지난 12일 크랭크업했다. 영화는 우주에 홀로 남겨진 남자와 필사적으로 그를 구하려는 지구의 또 다른 남자가 선사하는 감동 대작으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[26th BIFF]한준희 감독 "'D.P.' 시즌2, 각본 쓰고 있다"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010768273</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004490920"/>
         <updated>2021-10-13T10:25:21.501Z</updated>
         <content type="html"><![CDATA[[OSEN=조은정 기자] 13일 오후 서울 광진구 롯데시네마 건대입구에서 영화 '동백(감독 신준영)' 언론배급 시사회 겸 무대인사가 열렸다. 배우 신복숙이 무대인사에 참석하고 있다. 2021.10.13 /cej@os]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]박근형, '오랜만에 영화관 발걸음']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004490918</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004490918"/>
-        <updated>2021-10-13T10:25:21.506Z</updated>
-        <content type="html"><![CDATA[[OSEN=조은정 기자] 13일 오후 서울 광진구 롯데시네마 건대입구에서 영화 '동백(감독 신준영)' 언론배급 시사회 겸 무대인사가 열렸다. 배우 박근형이 무대인사에 참석하고 있다. 2021.10.13 /cej@os]]></content>
     </entry>
 </feed>
