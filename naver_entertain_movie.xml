@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-14T19:19:41.047Z</updated>
+    <updated>2021-10-14T20:24:45.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[리뷰]비주얼 SF·경이로움이란 이런 것…영화 '듄']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010771190</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010771190"/>
+        <updated>2021-10-14T20:23:36.390Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 김지은 기자 = 사막 행성을 배경으로 우주 시대 인류 역사를 담아낸 거대한 이야기는 어떻게 155분 분량의 영화로 압축됐을까. 하반기 최대 기대작 중 하나로 꼽히는 '듄'은1965년 나온 프랭크 허버]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI 사라진 세상… 영생물질 ‘스파이스’ 놓고 행성서 전투]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001477162</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012723264"/>
         <updated>2021-10-14T12:35:34.456Z</updated>
         <content type="html"><![CDATA[(부산=연합뉴스) 강민지 기자 = 배우 엄정화가 14일 오후 부산 해운대구 KNN시어터에서 제26회 부산국제영화제(BIFF) 스페셜 토크 프로그램 액터스하우스에 참여하고 있다. 2021.10.14 mjkang@yna]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄정화, 관객 녹이는 미소]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012723263</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012723263"/>
-        <updated>2021-10-14T12:35:34.463Z</updated>
-        <content type="html"><![CDATA[(부산=연합뉴스) 강민지 기자 = 배우 엄정화가 14일 오후 부산 해운대구 KNN시어터에서 열린 제26회 부산국제영화제(BIFF) 스페셜 토크 프로그램 액터스하우스에 참여해 포즈를 취하고 있다. 2021.10.14]]></content>
     </entry>
 </feed>
