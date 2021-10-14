@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-14T18:28:36.023Z</updated>
+    <updated>2021-10-14T19:19:41.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI 사라진 세상… 영생물질 ‘스파이스’ 놓고 행성서 전투]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001477162</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001477162"/>
+        <updated>2021-10-14T19:18:31.023Z</updated>
+        <content type="html"><![CDATA[SF명작 ‘매트릭스’ ‘터미네이터’가 인공지능(AI)의 반란으로 인류가 자초한 디스토피아를 상상했다면, 영화 ‘듄’( 사진 )은 그 너머 AI가 사라진 세상을 그렸다. 이 미래에 정치체제는 제국주의나 신정정치를 닮은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘스크림’ 2022년 1월 재개봉]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000938623</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012723263"/>
         <updated>2021-10-14T12:35:34.463Z</updated>
         <content type="html"><![CDATA[(부산=연합뉴스) 강민지 기자 = 배우 엄정화가 14일 오후 부산 해운대구 KNN시어터에서 열린 제26회 부산국제영화제(BIFF) 스페셜 토크 프로그램 액터스하우스에 참여해 포즈를 취하고 있다. 2021.10.14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산국제영화제 찾은 엄정화]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012723262</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012723262"/>
-        <updated>2021-10-14T12:35:34.469Z</updated>
-        <content type="html"><![CDATA[(부산=연합뉴스) 강민지 기자 = 배우 엄정화가 14일 오후 부산 해운대구 KNN시어터에서 제26회 부산국제영화제(BIFF) 스페셜 토크 프로그램 액터스하우스에 참여하고 있다. 2021.10.14 mjkang@yna]]></content>
     </entry>
 </feed>
