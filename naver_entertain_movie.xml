@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-14T15:26:19.365Z</updated>
+    <updated>2021-10-14T16:36:12.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[무진성 전속계약 [공식]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000938618</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000938618"/>
+        <updated>2021-10-14T16:35:18.794Z</updated>
+        <content type="html"><![CDATA[무진성 전속계약 [공식] 미디어그룹 NEW의 콘텐츠제작/매니지먼트사업 계열사 스튜디오앤뉴(대표 장경익)가 배우 무진성과 전속 계약을 체결했다. 무진성은 드라마 ‘산후조리원’, ‘구미호 레시피’, ‘내추럴로맨스’, ‘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수상소감 말하는 윤서진 감독]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012723329</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012723258"/>
         <updated>2021-10-14T12:35:34.490Z</updated>
         <content type="html"><![CDATA[(부산=연합뉴스) 강민지 기자 = 배우 엄정화가 14일 오후 부산 해운대구 KNN시어터에서 열린 제26회 부산국제영화제(BIFF) 스페셜 토크 프로그램 액터스하우스에 참여하고 있다. 오른쪽은 백은하 배우연구소장. 2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄정화, 관객과 토크 '액터스하우스']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012723257</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012723257"/>
-        <updated>2021-10-14T12:35:34.494Z</updated>
-        <content type="html"><![CDATA[(부산=연합뉴스) 강민지 기자 = 배우 엄정화가 14일 오후 부산 해운대구 KNN시어터에서 열린 제26회 부산국제영화제(BIFF) 스페셜 토크 프로그램 액터스하우스에 참여해 포즈를 취하고 있다. 2021.10.14]]></content>
     </entry>
 </feed>
