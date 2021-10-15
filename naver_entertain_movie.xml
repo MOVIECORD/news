@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-15T21:22:06.555Z</updated>
+    <updated>2021-10-15T22:24:14.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[왓챠 추천]팅커 테일러 솔저 스파이·인사이드 르윈 독점 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010773455</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010773455"/>
+        <updated>2021-10-15T22:23:30.289Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 김지은 기자 = 왓챠는 이번주 겔리 올드만 등이 주연한 영화 '팅커 테일러 솔저 스파이'를 익스클루시브로 선보인다. 짐 스터지스와 커스틴 던스트 주연의 SF 판타지 로맨스 영화와 명작 뮤지컬 '레미제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["지난해 영화 입장객수·매출액, 80% 가까이 감소"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010773451</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012725623"/>
         <updated>2021-10-15T11:20:27.037Z</updated>
         <content type="html"><![CDATA[(부산=연합뉴스) 강민지 기자 = 박경근 감독이 15일 오후 부산 해운대구 영화의전당에서 열린 제26회 부산국제영화제(BIFF) 폐막식 포토월에 참석해 포즈를 취하고 있다. 2021.10.15 mjkang@yna.c]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바스티안 메이레종, 갓으로 시선집중]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012725622</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012725622"/>
-        <updated>2021-10-15T11:20:27.057Z</updated>
-        <content type="html"><![CDATA[(부산=연합뉴스) 강민지 기자 = 떼르디씨 떼르다이여 영화제 집행위원장인 바스티안 메이레종이 15일 오후 부산 해운대구 영화의전당에서 열린 제26회 부산국제영화제(BIFF) 폐막식 포토월에 참석해 포즈를 취하고 있다]]></content>
     </entry>
 </feed>
