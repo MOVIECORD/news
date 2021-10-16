@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-10-16T21:21:23.306Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 16 Oct 2021 22:23:56 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엄마·할머니, 그리고 '한창나이 선녀님' [편파적인 씨네리뷰]]]></title>
+            <link>https://v.daum.net/v/20211017072203687</link>
+            <guid>https://v.daum.net/v/20211017072203687</guid>
+            <pubDate>Sat, 16 Oct 2021 22:23:41 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] ■편파적인 한줄평 : 인생, 진하고 깊은 맛.시간이 지날수록 깊은 맛을 내는 건 ‘곰탕’뿐만은 아니다. 착실하게 하루하루 발끝을 보며 걸어온 우리네 엄마·할머니의 삶도 그러하다. 그 성실함과 책임감에 머리가 숙여질 수밖에 없다. 나무꾼은 없어도 그 누구보다 꽉찬 하루를 보내는 ‘한창나이 선녀님’ 속 임선녀 할머니의 진하고 깊은 이야기에 코끝]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F17%2Fsportskhan%2F20211017072204995rxhn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
