@@ -13,7 +13,7 @@ https://moviecord.github.io/news/naver_entertain_movie.xml
  - 예능: https://moviecord.github.io/news/daum_entertain_news_variety.xml  
  - 영화: https://moviecord.github.io/news/daum_entertain_news_movie.xml  
 
-## 다음 영화관
+## 다음 영화
   ### [상영/예정작](https://github.com/MOVIECORD/daum#%EC%83%81%EC%98%81%EC%98%88%EC%A0%95%EC%9E%91)
   ### [콘텐츠](https://github.com/MOVIECORD/daum#%EC%83%81%EC%98%81%EC%98%88%EC%A0%95%EC%9E%91)
 - 영화 뉴스  
