@@ -77,12 +77,14 @@ waitUntil = "networkidle"
 [daummovie_news_recent]
 title = "다음영화 뉴스 ─ 최신"
 url = "https://movie.daum.net/contents/news?type=recent"
-entrySelector = "div.box_movienews > ul > li"
+entrySelector = "div.box_movienews ul li"
 titleSelector = "strong a[class='link_txt']"
 linkSelector = "strong a[class='link_txt']"
 imageSelector = "span[class='bg_img']"
 contentSelector = "p[class='desc_thumb'] a"
-waitUntil = "networkidle"
+dateSelector = "span.txt_info:nth-child(1)"
+dateFormat = "yyyy.MM.dd"
+waitForSelector = "ul.list_movienews"
 
 [daum_entertain_news_drama]
 title = "다음 연예 ─ 뉴스 ─ 드라마"
