@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-19T11:20:50.689Z</updated>
+    <updated>2021-10-19T12:38:07.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CGV, '더 하더 데이 폴'·'돈 룩 업' 등 넷플릭스 영화 6편 극장 개봉(공식)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003488555</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003488555"/>
+        <updated>2021-10-19T12:36:54.912Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] 다양한 콘텐츠를 스크린에 선보이기 위해 새로운 시도를 이어가고 있는 CGV가 넷플릭스와 손잡고 올해 말까지 6편의 영화를 극장에서 선보일 예정이다. CGV는 '더 하더 데이 폴' 등 넷플]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노회찬 욕하는 분들께 이 티켓을 드리고 싶습니다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002329923</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000324370"/>
         <updated>2021-10-19T08:27:59.106Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]마블 스튜디오 신작을 비롯한 디즈니 영화들의 개봉일이 대거 연기됐다. 18일 외신에 따르면 디즈니는 '닥터 스트레인지2', '토르4', '블랙팬서2'를 비롯한 다수 MCU(마블 시네마틱 유]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마동석, 마블 ‘이터널스’ 美 행사 연인 예정화와 동행]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=020&amp;aid=0003388204</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=020&amp;aid=0003388204"/>
-        <updated>2021-10-19T08:27:59.108Z</updated>
-        <content type="html"><![CDATA[배우 마동석이 마블 스튜디오 영화 ‘이터널스’ 월드 프리미어 행사에 참석했다. 마동석과 5년째 공개 열애 중인 방송인 배우 예정화도 이 자리에 함께 했다. 18일(현지시각) 미국 로스엔젤레스에 위치한 돌비 극장에서]]></content>
     </entry>
 </feed>
