@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-19T17:27:42.515Z</updated>
+    <updated>2021-10-19T18:28:08.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소니픽처스, 온라인 게임사업부 'GSN게임스' 1조여원에 매각]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012733312</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012733312"/>
+        <updated>2021-10-19T18:27:14.111Z</updated>
+        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 정윤섭 특파원 = 미국 할리우드 영화 제작사 소니픽처스가 온라인 게임 사업부를 1조 원이 넘는 가격에 매각하기로 했다. 소니픽처스는 온라인 게임사업부 GSN게임스를 미국 모바일 게임회사 스코]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CGV, '더 하더 데이 폴'·'돈 룩 업' 등 넷플릭스 영화 6편 극장 개봉(공식)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003488555</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000768243"/>
         <updated>2021-10-19T08:27:59.101Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 배우 김선호가 사생활 논란에 휩싸인 가운데, 그의 후속 영화 작품들에 관심이 쏠리고 있다. 김선호 출연 예정인 한 영화관계자는 19일 ‘스포츠경향’에 “소속사 측 명확한 입장이 없어 영화는 계획대로 진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박서준 '더 마블스'는 2023년 7월에…마블 히어로물 개봉일 대거 '연기']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000324370</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000324370"/>
-        <updated>2021-10-19T08:27:59.106Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]마블 스튜디오 신작을 비롯한 디즈니 영화들의 개봉일이 대거 연기됐다. 18일 외신에 따르면 디즈니는 '닥터 스트레인지2', '토르4', '블랙팬서2'를 비롯한 다수 MCU(마블 시네마틱 유]]></content>
     </entry>
 </feed>
