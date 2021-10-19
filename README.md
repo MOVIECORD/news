@@ -17,8 +17,8 @@ https://moviecord.github.io/news/naver_entertain_movie.xml
   ### [상영/예정작](https://github.com/MOVIECORD/daum#%EC%83%81%EC%98%81%EC%98%88%EC%A0%95%EC%9E%91)
   ### [콘텐츠](https://github.com/MOVIECORD/daum#%EC%83%81%EC%98%81%EC%98%88%EC%A0%95%EC%9E%91)
 - 영화 뉴스  
-  - 최신: https://moviecord.github.io/news/daummovie_news_popular.xml  
-  - 많이본: https://moviecord.github.io/news/daummovie_news_recent.xml  
+  - 최신: https://moviecord.github.io/news/daummovie_news_recent.xml  
+  - 많이본: https://moviecord.github.io/news/daummovie_news_popular.xml  
 - 매거진  
 - 브런치   
 
