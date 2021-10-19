@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-10-19T19:19:38.363Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 19 Oct 2021 20:17:03 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['듄', 이상하고 아름다운 드니 빌뇌브의 SF 세계 [N리뷰]]]></title>
+            <link>https://v.daum.net/v/20211020045007166</link>
+            <guid>https://v.daum.net/v/20211020045007166</guid>
+            <pubDate>Tue, 19 Oct 2021 20:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = *영화의 주요 내용을 포함한 스포일러가 있을 수 있습니다. 이 영화가 모래 언덕을 뜻하는 '듄'(Dune)이라는 제목을 갖게 된 이유는 사막을 배경으로 하고 있기 때문이다. '듄'에서 모래와 바위로만 이뤄진 행성 아라키스는 우주에서 가장 비싼 물질이자 신성한 환각제인 스파이스를 수확할 수 있는 유일한 장소이며, 주인공]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202110%2F20%2FNEWS1%2F20211020045008910laro.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
