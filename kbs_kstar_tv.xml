@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 23:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 01:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김정난, JTBC드라마 '재벌집 막내아들' 합류]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=166655</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=166655</guid>
+            <pubDate>Wed, 20 Oct 2021 01:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=166655">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211019095154_4688bfe10cef5d1f362a4fca41818657.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=166655">김정난, JTBC드라마 '재벌집 막내아들' 합류</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211019095154_4688bfe10cef5d1f362a4fca41818657.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘옷소매 붉은 끝동’ 캐릭터 포스터 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=166547</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=165965">이영애의 개성 있는 변신 '구경이'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211015095409_1a2b1684dbcac6e73819f18fff0321e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조우진, '해피니스'와 반대되는 서늘한 카리스마]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=165955</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=165955</guid>
-            <pubDate>Fri, 15 Oct 2021 01:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=165955">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211015094852_cf6317a0f73c57a51dbef559148af41e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=165955">조우진, '해피니스'와 반대되는 서늘한 카리스마</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211015094852_cf6317a0f73c57a51dbef559148af41e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
