@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Oct 2021 22:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 23:25:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[옥택연, 극한직업 어사 출두!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=167218</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=167218</guid>
+            <pubDate>Sat, 23 Oct 2021 23:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=167218">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211022094628_4043f1884c89306c00bfc3b6173bc749_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=167218">옥택연, 극한직업 어사 출두! </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211022094628_4043f1884c89306c00bfc3b6173bc749_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김지은 "검은 태양, 감사드립니다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=167431</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=166513">이상이 '갯마을 차차차' 종방 소감  “따뜻한 공진에서 따뜻한 사람들과 함께여서 감사한 시간”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211018162346_828820b01f3138d7661653897c67d36d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해피엔딩 갯마을, 유종지미 차차차]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=166414</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=166414</guid>
-            <pubDate>Sun, 17 Oct 2021 23:22:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=166414">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211018075938_e2e038e0ff120532bba6bc9bf61fbbaf.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=166414">해피엔딩 갯마을, 유종지미 차차차</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211018075938_e2e038e0ff120532bba6bc9bf61fbbaf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
