@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 05:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 06:28:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 '뮤직뱅크' 출격, 치명적인 무대 예고]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=167946</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=167946</guid>
+            <pubDate>Tue, 26 Oct 2021 06:27:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=167946">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211026142700_3f9c0de8d1faa645ab3f3d42de7522b1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=167946">NCT 127 '뮤직뱅크' 출격, 치명적인 무대 예고</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211026142700_3f9c0de8d1faa645ab3f3d42de7522b1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신예은, 볼륨을 높여요 DJ 발탁!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=167936</link>
@@ -345,24 +363,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211024230738_e5bd685b6c092a42ff13961e4cb3d02c_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[슈퍼맨이 돌아왔다] 김태균 막내, 애교만점 4세 하린이의 모닝 수다 타임! (feat. 전자파 강의)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=167647</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=167647</guid>
-            <pubDate>Sun, 24 Oct 2021 14:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=167647">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211024225904_6a6ab877127007bc634e2caa505500ed_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=167647">[슈퍼맨이 돌아왔다] 김태균 막내, 애교만점 4세 하린이의 모닝 수다 타임! (feat. 전자파 강의)</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211024225904_6a6ab877127007bc634e2caa505500ed_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
