@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 23:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 01:11:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[류수영 '지구의 경고' 내레이션 현장 비하인드]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=168354</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=168354</guid>
+            <pubDate>Thu, 28 Oct 2021 01:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=168354">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211028100831_af930b5e5b30fdf7e3541f45eca7447d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=168354">류수영 '지구의 경고' 내레이션 현장 비하인드</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=UHD%20%EA%B8%B0%ED%9B%84%EB%B3%80%ED%99%94%20%ED%8A%B9%EC%A7%91%20%EC%A7%80%EA%B5%AC%EC%9D%98%20%EA%B2%BD%EA%B3%A0">UHD 기후변화 특집 지구의 경고</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211028100831_af930b5e5b30fdf7e3541f45eca7447d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[달리와 감자탕] ‘과거형 연인’이 된 박규영을 놓지 못하는 권율의 눈먼 질투]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=168280</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%20%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%97%B0%EB%AA%A8">월화 드라마 연모</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211026231800_9d274a6973e364b0bd144d21f1eed64a_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[노래가 좋아] 깜짝 출연으로 시선집중! 박현빈과 귀염뽀짝 건나블리 무대]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=168005</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=168005</guid>
-            <pubDate>Tue, 26 Oct 2021 21:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=168005">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211026223834_7ec32cddc6638fb001b2f90af4e4b701_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=168005">[노래가 좋아] 깜짝 출연으로 시선집중! 박현빈과 귀염뽀짝 건나블리 무대</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%85%B8%EB%9E%98%EA%B0%80%20%EC%A2%8B%EC%95%84">노래가 좋아</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211026223834_7ec32cddc6638fb001b2f90af4e4b701_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
