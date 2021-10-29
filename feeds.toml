@@ -84,7 +84,7 @@ imageSelector = "span[class='bg_img']"
 contentSelector = "p[class='desc_thumb'] a"
 dateSelector = "span.txt_info:nth-child(1)"
 dateFormat = "yyyy.MM.dd"
-waitForSelector = "ul.list_movienews"
+waitUntil = "networkidle"
 
 [daum_entertain_news_drama]
 title = "다음 연예 ─ 뉴스 ─ 드라마"
