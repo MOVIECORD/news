@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-10-30T20:24:52.875Z</updated>
+    <updated>2021-10-30T21:22:37.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일본 감독들의 'maid in Korea' 영화들]]></title>
+        <id>https://entertain.v.daum.net/v/20211031053002380</id>
+        <link href="https://entertain.v.daum.net/v/20211031053002380"/>
+        <updated>2021-10-30T21:22:36.731Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 선진국의 관심에 목말라 하던(?) 문화 변방의 시대는 끝났다. 아카데미 4관왕 '기생충'과 전세계 넷플릭스 1위를 한달 넘게 지키고 있는 '오징어 게임'까지, 한국 콘텐츠는 글로벌 '대세'로 자리를 잡고 있다. 이런 이런 분위기 속에서 한국과 해외 합작 영화들이 눈에 띄게 증가하고 있으며, 특히 '가깝지만 먼 나라' 일본]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연애 빠진 로맨스', 알수록 빠져드는 전종서X손석구]]></title>
         <id>https://entertain.v.daum.net/v/20211031003202593</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211030093005883"/>
         <updated>2021-10-30T01:09:20.723Z</updated>
         <content type="html"><![CDATA[[스타뉴스 강민경 기자] /사진=영화 '듄' 포스터영화 '듄'의 입소문 흥행을 기념해 영화와 관련된 이모저모를 모은 듄쓸신잡이 공개됐다. 최근 워너브러더스 코리아 측은 파트2 제작 확정과 50만 관객 돌파, 박스오피스 1위 정상 탈환까지 연일 화제 속에 상영 중인 영화 '듄'의 이모저모를 공개했다. 영화 '듄'은 우주에서 가장 귀한 자원의 생산지 아라키스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['듄', 4만↑ 관객 동원하며 3일 연속 1위..56만 돌파]]></title>
-        <id>https://entertain.v.daum.net/v/20211030091420712</id>
-        <link href="https://entertain.v.daum.net/v/20211030091420712"/>
-        <updated>2021-10-30T01:09:20.724Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 김민지 기자 = 영화 '듄'(감독 드니 빌뇌브)이 박스오피스 1위 자리를 지켰다. 30일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 전날 '듄'은 4만7873명의 관객을 동원, 박스오피스 1위를 차지했다. 누적 관객 수는 56만6861명이다. 지난 20일 개봉한 '듄'은 27일 '베놈2: 렛 데어 비 카니지'를 제치고 박스오피스]]></content>
     </entry>
 </feed>
