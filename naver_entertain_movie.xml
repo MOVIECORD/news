@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-10-31T06:29:51.174Z</updated>
+    <updated>2021-10-31T07:23:13.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 할인·팝콘 취식 극장가 일상 회복… 연말 개봉 영화는]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001480792</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001480792"/>
+        <updated>2021-10-31T07:21:50.888Z</updated>
+        <content type="html"><![CDATA[극장가의 일상 회복이 시작됐다. 영화 할인 이벤트와 극장 내 취식이 가능한 전용관이 운영되면 극장을 찾는 관객도 늘어날 것으로 기대된다. 하지만 코로나19로 개봉을 미뤄온 한국 영화는 아직 상당수 개봉 라인업이 확정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘촬영감독 사망’ 알렉 볼드윈 “그녀는 내 친구였다, 총기퇴출 적극 환영” 첫 입장[해외이슈]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003550751</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003000911"/>
         <updated>2021-10-31T01:13:38.942Z</updated>
         <content type="html"><![CDATA['메이드 인 이태리'가 보는 것만으로도 눈을 즐겁게 하는 아름다운 풍광의 토스카나 포스터 2종을 전격 공개했다. 지금 당장 이탈리아로 떠나고 싶게 만드는 토스카나 포스터 2종은 로버트(리암 니슨 분)와 잭(마이클 리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10회 롯데 크리에이티브 공모전 수상작 7편 발표…총 상금 2억8천]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004501556</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004501556"/>
-        <updated>2021-10-31T01:13:38.946Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 올해로 10회를 맞이한 국내 최대 규모 영상 콘텐츠 공모전인 롯데 크리에이티브 공모전이 3개 부문 총 7편의 수상작을 발표했다. 각 부문별 주요 실무 인사들이 독창성과 완성도, 제작 가능성]]></content>
     </entry>
 </feed>
