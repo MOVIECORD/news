@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-10-31T18:27:53.474Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 31 Oct 2021 19:20:25 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웃음기 빼고 철학적 질문.. 완전히 달라진 마블시리즈]]></title>
+            <link>https://v.daum.net/v/20211101040712533</link>
+            <guid>https://v.daum.net/v/20211101040712533</guid>
+            <pubDate>Sun, 31 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[완전히 달라진 마블 시리즈의 서막이 올랐다. 유머보다 철학적인 질문을 던지고 관객에겐 도심에서 펼쳐지는 요란한 액션보다 사막, 화산, 해안 절벽 등 압도적 스케일의 대자연이 잔상으로 남는다. 3일 개봉하는 마블의 새 영화 ‘이터널스’가 지난 28일 언론에 공개됐다. 한국인 최초로 마블 히어로의 일원이 된 배우 마동석과 할리우드 톱스타 안젤리나 졸리의 조합,]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F01%2Fkukminilbo%2F20211101040713505vadf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
