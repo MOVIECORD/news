@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-11-01T20:26:49.355Z</updated>
+    <updated>2021-11-01T21:22:41.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크리스틴 스튜어트, “다이애나 왕세자비 웨딩드레스 입었을 때 무서웠다”[해외이슈]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003551330</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003551330"/>
+        <updated>2021-11-01T21:21:40.018Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 크리스틴 스튜어트가 다이애나 왕세자비의 웨딩 드레스를 입은 소감을 전했다. 그는 10월 31일(현지시간) 엔터테인먼트 투나잇에 출연해 “그 웨딩드레스를 입은 것은 무시무시했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["영화관서 드디어 팝콘을 먹다니"…심야관람 풍경도 변화]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012762975</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000276502"/>
         <updated>2021-11-01T08:27:30.999Z</updated>
         <content type="html"><![CDATA[[SBS연예뉴스 | 김지혜 기자] 마블 신작 '이터널스'가 8일 연속 전체 예매율 1위와 함께 개봉 이틀 전, 사전 예매량 20만 장을 돌파했다. 1일 영화진흥위원회 통합전산망에 따르면 오는 3일 개봉하는 '이터널스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["영사기에 벌레가 붙어서"...용산 IMAX관 또 사고]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010805409</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010805409"/>
-        <updated>2021-11-01T08:27:31.008Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스] 김지은 기자 = CGV 용산아이파크몰 아이맥스(IMAX) 상영관에서 또다시 사고가 일어났다. 지난주 관객이 영화 상영중 불을 켜는 '역대급' 관크(관람 중 다른 관객의 관람을 방해하는 행위)가 발생한]]></content>
     </entry>
 </feed>

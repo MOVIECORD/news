@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-11-01T20:26:49.357Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 01 Nov 2021 21:22:41 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[20년만에 다시 추억한 '와이키키브라더스'..박해일 "내 기념작"]]></title>
+            <link>https://v.daum.net/v/20211102061135521</link>
+            <guid>https://v.daum.net/v/20211102061135521</guid>
+            <pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[20년이 지나도 추억할 수 있는 영화다. 지난 달 30일 명필름아트센터에서는 영화 '와이키키 브라더스(임순례 감독)' 개봉 20주년 기념 상영회가 개최됐다. 이번 상영회는 필름으로 촬영된 원본을 4K 디지털 리마스터링한 버전으로 진행됐고, 임순례 감독을 비롯해 배우 박원상, 박해일이 직접 참석해 다양한 이야기를 나눴다. 캐스팅 비하인드를 묻는 질문에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Filgansports%2F20211102061137620opfe.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['태양은 움직이지 않는다' 韓日 배우들 "재미있는 작품, 마음 사로잡을 것"]]></title>
+            <link>https://v.daum.net/v/20211102060138379</link>
+            <guid>https://v.daum.net/v/20211102060138379</guid>
+            <pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국 배우와 일본 배우가 의기투합한 스파이 액션물이 찾아온다. 영화 '태양은 움직이지 않는다(하스미 에이이치로 감독)' 측은 1일 후지와라 타츠야, 타케우치 료마, 한효주, 변요한 등 주요 배우들의 비하인드 인터뷰 영상을 공개했다. '태양은 움직이지 않는다'는 24시간마다 다가오는 죽음의 위험을 안고, 전 세계에서 극비 정보들을 조사하는 AN통신 요원]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Filgansports%2F20211102060140458tjvh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스틴 스튜어트, "다이애나 왕세자비 웨딩드레스 입었을 때 무서웠다"[해외이슈]]]></title>
+            <link>https://v.daum.net/v/20211102060005211</link>
+            <guid>https://v.daum.net/v/20211102060005211</guid>
+            <pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 크리스틴 스튜어트가 다이애나 왕세자비의 웨딩 드레스를 입은 소감을 전했다. 그는 10월 31일(현지시간) 엔터테인먼트 투나잇에 출연해 “그 웨딩드레스를 입은 것은 무시무시했다”고 말했다. 크리스틴 스튜어트는 영화 ‘스펜서’에서 다이애나 왕세자비를 연기해 호평을 받았다. 그는 1991년 12월, 3일간의 주말을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F02%2Fmydaily%2F20211102060005302odat.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
