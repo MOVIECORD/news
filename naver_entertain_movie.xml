@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-11-02T13:30:46.296Z</updated>
+    <updated>2021-11-02T14:23:05.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['어나더 레코드' 김종관 감독 "신세경, 행복의 가치에 대한 고민하는 사람" [인터뷰M]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000137653</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000137653"/>
+        <updated>2021-11-02T14:21:52.653Z</updated>
+        <content type="html"><![CDATA['조제', '최악의 하루', '더 테이블' 등 독보적인 감성과 아름다운 영상미를 선보여온 김종관 감독이 이번에는 시네마틱 리얼 다큐멘터리에 도전했다. 영화, OTT, 유튜브 등 매체에 국한되지 않고 다양한 시도를 했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 '1984 최동원' #무쇠팔 #84년 한국시리즈 #가을의 기적]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000771565</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005697845"/>
         <updated>2021-11-02T08:28:51.336Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 원태성 기자 = 영화 촬영장에서 총기 사고로 오빠를 잃은 할리우드 배우 섀넌 리가 안전 규범 교육을 강화해야 한다고 강조했다. AFP 통신에 따르면 1일(현지시간) 섀넌 리는 로스앤젤레스에서 열린 아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10일 개봉 영화 '강릉' 주인공 장혁 "선 굵은 감성 액션, 기대하세요"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004623676</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004623676"/>
-        <updated>2021-11-02T08:28:51.337Z</updated>
-        <content type="html"><![CDATA[강원 강릉 바다를 배경으로 감성 짙은 액션이 펼쳐진다. 오는 10일 개봉하는 누아르 영화 ‘강릉’이다. 배우 장혁(사진)은 이 작품에서 평화와 의리를 중시하는 강릉 최대 조직의 수장 길석(유오성 분)에 맞서 리조트]]></content>
     </entry>
 </feed>
