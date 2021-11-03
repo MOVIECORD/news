@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-11-03T21:23:24.359Z</updated>
+    <updated>2021-11-03T22:24:57.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[故 신성일, 오늘(4일) 사망 3주기… 한국 영화계의 큰 별]]></title>
+        <title type="html"><![CDATA[궁금하다, ‘닥터 브레인’ [편파적인 씨네리뷰]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000771890</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000771890"/>
+        <updated>2021-11-03T22:24:15.060Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] ■편파적인 한줄평 : ‘흥미’ 동기화 성공. 궁금하다. 단순한 의학물인 줄로만 알았는데 살인, 범죄, 크리처까지 가세하며 보는 이를 빨아들인다. 일단 ‘흥미’ 동기화에 성공했다. 동영상스트리밍서비스(O]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[故 신성일, 오늘(4일) 3주기… 한국 영화계의 큰 별]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005077529</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005077529"/>
         <updated>2021-11-03T21:22:15.581Z</updated>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004873896"/>
         <updated>2021-11-03T08:29:32.322Z</updated>
         <content type="html"><![CDATA[제42회 청룡영화상 후보작을 무료로 감상할 수 있는 ‘후보작 상영제’가 열린다. 3일 청룡영화상 측은 오는 8일부터 16일까지 CGV여의도 2관에서 이 같은 행사가 개최된다고 알렸다. 본 시상식에 앞서 청룡영화상 후]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국계 저스틴 민, 美 버라이어티 선정 2021년 주목할 배우 선정]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005700640</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005700640"/>
-        <updated>2021-11-03T08:29:32.323Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 한국계 미국 배우 저스틴 민이 미국 유력 연애매체인 버라이어티에서 선정하는 2021년 주목해야 할 열 명의 배우 중 한 명으로 선정됐다. 버라이어티는 1998년 이후 매년 주목해야 할]]></content>
     </entry>
 </feed>
