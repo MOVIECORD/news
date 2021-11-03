@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 05:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 06:28:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김지운 감독 첫 드라마  “애플tv+와 힙하게 만들었다” <닥터 브레인> 제작발표회]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=169781</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=169781</guid>
+            <pubDate>Wed, 03 Nov 2021 06:26:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=169781">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211103151626_cc933ec0390147f422c42397a008bf62.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=169781">김지운 감독 첫 드라마  “애플tv+와 힙하게 만들었다” &lt;닥터 브레인&gt; 제작발표회</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211103151626_cc933ec0390147f422c42397a008bf62.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기적의 이수경, 웨이브 ‘데드맨’으로]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=169766</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=169237">연애가 어설픈 손석구-전종서 '연애 빠진 로맨스'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211101141022_028e128669c012981d10eb0e1a48a92e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[극장단신]  롯데시네마,  ‘백신 패스관’ 운영 "팝콘도 가능"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=169161</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=169161</guid>
-            <pubDate>Mon, 01 Nov 2021 01:12:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=169161">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211101100802_957cbdeb5f666eb33a59785364adfa29.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=169161">[극장단신]  롯데시네마,  ‘백신 패스관’ 운영 "팝콘도 가능"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211101100802_957cbdeb5f666eb33a59785364adfa29.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
