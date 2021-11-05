@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 05:23:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 06:29:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰&인터뷰] 김소형 감독의 단편들 ‘우리의 낮과 밤’ 등 (독립영화관)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=170377</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=170377</guid>
+            <pubDate>Fri, 05 Nov 2021 06:28:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=170377">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211105145630_d01b705838dcb43ff566afabe693495e.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=170377">[리뷰&amp;인터뷰] 김소형 감독의 단편들 ‘우리의 낮과 밤’ 등 (독립영화관)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8F%85%EB%A6%BD%EC%98%81%ED%99%94%EA%B4%80">독립영화관</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211105145630_d01b705838dcb43ff566afabe693495e.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[로코여신 박규영, '달리와 감자탕'이 낳은 새로운 이미지]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=170269</link>
@@ -347,23 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=UHD%20%ED%99%98%EA%B2%BD%EC%8A%A4%ED%8E%98%EC%85%9C">UHD 환경스페셜</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211104084806_22483da541885fcccdfd99eceeaab607.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신 자산어보 '흑산의 바다를 담다']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=169468</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=169468</guid>
-            <pubDate>Wed, 03 Nov 2021 21:21:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=169468">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211102103003_1580ce58b6ff462aaa41f24ef29f9ef5.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=169468">신 자산어보 '흑산의 바다를 담다'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211102103003_1580ce58b6ff462aaa41f24ef29f9ef5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
