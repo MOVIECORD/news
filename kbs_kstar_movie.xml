@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 23:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 01:13:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CIX 배진영,  '@계정을 삭제하였습니다' 주인공 신이준]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=170201</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=170201</guid>
+            <pubDate>Fri, 05 Nov 2021 01:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=170201">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211105094407_269d1671b93b861194a0afe582d68629.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=170201">CIX 배진영,  '@계정을 삭제하였습니다' 주인공 신이준</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211105094407_269d1671b93b861194a0afe582d68629.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[독립영화 '아워 미드나잇' 곧 개봉, "우리의 밤은 너의 낮보다 진실해"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=170147</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=169646">또 하나의 마블 빌런, '모비우스' 솔로무비 탄생</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211103090727_be482a06b2dd850c21381c78c7d0c49d_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["이 시나리오를 부탁해!" 제10회 롯데 크리에이티브 공모전 시상식]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=169641</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=169641</guid>
-            <pubDate>Wed, 03 Nov 2021 01:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=169641">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211103085732_996e9f49cdcc2d6fc71c1e65f4f91a35_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=169641">"이 시나리오를 부탁해!" 제10회 롯데 크리에이티브 공모전 시상식</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211103085732_996e9f49cdcc2d6fc71c1e65f4f91a35_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
