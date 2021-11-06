@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-11-06T20:25:49.332Z</updated>
+    <updated>2021-11-06T21:21:44.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[11월 출격 디즈니+ vs 애플TV+, 라인업은? [N초점]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005706680</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005706680"/>
+        <updated>2021-11-06T21:20:48.521Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 넷플릭스가 '오징어 게임'(감독 황동혁)으로 전세계 흥행을 이뤄낸 사이, 국내에서는 글로벌 온라인동영상서비스(OTT) 후발주자인 애플TV 플러스(이하 애플TV+)와 디즈니 플러스(이하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["완벽한 티키타카, 위트 넘치는 대사" 류승룡 코미디 '장르만 로맨스' 시사회 현장]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000040412</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002566760"/>
         <updated>2021-11-06T02:37:05.646Z</updated>
         <content type="html"><![CDATA[인간이 인간답게 살기 위해서는 무엇을 끝까지 지켜야 할 것인가. 다큐멘터리 &lt;사수&gt;(2018, 김설해·정종민·조영은)는 인간다운 삶을 위해 투쟁에 나선 이들의 고뇌를 솔직하게 담아낸 다큐멘터리이다. 감독들은 2011]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 '팬데믹'과 '미스트'로 보는 다양한 인간 군상과 혐오[방구석 1열]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003002540</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003002540"/>
-        <updated>2021-11-06T02:37:05.648Z</updated>
-        <content type="html"><![CDATA['방구석 1열'에서 영화 '팬데믹'과 '미스트'를 통해 코로나19 사태 속 다양한 인간 군상을 살펴본다. 오는 7일 방송되는 JTBC 예능 프로그램 '방구석 1열'은 코로나19 '단계적 일상회복' 이라는 특별한 주제]]></content>
     </entry>
 </feed>

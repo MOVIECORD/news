@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-11-06T20:25:49.325Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 06 Nov 2021 21:21:44 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[11월 출격 디즈니+ vs 애플TV+, 라인업은? [N초점]]]></title>
+            <link>https://v.daum.net/v/20211107060029680</link>
+            <guid>https://v.daum.net/v/20211107060029680</guid>
+            <pubDate>Sat, 06 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 넷플릭스가 '오징어 게임'(감독 황동혁)으로 전세계 흥행을 이뤄낸 사이, 국내에서는 글로벌 온라인동영상서비스(OTT) 후발주자인 애플TV 플러스(이하 애플TV+)와 디즈니 플러스(이하 디즈니+)가 이달 차례로 론칭한다. 넷플릭스에 대항하는 국산 OTT 서비스 왓챠, 티빙, 웨이브 등도 이미 시장에서 자리를 잡아가고 있는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F07%2FNEWS1%2F20211107060030869gucw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
