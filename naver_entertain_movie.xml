@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-11-07T09:24:31.256Z</updated>
+    <updated>2021-11-07T10:27:05.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잘 봐, 11월 '로맨스' 싸움이다 [Oh!쎈 초점]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004506346</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004506346"/>
+        <updated>2021-11-07T10:26:13.211Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 이달 극장가는 코믹 로맨스가 책임진다. 먼저 이달 17일 배우 출신 감독 조은지가 연출한 첫 장편영화 ‘장르만 로맨스’가 개봉한다. ‘장르만 로맨스’(제공배급 NEW, 공동제공 Library]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마동석, 친척 집 얹혀 살며 분유장사 하던 그가 마블히어로 되기까지[Oh!쎈 초점]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004506213</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=021&amp;aid=0002491511"/>
         <updated>2021-11-07T02:38:27.265Z</updated>
         <content type="html"><![CDATA[CJ CGV가 올해 3분기 연결 기준 매출 1,621억원, 영업손실 775억원을 기록했다고 5일 공시했다. 코로나19로 인해 CJ CGV는 3분기에도 어려움을 겪었지만, 위드코로나로 진입하고 있는 터키 및 중국의 회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SC할리우드]'이터널스', 동성 키스신으로 중동국가 개봉 금지…졸리 "무지한 것" 일침]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003798705</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003798705"/>
-        <updated>2021-11-07T01:15:02.199Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 이승미 기자]MCU(마블 시네마틱 유니버스)의 새 영화 '이터널스'가 동성 키스신으로 인해 중동국가에서 개봉이 금지가 된 가운데, 주연배우 안젤리나 졸리가 이에 대한 생각을 전했다. 올해 마블 최대 기대]]></content>
     </entry>
 </feed>
