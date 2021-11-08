@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-11-08T09:25:35.738Z</updated>
+    <updated>2021-11-08T10:28:57.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위드코로나+이터널스 효과… 15개월 만에 주말 극장 관객 100만]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000639862</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000639862"/>
+        <updated>2021-11-08T10:27:30.785Z</updated>
+        <content type="html"><![CDATA[부활의 신호탄인가. 신종 코로나바이러스 감염증(코로나19) 확산으로 붕괴 직전까지 몰렸던 극장가가 오랜 만에 활짝 웃었다. 1년 3개월 만에 주말(토ㆍ일 기준) 관객 100만 명을 넘기며 ‘코로나19 불황’ 탈출을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘지리산’ 신 스틸러 공성하 “전지현·주지훈과 연기해 영광”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000943633</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003495935"/>
         <updated>2021-11-08T08:29:40.389Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=이미지 기자] '언프레임드'가 왓챠 단독 공개를 확정 지으며 티저 포스터와 티저 예고편을 공개했다. '언프레임드'는 프레임에서 벗어나 새로운 가능성을 탐색하는 네 명의 아티스트(박정민, 손석구, 최희서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유토피아에서 일어나는 생존 미션! '신세계로부터']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000040481</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000040481"/>
-        <updated>2021-11-08T08:29:40.389Z</updated>
-        <content type="html"><![CDATA[누구나 꿈꾸는 세계, 유토피아에서 일어나는 예측불허의 사건들이 일어난다. 생존 미션, 대결, 반전 등을 펼치며 벌어지는 이야기를 담은 신개념 가상 시뮬레이션 예능 &lt;신세계로부터&gt;가 선택된 자들의 꿈의 유토피아 ‘신세]]></content>
     </entry>
 </feed>
