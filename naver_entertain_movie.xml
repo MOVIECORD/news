@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-11-08T15:28:15.449Z</updated>
+    <updated>2021-11-08T16:38:56.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스티브 연♥조안나 박, ‘비주얼 부부’ 그 자체 [포토]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000943677</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000943677"/>
+        <updated>2021-11-08T16:37:13.328Z</updated>
+        <content type="html"><![CDATA[스티브 연♥조안나 박, ‘비주얼 부부’ 그 자체 [포토] 스티브 연과 조안나 박이 6일(현지시간) 미국 LA 카운티 미술관에서 열린 ‘LACMA 아트 필름 갈라’ 행사에 참석했다. ‘LACMA 아트 필름 갈라’는 영]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 '듄', 국내 개봉 3주차 관객 100만 돌파]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000115073</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003495948"/>
         <updated>2021-11-08T08:29:40.368Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=이미지 기자] '완다비전'의 메인 포스터와 메인 예고편이 공개됐다. 디즈니+에서 총 9편의 에피소드가 동시에 스트리밍되는 마블 최고의 웰메이드 오리지널 시리즈 '완다비전'은 슈퍼히어로 완다와 비전이 마]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드니 빌뇌브 SF 영화 '듄' 100만 관객 돌파]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012778442</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012778442"/>
-        <updated>2021-11-08T08:29:40.372Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 한미희 기자 = 드니 빌뇌브 감독이 연출하고 티모테 샬라메가 주연한 SF 영화 '듄'이 100만 관객을 돌파했다. 8일 배급사 워너브러더스코리아에 따르면 '듄'은 개봉 20일째인 이날 오전 누적 관]]></content>
     </entry>
 </feed>
