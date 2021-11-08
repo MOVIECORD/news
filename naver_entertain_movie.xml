@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-11-08T19:21:36.182Z</updated>
+    <updated>2021-11-08T20:27:24.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강동원, 어딜가도 ‘잘생김’ [포토]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000943680</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000943680"/>
+        <updated>2021-11-08T20:26:39.255Z</updated>
+        <content type="html"><![CDATA[강동원, 어딜가도 ‘잘생김’ [포토] 배우 강동원이 6일(현지시간) 미국 LA 카운티 미술관에서 열린 ‘LACMA 아트 필름 갈라’ 행사에 참석했다. ‘LACMA 아트 필름 갈라’는 영화 프로그램 확장을 위한 운영기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유체이탈자' 윤계상, 1인7역 미러 연기…어떻게 만들었지?]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010819936</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000276752"/>
         <updated>2021-11-08T08:29:40.357Z</updated>
         <content type="html"><![CDATA[[SBS연예뉴스 | 김지혜 기자] 레오 까락스 감독의 뮤지컬 영화 '아네트'가 전국 3만 관객을 돌파했다. '아네트'는 오페라 가수 '안'과 스탠드업 코미디언 헨리가 사랑에 빠지면서 무대 그 자체가 된 그들의 삶을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레오 카락스 '아네트', 3만 관객 돌파…다양성 영화 1위]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005709894</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005709894"/>
-        <updated>2021-11-08T08:29:40.362Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 레오 카락스 연출, 아담 드라이버, 마리옹 꼬띠아르 주연의 '아네트'가 개봉 2주차에도 다양성 영화 흥행 1위를 기록하며 3만 관객을 돌파했다. 8일 배급사에 따르면 지난달 27일 개]]></content>
     </entry>
 </feed>
