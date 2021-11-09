@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-11-09T20:27:10.620Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 09 Nov 2021 21:22:21 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레오나르도 디카프리오, 900명 살인 종교리더 물망[해외이슈]]]></title>
+            <link>https://v.daum.net/v/20211110061003213</link>
+            <guid>https://v.daum.net/v/20211110061003213</guid>
+            <pubDate>Tue, 09 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 레오나르도 디카프리오가 900여명의 목숨을 앗아간 사이비 종교 지도자 짐 존스 영화에 출연할 전망이다. 버라이어티는 8일(현지시간) 레오나르도 디카프리오가 MGM이 제작하는 종교 숭배 지도자 짐 존스 역을 연기하기 위해 마지막 협상을 벌이고 있다고 보도했다. 1978년 11월, 피플 템플 종교 단체의 지도자로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F10%2Fmydaily%2F20211110061003744ywxu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
