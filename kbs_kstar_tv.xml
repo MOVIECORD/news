@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 01:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 02:38:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유퀴즈, '이름이 나의 운명']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=171560</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=171560</guid>
+            <pubDate>Wed, 10 Nov 2021 02:35:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=171560">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211110113308_6d0bd55993c0b7636c694435f1d33891.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=171560">유퀴즈, '이름이 나의 운명'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211110113308_6d0bd55993c0b7636c694435f1d33891.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[시청률 여왕 김하늘, '킬힐'로 안방 극장 복귀!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=171520</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=170564">'지리산' 주지훈 추격전 예고 '감자 폭탄 테러범의 실체는?'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211106190540_d3d4cc78e5b6fc052eeaa22ac19c0e71.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박형식-한효주, 뜻밖의 한집살이 예고]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=170557</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=170557</guid>
-            <pubDate>Sat, 06 Nov 2021 11:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=170557">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211106181029_ad0ad362567ddd386b8999710cfc6c83.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=170557">박형식-한효주, 뜻밖의 한집살이 예고</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211106181029_ad0ad362567ddd386b8999710cfc6c83.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
