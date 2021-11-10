@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-11-10T19:22:06.462Z</updated>
+    <updated>2021-11-10T20:27:39.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[韓 영화의 저력…리메이크작, 중화권 극장가 접수 [TF확대경]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000115491</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000115491"/>
+        <updated>2021-11-10T20:25:31.094Z</updated>
+        <content type="html"><![CDATA[한국 영화·합작 영화 대신 리메이크작 줄줄이 개봉…흥행 릴레이 코로나19 팬데믹으로 전 세계 극장가의 침체가 이어진 가운데 2021년 중화권 극장가에서 한국 영화를 원작으로 한 리메이크 작품들의 선전이 눈에 띈다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 ‘태일이’ 관람한 김재연 대선후보 “지금 시대 전태일들의 ‘전국민노동법’ 만들겠다”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000773552</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000510736"/>
         <updated>2021-11-10T12:36:39.383Z</updated>
         <content type="html"><![CDATA[[텐아시아=노규민 기자] 영화 '모가디슈'를 연출한 류승완 감독이 제41회 영평상에서 감독상을 수상했다. 10일 오후 6시 30분 서울 중구 통일로 KG타워 지하 1층 KG하모니홀에서 제41회 영평상 시상식이 열렸다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['영평상' 설경구·문소리, 명품 배우의 품격 '남녀주연상 영예' [MD동영상]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003554351</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003554351"/>
-        <updated>2021-11-10T12:36:39.392Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 김정수 기자] 배우 설경구와 문소리가 10일 오후 서울 중구 순화동에서 진행된 '제41회 영평상 시상식' 레드카펫 포토월 행사에 참석해 포토타임을 가졌다. [사진 = 송일섭 기자 andlyu@myda]]></content>
     </entry>
 </feed>
