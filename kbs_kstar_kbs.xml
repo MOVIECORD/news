@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 05:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 06:29:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유승호, KBS사극 '꽃 피면 달 생각하고' 주인공]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=171615</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=171615</guid>
+            <pubDate>Wed, 10 Nov 2021 06:27:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=171615">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211110152632_b9ce9ae1666c7c2ab3b58114904b14c3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=171615">유승호, KBS사극 '꽃 피면 달 생각하고' 주인공</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%BD%83%20%ED%94%BC%EB%A9%B4%20%EB%8B%AC%20%EC%83%9D%EA%B0%81%ED%95%98%EA%B3%A0">월화드라마 꽃 피면 달 생각하고</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211110152632_b9ce9ae1666c7c2ab3b58114904b14c3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[충격적 진실 담긴 미스터리 스릴러, KBS 드라마 스페셜 '사이렌']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=171587</link>
@@ -345,24 +363,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8C%80%ED%95%98%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%83%9C%EC%A2%85%20%EC%9D%B4%EB%B0%A9%EC%9B%90">대하드라마 태종 이방원</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211109090359_3062f4c03211d1a36659b7f3dc4918ed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[개는 훌륭하다] 훈련거부 행복이와 경계심 만복이 사이에서 결국 해내는 강형욱]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=171072</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=171072</guid>
-            <pubDate>Mon, 08 Nov 2021 16:36:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=171072">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211109004410_0979ba7c09422029b47e1b5ed5560f3f.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=171072">[개는 훌륭하다] 훈련거부 행복이와 경계심 만복이 사이에서 결국 해내는 강형욱</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">개는 훌륭하다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211109004410_0979ba7c09422029b47e1b5ed5560f3f.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
