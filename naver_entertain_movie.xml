@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-11-11T19:21:40.395Z</updated>
+    <updated>2021-11-11T20:27:39.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디즈니+ 콘텐츠 폭격 시작…국내 OTT 시장 판도 바뀐다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010828032</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010828032"/>
+        <updated>2021-11-11T20:26:47.336Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 12일 본격 서비스 개시 OTT 전쟁 시작 넷플릭스 독주에 도전…2강 형성 예상 마블·디즈니·스타워즈 등 콘텐츠 강력 한국 콘텐츠 7편 공개 예정 물량 공세 [서울=뉴시스] 손정빈 기자 = 세계 최고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘Dr 브레인’ 선보인 김지운 감독 “영화·드라마 같이 하고 싶다”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001483829</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000276910"/>
         <updated>2021-11-11T10:27:47.789Z</updated>
         <content type="html"><![CDATA[[SBS연예뉴스 | 김지혜 기자] 영화 '사냥의 시간'이 영어 버전으로 리메이크 된다. 미국 매체 데드라인(Deadline)은 10일(현지시간) "넷플릭스가 영화 '사냥의 시간(감독 윤성현)'을 리메이크 한다"며 "]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김대건 신부, 탄생 200년 기념 스크린 부활…영화 '탄생']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010827752</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010827752"/>
-        <updated>2021-11-11T10:27:47.789Z</updated>
-        <content type="html"><![CDATA[기사내용 요약 박흥식 감독 "천주교 소재이지만 재미있는 상업영화" 윤시윤 "김대건 신부 역 맡은 것 자체가 영광" [서울=뉴시스] 신효령 기자 = 한국인 최초의 천주교 사제이자 올해 유네스코 세계기념 인물로 선정된]]></content>
     </entry>
 </feed>
