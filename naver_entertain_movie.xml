@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-11-11T15:28:12.078Z</updated>
+    <updated>2021-11-11T16:37:37.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[청춘영화 '아워 미드나잇', 일러스트 포스터 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004509101</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004509101"/>
+        <updated>2021-11-11T16:36:52.002Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '아워 미드나잇' 측이 개봉 기념 일러스트 포스터를 공개했다. '아워 미드나잇'(감독 임정은, 제작 화목한 영화사, 배급 필름다빈)은 불빛이 반짝이는 한강 다리 위에서 처음 만난 청춘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11월 극장가, 관객은 즐겁다…활력 높일 기대작 봇물 [TF확대경]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000115720</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002332447"/>
         <updated>2021-11-11T09:25:40.748Z</updated>
         <content type="html"><![CDATA[▲ [오마이포토] 장동윤, '태일이'와 판박이 ⓒ 이정민 장동윤 배우가 11일 오후 서울 용산구의 한 상영관에서 열린 애니메이션 &lt;태일이&gt; 시사회에서 포토타임을 갖고 있다. &lt;마당을 나온 암탉&gt;에 이은 명필름의 두]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오마이포토] '태일이' 장동윤, 영광이고 감사한 참여]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002332445</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002332445"/>
-        <updated>2021-11-11T09:25:40.748Z</updated>
-        <content type="html"><![CDATA[▲ [오마이포토] '태일이' 장동윤, 영광이고 감사한 참여 ⓒ 이정민 장동윤 배우가 11일 오후 서울 용산구의 한 상영관에서 열린 애니메이션 &lt;태일이&gt; 시사회에서 포토타임을 갖고 있다. &lt;마당을 나온 암탉&gt;에 이은]]></content>
     </entry>
 </feed>
