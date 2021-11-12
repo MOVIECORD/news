@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 22:26:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 23:26:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211108111636_979c390cada8ef09acee823b8ddf651e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[정상훈 막내아들 한결, '심쿵 귀요미' (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=172282</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=172282</guid>
+            <pubDate>Fri, 12 Nov 2021 23:25:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=172282">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211113082408_b9b268727af2dba374153c09d25f221f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=172282">정상훈 막내아들 한결, '심쿵 귀요미'</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%20%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상 출시 편스토랑</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211113082408_b9b268727af2dba374153c09d25f221f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[유희열의 스케치북] 박선주, 담담하면서도 애절한 목소리 ♬ 너의 집 앞에서 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=172277</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=172277</guid>
@@ -1030,24 +1048,6 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211112154117_0b5c9e2d8ee713693b41e0d82f865d8e_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[현대인들의 충격과 공포 담긴 드라마 스페셜 '사이렌' 오늘(12일) 방송! (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=172154</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=172154</guid>
-            <pubDate>Fri, 12 Nov 2021 03:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=172154">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211112105234_202caa437829e6c60f2111e42e942c62.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=172154">현대인들의 충격과 공포 담긴 드라마 스페셜 '사이렌' 오늘(12일) 방송!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=KBS%20%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8A%A4%ED%8E%98%EC%85%9C%202021">KBS 드라마 스페셜 2021</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211112105234_202caa437829e6c60f2111e42e942c62.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['부산국제영화제' 조한철, 개막작 '행복의 나라로'로 레드카펫 밟는다 (MBC 연예 ─ 영화)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/327093</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/327093</guid>
@@ -1110,6 +1110,48 @@
             <pubDate>Wed, 22 Sep 2021 15:01:50 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/324801" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/08/319f7cfd-9966-44d3-a886-43309fc8bb4f.jpg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">'기적' 임윤아 "사투리 연기에 도전, 한 단계 성장했다" [인터뷰M]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/08/319f7cfd-9966-44d3-a886-43309fc8bb4f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이유영X예수정 '간호중' 확장판, 11월 25일 개봉 [무비타이밍] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003004340</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003004340</guid>
+            <pubDate>Fri, 12 Nov 2021 23:25:46 GMT</pubDate>
+            <content:encoded><![CDATA[인간보다 인간다운 고민에 빠진 간병 로봇에 대한 스토리로 화제를 모았던 작품 '간호중' 확장판이 11월 25일 극장 개봉을 확정 했다. 한국판 오리지널 SF 앤솔러지 시리즈로 화제를 모았던 'SF8'의 여덟 작품 중]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['세상에서 가장 아름다운 소년' 어떻게 살고 있나 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010830028</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010830028</guid>
+            <pubDate>Fri, 12 Nov 2021 23:25:46 GMT</pubDate>
+            <content:encoded><![CDATA[기사내용 요약 왓챠, 비요른 안드레센 다큐 독점 공개 최신 일본 드라마 '최애'도 독점 공개해 [서울=뉴시스] 손정빈 기자 = 11월 2주차에 왓챠가 독점 공개하는 작품은 다큐멘터리 한 편과 일본 드라마 한 편이다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[칸과 베니스가 사랑한 영화, 스크린 찾는다 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003574487</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003574487</guid>
+            <pubDate>Fri, 12 Nov 2021 23:25:46 GMT</pubDate>
+            <content:encoded><![CDATA[칸영화제 황금종려상을 거머쥔 두 여성 감독의 작품이자 올해 칸과 베니스를 사로잡은 걸작 '파워 오브 도그'와 '티탄'이 스크린을 찾는다. 영화 '피아노'(1993)로 여성 감독 최초 황금종려상을 받은 바 있는 제인]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[송해·최동원, 다큐멘터리 영화로 만나는 인생사 [N초점] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005721062</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005721062</guid>
+            <pubDate>Fri, 12 Nov 2021 23:25:46 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 국내 최고령 현역 방송인과 전설적인 야구선수를 다큐멘터리 영화로 만난다. 바로 송해와 최동원이 그 주인공이다. 두 사람을 다룬 첫 번째 다큐멘터리 작인 '송해 1927'과 '1984]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[천만 배우 류승룡의 '장르만 로맨스', 마블 잡을까 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004878517</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004878517</guid>
+            <pubDate>Fri, 12 Nov 2021 23:25:46 GMT</pubDate>
+            <content:encoded><![CDATA[작지만 강하다. '흥행 보증 수표' 류승룡의 신작 '장르만 로맨스' 오는 17일 출격한다. 마블이 점령한 박스오피스 왕좌를 과연 빼앗을 수 있을까. '장르만 로맨스'는 평범하지 않은 로맨스로 얽힌 이들과 만나 일도]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[설경규X이선균 '킹메이커', 치열한 선거 전쟁의 서막 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003004332</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003004332</guid>
+            <pubDate>Fri, 12 Nov 2021 23:25:46 GMT</pubDate>
+            <content:encoded><![CDATA[설경구 이선균 주연의 영화 '킹메이커'(감독 변성현)가 런칭 예고편 2종을 함께 공개했다. 12월 개봉 예정인 '킹메이커'는 세상을 바꾸기 위해 도전하는 네 번 낙선한 정치인 김운범(설경구 분)과 존재도 이름도 숨겨]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['이터널스' 개봉 10일만 200만 돌파 [★무비차트] (네이버TV연예 ─ 영화)]]></title>
@@ -1245,46 +1287,165 @@
             <content:encoded><![CDATA[로키(톰 히들스턴)는 매번 죽었다. 정확히는 죽은 척해왔다. 이 사랑스러운 거짓말쟁이는 매번 죽음을 위장하여 퇴장한 뒤 커튼 뒤에서 음모를 꾸미다 들키면 천연덕스럽게 돌아왔다. 하지만 &lt;어벤져스: 인피니티 워&gt;에서]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스칼렛 위치가 온다 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000045870</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000045870</guid>
-            <pubDate>Fri, 12 Nov 2021 09:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[마블 시네마틱 유니버스(MCU)에서 제일 강한 존재는 누구일까. 유치하지만 다들 궁금해할, 누구나 한번쯤은 순위를 매겨봤을 질문. 심지어 설정은 얼마든지 바뀔 수 있다는 걸 알고 있으면서도 굳이 줄 세워보고 싶은 마]]></content:encoded>
+            <title><![CDATA[[종합] 조인성, 잠실L타워 초고층 2채 보유…장동건♥고소영, 115억원 아파트 거주('연중라이브') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511234</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511234</guid>
+            <pubDate>Fri, 12 Nov 2021 23:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자] 배우 조인성이 '최고급 아파트에 사는 스타' 1위로 뽑혔다. 지난 12일 방송된 KBS 2TV '연중 라이브'의 '차트를 달리는 여자 코너'에서는 최고급 아파트에 사는 스타 순위가 공개됐다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[디즈니+, 마블 히어로와 함께 한국 출격! (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000045869</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000045869</guid>
-            <pubDate>Fri, 12 Nov 2021 09:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[드디어 그날이 왔다. 11월12일 월트디즈니컴퍼니의 스트리밍 서비스 디즈니+가 한국에서 공식 출시됐다. 월트디즈니컴퍼니는 명실상부 세계 최대의 글로벌 엔터테인먼트 및 미디어 기업이다. 전세계 1억1600만명 이상의]]></content:encoded>
+            <title><![CDATA[[종합] 서민정·정일우, 묘했던 러브라인 회상 "울컥한다" ('다큐플렉스') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511233</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511233</guid>
+            <pubDate>Fri, 12 Nov 2021 23:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=우빈 기자] 배우 서민정과 정일우가 아쉬움을 많이 남겼던 로맨스를 추억했다. 지난 12일 방송된 MBC '다큐플렉스 청춘다큐-거침없이 하이킥'에서는 '거침없이 하이킥' 당시 윤민 커플로 많은 사랑을 받았던]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[설경구X이선균 '킹메이커', 치열 선거 전쟁의 서막..런칭예고편 공개 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003497817</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003497817</guid>
-            <pubDate>Fri, 12 Nov 2021 09:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=이미지 기자] '킹메이커'가 런칭 예고편 2종을 함께 공개해 이목을 집중시킨다. 영화 '킹메이커'는 세상을 바꾸기 위해 도전하는 네 번 낙선한 정치인 ‘김운범’과 존재도 이름도 숨겨진 선거 전략가 ‘서]]></content:encoded>
+            <title><![CDATA['지헤중' 최희서 "오늘 자존심도 일시불로 긁었어"…사랑에 울고웃는 '매력캐' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000328579</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000328579</guid>
+            <pubDate>Fri, 12 Nov 2021 23:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]배우 최희서가 ‘지금, 헤어지는 중입니다’에서 패션 그룹 ‘더 원’의 이사 황치숙 역을 맡아 모든 걸 다 가졌지만, 사랑에 울고 웃는 솔직하고 쿨한 매력으로 첫 방송부터 활약했다. 12일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이솜 "나에게 청룡영화상이란? 선물이다" 왜? [MD동영상] (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003554998</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003554998</guid>
-            <pubDate>Fri, 12 Nov 2021 09:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김정수 기자] 12일 오후 서울 영등포구 여의도동 CGV여의도에서 진행된 제42회 청룡영화상 핸드프린팅 행사에 참석한 배우 이솜이 자신에게 있어 청룡영화상이 갖는 의미를 묻는 질문에 "선물"이라고 답]]></content:encoded>
+            <title><![CDATA['불후' 송해 "'전국노래자랑' 후계자는…" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004878522</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004878522</guid>
+            <pubDate>Fri, 12 Nov 2021 23:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[‘불후의 명곡’에서 최고의 입담을 자랑하는 넘사벽 MC군단의 토크 전쟁이 펼쳐진다. 13일 방송되는 KBS2 ‘불후의 명곡’ 531회에서는 송해, 이상벽, 이상용, 허참, 이택림, 임백천이 출연해 ‘전설의 명MC 특]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박혁지 감독 ‘행복의 속도’, 한 편의 시를 보는 듯한 서정 & 힐링 “뮤직비디오 공개” (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003554997</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003554997</guid>
-            <pubDate>Fri, 12 Nov 2021 09:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]천혜의 자연이 살아 숨 쉬는 광활한 습원 지대 ‘오제’에서 일하는 두 명의 ‘봇카’를 통해 진정한 행복의 의미를 찾아가는 영화 ‘행복의 속도’가 ‘봇카’들의 행복한 일상을 담은 서정적인]]></content:encoded>
+            <title><![CDATA['세상에서 가장 아름다운 소년' 어떻게 살고 있나 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010830028</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010830028</guid>
+            <pubDate>Fri, 12 Nov 2021 23:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[기사내용 요약 왓챠, 비요른 안드레센 다큐 독점 공개 최신 일본 드라마 '최애'도 독점 공개해 [서울=뉴시스] 손정빈 기자 = 11월 2주차에 왓챠가 독점 공개하는 작품은 다큐멘터리 한 편과 일본 드라마 한 편이다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김희원 "'바퀴달린집' 출연? 캠핑 아무나 하는 거 아니더라" [MD인터뷰③] (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003554996</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003554996</guid>
-            <pubDate>Fri, 12 Nov 2021 09:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 김희원이 벌써 세 시즌째 '바퀴 달린 집'에 출연하고 있는 소회를 밝혔다. 김희원은 12일 오후 화상 온라인 인터뷰를 진행했다. 오는 17일 영화 '장르만 로맨스' 개봉을 앞두고]]></content:encoded>
+            <title><![CDATA['국민 영수증' 샘 해밍턴 "층간소음 걱정없는 단독주택 마련이 꿈"[TV핫샷] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000328578</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000328578</guid>
+            <pubDate>Fri, 12 Nov 2021 23:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]'국민 영수증' 샘 해밍턴이 윌벤져스(윌리엄, 벤틀리)의 아버지답게 육아 꿀팁을 대방출했다. 12일 방송된 KBS Joy 예능 프로그램 '국민 영수증' 10회에서는 호주 출신 개그맨 샘 해]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[설현·옥주현·시우민 출격, 첫 아형고 축제…'아는 형님' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010830026</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010830026</guid>
+            <pubDate>Fri, 12 Nov 2021 23:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]이수진 인턴 기자 = 형님들의 절친과 함께하는 '아형고 축제'가 열린다. 13일 오후 7시 40분 방송될 JTBC '아는 형님'에서는 형님학교 개설 이래 최초로 '아형고 축제'가 개최된다. 이날 축제에]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['브래드Pt&GYM캐리' 심하은, ♥이천수 혹독한 특훈에 서러움 폭발[TV핫샷] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000328577</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000328577</guid>
+            <pubDate>Fri, 12 Nov 2021 23:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]'브래드PT&amp;GYM캐리' 심하은이 일일 트레이너 이천수와 혹독한 운동을 함께했다. 12일 방송된 MBC에브리원 '브래드PT&amp;GYM캐리'에서는 심하은 이천수 부부의 달콤살벌한 하루가 그려졌다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[종합] 294도 용암 속에 탕수육을? 99즈 집단 멘붕…정경호 "중국집 왜 많은지 알겠다" ('산촌생활') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511232</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511232</guid>
+            <pubDate>Fri, 12 Nov 2021 23:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=노규민 기자] '99즈' 조정석, 김대명, 정경호가 짜장면부터 탕수육까지, 중화요리 만들기에 진땀을 흘렸다. ' 지난 12일 방송된 tvN '슬기로운 산촌생활'(이하 '산촌생활')에서는 조정석, 김대명,]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[종합] 서인영 "제시와 불화설 지겨워, 母 뇌경색으로 세상 떠나" 눈물 ('금쪽삼당소') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511231</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511231</guid>
+            <pubDate>Fri, 12 Nov 2021 23:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=태유나 기자] 가수 서인영이 자신을 둘러싼 소문들에 대해 해명했다. 이어 어머니의 임종을 지키지 못한 것에 후회의 눈물을 흘렸다. 지난 12일 방송된 채널A 예능 '오은영의 금쪽 상담소'('금쪽 상담소')]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['해피니스' 한효주‧박형식, 아파트 1호 감염자 발생에 심각성 감지[TV핫샷] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000328576</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000328576</guid>
+            <pubDate>Fri, 12 Nov 2021 23:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]‘해피니스’ 한효주, 박형식이 위험에 맞서 싸울 것을 선택했다. 12일 방송된 티빙 오리지널 ‘해피니스(Happiness)’(극본 한상운, 연출 안길호, 이하 ‘해피니스’) 3회에서는 감염]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[컴백 SOON] 이승환·티아라·윤하… 음원강자 몰려온다 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=018&amp;aid=0005084834</link>
+            <guid>https://entertain.naver.com/now/read?oid=018&amp;aid=0005084834</guid>
+            <pubDate>Fri, 12 Nov 2021 23:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[이승환(사진=드림팩토리) [이데일리 스타in 윤기백 기자] 가수 이승환부터 티아라, 윤하까지 가요계 대표 음원강자들이 몰려온다. 이승환은 2년 만의 신곡 ‘어쩜’을 오는 18일 발매한다. 드림팩토리에 따르면, ‘어쩜]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Y초점] '놀면 뭐하니?+'에 흐르는 이상 기류 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001664660</link>
+            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001664660</guid>
+            <pubDate>Fri, 12 Nov 2021 23:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[MBC '놀면 뭐하니?'를 둘러싼 이상 기류가 심상치 않다. 최근 패밀리십을 구축하면서 점차 알음알음 '무한도전 시즌2'로 흐르는 상황이 주목 받고 있다. 최근 '놀면 뭐하니?' 측은 정준하, 하하, 신봉선, 미주]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Y랭킹] 패션 베스트 송혜교 VS 워스트 김보라 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001664659</link>
+            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001664659</guid>
+            <pubDate>Fri, 12 Nov 2021 23:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[의상을 고를 때 무엇보다 중요한 건 색상 선택이다. 디자인도 물론 중요하지만 눈에 가장 먼저 들어오는 건 색깔이기 때문. 자신의 피부톤에 어울리는 색상의 옷을 선택하면, 전체적인 이미지와 인상을 더욱 돋보이게 할 수]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Y터뷰] 송원석 "'SNL'→'원더우먼' 이하늬와 재회 영광…편하게 연기" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001664658</link>
+            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001664658</guid>
+            <pubDate>Fri, 12 Nov 2021 23:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[배우 송원석이 드라마 '원더우먼'에서 연기 호흡을 맞춘 이하늬와의 재미있는 인연에 대해 밝혔다. SBS 금토드라마 '원더우먼'은 지난 6일 16회를 마지막으로 종영했다. 방송 내내 화제를 모았던 '원더우먼'은 마지막]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Y터뷰②]이원근 "'원더우먼' 안유준과 싱크로율? 50%…용기, 멋있었다" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001664656</link>
+            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001664656</guid>
+            <pubDate>Fri, 12 Nov 2021 23:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이원근이 드라마 '원더우먼'에서 연기한 캐릭터 안유준과의 실제 싱크로율은 50% 정도라고 답했다. SBS 금토드라마 '원더우먼'은 지난 6일 16회를 마지막으로 종영했다. 방송 내내 화제를 모았던 '원더우먼'은]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Y터뷰①]이원근 "'원더우먼' 흥행 비결? 이하늬…프로다운 모습 대단" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001664655</link>
+            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001664655</guid>
+            <pubDate>Fri, 12 Nov 2021 23:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이원근이 인기리에 종영한 드라마 '원더우먼'의 흥행 비결을 모두 선배 연기자 이하늬에게 돌렸다. SBS 금토드라마 '원더우먼'은 지난 6일 16회를 마지막으로 종영했다. 방송 내내 화제를 모았던 '원더우먼'은]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[종영 '등교전 망설임', 오은영의 뜨거운 눈물 응원 "포기하지 않을게요" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000328575</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000328575</guid>
+            <pubDate>Fri, 12 Nov 2021 23:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]오은영 박사가 ‘방과후 설렘’ 4학년 연습생들의 진심에 결국 눈물을 쏟았다. 12일 네이버 나우에서 방송된 방과후 설렘 프리퀄 ‘등교전 망설임’에서는 4학년 연습생들이 그간 함께 울고 웃었]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘지헤중’, 송혜교X장기용 케미 폭발…금토극 1위 출발 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004878518</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004878518</guid>
+            <pubDate>Fri, 12 Nov 2021 23:25:56 GMT</pubDate>
+            <content:encoded><![CDATA['지금, 헤어지는 중입니다' 첫방부터 송혜교와 장기용의 멜로 케미가 폭발했다. 지난 12일 SBS 금토드라마 ‘지금, 헤어지는 중입니다’(극본 제인, 연출 이길복. 이하 ‘지헤중’)가 첫 방송됐다. ‘지헤중’은 송혜]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[첫방 '옷소매', 정조-의빈 로맨스史 포문 열었다…최고 8%[TV핫샷] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000328574</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000328574</guid>
+            <pubDate>Fri, 12 Nov 2021 23:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]MBC가 2년 만에 야심차게 선보인 사극 ‘옷소매 붉은 끝동’이 ‘정조-의빈 로맨스’의 포문을 제대로 열었다. 12일 방송된 MBC 금토드라마 ‘옷소매 붉은 끝동’(극본 정해리, 연출 정지]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['지헤중' 송혜교‧장기용, 첫회부터 강렬 베드신…금토드라마 1위[TV핫샷] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000328573</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000328573</guid>
+            <pubDate>Fri, 12 Nov 2021 23:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]'지금, 헤어지는 중입니다' 첫회부터 송혜교와 장기용의 멜로 케미가 폭발했다. 12일 방송된 SBS 금토드라마 ‘지금, 헤어지는 중입니다’(극본 제인, 연출 이길복, 이하 ‘지헤중’) 1회]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[그날, 오늘]고영욱, SNS 재개에 댓글 1200개…강성훈, 팬들에 사기 피소 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000328572</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000328572</guid>
+            <pubDate>Fri, 12 Nov 2021 23:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]돌아보면 늘 다사다난하기만 했던 연예가. 그 역사 속의 '오늘'을 되짚어 봅니다. 고영욱 SNS 재개에 비난댓글 1200개 (2020년 11월 13일) 미성년자를 성폭행, 강제추행한 혐의로]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[종합] 박나래, 충격의 뱃살 공개…"왜 이렇게 많이 나왔어" 경악 ('나혼산') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511228</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511228</guid>
+            <pubDate>Fri, 12 Nov 2021 23:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=태유나 기자] 박나래와 전현무가 파격적인 노출로 시선을 강탈했다. 지난 12일 방송된 MBC 예능 '나 혼자 산다'에서는 무지개 회원들의 2022년 달력 촬영 현장이 담겼다. 이날 무지개 달력은 멤버들이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['놀면 뭐하니+' 특공대, 드론장난감 구출 대작전 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
@@ -1301,165 +1462,53 @@
             <content:encoded><![CDATA[[뉴스엔 송오정 기자] 그룹 투피엠(2PM)이 11월 드라마 러시로 다방면에서 활약을 이어간다. 11월 8일 tvN 새 드라마 '어사와 조이'가 첫 방송됐다. 시청률 4%를 기록하며 신선한 웃음 가득한 코믹 사극의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['개승자' 오늘(13일) 첫방…화끈한 웃음 전쟁 예고[MK프리뷰] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004878513</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004878513</guid>
-            <pubDate>Fri, 12 Nov 2021 22:25:38 GMT</pubDate>
-            <content:encoded><![CDATA[화끈한 웃음 전쟁을 예고한 개그로 승부하는 자들 ‘개승자’가 오늘(13일) 베일을 벗는다. KBS2 예능 ‘개승자’는 지난해 6월 종영한 ‘개그콘서트’ 이후 KBS 및 지상파 방송사에서 약 1년 반 만에 새롭게 제작]]></content:encoded>
+            <title><![CDATA[‘지헤중’ 첫방부터 강렬한 송혜교 베드신, 금토극 시청률 1위 출발 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000510570</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000510570</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:04 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박수인 기자] '지금, 헤어지는 중입니다' 첫방부터 송혜교와 장기용의 멜로 케미가 폭발했다. 11월 12일 SBS 금토드라마 ‘지금, 헤어지는 중입니다’(극본 제인/연출 이길복/크리에이터 글Line]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[HI★첫방] 송혜교·장기용 '지헤중', 19금 편성으로 달콤·강렬하게 시작 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=469&amp;aid=0000640928</link>
-            <guid>https://entertain.naver.com/now/read?oid=469&amp;aid=0000640928</guid>
-            <pubDate>Fri, 12 Nov 2021 22:25:38 GMT</pubDate>
-            <content:encoded><![CDATA['지금, 헤어지는 중입니다'가 달콤하면서도 강렬하게 시작됐다. 19금으로 편성된 첫 회에서 배우 송혜교와 장기용은 우연이 인연으로 바뀌는 모습을 보여줬다. 지난 12일 SBS 드라마 '지금, 헤어지는 중입니다'가 첫]]></content:encoded>
+            <title><![CDATA[‘옷소매 붉은 끝동’ 이준호 이세영 운명적 재회에 첫방 시청률 5.7% (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000510568</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000510568</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:04 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박수인 기자] ‘옷소매 붉은 끝동’이 ‘정조-의빈 로맨스’의 포문을 제대로 열었다. 11월 12일 첫 방송된 MBC 금토드라마 ‘옷소매 붉은 끝동’(연출 정지인 송연화/극본 정해리/제작 위매드, 앤피오엔터테]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['황규림♥' 정종철, 아이돌 데뷔 꿈꾸나…피부 레이저 시술에 다이어트까지 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000328569</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000328569</guid>
-            <pubDate>Fri, 12 Nov 2021 22:25:38 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=심언경 기자] 코미디언 정종철이 건강한 식단 관리법을 공유했다. 정종철은 12일 자신의 SNS에 "유지어터. 아침 일찍 일어나서 우유에 프로틴이 거북스러울 때 샐러드에 꾸덕한 요거트에 그래놀라. 군고구]]></content:encoded>
+            <title><![CDATA[김민재, '달리와 감자탕' 박규영·황보라·이제연 향한 리스펙 [인터뷰M] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000138461</link>
+            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000138461</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:04 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김민재가 '달리와 감자탕'으로 호흡한 박규영, 이제연, 황보라를 향한 존경심을 내비쳤다. 김민재는 12일 KBS2 수목드라마 '달리와 감자탕'(극본 손은혜·연출 이정섭) 종영 인터뷰를 진행하며 그간의 소회를 밝]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[전세계 홀린 K팝 인기 속 '아이돌 드라마'도 봇물 [N초점] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005721015</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005721015</guid>
-            <pubDate>Fri, 12 Nov 2021 22:25:38 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 안태현 기자 = 방탄소년단, 블랙핑크, 에스파 등 다양한 아이돌 스타들이 해외에서도 큰 사랑을 받으면서 K팝 인기를 끌어가고 있는 가운데, 아이돌들의 이야기를 다룬 드라마들도 조명받고 있다. 지난 7]]></content:encoded>
+            <title><![CDATA[[종합] 송혜교♥장기용, 첫 만남부터 원나잇…예고된 불꽃 로맨스 ('지헤중') (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511230</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511230</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:04 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=우빈 기자] 송혜교, 장기용이 운명적인 첫 만남을 가지며 깊어질 정분을 예고했다. 지난12일 첫방송된 SBS 금토드라마 '지금, 헤어지는 중입니다'에서는 하영은(송혜교 분)과 윤재국(장기용 분)의 아찔한]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[홍상수 감독 친형 실종 미스테리 추적…'은밀한 뉴스룸' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010829993</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010829993</guid>
-            <pubDate>Fri, 12 Nov 2021 22:25:38 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]전재경 인턴 기자 = '은밀한 뉴스룸'이 홍상수 감독 친형의 실종 사건을 추적한다. 오는 13일 오전 11시 방송되는 채널 IHQ '은밀한 뉴스룸' 12회에서는 지난 4월 보도로 세간에 알려진 홍상수]]></content:encoded>
+            <title><![CDATA[[종합] '옷소매 붉은 끝동' 이세영X이준호, 포옹하며 운명적 재회…"승은 입어야 해" (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511229</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511229</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:04 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자] '옷소매 붉은 끝동' 이준호와 이세영이 운명적으로 재회했다. 지난 12일 첫 방송된 MBC 금토드라마 '옷소매 붉은 끝동'에서는 이산(이준호 분)과 성덕임(이세영 분)의 세월이 흘러 다시 만]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박근태-이세진 각자 연인과 결혼, 코로나 속 두 쌍 부부 탄생(종합) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000510565</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000510565</guid>
-            <pubDate>Fri, 12 Nov 2021 22:25:38 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 오늘(1일) 두 쌍의 부부가 탄생한다. 작곡가 박근태, 코미디언 이세진이 11월 13일 각각 서로의 연인과 축복 속 결혼한다. 먼저 박근태는 13일 서울 모처에서 7살 연하의 예비 신부와 결혼]]></content:encoded>
+            <title><![CDATA[2PM 준호 효과 통했다..'옷소매' 최고시청률 8% (종합) (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004509650</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004509650</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:04 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박소영 기자] 사극명가 MBC가 2년 만에 야심차게 선보인 ‘옷소매 붉은 끝동’이 ‘정조-의빈 로맨스’의 포문을 제대로 열었다. 이에 ‘옷소매 붉은 끝동’의 시청률은 전국 5.7%, 수도권 5.7%를 기록]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김정임 "♥홍성흔, 개뼈다귀 하나 안 주는 서방님…이렇게 살다 죽으려고" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000328566</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000328566</guid>
-            <pubDate>Fri, 12 Nov 2021 22:25:38 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=심언경 기자] 전 야구선수 홍성흔의 아내 김정임이 남편에 대한 서운한 마음을 내비쳤다. 김정임은 11일 자신의 SNS를 통해 "빼빼로데이에 하루종일 같이 붙어 있었는데 서방님이란 사람은 빼빼로 아니라]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['해방타운' 이종혁, 子 준수와 '아빠 어디가' 어게인 [★밤TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004318</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004318</guid>
-            <pubDate>Fri, 12 Nov 2021 22:25:38 GMT</pubDate>
-            <content:encoded><![CDATA['내가 나로 돌아가는 곳-해방타운'에서 배우 이종혁이 아들 준수와 과거 MBC 예능프로그램 '아빠 어디가'를 재현했다. 12일 오후 방송된 JTBC 예능프로그램 '내가 나로 돌아가는 곳-해방타운'에서는 이종혁과 아들]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["못 웃기면 탈락"… 살벌한 코미디 서바이벌 '개승자'가 온다 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000754012</link>
-            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000754012</guid>
-            <pubDate>Fri, 12 Nov 2021 21:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 6월 '개그콘서트'(이하 '개콘') 폐지 이후 1년5개월만에 지상파 코미디가 화려한 부활을 예고한다. 13일 밤 10시30분 첫방송되는 KBS2 예능프로그램 '개그로 승부하는 자들'(이하 '개승자')은 대한민]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[신지 “하이킥 캐릭터 내가 봐도 밉상, 매일 울며 하차 고민”(청춘다큐)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000510563</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000510563</guid>
-            <pubDate>Fri, 12 Nov 2021 21:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 신지가 ‘거침없이 하이킥’ 출연 중 겪었던 마음 고생을 털어놨다. 11월 12일 방송된 MBC ‘다큐플렉스 청춘다큐-거침없이 하이킥’에서는 신지가 ‘거침없이 하이킥’ 출연 당시 속마음을 공개했]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['금쪽 상담소' 서인영, 오은영과 상담 "의도 좋지만 일방적 소통" [종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511224</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511224</guid>
-            <pubDate>Fri, 12 Nov 2021 21:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=신소원 기자] '오은영의 금쪽 상담소' 서인영이 자신을 둘러싼 소문들에 해명을 하며, 고민을 털어놨다. 12일 오후 방송된 채널A '오은영의 금쪽 상담소'에는 가수 서인영이 출연했다. 서인영은 "오은영 박]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['연중 라이브' 소지섭→조인성, 럭셔리 아파트부터 L타워까지 [종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511222</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511222</guid>
-            <pubDate>Fri, 12 Nov 2021 21:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=신소원 기자] '연중 라이브' 소지섭부터 조인성까지, 스타들이 사는 아파트는 어디일까. 12일 오후 방송된 KBS 2TV '연중 라이브'에는 최고급 아파트에 사는 스타 순위가 공개됐다. 7위는 소지섭이었다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[제이쓴, 10kg 감량 후 더 훤칠해진 184cm…♥홍현희가 반할만 해 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000328565</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000328565</guid>
-            <pubDate>Fri, 12 Nov 2021 21:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=강효진 기자] 개그맨 홍현희의 남편이자 인테리어 디자이너 제이쓴이 근황을 전했다. 제이쓴은 12일 자신의 인스타그램에 "이슨스 오늘 예쁜 옷 입었디"라는 글과 함께 사진을 공개했다. 사진 속 제이쓴은]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[개그맨 이세진, 오늘(13일) 8살 연하 비연예인과 결혼 “서태훈 소개로” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000510552</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000510552</guid>
-            <pubDate>Fri, 12 Nov 2021 21:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 코미디언 이세진이 오늘(13일) 결혼한다. 이세진은 11월 13일 오후 3시 플로팅아일랜드에서 8살 연하의 비연예인 예비 신부와 결혼식을 올린다. 결혼식은 주례 없이 진행되며 코미디언 서태훈이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박근태 작곡가, 오늘(13일) 7살 연하 클래식 전공자와 결혼 “혼인신고 완료” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000510551</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000510551</guid>
-            <pubDate>Fri, 12 Nov 2021 21:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 스타 작곡가 박근태가 오늘(13일) 결혼한다. 박근태는 11월 13일 서울 모처에서 7살 연하의 예비 신부와 결혼식을 올린다. 이들은 코로나19로 인한 사회적 거리두기와 방역 지침에 맞게 가족]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[고원희, 잘생긴 남자보면 금방…'연애대전' 캐스팅 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010829990</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010829990</guid>
-            <pubDate>Fri, 12 Nov 2021 21:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[기사내용 요약 극중 연예 매니지먼트 사업 김지훈과 '호흡' [서울=뉴시스] 최지윤 기자 = 탤런트 김지훈과 고원희가 넷플릭스 새 드라마 '연애대전'에 합류한다. 연애대전은 남자에게 병적으로 지기 싫어하는 변호사 '여]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[주말EZ]'마약 집유' 비아이 컴백, 유명세가 면죄부? (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010829987</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010829987</guid>
-            <pubDate>Fri, 12 Nov 2021 21:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]윤준호 인턴 기자 = 자신이 좋아하는 것을 통해 자신의 죄를 속죄하겠다면, 그것은 '진정한 반성'일까 '오만과 기만'일까. 가수 비아이가 지난 11일 새 앨범 '코스모스'를 발매하며 컴백했다. 연예인은]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[TV엿보기] '전참시' 허성태, 반전 과거 사진…"어릴 땐 귀공자 같았다" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=119&amp;aid=0002547670</link>
-            <guid>https://entertain.naver.com/now/read?oid=119&amp;aid=0002547670</guid>
-            <pubDate>Fri, 12 Nov 2021 21:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[[데일리안 = 장수정 기자] '전지적 참견 시점'에서 배우 허성태의 어머니가 아들의 학창 시절을 회상한다. 13일 방송되는 MBC 예능프로그램 '전지적 참견 시점'(이하 '전참시') 178회에는 넷플릭스 오리지널 시]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서민정 “‘하이킥’ 때 정일우 마음 아프게 했다고 악플 쏟아져”(다큐플렉스) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000510541</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000510541</guid>
-            <pubDate>Fri, 12 Nov 2021 21:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 서민정이 ‘거침없이 하이킥’에서 ‘윤민(윤호-민정)’ 커플을 응원하던 팬들에게 악플을 받았다고 밝혔다. 11월 12일 방송된 MBC ‘다큐플렉스 청춘다큐-거침없이 하이킥’에서는 극 중 서민정,]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서민정 “결혼+딸 낳아보니 최민용과 러브라인 안 될 일”(다큐플렉스)[어제TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000510539</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000510539</guid>
-            <pubDate>Fri, 12 Nov 2021 21:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 서민정과 정일우가 ‘거침없이 하이킥’ 속 러브라인을 회상했다. 11월 12일 방송된 MBC ‘다큐플렉스 청춘다큐-거침없이 하이킥’에서는 15년 만에 한 자리에 모인 ‘거침없이 하이킥’ 주역들의]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['최우성♥' 김윤지, 결혼하고 긴장 풀렸나…미모 포기하고 "빵 좀 먹을게" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000328562</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000328562</guid>
-            <pubDate>Fri, 12 Nov 2021 21:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=심언경 기자] 가수 겸 배우 김윤지가 일상을 공유했다. 김윤지는 12일 자신의 SNS에 "큐로야 엄마 빵 좀 먹을게 요즘 내 최애 빵집"이라는 글과 함께 사진 일곱 장을 게재했다. 공개된 사진 속 김윤]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[기안84→성훈, 복고풍 의상·지게차로 콘셉트 폭발…'나혼자산다' 달력 촬영 [RE:TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005720965</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005720965</guid>
-            <pubDate>Fri, 12 Nov 2021 20:26:27 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 박하나 기자 = 전현무, 박나래, 기안84, 성훈, 화사, 키가 '나 혼자 산다' 무지개 달력을 촬영했다. 지난 12일 오후에 방송된 MBC 예능 프로그램 '나 혼자 산다'에서는 무지개 회원들의 20]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[모니카, 모두가 놀란 '쇼미10' 등장…조광일 본선 지원사격 [RE:TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005720964</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005720964</guid>
-            <pubDate>Fri, 12 Nov 2021 20:26:27 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 이지현 기자 = 모니카가 '쇼미더머니 10'에도 등장했다. 지난 12일 방송된 Mnet 예능 프로그램 '쇼미더머니 10'에서는 래퍼들의 본선 경쟁이 시작된 가운데 댄서 모니카가 래퍼 조광일의 무대를]]></content:encoded>
+            <title><![CDATA['지헤중', 송혜교 파격 베드신 통했다..시청률 1위 출발 [종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004330</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004330</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:04 GMT</pubDate>
+            <content:encoded><![CDATA['지금, 헤어지는 중입니다' 첫방부터 송혜교와 장기용의 멜로 케미가 폭발했다. '지금, 헤어지는 중입니다'는 첫회부터 파격적인 베드신으로 시선을 사로잡는데 성공했다. 지난 12이 SBS 금토드라마 '지금, 헤어지는]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['지헤중' 서로에게 끌린 송혜교X장기용 [전일야화] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
@@ -1588,55 +1637,6 @@
             <content:encoded><![CDATA[[SBS연예뉴스 | 김효정 에디터] 송혜교와 장기용의 인연이 시작됐다. 12일 방송된 SBS 금토 드라마 '지금, 헤어지는 중입니다'(이하, '지헤중')에서는 하영은(송혜교 분)과 윤재국(장기용 분)의 본격적인 관계]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['지헤중' 송혜교, 최희서 대신 원나잇 상대 장기용과 맞선…"다시 볼 일 없을 것" (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=416&amp;aid=0000276935</link>
-            <guid>https://entertain.naver.com/now/read?oid=416&amp;aid=0000276935</guid>
-            <pubDate>Fri, 12 Nov 2021 16:37:15 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS연예뉴스 | 김효정 에디터] 송혜교가 장기용과 맞선을 봤다. 12일 방송된 SBS 금토 드라마 '지금, 헤어지는 중입니다'(이하, '지헤중')에서는 윤재국(장기용 분)을 만난 하영은(송혜교 분)의 모습이 그려]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[차화연 이휘향, 원수 같은 친구 사이 [신사와 아가씨] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004307</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004307</guid>
-            <pubDate>Fri, 12 Nov 2021 16:37:15 GMT</pubDate>
-            <content:encoded><![CDATA['신사와 아가씨'의 차화연과 이휘향 사이에 날 선 대화가 오간다. 13일 오후 7시 55분에 방송되는 KBS 2TV 주말드라마 '신사와 아가씨'(연출 신창석, 극본 김사경, 제작 지앤지프로덕션) 15회에서는 차화연(]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['해피니스' 한효주X박형식, 광인병 감염자와 아파트에 갇혔다 [★밤TView] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004306</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004306</guid>
-            <pubDate>Fri, 12 Nov 2021 16:37:15 GMT</pubDate>
-            <content:encoded><![CDATA['해피니스'의 한효주와 박형식이 아파트에 감금됐다. 12일 오후 방송된 tvN 금토드라마 '해피니스'에서 윤새봄(한효주 분)이 이승영(이규형 분)을 구하려고 컨테이너에 뛰어들었다. 이날 윤새봄이 컨테이너 속 광인병]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[송혜교X장기용, 하룻밤 상대→"만나면 되겠네" 설렘 시작 ('지헤중') [종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003555032</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003555032</guid>
-            <pubDate>Fri, 12 Nov 2021 15:26:06 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 송혜교와 장기용이 아슬아슬하게 대립하는 가운데 조금씩 서로를 알아가기 시작했다. 12일 밤 SBS 새 금토드라마 '지금, 헤어지는 중입니다'(극본 제인 연출 이길복)가 첫 방송됐다. 패]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['옷소매 붉은 끝동' 이준호, 위기 처한 이세영 구하며 포옹…운명적 재회 [종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003555029</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003555029</guid>
-            <pubDate>Fri, 12 Nov 2021 15:26:06 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] '옷소매 붉은 끝동' 이준호와 이세영이 극적 재회를 가졌다. 12일 오후 MBC 새 금토드라마 '옷소매 붉은 끝동'(극본 정해리 연출 정지인 송연화) 1화가 방송됐다. 동명 소설을 원작]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['해피니스' 한효주, 윗집 감염자에 물릴 뻔..박형식이 구출[별별TV] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004296</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004296</guid>
-            <pubDate>Fri, 12 Nov 2021 15:26:06 GMT</pubDate>
-            <content:encoded><![CDATA['해피니스'의 박형식이 윗집 감염자에 물릴 뻔한 한효주를 구했다. 12일 오후 방송된 tvN 금토드라마 '해피니스'에서 정이현(박형식 분)이 층간소음이 심한 윗집을 찾아갔다. 이날 정이현은 윗집에서 남자와 그 아내가]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['지헤중' 송혜교, 장기용과 원나잇 동침→대리 맞선 "다신 볼 일 없어"…계속된 인연! [Oh!쎈 종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004509620</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004509620</guid>
-            <pubDate>Fri, 12 Nov 2021 15:26:06 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김예솔 기자] 송혜교와 장기용이 묘한 인연으로 재회했다. 12일에 방송된 SBS금토드라마 '지금 헤어지는 중입니다'에서는 하영은(송혜교)과 윤재국(장기용)의 파격적인 동침에 이어서 패션화보까지 계속된 인연]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마동석, '이터널스' 배우들과 다정 셀카..월드스타 인증 [인스타] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211112165142931</link>
             <guid>https://movie.v.daum.net/v/20211112165142931</guid>
@@ -1677,20 +1677,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2FNEWS1%2F20211112143646940acyk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['이터널스' 화제된 쿠키 영상 "더 확장된 마블 세계관 예고" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211112092904717</link>
-            <guid>https://movie.v.daum.net/v/20211112092904717</guid>
-            <pubDate>Fri, 12 Nov 2021 01:14:10 GMT</pubDate>
-            <content:encoded><![CDATA['이터널스' 속 숨은 단서 찾기에 열풍이 불었다. 누적관객수 200만 관객 돌파를 목전에 두고 있는 영화 '이터널스(클로이 자오 감독)'의 쿠키 영상과 이스터에그 요소들이 화제를 모으고 있다. 매 작품마다 다음 작품 속 비밀을 숨겨두는 마블의 세계관 연결고리를 찾기 위한 N차 관람도 늘고 있다. 첫 번째 쿠키 영상엔 타노스의 동생으로 추측되는 에로스가]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Filgansports%2F20211112092905424fefu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[박정민 "주연상? 죽기 전 타봤으면..오래 살게요" (청룡)[종합] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211112165003873</link>
             <guid>https://movie.v.daum.net/v/20211112165003873</guid>
             <pubDate>Fri, 12 Nov 2021 09:24:41 GMT</pubDate>
             <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 박정민이 청룡영화상 수상이 자신에게 준 의미를 되새기며 주연상 수상 희망에 대한 생각을 밝혔다. 12일 서울 CGV 여의도에서 청룡영화상 핸드프린팅 행사가 열렸다.&nbsp; 윤성은 영화평론가의 사회로 진행된 이 자리에는 지난해 수상자인 유아인('소리도 없이', 남우주연상)과 라미란('정직한 후보', 여우주연상), 박정민('다만]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Fxportsnews%2F20211112165005460iyzq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['이터널스' 화제된 쿠키 영상 "더 확장된 마블 세계관 예고" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211112092904717</link>
+            <guid>https://movie.v.daum.net/v/20211112092904717</guid>
+            <pubDate>Fri, 12 Nov 2021 01:14:10 GMT</pubDate>
+            <content:encoded><![CDATA['이터널스' 속 숨은 단서 찾기에 열풍이 불었다. 누적관객수 200만 관객 돌파를 목전에 두고 있는 영화 '이터널스(클로이 자오 감독)'의 쿠키 영상과 이스터에그 요소들이 화제를 모으고 있다. 매 작품마다 다음 작품 속 비밀을 숨겨두는 마블의 세계관 연결고리를 찾기 위한 N차 관람도 늘고 있다. 첫 번째 쿠키 영상엔 타노스의 동생으로 추측되는 에로스가]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Filgansports%2F20211112092905424fefu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[무비차트TEN] '이터널스' 누가 밟고 올라설까..'강릉' '장르만 로맨스' 韓영화 개봉 러쉬 (다음영화 뉴스 ─ 인기)]]></title>
@@ -1717,12 +1717,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F13%2Fstartoday%2F20211113070304979lzit.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[윤여정이 "칸에서 자랑스러웠다"고 했던 이정재 [라제기의 '배우'다] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211112073004076</link>
-            <guid>https://movie.v.daum.net/v/20211112073004076</guid>
-            <pubDate>Thu, 11 Nov 2021 23:26:09 GMT</pubDate>
-            <content:encoded><![CDATA[편집자주※ 여러분들이 잘 아는 배우의 덜 알려진 면모와 연기 세계를 주관적인 시선으로 전합니다. 배우 이정재는 칸영화제 레드 카펫을 한차례 밟았다. 2010년 영화 ‘하녀’를 통해서였다. ‘하녀’ 직전까지 그의 연기 이력은 하향곡선을 그리고 있었다. ‘태풍’(2005)은 관객 동원(347만 명)이 기대에 미치지 못했고, ‘1724 기방난동사건’(2008)은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Fhankooki%2F20211112073007706gjcz.gif" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[한 치 앞 예측도 어려운 심리스릴러..영화 '파워 오브 도그' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211112163937556</link>
+            <guid>https://movie.v.daum.net/v/20211112163937556</guid>
+            <pubDate>Fri, 12 Nov 2021 10:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 오보람 기자 = '파워 오브 도그'는 카우보이가 등장하는 다른 영화들과 정확히 대척점에 서 있는 작품이다. 총싸움은커녕 몸싸움 장면도 없다. 주인공들의 속마음은 자세히 들여다봐야만, 그것도 간신히 짐작이나마 할 수 있다. 제인 캠피온 감독은 총이 아닌 '심리 싸움'으로 12년 만의 신작을 끌고 간다. 인물들의 대사뿐만 아니라 눈빛이나 사소]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Fyonhap%2F20211112163937843dfzs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["쇼인가? 정치인가?"..설경구·이선균 '킹메이커' 예고부터 '압도' (다음영화 뉴스 ─ 인기)]]></title>
@@ -1733,20 +1733,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2FSpoHankook%2F20211112135046377tnsw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[한 치 앞 예측도 어려운 심리스릴러..영화 '파워 오브 도그' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211112163937556</link>
-            <guid>https://movie.v.daum.net/v/20211112163937556</guid>
-            <pubDate>Fri, 12 Nov 2021 10:27:31 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 오보람 기자 = '파워 오브 도그'는 카우보이가 등장하는 다른 영화들과 정확히 대척점에 서 있는 작품이다. 총싸움은커녕 몸싸움 장면도 없다. 주인공들의 속마음은 자세히 들여다봐야만, 그것도 간신히 짐작이나마 할 수 있다. 제인 캠피온 감독은 총이 아닌 '심리 싸움'으로 12년 만의 신작을 끌고 간다. 인물들의 대사뿐만 아니라 눈빛이나 사소]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Fyonhap%2F20211112163937843dfzs.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['듄' 입소문의 힘, IMAX 재상영 확정 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211111173407370</link>
             <guid>https://movie.v.daum.net/v/20211111173407370</guid>
             <pubDate>Fri, 12 Nov 2021 02:38:46 GMT</pubDate>
             <content:encoded><![CDATA[[티브이데일리 최하나 기자] 백만 관객 고지를 넘어서며 여전히 뜨거운 사랑을 받고 있는 '듄'이 관객들의 열화와 같은 성원에 힘입어 IMAX 재상영이 확정되었다. 영화 '듄'(감독 드니 빌뇌브·배급 워너브러더스 코리아)의 IMAX 재상영은 17일부터 CGV IMAX 5개 지점(대전, 소풍, 수원, 왕십리, 판교)에서 시작하며 12월 1일부터는 12개 지점(]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2Ftvdaily%2F20211111173410433mhad.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[윤여정이 "칸에서 자랑스러웠다"고 했던 이정재 [라제기의 '배우'다] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211112073004076</link>
+            <guid>https://movie.v.daum.net/v/20211112073004076</guid>
+            <pubDate>Thu, 11 Nov 2021 23:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[편집자주※ 여러분들이 잘 아는 배우의 덜 알려진 면모와 연기 세계를 주관적인 시선으로 전합니다. 배우 이정재는 칸영화제 레드 카펫을 한차례 밟았다. 2010년 영화 ‘하녀’를 통해서였다. ‘하녀’ 직전까지 그의 연기 이력은 하향곡선을 그리고 있었다. ‘태풍’(2005)은 관객 동원(347만 명)이 기대에 미치지 못했고, ‘1724 기방난동사건’(2008)은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Fhankooki%2F20211112073007706gjcz.gif" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['불멸의 그들' 최동원·전태일·송해 영화관서 만난다 (다음영화 뉴스 ─ 인기)]]></title>
@@ -1781,20 +1781,52 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Ftvdaily%2F20211112134128158ysvy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[공식] 유오성X장혁 '강릉', 이틀 연속 흥행 2위 수성..'이터널스' 1위 굳히기 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211112084256289</link>
-            <guid>https://movie.v.daum.net/v/20211112084256289</guid>
-            <pubDate>Fri, 12 Nov 2021 01:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 범죄 액션 영화 '강릉'(윤영빈 감독, 아센디오 제작)이 이틀 연속 동시기 개봉작 박스오피스 1위, 전체 흥행 2위를 수성했다. 위드 코로나 시기 포문을 연 첫 번째 한국 영화 '강릉'이 이틀 연속 동시기 개봉작 박스오피스 1위를 기록, 흥행 질주를 예고하고 있다. 유오성, 장혁의 범죄 액션 누아르 '강릉'은 개봉]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2FSpoChosun%2F20211112084256891nkrs.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[설경규X이선균 '킹메이커', 치열한 선거 전쟁의 서막 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211113073906927</link>
+            <guid>https://movie.v.daum.net/v/20211113073906927</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:13 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='킹메이커'설경구 이선균 주연의 영화 '킹메이커'(감독 변성현)가 런칭 예고편 2종을 함께 공개했다. 12월 개봉 예정인 '킹메이커'는 세상을 바꾸기 위해 도전하는 네 번 낙선한 정치인 김운범(설경구 분)과 존재도 이름도 숨겨진 선거 전략가 서창대(이선균 분)가 치열한 선거판에 뛰어들며 시작되는 드라마다. 제70회 칸 국제]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F13%2Fstarnews%2F20211113073907995hydb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[씨네+] '마블리' 마동석을 놓칠리 없는 마블 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211111172803155</link>
-            <guid>https://movie.v.daum.net/v/20211111172803155</guid>
-            <pubDate>Fri, 12 Nov 2021 01:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[끝이 아닌 시작이다. 이제 막 '자기소개'를 마쳤을 뿐이다. 영화 '이터널스(클로이 자오 감독)'를 통해 국내 배우 최초 마블 히어로가 된 마동석이 첫 할리우드 진출 신고식을 무사히 마쳤다. 마블시네마틱유니버스(MCU) 페이지4의 새 역사를 알리는 신작에 대한 평가는 다소 엇갈렸지만, 극중 강력한 힘을 지닌 길가메시로 분한 마동석에 대해서는 기분 좋은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F11%2FJTBC%2F20211111172804945dnfr.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[천만 배우 류승룡의 '장르만 로맨스', 마블 잡을까 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211113074800977</link>
+            <guid>https://movie.v.daum.net/v/20211113074800977</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:13 GMT</pubDate>
+            <content:encoded><![CDATA[작지만 강하다. '흥행 보증 수표' 류승룡의 신작 '장르만 로맨스' 오는 17일 출격한다. 마블이 점령한 박스오피스 왕좌를 과연 빼앗을 수 있을까. '장르만 로맨스'는 평범하지 않은 로맨스로 얽힌 이들과 만나 일도 인생도 꼬여가는 베스트셀러 작가의 버라이어티한 사생활을 그린다. 류승룡 오나라 이유영 김희원 등 믿고 보는 배우들이 뭉쳤고, 명품 조연 조은지]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F13%2Fstartoday%2F20211113074805808ntby.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이유영X예수정 '간호중' 확장판, 11월 25일 개봉 [무비타이밍] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211113081520224</link>
+            <guid>https://v.daum.net/v/20211113081520224</guid>
+            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='간호중'인간보다 인간다운 고민에 빠진 간병 로봇에 대한 스토리로 화제를 모았던 작품 '간호중' 확장판이 11월 25일 극장 개봉을 확정 했다. 한국판 오리지널 SF 앤솔러지 시리즈로 화제를 모았던 'SF8'의 여덟 작품 중 하나인 '간호중'이 확장판으로 관객을 만난다. '간호중'은 10년째 식물인간으로 누워있는 환자와 지칠]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F13%2Fstarnews%2F20211113081522011vnsq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[송해·최동원, 다큐멘터리 영화로 만나는 인생사 [N초점] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211113080016079</link>
+            <guid>https://v.daum.net/v/20211113080016079</guid>
+            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 국내 최고령 현역 방송인과 전설적인 야구선수를 다큐멘터리 영화로 만난다. 바로 송해와 최동원이 그 주인공이다. 두 사람을 다룬 첫 번째 다큐멘터리 작인 '송해 1927'과 '1984 최동원'이 관객들에 가슴 뜨거운 울림을 안길 예정이다. 오는 18일 개봉하는 영화 '송해 1927'은 한 평생 전 국민과 희로애락을 함께 한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F13%2FNEWS1%2F20211113080017953jehw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[천만 배우 류승룡의 '장르만 로맨스', 마블 잡을까 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211113074800977</link>
+            <guid>https://v.daum.net/v/20211113074800977</guid>
+            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[작지만 강하다. '흥행 보증 수표' 류승룡의 신작 '장르만 로맨스' 오는 17일 출격한다. 마블이 점령한 박스오피스 왕좌를 과연 빼앗을 수 있을까. '장르만 로맨스'는 평범하지 않은 로맨스로 얽힌 이들과 만나 일도 인생도 꼬여가는 베스트셀러 작가의 버라이어티한 사생활을 그린다. 류승룡 오나라 이유영 김희원 등 믿고 보는 배우들이 뭉쳤고, 명품 조연 조은지]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F13%2Fstartoday%2F20211113074805808ntby.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[설경규X이선균 '킹메이커', 치열한 선거 전쟁의 서막 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211113073906927</link>
+            <guid>https://v.daum.net/v/20211113073906927</guid>
+            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='킹메이커'설경구 이선균 주연의 영화 '킹메이커'(감독 변성현)가 런칭 예고편 2종을 함께 공개했다. 12월 개봉 예정인 '킹메이커'는 세상을 바꾸기 위해 도전하는 네 번 낙선한 정치인 김운범(설경구 분)과 존재도 이름도 숨겨진 선거 전략가 서창대(이선균 분)가 치열한 선거판에 뛰어들며 시작되는 드라마다. 제70회 칸 국제]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F13%2Fstarnews%2F20211113073907995hydb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['이터널스' 개봉 10일만 200만 돌파 [★무비차트] (다음영화 뉴스 ─ 최신)]]></title>
@@ -1827,6 +1859,76 @@
             <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]톰 홀랜드가 ‘스파이더맨:노웨이홈’이 슬프고 어두운 영화라고 말했다. 그는 11일(현지시간) 발간된 ‘토탈필름’에서 “사람들이 정말 놀랄 것은 이 영화가 재미(fun)있지 않다는 것이다”라고 운을 뗐다. 이어 “이 영화는 어둡고, 슬프다. 여러분이 사랑하는 캐릭터들이 결코 그들이 겪기를 바라지 않는 일들을 겪는 것을 보게]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F13%2Fmydaily%2F20211113060211761hwyh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['달리와 감자탕' 연우 "착희와 함께 성장했던 시간"..종영 소감 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113082316260</link>
+            <guid>https://entertain.v.daum.net/v/20211113082316260</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=선미경 기자] 그룹 모모랜드 출신 연기자&nbsp;연우가 '달리와 감자탕' 종영 소감을 전했다. 지난 11일 종영된 KBS 2TV 수목드라마 '달리와 감자탕'에서 안착희 역을 맡아 열연을 펼친 연우가 종영 소감을 밝혔다. 연우는 소속사 MLD엔터테인먼트를 통해 "'달리와 감자탕'을 통해 착희를 만날 수 있어 감사했다"고 전했다. 이어 "착희는 저랑 비슷한]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한효주♥박형식 또 위기, 아파트 봉쇄 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113081838238</link>
+            <guid>https://entertain.v.daum.net/v/20211113081838238</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴]   한효주, 박형식이 위험에 맞서 싸울 것을 선택했다. 12일 방송된 티빙 오리지널 ‘해피니스’(연출 안길호 극본 한상운) 3회에서는 감염병이 일상 깊숙이 파고들며 혼란을 일으켰다. 윤새봄(한효주 분)과 정이현(박형식 분)의 아파트에서 감염자가 발생한 가운데, ‘넥스트’가 헬스장을 통해 불법 유통된 정황도 드러나며 위기감을 고조시켰다. 추가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[송혜교♥장기용, 첫방부터 빠져드는 멜로 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113081416217</link>
+            <guid>https://entertain.v.daum.net/v/20211113081416217</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴]  송혜교와 장기용 멜로 호흡이 시작부터 범상치 않았다. 12일 SBS 금토드라마 ‘지금, 헤어지는 중입니다’(극본 제인 연출 이길복 크리에이터 글Line&amp;강은경)가 첫 방송됐다. ‘지금, 헤어지는 중입니다’(약칭 ‘지헤중’)은 송혜교(하영은 역), 장기용(윤재국 역) 등 매력적인 배우들과 믿고 보는 제작진이 만나 기대되는 작품. 베일 벗은 ‘]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['옷소매 붉은 끝동' 이준호 이세영 운명적 재회에 첫방 시청률 5.7% (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113080441177</link>
+            <guid>https://entertain.v.daum.net/v/20211113080441177</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박수인 기자] ‘옷소매 붉은 끝동’이 ‘정조-의빈 로맨스’의 포문을 제대로 열었다. 11월 12일 첫 방송된 MBC 금토드라마 ‘옷소매 붉은 끝동’(연출 정지인 송연화/극본 정해리/제작 위매드, 앤피오엔터테인먼트/영제 The Red Sleeve/이하 ‘옷소매’) 1회에서는 어린 이산(이주원 분)과 어린 성덕임(이설아 분)의 짧지만 여운 깊은 만남]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['유미의 세포들' 안보현 "8년 버틴 세월 감사, 할머니 위해 '열일'" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113080002056</link>
+            <guid>https://entertain.v.daum.net/v/20211113080002056</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 김선우기자]배우 안보현이 데뷔 후 최고의 전성기를 맞았다. 안보현은 넷플릭스 ‘마이네임’에서는 마약수사대 형사 필도로, 티빙 ‘유미의 세포들’에서는 유미(김고은 분)의 첫번째 남자친구 구웅으로 분해 각기 다른 매력을 선보였다. 앞서 JTBC ‘이태원 클라쓰’ 속 빌런으로 분한 안보현은 점점 연기 인생에 꽃을 피웠고, 올해]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['지헤중' 송혜교-장기용, 첫방부터 케미 "6.6%" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113075828047</link>
+            <guid>https://entertain.v.daum.net/v/20211113075828047</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:26 GMT</pubDate>
+            <content:encoded><![CDATA['지금, 헤어지는 중입니다' 첫방부터 송혜교와 장기용의 멜로 케미가 폭발했다. 12일 SBS 금토드라마 ‘지금, 헤어지는 중입니다’(극본 제인/연출 이길복/크리에이터 글Line&amp;강은경/제작 삼화네트웍스, UAA/이하 ‘지헤중’)가 첫 방송됐다. ‘지헤중’은 송혜교(하영은 역), 장기용(윤재국 역) 등 매력적인 배우들과 믿고 보는 제작진이 만나 기대를 모은]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김민재, '달리와 감자탕' 박규영·황보라·이제연 향한 리스펙 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113075152999</link>
+            <guid>https://entertain.v.daum.net/v/20211113075152999</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김민재가 '달리와 감자탕'으로 호흡한 박규영, 이제연, 황보라를 향한 존경심을 내비쳤다. 김민재는 12일 KBS2 수목드라마 '달리와 감자탕'(극본 손은혜·연출 이정섭) 종영 인터뷰를 진행하며 그간의 소회를 밝혔다. '달리와 감자탕'은 서로의 정체를 모른 채 호감을 가졌던 돈만 있는 일자무식 졸부와 몰락한 미술관을 살리려는 명문가의 딸이 채무 관계]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[송혜교♥장기용, 첫 만남부터 원나잇..예고된 불꽃 로맨스 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113075103994</link>
+            <guid>https://entertain.v.daum.net/v/20211113075103994</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=우빈 기자]송혜교, 장기용이 운명적인 첫 만남을 가지며 깊어질 정분을 예고했다.&nbsp;지난12일 첫방송된 SBS 금토드라마 '지금, 헤어지는 중입니다'에서는 하영은(송혜교 분)과 윤재국(장기용 분)의 아찔한 첫 만남이 그려졌다.&nbsp;이날 하영은은 축제가 시작된 부산에서 섹시한 실루엣의 남자(윤재국)와 하룻밤을 보냈다. 그날만큼은 하영은과 남자는 연인이었고]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2PM 준호 효과 통했다..'옷소매' 최고시청률 8% (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113073646909</link>
+            <guid>https://entertain.v.daum.net/v/20211113073646909</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박소영 기자] 사극명가&nbsp;MBC가&nbsp;2년 만에 야심차게 선보인&nbsp;‘옷소매 붉은 끝동’이&nbsp;‘정조-의빈 로맨스’의 포문을 제대로 열었다.&nbsp;이에&nbsp;‘옷소매 붉은 끝동’의&nbsp;시청률은 전국&nbsp;5.7%,&nbsp;수도권&nbsp;5.7%를 기록하며 순항을 시작했고,&nbsp;특히 순간 최고 시청률은&nbsp;8.0%까지 치솟으며 향후 뜨거운 궁중 로맨스 돌풍을 예감케 했다. (닐슨 코리아 기준) 지난&nbsp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[황보름별·서희선, 달콤살벌 상극 워맨스 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113073009876</link>
+            <guid>https://entertain.v.daum.net/v/20211113073009876</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 사진 제공 : KBS배우 황보름별과 서희선이 KBS2 새 수목드라마 ‘학교 2021’에서 특별한 워맨스를 선보인다. 오는 17일(수) 밤 9시 30분 첫 방송되는 KBS 2TV 새 수목드라마 ‘학교 2021’(극본 조아라, 동희선/ 연출 김민태, 홍은미)은 입시경쟁이 아닌 다른 길을 선택한 아이들, 모호한 경계에 놓인 열여덟 청춘들의 꿈과 우]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['지헤중' 서로에게 끌린 송혜교X장기용 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
@@ -1864,179 +1966,137 @@
             <content:encoded><![CDATA[[뉴스엔 서유나 기자] 장기용이 송혜교를 물먹인 명품 브랜드에 대신 복수를 해주며 사이다를 안겼다. 11월 12일 첫 방송된 SBS 금토드라마 '지금, 헤어지는 중입니다'(극본 제인, 연출 이길복) 1회에서는 윤재국(장기용 분)이 자신의 진짜 정체를 극적으로 드러냈다. 이날 하영은(송혜교 분)은 계약을 따내기 위해 전전긍긍한 유럽 명품 브랜드 '올리비]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['지헤중' 송혜교♥장기용 첫방부터 배드신, 원나잇→맞선 운명적 재회 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113060308163</link>
-            <guid>https://entertain.v.daum.net/v/20211113060308163</guid>
-            <pubDate>Fri, 12 Nov 2021 21:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 송혜교와 장기용이 동침으로 인연을 시작했다. 11월 12일 첫 방송된 SBS 금토드라마 '지금, 헤어지는 중입니다'(극본 제인, 연출 이길복) 1회에서는 영원을 믿지 않는 두 남녀가 운명으로 엮였다. 이날 하영은(송혜교 분)은 부산에서 열린 제1회 K패션위크 오프닝 파티에 참가했다가 한 남자와 원나잇을 했다. 술김에 강렬하게 마]]></content:encoded>
+            <title><![CDATA[유재석=임신부 팬 배려하는 '유느님'.. (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113082547271</link>
+            <guid>https://entertain.v.daum.net/v/20211113082547271</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박소영 기자] '놀면 뭐하니?+’&nbsp;유재석이 주차&nbsp;1타 강사&nbsp;‘선샤인’이 되어 의뢰인과 주차 연습을 하는 모습이 포착됐다. 1&nbsp;대&nbsp;1&nbsp;자전거 강습을 통해&nbsp;‘자존감 요정’의 면모를 보여준 유재석은 임신한 의뢰인의 컨디션까지 체크하는 배려와 섬세함으로&nbsp;‘주차 강습의 옳은 예’를 보여줄 예정이다. 오늘(13일)&nbsp;저녁&nbsp;6시&nbsp;25분에 방송되는&nbsp;MBC&nbsp;‘놀면]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박형식, 감염자 트럭서 한효주 구출 "다행이야 늦지 않아서" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113060120123</link>
-            <guid>https://entertain.v.daum.net/v/20211113060120123</guid>
-            <pubDate>Fri, 12 Nov 2021 21:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 임유리 기자] 박형식이 위기의 상황에서 한효주를 구해냈다. 12일 밤 방송된 케이블채널 tvN 금토 드라마 ‘해피니스’ 에서는 윤새봄(한효주)이 감염자들이 격리되어 있는 트럭에 갇힌 이승영(이규형)을 구하기 위해 뛰어드는 모습이 그려졌다. 윤새봄은 트럭 문을 열고 뛰어들어가 감염자들을 밀어내며 이승영을 구하기 위해 사투를 벌였다. 감염]]></content:encoded>
+            <title><![CDATA[서민정·정일우, 묘했던 러브라인 회상 "울컥한다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113082201251</link>
+            <guid>https://entertain.v.daum.net/v/20211113082201251</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=우빈 기자]배우 서민정과 정일우가 아쉬움을 많이 남겼던 로맨스를 추억했다.&nbsp;지난 12일 방송된 MBC '다큐플렉스 청춘다큐-거침없이 하이킥'에서는 '거침없이 하이킥' 당시 윤민 커플로 많은 사랑을 받았던 서민정과 정일우가 15년 만에 재회했다.&nbsp;서민정이 미국 생활 중인 관계로 영상으로 만나게 된 두 사람. 정일우는 "누나는 진짜 똑같다. 이렇게하]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[저 아역 누구야?..'옷소매' 당돌한 꼬마 덕임 이설아 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113060112118</link>
-            <guid>https://entertain.v.daum.net/v/20211113060112118</guid>
-            <pubDate>Fri, 12 Nov 2021 21:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] "천재가 분명하다." MBC 새 금토드라마 '옷소매 붉은 끝동'에서 어린 덕임을 연기한 아역 배우를 본 한 네티즌의 말이다. 믿기 힘들 만큼 탄탄한 연기로 단 첫 화 만에 시청자들의 마음을 훔치는 데 성공한 '될성부른 떡잎' 이설아다. MBC가 2년 만에 선보인 정통 사극 '옷소매 붉은 끝동'이 12일 시작됐다. 동명 웹소설]]></content:encoded>
+            <title><![CDATA['홈즈' 장희진 "2년마다 이사, 첫 독립 후 돌고 돌아 다시 용산" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113081856239</link>
+            <guid>https://entertain.v.daum.net/v/20211113081856239</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 배우 장희진이 분가가 시급한 강사부부의 신혼집 찾기에 나선다. 11월 14일 방송되는 MBC ‘구해줘! 홈즈’(연출:이민희 /이하 ‘홈즈’)에서는 분가가 시급한 신혼부부가 의뢰인으로 등장한다. 축구교실 강사 남편과 수학학원 강사 아내는 결혼 2년차 동갑내기 신혼부부로 지금까지 시댁에서 지내고 있다고 한다. 현재 2세를 계획 중이라]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김지훈·고원희, '연애대전' 출연 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113060009030</link>
-            <guid>https://entertain.v.daum.net/v/20211113060009030</guid>
-            <pubDate>Fri, 12 Nov 2021 21:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 배우 김지훈, 고원희가 넷플릭스(Netflix) 시리즈 '연애대전'에 출연한다. '연애대전'은 남자에게 병적으로 지기 싫어하는 여자와 여자를 병적으로 의심하는 남자가 전쟁 같은 사랑을 겪으며 치유받는 로맨틱 코미디다. 드라마 [악의 꽃]으로 이미지 변신에 성공하고 넷플릭스 시리즈 '종이의 집' 한국판을 촬영 중인 김지훈이 연기할 도원준은 독]]></content:encoded>
+            <title><![CDATA['불후' 이상벽 "송해, 이미 날 '전국노래자랑' 후계자로 찍어" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113081536228</link>
+            <guid>https://entertain.v.daum.net/v/20211113081536228</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 최고의 입담을 자랑하는 넘사벽 MC군단의 토크 전쟁이 펼쳐진다. 11월 13일 방송되는 KBS 2TV ‘불후의 명곡’ 531회에서는 송해, 이상벽, 이상용, 허참, 이택림, 임백천이 출연해 ‘전설의 명MC 특집’을 꾸민다. 전설의 명MC 특집답게 거침없는 노필터 토크가 쏟아진다. 송해는 후배들의 연차토크에 “가당치도 않아”라며 한마]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['옷소매' 이설아, 세손 이주원 구하려 금서 찢었다..공 가로챈 최정후 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113055626982</link>
-            <guid>https://entertain.v.daum.net/v/20211113055626982</guid>
-            <pubDate>Fri, 12 Nov 2021 21:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 이설아가 세손 이주원을 구하기 위해 금서를 찢은 가운데 최정후가 공을 가로챘다. 11월 12일 첫 방송된 MBC 금토드라마 '옷소매 붉은 끝동(The Red Sleeve)'(극본 정해리 / 연출 정지인, 송연화) 1회에서는 어린시절부터 얽히게 된 어린 이산(이주원 분)과 어린 성덕임(이설아 분)의 운명이 그려졌다. 이날 이산은]]></content:encoded>
+            <title><![CDATA['시누이=엄정화'에 옷 빌려" 윤혜진, BTS 다녀간 힙지로 다방 투어 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113081312214</link>
+            <guid>https://entertain.v.daum.net/v/20211113081312214</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박근희 기자] '내가 나로 돌아가는 곳-해방타운’ 윤혜진이 시누이인 엄정화에게 옷을 빌렸다고 언급했다.&nbsp; 12일 오후 방송된 JTBC '내가 나로 돌아가는 곳-해방타운(약칭 ‘해방타운')'에는 윤혜진이 해방타운 공식 ‘핫플러’답게 버스를 타고 서울 투어에 도전했다. 명동 버스 정류장에 도착한 윤혜진은 “노선 확인을 해야 한다. 여기 있다. 604]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["승은 입으면 돼" 박지영, 어린 이설아에 후궁 종용 섬뜩 야망 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113055356962</link>
-            <guid>https://entertain.v.daum.net/v/20211113055356962</guid>
-            <pubDate>Fri, 12 Nov 2021 21:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 박지영이 아직 어린 생각시 이설아에게 후궁 자리를 종용하며 섬뜩한 야망을 드러냈다. 11월 12일 첫 방송된 MBC 금토드라마 '옷소매 붉은 끝동(The Red Sleeve)'(극본 정해리 / 연출 정지인, 송연화) 1회에서는 제조상궁 조씨(박지영 분)의 눈에 든 어린 성덕임(이설아 분)의 모습이 그려졌다. 이날 상궁 조씨는 생]]></content:encoded>
+            <title><![CDATA['다수의수다' 차태현 "앞머리 심어 뿌듯"→유희열 "윤종신 소개로 치아 교정" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113081114212</link>
+            <guid>https://entertain.v.daum.net/v/20211113081114212</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박근희 기자] '다수의 수다’ 차태현이 머리를 심었다고 밝혔다. 12일 전파를 탄 JTBC 예능 프로그램 ‘다수의 수다’에서는 수다라면 절대 빠지지 않는 두 남자, 유희열·차태현 콤비와 함께 외과의사들의 진한 수다가 공개됐다. 과가 다른 5명의 외과의사와의 수다가 이어졌다. 유희열은 “다수의 의사들과 수다를 떨 일이 다시는 없겠다는 생각이 든다”]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[첫방 '옷소매' 이준호 폐위 위기서 구한 이세영, 성장 후 포옹 재회 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113055227953</link>
-            <guid>https://entertain.v.daum.net/v/20211113055227953</guid>
-            <pubDate>Fri, 12 Nov 2021 21:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 어린 이세영이 어린 이준호를 폐위 위기서 구한 가운데, 성장한 두 사람이 포옹으로 운명적 재회를 했다. 11월 12일 첫 방송된 MBC 금토드라마 '옷소매 붉은 끝동(The Red Sleeve)'(극본 정해리 / 연출 정지인, 송연화) 1회에서는 이산(이준호 분), 성덕임(이세영 분)의 운명적인 인연이 시작됐다. 이날 어린 이산]]></content:encoded>
+            <title><![CDATA[이준수 "'아어가' 기억 안나"→윤혜진, ♥엄태웅 카메라 들고 신났네 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113081003206</link>
+            <guid>https://entertain.v.daum.net/v/20211113081003206</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김수정 인턴기자) '해방타운' 이준수와 이종혁이 번지점프를 했다.&nbsp; 12일 방송된 JTBC 예능 프로그램 '해방타운'에서는 이종혁-이준수 부자의 여행과 윤혜진의 나 홀로 서울버스여행이 그려졌다. 우선 이종혁의 아들 이준수는 훌쩍 커버린 모습으로 모두를 놀라게 했다. 여행 장소를 향해 운전을 하던 이종혁은 준수에게 "'아빠 어디가' 할 때는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["호텔방서 남자 끌고 나와" 장기용, 송혜교 사생활 오해 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113055031945</link>
-            <guid>https://entertain.v.daum.net/v/20211113055031945</guid>
-            <pubDate>Fri, 12 Nov 2021 21:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 장기용이 송혜교의 사생활을 오해했다. 11월 12일 첫 방송된 SBS 금토드라마 '지금, 헤어지는 중입니다'(극본 제인, 연출 이길복) 1회에서는 하영은(송혜교 분)의 사생활을 오해하는 윤재국(장기용 분)의 모습이 그려졌다. 이날 하영은은 부산에서 열린 제1회 K패션위크에 참가했다가 많은 일을 겪었다. 오프닝 파티에선 술김에 윤]]></content:encoded>
+            <title><![CDATA['놀면뭐하니' 유재석 '위드유+' 의뢰인 첫째 아들 여자친구 이름에 깜짝 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113080709191</link>
+            <guid>https://entertain.v.daum.net/v/20211113080709191</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박수인 기자] ‘놀면 뭐하니?+’ 유재석이 주차 1타 강사 ‘선샤인’이 되어 의뢰인과 주차 연습을 하는 모습이 포착됐다. 11월 13일 방송되는 MBC ‘놀면 뭐하니?+'(연출 김태호 윤혜진 김윤집 왕종석 작가 최혜정)에서는 유재석, 정준하, 하하, 신봉선, 미주가 함께하는 ‘위드 유+’가 공개된다. ‘위드 유+’는 시민 의뢰인의 사연을 받은 ‘]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김혜준 "이영애와 호흡, 경이로워" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113053008878</link>
-            <guid>https://entertain.v.daum.net/v/20211113053008878</guid>
-            <pubDate>Fri, 12 Nov 2021 21:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 사진제공 = JTBC 토일드라마 ‘구경이’JTBC 토일드라마 ‘구경이’ 속 해맑게 살인을 저지르는 케이, 배우 김혜준의 인터뷰가 공개됐다. JTBC 토일드라마 ‘구경이’ (연출 이정흠/극본 성초이)에서 김혜준은 의심 탐정 이영애(구경이 역)가 쫓는 빌런 케이 역으로 활약하고 있다. 지금껏 드라마에서 볼 수 없던 역대급 깜찍한 빌런 캐릭터를]]></content:encoded>
+            <title><![CDATA[오은영 눈물 흘린 사연..'방과후 설렘' 4학년 연습생들 찐이야 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113080520180</link>
+            <guid>https://entertain.v.daum.net/v/20211113080520180</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박소영 기자] 오은영 박사가 ‘방과후 설렘’ 4학년 연습생들의 진심에 결국 눈물을 쏟았다. 12일 네이버 NOW.에서 방송된 방과후 설렘 프리퀄 ‘등교전 망설임’에서는 4학년 연습생들이 그간 함께 울고 웃었던 연습생 83명의 엄마 오은영 박사를 위해 특별한 선물을 준비해 눈길을 끌었다. 이날 마지막 방송에서는 방과후 설렘 4학년 연습생들이 오은영]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['공짜' 안내상·이철민→김현숙·홍석천, 포스터 공개 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113030010439</link>
-            <guid>https://entertain.v.daum.net/v/20211113030010439</guid>
-            <pubDate>Fri, 12 Nov 2021 18:29:16 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] [사진 = 미스터리프랜즈스튜디오 제공] [사진 = 미스터리프랜즈스튜디오 제공] 웹드라마 '공짜'가 2차 포스터를 공개했다. 제작사 미스터리프랜즈스튜디오 측은 최근 공식 SNS를 통해 웹드라마 '공짜(공기타짜)'의 2차 포스터를 공개했다. 포스터 속에는 안내상, 이철민, 김현숙, 홍석천의 모습이 담겨 있다. 먼저 안내상과 이철민의 얼굴이 반]]></content:encoded>
+            <title><![CDATA[서인영 "제시와 불화설 지겨워, 母 뇌경색으로 세상 떠나" 눈물 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113080302156</link>
+            <guid>https://entertain.v.daum.net/v/20211113080302156</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=태유나 기자]가수 서인영이 자신을 둘러싼 소문들에 대해 해명했다. 이어 어머니의 임종을 지키지 못한 것에 후회의 눈물을 흘렸다.지난 12일 방송된 채널A 예능 '오은영의 금쪽 상담소'('금쪽 상담소')에서는 서인영이 게스트로 출연해 고민을 털어놨다.&nbsp;본격적인 상담 전, 서인영을 둘러싼 불화설과 태도 논란이 언급됐다. '서인영이 인사를 하지 않는다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[노페갓 충격 탈락..'쇼미10' 어차피 우승은 자이언티x슬롬? (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113072116815</link>
-            <guid>https://entertain.v.daum.net/v/20211113072116815</guid>
-            <pubDate>Fri, 12 Nov 2021 22:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박소영 기자] 자이언티가 '쇼미더머니10' 본선에서 소코도모와 레전드 무대를 선사했다.&nbsp; 지난 12일 방송된 Mnet '쇼미더머니10' 7회에서는 팀 디스 배틀과 대망의 본선 무대가 펼쳐졌다.&nbsp; 이날 방송에서 자이언티·슬롬 팀은 염따·토일 팀과 배틀을 펼쳤다. 자이언티·슬롬 팀은 센스 있는 가사와 압도적인 카리스마로 손에 땀을 쥐게 하는 긴장감을]]></content:encoded>
+            <title><![CDATA["개그맨 고용 문제 해결" KBS '개승자' 어깨가 무겁다 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113080004062</link>
+            <guid>https://entertain.v.daum.net/v/20211113080004062</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] KBS 새 공개 코미디 '개승자'가 11월 13일 오후 10시 30분 첫 방송된다. '개그콘서트' 폐지 후 약 1년 6개월 만의 복귀다. 지난 1999년 9월 첫 방송된 '개그콘서트'는 대한민국 코미디 역사상 최장수 프로그램으로 수많은 스타와 유행어를 배출하며 사랑받았으나, 방송 환경 및 트렌드의 변화 등으로 인한 한계로 지난해 6]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[양지은vs홍지윤, 영원한 라이벌 빅매치 "운명의 장난" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113072003803</link>
-            <guid>https://entertain.v.daum.net/v/20211113072003803</guid>
-            <pubDate>Fri, 12 Nov 2021 22:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 노수린 기자) 양지은과 홍지윤이 정면 승부에 나섰다. 12일 방송된 TV조선 '금요일은 밤이 좋아'에서는 TOP7, 미스레인보우가 솔지, 뮤지와 함께 노래방 대결을 펼쳤다. 솔지와 뮤지는 TOP7과 미스레인보우와 팀을 나누었다. 뮤지는 '복면가왕'에서 솔지의 장기 집권을 저지한 바 있다. 솔지는 "이곳이 외나무 다리냐"고 물으며 뮤지에 대한]]></content:encoded>
+            <title><![CDATA[소지섭♥조은정, 신혼집 61억 현금 매입→장동건♥고소영 115억집 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113080003058</link>
+            <guid>https://entertain.v.daum.net/v/20211113080003058</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김수정 인턴기자) 소지섭-조은정 부부의 신혼집 가격이 공개됐다. 12일 방송된 KBS 2TV 예능 프로그램 '연중 라이브'에서는&nbsp;故 김자옥의 배우 인생부터 '최고급 아파트에 사는 스타', '스타들의 반전 인맥', 애플TV+ 오리지널 시리즈 'Dr.브레인'을 다뤘다. 이날은 먼저 故 김자옥의 배우 인생이 소개됐다. 1951년 태어난&nbsp;故 김자옥]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["윤호♥민정 지지해" 서민정→신지, 16세 子 준이 등장 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113070658678</link>
-            <guid>https://entertain.v.daum.net/v/20211113070658678</guid>
-            <pubDate>Fri, 12 Nov 2021 22:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=이예슬 기자] '다큐플렉스 청춘다큐 - 거침없이 하이킥’ 서민정이 오랜만에 모습을 드러낸 가운데 윤민커플에 대한 솔직한 마음을 전했다. 12일 밤 8시 50분 방송된 MBC ‘다큐플렉스 청춘다큐 - 거침없이 하이킥’(이하 ‘청춘다큐 - 거침없이 하이킥’)에서는&nbsp;서민정과 정일우가 15년만에 재회했다. 이날 서민정은 정일우에게 “지금까지 가장 많은]]></content:encoded>
+            <title><![CDATA['장르만 로맨스' 조은지 "감독 호칭 익숙해요, 익숙해도 되죠?" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113075010990</link>
+            <guid>https://entertain.v.daum.net/v/20211113075010990</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 조은지 감독이 'FM영화음악'에 출연해 '장르만 로맨스'에 대한 다양한 이야기를 전했다. 13일 방송된 MBC FM4U 'FM영화음악 김세윤입니다'에는 영화 '장르만 로맨스'로 장편 상업 영화 첫 연출에 나선 배우 겸 감독 조은지가 게스트로 출연했다. 이날 DJ 김세윤은 "이제는 감독 호칭이 익숙하지 않냐"고 물었고, 조은지는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['나혼산' '2022년 달력촬영' 박나래→전현무, 성훈 지게차 빼기 굴욕에 헛구역질+분노! (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113070432658</link>
-            <guid>https://entertain.v.daum.net/v/20211113070432658</guid>
-            <pubDate>Fri, 12 Nov 2021 22:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김예솔 기자] 성훈이 지게차 굴욕을 맛 봤다.&nbsp; 12일에 방송된 MBC '나 혼자 산다'에서는 전현무, 박나래, 성훈, 기안84, 화사, 키가 모여 무지개 달력 촬영에 도입했다.&nbsp; 앞서 기안84는 3월 달력 촬영 컨셉을 이야기했다. 기안84는 "3월이니까 시작, 설렘이니까 옛날의 느낌을 소환하고 싶다"라고 말했다. 무지개 회원들은 각자 나름대로]]></content:encoded>
+            <title><![CDATA["영혼 살찌워야"..김응수, 성훈 위한 '고전책 선물' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113075007988</link>
+            <guid>https://entertain.v.daum.net/v/20211113075007988</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 원민순 기자) 연기자 김응수가 성훈을 위해 고전책 선물을 했다. 12일 방송된 MBC '나 혼자 산다'에서는 김응수가 성훈에게 고전책을 선물하는 모습이 전파를 탔다. 이날 김응수는 드라마에서 부자지간으로 호흡을 맞춘 성훈과 만났다. 두 사람은 각자의 반려견을 데리고 나와 산책하는 시간을 가졌다. 김응수는 최근 이사했다는 성훈의 새 집을 방문,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['보이스퀸' 최연화, 신예 이승현과 '힘든싱어'서 맞대결 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113070349650</link>
-            <guid>https://entertain.v.daum.net/v/20211113070349650</guid>
-            <pubDate>Fri, 12 Nov 2021 22:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 12일 금 방송된 TBS FM '최일구의 허리케인 라디오' 코너 '서바이벌 힘든싱어'에 가수 최연화와 이승현이 치열한 접전을 펼쳤다. 최연화는 MBN '보이스퀸'에서 최종 3인까지 오르며 확실히 눈도장을 찍은 가수로 데뷔 10년 차의 실력파다. 가수 주현미를 보고 한국 데뷔를 꿈꾼 최연화는, 중국에서 공무원 가수 생활을 하다 들]]></content:encoded>
+            <title><![CDATA['하이킥' 신지 子 준이, 16살 중3 폭풍성장 '세월 실감' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113074004937</link>
+            <guid>https://entertain.v.daum.net/v/20211113074004937</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김현정 기자) '다큐플렉스' 신지 아들 준이가 중학교 3학년 학생이 돼 나타났다. 12일 방송된 MBC '다큐플렉스-청춘다큐-거침없이 하이킥' 2부에서 신지는 "(연기를) 너무 쉽게 생각했다"라고 회상했다. 신지는 ‘거침없이 하이킥’으로 연기에 데뷔했다. 앞서 전 남편 민용(최민용 분)과 복잡하게 얽혀가는 이혼녀 역을 맡았지만 분량이 줄어든]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['연중라이브' 지드래곤→태양♥민효린, "136억" 으리으리한 펜트하우스 플렉스! (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113070304638</link>
-            <guid>https://entertain.v.daum.net/v/20211113070304638</guid>
-            <pubDate>Fri, 12 Nov 2021 22:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김예솔 기자] 빅뱅의 지드래곤, 태양이 '최고급 아파트에 사는 스타'에 이름을 올렸다.&nbsp; 12일에 방송된 KBS2TV '연중라이브'에서는 '차트를 달리는 여자' 코너에서 '최고급 아파트에 사는 스타'가 공개돼 눈길을 끌었다.&nbsp; 이날 6위는 배우 김수현이 등극했다. 김수현은 현재 핫플레이스인 성수동의 G아파트에 살고 있는 것으로 알려졌다. G아파트]]></content:encoded>
+            <title><![CDATA[이유영X예수정 '간호중' 확장판, 11월 25일 개봉 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113081520224</link>
+            <guid>https://entertain.v.daum.net/v/20211113081520224</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:37 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='간호중'인간보다 인간다운 고민에 빠진 간병 로봇에 대한 스토리로 화제를 모았던 작품 '간호중' 확장판이 11월 25일 극장 개봉을 확정 했다. 한국판 오리지널 SF 앤솔러지 시리즈로 화제를 모았던 'SF8'의 여덟 작품 중 하나인 '간호중'이 확장판으로 관객을 만난다. '간호중'은 10년째 식물인간으로 누워있는 환자와 지칠]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[99즈, 한-중-양식 세끼 뚝딱..배현성X조이현도 '만족' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113070018547</link>
-            <guid>https://entertain.v.daum.net/v/20211113070018547</guid>
-            <pubDate>Fri, 12 Nov 2021 22:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 노수린 기자) 배현성과 조이현이 99즈 표 요리에 감탄했다. 12일 방송된 tvN '슬기로운 산촌생활'에서는 99즈 삼인방 조정석, 김대명, 정경호가 중화요리에 도전했다. "계획을 잘 세워야 한다"고 계산하던 정경호는 "화구를 하나 더 만들까?"라고 제안했다. 김대명과 조정석은 동의했고, 이에 삼인방은 아궁이 3호를 완성했다. 정경호는 야채]]></content:encoded>
+            <title><![CDATA[송해·최동원, 다큐멘터리 영화로 만나는 인생사 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113080016079</link>
+            <guid>https://entertain.v.daum.net/v/20211113080016079</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:37 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 국내 최고령 현역 방송인과 전설적인 야구선수를 다큐멘터리 영화로 만난다. 바로 송해와 최동원이 그 주인공이다. 두 사람을 다룬 첫 번째 다큐멘터리 작인 '송해 1927'과 '1984 최동원'이 관객들에 가슴 뜨거운 울림을 안길 예정이다. 오는 18일 개봉하는 영화 '송해 1927'은 한 평생 전 국민과 희로애락을 함께 한]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['장르만 로맨스' 류승룡 "우리 영화 장르는 조은지, 배려 남달라" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113070005528</link>
-            <guid>https://entertain.v.daum.net/v/20211113070005528</guid>
-            <pubDate>Fri, 12 Nov 2021 22:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 류승룡이 '장르만 로맨스'에 대한 애정과 함께 동료들에 대한 고마운 마음을 전했다. 12일 방송된 tvN '홍진경의 영화로운 덕후생활'에서는 영화 '장르만 로맨스'(감독 조은지)에 출연한 배우 류승룡의 인터뷰가 전파를 탔다. 2019년 1월 개봉한 영화 '극한직업' 이후 2년 만에 스크린에 복귀한 류승룡은 '장르만 로맨스'에]]></content:encoded>
+            <title><![CDATA[천만 배우 류승룡의 '장르만 로맨스', 마블 잡을까 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113074800977</link>
+            <guid>https://entertain.v.daum.net/v/20211113074800977</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:37 GMT</pubDate>
+            <content:encoded><![CDATA[작지만 강하다. '흥행 보증 수표' 류승룡의 신작 '장르만 로맨스' 오는 17일 출격한다. 마블이 점령한 박스오피스 왕좌를 과연 빼앗을 수 있을까. '장르만 로맨스'는 평범하지 않은 로맨스로 얽힌 이들과 만나 일도 인생도 꼬여가는 베스트셀러 작가의 버라이어티한 사생활을 그린다. 류승룡 오나라 이유영 김희원 등 믿고 보는 배우들이 뭉쳤고, 명품 조연 조은지]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[백두산 유현상, "최근 큰 아들이 군대 전역, 참 잘생겼다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113064932448</link>
-            <guid>https://entertain.v.daum.net/v/20211113064932448</guid>
-            <pubDate>Fri, 12 Nov 2021 22:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이정범 기자) 12일(금) 방송된 TBS 'DJ SHOW! 9595'에는 한국 록계의 살아있는 전설이자 헤비메탈의 자존심 ‘백두산’의 리드보컬이자 리더인 ‘유현상’이 출연했다. 헤비메탈 밴드 ‘백두산’은 헤비메탈의 1세대로, 80년대 록 음악의 전성기에서 한 획을 그으며, 많은 대중의 사랑을 받았다. 그중에서도 유현상은 헤비메탈과 트로트 등]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[티아라, 말 못했던 속마음 "힘들었던 시간..늦어서 팬들에 미안" 눈물 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113063306356</link>
-            <guid>https://entertain.v.daum.net/v/20211113063306356</guid>
-            <pubDate>Fri, 12 Nov 2021 22:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 오윤주 기자] 그룹 티아라 멤버 지연, 효민, 은정, 큐리가 컴백을 앞두고 지난 시간들을 돌아봤다. 12일 유튜브 채널 '딩고뮤직'에는 '티아라 다시 큐' 세 번째 에피소드가 게재됐다. 이날 티아라는 9년 만에 조영수, 안영민 작곡가와 재회했다. 조영수는 "티아라와 오랜만에 다시 뭉쳐 뭉클하고 좋다. 저에게 티아라는 항상 1순위고 아픈 손]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[양치승 "父 폭력에 차라리 고아가 낫겠다 생각" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113063209347</link>
-            <guid>https://entertain.v.daum.net/v/20211113063209347</guid>
-            <pubDate>Fri, 12 Nov 2021 22:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 고향미 기자] 스포츠트레이너 양치승이 아픈 가정사를 공개했다. 양치승은 12일 오후 방송된 종합편성채널 채널A '오은영의 금쪽 상담소'(이하 '금쪽 상담소')에 출연해 "아버지가 밖에서는 굉장히 호인이다. 월급봉투를 들고 오다 힘든 사람이 보이면 주고 와. 그래서 사람들이 '너희 아버지 같은 사람 없어'이래. 그럼 난 그 소리 들을 때마]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[오은영, 서인영에 "절친이라 생각했던 친구들이 본인을 호구로 봤다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113063205345</link>
-            <guid>https://entertain.v.daum.net/v/20211113063205345</guid>
-            <pubDate>Fri, 12 Nov 2021 22:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 고향미 기자] 걸그룹 쥬얼리 출신 가수 서인영이 고민을 공개했다. 서인영은 12일 오후 방송된 종합편성채널 채널A '오은영의 금쪽 상담소'(이하 '금쪽 상담소')에 출연해 "쇼핑 할 때 항상 친구들 것까지 사주곤 했는데 나중에 '지가 뭔데? 지가 잘났다고 사주는 거야?'이러더라"라며 "빌려준 가방도 돌려 달라고 했더니 잃어버렸다고 한 적]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서인영 "제시와 멱살 잡고 몸싸움 직전까지? 이거는.." (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113063158343</link>
-            <guid>https://entertain.v.daum.net/v/20211113063158343</guid>
-            <pubDate>Fri, 12 Nov 2021 22:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 고향미 기자] 걸그룹 쥬얼리 출신 가수 서인영이 가수 제시와의 몸싸움설에 대해 입을 열었다. 서인영은 12일 오후 방송된 종합편성채널 채널A '오은영의 금쪽 상담소'(이하 '금쪽 상담소')에 출연했다. 이에 정형돈은 "제시와는 몸싸움 직전까지 갔다? 멱살까지는 잡았다"라고 물었다. 그러자 서인영은 "이거는 사실은, 제시와 17살 때]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[샘 해밍턴 "영어·호주 관련 질문 거절" 폭소 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113063112337</link>
-            <guid>https://entertain.v.daum.net/v/20211113063112337</guid>
-            <pubDate>Fri, 12 Nov 2021 22:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 고향미 기자] 호주 출신 방송인 샘 해밍턴이 0개 국어를 구사해 웃음을 안겼다. 샘 해밍턴은 12일 오후 방송된 케이블채널 KBS Joy '국민 영수증'에 출연해 "한국에서 내 집 마련의 꿈! 이룰 수 있을까?"라는 목표를 공개했다. 이에 송은이는 "옛날 우리 아버지들을 떠올리게 한다"고 말했고, 샘 해밍턴은 "그렇게 얘기하면 내가 건]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[샘 해밍턴 "나보다 윌벤저스가 더 많이 벌어" 얼마나? (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113063109336</link>
-            <guid>https://entertain.v.daum.net/v/20211113063109336</guid>
-            <pubDate>Fri, 12 Nov 2021 22:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 고향미 기자] 호주 출신 방송인 샘 해밍턴이 자신보다 두 아들 윌리엄, 벤틀리의 수입이 더 많다고 밝혔다. 샘 해밍턴은 12일 오후 방송된 케이블채널 KBS Joy '국민 영수증'에 출연했다. 이에 김숙은 "솔직히 궁금한 건 아이들의 수입이 본인보다 많냐?"고 물었다. 그러자 샘 해밍턴은 "요즘 한 6:4 되지 않을까? 아이들이 6, 내]]></content:encoded>
+            <title><![CDATA[설경규X이선균 '킹메이커', 치열한 선거 전쟁의 서막 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113073906927</link>
+            <guid>https://entertain.v.daum.net/v/20211113073906927</guid>
+            <pubDate>Fri, 12 Nov 2021 23:26:37 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='킹메이커'설경구 이선균 주연의 영화 '킹메이커'(감독 변성현)가 런칭 예고편 2종을 함께 공개했다. 12월 개봉 예정인 '킹메이커'는 세상을 바꾸기 위해 도전하는 네 번 낙선한 정치인 김운범(설경구 분)과 존재도 이름도 숨겨진 선거 전략가 서창대(이선균 분)가 치열한 선거판에 뛰어들며 시작되는 드라마다. 제70회 칸 국제]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['이터널스' 개봉 10일만 200만 돌파 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
@@ -2114,34 +2174,6 @@
             <guid>https://entertain.v.daum.net/v/20211112175534858</guid>
             <pubDate>Fri, 12 Nov 2021 09:25:09 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 김희원이 신작 '장르만 로맨스' 출연에 대해 이야기했다. 김희원은 12일 오후 화상 온라인 인터뷰를 진행했다. 오는 17일 영화 '장르만 로맨스' 개봉을 앞두고 취재진의 질의응답에 임했다. '장르만 로맨스'는 평범하지 않은 로맨스로 얽힌 이들과 만나 일도 인생도 꼬여가는 베스트셀러 작가 김현(류승룡)의 버라이어티한 사생]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유아인 "이게 끝이 아니다" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-            <link>https://entertain.v.daum.net/v/20211112175021722</link>
-            <guid>https://entertain.v.daum.net/v/20211112175021722</guid>
-            <pubDate>Fri, 12 Nov 2021 09:25:09 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 유아인이 청룡영화상 수상이 자신에게 준 의미를 되짚으며 연기에 대한 생각을 차분하게 밝혔다. 12일 서울 CGV 여의도에서 청룡영화상 핸드프린팅 행사가 열렸다.&nbsp; 윤성은 영화평론가의 사회로 진행된 이 자리에는 지난해 수상자인 유아인('소리도 없이', 남우주연상)과 라미란('정직한 후보', 여우주연상), 박정민('다만 악에]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박정민 "남우주연상을 함께하고픈 감독? 크리스토퍼 놀란" 웃음 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-            <link>https://entertain.v.daum.net/v/20211112173009193</link>
-            <guid>https://entertain.v.daum.net/v/20211112173009193</guid>
-            <pubDate>Fri, 12 Nov 2021 08:30:19 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김정수 기자] 12일 오후 서울 영등포구 여의도동 CGV여의도에서 진행된 제42회 청룡영화상 핸드프린팅 행사에 참석한 배우 박정민이 추후 남우주연상을 받게된다면 함께 하고싶은 감독으로 크리스토퍼 놀란 감독을 이야기해 주변을 웃겼다. 한편, 제 42회 청룡영화상은 오는 26일 여의도 KBS홀에서 개최되며 KBS 2TV에서 오후 8시 30분부]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[데이팅 앱도 공간도 의상도..'연애 빠진 로맨스' 생생 디테일 비하인드 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-            <link>https://entertain.v.daum.net/v/20211112171923866</link>
-            <guid>https://entertain.v.daum.net/v/20211112171923866</guid>
-            <pubDate>Fri, 12 Nov 2021 09:25:09 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=김현록 기자]영화 '연애 빠진 로맨스'가 생생한 디테일이 살아있는 프로덕션 비하인드 스틸을 공개했다. '연애 빠진 로맨스'는 연애는 싫지만 외로운 건 더 싫은 ‘자영’(전종서)과 일도 연애도 뜻대로 안 풀리는 ‘우리’(손석구), 이름, 이유, 마음 다 감추고 시작한 그들만의 아주 특별한 로맨스를 그린 영화다. 올겨울 연애에 관한 가장]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[차미경 '교토에서 온 편지' 주연 캐스팅..한채아X한선화와 호흡 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-            <link>https://entertain.v.daum.net/v/20211112170501358</link>
-            <guid>https://entertain.v.daum.net/v/20211112170501358</guid>
-            <pubDate>Fri, 12 Nov 2021 08:30:19 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자] 배우&nbsp;차미경이&nbsp;'교토에서 온 편지'에 합류한다. 한국영화아카데미(KAFA)&nbsp;제15기 장편제작 연구과정 작품인&nbsp;‘교토에서 온 편지’(감독 김민주)는 부산영상위원회가 신설한&nbsp;2021&nbsp;메이드 인 부산(Made In Busan)&nbsp;장편영화 제작지원 사업에 선정된 첫 작품이다. 영화&nbsp;‘교토에서 온 편지’는 부산 영도를 배경으로 한 작품으로]]></content:encoded>
         </item>
     </channel>
 </rss>
