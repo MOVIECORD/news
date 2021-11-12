@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-11-12T20:26:59.848Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 12 Nov 2021 21:21:38 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[톰 홀랜드 "'스파이더맨3' 재미있지 않아..어둡고 슬프다"[해외이슈]]]></title>
+            <link>https://v.daum.net/v/20211113060211149</link>
+            <guid>https://v.daum.net/v/20211113060211149</guid>
+            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]톰 홀랜드가 ‘스파이더맨:노웨이홈’이 슬프고 어두운 영화라고 말했다. 그는 11일(현지시간) 발간된 ‘토탈필름’에서 “사람들이 정말 놀랄 것은 이 영화가 재미(fun)있지 않다는 것이다”라고 운을 뗐다. 이어 “이 영화는 어둡고, 슬프다. 여러분이 사랑하는 캐릭터들이 결코 그들이 겪기를 바라지 않는 일들을 겪는 것을 보게]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F13%2Fmydaily%2F20211113060211761hwyh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>

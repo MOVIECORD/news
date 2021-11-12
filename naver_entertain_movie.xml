@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-11-12T20:26:59.858Z</updated>
+    <updated>2021-11-12T21:21:38.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[톰 홀랜드 “‘스파이더맨3’ 재미있지 않아…어둡고 슬프다”[해외이슈]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003555053</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003555053"/>
+        <updated>2021-11-12T21:20:24.229Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]톰 홀랜드가 ‘스파이더맨:노웨이홈’이 슬프고 어두운 영화라고 말했다. 그는 11일(현지시간) 발간된 ‘토탈필름’에서 “사람들이 정말 놀랄 것은 이 영화가 재미(fun)있지 않다는 것이다”]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디즈니+ 온라인 론칭쇼]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012789929</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001372738"/>
         <updated>2021-11-12T09:24:17.452Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 유아인이 청룡영화상 수상이 자신에게 준 의미를 되짚으며 연기에 대한 생각을 차분하게 밝혔다. 12일 서울 CGV 여의도에서 청룡영화상 핸드프린팅 행사가 열렸다. 윤성은 영화평론가의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘이터널스’ 200만 관객 돌파…‘블랙 위도우’ 뛰어 넘는 기록]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001621044</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001621044"/>
-        <updated>2021-11-12T09:24:17.454Z</updated>
-        <content type="html"><![CDATA[영화 ‘이터널스’가 200만 관객을 돌파하는 쾌거를 기록했다. ‘이터널스’가 개봉 2주차에도 식지 않는 흥행 열기로 뜨거운 관심을 모으고 있다. 새로움으로 중무장한 ‘이터널스’를 향한 관객들의 사랑이 연일 이어지고]]></content>
     </entry>
 </feed>
