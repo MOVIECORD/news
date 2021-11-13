@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Nov 2021 10:28:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 11:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211108160634_16df0b7ad982ede7580178d043fd1dfc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[코미디 서바이벌 프로그램 '개승자' 오늘 첫방송 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=172392</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=172392</guid>
+            <pubDate>Sat, 13 Nov 2021 11:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=172392">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211113200912_6f942ab9159d76869b460eca95962564.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=172392">코미디 서바이벌 프로그램 '개승자' 오늘 첫방송</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EC%8A%B9%EC%9E%90">개승자</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211113200912_6f942ab9159d76869b460eca95962564.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[더보이즈, 신곡 ‘매버릭(MVAERICK)’ 뮤뱅 1위 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=172374</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=172374</guid>
@@ -1030,24 +1048,6 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211112225035_869b8d02491a49d8add430fa187e0346_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[뮤직뱅크] 그룹 더보이즈, 1위의 영광 “더비 너무너무 고마워” ♪ MAVERICK (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=172222</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=172222</guid>
-            <pubDate>Fri, 12 Nov 2021 14:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=172222">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211112223613_6e0787e2f50617bc46b1717b3937851c_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=172222">[뮤직뱅크] 그룹 더보이즈, 1위의 영광 “더비 너무너무 고마워” ♪ MAVERICK</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211112223613_6e0787e2f50617bc46b1717b3937851c_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA['부산국제영화제' 조한철, 개막작 '행복의 나라로'로 레드카펫 밟는다 (MBC 연예 ─ 영화)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/327093</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/327093</guid>
@@ -1110,6 +1110,13 @@
             <pubDate>Wed, 22 Sep 2021 15:01:50 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/324801" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/08/319f7cfd-9966-44d3-a886-43309fc8bb4f.jpg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">'기적' 임윤아 "사투리 연기에 도전, 한 단계 성장했다" [인터뷰M]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/08/319f7cfd-9966-44d3-a886-43309fc8bb4f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['팔콘과 윈터 솔져', 제2의 캡틴 아메리카 탄생? 런칭 스틸 공개 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003498057</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003498057</guid>
+            <pubDate>Sat, 13 Nov 2021 11:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드POP=이미지 기자] '팔콘과 윈터 솔져'가 본격 스트리밍을 기념해 2종 런칭 스틸을 전격 공개했다. 디즈니+ 오리지널 시리즈 '팔콘과 윈터 솔져'는 '어벤져스: 엔드게임' 이후 히어로의 삶을 내려놓고 살아가]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팝업★]'오징어 게임' 1번 오일남 오영수, 한국시리즈 1차전 시구 '인기입증' (네이버TV연예 ─ 영화)]]></title>
@@ -1280,186 +1287,200 @@
             <content:encoded><![CDATA[[서울=뉴시스]윤준호 인턴 기자 = 배우 마이클 키튼이 '킬링 카인드: 킬러의 수제자'에서 독보적인 액션을 예고했다. 오는 24일 개봉 예정인 영화 '킬링 카인드: 킬러의 수제자'에서 마이클 키튼은 킬러의 수제자 ']]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[11월엔, 로맨스 vs 로맨스 [스경X초점] (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000774106</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000774106</guid>
-            <pubDate>Sat, 13 Nov 2021 01:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 부쩍 추워진 11월, 가슴을 따뜻하게 녹일 로맨스 영화 두 편이 찾아온다. 남녀의 그저그런 러브라인을 그리는 영화가 아니다. 독특한 콘셉트로 예비 관객들을 공략할, ‘장르만 로맨스’(감독 조은지)와 ‘]]></content:encoded>
+            <title><![CDATA['신사와 아가씨' 박하나, 지현우 고백 거절에 일 그만뒀다 '오열' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005721601</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005721601</guid>
+            <pubDate>Sat, 13 Nov 2021 11:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 김민지 기자 = 박하나가 지현우에게 고백을 거절당하고 일을 그만뒀다. 13일 오후 방송된 KBS 2TV 주말드라마 '신사와 아가씨'(연출 신창석, 극본 김사경) 15회에서 조사라(박하나 분)는 이영국]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘놀면뭐하니’ 정준하, 드론 특공대 에이스 등극 “듬직해” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001621213</link>
-            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001621213</guid>
-            <pubDate>Sat, 13 Nov 2021 10:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[‘놀면뭐하니’ 정준하가 드론 특공대 에이스가 됐다. 13일 오후 방송된 MBC 예능프로그램 ‘놀면 뭐하니?+’에는 유재석, 정준하, 하하, 신봉선, 미주가 함께하는 ‘위드 유+’가 공개됐다. 이날 유재석, 정준하,]]></content:encoded>
+            <title><![CDATA[장동민·김영철, 옥주현에 관심 폭발 "깜짝 놀랐다" ('아는 형님') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511313</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511313</guid>
+            <pubDate>Sat, 13 Nov 2021 11:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=신소원 기자] '아는 형님' 장동민과 김영철이 옥주현에게 관심을 보였다. 13일 오후 방송된 JTBC '아는 형님'에는 옥주현, 장동민, 테이, 엑소 시우민, 설현, 주우재, 우주소녀 다영, 골든차일드 이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['1박 2일' 3.1%의 성공 확률…극악 난이도의 미션 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004878631</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004878631</guid>
-            <pubDate>Sat, 13 Nov 2021 10:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[‘1박 2일’ 멤버들과 제작진의 치열한 심리전이 시작된다. 14일 방송되는 KBS 2TV '1박 2일 시즌4'(이하 1박 2일) 100회 특집 ‘단내투어’에서는 멤버들이 자유롭게 꾸려가는 ‘꿀’ 같은 제주도 여행기가]]></content:encoded>
+            <title><![CDATA[‘신사와 아가씨’ 지현우, 고백하는 박하나 해고했다 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000774179</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000774179</guid>
+            <pubDate>Sat, 13 Nov 2021 11:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] ‘신사와 아가씨’ 지현우가 박하나에게 그만두라고 말했다. 13일 오후 방송된 KBS2 주말드라마 ‘신사와 아가씨’에서는 지현우에게 고백하는 박하나의 모습이 전파를 탔다. 이날 조사라(박하나)는 이영국(]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['놀면뭐하니' 유재석, '주차 연수' 의뢰인에 "오늘 잘 만나신 것"[별별TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004459</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004459</guid>
-            <pubDate>Sat, 13 Nov 2021 10:27:24 GMT</pubDate>
-            <content:encoded><![CDATA['놀면 뭐하니?'에서 유재석이 주차 의뢰를 도왔다. 13일 오후 방송된 MBC 예능프로그램 '놀면 뭐하니?'에서는 의뢰인의 주차연수를 돕는 유재석의 모습이 그려졌다. 이날 유재석은 개인 의뢰를 받고 양천구로 향했다.]]></content:encoded>
+            <title><![CDATA['검사♥' 한지혜, 11년 만에 얻은 딸 100일 사진 공개…눈에서 꿀 뚝뚝 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000328633</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000328633</guid>
+            <pubDate>Sat, 13 Nov 2021 11:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=정서희 기자] 배우 한지혜가 딸의 100일 사진을 공개했다. 한지혜는 최근 자신의 SNS에 "엄마랑 딸이랑"이라는 글과 함께 사진 여러 장을 게재했다. 공개된 사진에는 새하얀 드레스를 입은 모녀가 천사]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가희, 한국만 오면 2살 더 먹는 고무줄 나이…"발리에선 40세인데 현타" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000328630</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000328630</guid>
-            <pubDate>Sat, 13 Nov 2021 10:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=심언경 기자] 그룹 애프터스쿨 출신 가희가 근황을 전했다. 가희는 최근 자신의 SNS에 "춤출 때 제일 행복한 42세 엄마. 발리에선 40인데. 현타"라는 글과 함께 사진 한 장을 게재했다. 공개된 사]]></content:encoded>
+            <title><![CDATA[‘아형’ 옥주현, 이진호 핑클빵 ‘옥주현 스티커’ 언급에 “안됐다” 폭소 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001621227</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001621227</guid>
+            <pubDate>Sat, 13 Nov 2021 11:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[‘아형’ 옥주현이 ‘옥주현 스티커’ 언급에 재치 있게 답했다. 13일 오후 방송된 JTBC ‘아는 형님’(이하 ‘아형’)에는 형님들의 절친과 함께하는 ‘아형고 축제’로 꾸려졌다. 이날 첫 번째 친구로 옥주현이 등장했]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임백천 "'연예가중계' 리포터 유재석 보며 '얘는 안 되겠다' 생각" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005721561</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005721561</guid>
-            <pubDate>Sat, 13 Nov 2021 10:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 이아영 기자 = 임백천이 유재석 신인 시절 일화를 전했다. 13일 방송된 KBS 2TV '불후의 명곡'에서는 전설의 MC 특집이 펼쳐졌다. 이날 임백천은 유재석과 관련된 일화를 공개했다. "유느님인데]]></content:encoded>
+            <title><![CDATA[이영애, 51세라고 누가 믿을까…민낯에도 청순美 끝판왕 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511312</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511312</guid>
+            <pubDate>Sat, 13 Nov 2021 11:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=이준현 기자] 배우 이영애가 수수한 민낯에도 여신 미모를 과시했다. 이영애는 13일 자신의 인스타그램을 통해 "모처럼 쉬는 토요일 오전. 구경이♥ 본방사수 하는 날. 감사합니다"이라는 글과 함께 여러 장의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['놀뭐' 신봉선 "회식 때 미주와 눈물…우정 타투할 뻔" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005721560</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005721560</guid>
-            <pubDate>Sat, 13 Nov 2021 10:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 김민지 기자 = 신봉선이 미주와 우정을 자랑했다. 13일 오후 방송된 MBC ‘놀면 뭐하니?+'에서는 멤버들은 '위드 유 +' 의뢰 장소로 향하던 중 지난주 진행한 회식에 대해 이야기했다. 유재석은]]></content:encoded>
+            <title><![CDATA['놀토' 임창정, 문세윤에 러브콜 "전 세계로 론칭하고파" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004466</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004466</guid>
+            <pubDate>Sat, 13 Nov 2021 11:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[임창정이 문세윤을 향한 영입 욕심을 드러냈다. 13일 방송된 tvN '놀라운 토요일'에는 임창정과 경수진이 출연했다. 연기, 가수, 엔터 대표 등 만능 엔터테인먼트로 활동 중인 임창정은 "도레미 멤버 중 스카우트 하]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[노포 중국집서 짜장면+탕수육 폭풍흡입 '감탄' ('놀면 뭐하니') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511308</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511308</guid>
-            <pubDate>Sat, 13 Nov 2021 10:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=신소원 기자] '놀면 뭐하니?' 유재석부터 미주까지, 중국집 음식에 감탄했다. 13일 오후 방송된 MBC '놀면 뭐하니?'에는 유재석, 정준하, 하하, 이미주, 신봉선의 '위드 유+'가 그려졌다. 앞서 ']]></content:encoded>
+            <title><![CDATA[[TV 엿보기] '지리산' 전지현·주지훈의 이런 모습 처음…끼 발산 장기자랑 무대 공개 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=119&amp;aid=0002547740</link>
+            <guid>https://entertain.naver.com/now/read?oid=119&amp;aid=0002547740</guid>
+            <pubDate>Sat, 13 Nov 2021 11:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[[데일리안 = 류지윤 기자] 지리산 레인저들의 파격 변신이 포착됐다. tvN 금토드라마 ‘지리산’에서 지리산 국립공원배 장기자랑 1등을 향한 레인저들의 독기 가득한 투혼 현장이 공개됐다. 사진 속에는 비비드한 색감이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['어사와 조이' 옥택연X김혜윤, 화제의 엔딩 미공개 스틸컷 공개 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004878628</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004878628</guid>
-            <pubDate>Sat, 13 Nov 2021 10:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[‘어사와 조이’ 옥택연, 김혜윤이 세상 특별한 관계성으로 화제를 모으고 있다. tvN 15주년 특별기획 월화드라마 ‘어사와 조이’(연출 유종선, 극본 이재윤, 제작 스튜디오드래곤·몽작소)가 2회 만에 뜨거운 반응을]]></content:encoded>
+            <title><![CDATA['놀토' 임창정 "신곡 MV, 황정민·하지원 모두 우정 출연" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004878636</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004878636</guid>
+            <pubDate>Sat, 13 Nov 2021 11:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[가수 임창정이 자신의 신곡 뮤직비디오에 황정민, 하지원 등이 모두 우정 출연해줬다고 밝혔다. 13일 방송된 tvN '놀라운 토요일'에서 '별거 없는 하루' 특집으로 꾸며져 임창정, 경수진이 출연했다. 임창정은 최근]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['불후' 이택림X임백천, 이상용·이상벽 무대에 충격 "나보다 못할줄"[별별TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004457</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004457</guid>
-            <pubDate>Sat, 13 Nov 2021 10:27:24 GMT</pubDate>
-            <content:encoded><![CDATA['불후' 방송인 이택림이 이상용과 이상벽의 무대에 배신감을 드러냈다. 13일 오후 방송된 KBS 2TV 예능 프로그램 '불후의 명곡'에서는 평균 나이 75세의 '명MC 특집'이 펼쳐졌다. 이날 첫 무대는 '뽀빠이']]></content:encoded>
+            <title><![CDATA[임창정 "문세윤 영입하고 싶다"…문세윤 "사기꾼" ('놀토') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511311</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511311</guid>
+            <pubDate>Sat, 13 Nov 2021 11:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=신소원 기자] '놀라운 토요일' 임창정이 문세윤을 자신의 회사에 영입하고 싶다고 밝혔다. 13일 오후 방송된 tvN '놀라운 토요일'에는 가수 임창정과 경수진이 출연했다. 임창정은 "뮤직비디오에 경수진 씨]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[사진]이펙스 에이든,'댄디한 매력' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004510022</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004510022</guid>
-            <pubDate>Sat, 13 Nov 2021 10:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=고양,박준형 기자] 13일 경기도 고양시 일산서구 킨텍스에서 ‘2021 글로벌 엔터테인먼트 엑스포’가 진행됐다. 그룹 이펙스 에이든이 멋진 무대를 펼치고 있다. . 2021.11.13 / soul1014@]]></content:encoded>
+            <title><![CDATA['놀면 뭐하니' 유재석, 주차 일타강사 변신…가족 된 5인방의 '위드유+' [종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001199468</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001199468</guid>
+            <pubDate>Sat, 13 Nov 2021 11:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[유재석이 일일 주차 일타강사로 나섰다. 13일 오후 방송된 MBC '놀면 뭐하니?'에서는 유재석, 정준하, 하하, 신봉선, 미주가 함께한 ‘위드 유+’가 공개됐다. 이날 새로운 가족이 된 5인방은 지난 주 촬영 후]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[사진]이펙스 위시,'귀엽게 볼터치' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004510021</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004510021</guid>
-            <pubDate>Sat, 13 Nov 2021 10:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=고양,박준형 기자] 13일 경기도 고양시 일산서구 킨텍스에서 ‘2021 글로벌 엔터테인먼트 엑스포’가 진행됐다. 그룹 이펙스 위시가 멋진 무대를 펼치고 있다. . 2021.11.13 / soul1014@o]]></content:encoded>
+            <title><![CDATA[[종합] '놀면 뭐하니' 유재석→정준하, 의뢰인과 함께 하는 위드유+ (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004878635</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004878635</guid>
+            <pubDate>Sat, 13 Nov 2021 11:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[유재석·정준하·하하·신봉선·미주가 의뢰인의 의뢰를 처리했다. 6일 방송된 MBC 예능 프로그램 '놀면 뭐하니'에서는 의뢰인의 부탁을 처리하는 위드유+ 특집이 다뤄졌다. 이날 유재석은 멤버들과 함께 의뢰인의 부탁을 들]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[사진]이펙스 예왕,'팬들 소리 듣고 싶어요' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004510020</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004510020</guid>
-            <pubDate>Sat, 13 Nov 2021 10:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=고양,박준형 기자] 13일 경기도 고양시 일산서구 킨텍스에서 ‘2021 글로벌 엔터테인먼트 엑스포’가 진행됐다. 그룹 이펙스 예왕이 멋진 무대를 펼치고 있다. . 2021.11.13 / soul1014@o]]></content:encoded>
+            <title><![CDATA['놀토' 임창정, 문세윤 스카우트 욕심 "영업 이익 많이 남을 듯" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001199467</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001199467</guid>
+            <pubDate>Sat, 13 Nov 2021 11:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[임창정이 문세윤을 욕심냈다. 13일 오후 방송된 tvN '놀라운 토요일'에는 가수 임창정과 배우 경수진이 출연했다. 이날 임창정은 "도레미 중 스카우트웃 하고 싶은 한 명이 있다"고 밝혀 눈길을 끌었다. 태연, 키,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['놀뭐' 신봉선 "과거 비밀연애에 유재석 서운했을 것…앞으론 공개" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005721558</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005721558</guid>
-            <pubDate>Sat, 13 Nov 2021 10:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 김민지 기자 = 신봉선이 앞으로 연인을 만나면 공개 열애를 하겠다고 했다. 13일 오후 방송된 MBC ‘놀면 뭐하니?+'에서는 유재석, 정준하, 하하, 신봉선, 미주가 함께하는 ‘위드 유+’가 공개됐]]></content:encoded>
+            <title><![CDATA[‘놀면 뭐하니?’, 주차 강사 유재석→크로키 모델 정준하...해결사 변신 [종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000774176</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000774176</guid>
+            <pubDate>Sat, 13 Nov 2021 11:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] ‘놀면 뭐하니?’ 멤버들이 해결사로 변신했다. 13일 오후 방송된 MBC ‘놀면 뭐하니?’에서는 유재석, 정준하, 하하, 신봉선, 미주의 위드 유+ 특집이 전파를 탔다. 이날 유재석은 제작진에게 대뜸]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[사진]이펙스 백승,'귀여운 베레모 빵모자' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004510017</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004510017</guid>
-            <pubDate>Sat, 13 Nov 2021 10:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=고양,박준형 기자] 13일 경기도 고양시 일산서구 킨텍스에서 ‘2021 글로벌 엔터테인먼트 엑스포’가 진행됐다. 그룹 이펙스 백승이 멋진 무대를 펼치고 있다. . 2021.11.13 / soul1014@o]]></content:encoded>
+            <title><![CDATA['놀면 뭐하니' 유재석 "지호·나은 나이 차에 나경은과 걱정...지호, 나은 잘 챙겨 걱정X" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004878633</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004878633</guid>
+            <pubDate>Sat, 13 Nov 2021 11:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[유재석이 아들 지호와 딸 나은에 대한 애정을 드러냈다. 6일 방송된 MBC 예능 프로그램 '놀면 뭐하니'에서는 의뢰인의 부탁을 처리하는 위드유+ 특집이 다뤄졌다. 유재석은 의뢰인 자녀의 유치원 하원에 나섰다. 유재석]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[사진]이펙스 아민,'매력적인 손짓' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004510015</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004510015</guid>
-            <pubDate>Sat, 13 Nov 2021 10:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=고양,박준형 기자] 13일 경기도 고양시 일산서구 킨텍스에서 ‘2021 글로벌 엔터테인먼트 엑스포’가 진행됐다. 그룹 이펙스 아민이 멋진 무대를 펼치고 있다. . 2021.11.13 / soul1014@o]]></content:encoded>
+            <title><![CDATA[서수연, L사 명품 목도리 ♥이필모가 사줬나…선글라스 끼고 갤러리 구경 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000328631</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000328631</guid>
+            <pubDate>Sat, 13 Nov 2021 11:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=심언경 기자] 배우 이필모의 아내 서수연이 근황을 전했다. 서수연은 최근 자신의 SNS에 "기운이 느껴지는 그림들 너무 귀엽다 #이두원작가님"이라는 글과 함께 사진 다섯 장을 게재했다. 공개된 사진 속]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[서병기 연예톡톡]드라마 ‘지리산’과 과도한 CG의 교훈 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=016&amp;aid=0001912231</link>
-            <guid>https://entertain.naver.com/now/read?oid=016&amp;aid=0001912231</guid>
-            <pubDate>Sat, 13 Nov 2021 10:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드경제 = 서병기 선임기자]조금 지난 일이지만, tvN 15주년 특별기획 ‘지리산’의 초반 과도한 CG가 드라마의 조기안착의 큰 걸림돌이 됐음은 부인할 수 없다. 지리산을 지키고 사람을 살리는 ‘레인저’를 통해]]></content:encoded>
+            <title><![CDATA[‘방과후 설렘’ 입학식 미션 60초 미리보기…예고 영상 공개 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001621221</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001621221</guid>
+            <pubDate>Sat, 13 Nov 2021 11:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[‘등교전 망설임’이 MBC ‘방과후 설렘’으로 새롭게 돌아온다. 지난 12일 오후 7시 네이버 NOW.(나우)를 통해 방송된 ‘등교전 망설임’ 마지막 화에서 MBC 오디션 프로그램 ‘방과후 설렘’의 예고 영상이 공개]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[사진]핫이슈,'즐거운 댄스' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004510011</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004510011</guid>
-            <pubDate>Sat, 13 Nov 2021 10:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=고양,박준형 기자] 13일 경기도 고양시 일산서구 킨텍스에서 ‘2021 글로벌 엔터테인먼트 엑스포’가 진행됐다. 그룹 핫이슈가 멋진 무대를 펼치고 있다. . 2021.11.13 / soul1014@osen]]></content:encoded>
+            <title><![CDATA['놀뭐' 5인방, 폐점 직전 중국집 먹방→유재석 주차 연수 '훈훈'(종합) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005721584</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005721584</guid>
+            <pubDate>Sat, 13 Nov 2021 11:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 김민지 기자 = '놀면 뭐하니?+' 5인방이 특별한 미션 수행에 나섰다. 13일 오후 방송된 MBC ‘놀면 뭐하니?+'에서는 유재석, 정준하, 하하, 신봉선, 미주가 함께하는 ‘위드 유+’가 공개됐다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[사진]핫이슈 다인,'귀여운 총알~' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004510010</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004510010</guid>
-            <pubDate>Sat, 13 Nov 2021 10:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=고양,박준형 기자] 13일 경기도 고양시 일산서구 킨텍스에서 ‘2021 글로벌 엔터테인먼트 엑스포’가 진행됐다. 그룹 핫이슈 다인이 멋진 무대를 펼치고 있다. . 2021.11.13 / soul1014@o]]></content:encoded>
+            <title><![CDATA['43년 차 막내' 임백천, 2연승으로 '전설의 MC 특집' 우승(종합) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005721573</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005721573</guid>
+            <pubDate>Sat, 13 Nov 2021 11:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 이아영 기자 = 임백천이 선배들을 제치고 '불후의 명곡' 우승을 차지했다. 13일 방송된 KBS 2TV '불후의 명곡'에서는 전설의 MC 특집이 펼쳐졌다. 이날 김준현은 송해에게 '전국 노래자랑' M]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[사진]핫이슈 나현,'아찔 초미니 스커트' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004510009</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004510009</guid>
-            <pubDate>Sat, 13 Nov 2021 10:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=고양,박준형 기자] 13일 경기도 고양시 일산서구 킨텍스에서 ‘2021 글로벌 엔터테인먼트 엑스포’가 진행됐다. 그룹 핫이슈 나현이 멋진 무대를 펼치고 있다. . 2021.11.13 / soul1014@o]]></content:encoded>
+            <title><![CDATA['놀면뭐하니' 유재석, 드론 특공대→일일 운전강사.."긁으면 보상해드리겠다"[★밤TView] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004465</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004465</guid>
+            <pubDate>Sat, 13 Nov 2021 11:21:44 GMT</pubDate>
+            <content:encoded><![CDATA['놀면 뭐하니?'에서 멤버들이 시민들의 의뢰를 해결하는 특공대로 변신했다. 13일 오후 방송된 MBC 예능프로그램 '놀면 뭐하니?'에서는 유재석, 정준하, 하하, 신봉선, 미주의 '위드 유+' 특집이 그려졌다. 이날]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[사진]핫이슈 예원,'눈도장 찍었어요~' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004510008</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004510008</guid>
-            <pubDate>Sat, 13 Nov 2021 10:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=고양,박준형 기자] 13일 경기도 고양시 일산서구 킨텍스에서 ‘2021 글로벌 엔터테인먼트 엑스포’가 진행됐다. 그룹 핫이슈 예원이 멋진 무대를 펼치고 있다. . 2021.11.13 / soul1014@o]]></content:encoded>
+            <title><![CDATA['불후의 명곡' 임백천, 이상벽→허참 제치고 명MC 특집 우승[★밤TView] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004464</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004464</guid>
+            <pubDate>Sat, 13 Nov 2021 11:21:44 GMT</pubDate>
+            <content:encoded><![CDATA['불후' 방송인 임백천이 우승 트로피를 차지했다. 13일 오후 방송된 KBS 2TV 예능 프로그램 '불후의 명곡'에서는 평균 나이 75세의 '명MC 특집'이 펼쳐졌다. 송해는 이날 방송에서 오프닝 무대를 장식했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['놀면뭐하니' 멤버들 회식 장면 공개..신봉선 "미주와 우정 타투할뻔" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004456</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004456</guid>
-            <pubDate>Sat, 13 Nov 2021 10:27:24 GMT</pubDate>
-            <content:encoded><![CDATA['놀면 뭐하니?'에서 멤버들이 회식을 했다고 전했다. 13일 오후 방송된 MBC 예능프로그램 '놀면 뭐하니?'에서는 다섯 명의 멤버들이 지난주 회식을 언급하는 장면이 그려졌다. 이날 차량 운전대를 잡은 유재석은 "지]]></content:encoded>
+            <title><![CDATA[‘놀라운 토요일’ 임창정·경수진 출격…팝송 노래 등장? (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001621219</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001621219</guid>
+            <pubDate>Sat, 13 Nov 2021 11:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[‘놀라운 토요일’에 임창정, 경수진이 존재감을 뽐낸다. 13일 오후 방송하는 tvN ‘놀라운 토요일’(이하 ‘놀토’)에는 임창정과 경수진이 출격한다. 이날은 임창정과 경수진이 스튜디오를 찾았다. 임창정은 본인의 히트]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[사진]핫이슈,'빛나는 조명 비 맞으며' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004510007</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004510007</guid>
-            <pubDate>Sat, 13 Nov 2021 10:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=고양,박준형 기자] 13일 경기도 고양시 일산서구 킨텍스에서 ‘2021 글로벌 엔터테인먼트 엑스포’가 진행됐다. 그룹 핫이슈가 멋진 무대를 펼치고 있다. . 2021.11.13 / soul1014@osen]]></content:encoded>
+            <title><![CDATA[허성태, "10년째 ♥아내 아침밥 챙겨줘"…매니저 사랑꾼 면모 제보 ('전참시') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511310</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511310</guid>
+            <pubDate>Sat, 13 Nov 2021 11:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=이준현 기자] '전지적 참견 시점' 허성태가 반전의 요리 실력을 선보인다. 13일 방송되는 MBC '전지적 참견 시점'(이하 '전참시') 178회에서는 '오징어 게임' 허성태표 집밥이 공개된다. 촬영차 고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[사진]핫이슈 예빈,'빛나는 무대' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004510004</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004510004</guid>
-            <pubDate>Sat, 13 Nov 2021 10:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=고양,박준형 기자] 13일 경기도 고양시 일산서구 킨텍스에서 ‘2021 글로벌 엔터테인먼트 엑스포’가 진행됐다. 그룹 핫이슈 예빈이 멋진 무대를 펼치고 있다. . 2021.11.13 / soul1014@o]]></content:encoded>
+            <title><![CDATA['놀면 뭐하니' 유재석, 주차 일타강사 변신 "긁으면 내가 보상" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511309</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000511309</guid>
+            <pubDate>Sat, 13 Nov 2021 11:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=신소원 기자] '놀면 뭐하니?' 유재석이 주차 일타강사로 변신했다. 13일 오후 방송된 MBC '놀면 뭐하니?'에는 유재석, 정준하, 하하, 이미주, 신봉선이 의뢰인들과 함께 시간을 보내는 '위드 유+']]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘놀면 뭐하니?’ 신봉선, 미주와 애정 폭발 “우정 타투 하러 갈 뻔” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000774173</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000774173</guid>
-            <pubDate>Sat, 13 Nov 2021 10:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] ‘놀면 뭐하니?’ 신봉선과 미주가 우정을 자랑했다. 13일 오후 방송된 MBC ‘놀면 뭐하니?’에서는 미주와 우정 타투하러 갈 뻔했다는 신봉선의 모습이 전파를 탔다. 이날 유재석은 제작진에게 대뜸 차]]></content:encoded>
+            <title><![CDATA[‘놀면 뭐하니?’ 유재석, 스위트한 주차 연수 “긁으면 제가 보상할 것” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000774174</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000774174</guid>
+            <pubDate>Sat, 13 Nov 2021 11:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] ‘놀면 뭐하니?’ 유재석이 스위트함을 폭발시켰다. 13일 오후 방송된 MBC ‘놀면 뭐하니?’에서는 의뢰인에 주차 연수를 가르쳐주는 유재석의 모습이 전파를 탔다. 이날 주차 연수를 요청한 의뢰인은 유재]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[사진]핫이슈 형신,'귀여운 인형외모' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004510003</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004510003</guid>
-            <pubDate>Sat, 13 Nov 2021 10:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=고양,박준형 기자] 13일 경기도 고양시 일산서구 킨텍스에서 ‘2021 글로벌 엔터테인먼트 엑스포’가 진행됐다. 그룹 핫이슈 형신이 멋진 무대를 펼치고 있다. . 2021.11.13 / soul1014@o]]></content:encoded>
+            <title><![CDATA[‘신사와 아가씨’ 박하나, 지현우에 사랑고백하고 해고 “청춘 다 바쳐” 눈물 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000510685</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000510685</guid>
+            <pubDate>Sat, 13 Nov 2021 11:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 유경상 기자]뉴스엔 유경상 yooks@ 박하나가 지현우에게 갑작스런 사랑고백하고 해고됐다. 11월 13일 방송된 KBS 2TV 주말드라마 ‘신사와 아가씨’ 15회(극본 김사경/연출 신창석)에서 조사라(박하나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['신사와 아가씨' 지현우, 박하나 내보냈다.."조실장이 그만둬요" (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004467</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003004467</guid>
+            <pubDate>Sat, 13 Nov 2021 11:21:52 GMT</pubDate>
+            <content:encoded><![CDATA['신사와 아가씨'에서 배우 지현우가 박하나를 해고했다. 13일 오후 방송된 KBS 2TV 주말드라마 '신사와 아가씨'에서는 조사라(박하나 분)가 일을 그만두고 집에서 나가는 장면이 그려졌다. 조사라는 "저랑 박 선생]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['신사와 아가씨' 박하나, 이세희 감싼 지현우에 눈물 고백…해고당했다 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001372955</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001372955</guid>
+            <pubDate>Sat, 13 Nov 2021 11:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이이진 기자) '신사와 아가씨' 지현우가 박하나의 고백을 거절했다. 13일 방송된 KBS 2TV 주말드라마 '신사와 아가씨' 15회에서는 조사라(박하나 분)가 이영국(지현우)에게 고백한 모습이 그려졌다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['지헤중' 송혜교X장기용, 부산 아닌 서울에서 재회 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
@@ -1616,27 +1637,6 @@
             <content:encoded><![CDATA[(엑스포츠뉴스 김현정 기자) 배우 송혜교가 박형식에게 고마움을 전했다. 13일 송혜교는 인스타그램에 "땡큐"라는 글과 함께 사진을 올렸다. 사진 속 송혜교는 큼지막한 꽃다발을 안고 미소를 짓고 있다. 송혜교가 들고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정해인-지수, 로맨틱 모먼트 '설강화' 티저 영상 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=438&amp;aid=0000040666</link>
-            <guid>https://entertain.naver.com/now/read?oid=438&amp;aid=0000040666</guid>
-            <pubDate>Sat, 13 Nov 2021 06:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[내달 18일 첫 방송되는 JTBC 토일드라마 ‘설강화:snowdrop’(이하 ‘설강화’)의 티저 영상이 공개됐다. 유재하의 ‘사랑하기 때문에’가 라디오에서 흘러나오는 가운데, 단둘이 있는 공간에는 미묘한 기류가 흐르]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['원더우먼' 김봉만, 모델에서 배우로 인생 2막…"롤모델=차승원" [엑's 인터뷰③] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001372914</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001372914</guid>
-            <pubDate>Sat, 13 Nov 2021 06:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 하지원 기자)(인터뷰②에 이어) 김봉만이 모델에서 연기자로 전향한 후 개성파 배우의 입지를 다져 나가는 중이다. 한국인 최초 엠포리오 아르마니 밀라노 패션쇼를 비롯해 다양한 명품 브랜드 모델로 활동,]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['원더우먼' 김봉만 "진서연, 따뜻+배려 넘쳐…로맨스 아쉽기도" [엑's 인터뷰②] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001372912</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001372912</guid>
-            <pubDate>Sat, 13 Nov 2021 06:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 하지원 기자) (인터뷰①에 이어) 김봉만이 '원더우먼'에서 함께 호흡했던 진서연을 언급했다. 김봉만은 '원더우먼'에서 한성혜(진서연 분)의 죄까지 떠안고 가는 완벽한 조력자 역할을 톡톡히 하며 존재감을]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[마동석, '이터널스' 배우들과 다정 셀카..월드스타 인증 [인스타] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211112165142931</link>
             <guid>https://movie.v.daum.net/v/20211112165142931</guid>
@@ -1741,22 +1741,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Fnewsis%2F20211112095400318umht.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[이재명 민주당 대선후보, "최동원은 에너지 넘치는 국민 영웅" 극찬 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211113104449692</link>
-            <guid>https://movie.v.daum.net/v/20211113104449692</guid>
-            <pubDate>Sat, 13 Nov 2021 02:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]이재명 더불어민주당 대선 후보가 1984년 가을 한국시리즈 7차전 4승 1패의 주인공, 대한민국 부산의 심장 무쇠팔 최동원의 인생 경기를 담은 최초의 다큐멘터리 영화 ‘1984 최동원’을 관람했다. 이재명 더불어민주당 대선 후보가 후보 선출 이후 처음으로 부산을 찾아 민생 행보를 이어가고 있는 가운데 11월 12일(금) BIF]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F13%2Fmydaily%2F20211113104449411ttck.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[아이폰으로 찍은 대만 흥행 1위 로맨스 영화 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211113110902959</link>
-            <guid>https://movie.v.daum.net/v/20211113110902959</guid>
-            <pubDate>Sat, 13 Nov 2021 02:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[[김성호 기자] &nbsp;        ▲ 괴짜들의 로맨스&nbsp;포스터    ⓒ 오드 AUD  1:1 정사각의 화면에서 진행되던 영화가 어느 한 순간에 이르러 16:9 화면비로 넓어진다. 그 순간의 변화는, 신파극이 관객의 눈물샘을 강타해 억지로 눈물을 쥐어짜내듯 이성으론 어찌할 수 없는 출렁임을 일으킨다. 일순간의 충격이다. 고음이 출중한 가수의 음성을 듣듯이 관객의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F13%2Fohmynews%2F20211113110904425dfhj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['1984 최동원' 기록보다 기적을 선물한 최동원이 주는 감동과 울림 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211113155509331</link>
             <guid>https://movie.v.daum.net/v/20211113155509331</guid>
@@ -1773,12 +1757,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F13%2Fsportskhan%2F20211113134548426qmnw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[강박장애 다룬 대만영화, 7년 전 한국과 어떻게 다를까 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211112110601450</link>
-            <guid>https://movie.v.daum.net/v/20211112110601450</guid>
-            <pubDate>Sat, 13 Nov 2021 04:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[[김성호 기자] ▲ &nbsp;&lt;플랜맨&gt; 포스터    ⓒ 롯데엔터테인먼트  &nbsp;대만은 세계적으로 코로나19 확산을 가장 잘 막아낸 나라 중 하나다. 전 세계 78억 인구 중 2억5000만 명이 확진된 현재까지, 단 1만6000여 명만이 확진 판정을 받았을 뿐이다. 인구수 대비 0.0006%만 확진돼 3.2%가 확진된 전 세계 평균보다 크게 뛰어난 방역]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Fohmynews%2F20211112110602861wzcq.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[이재명 민주당 대선후보, "최동원은 에너지 넘치는 국민 영웅" 극찬 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211113104449692</link>
+            <guid>https://movie.v.daum.net/v/20211113104449692</guid>
+            <pubDate>Sat, 13 Nov 2021 02:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]이재명 더불어민주당 대선 후보가 1984년 가을 한국시리즈 7차전 4승 1패의 주인공, 대한민국 부산의 심장 무쇠팔 최동원의 인생 경기를 담은 최초의 다큐멘터리 영화 ‘1984 최동원’을 관람했다. 이재명 더불어민주당 대선 후보가 후보 선출 이후 처음으로 부산을 찾아 민생 행보를 이어가고 있는 가운데 11월 12일(금) BIF]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F13%2Fmydaily%2F20211113104449411ttck.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["사는게 왜 이렇게 재밌죠?"..긍정 여왕 오나라 [★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211113130005884</link>
+            <guid>https://movie.v.daum.net/v/20211113130005884</guid>
+            <pubDate>Sat, 13 Nov 2021 09:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 배우 오나라가 9일 오전 화상으로 진행된 영화 '장르만 로맨스' 개봉 관련 인터뷰에 앞서 포즈를 취하고 있다.  오나라는 극 중 현(류승룡 분)과 이혼하고 순모(김희원 분)와 달달한 비밀 연애 중인 미애로 분했다.   '장르만 로맨스'는 평범하지 않은 로맨스로 얽힌 이들과 만나 일도 인생도 꼬여가는 베스트셀러 작가의 버라이어티한 사]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F13%2Fstarnews%2F20211113130007007eafj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[아이폰으로 찍은 대만 흥행 1위 로맨스 영화 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211113110902959</link>
+            <guid>https://movie.v.daum.net/v/20211113110902959</guid>
+            <pubDate>Sat, 13 Nov 2021 02:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[[김성호 기자] &nbsp;        ▲ 괴짜들의 로맨스&nbsp;포스터    ⓒ 오드 AUD  1:1 정사각의 화면에서 진행되던 영화가 어느 한 순간에 이르러 16:9 화면비로 넓어진다. 그 순간의 변화는, 신파극이 관객의 눈물샘을 강타해 억지로 눈물을 쥐어짜내듯 이성으론 어찌할 수 없는 출렁임을 일으킨다. 일순간의 충격이다. 고음이 출중한 가수의 음성을 듣듯이 관객의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F13%2Fohmynews%2F20211113110904425dfhj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[윤여정이 "칸에서 자랑스러웠다"고 했던 이정재 [라제기의 '배우'다] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1789,12 +1789,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Fhankooki%2F20211112073007706gjcz.gif" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["사는게 왜 이렇게 재밌죠?"..긍정 여왕 오나라 [★FULL인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211113130005884</link>
-            <guid>https://movie.v.daum.net/v/20211113130005884</guid>
-            <pubDate>Sat, 13 Nov 2021 09:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 배우 오나라가 9일 오전 화상으로 진행된 영화 '장르만 로맨스' 개봉 관련 인터뷰에 앞서 포즈를 취하고 있다.  오나라는 극 중 현(류승룡 분)과 이혼하고 순모(김희원 분)와 달달한 비밀 연애 중인 미애로 분했다.   '장르만 로맨스'는 평범하지 않은 로맨스로 얽힌 이들과 만나 일도 인생도 꼬여가는 베스트셀러 작가의 버라이어티한 사]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F13%2Fstarnews%2F20211113130007007eafj.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['장르만 로맨스', 찰진 대사부터 6인 6색 환장 케미까지..관전 포인트 눈길 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211112092139449</link>
+            <guid>https://movie.v.daum.net/v/20211112092139449</guid>
+            <pubDate>Sat, 13 Nov 2021 11:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 영화 '장르만 로맨스'(감독 조은지)가&nbsp;관객을 발길을 잡아끌 공감과 웃음의 관전 포인트를 공개했다. 배우 조은지의 장편 영화 연출 데뷔작 '장르만 로맨스'는 평범하지 않은 로맨스로 얽힌 이들과 만나 일도 인생도 꼬여가는 베스트셀러 작가의 버라이어티한 사생활을 그린 작품이다.&nbsp;유쾌한 웃음과 관계에 대한 공감 스토리로 두 마리 토]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Fxportsnews%2F20211112092141239qmjc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['1984 최동원' 기록보다 기적을 선물한 최동원이 주는 감동과 울림 (다음영화 뉴스 ─ 최신)]]></title>
@@ -1957,6 +1957,27 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F13%2Fstarnews%2F20211113073907995hydb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['신사와 아가씨' 박하나, 지현우에 사랑고백하고 해고 "청춘 다 바쳐" 눈물 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113201612791</link>
+            <guid>https://entertain.v.daum.net/v/20211113201612791</guid>
+            <pubDate>Sat, 13 Nov 2021 11:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[박하나가 지현우에게 갑작스런 사랑고백하고 해고됐다. 11월 13일 방송된 KBS 2TV 주말드라마 ‘신사와 아가씨’ 15회(극본 김사경/연출 신창석)에서 조사라(박하나 분)는 이영국(지현우 분)에게 선택을 강요하다가 갑작스런 사랑고백 했다. 조사라는 이영국을 짝사랑하며 박단단(이세희 분)을 질투해 박단단이 박수철(이종원 분)의 딸이라는 사실을 약점 삼]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['신사와 아가씨' 지현우, 박하나 내보냈다.."조실장이 그만둬요" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113200939750</link>
+            <guid>https://entertain.v.daum.net/v/20211113200939750</guid>
+            <pubDate>Sat, 13 Nov 2021 11:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 이종환 기자] /사진=KBS 2TV '신사와 아가씨' 방송화면 캡쳐'신사와 아가씨'에서 배우 지현우가 박하나를 해고했다. 13일 오후 방송된 KBS 2TV 주말드라마 '신사와 아가씨'에서는 조사라(박하나 분)가 일을 그만두고 집에서 나가는 장면이 그려졌다. 조사라는 "저랑 박 선생 둘 중에 한 사람만 선택해달라"라며 이영국(지현우 분)에게 박단단]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['신사와 아가씨' 박하나, 이세희 감싼 지현우에 눈물 고백..해고당했다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113200857746</link>
+            <guid>https://entertain.v.daum.net/v/20211113200857746</guid>
+            <pubDate>Sat, 13 Nov 2021 11:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이이진 기자) '신사와 아가씨' 지현우가 박하나의 고백을 거절했다. 13일 방송된 KBS 2TV 주말드라마 '신사와 아가씨' 15회에서는 조사라(박하나 분)가 이영국(지현우)에게 고백한 모습이 그려졌다. 이날 조사라는 박단단(이세희)이 박수철(이종원)의 딸이라는 것을 알고 분노했다. 조사라는 "박 선생이랑 저 둘 중에 누가 더 이 집에 필요한]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['사이렌' 이기심이 불러일으킨 현대 사회의 비극..긴 여운 남겼다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
             <link>https://entertain.v.daum.net/v/20211113170939247</link>
             <guid>https://entertain.v.daum.net/v/20211113170939247</guid>
@@ -2041,130 +2062,109 @@
             <content:encoded><![CDATA[(엑스포츠뉴스 하지원 기자) 김봉만이 '원더우먼'을 마무리하는 소감을 전했다. 지난 6일 종영한 SBS 금토드라마 ‘원 더 우먼'은 비리 검사에서 하루아침에 재벌 상속녀로 인생 체인지가 된 후 빌런 재벌가에 입성한, 불량지수 100% 여검사의 ‘더블라이프 코믹버스터’ 드라마다. '원더우먼' 종영을 기념해 최근 엑스포츠뉴스와 만난 김봉만은 "'원더우먼'이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['옷소매' 왕세손 이준호x궁녀 이세영, 본격 등판..궁중 로맨스 시작 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113143320624</link>
-            <guid>https://entertain.v.daum.net/v/20211113143320624</guid>
-            <pubDate>Sat, 13 Nov 2021 06:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=선미경 기자] ‘옷소매&nbsp;붉은&nbsp;끝동’에 이준호-이세영이 본격 등판해,&nbsp;가슴 설레는 궁중 로맨스에 싹을 틔운다. 지난&nbsp;12일&nbsp;첫 방송된&nbsp;MBC&nbsp;금토드라마&nbsp;‘옷소매&nbsp;붉은&nbsp;끝동’(극본 정해리, 연출 정지인 송연화) 1회에서는 어린 이산(이주원 분)과 어린 생각시 덕임(이설아 분)가 영빈(남기애 분)의 조문을 계기로 짧지만 애틋한 인연을 맺는 모습이 그려]]></content:encoded>
+            <title><![CDATA[넉살 "요로결석으로 몸 안 좋아, 물 먹고 운동하는 중" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113201428781</link>
+            <guid>https://entertain.v.daum.net/v/20211113201428781</guid>
+            <pubDate>Sat, 13 Nov 2021 11:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박은해 기자] 넉살이 요로결석을 앓고 있다고 밝혔다. 11월 13일 방송된 tvN 예능 프로그램 '놀라운 토요일'에는 임창정과 경수진이 게스트로 출연해 퀴즈 실력을 뽐냈다. 이날 붐은 "넉살 몸이 좀 아프다는 소식을 들었다"고 운을 뗐고, 넉살은 "좀 안 좋은데 요로결석이 아직 조금 남아 있다. 지금 물 먹고 운동하고 있다"고 털어놓았다. 오늘의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['지리산' 거대 화재사고 발생, 위험 닥친 주지훈 어쩌나 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113140957407</link>
-            <guid>https://entertain.v.daum.net/v/20211113140957407</guid>
-            <pubDate>Sat, 13 Nov 2021 05:23:14 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박수인 기자] '지리산'에 적색경보가 번진다. 11월 13일 방송될 tvN 15주년 특별기획 ‘지리산’(극본 김은희/ 연출 이응복/ 제작 에이스토리, 스튜디오드래곤, 바람픽쳐스) 7회에서는 지리산에 화재가 발생, 서이강(전지현 분), 강현조(주지훈 분)를 비롯한 레인저들의 사투가 벌어질 예정이다. 먼저 지난 방송 말미에는 강현조가 불길에 휩싸인]]></content:encoded>
+            <title><![CDATA[이상민 "장동민, 각종 서바이벌 우승..상금만 약 2억 타" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113200800741</link>
+            <guid>https://entertain.v.daum.net/v/20211113200800741</guid>
+            <pubDate>Sat, 13 Nov 2021 11:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 이상민이 브레인 장동민을 자랑했다. 11월 13일 방송된 JTBC 예능 프로그램 '아는 형님'(이하 '아형') 306회에서는 시우민, 설현, 옥주현, 주우재, 다영, 이장준, 테이, 장동민이 함께하는 형님들의 지인 파티가 열렸다. 이날 친구들이 전부 모이고 장기자랑 시간이 열렸다. 장준의 카이, 김희철 무대에 이어 강호동은 "내]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['지헤중' 서울서 재회한 송혜교 장기용, 미묘한 감정 변화 생긴다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113140350368</link>
-            <guid>https://entertain.v.daum.net/v/20211113140350368</guid>
-            <pubDate>Sat, 13 Nov 2021 05:23:14 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박수인 기자] ‘지금, 헤어지는 중입니다’ 송혜교, 장기용이 서울에서 재회한다. 11월 12일 SBS 금토드라마 ‘지금, 헤어지는 중입니다’(극본 제인/연출 이길복/크리에이터 글Line&amp;강은경/제작 삼화네트웍스, UAA/이하 ‘지헤중’) 1회에서 가장 인상적인 것은 하영은(송혜교 분)과 윤재국(장기용 분)의 만남이었다. 하룻밤의 달콤한 일탈로 끝]]></content:encoded>
+            <title><![CDATA[키 "태연과 난 스케줄 없어도 SNS 사진 위해 기본 메이크업 해야 해" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113200720739</link>
+            <guid>https://entertain.v.daum.net/v/20211113200720739</guid>
+            <pubDate>Sat, 13 Nov 2021 11:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박은해 기자] 샤이니 키가 아이돌의 숙명을 털어놓았다. 11월 13일 방송된 tvN 예능 프로그램 '놀라운 토요일'에는 임창정과 경수진이 게스트로 출연했다. 이날 드레스코드는 '별것 없는 하루'로 피오는 "별거 없는 하루에 축구를 본다"며 축구 콘셉트 잠옷을 입고 나왔다. 한해는 "스케줄 없다길래 자다가 나왔다"며 너스레를 떨었고, 넉살은 "도둑]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['놀뭐' 유재석, 주차 일타강사 변신 "차 긁으면 제가 보상"..역시 유느님 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113192712389</link>
-            <guid>https://entertain.v.daum.net/v/20211113192712389</guid>
-            <pubDate>Sat, 13 Nov 2021 10:28:12 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 유재석이 주차 일타강사로 변신했다. 11월 13일 방송된 MBC 예능 '놀면 뭐하니?' 114회에서는 유재석, 정준하, 하하, 신봉선, 미주가 '위드 유' 미션에 도전, 다양한 사연을 품은 의뢰인을 만났다. 이날 유재석은 의뢰인 지니를 만나기 위해 양천구로 향했다. 이어 유재석은 선샤인이라는 닉네임으로 의뢰인을 마주했고, 두 사]]></content:encoded>
+            <title><![CDATA['놀토' 임창정, 문세윤에 러브콜 "전 세계로 론칭하고파" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113200322704</link>
+            <guid>https://entertain.v.daum.net/v/20211113200322704</guid>
+            <pubDate>Sat, 13 Nov 2021 11:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 이덕행 기자] /사진=tvN임창정이 문세윤을 향한 영입 욕심을 드러냈다. 13일 방송된 tvN '놀라운 토요일'에는 임창정과 경수진이 출연했다. 연기, 가수, 엔터 대표 등 만능 엔터테인먼트로 활동 중인 임창정은 "도레미 멤버 중 스카우트 하고 싶은 멤버가 있다"고 밝혔다. 임창정은 태연, 키, 한해, 넉살을 가리키며 "돈이 많이 들어가지만 남는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['놀면뭐하니' 유재석, '주차 연수' 의뢰인에 "오늘 잘 만나신 것" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113192217372</link>
-            <guid>https://entertain.v.daum.net/v/20211113192217372</guid>
-            <pubDate>Sat, 13 Nov 2021 10:28:12 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 이종환 기자] /사진=MBC '놀면 뭐하니?' 방송화면 캡쳐'놀면 뭐하니?'에서 유재석이 주차 의뢰를 도왔다. 13일 오후 방송된 MBC 예능프로그램 '놀면 뭐하니?'에서는 의뢰인의 주차연수를 돕는 유재석의 모습이 그려졌다. 이날 유재석은 개인 의뢰를 받고 양천구로 향했다. 의뢰인은 "주차 연수를 부탁드리려고 했다"고 말했고, 유재석이 가까이 오]]></content:encoded>
+            <title><![CDATA['아형' 우주소녀 다영 "절친 강호동 장점? 귀여워, 아기 같아" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113200301697</link>
+            <guid>https://entertain.v.daum.net/v/20211113200301697</guid>
+            <pubDate>Sat, 13 Nov 2021 11:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[‘아형’ 우주소녀 다영이 절친 강호동의 장점을 나열했다. 13일 오후 방송된 JTBC ‘아는 형님’(이하 ‘아형’)에는 옥주현, 장동민, 테이, 엑소 시우민, 설현, 주우재, 우주소녀 다영, 골든차일드 이장준이 출연했다. 이날 강호동은 “이 프로그램을 기회로 생각하는 것 같다”며 다영이를 향해 환하게 웃었다. 이에 다영은 “이를 갈았다”라고 너스레를 떨었]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['놀면뭐하니' 유재석→미주, 중국집 케첩 탕수육 먹방 "스트레스 풀려" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113191800351</link>
-            <guid>https://entertain.v.daum.net/v/20211113191800351</guid>
-            <pubDate>Sat, 13 Nov 2021 10:28:12 GMT</pubDate>
-            <content:encoded><![CDATA[‘놀면뭐하니’ 유재석, 미주 등이 중국집의 케첩 탕수육 맛에 반했다. 13일 오후 방송된 MBC ‘놀면 뭐하니?+’에는 유재석, 정준하, 하하, 신봉선, 미주가 함께하는 ‘위드 유+’가 공개됐다. 이날 유재석, 정준하, 하하, 신봉선, 미주는 의뢰인의 추억이 담겨 있는 중국집 영빈관을 찾았다. 추억의 노포 맛집인 이 곳은 47년 된 곳으로, 폐업을 앞두고]]></content:encoded>
+            <title><![CDATA[임창정 "황정민과 골프? 컨디션 좋은 사람이 이겨" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113195826650</link>
+            <guid>https://entertain.v.daum.net/v/20211113195826650</guid>
+            <pubDate>Sat, 13 Nov 2021 11:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 임유리 기자] 배우 겸 가수 임창정이 배우 황정민과 함께 골프를 자주 친다고 밝혔다. 13일 오후 방송된 종합 편성 채널 JTBC 예능 프로그램 ‘세리머니 클럽’에는 임창정과 유세윤이 게스트로 출연했다. 이날 임창정은 이번 신곡 뮤직비디오 촬영을 통해 처음으로 황정민과 함께 연기해 봤다고 말했다. 김종국은 임창정에게 “두 분이서 골프]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[하도권, 비거리 270m 기록..이경규 "도로 PPL 받은 것" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113191653347</link>
-            <guid>https://entertain.v.daum.net/v/20211113191653347</guid>
-            <pubDate>Sat, 13 Nov 2021 10:28:12 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 송오정 기자] 하도권이 기울어진 카트 도로 덕분에 비거리 270m를 기록했다. 11월 13일 방송된 SBS '편먹고 공치리 시즌2'이 배우 성훈, 하도권이 출연했다. 지난주에 이어 팀 개편과 함께 새로운 내부의 적이 등장한 후반전 경기가 펼쳐졌다. 3홀에서 하도권은 파워풀한 티샷으로 감탄을 자아냈다. 높이 날아 다행히 벙커를 넘겨 카트 도로에 안]]></content:encoded>
+            <title><![CDATA[유세윤 "골프메이트는 아내, 내가 더 못 쳐 싸울 일 없어" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113195806647</link>
+            <guid>https://entertain.v.daum.net/v/20211113195806647</guid>
+            <pubDate>Sat, 13 Nov 2021 11:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 임유리 기자] 개그맨 유세윤이 아내와 자주 골프를 치러 나간다고 전했다. 13일 오후 방송된 종합 편성 채널 JTBC 예능 프로그램 ‘세리머니 클럽’에는 임창정과 유세윤이 게스트로 출연했다. 유세윤은 이날 등장하며 양파망에 골프공을 가득 채워와 골프를 치기도 전에 골프선수 박세리에게 “이러면 골프장 나오면 안 되지”라며 혼쭐이 나기도 했]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유재석→미주, 하루 시간 나눔..임산부 대신 먹방·드론 구출 '훈훈' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113190751313</link>
-            <guid>https://entertain.v.daum.net/v/20211113190751313</guid>
-            <pubDate>Sat, 13 Nov 2021 10:28:12 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이이진 기자) 방송인 유재석, 정준하, 가수 하하, 코미디언 신봉선, 러블리즈 출신 미주가 시간을 나눔했다. 13일 방송된 tvN '놀면 뭐하니?'에서는 '위드 유+' 특집으로 꾸며진 가운데 유재석, 정준하, 하하, 신봉선, 미주가 의뢰인의 의뢰를 해결하는 장면이 전파를 탔다. 이날 유재석은 영문을 모른 채 승합차를 운전했고, 멤버들을 차에]]></content:encoded>
+            <title><![CDATA[임창정 "황정민 앞에서 처음 연기, 엄청 떨렸다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113195745646</link>
+            <guid>https://entertain.v.daum.net/v/20211113195745646</guid>
+            <pubDate>Sat, 13 Nov 2021 11:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 임유리 기자] 배우 겸 가수 임창정이 자신의 뮤직비디오에 출연한 '천만배우' 황정민과 함께 연기한 소감을 밝혔다. 13일 오후 방송된 종합 편성 채널 JTBC 예능 프로그램 ‘세리머니 클럽’에는 임창정과 유세윤이 게스트로 출연했다. 임창정은 이날 이번 신곡의 뮤직비디오에 대해 “요즘 뮤직비디오가 드라마타이즈가 없다. 이번에 옛날 조성몸]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이상용 "36년간 3200개 군 부대 방문, '그리운 어머니' 내 아이디어" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113190420304</link>
-            <guid>https://entertain.v.daum.net/v/20211113190420304</guid>
-            <pubDate>Sat, 13 Nov 2021 10:28:12 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 이상용이 지금까지 3200개 부대를 방문했다고 밝혔다. 11월 13일 방송된 KBS 2TV ‘불후의 명곡’에서는 전설의 명MC 특집에 이상용이 출연했다. 첫 순서가 된 이상용은 “노래는 자신 없는데 말로 하면 내일까지 할 수 있다”라고 긴장했다. 이상용은 자신의 대표 프로그램인 ‘우정의 무대’의 ‘그리운 어머니’ 코너를 자신이]]></content:encoded>
+            <title><![CDATA[임백천, 허참 꺾고 우승.."본업 가수" 부담 극복 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113195641637</link>
+            <guid>https://entertain.v.daum.net/v/20211113195641637</guid>
+            <pubDate>Sat, 13 Nov 2021 11:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예나 기자) 임백천이 '불후의 명곡' 명MC 특집 우승자로 등극했다.&nbsp; 13일 방송된 KBS 2TV '불후의 명곡'은 '전설의 명MC' 특집으로 꾸며진 가운데 송해, 이상벽, 이상용, 허참, 임백천, 이택림이 출연해 무대를 선사했다.&nbsp; 이날 임백천은 "본업이 가수"라는 MC들의 칭찬에 "부담 된다"고 걱정스러워했다. 임백천은 조용필의 '서]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이승기, 하도권 딱밤 맞고 어질..이경규 "거의 주먹으로 친 것" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113190410302</link>
-            <guid>https://entertain.v.daum.net/v/20211113190410302</guid>
-            <pubDate>Sat, 13 Nov 2021 10:28:12 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 송오정 기자] 배우 하도권이 이승기에게 강력한 벌칙 딱밤을 날렸다. 11월 13일 방송된 SBS '편먹고 공치리 시즌2'이 배우 성훈, 하도권이 출연했다. 지난주에 이어 팀 개편과 함께 새로운 내부의 적이 등장한 후반전 경기가 펼쳐졌다. 하도권이 버디에 성공하면서, 마지막 결정타로 후반전 1홀에서는 하도권, 이경규, 이승엽 '하이리' 팀이 승리했]]></content:encoded>
+            <title><![CDATA[유재석, 일일 주차 강사 변신 "긁으면 제가 보상해드릴 것" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113195242606</link>
+            <guid>https://entertain.v.daum.net/v/20211113195242606</guid>
+            <pubDate>Sat, 13 Nov 2021 11:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 강다윤 기자] 유재석이 의뢰인을 위해 일일 주차 강사로 변신했다. 13일 방송된 MBC '놀면 뭐하니?+'에서는 의뢰인의 부탁을 들어주는 '위드유+' 특집이 그려졌다. 이날 유재석은 3살 아이를 키우며 둘째를 임신 중인 의뢰인을 만났다. 의뢰인은 "제가 곧 육아 휴직에 들어가는데 둘째 태어나기 전에  첫째랑 좀 많이 놀아주고 싶다"라며 주]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['불후' 이택림X임백천, 이상용·이상벽 무대에 충격 "나보다 못할줄" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113185942269</link>
-            <guid>https://entertain.v.daum.net/v/20211113185942269</guid>
-            <pubDate>Sat, 13 Nov 2021 10:28:12 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 이시호 기자] /사진=KBS2 '불후의 명곡' 방송 화면 캡처 '불후' 방송인 이택림이 이상용과 이상벽의 무대에 배신감을 드러냈다. 13일 오후 방송된 KBS 2TV 예능 프로그램 '불후의 명곡'에서는 평균 나이 75세의 '명MC 특집'이 펼쳐졌다. 이날 첫 무대는 '뽀빠이' 이상용이었다. 이상용은 '그리운 어머니'로 감동적인 무대를, 이상벽은]]></content:encoded>
+            <title><![CDATA['놀면 뭐하니?' 유재석→신봉선, 같이 해서 더 훈훈한 '위드 유' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113194959586</link>
+            <guid>https://entertain.v.daum.net/v/20211113194959586</guid>
+            <pubDate>Sat, 13 Nov 2021 11:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=연휘선 기자] '놀면 뭐하니?'에서 유재석, 정준하, 신봉선 등이 또 한번 '위드 유' 프로젝트로 의미를 더했다. 13일 방송된 MBC 예능 프로그램 '놀면 뭐하니?'에서는 유재석, 정준하, 하하, 신봉선, 미주가 함께 하는 '놀면 뭐하니?+'의 '위드 유(with you)' 프로젝트가 그려졌다.&nbsp; 앞서 유재석의 시간을 공유하는 '위드 유' 프로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['놀면 뭐하니?' 신봉선 "과거 비밀연애, 유재석 서운해 하더라" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113185632248</link>
-            <guid>https://entertain.v.daum.net/v/20211113185632248</guid>
-            <pubDate>Sat, 13 Nov 2021 10:28:12 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=연휘선 기자] '놀면 뭐하니?'에서 신봉선이 과거 비밀연애를 고백했다.&nbsp; 13일 방송된 MBC 예능 프로그램 '놀면 뭐하니?'에서는 유재석, 정준하, 하하, 신봉선, 미주가 함께 하는 '놀면 뭐하니?+'의 '위드 유(with you)' 프로젝트가 그려졌다.&nbsp; 앞서 유재석의 시간을 공유하는 '위드 유' 프로젝트가 진행돼 큰 호응을 얻었던 바. 이번]]></content:encoded>
+            <title><![CDATA['놀면뭐하니' 유재석, 드론 특공대→일일 운전강사.."긁으면 보상해드리겠다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113194440498</link>
+            <guid>https://entertain.v.daum.net/v/20211113194440498</guid>
+            <pubDate>Sat, 13 Nov 2021 11:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 이종환 기자] /사진=MBC '놀면 뭐하니?' 방송화면 캡쳐'놀면 뭐하니?'에서 멤버들이 시민들의 의뢰를 해결하는 특공대로 변신했다. 13일 오후 방송된 MBC 예능프로그램 '놀면 뭐하니?'에서는 유재석, 정준하, 하하, 신봉선, 미주의 '위드 유+' 특집이 그려졌다. 이날 다섯 명의 멤버들은 의뢰인의 사연을 대신 수행하러 떠났다. 첫번째 사연은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['기러기아빠' 윤다훈, 딸 남경민 보고있나?..캠핑이야기 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113185559243</link>
-            <guid>https://entertain.v.daum.net/v/20211113185559243</guid>
-            <pubDate>Sat, 13 Nov 2021 10:28:12 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박소영 기자] 윤다훈은 두 친구와의 캠핑에서 힐링할 수 있을까. 13일 방송되는&nbsp;KBS2&nbsp;‘살림하는 남자들 시즌2’(이하 ‘살림남2′)에서는 윤다훈,&nbsp;이상훈,&nbsp;송창의의 좌충우돌 캠핑 이야기가 펼쳐진다. 이날 모처럼의 휴일에도 집에서 쓸쓸한 시간을 보내고 있던 윤다훈의 집에 반가운 손님,&nbsp;절친 배우 이상훈과 송창의가 찾아왔다. 이들은 혼자 있는 기]]></content:encoded>
+            <title><![CDATA['불후의 명곡' 임백천, 이상벽→허참 제치고 명MC 특집 우승 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113194411491</link>
+            <guid>https://entertain.v.daum.net/v/20211113194411491</guid>
+            <pubDate>Sat, 13 Nov 2021 11:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 이시호 기자] /사진=KBS2 '불후의 명곡' 방송 화면 캡처 '불후' 방송인 임백천이 우승 트로피를 차지했다. 13일 오후 방송된 KBS 2TV 예능 프로그램 '불후의 명곡'에서는 평균 나이 75세의 '명MC 특집'이 펼쳐졌다. 송해는 이날 방송에서 오프닝 무대를 장식했다. 이후 대기실에서는 연차 소개가 펼쳐졌다. 67년 차의 송해에 이어 5]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신봉선 "♥남자친구, 생기면 꼭 얘기하겠다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113185355232</link>
-            <guid>https://entertain.v.daum.net/v/20211113185355232</guid>
-            <pubDate>Sat, 13 Nov 2021 10:28:12 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 강다윤 기자] 코미디언 신봉선이 유재석에게 남자친구가 생기면 공개하겠다고 말했다. 13일 방송된 MBC '놀면 뭐하니?+'에서는 유재석, 정준하, 하하, 신봉선, 이미주가 의뢰인을 만나러 떠나는 모습이 그려졌다.이날 이미주는 아름다운 가을 정취에 흠뻑 빠져 "연애하고 싶다"라며 감상을 남겼다. 하하 역시 "연애하기 좋은 날씨다"라고 거들었]]></content:encoded>
+            <title><![CDATA['음악중심' 아이칠린, 유니크한 매력 가득..'FRESH' 컴백 무대 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113193005403</link>
+            <guid>https://entertain.v.daum.net/v/20211113193005403</guid>
+            <pubDate>Sat, 13 Nov 2021 11:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[‘음악중심’ 아이칠린(ICHILLIN')이 글로벌 팬심을 저격했다. 신인 걸그룹 아이칠린은 13일 오후 방송된 MBC '쇼! 음악중심'에 출연해 새 싱글 '프레시(FRESH)' 컴백 무대를 꾸몄다. 이날 아이칠린은 보라색과 노란색의 조합의 의상을 완벽 소화하며 유니크한 매력을 발산한 것은 물론, 한층 더 업그레이드된 비주얼과 사랑스러운 매력으로 시선을 집중]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['놀면뭐하니' 멤버들 회식 장면 공개..신봉선 "미주와 우정 타투할뻔" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113184810199</link>
-            <guid>https://entertain.v.daum.net/v/20211113184810199</guid>
-            <pubDate>Sat, 13 Nov 2021 10:28:12 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 이종환 기자] /사진=MBC '놀면 뭐하니?' 방송화면 캡쳐'놀면 뭐하니?'에서 멤버들이 회식을 했다고 전했다. 13일 오후 방송된 MBC 예능프로그램 '놀면 뭐하니?'에서는 다섯 명의 멤버들이 지난주 회식을 언급하는 장면이 그려졌다. 이날 차량 운전대를 잡은 유재석은 "지난주에 회식했잖아. 미나(신봉선)하고 미주는 왜 눈물을"이라고 말문을 열었]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['놀면 뭐하니' 신봉선 "과거 비밀 연애, 유재석 서운했을 것" 공개 약속 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113184532171</link>
-            <guid>https://entertain.v.daum.net/v/20211113184532171</guid>
-            <pubDate>Sat, 13 Nov 2021 10:28:12 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 신봉선이 과거 비밀 연애 경험을 전했다. 11월 13일 방송된 MBC 예능 '놀면 뭐하니?' 114회에서는 유재석, 정준하, 하하, 신봉선, 미주가 회식 비하인드를 풀었다. 이날 유재석이 "우리 지난주에 회식했잖아"라고 운을 떼자 멤버들 모두가 앞다퉈 "너무 좋았다"고 입을 모았다. 유재석은 "미나하고 미주는 왜 눈물을 흘렸냐"]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유재석 "신봉선·미주, 회식 때 눈물"..현장 사진 공개 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113184126141</link>
-            <guid>https://entertain.v.daum.net/v/20211113184126141</guid>
-            <pubDate>Sat, 13 Nov 2021 10:28:12 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이이진 기자) 방송인 유재석, 정준하, 가수 하하, 코미디언 신봉선, 러블리즈 출신 미주가 회식을 언급했다. 13일 방송된 tvN '놀면 뭐하니?'에서는 유재석, 정준하, 하하, 신봉선, 미주가 회식을 언급한 장면이 전파를 탔다. 이날 유재석은 "지난주에 회식하지 않았냐. 미나하고 미주는 왜 눈물을"이라며 말문을 열었고, 회식 당시 촬영한 단]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['불후의 명곡' 송해 "노래자랑 후계자? 내가 하게 냅둬" 폭소 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211113183956131</link>
-            <guid>https://entertain.v.daum.net/v/20211113183956131</guid>
-            <pubDate>Sat, 13 Nov 2021 10:28:12 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 이시호 기자] /사진=KBS2 '불후의 명곡' 방송 화면 캡처 '불후' MC 송해가 '전국 노래자랑'의 후계자를 언급했다. 13일 오후 방송된 KBS 2TV 예능 프로그램 '불후의 명곡'에서는 평균 나이 75세의 '명MC 특집'이 펼쳐졌다. 송해는 이날 방송에서 오프닝 무대를 장식했다. 이후 대기실에서 김준현은 "노래자랑을 언젠간 물려주셔야 하]]></content:encoded>
+            <title><![CDATA[유재석, 흔들린 탕수육 '찍먹파' "유명한 이유 있어..너무 맛있다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211113193005404</link>
+            <guid>https://entertain.v.daum.net/v/20211113193005404</guid>
+            <pubDate>Sat, 13 Nov 2021 11:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 강다윤 기자] 유재석, 정준하, 하하, 신봉선, 이미주 폐업을 앞둔 영빈관을 찾아 먹방을 펼쳤다. 13일 방송된 MBC '놀면 뭐하니?+'에서는 유재석, 정준하, 하하, 신봉선, 이미주가 의뢰인의 부탁을 들어주는 '위드유+' 특집이 그려졌다. 이날 의뢰인은 "추억의 노포 맛집 영빈관을 아시느냐"라며 "사장님이 은퇴를 하시면서 폐업을 한다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['1984 최동원' 기록보다 기적을 선물한 최동원이 주는 감동과 울림 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
