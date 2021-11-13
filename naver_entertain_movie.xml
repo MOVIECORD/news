@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-11-13T07:24:32.281Z</updated>
+    <updated>2021-11-13T08:29:55.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디즈니+ '완다비전', MCU 작품들과 연결고리..관전포인트 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003498035</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003498035"/>
+        <updated>2021-11-13T08:29:08.625Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] '완다비전'이 관람 포인트와 레트로 포스터를 공개했다. 마블 최고의 웰메이드 오리지널 시리즈 '완다비전'은 슈퍼히어로 완다와 비전이 마침내 결혼해 웨스트뷰라는 마을에 정착해 행복한 생활을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['1984 최동원' 기록보다 기적을 선물한 최동원이 주는 감동과 울림]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=016&amp;aid=0001912213</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000774098"/>
         <updated>2021-11-13T01:10:40.122Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 배우 류승룡의 마성은 ‘빈틈’에서부터 시작한다. 머리부터 발끝까지 완벽한 것보다는 조금의 틈이 보일 때 그 사람이 더욱 사랑스럽다는 걸 아주 잘 아는 배우다. “완벽한 사람은 매력 없잖아요. 인생이 따]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이터널스',개봉 10일 째 200만 돌파…올해 최단 속도]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002547681</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002547681"/>
-        <updated>2021-11-13T01:10:40.123Z</updated>
-        <content type="html"><![CDATA[[데일리안 = 류지윤 기자] '이터널스'가 누적 관객 200만명을 돌파했다. 12일 배급사 월트디즈니컴퍼니 코리아에 따르면 '이터널스'는 개봉 10일째인 이날 오전 누적 관객 200만2천여명을 기록했다. 올해 국내에]]></content>
     </entry>
 </feed>
