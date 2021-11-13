@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Nov 2021 21:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 22:24:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,14 +24,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2FNEWS1%2F20211112142805466jbmj.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA[넷플릭스, 신작 공개.."'집콕족' 모여라" [TF프리즘]]]></title>
-            <link>https://movie.v.daum.net/v/20211114000035962</link>
-            <guid>https://movie.v.daum.net/v/20211114000035962</guid>
-            <pubDate>Sat, 13 Nov 2021 15:26:10 GMT</pubDate>
-            <content:encoded><![CDATA['악마를 보았다'·'해바라기'·'러브, 로지' 15일 공개&nbsp; [더팩트｜원세나 기자] OTT(온라인 동영상 서비스) 넷플릭스가 '안 보면 후회할' 신작을 공개했다. 개봉 당시 영화 팬들의 뜨거운 호응을 얻었던 장르 영화 두 편과 남녀 사이 미묘한 감정을 섬세하게 연출해 공감을 샀던 로맨스 영화 한 편이 같은 날 15일 넷플릭스 시청자들과 만날 예정이다. 복]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F14%2FTHEFACT%2F20211114000036208vsuq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['청룡' 라미란 "이제 올라갈 곳 없어..그래도 꼭 다음 노릴 것" [N현장]]]></title>
             <link>https://movie.v.daum.net/v/20211112143646129</link>
             <guid>https://movie.v.daum.net/v/20211112143646129</guid>
@@ -46,6 +38,14 @@
             <pubDate>Fri, 12 Nov 2021 01:14:10 GMT</pubDate>
             <content:encoded><![CDATA['이터널스' 속 숨은 단서 찾기에 열풍이 불었다. 누적관객수 200만 관객 돌파를 목전에 두고 있는 영화 '이터널스(클로이 자오 감독)'의 쿠키 영상과 이스터에그 요소들이 화제를 모으고 있다. 매 작품마다 다음 작품 속 비밀을 숨겨두는 마블의 세계관 연결고리를 찾기 위한 N차 관람도 늘고 있다. 첫 번째 쿠키 영상엔 타노스의 동생으로 추측되는 에로스가]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Filgansports%2F20211112092905424fefu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[넷플릭스, 신작 공개.."'집콕족' 모여라" [TF프리즘]]]></title>
+            <link>https://movie.v.daum.net/v/20211114000035962</link>
+            <guid>https://movie.v.daum.net/v/20211114000035962</guid>
+            <pubDate>Sat, 13 Nov 2021 15:26:10 GMT</pubDate>
+            <content:encoded><![CDATA['악마를 보았다'·'해바라기'·'러브, 로지' 15일 공개&nbsp; [더팩트｜원세나 기자] OTT(온라인 동영상 서비스) 넷플릭스가 '안 보면 후회할' 신작을 공개했다. 개봉 당시 영화 팬들의 뜨거운 호응을 얻었던 장르 영화 두 편과 남녀 사이 미묘한 감정을 섬세하게 연출해 공감을 샀던 로맨스 영화 한 편이 같은 날 15일 넷플릭스 시청자들과 만날 예정이다. 복]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F14%2FTHEFACT%2F20211114000036208vsuq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[박정민 "주연상? 죽기 전 타봤으면..오래 살게요" (청룡)[종합]]]></title>
@@ -88,20 +88,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Fyonhap%2F20211112163937843dfzs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['핫블러드' 리얼 청춘의 삶 "휘몰아치는 맨몸 액션"]]></title>
-            <link>https://movie.v.daum.net/v/20211112154634704</link>
-            <guid>https://movie.v.daum.net/v/20211112154634704</guid>
-            <pubDate>Fri, 12 Nov 2021 12:38:22 GMT</pubDate>
-            <content:encoded><![CDATA[액션 거장과 차세대 액션 스타들이 만났다. 세상을 향한 거침없는 녀석들의 리얼 청춘 액션 영화 '핫 블러드(신재명 감독)'가 이정현, 최제헌, 정성호의 강렬한 액션이 돋보이는 액션 하이라이트 영상을 공개했다. '핫 블러드'는 현실의 벽에 부딪혀 인생의 방향을 잃은 세 명의 친구가 각자의 방식으로 부조리한 세상과 뜨겁게 맞서는 청춘의 이야기를 담아낸 리]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Filgansports%2F20211112154637310jvbt.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['연애 빠진 로맨스' 일상 포착한 섬세한 프로덕션, '찐공감' 자극 나선다]]></title>
             <link>https://movie.v.daum.net/v/20211112134126269</link>
             <guid>https://movie.v.daum.net/v/20211112134126269</guid>
             <pubDate>Fri, 12 Nov 2021 15:26:14 GMT</pubDate>
             <content:encoded><![CDATA[[티브이데일리 최하나 기자] '연애 빠진 로맨스'가 생생한 디테일이 살아있는 프로덕션 비하인드 스틸을 공개했다. 영화 '연애 빠진 로맨스'(감독 정가영·제작 CJ ENM)는 연애는 싫지만 외로운 건 더 싫은 자영(전종서)과 일도 연애도 뜻대로 안 풀리는 우리(손석구), 이름, 이유, 마음 다 감추고 시작한 그들만의 아주 특별한 로맨스를 그린 영화다. 올겨]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Ftvdaily%2F20211112134128158ysvy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['핫블러드' 리얼 청춘의 삶 "휘몰아치는 맨몸 액션"]]></title>
+            <link>https://movie.v.daum.net/v/20211112154634704</link>
+            <guid>https://movie.v.daum.net/v/20211112154634704</guid>
+            <pubDate>Fri, 12 Nov 2021 12:38:22 GMT</pubDate>
+            <content:encoded><![CDATA[액션 거장과 차세대 액션 스타들이 만났다. 세상을 향한 거침없는 녀석들의 리얼 청춘 액션 영화 '핫 블러드(신재명 감독)'가 이정현, 최제헌, 정성호의 강렬한 액션이 돋보이는 액션 하이라이트 영상을 공개했다. '핫 블러드'는 현실의 벽에 부딪혀 인생의 방향을 잃은 세 명의 친구가 각자의 방식으로 부조리한 세상과 뜨겁게 맞서는 청춘의 이야기를 담아낸 리]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Filgansports%2F20211112154637310jvbt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['불멸의 그들' 최동원·전태일·송해 영화관서 만난다]]></title>
@@ -112,12 +112,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Fnewsis%2F20211112095400318umht.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[200만 돌파 '이터널스', 평점은 겨우 4.8점? [스경연예연구소]]]></title>
-            <link>https://movie.v.daum.net/v/20211113145553779</link>
-            <guid>https://movie.v.daum.net/v/20211113145553779</guid>
-            <pubDate>Sat, 13 Nov 2021 12:37:01 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 기이하다. 영화 ‘이터널스’(감독 클로이 자오)가 올해 최단기간 200만 고지를 넘었지만, 평점은 바닥에 가깝다. 관객수와 평점의 반비례 행보에 시선이 집중된다.‘이터널스’는 13일(오후2시 기준) 포털사이트 다음에선 4.8점(이하 10점 만점)을, 네이버 관람객 평점에선 6.65점을 기록하고 있다. 마블스튜디오의 신작이자 MCU(마블시네마]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F13%2Fsportskhan%2F20211113145554749phrb.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[인터뷰①]'닥터 브레인' 김지운 감독 "첫 드라마 연출, 생소했지만 신선"]]></title>
+            <link>https://movie.v.daum.net/v/20211114070304278</link>
+            <guid>https://movie.v.daum.net/v/20211114070304278</guid>
+            <pubDate>Sat, 13 Nov 2021 22:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[김지운 감독(58)이 생애 첫 드라마 연출에 도전했다. 애플TV+ '닥터 브레인'을 통해서다. '닥터 브레인’은 인간의 뇌에 접속해 기억을 읽는 뇌동기화 기술에 강박적으로 집착하는 천재 뇌과학자 세원의 이야기를 담는다. 영화 '기생충'으로 세계적인 관심과 천만 배우 타이틀을 얻은 이선균이 주연을 맡았다. 동명의 웹툰을 원작으로 하며 영화 '장화, 홍련']]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F14%2Fstartoday%2F20211114070306829mfcl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['1984 최동원' 기록보다 기적을 선물한 최동원이 주는 감동과 울림]]></title>
@@ -128,14 +128,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F13%2Fned%2F20211113155513888avki.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[미쳤다, 김신록의 두 얼굴 [스경X피플]]]></title>
-            <link>https://movie.v.daum.net/v/20211113134547218</link>
-            <guid>https://movie.v.daum.net/v/20211113134547218</guid>
-            <pubDate>Sat, 13 Nov 2021 05:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 배우 김신록이 극과 극의 두 얼굴을 보여준다. ‘미쳤다’는 표현도 부족하다. 동영상스트리밍서비스(OTT) 넷플릭스 새 시리즈 ‘지옥’(감독 연상호)과 쿠팡플레이 새 시리즈 ‘어느 날’(감독 이명우)에서 전혀 다른 캐릭터들을 소화한다.김신록은 ‘지옥’에서 세상에 엄청난 파장을 몰고 오는 인물 ‘박정자’로 분해 강렬한 연기를 선사한다. 극 중]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F13%2Fsportskhan%2F20211113134548426qmnw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['장르만 로맨스', 찰진 대사부터 6인 6색 환장 케미까지..관전 포인트 눈길]]></title>
             <link>https://movie.v.daum.net/v/20211112092139449</link>
             <guid>https://movie.v.daum.net/v/20211112092139449</guid>
@@ -144,20 +136,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Fxportsnews%2F20211112092141239qmjc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[윤여정이 "칸에서 자랑스러웠다"고 했던 이정재 [라제기의 '배우'다]]]></title>
-            <link>https://movie.v.daum.net/v/20211112073004076</link>
-            <guid>https://movie.v.daum.net/v/20211112073004076</guid>
-            <pubDate>Sat, 13 Nov 2021 13:27:38 GMT</pubDate>
-            <content:encoded><![CDATA[편집자주※ 여러분들이 잘 아는 배우의 덜 알려진 면모와 연기 세계를 주관적인 시선으로 전합니다. 배우 이정재는 칸영화제 레드 카펫을 한차례 밟았다. 2010년 영화 ‘하녀’를 통해서였다. ‘하녀’ 직전까지 그의 연기 이력은 하향곡선을 그리고 있었다. ‘태풍’(2005)은 관객 동원(347만 명)이 기대에 미치지 못했고, ‘1724 기방난동사건’(2008)은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Fhankooki%2F20211112073007706gjcz.gif" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[200만 돌파 '이터널스', 평점은 겨우 4.8점? [스경연예연구소]]]></title>
+            <link>https://movie.v.daum.net/v/20211113145553779</link>
+            <guid>https://movie.v.daum.net/v/20211113145553779</guid>
+            <pubDate>Sat, 13 Nov 2021 12:37:01 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 기이하다. 영화 ‘이터널스’(감독 클로이 자오)가 올해 최단기간 200만 고지를 넘었지만, 평점은 바닥에 가깝다. 관객수와 평점의 반비례 행보에 시선이 집중된다.‘이터널스’는 13일(오후2시 기준) 포털사이트 다음에선 4.8점(이하 10점 만점)을, 네이버 관람객 평점에선 6.65점을 기록하고 있다. 마블스튜디오의 신작이자 MCU(마블시네마]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F13%2Fsportskhan%2F20211113145554749phrb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[강박장애 다룬 대만영화, 7년 전 한국과 어떻게 다를까]]></title>
-            <link>https://movie.v.daum.net/v/20211112110601450</link>
-            <guid>https://movie.v.daum.net/v/20211112110601450</guid>
-            <pubDate>Sat, 13 Nov 2021 12:37:01 GMT</pubDate>
-            <content:encoded><![CDATA[[김성호 기자] ▲ &nbsp;&lt;플랜맨&gt; 포스터    ⓒ 롯데엔터테인먼트  &nbsp;대만은 세계적으로 코로나19 확산을 가장 잘 막아낸 나라 중 하나다. 전 세계 78억 인구 중 2억5000만 명이 확진된 현재까지, 단 1만6000여 명만이 확진 판정을 받았을 뿐이다. 인구수 대비 0.0006%만 확진돼 3.2%가 확진된 전 세계 평균보다 크게 뛰어난 방역]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F12%2Fohmynews%2F20211112110602861wzcq.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[미쳤다, 김신록의 두 얼굴 [스경X피플]]]></title>
+            <link>https://movie.v.daum.net/v/20211113134547218</link>
+            <guid>https://movie.v.daum.net/v/20211113134547218</guid>
+            <pubDate>Sat, 13 Nov 2021 05:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 배우 김신록이 극과 극의 두 얼굴을 보여준다. ‘미쳤다’는 표현도 부족하다. 동영상스트리밍서비스(OTT) 넷플릭스 새 시리즈 ‘지옥’(감독 연상호)과 쿠팡플레이 새 시리즈 ‘어느 날’(감독 이명우)에서 전혀 다른 캐릭터들을 소화한다.김신록은 ‘지옥’에서 세상에 엄청난 파장을 몰고 오는 인물 ‘박정자’로 분해 강렬한 연기를 선사한다. 극 중]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F13%2Fsportskhan%2F20211113134548426qmnw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[클로이 자오→조은지, 실력파 여성감독들의 상업 영화 데뷔 [N초점]]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Sat, 13 Nov 2021 21:21:27 GMT</pubDate>
             <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 실력파 여성 감독들의 상업영화 데뷔작이 11월 연이어 개봉한다. 독립영화에서 자신만의 색깔을 발휘했던 여성 감독들은 조금 더 큰 규모의 영화를 통해 더 많은 관객들과의 소통에 나섰다. 여성 감독들의 존재감이 더욱 빛나는 때인만큼, 이들의 새로운 도전이 거둘 성과에도 많은 관심이 쏠린다. 올해 아카데미 작품상을 수상한 ']]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F14%2FNEWS1%2F20211114060025326vluj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰②]김지운 감독 "대단한 미덕의 이선균, 흔들림 없어"]]></title>
+            <link>https://movie.v.daum.net/v/20211114070313288</link>
+            <guid>https://movie.v.daum.net/v/20211114070313288</guid>
+            <pubDate>Sat, 13 Nov 2021 22:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[(인터뷰①에 이어)김지운 감독(58)은 자신의 첫 드라마 시리즈 '닥터 브레인'에 자부심을 보이는 한편, 주연 배우 이선균에 대해서도 깊은 신뢰를 드러냈다. 김지운 감독은 '닥터 브레인'으로 이선균과 처음 호흡을 맞췄다. 김 감독은 이선균에 대해 “선균 씨는 아주 오래전부터 지켜봐 온 연기자다. 오랜 시간 여러 장르를 거친 스펙트럼 넓은 배우라는 생각을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F14%2Fstartoday%2F20211114070315068seue.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
