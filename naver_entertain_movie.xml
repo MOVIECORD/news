@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-11-13T14:23:38.434Z</updated>
+    <updated>2021-11-13T15:26:32.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스, 신작 공개…"'집콕족' 모여라" [TF프리즘]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000115957</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000115957"/>
+        <updated>2021-11-13T15:25:49.820Z</updated>
+        <content type="html"><![CDATA['악마를 보았다'·'해바라기'·'러브, 로지' 15일 공개 OTT(온라인 동영상 서비스) 넷플릭스가 '안 보면 후회할' 신작을 공개했다. 개봉 당시 영화 팬들의 뜨거운 호응을 얻었던 장르 영화 두 편과 남녀 사이 미]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['팔콘과 윈터 솔져', 제2의 캡틴 아메리카 탄생? 런칭 스틸 공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003498057</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005721135"/>
         <updated>2021-11-13T01:10:40.107Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 김민지 기자 = 영화 '이터널스'(감독 클로이 자오)가 박스오피스 1위 자리를 지켰다. 13일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 전날 '이터널스'는 9만6224명의 관객을 동원, 박]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킬링 카인드' 마이클 키튼, 액션→카리스마…독보적 '존재감']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010830070</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010830070"/>
-        <updated>2021-11-13T01:10:40.107Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]윤준호 인턴 기자 = 배우 마이클 키튼이 '킬링 카인드: 킬러의 수제자'에서 독보적인 액션을 예고했다. 오는 24일 개봉 예정인 영화 '킬링 카인드: 킬러의 수제자'에서 마이클 키튼은 킬러의 수제자 ']]></content>
     </entry>
 </feed>
