@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-11-14T19:22:22.682Z</updated>
+    <updated>2021-11-14T20:28:06.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["장편영화 감독의 단편영화 멘토링은 서로에게 윈윈"]]></title>
+        <id>https://entertain.v.daum.net/v/20211115043104115</id>
+        <link href="https://entertain.v.daum.net/v/20211115043104115"/>
+        <updated>2021-11-14T20:28:05.561Z</updated>
+        <content type="html"><![CDATA[민규동 감독은 요즘 바쁘다. 영화 ‘내 아내의 모든 것’(2012)과 ‘허스토리’(2018) 등을 연출한 그는 본업보다 촬영장 밖 일로 분주하다. 제작자로 ‘새해전야’와 ‘보이스’를 올해 개봉시켰다. 한국영화감독조합(DGK) 대표로 특히 많은 일을 하고 있다. DGK 대표로서 공동위원장을 맡아 충무로영화제를 꾸리고 있다. 여러 사업을 통해 외연을 넓히고 내]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['장르만 로맨스' 57일만에 한국영화 예매율 1위 탈환]]></title>
         <id>https://entertain.v.daum.net/v/20211114164629217</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211114080451649"/>
         <updated>2021-11-13T23:25:01.854Z</updated>
         <content type="html"><![CDATA[[스타뉴스 전형화 기자] 마블영화 '이터널스'가 11일 연속 박스오피스 1위를 기록했다. 14일 영진위 영화관입장권통합전산망에 따르면 '이터널스'는 13일 21만 8577명이 찾아 1위에 올랐다. 누적 227만 9399명. '듄'은 이날 5만 2840명이 찾아 2위로 한계단 상승했다. 누적 115만 2420명. '강릉'은 4만 9538명이 찾아 3위에 올랐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나의 끝, 당신의 시작·메이드 인 이태리]]></title>
-        <id>https://entertain.v.daum.net/v/20211114080040583</id>
-        <link href="https://entertain.v.daum.net/v/20211114080040583"/>
-        <updated>2021-11-13T23:25:01.855Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 오보람 기자 = ▲ 나의 끝, 당신의 시작 = 독일 출신 여성 감독 마리코 미노구치는 데자뷔와 상대성 이론을 로맨스 영화로 끌고 와 보여준다. 어릴 적 피겨스케이팅 선수를 꿈꿨지만 지금은 슈퍼마켓에서 일하는 노라(사스키아 로젠달)는 비 오는 어느 날 지하철에서 물리학도 아론(율리우스 펠드마이어)을 만나 사랑에 빠진다. 서로가 전부인 듯 사]]></content>
     </entry>
 </feed>

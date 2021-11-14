@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-11-14T19:22:22.699Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 14 Nov 2021 20:28:06 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["장편영화 감독의 단편영화 멘토링은 서로에게 윈윈"]]></title>
+            <link>https://v.daum.net/v/20211115043104115</link>
+            <guid>https://v.daum.net/v/20211115043104115</guid>
+            <pubDate>Sun, 14 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[민규동 감독은 요즘 바쁘다. 영화 ‘내 아내의 모든 것’(2012)과 ‘허스토리’(2018) 등을 연출한 그는 본업보다 촬영장 밖 일로 분주하다. 제작자로 ‘새해전야’와 ‘보이스’를 올해 개봉시켰다. 한국영화감독조합(DGK) 대표로 특히 많은 일을 하고 있다. DGK 대표로서 공동위원장을 맡아 충무로영화제를 꾸리고 있다. 여러 사업을 통해 외연을 넓히고 내]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F15%2Fhankooki%2F20211115043106568ojlg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
