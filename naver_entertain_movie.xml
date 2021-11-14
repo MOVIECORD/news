@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-11-14T10:29:21.373Z</updated>
+    <updated>2021-11-14T11:22:19.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 '장르만 로맨스' 한국영화 예매율 1위 기록!]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000040693</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000040693"/>
+        <updated>2021-11-14T11:21:31.080Z</updated>
+        <content type="html"><![CDATA[영화 &lt;장르만 로맨스&gt;가 개봉을 앞두고 한국영화 예매율 1위를 기록했다. 개봉 전부터 언론과 평단의 극찬세례를 받고 있는 영화 &lt;장르만 로맨스&gt;가 한국영화 예매율 1위를 기록하며 11월 최고 기대작의 면모를 입증했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘장르만 로맨스’ 흥행열풍 예고, ‘이터널스’ 제치고 예매율 1위 탈환]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003555400</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002332652"/>
         <updated>2021-11-14T03:26:28.742Z</updated>
         <content type="html"><![CDATA[[그 시절, 우리가 좋아했던 영화] 드류 베리모어의 대표작 &lt;첫 키스만 50번째&gt; &lt;오징어게임&gt;과 &lt;마이네임&gt; 등으로 대표되는 K-드라마들은 넷플릭스 월드 랭킹에서 상위권에 올랐을 정도로 세계적으로 큰 사랑을 받고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['영평상' 설경구 vs 중동 개봉 위해 동성키스 편집 '이터널스'[업앤다운]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003004548</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003004548"/>
-        <updated>2021-11-14T02:37:50.258Z</updated>
-        <content type="html"><![CDATA[최고의 한주를 보낸 UP 스타와, 최악의 한주를 보낸 DOWN ▲▲ 배우 설경구가 10일 열린 제41회 한국영화평론가협회 시상식에서 '자산어보'로 남우주연상을 수상했다. '자산어보'는 이날 시상식에서 작품상과 남우주]]></content>
     </entry>
 </feed>
