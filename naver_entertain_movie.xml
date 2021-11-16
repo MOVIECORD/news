@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-11-16T11:22:06.673Z</updated>
+    <updated>2021-11-16T12:39:55.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[류승룡→오나라 ‘장르만 로맨스’ 캐릭터 포스터 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000945365</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000945365"/>
+        <updated>2021-11-16T12:39:01.695Z</updated>
+        <content type="html"><![CDATA[류승룡→오나라 ‘장르만 로맨스’ 캐릭터 포스터 공개 영화 ‘장르만 로맨스’가 매력폭발 캐릭터 포스터 6종을 공개했다. 전체 예매율 1위를 기록하며 11월 극장가 새로운 흥행 강자로 떠오른 영화 ‘장르만 로맨스’가 6]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[설경구, 정치인이 되다 (킹메이커)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000945364</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004511740"/>
         <updated>2021-11-16T08:29:48.507Z</updated>
         <content type="html"><![CDATA[[OSEN=김성락 기자] 16일 오후 서울 용산 CGV에서 영화 '싸나희 순정'(감독 정병각) 언론시사회가 진행됐다. 아역배우 김지환이 취재진의 질문에 대답하고 있다. 2021.11.16 /ksl0919@osen.c]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['싸나희 순정, 최고의 힐링'[★포토]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003005214</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003005214"/>
-        <updated>2021-11-16T08:29:48.507Z</updated>
-        <content type="html"><![CDATA[배우 전석호, 심은진, 박명훈, 김지환, 정병각 감독이 16일 오후 서울 CGV용산아이파크몰에서 진행된 영화 '싸나희 순정' 언론시사회에 참석해 포즈를 취하고 있다. 도시의 고단한 삶에서 탈출해 마가리에 도착한 시인]]></content>
     </entry>
 </feed>
