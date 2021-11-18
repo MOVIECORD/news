@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-11-18T14:24:24.417Z</updated>
+    <updated>2021-11-18T15:28:43.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[새영화]귀 기울이고 들여다 보자 `누군가의 삶']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000869056</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000869056"/>
+        <updated>2021-11-18T15:27:57.622Z</updated>
+        <content type="html"><![CDATA[단계적 일상회복, 이른바 위드 코로나가 시행됐다. 한국영화 중 가장 먼저 개봉한 ‘강릉’은 해외 신작들을 제치고 박스오피스 2위를 차지하며 흥행을 이어가고 있다. 한국 영화계에 순풍이 예고된 가운데 우리의 정서를 녹]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비상선언' 드디어 개봉일 확정, 2022년 1월!]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000138930</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004881265"/>
         <updated>2021-11-18T10:28:08.037Z</updated>
         <content type="html"><![CDATA[“변함 없이 책임·의무 다할 것” 배우이자 신영균예술문화재단 이사장인 안성기가 올해의 ‘아름다운 예술인상’ 시상식에 참석해 축사에 나섰다. 안성기 이사장은 18일 오후 서울 을지로3가 명보아트홀에서 열린 제11회 ‘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[POP초점]최동훈 '타짜' 15년만 재개봉..'정마담' 김혜수도 응원(종합)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003500089</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003500089"/>
-        <updated>2021-11-18T10:28:08.038Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] 최동훈 감독의 '타짜'가 개봉 15주년을 맞아 디지털 리마스터링 버전으로 재개봉한다. 영화 '타짜'는 타고난 승부사 '고니'(조승우)가 도박판의 설계자 '정마담'(김혜수)과 전설의 타짜]]></content>
     </entry>
 </feed>
