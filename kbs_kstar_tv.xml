@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 21:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 22:25:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이준호, 활을 든 왕세손]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=173666</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=173666</guid>
+            <pubDate>Thu, 18 Nov 2021 22:23:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=173666">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211118170834_1e1a107a57c3d393175a2caf2764b933.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=173666">이준호, 활을 든 왕세손 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211118170834_1e1a107a57c3d393175a2caf2764b933.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우다비, 천재 이도현을 향한 질투]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=173566</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=172462">이영애 앞에 나타난 의문의 남자, 김수로</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211114181718_6b0ad9fa22f41613d303a18c0b958fda.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정해인-지수,  로맨틱 모먼트 '설강화' 티저 영상]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=172386</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=172386</guid>
-            <pubDate>Sat, 13 Nov 2021 22:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=172386">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211113145321_bcf64e8817e80e98330d0c40f99c8413.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=172386">정해인-지수,  로맨틱 모먼트 '설강화' 티저 영상</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211113145321_bcf64e8817e80e98330d0c40f99c8413.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
