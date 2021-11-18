@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 03:28:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 04:33:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211113144240_4a77ceac162d53dcafafc8dada1c4f15.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일촉즉발의 순간! '딱밤 한 대가 이별에 미치는 영향' (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=173543</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=173543</guid>
+            <pubDate>Thu, 18 Nov 2021 04:32:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=173543">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211118131539_e80bfed1edc9483982b93e9e130cfe33.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=173543">일촉즉발의 순간! '딱밤 한 대가 이별에 미치는 영향'</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=KBS%20%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8A%A4%ED%8E%98%EC%85%9C%202021">KBS 드라마 스페셜 2021</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211118131539_e80bfed1edc9483982b93e9e130cfe33.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[유승호-이혜리, 아웅다웅 추격로맨스 '꽃 피면 달 생각하고' 포스터 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=173429</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=173429</guid>
@@ -1029,24 +1047,6 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211116232235_06980e36b017dd7eb4f9227a6fb2e1c1_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[연모] 혜종의 진심을 알게 된 박은빈… 딸로서 남은 인생 살아가기로 결심 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=173067</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=173067</guid>
-            <pubDate>Tue, 16 Nov 2021 14:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=173067">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211116231928_faea7da685d3385167116071508a66f9_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=173067">[연모] 혜종의 진심을 알게 된 박은빈… 딸로서 남은 인생 살아가기로 결심</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%20%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%97%B0%EB%AA%A8">월화 드라마 연모</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211116231928_faea7da685d3385167116071508a66f9_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA['청룡영화상' 김혜수 & 유연석, 4년 연속 공동 MC 확정! (MBC 연예 ─ 영화)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/330336</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/330336</guid>
@@ -1109,6 +1109,104 @@
             <pubDate>Wed, 22 Sep 2021 15:01:50 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/324985" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/10/735706b8-51a4-4a76-b19e-ca0cdb005b65.jpg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">'<font color="red">영화</font>의 거리' 한선화 "드디어 만났다!는 느낌 준 사투리 연기" [인터뷰M]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/09/10/735706b8-51a4-4a76-b19e-ca0cdb005b65.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[리뷰]'연애 빠진 로맨스' 우리, 자영? 성인용 야설 같은 15금 로코 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0005001707</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0005001707</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:12 GMT</pubDate>
+            <content:encoded><![CDATA[*본 기사에는 일부 스포일러가 포함되어 있음. 자영(전종서 분)은 이전의 연애에 씁쓸한 뒷맛을 다시며 술을 들이켠다. 외로움과 밀려드는 욕망에 물 좋다는 동호회를 찾지만 만나는 남자는 마마보이 아니면 유부남 사기꾼이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[정호연, '오징어 게임' 인기에 주가↑..美 CAA와 계약 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003005723</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003005723</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:12 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 '오징어 게임'으로 세계적인 사랑을 받고 있는 모델 출신 배우 정호연이 본격적인 미국 활동을 시작한다. 16일(현지시각) 미국 데드라인은 정호연이 미국 3대 메이저 에이전시 중 하나인 CAA(Creative]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공식]디카프리오 첫 넷플릭스作 '돈 룩 업', 12월 8일 극장 개봉 확정 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003803797</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003803797</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:12 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자]레오나르도 디카프리오의 첫 넷플릭스 영화 '돈 룩 업'이 오는 12월 24일 넷플릭스 공개에 앞서 12월 8일 극장 개봉을 확정했다. 극장 개봉 소식과 함께 공개된 메인 포스터는 탈지구급 초]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[채수빈X최민호, '더 패뷸러스' 캐스팅..현실 공감 로맨스(공식) (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003499885</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003499885</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:12 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드POP=이미지 기자] 채수빈, 최민호가 '더 패뷸러스'에 캐스팅 됐다. 넷플릭스의 새로운 시리즈 '더 패뷸러스'는 패션(fashion)이라 쓰고 열정(passion)이라 읽는 패션계에 인생을 바친 청춘들의 꿈]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[SC인터뷰] "맛있는 싸구려 캔커피의 매력"…'연애 빠진 로맨스' 전종서, 사실은 센캐 빠진 '멜로퀸'(종합) (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003803790</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003803790</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:12 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 센캐(센 캐릭터) 전문 배우 전종서(27)가 달라졌다. 연애의 민낯을 장착한 그가 솔직하고 발칙한, 그리고 사랑스러움으로 드러내며 완벽히 진화했다. 로맨스 영화 '연애 빠진 로맨스'(정가영]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[SC인터뷰]"god 찐팬,윤계상과 호흡이라니!"…임지연, '유체이탈로' 느낀 액션의 참 맛(종합) (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003803788</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003803788</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:12 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자]배우 임지연(30)이 액션의 참 맛을 느꼈다. 기억을 잃은 채 12시간마다 다른 사람의 몸에서 깨어나는 한 남자가 모두의 표적이 된 진짜 자신을 찾기 위해 사투를 벌이는 추적 액션 영화 '유]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['연애 빠진 로맨스' 전종서 "'로맨스는 안한다' 했는데…캔커피 같은 매력에 끌렸다"[인터뷰②] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000329396</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000329396</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:12 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=강효진 기자] 배우 전종서가 '연애 빠진 로맨스'로 첫 로맨스 장르에 도전하게 된 이유를 밝혔다. 영화 '연애 빠진 로맨스'(감독 정가영) 개봉을 앞둔 전종서는 18일 오전 진행된 화상 인터뷰를 통해]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘연애빠진 로맨스’ 전종서 “영화보고 오해하지 않기”[EN:인터뷰①] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000512700</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000512700</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:12 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] “거의 대다수 평생 안 해본 말들. 소주는 1잔도 못 마셔.” 영화가 개봉되면 이런 오해 또 생길 수도. ‘연애 빠진 로맨스’ 속 전종서는 일명 ‘생활 연기를 했다?’는 식. 이에 대해 그가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['연애 빠진 로맨스' 전종서 "실제 성격 보수적, 소주 한 잔도 못 마셔"[인터뷰①] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000329395</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000329395</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:12 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=강효진 기자] 배우 전종서가 '연애 빠진 로맨스' 속 캐릭터와 실제 자신의 성격의 차이에 대해 밝혔다. 영화 '연애 빠진 로맨스'(감독 정가영) 개봉을 앞둔 전종서는 18일 오전 진행된 화상 인터뷰를]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘유체이탈자’ 윤계상 “액션에 본능+리얼 담으려 노력”[M+인터뷰①] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001622316</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001622316</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:12 GMT</pubDate>
+            <content:encoded><![CDATA[배우 윤계상이 ‘유체이탈자’로 1인 7역을 소화한 것은 물론 통쾌한 액션으로 강렬한 인상을 남겼다. 오는 24일 개봉하는 영화 ‘유체이탈자’(감독 윤재근)는 기억을 잃은 채 12시간마다 다른 사람의 몸에서 깨어나는]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윤계상 “결혼 후 행복하고 책임감 생겨…걱정 줄었다”[M+인터뷰②] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001622315</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001622315</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:12 GMT</pubDate>
+            <content:encoded><![CDATA[‘유체이탈자’ 윤계상이 결혼 후 달라진 것에 대해 솔직하게 고백했다. 지난 17일 오전 윤계상은 영화 ‘유체이탈자’(감독 윤재근)의 인터뷰를 화상으로 진행했다. ‘유체이탈자’는 기억을 잃은 채 12시간마다 다른 사람]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[팝인터뷰②]임지연 "god 콘서트 갈만큼 윤계상 팬..목숨 다해 치열하게 연기하더라" (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003499865</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003499865</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:12 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드POP=이미지 기자] 배우 임지연이 god 팬이었다고 고백했다. 임지연은 영화 '유체이탈자'를 통해 윤계상과 연기 호흡을 맞췄다. 무엇보다 임지연은 god 콘서트도 갈 만큼 팬이었기에 두 사람의 만남은 특별할]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[팝인터뷰①]'유체이탈자' 임지연 "리얼 액션은 처음..몸 잘 쓰는 내 모습에 기뻤다" (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003499864</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003499864</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:12 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드POP=이미지 기자] 배우 임지연이 '유체이탈자'를 통해 첫 리얼 액션에 도전한 소감을 밝혔다. 임지연은 영화 '유체이탈자'에서 강도 높은 액션신도 몸 사리지 않고 소화, 강렬한 인상을 남겼다. 최근 헤럴드P]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['연애 빠진 로맨스' 전종서 "실제 나는 보수적인 편, 고지식한 면도 있어" (인터뷰) (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001374975</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001374975</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:12 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 전종서가 자영 캐릭터를 연기하며 조심했던 부분을 언급했다. 전종서는 18일 오전 온라인으로 진행된 영화 '연애 빠진 로맨스'(감독 정가영) 인터뷰에서 영화와 함께 다양한 이야기를 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['연애 빠진 로맨스' 전종서 "손석구와 첫만남? 대단한 격식 NO…나와 비슷해" [인터뷰③] (네이버TV연예 ─ 영화)]]></title>
@@ -1188,277 +1286,235 @@
             <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 배우 전종서가 함께 연기 호흡을 펼친 상대 배우 손석구에 대해 말했다. 전종서는 18일 오전 영화 '연애 빠진 로맨스'(감독 정가영) 관련 화상 인터뷰를 진행하고 취재진들과 만났다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[전종서 "발칙한 '연빼로', 맛있는 캔커피 같은 매력" [N인터뷰]① (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005732591</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005732591</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:46 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 배우 전종서가 전작과 달라진 연기 모습에 대한 생각을 밝혔다. 전종서는 18일 오전 영화 '연애 빠진 로맨스'(감독 정가영) 관련 화상 인터뷰를 진행하고 취재진들과 만났다. 이날 전종]]></content:encoded>
+            <title><![CDATA[엑소 카이, ‘아는 형님 게스트 기대해주세요~’ [포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512731</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512731</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[[일산(경기 고양)=뉴스엔 유용주 기자] 가수 엑소(EXO) 카이가 11월 18일 오후 경기도 고양시 일산동구 JTBC 일산 스튜디오에서 진행된 JTBC '아는형님' 녹화에 참석하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['유체이탈자' 임지연 "god 윤계상 바라기..함께 호흡하며 많이 배웠다" [인터뷰③] (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003005710</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003005710</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:46 GMT</pubDate>
-            <content:encoded><![CDATA[배우 임지연이 god 윤계상을 향한 팬심을 밝혔다. 임지연은 18일 오전 온라인으로 진행한 영화 '유체이탈자'(감독 윤재근) 인터뷰에서 영화에 대한 다양한 이야기를 나눴다. '유체이탈자'는 기억을 잃은 채 12시간마]]></content:encoded>
+            <title><![CDATA['애로부부' 측 "금메달리스트 불륜남, 아직 이혼 안한 스타" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005732763</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005732763</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 안태현 기자 = '애로부부' 제작진이 금메달리스트 불륜 남편 사연에 대해 입장을 밝혔다. SKY채널·채널A '다시 뜨거워지고 싶은 애로부부'(이하 '애로부부') 제작진은 18일 사연 속 금메달리스트]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[전종서 “실제론 보수적, 고지식하고 고리타분해” [인터뷰 ③] (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000775294</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000775294</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:46 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 배우 전종서가 실제론 보수적이라고 자평했다. 전종서는 18일 오전 진행된 ‘스포츠경향’과 인터뷰에서 “난 조금 보수적이다. 그렇게 보이지 않을 수도 있지만 고지식하고 고리타분하다”고 밝혔다. 전종서는]]></content:encoded>
+            <title><![CDATA[예능 '마을애가게' 정일우→지상렬…29일 가파도 첫방 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010840681</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010840681</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]고다연 인턴 기자 = 착한 예능 '마을애가게'가 29일 첫 방송된다. MBC에브리원 '마을애가게'는 대한민국에서 키가 가장 작은 섬 가파도에서 방치된 마을 공간을 되살리는 내용을 담은 예능 프로그램이다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[설경구X이선균 ‘킹메이커’, 변성현 감독X‘불한당’ 제작진 뭉쳤다 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000832210</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000832210</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:46 GMT</pubDate>
-            <content:encoded><![CDATA[칸 영화제 공식 초청작 ‘불한당’을 필두로 다양한 흥행작을 만들어낸 충무로 대표 제작진이 영화 ‘킹메이커’로 의기투합했다. 영화 ‘킹메이커’는 감각적이고 섬세한 연출로 제70회 칸 국제 영화제에서 호평 세례를 받은]]></content:encoded>
+            <title><![CDATA[[사진]엑소 카이,'녹화 잘 하고 올게요' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004513089</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004513089</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=민경훈 기자] 18일 오후 경기도 고양시 일산동구 JTBC 스튜디오에서 '아는형님' 녹화방송이 진행됐다. 엑소(EXO) 카이가 취재진을 향해 포즈를 취하고 있다. 21.11.18/rumi@osen.co.k]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['연애 빠진 로맨스' 전종서 "소주 한 잔도 못 마셔" 영화와 180도 다른 주량 [인터뷰①] (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000512328</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000512328</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:46 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=노규민 기자] 배우 전종서가 실제 주량을 공개했다. 18일 오전 영화 '연애 빠진 로맨스'의 전종서와 화상 인터뷰를 가졌다. 영화에 대한 에피소드 외에 배우로서 솔직하고 담백한 이야기를 전했다. 이날 전종]]></content:encoded>
+            <title><![CDATA[엑소 카이, 꽃받침 포즈 요청에 쑥스러운 미소 [포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512730</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512730</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[[일산(경기 고양)=뉴스엔 유용주 기자] 가수 엑소(EXO) 카이가 11월 18일 오후 경기도 고양시 일산동구 JTBC 일산 스튜디오에서 진행된 JTBC '아는형님' 녹화에 참석하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[전종서 “주량? 소주 한 잔도 못 마셔” [인터뷰 ②] (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000775292</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000775292</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:46 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 배우 전종서가 의외의 주량을 밝혔다. 전종서는 18일 오전 진행된 ‘스포츠경향’과 인터뷰에서 주량을 묻자 “전혀 그렇게 보이지 않을테지만, 사실 소주 한 잔도 못 마신다”고 밝혔다. 그는 “술을 대체]]></content:encoded>
+            <title><![CDATA[먹대장 김준현, 절친 정상훈 위해 '편스토랑' 떴다…10인분 거뜬 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000329400</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000329400</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=정서희 기자] 김준현이 '편스토랑'에 떴다. 19일 방송되는 KBS2 '신상출시 편스토랑'(이하 '편스토랑')에는 편셰프 정상훈을 위해 먹대장 김준현이 출연한다. 공개된 영상에서 정상훈은 오겹살, 산낙]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[전종서 “손석구, 나랑 굉장히 비슷해 잘 맞아” [인터뷰 ①] (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000775291</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000775291</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:46 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 배우 전종서가 영화 ‘연애 빠진 로맨스’(감독 정가영) 상대역 손석구에 대한 애정을 표현했다. 전종서는 18일 오전 진행된 ‘스포츠경향’과 인터뷰에서 손석구와 호흡을 묻자 “나랑 굉장히 비슷하다. 서로]]></content:encoded>
+            <title><![CDATA[NCT 127, 'Favorite' 무대에 글로벌 팬 매료…美 '켈리 클락슨 쇼' 화제 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000512341</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000512341</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=우빈 기자] 그룹 NCT 127(엔시티 127)이 또 한 번 미국 전역 시청자들을 매료시켰다. NCT 127은 18일 오전 4시께 방송된 미국 NBC의 인기 토크쇼 ‘켈리 클락슨 쇼 (The Kelly C]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['유체이탈자' 임지연 "촬영 내내 피 분장..세수하니 예뻐보여" [인터뷰②] (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003005709</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003005709</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:46 GMT</pubDate>
-            <content:encoded><![CDATA[배우 임지연이 촬영 내내 피 분장을 하다가, 집에가서 세수 하고 피 분장을 지우고 나니 자신의 얼굴이 너무 예뻐 보였다고 너스레를 떨었다. 임지연은 18일 오전 온라인으로 진행한 영화 '유체이탈자'(감독 윤재근) 인]]></content:encoded>
+            <title><![CDATA[엑소 카이, 스윗한 미소 살짝 [포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512729</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512729</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[[일산(경기 고양)=뉴스엔 유용주 기자] 가수 엑소(EXO) 카이가 11월 18일 오후 경기도 고양시 일산동구 JTBC 일산 스튜디오에서 진행된 JTBC '아는형님' 녹화에 참석하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[채수빈×최민호, 넷플릭스 '더 패뷸러스' 출연 확정 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003576420</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003576420</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:46 GMT</pubDate>
-            <content:encoded><![CDATA[배우 채수빈과 최민호가 넷플릭스의 새로운 오리지널 시리즈 '더 패뷸러스'의 주인공으로 캐스팅됐다. 넷플릭스 오리지널 시리즈 '더 패뷸러스'는 패션(fashion)이라 쓰고 열정(passion)이라 읽는 패션계에 인생]]></content:encoded>
+            <title><![CDATA[엑소 카이, 서 있기만 해도 훈훈~ [포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512728</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512728</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[[일산(경기 고양)=뉴스엔 유용주 기자] 가수 엑소(EXO) 카이가 11월 18일 오후 경기도 고양시 일산동구 JTBC 일산 스튜디오에서 진행된 JTBC '아는형님' 녹화에 참석하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['유체이탈자' 임지연, 첫 액션에 진심.."눈 돌아가서 연기 했다" [인터뷰①] (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003005708</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003005708</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:46 GMT</pubDate>
-            <content:encoded><![CDATA[배우 임지연이 첫 액션 연기에 진심으로 임했던 마음을 전했다. 임지연은 18일 오전 온라인으로 진행한 영화 '유체이탈자'(감독 윤재근) 인터뷰에서 영화에 대한 다양한 이야기를 나눴다. '유체이탈자'는 기억을 잃은 채]]></content:encoded>
+            <title><![CDATA['지헤중' 제작진 "3회, 송혜교X장기용 각자 큰 감정 변화 겪는다" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001666609</link>
+            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001666609</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:18 GMT</pubDate>
+            <content:encoded><![CDATA['지금, 헤어지는 중입니다' 송혜교와 장기용은 연인이 될 수 있을까. SBS 금토드라마 '지금, 헤어지는 중입니다'(극본 제인/연출 이길복/크리에이터 글Line&amp;강은경/제작 삼화네트웍스, UAA/이하 '지헤중')가]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['유체이탈자' 임지연 "god 소녀팬, '최애' 윤계상과 호흡 신기해" (인터뷰) (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001374956</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001374956</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:46 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 임지연이 '최애'였던 god 윤계상과 호흡한 소감을 밝혓다. 배우 임지연은 18일 오전 온라인을 통해 영화 '유체이탈자'(감독 윤재근) 관련 화상 인터뷰를 진행했다. '유체이탈자'를 통해]]></content:encoded>
+            <title><![CDATA[[사진]엑소 카이,'예능으로 인사드려요' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004513085</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004513085</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=민경훈 기자] 18일 오후 경기도 고양시 일산동구 JTBC 스튜디오에서 '아는형님' 녹화방송이 진행됐다. 엑소(EXO) 카이가 취재진을 향해 포즈를 취하고 있다. 21.11.18/rumi@osen.co.k]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['연애 빠진 로맨스' 전종서 "소극적인 '자만추' 스타일, 소개팅 해본 적 없어" [MD인터뷰③] (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003556508</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003556508</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:46 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 배우 전종서(27)가 연애 스타일을 이야기했다. 영화 '연애 빠진 로맨스'(감독 정가영)에서 일, 사랑, 욕망에 뚜렷한 주관을 지닌 스물아홉 자영으로 분한 전종서를 18일 오전 화상으로]]></content:encoded>
+            <title><![CDATA[엑소 카이, 자체발광 카이 [포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512727</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512727</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[[일산(경기 고양)=뉴스엔 유용주 기자] 가수 엑소(EXO) 카이가 11월 18일 오후 경기도 고양시 일산동구 JTBC 일산 스튜디오에서 진행된 JTBC '아는형님' 녹화에 참석하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['연애 빠진 로맨스' 전종서 "손석구와 굉장히 잘 맞아, 장난치며 즐겁게 촬영" [MD인터뷰②] (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003556507</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003556507</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:46 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 배우 전종서(27)가 배우 손석구(38)와 합 맞춘 소감을 밝혔다. 영화 '연애 빠진 로맨스'(감독 정가영)에서 일, 사랑, 욕망에 뚜렷한 주관을 지닌 스물아홉 자영으로 분한 전종서를]]></content:encoded>
+            <title><![CDATA[엑소 카이, 내가 바로 ‘카이’ [포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512726</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512726</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[[일산(경기 고양)=뉴스엔 유용주 기자] 가수 엑소(EXO) 카이가 11월 18일 오후 경기도 고양시 일산동구 JTBC 일산 스튜디오에서 진행된 JTBC '아는형님' 녹화에 참석하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['연애 빠진 로맨스' 전종서 "재치 있고 발칙한 시나리오에 끌렸다" [MD인터뷰①] (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003556506</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003556506</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:46 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 배우 전종서(27)가 '연애 빠진 로맨스' 시나리오를 받아든 이유를 알렸다. 영화 '연애 빠진 로맨스'(감독 정가영)에서 일, 사랑, 욕망에 뚜렷한 주관을 지닌 스물아홉 자영으로 분한]]></content:encoded>
+            <title><![CDATA[엑소 카이, 이승기와 함께 ‘아는형님’ 게스트 [포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512724</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512724</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[[일산(경기 고양)=뉴스엔 유용주 기자] 가수 엑소(EXO) 카이가 11월 18일 오후 경기도 고양시 일산동구 JTBC 일산 스튜디오에서 진행된 JTBC '아는형님' 녹화에 참석하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임영웅, 러블리 꾸러기→댄디 콘셉트까지 ‘팔색조 매력’ (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512692</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512692</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:55 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 가수 임영웅이 꾸러기 콘셉트부터 댄디한 콘셉트까지 팔색조 면모를 드러냈다. 11월 18일 오후 임영웅 공식 트위터, 공식 유튜브 채널을 통해 '아티스트 임영웅 2022 Season’s Gree]]></content:encoded>
+            <title><![CDATA[‘백종원♥’소유진, 26억 복층집에 설치한 럭셔리 예술작품 “볼수록 끌려” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512723</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512723</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박은해 기자] 배우 소유진이 자택에 설치한 예술 작품을 공개했다. 11월 17일 소유진은 자신의 인스타그램에 "이번에 설치한 lezleysaar 작품~ 한 편의 시가 담긴 멋진 그림. 보면 볼수록 자꾸 끌린]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[조혜련, 김구라 보낸 간식차 선물에 “애기 기저귀값 보낼게” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512691</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512691</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 방송인 김구라가 절친 조혜련에게 간식차를 선물했다. 조혜련은 11월 18일 개인 SNS에 김구라에게 받은 간식차 인증샷을 게재했다. 공개된 간식차에는 '개벤져스 조혜련 화이팅! 김구라가 쏜다.]]></content:encoded>
+            <title><![CDATA['미완의 역사 마한, 비밀의 문을 연다' 광주MBC 다큐 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010840652</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010840652</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[기사내용 요약 25일 오후 11시·26일 정오…1·2부 방송 [광주=뉴시스] 류형근 기자 = 영산강을 중심으로 형성된 마한문화권을 조명하는 다큐멘터리가 광주MBC를 통해 방송된다. 광주MBC는 25일 오후 11시,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스타강사 정승제, 장윤정에 도움 요청 “인이어 속 내 목소리 너무 싫어” (‘도장깨기’) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000512334</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000512334</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=유정민 기자] ‘장윤정의 도장깨기’에 스타강사 겸 가수 정승제가 출연한다. LG헬로비전 오리지널 예능 ‘장윤정의 도장깨기’가 18일 오후 15회 방송을 앞둔 가운데 이날 방송에서는 ‘도장패밀리’ 장윤정,]]></content:encoded>
+            <title><![CDATA[엑소 카이, 멋지게 등장 [포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512722</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512722</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[[일산(경기 고양)=뉴스엔 유용주 기자] 가수 엑소(EXO) 카이가 11월 18일 오후 경기도 고양시 일산동구 JTBC 일산 스튜디오에서 진행된 JTBC '아는형님' 녹화에 참석하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유세윤, 풀린 눈+묘한 미소…이민정도 깜짝 놀란 졸업사진 공개 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512690</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512690</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서지현 기자] 방송인 유세윤이 과거 사진을 공개했다. 유세윤은 11월 18일 자신의 인스타그램에 "수험생 여러분 파이팅"이라는 글을 적었다. 이날 유세윤은 자신의 졸업 사진을 공개했다. 풀린 눈부터 묘한 미]]></content:encoded>
+            <title><![CDATA[엑소 카이, 음~ 음~ 반해버렸어~(아는 형님 출근)[뉴스엔TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512721</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512721</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[[일산(경기 고양)=뉴스엔 김기태 기자] 가수 엑소(EXO) 카이가 11월 18일 오후 경기도 고양시 일산동구 JTBC 일산 스튜디오에서 진행된 JTBC '아는형님' 녹화에 참석하고 있다. #카이 #김종인 #KAI]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘어서와’ 다니엘×알베르토, 조나단 맞춤 일일 가이드 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000775305</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000775305</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 다니엘과 알베르토가 조나단을 위해 가이드로 나선다. 오늘(18일) 방송되는 MBC에브리원 ‘어서와 한국은 처음이지’(이하 ‘어한지’)에서는 미국 출신 조나단이 한국살이 대선배 다니엘과 함께 철원 평화]]></content:encoded>
+            <title><![CDATA[엑소 카이, 차도남의 시크한 하트 [포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512720</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512720</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[[일산(경기 고양)=뉴스엔 유용주 기자] 가수 엑소(EXO) 카이가 11월 18일 오후 경기도 고양시 일산동구 JTBC 일산 스튜디오에서 진행된 JTBC '아는형님' 녹화에 참석하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[톱모델 장윤주, 여성 용품 브랜드 모델 발탁...자유롭고 당당한 매력 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000512332</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000512332</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=차혜영 기자] 톱모델이자 배우 장윤주가 여성 위생용품 브랜드의 첫 공식 모델로 발탁되며 화보를 공개했다. 이번 화보에서 장윤주는 오가닉 브랜드의 뮤즈인 만큼 건강하면서도 긍정적인 느낌이 가득한 모습으로 눈]]></content:encoded>
+            <title><![CDATA[스포츠아나 출신 배우 A 씨, 상간녀 위자료 소송 피소→전세금 가압류 ‘충격’ (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512719</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512719</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박은해 기자] 스포츠 아나운서 출신 30대 배우 겸 방송인 A 씨가 상간녀 위자료 청구 소송을 당한 것으로 알려졌다. 11월 18일 SBS 연예뉴스는 A 씨가 20대 여성 B 씨의 남편과 2년 가까이 부적절]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[장미여관 출신 하이브로, 1년 만에 신곡…'난 너만' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010840565</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010840565</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 밴드 하이브로(HIGHBRO)가 신곡을 발매한다. 18일 소속사 에이티원 엔터테인먼트에 따르면, 하이브로는 오는 25일 신곡 '난 너만'을 발표한다. '난 너만'은 지난해 11월]]></content:encoded>
+            <title><![CDATA[전현무, 반나절 만에 ‘무대감→대역죄인’ 전락 (나 혼자 산다) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000775312</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000775312</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] ‘나 혼자 산다’ 전현무가 ‘무지개 달력’ 촬영 반나절 만에 ‘무대감’에서 대역죄인으로 신분이 하락, 곤장대에 묶여 있어 궁금증을 자아낸다. 또 무지개 회원들은 영화 ‘관상’을 연상하게 하는 조선판 증]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘브래드PT&GYM캐리’ 심하은, 운동 효과 중간 점검 결과는 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000775303</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000775303</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 심하은의 다이어트 중간 점검 결과가 공개된다. 오는 19일(금) 방송되는 MBC에브리원 ‘브래드PT&amp;GYM캐리’에서는 운동 구독 5주차에 접어든 심하은의 놀라운 변화가 그려질 예정이다. 이전보다 훨씬]]></content:encoded>
+            <title><![CDATA['사생활 논란' 김선호 빠진 '1박 2일', 새 포스터 공개...웃음꽃 만발 5인 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000512339</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000512339</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=강민경 기자] 배우 김선호가 빠진 예능프로그램 '1박 2일 시즌4' 새 포스터가 공개됐다. 18일 KBS 2TV '1박 2일 시즌4' 측은 공식 SNS에 "우리가 누구? 1박 2일 New poster♥♥"]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“그리 좋나” 심진화♥김원효, 추위 이기는 달달 허그…결혼 바이럴 제대로 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512689</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512689</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박정민 기자] 개그맨 심진화 김원효 부부가 달달한 애정을 과시했다. 김원효는 11월 17일 개인 인스타그램에 "그리 좋나 가시나야~ 평생 내 품에 앵기라"라는 글과 함께 사진을 게재했다. 공개된 사진 속 심]]></content:encoded>
+            <title><![CDATA[전현무, 반나절 만에 무대감→대역죄인 신분 하락 ('나 혼자 산다') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001666607</link>
+            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001666607</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[전현무가 '무지개 달력' 촬영 반나절 만에 '무대감'에서 대역죄인으로 신분이 하락, 곤장대에 묶여 있어 궁금증을 자아낸다. 또 무지개 회원들은 영화 '관상'을 연상하게 하는 조선판 증명사진으로 폭소를 유발한다. 19]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['멜랑꼴리아' 이도현, 임수정 향한 감정 변화 생겼나? (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010840516</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010840516</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]조민정 인턴 기자 = '멜랑꼴리아'의 이도현이 섬세한 연기로 미묘한 감정 변화를 그려냈다. 지난 17일 방송된 tvN 15주년 특별기획 수목드라마 '멜랑꼴리아'에서 백승유(이도현 분)는 영재과학고 편입]]></content:encoded>
+            <title><![CDATA[“새로운 시작” 오연서, 소속사 이적 후 ‘미남당’으로 드라마 복귀 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512718</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512718</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 오연서가 드라마 '미남당' 출연 소감을 전했다. KBS 2TV 새 드라마 ‘미남당’(연출 고재현/ 극본 박혜진/ 제작 피플스토리컴퍼니, AD406)은 전직 프로파일러이자, 현직 박수무당의 좌충]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘지헤중’ 송혜교×장기용, 10년 전 불행 어떻게 극복할까 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000775295</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000775295</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 송혜교와 장기용은 연인이 될 수 있을까. 지난 13일 방송된 ‘지금, 헤어지는 중입니다’ 2회는 감성 멜로드라마의 진수를 보여줬다. 부산에서 우연처럼, 운명처럼 만난 남녀 하영은(송혜교 분)과 윤재국(]]></content:encoded>
+            <title><![CDATA[‘엉클’ 이상우, 훤칠한 비주얼+섬세한 매너+꽃미소 완벽 장착[M+TV컷] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001622320</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001622320</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[‘엉클’ 이상우의 훤칠한 비주얼이 담긴 스틸이 공개됐다. 12월 11일 오후 첫 방송되는 TV조선 새 주말드라마 ‘엉클’(연출 지영수‧극본 박지숙‧제작 하이그라운드, 몬스터유니온)은 누나의 청천]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김종국에 무슨 억하심정일까…헬스유튜버, 혈액 검사까지 부정 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000329388</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000329388</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=장진리 기자] 가수 김종국의 로이더(약물로 근육을 키우는 사람) 의혹을 제기한 캐나다의 헬스 유튜버 그렉 듀셋이 또 한 번 그를 저격했다. 그렉 듀셋은 15일(현지시간) 자신의 유튜브에 "김종국의 혈액]]></content:encoded>
+            <title><![CDATA[빈찬욱, '너에게 가는 속도 493km' 오선수 출연 확정..내년 방송 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004513088</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004513088</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:24 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박판석 기자] 배우 빈찬욱이 KBS 2TV 새드라마 ‘너에게 가는 속도 493km’에 출연을 확정했다. 18일 빈찬욱의 소속사 티에이치컴퍼니는 빈찬욱의 ‘너에게 가는 속도 493km’ 오선수역으로 캐스팅]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[홍현희 맞아? 16㎏ 감량하더니…한지민도 반한 놀라운 변신 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512687</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512687</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 송오정 기자] 개그우먼 홍현희가 색다른 매력의 화보를 공개했다. 11월 18일 홍현희는 개인 인스타그램에 "12월호 멋지게 찍어주셔서 감사합니다"라며 화보 사진을 게재했다. 사진 속 홍현희는 검은 립스틱에]]></content:encoded>
+            <title><![CDATA[윤계상X고아성, 직접 뽑은 '크라임 퍼즐' 명장면 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000138895</link>
+            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000138895</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:24 GMT</pubDate>
+            <content:encoded><![CDATA[‘크라임 퍼즐’ 윤계상, 고아성이 후반부 관전 포인트를 전했다. 올레tv x seezn 오리지널 ‘크라임 퍼즐’(연출 김상훈, 극본 최종길, 기획 KT 스튜디오지니, 제작 스튜디오329)이 더 짜릿하고 치밀해진 진실]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘국가대표 와이프’ 측 “연기자 1명 추가 확진” [공식] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000775293</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000775293</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 지난 17일 ‘국가대표 와이프’ 출연 배우와 제작진이 코로나19 검사를 받은 가운데 추가 확진자가 발생했다. ‘국가대표 와이프’ 측은 18일 스포츠경향에 “연기자 중 한 명이 무증상자로 추가 확진됐다”]]></content:encoded>
+            <title><![CDATA[일촉즉발의 순간! '딱밤 한 대가 이별에 미치는 영향' (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=438&amp;aid=0000040835</link>
+            <guid>https://entertain.naver.com/now/read?oid=438&amp;aid=0000040835</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:24 GMT</pubDate>
+            <content:encoded><![CDATA[누구나 해봤을 법한 우리의 연애와 이별에 관한 이야기가 시청자를 찾는다. 19일(금) 밤 11시 25분에 방송 예정인 UHD KBS 드라마 스페셜 2021의 ‘딱밤 한 대가 이별에 미치는 영향’은 2020 KBS 단]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[공효진→엄지원, 죽도犬 위한 펫 하우스 제작…1가구 1주택 이뤄질까('무해하게') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000329387</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000329387</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=정서희 기자] '오늘부터 무해하게' 멤버들이 펫하우스 만들기에 도전한다. 18일 방송되는 KBS2 환경 예능프로그램 '오늘부터 무해하게'에서 공효진, 이천희, 전혜진, 엄지원이 죽도개 백설이를 위한 1]]></content:encoded>
+            <title><![CDATA[‘엉클’ 앞머리 내린 이상우, 비주얼 완벽한 사별남+육아대디로 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512712</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512712</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:24 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] ‘엉클’ 이상우가 훤칠한 키, 섬세한 매너, 잇몸 만개 꽃 미소까지 완벽 장착한 육아 대디로 돌아온다. 12월 11일 오후 9시 첫 방송되는 TV CHOSUN 새 토일미니시리즈 ‘엉클’(연출]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박선주 남편과 별거→솔로 육아 선택한 사연 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=079&amp;aid=0003576425</link>
-            <guid>https://entertain.naver.com/now/read?oid=079&amp;aid=0003576425</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[가수 박선주가 강레오 셰프와 결혼했지만 솔로 육아 중인 사연을 밝혔다. 박선주는 17일 방송된 JTBC '용감한 솔로 육아-내가 키운다'(이하 '내가 키운다')에 출연해 방송 최초로 자발적 솔로 육아 중인 일상을 공]]></content:encoded>
+            <title><![CDATA[‘두 번째 남편’ 전국 동시간대 시청률 1위 기록...오늘(18일) 결방 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000512336</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000512336</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:24 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=유정민 기자] MBC 일일드라마 ‘두 번째 남편’이 매서운 상승세로 동시간대 시청률 1위에 오르며 안방극장을 달구고 있다. 시청률 조사기관 닐슨코리아에 따르면 전날(17일) 방송된 ‘두 번째 남편’(65회]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘정석원♥’ 백지영, 딸 손 꼭 잡고 버스여행…소탈 끝판왕 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512685</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512685</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박정민 기자] 가수 백지영이 딸과 대중교통을 이용했다. 백지영은 11월 17일 개인 인스타그램에 "오늘 하임이랑 버스여행 넌 좋았니? 엄만.. 많이 감사했다"라는 글과 함께 사진을 게재했다. 공개된 사진 속]]></content:encoded>
+            <title><![CDATA[위하준 측 “K프로젝트 출연, 세부 내용 조율 중”[공식] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512698</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512698</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:24 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박정민 기자] 배우 위하준이 열일 행보를 이어간다. 소속사 엠에스팀엔터테인먼트는 11월 18일 뉴스엔에 "위하준이 'K프로젝트'에 출연한다. 세부 내용을 조율 중이다"고 밝혔다. 'K프로젝트'(가제)는 인간]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[장혜진, 우아+시크美 가득한 고품격 아우라…오피셜 포토 공개 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000512327</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000512327</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=차혜영 기자] 가수 장혜진이 첫 오피셜 포토를 공개하며 새 앨범에 대한 기대감을 끌어 올리고 있다. 18일 젤리피쉬는 공식 SNS를 통해 장혜진 데뷔 30주년 기념 앨범 ‘RE:main’ 첫번째 오피셜 포]]></content:encoded>
+            <title><![CDATA[최시원, 털보 수염 깎고 리즈 경신..이선빈과 관계 변화? (술꾼도시여자들) (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004513060</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004513060</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:24 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박소영 기자] 최시원(에스엠엔터테인먼트 소속)이 반전 비주얼로 ‘술꾼도시여자들’의 후반부 분위기를 더욱 뜨겁게 달굴 예정이다. 최시원은 하루 끝의 술 한잔이 인생의 신념인 세 여자의 일상을 그린 티빙 오리]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뚱남매가 사랑에 빠졌다?...유민상♥김민경 핑크빛 기류 ('맛녀석') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000512326</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000512326</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=강민경 기자] 개그맨 유민상과 김민경이 열애설에 휩싸였다. 오는 19일 오후 8시 방송되는 채널 IHQ 예능 프로그램 '맛있는 녀석들' 352회에서는 '스타 사인로드 특집'을 진행하는 뚱3(유민상, 김민경]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[방송소식] 오은영, SBS 다큐 '내가 알던 내가 아냐' 출연 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012802328</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012802328</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[KBS, '2021 ABU상' 4개 부문 수상…정애리·홍경민, SBS '희망TV' 진행 박태환, MBC에브리원 새 예능 '맘마미안' 출연 (서울=연합뉴스) 김정진 기자 = ▲ 오은영, SBS 다큐 '내가 알던 내가]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['1대 페이지' 오현란, MBC 일일드라마 '두 번째 남편' 삽입곡 불렀다 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000329385</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000329385</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]MBC 일일드라마 ‘두 번째 남편’의 메인 테마곡이 발매된다. 18일 정오 각종 온라인 음원사이트를 통해 공개되는 ‘두 번째 남편’ OST 파트6 ‘보내’는 ‘조금만 사랑했다면’, ‘나 때]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[강남, ♥이상화가 살 빼라 잔소리할 만하네…리즈시절 사진 공개 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512681</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512681</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 송오정 기자] 강남이 과거 사진을 공개했다. 11월 18일 강남은 개인 인스타그램에 "와이프가 살 빼라고 하는 이유......"라며 사진 한 장을 게재했다. 공개된 4분할 사진엔 그룹 엠아이비(MIB) 멤버]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘치킨대전’ 셰프 박은영 “여경래 사부 밑에서 독립하고파” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000775287</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000775287</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 유재석의 라면 스승이 출연한다. 오는 19일(금) 방송되는 SBS FiL ‘대한민국 치킨대전’(이하 치킨대전)에 유재석에게 ‘유산슬 라면’을 전수한 박은영 셰프가 도전자로 참여한다.최근 진행된 ‘치킨대]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘유재석 애제자’ 이미주, 안테나서 시작할 2막에 거는 기대 [스타와치] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512680</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512680</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박정민 기자] 그룹 러블리즈 출신 이미주가 안테나에서 2막을 시작한다. 11월 17일 안테나는 이미주와의 전속계약 소식을 전하며 "이미주의 끼와 재능을 최대로 펼칠 수 있도록 전폭적인 지원을 아끼지 않을 예]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[TD영상] 류준열 눈빛에 취한다 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=440&amp;aid=0000023498</link>
-            <guid>https://entertain.naver.com/now/read?oid=440&amp;aid=0000023498</guid>
-            <pubDate>Thu, 18 Nov 2021 03:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[배우 류준열이 18일 오전 서울 서초구 서울웨이브 아트센터에서 열린 주류브랜드 앰버서더 발탁 기념 포토월 행사에 참석하고 있다.]]></content:encoded>
+            <title><![CDATA[이도현, 수학천재 연기도 완벽했다('멜랑꼴리아') (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004513059</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004513059</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:24 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=선미경 기자] ‘멜랑꼴리아’ 이도현이 섬세한 연기로 미묘한 감정 변화를 그려냈다. 지난 17일 방송된 케이블채널 tvN 수목드라마 ‘멜랑꼴리아’(극본 김지운, 연출 김상협) 3회에서 이도현은 어린 나이에]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[최시원, 수염까지 밀고 달라진 반전 비주얼 ('술꾼도시여자들') (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
@@ -1580,62 +1636,6 @@
             <content:encoded><![CDATA[[OSEN=박판석 기자] ‘해피니스’가 현실을 반영한 뉴노멀 도시 스릴러의 진가를 발휘하고 있다. 티빙 오리지널 ‘해피니스(Happiness)’(연출 안길호, 극본 한상운, 기획·제작 스튜디오드래곤/ 이하 ‘해피니스]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[휠체어 탄 전지현→방구석 폐인 이영애의 변신, 성적표는 아쉽더라도 [TV와치] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512642</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000512642</guid>
-            <pubDate>Thu, 18 Nov 2021 02:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서지현 기자] 로맨스를 그려내던 언니들의 색다른 변신이 응원을 부른다. 지난 10월 13일 첫 방송된 JTBC 수목드라마 '너를 닮은 사람'(극본 유보라/연출 임현욱)은 배우 고현정의 안방 복귀작이다. 이는]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['사랑의꽈배기' 김진엽, 파격 주연 발탁..여심저격 너드미 안방극장 사로잡을까 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004512996</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004512996</guid>
-            <pubDate>Thu, 18 Nov 2021 02:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박판석 기자] “안방극장 뒤흔들 새로운 루키가 나타났다!” KBS 2TV 새 저녁 일일드라마 ‘사랑의 꽈배기’ 김진엽이 어리숙해 보이지만 천재적 감각을 지닌 능력자의 ‘너드美’를 발산한 첫 자태가 공개됐다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['멜랑꼴리아' 이도현, 시청자 휘어잡는 탁월한 연기력과 장악력 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003005692</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003005692</guid>
-            <pubDate>Thu, 18 Nov 2021 02:36:49 GMT</pubDate>
-            <content:encoded><![CDATA['멜랑꼴리아' 이도현이 섬세한 연기로 미묘한 감정 변화를 그려냈다. 지난 17일 방영된 tvN 15주년 특별기획 수목드라마 '멜랑꼴리아'(극본 김지운, 연출 김상협) 3회에서 이도현은 어린 나이에 MIT에 입학했지만]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[채수빈, 넷플릭스 '더 패뷸러스' 캐스팅…열일 행보 이어간다 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000512302</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000512302</guid>
-            <pubDate>Thu, 18 Nov 2021 02:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=차혜영 기자] 채수빈이 ‘더 패뷸러스’에 출연한다. 18일 소속사 킹콩 by 스타쉽은 “채수빈이 넷플릭스 시리즈 ‘더 패뷸러스’에 출연을 확정했다. ‘표지은’ 역할로 새로운 모습을 선보일 채수빈에게 많은]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['배앤크' 이동욱X위하준, 달라도 너무 다르다…'크레이지 브로 케미' (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001374898</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001374898</guid>
-            <pubDate>Thu, 18 Nov 2021 02:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 하지원 기자) tvN ‘배드 앤 크레이지’ 첫 티저 영상부터 시선을 강탈시키는 범상치 않은 놈들이 출격한다. 12월 17일 첫 방송되는 tvN 새 금토드라마 ‘배드 앤 크레이지’ 측은 18일 이동욱과]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이선희, ‘그 해 우리는’ 출연 확정…최우식·김다미·김성철과 호흡 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000832197</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000832197</guid>
-            <pubDate>Thu, 18 Nov 2021 02:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이선희가 ‘그 해 우리는’에 출연한다. 18일 소속사 WS엔터테인먼트 측은 “이선희가 오는 12월 6일 첫 방송되는 SBS 새 월화드라마 ‘그 해 우리는’ 출연을 확정하며, 이선희의 하반기 열일을 기대해 달라”]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘사랑의 꽈배기’ 김진엽, 너드美 폭발...안방극장 여심 제대로 공략 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000512297</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000512297</guid>
-            <pubDate>Thu, 18 Nov 2021 02:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=유정민 기자] 안방극장 여심을 제대로 공략할 루키가 온다. KBS 2TV 새 저녁 일일드라마 ‘사랑의 꽈배기’ 김진엽이 어리숙해 보이지만 천재적 감각을 지닌 능력자의 ‘너드美’를 발산한 첫 자태가 공개됐다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['불가살' 이진욱→권나라, 600년 시간 얽힌 7인…'기이한 운명' (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001374895</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001374895</guid>
-            <pubDate>Thu, 18 Nov 2021 02:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 하지원 기자) ‘불가살’ 메인포스터가 공개됐다. tvN 새 토일드라마 ‘불가살’은 죽일 수도, 죽을 수도 없는 불가살(不可殺)이 된 남자가 600년 동안 환생을 반복하는 한 여자를 쫓는 슬프지만 아름다]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[세계가 극찬한 K-애니 '무녀도'..24일 국내 개봉 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211117080004235</link>
             <guid>https://movie.v.daum.net/v/20211117080004235</guid>
@@ -1652,12 +1652,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F17%2Fxportsnews%2F20211117071633009ausu.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA[올해 성탄절이냐, 내년 설이냐.. 개봉 밀린 대작들의 '눈치 게임' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211117050744218</link>
-            <guid>https://movie.v.daum.net/v/20211117050744218</guid>
-            <pubDate>Wed, 17 Nov 2021 01:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[‘크리스마스냐, 내년 설 연휴냐.’ 단계적 일상회복(위드 코로나)이 본격적으로 시작되면서 국내 대작 영화의 개봉에 관심이 쏠리고 있다. 코로나19의 장기화로 성수기용 텐트폴 영화들이 쌓여 가는 가운데 개봉 시기를 놓고 배급사들의 눈치 싸움이 치열하다. 극장가의 최대 성수기 중 하나인 크리스마스 연휴까지는 두 달이 채 남지 않은 상황. 보통 각종 홍보와 프로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F17%2Fseoul%2F20211117050745581hyow.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[[인터뷰]'장르만 로맨스' 조은지 감독 "웃픈 코미디에 마음이 가요" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211116175430475</link>
+            <guid>https://movie.v.daum.net/v/20211116175430475</guid>
+            <pubDate>Wed, 17 Nov 2021 06:30:05 GMT</pubDate>
+            <content:encoded><![CDATA[[아시아경제 이이슬 기자] "메이크업을 하고, 하지 않고. 차이는 그 정도가 아닐까요?" 조은지는 배우와 감독의 차이를 묻자 이같이 답했다. 심플하지만 많은 의미가 함축된 말로 입봉 소감을 대신했다. 카메라 앞이 아닌, 뒤에서 그는 "인간관계를 다룬 영화를 만들며 함께 성장했다"고 돌아봤다. 조은지 감독은 16일 진행된 영화 '장르만 로맨스' 인터뷰에서 "]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F16%2Fakn%2F20211116175431341plwl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[현빈, '하얼빈' 캐스팅..목숨 건 '독립 운동' 그린다 [공식] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1668,12 +1668,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F16%2Ffnnewsi%2F20211116133651061nfny.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰]'장르만 로맨스' 조은지 감독 "웃픈 코미디에 마음이 가요" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211116175430475</link>
-            <guid>https://movie.v.daum.net/v/20211116175430475</guid>
-            <pubDate>Wed, 17 Nov 2021 06:30:05 GMT</pubDate>
-            <content:encoded><![CDATA[[아시아경제 이이슬 기자] "메이크업을 하고, 하지 않고. 차이는 그 정도가 아닐까요?" 조은지는 배우와 감독의 차이를 묻자 이같이 답했다. 심플하지만 많은 의미가 함축된 말로 입봉 소감을 대신했다. 카메라 앞이 아닌, 뒤에서 그는 "인간관계를 다룬 영화를 만들며 함께 성장했다"고 돌아봤다. 조은지 감독은 16일 진행된 영화 '장르만 로맨스' 인터뷰에서 "]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F16%2Fakn%2F20211116175431341plwl.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[올해 성탄절이냐, 내년 설이냐.. 개봉 밀린 대작들의 '눈치 게임' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211117050744218</link>
+            <guid>https://movie.v.daum.net/v/20211117050744218</guid>
+            <pubDate>Wed, 17 Nov 2021 01:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[‘크리스마스냐, 내년 설 연휴냐.’ 단계적 일상회복(위드 코로나)이 본격적으로 시작되면서 국내 대작 영화의 개봉에 관심이 쏠리고 있다. 코로나19의 장기화로 성수기용 텐트폴 영화들이 쌓여 가는 가운데 개봉 시기를 놓고 배급사들의 눈치 싸움이 치열하다. 극장가의 최대 성수기 중 하나인 크리스마스 연휴까지는 두 달이 채 남지 않은 상황. 보통 각종 홍보와 프로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F17%2Fseoul%2F20211117050745581hyow.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[청룡영화상]"연극판 베테랑→물오른 연기돌"..충무로 블루칩 총출동, 신인상 대격돌 (다음영화 뉴스 ─ 인기)]]></title>
@@ -1708,6 +1708,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2Fohmynews%2F20211118104503881dqyz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[참혹하다, 그러나 아름답다..애니메이션 '태일이' [리뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211116161922429</link>
+            <guid>https://movie.v.daum.net/v/20211116161922429</guid>
+            <pubDate>Wed, 17 Nov 2021 01:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[[경향신문] 밀폐된 작업장의 먼지가 눈송이처럼 흩날린다현실은 비참하지만 영화 속 인물들의 눈동자는 맑고 빛난다내달 1일 개봉하는 애니메이션 &lt;태일이&gt; 1995년 개봉한 영화 &lt;아름다운 청년 전태일&gt;(감독 박광수)에는 경찰에 수배 중인 지식인 김영수(문성근)가 등장했다. 영화는 &lt;전태일 평전&gt;을 쓴 조영래 변호사를 모델로 한 이 인물을 통해 전태일(홍경인)의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F16%2Fkhan%2F20211116220438210dhbk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[더러운 악의 전쟁..'칼리버 9: 마피아 워' 티저 공개 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211116173316888</link>
             <guid>https://movie.v.daum.net/v/20211116173316888</guid>
@@ -1722,14 +1730,6 @@
             <pubDate>Wed, 17 Nov 2021 01:13:29 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자] '겨울왕국2' '알라딘'을 잇는 디즈니 오리지널 뮤지컬 '엔칸토: 마법의 세계'가 대한민국의 대표 뮤지컬 음악감독 김문정의 추천영상을 공개하며 관심을 집중시키고 있다. 특별한 능력을 가진 마드리갈 패밀리 중&nbsp;유일하게 평범한 주인공 미라벨이 마법이 사라질 위기에 처한 마을 엔칸토와 가족을 구하려는 이야기 '엔칸토: 마법의 세계'(감독]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F17%2Fpoctan%2F20211117075801967qpsa.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[참혹하다, 그러나 아름답다..애니메이션 '태일이' [리뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211116161922429</link>
-            <guid>https://movie.v.daum.net/v/20211116161922429</guid>
-            <pubDate>Wed, 17 Nov 2021 01:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[[경향신문] 밀폐된 작업장의 먼지가 눈송이처럼 흩날린다현실은 비참하지만 영화 속 인물들의 눈동자는 맑고 빛난다내달 1일 개봉하는 애니메이션 &lt;태일이&gt; 1995년 개봉한 영화 &lt;아름다운 청년 전태일&gt;(감독 박광수)에는 경찰에 수배 중인 지식인 김영수(문성근)가 등장했다. 영화는 &lt;전태일 평전&gt;을 쓴 조영래 변호사를 모델로 한 이 인물을 통해 전태일(홍경인)의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F16%2Fkhan%2F20211116220438210dhbk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['소요산', 제네바국제영화제 가상현실 부문 최우수작품상 수상 (다음영화 뉴스 ─ 인기)]]></title>
@@ -1756,28 +1756,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F17%2Fmydaily%2F20211117090412703ickg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[채수빈X최민호, 청춘 로맨스 호흡 [공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211118090808608</link>
+            <guid>https://movie.v.daum.net/v/20211118090808608</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:32 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 배우 채수빈과 최민호가 청춘 로맨스로 만난다. ‘더 패뷸러스’는 패션(fashion)이라 쓰고 열정(passion)이라 읽는 패션계에 인생을 바친 청춘들의 꿈과 사랑, 우정을 그린 하이퍼리얼리즘 로맨스 드라마다. 패션계에서 살아남기 위해 고군분투하는 N년차 청춘들의 치열한 생존기와 대한민국에서 가장 힙(Hip)하고 핫(Hot)한 곳에서 먹고]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2Fsportskhan%2F20211118090810148frvj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰③] 전종서 "실제 소주 한잔 못 마시는 알쓰, 술 연기 NG 받아"('연애빠진로맨스') (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20211118115812475</link>
+            <guid>https://movie.v.daum.net/v/20211118115812475</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:32 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 배우 전종서(27)가 "보이는 이미지와 달리 주량은 소주 한 잔도 못 마신다"고 말했다. 전종서가 18일 오전 진행된 로맨스 영화 '연애 빠진 로맨스'(정가영 감독, CJ ENM·트웰브져니 제작) 화상 인터뷰에서 마음만은 연애 은퇴를 선언했지만 밤낮 가리지 않고 찾아오는 외로움을 참지 못하는 자영을 연기한 소회를 전]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2FSpoChosun%2F20211118115813065pamo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[[공식] 넷플릭스, '더 패뷸러스' 제작 확정..채수빈·최민호 주인공 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20211118082948998</link>
             <guid>https://movie.v.daum.net/v/20211118082948998</guid>
             <pubDate>Thu, 18 Nov 2021 01:14:06 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠조선 문지연 기자] 채수빈과 최민호가 넷플릭스(Netflix)의 새 시리즈 '더 패뷸러스'의 주인공이 된다. 넷플릭스의 새로운 시리즈 '더 패뷸러스'가 채수빈과 최민호의 두근거리는 첫 만남을 예고했다. '더 패뷸러스'는 패션(fashion)이라 쓰고 열정(passion)이라 읽는 패션계에 인생을 바친 청춘들의 꿈과 사랑, 우정을 그린]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2FSpoChosun%2F20211118082948472xqix.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[윤계상 "목숨 걸고 찍었다, 결혼 후 안정감 찾아"[인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211118103011552</link>
-            <guid>https://movie.v.daum.net/v/20211118103011552</guid>
-            <pubDate>Thu, 18 Nov 2021 02:36:58 GMT</pubDate>
-            <content:encoded><![CDATA[윤계상(사진=에이비오엔터테인먼트)[이데일리 스타in 박미애 기자] “배우로서 뭔가를 보여줘야 겠다는 생각 없이 설렘만으로 시나리오를 선택했다.” 윤계상이 영화 ‘유체이탈자’(감독 윤재근, 제작 비에이엔터테인먼트·사람엔터테인먼트)를 선택한 배경을 이같이 밝혔다. ‘유체이탈자’는 2017년 청불영화로 688만 관객을 모으며 흥행에 성공한 ‘범죄도시’ 제작진과]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2FEdaily%2F20211118103016802zcok.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[송강호X이병헌 대작 '비상선언', 내년 1월 개봉[공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20211118082100746</link>
-            <guid>https://movie.v.daum.net/v/20211118082100746</guid>
-            <pubDate>Thu, 18 Nov 2021 01:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '비상선언'이 내년 1월 개봉한다. '비상선언'(감독 한재림)은 사상 초유의 재난상황에 직면해 무조건적인 착륙을 선포한 비행기를 두고 벌어지는 리얼리티 항공 재난 영화다. 제 74회 칸 영화제 비경쟁 부문의 유일한 한국 영화로 공식 초청됐으며, 배우 송강호, 이병헌, 전도연, 김남길, 임시완, 김소진, 박해준이 출연한다. 특히 국내 최초 항공 재난]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2Fstartoday%2F20211118082106112hyqm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['이터널스' 14일째 1위..'장르만 로맨스' 오늘 출격[MK박스오피스] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1794,6 +1794,46 @@
             <pubDate>Thu, 18 Nov 2021 03:28:11 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스엔 배효주 기자] 임지연이 생애 첫 본격 액션물에 도전해 쇼트커트 헤어스타일까지 소화한 소감을 밝혔다. 영화 '유체이탈자'(감독 윤재근)에 출연한 임지연은 11월 18일 화상 인터뷰를 통해 새로운 도전에 대한 만족감을 드러냈다. 오는 24일 개봉하는 '유체이탈자'는 기억을 잃은 채 12시간마다 다른 사람의 몸에서 깨어나는 한 남자가 모두의 표적이 된]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2Fnewsen%2F20211118114737642sgkm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] '장르만로맨스' 이유영 "분량 적지만 충실..귀여운 4차원 캐릭터" (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211118133105788</link>
+            <guid>https://v.daum.net/v/20211118133105788</guid>
+            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이유영이 깜찍 발랄한 캐릭터로 돌아왔다. 영화 '장르만 로맨스(조은지 감독)'를 통해 약 1년 만에 스크린으로 복귀하는 이유영은 극중 고등학생 성경(성유빈)과 티격태격 신경전을 벌이며 웃음을 유발하는 정원 역으로 분해 러블리한 4차원 매력을 뽐낸다. 그간 사연 있어 보이는 여자 혹은 얼굴에 수심이 가득한 역할을 주로 맡아 왔던 이유영은 '장르만]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2Filgansports%2F20211118133106931oqyi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식]디카프리오 첫 넷플릭스作 '돈 룩 업', 12월 8일 극장 개봉 확정 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211118131132297</link>
+            <guid>https://v.daum.net/v/20211118131132297</guid>
+            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자]레오나르도 디카프리오의 첫 넷플릭스 영화 '돈 룩 업'이 오는 12월 24일 넷플릭스 공개에 앞서 12월 8일 극장 개봉을 확정했다. 극장 개봉 소식과 함께 공개된 메인 포스터는 탈지구급 초호화 캐스트를 담고 있어 시선을 주목시킨다. 레오나르도 디카프리오를 필두로 제니퍼 로런스, 롭 모건, 조나 힐, 마크 라일런스,]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2FSpoChosun%2F20211118131132330szcr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[SC인터뷰] "맛있는 싸구려 캔커피의 매력"..'연애 빠진 로맨스' 전종서, 사실은 센캐 빠진 '멜로퀸'(종합) (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211118124555828</link>
+            <guid>https://v.daum.net/v/20211118124555828</guid>
+            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 센캐(센 캐릭터) 전문 배우 전종서(27)가 달라졌다. 연애의 민낯을 장착한 그가 솔직하고 발칙한, 그리고 사랑스러움으로 드러내며 완벽히 진화했다. 로맨스 영화 '연애 빠진 로맨스'(정가영 감독, CJ ENM·트웰브져니 제작)에서 마음만은 연애 은퇴를 선언했지만 밤낮 가리지 않고 찾아오는 외로움을 참지 못하는 자영을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2FSpoChosun%2F20211118124555221zozf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[SC인터뷰]"god 찐팬,윤계상과 호흡이라니!"..임지연, '유체이탈로' 느낀 액션의 참 맛(종합) (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211118124155776</link>
+            <guid>https://v.daum.net/v/20211118124155776</guid>
+            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자]배우 임지연(30)이 액션의 참 맛을 느꼈다. 기억을 잃은 채 12시간마다 다른 사람의 몸에서 깨어나는 한 남자가 모두의 표적이 된 진짜 자신을 찾기 위해 사투를 벌이는 추적 액션 영화 '유체이탈자'(윤재근 감독, ㈜비에이엔터테인먼트·㈜사람엔터테인먼트 제작). 극중 문진아 역을 맡은 임지연이 18일 화상 인터뷰를 통]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2FSpoChosun%2F20211118124155989miye.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['연애빠진 로맨스' 전종서 "영화보고 오해하지 않기"[EN:인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20211118124040754</link>
+            <guid>https://v.daum.net/v/20211118124040754</guid>
+            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] “거의 대다수 평생 안 해본 말들. 소주는 1잔도 못 마셔.” 영화가 개봉되면 이런 오해 또 생길 수도. ‘연애 빠진 로맨스’ 속 전종서는 일명 ‘생활 연기를 했다?’는 식. 이에 대해 그가 실제 전종서는 이렇다고 털어놓았다. 전종서가 ‘연애 빠진 로맨스’에서 맡은 캐릭터 함자영은 요즘 말로 꾸밈이 1도 없는 ‘솔직대담’한 성격의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2Fnewsen%2F20211118124040313rpov.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[전종서 "'연애 빠진 로맨스' 멜로 생각 없던 날 바꾼 작품" [★숏터뷰] (다음영화 뉴스 ─ 최신)]]></title>
@@ -1916,44 +1956,46 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2Fmydaily%2F20211118115820095otfu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['연애 빠진 로맨스' 전종서 "재치 있고 발칙한 시나리오에 끌렸다" [MD인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211118115817509</link>
-            <guid>https://v.daum.net/v/20211118115817509</guid>
-            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 배우 전종서(27)가 '연애 빠진 로맨스' 시나리오를 받아든 이유를 알렸다. 영화 '연애 빠진 로맨스'(감독 정가영)에서 일, 사랑, 욕망에 뚜렷한 주관을 지닌 스물아홉 자영으로 분한 전종서를 18일 오전 화상으로 만났다. '연애 빠진 로맨스'는 연애는 싫지만 외로운 건 더 싫은 자영(전종서)과 일도 연애도 뜻대로 안 풀리는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2Fmydaily%2F20211118115817817tper.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[빈찬욱, '너에게 가는 속도 493km' 오선수 출연 확정..내년 방송 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20211118132906707</link>
+            <guid>https://entertain.v.daum.net/v/20211118132906707</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:45 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박판석 기자]&nbsp;배우 빈찬욱이 KBS 2TV 새드라마 ‘너에게 가는 속도 493km’에 출연을 확정했다. 18일 빈찬욱의 소속사 티에이치컴퍼니는 빈찬욱의 ‘너에게 가는 속도 493km’ 오선수역으로 캐스팅 되었다는 소식을 알렸다. 2022년 상반기 방송 예정인 KBS 2TV 새 드라마 ‘너에게 가는 속도 493km’는 싱그러운 스물다섯, 운동이 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['유체이탈자' 임지연 "리얼 액션은 처음, 하길 잘했다고 생각해" (인터뷰) (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211118115816492</link>
-            <guid>https://v.daum.net/v/20211118115816492</guid>
-            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 임지연이 첫 리얼 액션 도전 후기를 전했다.&nbsp; 배우 임지연은 18일 오전 온라인을 통해 영화 '유체이탈자'(감독 윤재근) 관련 화상인터뷰를 진행했다. '유체이탈자'는 기억을 잃은 채 12시간마다 다른 사람의 몸에서 깨어나는 한 남자가 모두의 표적이 된 진짜 자신을 찾기 위해 사투를 벌이는 추적 액션. 임지연은 강이안을 찾는 여]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2Fxportsnews%2F20211118115818678jsaw.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['엉클' 앞머리 내린 이상우, 비주얼 완벽한 사별남+육아대디로 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20211118131132296</link>
+            <guid>https://entertain.v.daum.net/v/20211118131132296</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:45 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] ‘엉클’ 이상우가 훤칠한 키, 섬세한 매너, 잇몸 만개 꽃 미소까지 완벽 장착한 육아 대디로 돌아온다. 12월 11일 오후 9시 첫 방송되는 TV CHOSUN 새 토일미니시리즈 ‘엉클’(연출 지영수/극본 박지숙/제작 하이그라운드, 몬스터유니온)은 누나의 청천벽력 이혼으로 얼떨결에 초딩 조카를 떠맡은 쓰레기 루저 뮤지션 삼촌의 코믹]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['유체이탈자' 임지연 "윤계상, 목숨 다해 연기..많이 배웠다" [인터뷰①] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211118115815490</link>
-            <guid>https://v.daum.net/v/20211118115815490</guid>
-            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김나연 기자] 배우 임지연이 윤계상과 연기 호흡을 맞춘 소감을 전햇다. 18일 오전 영화 '유체이탈자'(감독 윤재근) 배우 임지연의 화상 인터뷰가 진행됐다. '유체이탈자'는 기억을 잃은 채 12시간마다 다른 사람의 몸에서 깨어나는 한 남자가 모두의 표적이 된 진짜 자신을 찾기 위해 사투를 벌이는 추적 액션 영화. 임지연은 극중&nbsp;국가정보요원에게 쫓]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2Fpoctan%2F20211118115815692ycuc.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[고현정은 왜 비호감 인물들뿐인 '너를 닮은 사람'을 선택했을까 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20211118131123293</link>
+            <guid>https://entertain.v.daum.net/v/20211118131123293</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:45 GMT</pubDate>
+            <content:encoded><![CDATA[[엔터미디어=정덕현] JTBC 수목드라마 &lt;너를 닮은 사람&gt;은 점점 치정복수극의 민낯을 드러내고 있다. 애초에는 무언가 실존적 문제를 드러내는 진중한 작품처럼 보였다. 하지만 드라마는 정희주(고현정)의 불륜과 구해원(신현빈)의 복수 그리고 서우재(김재영)의 기억 상실이 더해지면서 그런 무게감 대신 다소 뻔한 치정극의 양상을 띠기 시작했다. 복잡하게 얽혀 있]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인터뷰④] 전종서 "지금까지 소개팅無, 소극적인 자만추 스타일"('연애빠진로맨스') (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211118115813482</link>
-            <guid>https://v.daum.net/v/20211118115813482</guid>
-            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 배우 전종서(27)가 "실제 연애 스타일은 소극적인 자만추(자연스러운 만남 추구)다"고 말했다. 로맨스 영화 '연애 빠진 로맨스'(정가영 감독, CJ ENM·트웰브져니 제작)에서 마음만은 연애 은퇴를 선언했지만 밤낮 가리지 않고 찾아오는 외로움을 참지 못하는 자영 역을 맡은 전종서가 18일 오전 스포츠조선과 화상 인]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2FSpoChosun%2F20211118115813909ietp.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[위하준 측 "K프로젝트 출연, 세부 내용 조율 중" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20211118123755706</link>
+            <guid>https://entertain.v.daum.net/v/20211118123755706</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:45 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박정민 기자] 배우 위하준이 열일 행보를 이어간다. 소속사 엠에스팀엔터테인먼트는 11월 18일 뉴스엔에 "위하준이 'K프로젝트'에 출연한다. 세부 내용을 조율 중이다"고 밝혔다. 'K프로젝트'(가제)는 인간의 상처와 불안, 생존과 인간 존엄에 대한 이야기를 다루는 작품. 드라마 '낭만닥터 김사부' 시리즈 강은경 작가가 집필한다. 앞서 박서준과]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['연빠로' 전종서 "손석구, 기본적으로 나와 잘 맞는 배우"[인터뷰③] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20211118115813480</link>
-            <guid>https://v.daum.net/v/20211118115813480</guid>
-            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] (인터뷰②에 이어) 배우 전종서(28)가 배우 손석구(39)에 대해 “기본적으로 나와 잘 맞는 배우”라고 밝혔다. 전종서는 18일 오전 온라인으로 진행된 화상 인터뷰에서 “손석구와 저와 비슷한 게 많다. 있지도 않은 말(마음에 없는 말 등)을 지어서 하는 스타일도 아니다”라며 이같이 말했다. 그녀가 주연을 맡은 ‘연애 빠진 로맨스’]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F18%2Fpoctan%2F20211118115813726mibi.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[최시원, 털보 수염 깎고 리즈 경신..이선빈과 관계 변화? (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20211118123328648</link>
+            <guid>https://entertain.v.daum.net/v/20211118123328648</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:45 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박소영 기자] 최시원(에스엠엔터테인먼트 소속)이 반전 비주얼로 ‘술꾼도시여자들’의 후반부 분위기를 더욱 뜨겁게 달굴 예정이다. 최시원은 하루 끝의 술 한잔이 인생의 신념인 세 여자의 일상을 그린 티빙 오리지널 ‘술꾼도시여자들’(연출 김정식,&nbsp;작가 위소영,&nbsp;제작 본팩토리)에서 괴짜 예능&nbsp;PD&nbsp;‘강북구’ 역을 맡아 현실감 넘치는 연기로 시청자들의 몰]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이도현, 수학천재 연기도 완벽했다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20211118123325647</link>
+            <guid>https://entertain.v.daum.net/v/20211118123325647</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:45 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=선미경 기자] ‘멜랑꼴리아’ 이도현이 섬세한 연기로 미묘한 감정 변화를 그려냈다. 지난 17일 방송된 케이블채널 tvN 수목드라마 ‘멜랑꼴리아’(극본 김지운, 연출 김상협) 3회에서 이도현은 어린 나이에 MIT에 입학했지만 트라우마로 인해 수학을 외면하게 된 수학천재 백승유&nbsp;역을 맡아 극에 텐션을 더했다. 승유는 영재과학고 편입 시험을 치르다 수]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이선빈 부친상, 한선화 정은지와 묵직한 우정 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
@@ -2019,46 +2061,39 @@
             <content:encoded><![CDATA[[OSEN=박판석 기자]&nbsp;‘해피니스’가 현실을 반영한 뉴노멀 도시 스릴러의 진가를 발휘하고 있다. 티빙 오리지널 ‘해피니스(Happiness)’(연출 안길호, 극본 한상운, 기획·제작 스튜디오드래곤/ 이하 ‘해피니스’)를 향한 찬사와 호평이 뜨겁다. ‘해피니스’는 포스트 코로나의 근미래를 배경으로 계층사회 축소판인 아파트에 고립된 이들의 생존기를 그린 뉴노]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[휠체어 탄 전지현→방구석 폐인 이영애의 변신, 성적표는 아쉽더라도 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20211118111059484</link>
-            <guid>https://entertain.v.daum.net/v/20211118111059484</guid>
-            <pubDate>Thu, 18 Nov 2021 02:37:12 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서지현 기자] 로맨스를 그려내던 언니들의 색다른 변신이 응원을 부른다. 지난 10월 13일 첫 방송된 JTBC 수목드라마 '너를 닮은 사람'(극본 유보라/연출 임현욱)은 배우 고현정의 안방 복귀작이다. 이는 아내와 엄마라는 수식어를 버리고 자신의 욕망에 충실했던 여자와, 그 여자와의 짧은 만남으로 '제 인생의 조연'이 돼버린 또 다른 여자의 이야]]></content:encoded>
+            <title><![CDATA['애로부부 금메달리스트' 제작진, 김동성 누명에 입장 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211118132201544</link>
+            <guid>https://entertain.v.daum.net/v/20211118132201544</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:50 GMT</pubDate>
+            <content:encoded><![CDATA['애로부부' 제작진이 이기적인 금메달리스트 남편으로 김동성이 지목되자, 입을 열었다. SKY채널과 채널A가 공동 제작하는 본격 19금 부부 토크쇼 '다시 뜨거워지고 싶은 애로부부(이하 애로부부)' 제작진이 13일 토요일 밤 11시 방송된 뒤, 주말부터 새로운 한 주가 시작된 이후까지도 계속 온라인을 들썩이게 만든 '국제대회 금메달리스트' 남편에 대해 "]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['사랑의꽈배기' 김진엽, 파격 주연 발탁..여심저격 너드미 안방극장 사로잡을까 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20211118110836383</link>
-            <guid>https://entertain.v.daum.net/v/20211118110836383</guid>
-            <pubDate>Thu, 18 Nov 2021 02:37:12 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박판석 기자]&nbsp;“안방극장 뒤흔들 새로운 루키가 나타났다!” KBS 2TV&nbsp;새 저녁 일일드라마&nbsp;‘사랑의 꽈배기’&nbsp;김진엽이 어리숙해 보이지만 천재적 감각을 지닌 능력자의&nbsp;‘너드美’를 발산한 첫 자태가 공개됐다. ‘빨강 구두’&nbsp;후속으로 오는&nbsp;12월 첫 방송을 앞둔&nbsp;KBS 2TV&nbsp;새 저녁 일일드라마&nbsp;‘사랑의 꽈배기’(극본 이은주&nbsp;/연출 김원용&nbsp;/제작 네]]></content:encoded>
+            <title><![CDATA[외도 일삼는 질나쁜 금메달리스트 누구? "아직 이혼 안했다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211118131404384</link>
+            <guid>https://entertain.v.daum.net/v/20211118131404384</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 온라인을 들썩이게 만든 "금메달리스트 남편" 누굴까. 지난 11월 13일 SKY채널과 채널A가 공동 제작하는 본격 19금 부부 토크쇼 ‘다시 뜨거워지고 싶은 애로부부(이하 애로부부)에서는‘애로드라마-내 남편 XXX 씨를 고발합니다’를 방송했다. 극중 테니스 선수로 그려졌지만, 실제 종목은 다르다고 제작진이 밝힌 ‘애로드라마’ 속]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['지헤중' 송혜교X장기용, 연인이 될 수 있을까..감정 변화 예고 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20211118103100604</link>
-            <guid>https://entertain.v.daum.net/v/20211118103100604</guid>
-            <pubDate>Thu, 18 Nov 2021 02:37:12 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 이경호 기자] SBS 금토드라마 '지금, 헤어지는 중입니다'의 송혜교, 장기용./사진제공=삼화네트웍스, UAA'지금, 헤어지는 중입니다' 송혜교와 장기용은 연인이 될 수 있을까. SBS 금토드라마 '지금, 헤어지는 중입니다'(이하 '지헤중'. 극본 제인, 연출 이길복, 크리에이터 글Line&amp;강은경, 제작 삼화네트웍스·UAA)가 방송 첫 주부터 동]]></content:encoded>
+            <title><![CDATA[강주은 "♥최민수에 '나 사랑하는거 맞아?' 묻고 대답 같으면 안 돼" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211118130727219</link>
+            <guid>https://entertain.v.daum.net/v/20211118130727219</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 강주은이 남편 최민수 맞춤형 조련법을 공개한다. 11월 19일 방송되는 채널S의 예능 프로그램 ‘신과 함께 시즌2’(채널S &amp; SM C&amp;C STUDIO 공동제작/ 프로듀서 김수현, 연출 진선미)에서 게스트 강주은이 남편 최민수의 사랑을 확인하는 방법을 소개한다. 이날 방송에서 성시경은 “최민수 씨는 한국의 브래드 피트였다. 제일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['지금, 헤어지는 중입니다' 송혜교x장기용, 연인이 될 수 있을까 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20211118102508316</link>
-            <guid>https://entertain.v.daum.net/v/20211118102508316</guid>
-            <pubDate>Thu, 18 Nov 2021 02:37:12 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박판석 기자]&nbsp;‘지금, 헤어지는 중입니다’ 송혜교와 장기용은 연인이 될 수 있을까. SBS 금토드라마 ‘지금, 헤어지는 중입니다’(극본 제인/연출 이길복/크리에이터 글Line&amp;강은경/제작 삼화네트웍스, UAA/이하 ‘지헤중’)가 방송 첫 주부터 동 시간대 전 채널 시청률 1위는 물론 주간 미니시리즈 시청률 1위를 기록했다. 특히 ‘지헤중’ 2회가]]></content:encoded>
+            <title><![CDATA['오늘 무해' 공효진, 역사적 첫 화상회의 "실감 안 나" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211118130524138</link>
+            <guid>https://entertain.v.daum.net/v/20211118130524138</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] ‘오늘부터 무해하게’ 공효진, 이천희, 전혜진, 엄지원이 역사적인 첫 화상회의를 개최한다. 11월 18일 방송하는 KBS2 환경 예능 ‘오늘부터 무해하게’ 6회에서는 공효진, 이천희, 전혜진, 엄지원의 종이 팩 생수 프로젝트가 그려지는 가운데 이들이 새로운 종이 팩 생수 유통처 확대를 위한 첫 협업체를 만난다고 전해져 궁금증을 증폭]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[윤지온 '내일' 출연 확정, 신비로운 저승사자 변신 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20211118102235218</link>
-            <guid>https://entertain.v.daum.net/v/20211118102235218</guid>
-            <pubDate>Thu, 18 Nov 2021 02:37:12 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 김명미 기자] 배우 윤지온이 MBC 새 드라마 ‘내일’에 출연을 확정 짓고 안방극장을 찾아갈 준비 중이다. 오는 2022년 상반기 방송 예정인 MBC 새 드라마 ‘내일’(연출 김태윤, 성치욱/ 극본 박란, 김유진)은 ‘죽은 자’를 인도하던 저승사자들이 '죽고 싶은 사람들'을 살리는 저승 판타지 웜(Warm) 메이드 드라마다. 많은 독자의 인생작]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['지헤중' 송혜교, 현실 공감 멜로퀸.."지금, 본방사수 중입니다" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20211118102131179</link>
-            <guid>https://entertain.v.daum.net/v/20211118102131179</guid>
-            <pubDate>Thu, 18 Nov 2021 02:37:12 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 이경호 기자] SBS 금토드라마 '지금, 헤어지는 중입니다'에서 하영은 역을 맡은 송혜교./사진제공=삼화네트웍스, UAA송혜교는 역시 송혜교였다. 송혜교는 지난 12일 첫 방송한 SBS 금토드라마 '지금, 헤어지는 중입니다'(이하 '지헤중'. 극본 제인, 연출 이길복, 크리에이터 글Line&amp;강은경, 제작 삼화네트웍스·UAA)로 시청자들과 만났다.]]></content:encoded>
+            <title><![CDATA["누가 왕이 될 상인가" 전현무→기안84, 이정재 뺨치는 관상 증명사진 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20211118130340109</link>
+            <guid>https://entertain.v.daum.net/v/20211118130340109</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] ‘나 혼자 산다’ 전현무가 ‘무지개 달력’ 촬영 반나절 만에 ‘무대감’에서 대역죄인으로 신분이 하락, 곤장대에 묶여 있어 궁금증을 자아낸다. 11월 19일 오후 11시 10분에 방송되는 MBC ‘나 혼자 산다’(연출 허항 김지우)에서는 전현무의 ‘무지개 달력’ 촬영 수난시대가 공개된다. 무지개 회장 전현무의 ‘무지개 달력’ 촬영이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[톱스타들이 '유퀴즈'를 찾는 데는 그만한 이유가 있다 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
@@ -2131,39 +2166,39 @@
             <content:encoded><![CDATA[[마이데일리 = 정지현 기자] 종합편성채널 MBN '돌싱글즈2' 이창수가 돌싱남녀들의 최종 선택 전, 케이블카에서 눈물을 펑펑 쏟는다. 오는 21일 6회를 방송하는 '돌싱글즈2'에서는 돌싱남녀 8인 김계성-김채윤-김은영-유소민-윤남기-이덕연-이다은-이창수의 '최종 선택' 결과와, 매칭된 커플의 첫 동거 현장이 공개되며 '돌싱글즈' 마니아들의 심장을 뜨겁게]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[심하은, ♥이천수도 놀란 다이어트 그 후 "진짜 날씬해졌다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211118111913957</link>
-            <guid>https://entertain.v.daum.net/v/20211118111913957</guid>
-            <pubDate>Thu, 18 Nov 2021 02:37:19 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=연휘선 기자]&nbsp;'브래드PT&amp;GYM캐리'&nbsp;심하은의 다이어트 중간 점검 결과가 공개된다. 19일 방송되는&nbsp;MBC에브리원 예능 프로그램 '브래드PT&amp;GYM캐리'에서는 운동 구독&nbsp;5주차에 접어든 심하은의 놀라운 변화가 그려질 예정이다.&nbsp;이전보다 훨씬 건강해진 몸매부터 체력 왕으로 거듭난 그의 색다른 운동 도전기까지, 180도 변화한 심하은의 모습이 놀라]]></content:encoded>
+            <title><![CDATA['장르만로맨스' 이유영 "분량 적지만 충실..귀여운 4차원 캐릭터" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+            <link>https://entertain.v.daum.net/v/20211118133105788</link>
+            <guid>https://entertain.v.daum.net/v/20211118133105788</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:54 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이유영이 깜찍 발랄한 캐릭터로 돌아왔다. 영화 '장르만 로맨스(조은지 감독)'를 통해 약 1년 만에 스크린으로 복귀하는 이유영은 극중 고등학생 성경(성유빈)과 티격태격 신경전을 벌이며 웃음을 유발하는 정원 역으로 분해 러블리한 4차원 매력을 뽐낸다. 그간 사연 있어 보이는 여자 혹은 얼굴에 수심이 가득한 역할을 주로 맡아 왔던 이유영은 '장르만]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오은영, '내가 알던 내가 아냐' 출연..생애 첫 인물 다큐 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211118111753877</link>
-            <guid>https://entertain.v.daum.net/v/20211118111753877</guid>
-            <pubDate>Thu, 18 Nov 2021 02:37:19 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 하지원 기자) 육아 대통령 오은영 박사가 난생처음, 인물 다큐멘터리에 출연한다. 30일 방송되는 SBS 인물 다큐 '내가 알던 내가 아냐'에는 오은영 박사가 출연한다. 오은영 박사가 인물 다큐에 출연한 것은 SBS ‘우리 아이가 달라졌어요’ 등으로 방송을 시작한 2005년 이후, 17년 만에 처음이다. 오은영 박사는 최근 ‘금쪽같은 내 새끼]]></content:encoded>
+            <title><![CDATA[디카프리오 첫 넷플릭스作 '돈 룩 업', 12월 8일 극장 개봉 확정 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+            <link>https://entertain.v.daum.net/v/20211118131132297</link>
+            <guid>https://entertain.v.daum.net/v/20211118131132297</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:54 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자]레오나르도 디카프리오의 첫 넷플릭스 영화 '돈 룩 업'이 오는 12월 24일 넷플릭스 공개에 앞서 12월 8일 극장 개봉을 확정했다. 극장 개봉 소식과 함께 공개된 메인 포스터는 탈지구급 초호화 캐스트를 담고 있어 시선을 주목시킨다. 레오나르도 디카프리오를 필두로 제니퍼 로런스, 롭 모건, 조나 힐, 마크 라일런스,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정상훈, 김준현 위해 10인분 식재료 준비..돼지꼬리 족발까지 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211118110506241</link>
-            <guid>https://entertain.v.daum.net/v/20211118110506241</guid>
-            <pubDate>Thu, 18 Nov 2021 02:37:19 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 코미디언 김준현이 절친한 배우 정상훈을 위해 나섰다. 11월 19일 방송되는 KBS 2TV ‘신상출시 편스토랑’(이하 ‘편스토랑’)에서 안주를 주제로 한 메뉴 개발 대결 결과가 공개된다. 출시왕 이경규, 어남선생 류수영, 카피정 정상훈, 신입 편셰프 박솔미 중 누가 어떤 맛깔스러운 메뉴로 우승을 차지할 지 이목이 집중된다. 이런 가]]></content:encoded>
+            <title><![CDATA["맛있는 싸구려 캔커피의 매력"..'연애 빠진 로맨스' 전종서, 사실은 센캐 빠진 '멜로퀸' (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+            <link>https://entertain.v.daum.net/v/20211118124555828</link>
+            <guid>https://entertain.v.daum.net/v/20211118124555828</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:54 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 센캐(센 캐릭터) 전문 배우 전종서(27)가 달라졌다. 연애의 민낯을 장착한 그가 솔직하고 발칙한, 그리고 사랑스러움으로 드러내며 완벽히 진화했다. 로맨스 영화 '연애 빠진 로맨스'(정가영 감독, CJ ENM·트웰브져니 제작)에서 마음만은 연애 은퇴를 선언했지만 밤낮 가리지 않고 찾아오는 외로움을 참지 못하는 자영을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김복준 형사 "실제 조폭세계엔 돈-의리-로맨스 없다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211118110458238</link>
-            <guid>https://entertain.v.daum.net/v/20211118110458238</guid>
-            <pubDate>Thu, 18 Nov 2021 02:37:19 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 김복준 형사가 실제 조폭-형사의 모습과 영화 속 모습를 비교했다. 11월 17일 방송된 MBC '라디오스타'는 '잡거나 잡히거나' 특집으로 꾸며져 배우 장혁, 유오성, 베테랑 형사 김복준, 가수 이정, 코미디언 윤형빈이 출연했다. 김복준은 영화 속 형사 모습과 공통점에 대해 "일단 형사들이 가죽 재킷을 많이 입는다. 오염이 돼도 닦]]></content:encoded>
+            <title><![CDATA["god 찐팬,윤계상과 호흡이라니!"..임지연, '유체이탈로' 느낀 액션의 참 맛 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+            <link>https://entertain.v.daum.net/v/20211118124155776</link>
+            <guid>https://entertain.v.daum.net/v/20211118124155776</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:54 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 이승미 기자]배우 임지연(30)이 액션의 참 맛을 느꼈다. 기억을 잃은 채 12시간마다 다른 사람의 몸에서 깨어나는 한 남자가 모두의 표적이 된 진짜 자신을 찾기 위해 사투를 벌이는 추적 액션 영화 '유체이탈자'(윤재근 감독, ㈜비에이엔터테인먼트·㈜사람엔터테인먼트 제작). 극중 문진아 역을 맡은 임지연이 18일 화상 인터뷰를 통]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['브래드PT&GYM캐리' 이현이, 심하은 변화에 감탄 "진짜 날씬해졌다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20211118110344192</link>
-            <guid>https://entertain.v.daum.net/v/20211118110344192</guid>
-            <pubDate>Thu, 18 Nov 2021 02:37:19 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 심하은의 다이어트 중간 점검 결과가 공개된다. 11월 19일 방송되는 MBC에브리원 '브래드PT&amp;GYM캐리'에서는 운동 구독 5주차에 접어든 심하은의 놀라운 변화가 공개될 예정이다. 이전보다 훨씬 건강해진 몸매부터 체력 왕으로 거듭난 그의 색다른 운동 도전기까지, 180도 변화한 심하은의 모습이 놀라움을 안긴다. 그간 복싱부터 요]]></content:encoded>
+            <title><![CDATA['연애빠진 로맨스' 전종서 "영화보고 오해하지 않기" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+            <link>https://entertain.v.daum.net/v/20211118124040754</link>
+            <guid>https://entertain.v.daum.net/v/20211118124040754</guid>
+            <pubDate>Thu, 18 Nov 2021 04:33:54 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] “거의 대다수 평생 안 해본 말들. 소주는 1잔도 못 마셔.” 영화가 개봉되면 이런 오해 또 생길 수도. ‘연애 빠진 로맨스’ 속 전종서는 일명 ‘생활 연기를 했다?’는 식. 이에 대해 그가 실제 전종서는 이렇다고 털어놓았다. 전종서가 ‘연애 빠진 로맨스’에서 맡은 캐릭터 함자영은 요즘 말로 꾸밈이 1도 없는 ‘솔직대담’한 성격의]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[전종서 "'연애 빠진 로맨스' 멜로 생각 없던 날 바꾼 작품" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
@@ -2234,41 +2269,6 @@
             <guid>https://entertain.v.daum.net/v/20211118115828570</guid>
             <pubDate>Thu, 18 Nov 2021 03:28:36 GMT</pubDate>
             <content:encoded><![CDATA[전종서가 '연애 빠진 로맨스'의 과감하고 거침없는 대사들에 대한 생각을 전했다. 영화 '연애 빠진 로맨스(정가영 감독)' 개봉을 앞두고 있는 전종서는 18일 진행된 화상 인터뷰에서 "대사 중 평생 안해봤던 말들도 많았냐"는 질문에 "거의 대다수가 그랬다"고 운을 뗐다. 전종서는 "분명히 대사가 재미있어서 이 책을 선택했는데, 문체를 대사화 시킬 때 조]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['연애빠진로맨스' 전종서 "맛있는 캔커피 같은 느낌이라 선택" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-            <link>https://entertain.v.daum.net/v/20211118115826559</link>
-            <guid>https://entertain.v.daum.net/v/20211118115826559</guid>
-            <pubDate>Thu, 18 Nov 2021 03:28:36 GMT</pubDate>
-            <content:encoded><![CDATA[전종서가 '연애 빠진 로맨스'에 참여한 소감을 전했다. 영화 '연애 빠진 로맨스(정가영 감독)' 개봉을 앞두고 있는 전종서는 18일 진행된 화상 인터뷰에서 "완성된 영화가 리드미컬하게 잘 나온 것 같아서 기분이 좋다"며 "다만 지금까지 내가 보여드렸던 모습과는 다른 모습으로 많은 분들이 받아들여 주신 것 같아서 '어떻게 비춰질까'에 대한 우려 반 설레임]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['유체이탈자' 임지연 "할리우드 리메이크, 내 역할 샤를리즈 테론 했으면" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-            <link>https://entertain.v.daum.net/v/20211118115822531</link>
-            <guid>https://entertain.v.daum.net/v/20211118115822531</guid>
-            <pubDate>Thu, 18 Nov 2021 03:28:36 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 영화 '유체이탈자'가 할리우드에서 리메이크 되는 가운데, 임지연이 "내 역할을 샤를리즈 테론이 했으면"이라는 바람을 전했다. 영화 '유체이탈자'(감독 윤재근)에 출연한 임지연은 11월 18일 화상 인터뷰를 통해 "배우 인생의 터닝포인트가 된 작품"이라고 애정을 드러냈다. 오는 24일 개봉하는 '유체이탈자'는 기억을 잃은 채 12시간]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['연애빠진로맨스' 전종서 "손석구와 잘 맞아, 나랑 비슷한 사람" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-            <link>https://entertain.v.daum.net/v/20211118115822533</link>
-            <guid>https://entertain.v.daum.net/v/20211118115822533</guid>
-            <pubDate>Thu, 18 Nov 2021 03:28:36 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] '연애 빠진 로맨스'의 배우 전종서가 손석구에 대해 이야기했다. 전종서는 18일 오전 온라인으로 진행된 영화 '연애 빠진 로맨스'(감독 정가영·제작 CJ ENM) 인터뷰에서 이번 작품을 통해 함께 연기 호흡을 맞춘 손석구에 대해 이야기했다. 이날 전종서는 손석구에 대해 "저랑 비슷한게 있다. 다가갈 때 격식을 차리지 않고,]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['연애 빠진 로맨스' 전종서 "소극적인 '자만추' 스타일, 소개팅 해본 적 없어" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-            <link>https://entertain.v.daum.net/v/20211118115821520</link>
-            <guid>https://entertain.v.daum.net/v/20211118115821520</guid>
-            <pubDate>Thu, 18 Nov 2021 03:28:36 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 배우 전종서(27)가 연애 스타일을 이야기했다. 영화 '연애 빠진 로맨스'(감독 정가영)에서 일, 사랑, 욕망에 뚜렷한 주관을 지닌 스물아홉 자영으로 분한 전종서를 18일 오전 화상으로 만났다. '연애 빠진 로맨스'는 연애는 싫지만 외로운 건 더 싫은 자영(전종서)과 일도 연애도 뜻대로 안 풀리는 잡지사 기자 우리(손석구)의]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['연애 빠진 로맨스' 전종서 "손석구와 굉장히 잘 맞아, 장난치며 즐겁게 촬영" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-            <link>https://entertain.v.daum.net/v/20211118115820516</link>
-            <guid>https://entertain.v.daum.net/v/20211118115820516</guid>
-            <pubDate>Thu, 18 Nov 2021 03:28:36 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 배우 전종서(27)가 배우 손석구(38)와 합 맞춘 소감을 밝혔다. 영화 '연애 빠진 로맨스'(감독 정가영)에서 일, 사랑, 욕망에 뚜렷한 주관을 지닌 스물아홉 자영으로 분한 전종서를 18일 오전 화상으로 만났다. '연애 빠진 로맨스'는 연애는 싫지만 외로운 건 더 싫은 자영(전종서)과 일도 연애도 뜻대로 안 풀리는 잡지사]]></content:encoded>
         </item>
     </channel>
 </rss>
