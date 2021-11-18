@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-11-18T18:30:30.196Z</updated>
+    <updated>2021-11-18T19:22:14.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[토스카나에서 펼쳐지는 치유의 드라마]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001485458</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001485458"/>
+        <updated>2021-11-18T19:21:15.140Z</updated>
+        <content type="html"><![CDATA[어린 시절 어머니가 죽은 후 아들 잭(마이클 리처드슨)과 아버지 로버트(리암 니슨)는 항상 거리를 두고 지냈다. 둘은 엄마와 아내를 잃은 고통을 서로 얘기하지 않는다. 어쩌면 자기 자신의 고통조차 제대로 들여다 본]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 '돈 룩 업', 12월 일부 극장서 먼저 개봉]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010842206</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003005857"/>
         <updated>2021-11-18T10:28:08.033Z</updated>
         <content type="html"><![CDATA[배우 김혜수가 '타짜' 재개봉 소식을 알리며 홍보했다. 김혜수는 18일 자신의 인스타그램에 '타짜' 재개봉 포스터를 연속으로 게재했다. 김혜수는 "2021. 12.1. '타짜' 디지털 리마스터링 버전"이라는 글과 함]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킹메이커', '불한당' 제작진 의기투합..이선균 "새로운 시대극 될 것"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003500092</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003500092"/>
-        <updated>2021-11-18T10:28:08.035Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] '불한당: 나쁜 놈들의 세상'을 필두로 다양한 흥행작을 만들어낸 충무로 대표 제작진이 '킹메이커'로 의기투합했다. 영화 '킹메이커'는 세상을 바꾸기 위해 도전하는 네 번 낙선한 정치인 ‘]]></content>
     </entry>
 </feed>
