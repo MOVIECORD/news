@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-11-18T20:26:02.170Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 18 Nov 2021 21:21:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['연애 빠진 로맨스' 위험하고 아찔한 데이팅 앱 판타지 [쿡리뷰]]]></title>
+            <link>https://v.daum.net/v/20211119061202761</link>
+            <guid>https://v.daum.net/v/20211119061202761</guid>
+            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[언제 연락이 끊어져도 이상하지 않은 두 사람이 있다. 서로 아무런 접점도, 만나라고 눈치주는 사람도 없는 오직 둘만의 관계다. 그래서 자신의 이야기, 진짜 내면을 솔직하고 과감하게 드러낸다. 처음 해보는 낮선 경험이 주는 짜릿함과 재미는 단단했던 마음까지 움직인다. 하지만 한 발 더 나아가기가 두렵다. 2021년, 지금 시대의 연애상을 가장 잘 보여주는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F19%2Fkukinews%2F20211119061204066liwf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
