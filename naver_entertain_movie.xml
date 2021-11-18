@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-11-18T16:38:02.172Z</updated>
+    <updated>2021-11-18T17:28:57.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 '돈 룩 업', 12월 일부 극장서 먼저 개봉]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010842206</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010842206"/>
+        <updated>2021-11-18T17:27:48.296Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]고다연 인턴 기자 = 영화 '돈 룩 업'이 극장 개봉일을 확정했다. 넷플릭스 영화 '돈 룩 업'이 넷플릭스 공개에 앞서 12월 8일 극장 개봉을 확정하고 메인 포스터와 예고편을 공개했다. '돈 룩 업']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[새영화]귀 기울이고 들여다 보자 `누군가의 삶']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000869056</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003500092"/>
         <updated>2021-11-18T10:28:08.035Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=이미지 기자] '불한당: 나쁜 놈들의 세상'을 필두로 다양한 흥행작을 만들어낸 충무로 대표 제작진이 '킹메이커'로 의기투합했다. 영화 '킹메이커'는 세상을 바꾸기 위해 도전하는 네 번 낙선한 정치인 ‘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안성기 “뜻깊은 시간 예술인들과 함께…감격”[아름다운예술인상]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004881265</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004881265"/>
-        <updated>2021-11-18T10:28:08.037Z</updated>
-        <content type="html"><![CDATA[“변함 없이 책임·의무 다할 것” 배우이자 신영균예술문화재단 이사장인 안성기가 올해의 ‘아름다운 예술인상’ 시상식에 참석해 축사에 나섰다. 안성기 이사장은 18일 오후 서울 을지로3가 명보아트홀에서 열린 제11회 ‘]]></content>
     </entry>
 </feed>
