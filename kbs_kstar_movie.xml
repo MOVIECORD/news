@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 12:37:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 13:28:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['아담스 패밀리 2' 10만 관객 돌파]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=174326</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=174326</guid>
+            <pubDate>Sun, 21 Nov 2021 13:25:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=174326">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211121214312_27caa96a565ba4d3382e371926d776b6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=174326">'아담스 패밀리 2' 10만 관객 돌파</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211121214312_27caa96a565ba4d3382e371926d776b6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["넷플릭스로부터, 신세계로부터" 오늘 첫 방송]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=174003</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=173478">“우리가 자영을 만났을 때” 섹시코믹청춘물 ‘연애 빠진 로맨스’ 시사회</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211118090653_ec06abe65ec65aa24a23fbf3d37d2d15.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 가상 시뮬레이션 예능 '신세계로부터' 제작발표회]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=173422</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=173422</guid>
-            <pubDate>Wed, 17 Nov 2021 23:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=173422">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211118065133_346c31136c7d0a68ccce343451a80fda.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=173422">넷플릭스 가상 시뮬레이션 예능 '신세계로부터' 제작발표회</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211118065133_346c31136c7d0a68ccce343451a80fda.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
