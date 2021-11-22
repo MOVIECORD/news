@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 14:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 15:27:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,22 +56,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F22%2FSpoChosun%2F20211122101004725djtw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['랑종', 태국 영화 최초 1억 바트 돌파..한국→아시아로 이어진 흥행]]></title>
-            <link>https://movie.v.daum.net/v/20211122081501830</link>
-            <guid>https://movie.v.daum.net/v/20211122081501830</guid>
-            <pubDate>Mon, 22 Nov 2021 01:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 올여름 국내에서 돌풍을 일으켰던 공포 영화 '랑종'(감독 반종 피산다나쿤)이 태국, 인도네시아, 대만, 싱가포르 등의 박스오피스를 석권하며 멈추지 않는 흥행을 이어가고 있다. '랑종'은 태국 산골마을, 신내림이 대물림되는 무당 가문의 피에 관한 세 달간의 기록을 그린 영화. 태국 제작사인 GDH에 따르면 '랑종'은 지난]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F22%2FSBSfunE%2F20211122081503834kbjd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식] 조한선, '스토브리그' 이후 2년 만에 '타이거 마스크'로 컴백 12월 개봉 확정]]></title>
-            <link>https://movie.v.daum.net/v/20211122084729490</link>
-            <guid>https://movie.v.daum.net/v/20211122084729490</guid>
-            <pubDate>Mon, 22 Nov 2021 01:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 배우 조한선이 코믹 액션 영화 '타이거 마스크'(염정원 감독, 그노스·파이브데이 꿀잼컴퍼니 제작)로 12월 스크린에 컴백한다. 2021년 연말, 국내 전통무술을 내세운 K히어로가 관객들과 만난다. 바로 12월 개봉을 확정한 '타이거 마스크'가 그 주인공이다. 개봉 소식과 함께 공개된 티저 포스터는 타이틀이자, 극중]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F22%2FSpoChosun%2F20211122084729768verh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['고스트 버스터즈 라이즈' 1위, 인기 시리즈의 성공적 귀환]]></title>
             <link>https://movie.v.daum.net/v/20211122140302493</link>
             <guid>https://movie.v.daum.net/v/20211122140302493</guid>
@@ -96,20 +80,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F22%2Fstarnews%2F20211122100946134jwel.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['랑종', 태국 영화 최초 1억 바트 돌파..한국→아시아로 이어진 흥행]]></title>
+            <link>https://movie.v.daum.net/v/20211122081501830</link>
+            <guid>https://movie.v.daum.net/v/20211122081501830</guid>
+            <pubDate>Mon, 22 Nov 2021 01:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 올여름 국내에서 돌풍을 일으켰던 공포 영화 '랑종'(감독 반종 피산다나쿤)이 태국, 인도네시아, 대만, 싱가포르 등의 박스오피스를 석권하며 멈추지 않는 흥행을 이어가고 있다. '랑종'은 태국 산골마을, 신내림이 대물림되는 무당 가문의 피에 관한 세 달간의 기록을 그린 영화. 태국 제작사인 GDH에 따르면 '랑종'은 지난]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F22%2FSBSfunE%2F20211122081503834kbjd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식] 조한선, '스토브리그' 이후 2년 만에 '타이거 마스크'로 컴백 12월 개봉 확정]]></title>
+            <link>https://movie.v.daum.net/v/20211122084729490</link>
+            <guid>https://movie.v.daum.net/v/20211122084729490</guid>
+            <pubDate>Mon, 22 Nov 2021 01:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 배우 조한선이 코믹 액션 영화 '타이거 마스크'(염정원 감독, 그노스·파이브데이 꿀잼컴퍼니 제작)로 12월 스크린에 컴백한다. 2021년 연말, 국내 전통무술을 내세운 K히어로가 관객들과 만난다. 바로 12월 개봉을 확정한 '타이거 마스크'가 그 주인공이다. 개봉 소식과 함께 공개된 티저 포스터는 타이틀이자, 극중]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F22%2FSpoChosun%2F20211122084729768verh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['고스트버스터즈 라이즈', 꿀잼 관전 포인트3 공개]]></title>
             <link>https://movie.v.daum.net/v/20211122100816551</link>
             <guid>https://movie.v.daum.net/v/20211122100816551</guid>
             <pubDate>Mon, 22 Nov 2021 10:29:20 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]새로운 서스펜스 액션 어드벤처 '고스트버스터즈 라이즈'(수입/배급: 소니 픽쳐스)가 극장의 대형 스크린으로 영화를 오롯이 즐길 수 있는 관전 포인트 세 가지를 공개한다. # 할리우드 대표 MZ세대! ‘뉴 고스트버스터즈’로 액션 어드벤처의 세대교체 예고! '고스트버스터즈 라이즈'의 첫 번째 관전 포인트는 바로 뉴 제너레이션 배우]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F22%2Fmydaily%2F20211122100816526rqgs.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['스파이더맨:노 웨이 홈' 역대 빌런 총출동..스케일도 업그레이드]]></title>
-            <link>https://movie.v.daum.net/v/20211122080853735</link>
-            <guid>https://movie.v.daum.net/v/20211122080853735</guid>
-            <pubDate>Sun, 21 Nov 2021 23:26:50 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '스파이더맨: 노 웨이 홈'에 닥터 옥토퍼스부터 그린 고블린, 일렉트로 등 역대 스파이더맨 시리즈 빌런이 총출동한다. 12월 15일 개봉하는 영화 '스파이더맨: 노 웨이 홈'은 정체가 탄로난 스파이더맨 '피터 파커'(톰 홀랜드)가 문제를 해결하기 위해 '닥터 스트레인지'(베네딕트 컴버배치)의 도움을 받던 중 뜻하지 않게 멀티버스가]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F22%2Fnewsen%2F20211122080853925jeal.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[유세윤 '이상존재' 웃음 뒤에 감춰진 공포..15일간의 기록물]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Mon, 22 Nov 2021 08:30:36 GMT</pubDate>
             <content:encoded><![CDATA[[성하훈 기자] ▲ &nbsp;&lt;장르만 로맨스&gt; 한 장면    ⓒ  (주)NEW  &nbsp;한국영화 &lt;장르만 로맨스&gt;가 지난 추석 연휴 이후 모처럼 박스오피스 1위에 올라섰다. 올해 점유율에서 한국영화가 외국영화에 절대적으로 밀리고 있는데, 지난 9월 29일 개봉한 &lt; 007 노 타임 투 다이 &gt; 이후 50일 만에 한국영화가 1위를 차지한 것이다. 17일 개]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F22%2Fohmynews%2F20211122150001864izla.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['스파이더맨:노 웨이 홈' 역대 빌런 총출동..스케일도 업그레이드]]></title>
+            <link>https://movie.v.daum.net/v/20211122080853735</link>
+            <guid>https://movie.v.daum.net/v/20211122080853735</guid>
+            <pubDate>Sun, 21 Nov 2021 23:26:50 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '스파이더맨: 노 웨이 홈'에 닥터 옥토퍼스부터 그린 고블린, 일렉트로 등 역대 스파이더맨 시리즈 빌런이 총출동한다. 12월 15일 개봉하는 영화 '스파이더맨: 노 웨이 홈'은 정체가 탄로난 스파이더맨 '피터 파커'(톰 홀랜드)가 문제를 해결하기 위해 '닥터 스트레인지'(베네딕트 컴버배치)의 도움을 받던 중 뜻하지 않게 멀티버스가]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F22%2Fnewsen%2F20211122080853925jeal.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[무술감독 출신 신재명 "'핫 블러드' 액션장면, 대역 쓰지 않았죠"]]></title>
@@ -152,20 +152,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F22%2FSpoChosun%2F20211122072041203rdiu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[배우 설경구 '자산어보'로 남우주연상 3관왕, '황금촬영상영화제']]></title>
-            <link>https://movie.v.daum.net/v/20211121184141684</link>
-            <guid>https://movie.v.daum.net/v/20211121184141684</guid>
-            <pubDate>Mon, 22 Nov 2021 01:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[배우 설경구가 황금촬영상영화제에서 ‘자산어보’로 남우주연상을 수상했다. 설경구는 어제(21일) 열린 제41회 황금촬영상 영화제에서 영화 ‘자산어보’(감독 이준익)로 남우주연상을 수상하는 영예를 안았다. 또한 설경구는 지난 금요일(19일) 제 16회 ‘대한민국 대학 영화제’ 에서도 남우주연상을 수상하며 올해 남우주연상 3관왕의 영예를 안았다. 설경구는 이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F21%2FiMBC%2F20211121184145975fqfk.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[국내 1100만 동원 '킹스맨' 시리즈, 매튜 본 감독 귀환]]></title>
             <link>https://movie.v.daum.net/v/20211122093433105</link>
             <guid>https://movie.v.daum.net/v/20211122093433105</guid>
             <pubDate>Mon, 22 Nov 2021 14:24:13 GMT</pubDate>
             <content:encoded><![CDATA[한국인이 사랑하는 스파이물의 거장이 돌아온다. 전 세계에 스파이 액션 흥행 신드롬을 일으킨 매튜 본 감독이 '킹스맨' 시리즈의 프리퀄이자 베일에 싸여 있던 독립 정보기관 킹스맨의 탄생을 이야기하는 영화 '킹스맨: 퍼스트 에이전트(매튜 본 감독)'로 12월 극장가를 찾는다. '킹스맨: 퍼스트 에이전트'는 수백만 명의 생명을 위협할 전쟁을 모의하는 역]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F22%2Filgansports%2F20211122093435116hckz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 설경구 '자산어보'로 남우주연상 3관왕, '황금촬영상영화제']]></title>
+            <link>https://movie.v.daum.net/v/20211121184141684</link>
+            <guid>https://movie.v.daum.net/v/20211121184141684</guid>
+            <pubDate>Mon, 22 Nov 2021 01:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[배우 설경구가 황금촬영상영화제에서 ‘자산어보’로 남우주연상을 수상했다. 설경구는 어제(21일) 열린 제41회 황금촬영상 영화제에서 영화 ‘자산어보’(감독 이준익)로 남우주연상을 수상하는 영예를 안았다. 또한 설경구는 지난 금요일(19일) 제 16회 ‘대한민국 대학 영화제’ 에서도 남우주연상을 수상하며 올해 남우주연상 3관왕의 영예를 안았다. 설경구는 이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F21%2FiMBC%2F20211121184145975fqfk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
