@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 11:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 12:41:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] 지옥: 두 개의 삶 ‘연상호 지옥의 시발점’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=174565</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=174565</guid>
+            <pubDate>Mon, 22 Nov 2021 12:36:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=174565">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211122173853_f9c5c1a76585e3c9812dc0dd9085275c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=174565">[리뷰] 지옥: 두 개의 삶 ‘연상호 지옥의 시발점’</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211122173853_f9c5c1a76585e3c9812dc0dd9085275c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김희애- 문소리 "우린, 퀸메이커']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=174533</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=173811">윤계상-고아성, 송선미와 본격적인 싸움 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211119095315_136db0474a625c3db81e42d884c84c9e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러브캐처 인 서울  “운명의 짝 만나고 싶다”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=173740</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=173740</guid>
-            <pubDate>Fri, 19 Nov 2021 04:30:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=173740">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211119084358_36fb20586a21458215ab6b47cc6b0058.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=173740">러브캐처 인 서울  “운명의 짝 만나고 싶다”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211119084358_36fb20586a21458215ab6b47cc6b0058.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
