@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-11-22T20:27:54.937Z</updated>
+    <updated>2021-11-22T21:23:56.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조진웅X최우식→박희순 ‘경관의 피’ 긴장감 폭발 1차 예고편]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000514380</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000514380"/>
+        <updated>2021-11-22T21:22:51.974Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 조진웅, 최우식 주연 '경관의 피'의 1차 예고편이 공개됐다. 오는 1월 개봉하는 영화 '경관의 피'(감독 이규만)는 출처불명의 막대한 후원금을 받으며 독보적인 검거실적을 자랑하는 광수대 에이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['승리호' → '고요의 바다'…한국도 우주로 무대 넓힌다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010847697</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003557591"/>
         <updated>2021-11-22T10:29:00.970Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 김나라 기자] 개그맨 유세윤이 페이크 공포 다큐물 '이상존재'로 스크린 첫 주연 데뷔에 나섰다. 22일 오후 서울 광진구 롯데시네마 건대입구에선 페이크 공포 다큐멘터리 영화 '이상존재'의 언론시사회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어디까지가 진짜? 유세윤의 페이크 다큐 ‘이상존재’[종합]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004882766</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004882766"/>
-        <updated>2021-11-22T10:29:00.974Z</updated>
-        <content type="html"><![CDATA[유세윤X임우일 “스크린 데뷔 신기…공포도 공감되길” 어디까지가 진짜고 어디까지가 가짜인지 헷갈린다. 그 아슬 아슬한 묘미를 제대로 살린, 유세윤 주연의 페이크 다큐 '이상 존재'(감독 차진우)다. 유세윤은 22일 오]]></content>
     </entry>
 </feed>
