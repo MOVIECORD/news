@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-11-23T18:29:30.529Z</updated>
+    <updated>2021-11-23T19:20:52.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['고스트버스터즈' '매트릭스' 부활…과거 명성 이을까]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005092614</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005092614"/>
+        <updated>2021-11-23T19:19:41.213Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 박미애 기자] 1980~90년대에 센세이션을 일으킨 추억의 명화들이 속편으로 돌아온다. 내달 1일 개봉하는 ‘고스트버스터즈 라이즈’와 12월 개봉 예정인 ‘매트릭스:리저렉션’이 그것. 두 영화는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유체이탈자' 예매율 1위…윤계상 '범죄도시' 흥행 이을까 [오늘의 개봉]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004516002</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004883250"/>
         <updated>2021-11-23T08:30:21.978Z</updated>
         <content type="html"><![CDATA['송해 1927' '1984 최동원' 등 다큐 영화 2편 개봉 '세월아 비켜라/ 내 나이가 어때서/ 사랑하기 딱 좋은 나이인데~.' 가수 오승근이 2012년 부른 트로트의 후렴구다. 중장년이라면 누구나 다 흥얼거릴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오정세X류현경, '장르만 로맨스' 빛내는 명품 신스틸러]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001377077</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001377077"/>
-        <updated>2021-11-23T08:30:21.982Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김수정 인턴기자) 오정세 류현경이 영화 '장르만 로맨스'를 더욱 빛냈다. '장르만 로맨스'는 평범하지 않은 로맨스로 얽힌 이들과 만나 일도 인생도 꼬여가는 베스트셀러 작가의 버라이어티한 사생활을 그린]]></content>
     </entry>
 </feed>
