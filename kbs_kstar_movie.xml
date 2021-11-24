@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 23:27:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 01:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니플러스 ‘호크아이’ 에피소드 1 & 2편 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=174851</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=174851</guid>
+            <pubDate>Wed, 24 Nov 2021 01:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=174851">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211124100529_711fb393e57795e5523d9f66a920dcc8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=174851">디즈니플러스 ‘호크아이’ 에피소드 1 &amp; 2편 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211124100529_711fb393e57795e5523d9f66a920dcc8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[연말기획] 2021년 최고의 한국 영화 BEST 3, 자산어보-모가디슈-액션히어로]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=174747</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=173998">'애플' 닥터 브레인, 오늘 에피소드3 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211119174107_25ac897023fe1993ccb24ce109b71af4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최민식 - 송해성 감독 '20년만에 만나는 파이란' 스페셜GV]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=173872</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=173872</guid>
-            <pubDate>Fri, 19 Nov 2021 10:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=173872">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211119155651_ab8eecd061ed5957f72e728a63f045b7.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=173872">최민식 - 송해성 감독 '20년만에 만나는 파이란' 스페셜GV</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211119155651_ab8eecd061ed5957f72e728a63f045b7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
