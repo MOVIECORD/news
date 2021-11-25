@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-11-25T18:30:23.553Z</updated>
+    <updated>2021-11-25T19:22:02.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['명탐정 코난: 비색의 탄환', 2일 재개봉…역대급 액션]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010855223</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010855223"/>
+        <updated>2021-11-25T19:21:16.536Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]윤준호 인턴 기자 = '명탐정 코난: 비색의 탄환'이 12월 2일 재개봉을 확정했다. '명탐정 코난: 비색의 탄환'은 진공 초전도 리니어의 개통을 앞두고 후원사 대표들이 연쇄 납치를 당하자, 명탐정 코]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[새영화]12시간마다 다른 사람이 된다…할리우드도 반한 화끈한 액션]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000870115</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003007707"/>
         <updated>2021-11-25T08:29:57.817Z</updated>
         <content type="html"><![CDATA[최민철, 이채영, 이지승 감독, 정혜인, 김사희가 25일 서울 롯데시네마 건대입구점에서 진행된 영화 '여타짜'(감독 이지승) 언론시사회에 참석해 포즈를 취하고 있다. 포커판에 뛰어든 '미미'가 미스터리한 타짜 '오자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['여타짜 화이팅'[★포토]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003007706</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003007706"/>
-        <updated>2021-11-25T08:29:57.819Z</updated>
-        <content type="html"><![CDATA[배우 최민철, 이채영, 정혜인, 김사희가 25일 서울 롯데시네마 건대입구점에서 진행된 영화 '여타짜'(감독 이지승) 언론시사회에 참석해 포즈를 취하고 있다. 포커판에 뛰어든 '미미'가 미스터리한 타짜 '오자와'를 만]]></content>
     </entry>
 </feed>
