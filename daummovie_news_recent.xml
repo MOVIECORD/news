@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-11-25T19:22:02.116Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 25 Nov 2021 20:27:45 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['연애 빠진 로맨스' 전체 2위로 순위 상승..'유체이탈자' 정상[박스오피스]]]></title>
+            <link>https://v.daum.net/v/20211126051452875</link>
+            <guid>https://v.daum.net/v/20211126051452875</guid>
+            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '유체이탈자'와 '연애 빠진 로맨스'가 나란히 박스오피스 1,2위를 차지했다. 11월 26일 영화진흥위원회 통합전산망 집계에 따르면 25일 영화 '유체이탈자'(감독 윤재근)가 4만3,508명을 동원하며 이틀 연속 전체 박스오피스 1위를 차지했다. 24일 개봉한 '유체이탈자'의 이틀 간 누적 관객은 11만3,700명이다. 같은 날]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F26%2Fnewsen%2F20211126051454312orfy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
