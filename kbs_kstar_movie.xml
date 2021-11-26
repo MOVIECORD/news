@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 11:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 12:38:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[연말기획] 2021년 최악의 한국 영화 WORST 3, 미션 파서블-싱크홀-새해전야]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=175507</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=175507</guid>
+            <pubDate>Fri, 26 Nov 2021 12:35:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=175507">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211126174935_8ac182a347cbf3c7220bd564b1301d26.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=175507">[연말기획] 2021년 최악의 한국 영화 WORST 3, 미션 파서블-싱크홀-새해전야</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211126174935_8ac182a347cbf3c7220bd564b1301d26.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['완다비전', OST까지 완벽한 완다와 비전의 이야기]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=175469</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=174979">이유비 멜로영화 '러브 어페어' 캐스팅</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211124140811_470a4f9a345d19d207a51a3fbfbdce83_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] 연애 빠진 로맨스 “지금, 뭘 기대하시나요” (정가영 감독)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=175055</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=175055</guid>
-            <pubDate>Wed, 24 Nov 2021 16:35:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=175055">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211124163406_a4a86ed64fc4b809ad42530909df81d0.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=175055">[리뷰] 연애 빠진 로맨스 “지금, 뭘 기대하시나요” (정가영 감독)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211124163406_a4a86ed64fc4b809ad42530909df81d0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
