@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-11-27T14:24:22.330Z</updated>
+    <updated>2021-11-27T15:27:03.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스크린에 부는 '뉴트로 바람'…화제작 속속 개봉 [TF확대경]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000118465</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000118465"/>
+        <updated>2021-11-27T15:26:03.139Z</updated>
+        <content type="html"><![CDATA['고스트버스터즈'·'매트릭스'·'웨스트 사이드 스토리' 재탄생 뉴트로(Newtro). 새로움(New)과 복고(Retro)를 합친 신조어로 복고를 새롭게 즐기는 경향을 말한다. 뉴트로 콘셉트의 화제작들이 겨울 극장가를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英 가디언 “‘지옥’, 미친 듯 좋은 작품…수십 년 회자될 드라마”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000834314</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004518031"/>
         <updated>2021-11-27T05:22:40.671Z</updated>
         <content type="html"><![CDATA[[OSEN=김성락 기자] 27일 오후 서울 동작구 사당동 메가박스 이수에서 영화 '장르만 로맨스' 무대인사 행사가 진행됐다. 배우 류승룡, 이유영, 성유빈, 무진성, 조은지 감독이 관객과 이야기를 나누고 있다. 20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]성유빈,'다른 분 먼저']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004518029</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004518029"/>
-        <updated>2021-11-27T05:22:40.671Z</updated>
-        <content type="html"><![CDATA[[OSEN=김성락 기자] 27일 오후 서울 동작구 사당동 메가박스 이수에서 영화 '장르만 로맨스' 무대인사 행사가 진행됐다. 배우 성유빈이 관객과 이야기를 나누고 있다. 2021.11.27 /ksl0919@osen.]]></content>
     </entry>
 </feed>
