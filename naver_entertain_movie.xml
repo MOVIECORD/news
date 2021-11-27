@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-11-27T19:21:32.475Z</updated>
+    <updated>2021-11-27T20:26:03.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰]연상호 "이런 격렬한 호불호를 원했다"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010857503</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010857503"/>
+        <updated>2021-11-27T20:25:19.895Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 넷플릭스 '지옥' 연상호 감독 인터뷰 "불확실성이 만들어내는 지옥 그려" "이때 나오는 휴머니즘이 궁금했다" '부산행' 이후 쉼 없이 작품 활동 중 "영화감독이 내 일, 난 일을 할 뿐야" [서울=뉴시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스크린에 부는 '뉴트로 바람'…화제작 속속 개봉 [TF확대경]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000118465</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004518032"/>
         <updated>2021-11-27T06:29:15.439Z</updated>
         <content type="html"><![CDATA[[OSEN=김성락 기자] 27일 오후 서울 동작구 사당동 메가박스 이수에서 영화 '장르만 로맨스' 무대인사 행사가 진행됐다. 배우 무진성이 상영관을 나서고 있다. 2021.11.27 /ksl0919@osen.co.k]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]장르만 로맨스,'즐거운 무대인사']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004518031</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004518031"/>
-        <updated>2021-11-27T05:22:40.671Z</updated>
-        <content type="html"><![CDATA[[OSEN=김성락 기자] 27일 오후 서울 동작구 사당동 메가박스 이수에서 영화 '장르만 로맨스' 무대인사 행사가 진행됐다. 배우 류승룡, 이유영, 성유빈, 무진성, 조은지 감독이 관객과 이야기를 나누고 있다. 20]]></content>
     </entry>
 </feed>
