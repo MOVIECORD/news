@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-11-28T10:30:03.713Z</updated>
+    <updated>2021-11-28T11:21:25.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 '타짜' '파이란' 고화질로 다시 보세요]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004885597</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004885597"/>
+        <updated>2021-11-28T11:20:43.358Z</updated>
+        <content type="html"><![CDATA[화면 잡티 줄이고 색조 개선 극장가·OTT 재개봉 잇따라 "고니를 아냐고요?" 영화 '타짜'의 고니가 돌아온다. '묻고 더블로 가' 곽철용, '아수라발발타' 평경장, '이대 나온 여자' 정마담, '동작 그만' 아귀,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이승기 "여전히 나를 고등학생 취급하는 선배 있어…소통 힘들다"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005751481</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=016&amp;aid=0001917827"/>
         <updated>2021-11-28T01:14:42.431Z</updated>
         <content type="html"><![CDATA[[헤럴드경제=민성기 기자] 연인이었던 배우 김혜수와 유해진이 결별 10년 만에 동반 화보를 촬영해 화제다. 씨네21은 지난 26일 15년 만에 디지털 리마스터링 버전으로 재개봉을 알린 영화 ‘타짜’의 주역들이 모인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TEN피플] '여자 홍상수' 정가영 감독, 욕 대신 공감 자극하는 '프로 도발러']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000514407</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000514407"/>
-        <updated>2021-11-28T01:14:42.434Z</updated>
-        <content type="html"><![CDATA[[텐아시아=노규민 기자] ≪노규민의 영화人싸≫ 노규민 텐아시아 영화팀장이 매주 일요일 오전 영화계 인물에 대한 이야기를 전합니다. 배우, 감독, 작가, 번역가, 제작사 등 영화 생태계 구성원들 가운데 오늘뿐 아니라]]></content>
     </entry>
 </feed>
