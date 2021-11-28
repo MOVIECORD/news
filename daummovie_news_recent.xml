@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-11-28T21:22:42.934Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 28 Nov 2021 22:25:54 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤계상 '유체이탈자', 주말 1위 지켰다..누적 36만명↑ [Nbox]]]></title>
+            <link>https://v.daum.net/v/20211129072019533</link>
+            <guid>https://v.daum.net/v/20211129072019533</guid>
+            <pubDate>Sun, 28 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 윤계상 주연 영화 '유체이탈자'가 박스오피스 주말 1위를 지켰다. 29일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '유체이탈자'는 지난 28일 하루 9만 7207명을 동원해 박스오피스 1위를 차지했다. 누적관객수는 36만 2426명. 지난 24일 개봉한 '유체이탈자'는 첫날부터 동시기 개봉작들을 제치고 박스오]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F29%2FNEWS1%2F20211129072019632vaah.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
