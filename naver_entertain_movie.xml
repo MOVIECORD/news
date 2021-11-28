@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-11-28T09:26:44.445Z</updated>
+    <updated>2021-11-28T10:30:03.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이승기 "여전히 나를 고등학생 취급하는 선배 있어…소통 힘들다"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005751481</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005751481"/>
+        <updated>2021-11-28T10:28:45.765Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 안태현 기자 = '집사부일체' 이승기가 소통의 부재로 겪은 힘든 일에 대해 얘기했다. 28일 오후 방송된 SBS 예능 프로그램 '집사부일체'에서는 소통 전문가 김창옥이 사부로 출연해 이승기, 김동현,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잊고 싶었던 11살의 나, 왕따 낙인 지워준 한마디]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002334115</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000514407"/>
         <updated>2021-11-28T01:14:42.434Z</updated>
         <content type="html"><![CDATA[[텐아시아=노규민 기자] ≪노규민의 영화人싸≫ 노규민 텐아시아 영화팀장이 매주 일요일 오전 영화계 인물에 대한 이야기를 전합니다. 배우, 감독, 작가, 번역가, 제작사 등 영화 생태계 구성원들 가운데 오늘뿐 아니라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] '유체이탈자' 윤계상 "인생 캐릭터? 장첸도 강이안도 있었으면 해요"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0003990253</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0003990253"/>
-        <updated>2021-11-28T01:14:42.436Z</updated>
-        <content type="html"><![CDATA[[서울경제] 모든 연기에 진심이 담겼다. 어떻게 하면 그 인물처럼 될 수 있을지에 대한 고민으로 가득 차 있다. “목숨을 걸었다”고 표현할 만큼 거친 액션도 직접 소화해 낸다. 어느 새 배우의 향기가 짙어진 윤계상이]]></content>
     </entry>
 </feed>
