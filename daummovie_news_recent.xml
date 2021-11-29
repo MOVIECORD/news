@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-11-29T19:22:59.820Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 29 Nov 2021 20:28:48 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 전종서 "로맨스 연기 생각 없었는데..시나리오 끌려"①]]></title>
+            <link>https://v.daum.net/v/20211130050023973</link>
+            <guid>https://v.daum.net/v/20211130050023973</guid>
+            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[현실 연애 연기 호평…"실제로 술 한 잔도 못 마셔" [더팩트ㅣ이한림 기자] 배우 전종서는 과거 로맨스 연기를 해 볼 생각이 없다고 밝힌 바 있다. 그러나 전종서는 현실 로맨스 영화 '연애 빠진 로맨스'에 차진 로맨스 연기를 가감 없이 선보인다. 장르 선택에 대한 변화보다는 스타일리시한 시나리오에 끌렸다고 웃으며 답한 전종서를 만나 영화배우 전종서와 사람]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2FTHEFACT%2F20211130050024503xpwo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["영화 속 여자 연애 이야기 조심스러워 할 필요 있나요?"]]></title>
+            <link>https://v.daum.net/v/20211130043031839</link>
+            <guid>https://v.daum.net/v/20211130043031839</guid>
+            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[노골적이다. 남녀 이름부터 심상치 않다. 잡지사 기자인 남자는 박우리(손석구)다. 유튜브 콘텐츠를 만드는 여자는 함자영(전종서)이다. 두 사람은 데이팅 앱 ‘오작교미’를 통해 인연을 맺는다. 남자는 섹스칼럼을 쓰기 위한 직업적인 목표에서, 여자는 친구들과의 내기에서 이기기 위해 즉석 만남에 나선다. 두 사람은 부담 없이 육체적 관계를 즐긴다. 목표가 명확하]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202111%2F30%2Fhankooki%2F20211130043033653zizx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
