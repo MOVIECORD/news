@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-11-29T09:26:34.523Z</updated>
+    <updated>2021-11-29T10:28:56.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['매트릭스: 리저렉션', 전설의 새 주역들..캐릭터포스터 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003504059</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003504059"/>
+        <updated>2021-11-29T10:28:11.279Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] ‘매트릭스: 리저렉션’의 6종 캐릭터 포스터가 공개됐다. 전편에 이어 SF 액션 블록버스터의 전설이 될 ‘매트릭스: 리저렉션’은 인류를 위해 운명처럼 다시 깨어난 구원자 네오가 더 진보된]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기억하지 않은 역사는 되풀이된다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046004</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000330972"/>
         <updated>2021-11-29T06:30:21.917Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]‘나를 불러줘’에 배우 이유리가 출연한다. 30일 방송되는 MBC 에브리원 ‘나를 불러줘’에는 이유리가 일곱 번째 의뢰인으로 출격, 숨겨둔 끼를 펼쳐보인다. '나를 불러줘'는 유세윤, 장도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['매트릭스: 리저렉션' 전설의 주역…포스터 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010859800</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010859800"/>
-        <updated>2021-11-29T06:30:21.918Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]윤준호 인턴 기자 = 영화 '매트릭스: 리저렉션'의 6종 캐릭터 포스터가 공개됐다. 29일 공개된 '매트릭스: 리저렉션'의 6종 캐릭터 포스터는 특유의 감각적인 비주얼이 돋보인다. '매트릭스'는 가상현]]></content>
     </entry>
 </feed>
