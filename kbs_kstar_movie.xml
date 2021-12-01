@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 04:35:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 05:24:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] 유체이탈자 “이 안에 이안 있다!” (윤재근 감독,2021)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=176612</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=176612</guid>
+            <pubDate>Wed, 01 Dec 2021 05:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=176612">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211201134939_ea4d89b8285e5f90b3cb3d3229cf0be6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=176612">[리뷰] 유체이탈자 “이 안에 이안 있다!” (윤재근 감독,2021)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211201134939_ea4d89b8285e5f90b3cb3d3229cf0be6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['크라임 퍼즐' 오초희 종영 소감 "항상 즐겁고 행복한 촬영"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=176562</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=175994">한지민부터 이동욱까지, 연말 감성 자극하는 '해피 뉴 이어'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211129110241_c983c621e681e990fe87d8a4de9b607e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['그림자 미녀'로 변한 심달기의 완벽한 싱크로율과 열연]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=175980</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=175980</guid>
-            <pubDate>Mon, 29 Nov 2021 02:36:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=175980">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211129105120_f42809afa56cc39edc8c67ee9c39cf8a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=175980">'그림자 미녀'로 변한 심달기의 완벽한 싱크로율과 열연</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211129105120_f42809afa56cc39edc8c67ee9c39cf8a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
