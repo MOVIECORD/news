@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-02T11:21:50.956Z</updated>
+    <updated>2021-12-02T12:39:36.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['씽2게더' 메인예고편 공개, "더 화려하고 폭발적인 글로벌 스테이지"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003559747</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003559747"/>
+        <updated>2021-12-02T12:38:51.197Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]2022년 첫 번째 엔터테이닝 무비 '씽2게더'(수입/배급: 유니버설 픽쳐스)가 1월 5일(수) 개봉 확정과 함께 화려한 스테이지를 담은 메인 예고편을 공개했다. '씽2게더'는 오디션 그]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘지옥’, 공포와 마주쳤을 때 인간의 반응은…]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=016&amp;aid=0001920047</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003505320"/>
         <updated>2021-12-02T08:28:59.119Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=이미지 기자] 윤아가 한지민과의 투샷을 공개해 화제다. 그룹 소녀시대 멤버 겸 배우 윤아는 지난 1일 오후 자신의 인스타그램을 통해 "지민언니는 천사가 확실한 것 같아 #언니짱 #영화 #해피뉴이어"라는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['도쿄 리벤저스', 12월 22일 개봉…메가히트 원작 싱크로율 100%]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000331590</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000331590"/>
-        <updated>2021-12-02T08:28:59.120Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]메가히트 원작의 웰메이드 실사화, '도쿄 리벤저스'가 오는 22일 개봉을 확정하고 메인 포스터와 메인 예고편을 공개했다. '도쿄 리벤저스'는 희망없이 살아가던 청년 타케미치(키타무라 타쿠미]]></content>
     </entry>
 </feed>
