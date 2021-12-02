@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 07:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 08:29:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김성주 문세윤 한선화, 2021 KBS연예대상 MC]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=176982</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=176982</guid>
+            <pubDate>Thu, 02 Dec 2021 08:28:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=176982">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211202172652_082cac7b92b79f121c88a208faa286b0.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=176982">김성주 문세윤 한선화, 2021 KBS연예대상 MC</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211202172652_082cac7b92b79f121c88a208faa286b0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어남선생 류수영의 연어초밥 레시피 공개!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=176949</link>
@@ -347,23 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%20%EC%8B%9C%EC%A6%8C3">박원숙의 같이 삽시다 시즌3</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211202010443_0ce2b0c48e0c7ea1b394ab5a4e298d65_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[제작발표회] 진성-손헌수-미키광수, 국민들의 일꾼 되다! '일꾼의 탄생']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=176731</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=176731</guid>
-            <pubDate>Wed, 01 Dec 2021 08:29:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=176731">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211201164730_98531798b1c26870a038e2664e450129.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=176731">[제작발표회] 진성-손헌수-미키광수, 국민들의 일꾼 되다! '일꾼의 탄생'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211201164730_98531798b1c26870a038e2664e450129.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
