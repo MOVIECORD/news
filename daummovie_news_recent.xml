@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-12-02T21:22:39.003Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 02 Dec 2021 22:26:19 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송새벽, 내년 기대작 '특송'서 깡패와 경찰 오가는 역대급 빌런]]></title>
+            <link>https://v.daum.net/v/20211203071419923</link>
+            <guid>https://v.daum.net/v/20211203071419923</guid>
+            <pubDate>Thu, 02 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 모신정 기자] 개성 강한 존재감을 자랑하는 장르 불문 연기파 배우 송새벽이 범죄 오락 액션 '특송'의 깡패로 투잡 뛰는 극악무도한 경찰 ‘경필’로 새해 스크린을 뜨겁게 달굴 예정이다. 매작품마다 독보적인 캐릭터 소화력으로 극찬을 받고 있는 배우 송새벽이 2022년 첫 범죄 오락 액션 '특송'(박대민 감독)의 극악무도한 경찰 ‘경필’역으로 관]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F03%2FSpoHankook%2F20211203071420152rrom.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["거장들이 몰려온다"..연말 수놓을 신작 '기대감 상승' [TF확대경]]]></title>
+            <link>https://v.daum.net/v/20211203070013684</link>
+            <guid>https://v.daum.net/v/20211203070013684</guid>
+            <pubDate>Thu, 02 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[제인 캠피온·파올로 소렌티노·애덤 맥케이 넷플릭스 영화 공개 [더팩트｜원세나 기자] 거장 감독들이 선보이는 넷플릭스 영화들이 2021년 연말을 화려하게 장식한다. 설명이 필요 없는 유명 감독들이 넷플릭스 신작으로 영화 팬들 곁을 찾는다. 제인 캠피온의 '파워 오브 도그', 파올로 소렌티노의 '신의 손', 애덤 맥케이의 '돈 룩 업'이 12월 차례로 공개된]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F03%2FTHEFACT%2F20211203070016713kuep.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[낯선 시선으로 보는 '레인코트 킬러: 유영철을 추격하다' [넷플릭스 다큐깨기⑥]]]></title>
+            <link>https://v.daum.net/v/20211203070002659</link>
+            <guid>https://v.daum.net/v/20211203070002659</guid>
+            <pubDate>Thu, 02 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[어딘가로 출근하는 사람처럼 보였을까. 밤이 되면 옷을 챙겨 입고 직접 개조한 장비를 챙겨 집밖으로 나간다. 거리를 걸으며 오늘은 어디로 갈지 고민한다. 어느 날은 부유층이 살고 있는 동네로, 어느 날은 영등포로 향해 길거리를 헤맸다. 2003년 9월부터 10개월 동안 20명의 사람을 죽인 연쇄살인범 유영철이 서울에서 보냈을 어느 날의 풍경이다. 지난 10]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F03%2Fkukinews%2F20211203070003524qydo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
