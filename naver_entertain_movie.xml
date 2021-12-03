@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-03T14:25:12.304Z</updated>
+    <updated>2021-12-03T15:27:40.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['라스트 나잇 인 소호' 안야 테일러 조이, 고혹적 분위기..흑백 비하인드스틸]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003505847</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003505847"/>
+        <updated>2021-12-03T15:27:01.046Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] '라스트 나잇 인 소호'가 1960년대 런던의 고혹적인 분위기가 담긴 흑백 비하인드 스틸을 공개했다. '라스트 나잇 인 소호'는 매일 밤 꿈에서 과거 런던의 매혹적인 가수 ‘샌디’를 지켜]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조승우X김혜수 '타짜', 심장쫄깃 한판 승부..미공개 스틸 대방출]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003505832</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046068"/>
         <updated>2021-12-03T09:24:29.110Z</updated>
         <content type="html"><![CDATA[폴 버호벤 감독은 베네데타를 &lt;원초적 본능&gt;(1992), &lt;쇼걸&gt;(1995), &lt;블랙북&gt;(2006) 그리고 &lt;엘르&gt;(2016) 속 여자주인공의 먼 친척쯤으로 봐도 되냐는 질문에 그렇다고 답했다. 버호벤이 비춘 여성]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다음 주인공은 예수?]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046067</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046067"/>
-        <updated>2021-12-03T09:24:29.112Z</updated>
-        <content type="html"><![CDATA[여든이 훌쩍 넘은 폴 버호벤 감독에게는 필생의 프로젝트가 남아 있다. 마흔 이후로, 그는 예수에 대한 영화를 만들겠다는 일념하에 성경은 물론 예수에 관한 어떤 서적이든 손에 잡히는 대로 읽었다고 한다. 1986년부터]]></content>
     </entry>
 </feed>
