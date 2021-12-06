@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-06T14:24:59.259Z</updated>
+    <updated>2021-12-06T15:28:16.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['언프레임드', 믿고 보는 배우들의 4인4색 감독 도전기]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000120108</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000120108"/>
+        <updated>2021-12-06T15:27:37.325Z</updated>
+        <content type="html"><![CDATA['반장선거' '재방송' '반디' '블루 해피니스' 등 단편영화 4편 묶은 옴니버스 영화 믿고 보는 배우 4인방이 메가폰을 잡았다. 장르는 누아르, 로드무비, 힐링, 청춘이다. 작품마다 농도 짙은 연기로 주목 받는 배]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘모가디슈’ 한국영화제작가협회상 작품상 수상]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003114681</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010873871"/>
         <updated>2021-12-06T08:30:34.327Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]윤준호 인턴 기자 = 영화 '스파이더맨: 노 웨이 홈'이 멀티버스 포스터를 공개했다. 영화 '스파이더맨: 노 웨이 홈'에서는 정체가 탄로난 스파이더맨 '피터 파커'(톰 홀랜드)가 문제를 해결하기 위해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연애 빠진 로맨스' 전종서·손석구, 캐릭터와 완벽 싱크로율…입소문의 중심]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001382138</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001382138"/>
-        <updated>2021-12-06T08:30:34.329Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '연애 빠진 로맨스'(감독 정가영)의 배우 전종서와 손석구가 캐릭터와 완벽히 일체된 연기로 관객들의 극찬을 얻고 있다. '연애 빠진 로맨스'는 연애는 싫지만 외로운 건 더 싫은 자영]]></content>
     </entry>
 </feed>
