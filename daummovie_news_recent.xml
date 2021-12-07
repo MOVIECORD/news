@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-12-07T17:34:03.499Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 07 Dec 2021 19:22:45 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['스파이더맨' 톰 홀랜드 "새로운 액션, 눈 뗄 수 없을 것"]]></title>
+            <link>https://v.daum.net/v/20211208040815335</link>
+            <guid>https://v.daum.net/v/20211208040815335</guid>
+            <pubDate>Tue, 07 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마블 스튜디오 ‘스파이더맨: 노 웨이 홈’의 주연을 맡은 배우 톰 홀랜드(가운데)가 7일 화상 기자간담회에서 “이전에 스파이더맨에게서 볼 수 없었던 면과 새로운 액션 스타일이 공개된다. 눈을 뗄 수 없을 것”이라고 밝혔다. 스파이더맨 시리즈는 오는 15일 개봉하는 ‘노 웨이 홈’으로 3부작을 완결한다. 이번 영화에서 정체가 탄로난 스파이더맨 피터 파커(톰]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F08%2Fkukminilbo%2F20211208040816665cyax.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[카메라 앞 벗어나 감독이 된 배우들..과거와 달라진 점은?]]></title>
+            <link>https://v.daum.net/v/20211208040106230</link>
+            <guid>https://v.daum.net/v/20211208040106230</guid>
+            <pubDate>Tue, 07 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(왼쪽부터) 이정재, 정우성. (사진=아티스트컴퍼니)[이데일리 스타in 김보영 기자] 카메라 앞에서 연기하던 배우들이 이젠 뒤에 서서 창작자로서 역량을 뽐내고 있다. 배우들이 연출, 제작에 나선 영화들이 예술적 가치와 질적 측면에서 높은 평가를 받는가 하면 장르도 다양해 영화산업에 긍정적 영향을 미치고 있다는 분석이다. 과거에도 인기 배우들이 영화의 연출]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F08%2FEdaily%2F20211208040109115jehd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
