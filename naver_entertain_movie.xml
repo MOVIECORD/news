@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-07T11:24:13.453Z</updated>
+    <updated>2021-12-07T12:41:35.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘스파이더맨:노웨이홈’ 예매관객 11만명 돌파·외국도 난리, “연말 글로벌 흥행광풍 예고”[종합]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003560721</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003560721"/>
+        <updated>2021-12-07T12:40:45.710Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]마블 히어로 무비 ‘스파이더맨:노웨이홈’의 예매 열기가 뜨겁게 달아오르고 있다. 7일 영진위 통합전산망에 따르면, 이 영화의 예매 관객수는 이날 오후 8시 50분 현재 11만명을 돌파했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스파이더맨' 톰 홀랜드 "고교생 히어로 매력"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004637847</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=052&amp;aid=0001674232"/>
         <updated>2021-12-07T08:30:39.549Z</updated>
         <content type="html"><![CDATA[마블의 새 영화 '스파이더맨: 노 웨이 홈'이 오늘(7일)부터 예매를 시작한 가운데 뜨거운 예매 전쟁이 벌어지고 있다. 오는 15일 개봉을 앞둔 '스파이더맨: 노 웨이 홈'이 오늘(7일)부터 일반관과 특별관의 티켓]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[리뷰] 잃을 것 없는 승부사들의 화끈한 결투 '캅샵']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000041549</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000041549"/>
-        <updated>2021-12-07T08:30:39.555Z</updated>
-        <content type="html"><![CDATA["사랑하는 사람 있어? 우린 없어. 넌 있지. 다시 보고 싶어? 도박해 보겠다 했지? 지금 해봐." 잃을 것 없는 이들이 경찰서 속에서 벌이는 강렬한 전투 한 판이 벌어진다. 이 세상에서 가장 안전해야 할 장소인 경]]></content>
     </entry>
 </feed>
