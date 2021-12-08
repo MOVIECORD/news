@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-08T18:30:43.995Z</updated>
+    <updated>2021-12-08T19:23:32.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“당신의 행복은 어디에” 日 젊은 거장의 영화 ‘해피 아워’]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001490064</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001490064"/>
+        <updated>2021-12-08T19:22:42.751Z</updated>
+        <content type="html"><![CDATA[“이제는 포기하고 싶지가 않아. 진정한 삶의 한 토막이 이제야 보이는 것 같거든. 남들이 뭐라고 할지 몰라도 원하는 걸 원한다고 말하기로 했어.” 불행한 결혼생활에 마침표를 찍으려는 준(가와무라 리라)이 말했다. 아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['먹보와 털보' 김태호PD "비·홍철 왜 친할까? 물음에서 시작"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000120583</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003507505"/>
         <updated>2021-12-08T08:29:45.447Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=이미지 기자] 마동석이 '이터널스' 300만 돌파에 감사를 표했다. 배우 마동석은 8일 오후 자신의 인스타그램을 통해 "이터널스 300만 돌파 감사합니다!"는 글과 함께 사진들을 게재했다. 이번에 공개]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['3관왕' 방탄소년단→'오징어게임', 美피플스초이스 휩쓴 K파워 [종합]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003011392</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003011392"/>
-        <updated>2021-12-08T08:29:45.448Z</updated>
-        <content type="html"><![CDATA[그룹 방탄소년단(BTS, RM , 진, 슈가, 제이홉, 지민, 뷔, 정국)이 미국 피플스 초이스 어워즈(People's Choice Awards) 올해의 노래 등 3관왕에 올랐다. 넷플릭스 한국 오리지널 '오징어 게]]></content>
     </entry>
 </feed>
