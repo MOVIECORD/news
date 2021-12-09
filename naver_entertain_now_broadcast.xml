@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=224</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 방송</title>
-    <updated>2021-12-09T17:32:58.696Z</updated>
+    <updated>2021-12-09T18:31:04.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 채널A]李, ‘고향’ TK로… 尹, ‘외가’ 강원으로…]]></title>
+        <id>https://entertain.naver.com/now/read?oid=020&amp;aid=0003398820</id>
+        <link href="https://entertain.naver.com/now/read?oid=020&amp;aid=0003398820"/>
+        <updated>2021-12-09T18:30:27.132Z</updated>
+        <content type="html"><![CDATA[이재명 후보와 윤석열 후보의 지지율이 접전이라는 여론조사가 연이어 나오고 있다. 고향이 안동인 이 후보는 오늘(10일)부터 사흘간 대구경북 지역을 방문해 표심을 호소하고 강릉이 외가인 윤 후보는 1박 2일 일정으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['다수의 수다' 종교 대통합 현장…유희열 "살면서 처음"]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0010881533</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000779990"/>
         <updated>2021-12-09T15:27:25.857Z</updated>
         <content type="html"><![CDATA[[스포츠경향] ‘국민가수’ 이솔로몬이 눈물을 흘렸다. 9일 오후 방송된 TV CHOSUN ‘내일은 국민가수’에서는 준결승 일대일 한 곡 대결이 펼쳐졌다. 이날 김유하와 곡을 선정하던 이솔로몬은 정수라 ‘난 너에게’를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오늘무해' 공효진→김해준, 부녀회장님 위한 테이블 만들기 도전]]></title>
-        <id>https://entertain.naver.com/now/read?oid=009&amp;aid=0004891603</id>
-        <link href="https://entertain.naver.com/now/read?oid=009&amp;aid=0004891603"/>
-        <updated>2021-12-09T14:24:44.107Z</updated>
-        <content type="html"><![CDATA['오늘무해' 공효진, 이천희, 전혜진, 김해준이 테이블 만들기에 도전했다. 9일 방송된 KBS2 예능프로그램 '오늘부터 무해하게'(이하 '오늘무해')에서는 공효진, 이천희, 전혜진, 김해준은 시골인심을 보여준 부녀회]]></content>
     </entry>
 </feed>
