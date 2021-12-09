@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-09T09:27:55.578Z</updated>
+    <updated>2021-12-09T10:28:47.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“7대 ‘007’ 제임스 본드 캐릭터, 여성 아닌 영국 남성”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000779948</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000779948"/>
+        <updated>2021-12-09T10:27:52.750Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 영화 ‘007’ 시리즈 제작자가 주인공인 7대 제임스 본드 모델은 여성이 아닌 영국 남성이라고 못 박았다. 제작자 바버라 브로콜리는 8일(현지시간) 흑인 배우가 본드를 연기하는 ‘블랙 본드’ 가능성을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["현실 정치를 공부할수록 공무원들을 리스펙하게 됐다"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046110</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004524020"/>
         <updated>2021-12-09T07:24:08.670Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 ‘매트릭스: 리저렉션’이 이달 22일 국내 극장 개봉을 확정했다. 전 세계적인 센세이션을 일으키며 최고의 인기를 누린 시리즈에 이어, 20년의 시간을 넘어선 SF 장르의 부활과 새 시대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['매트릭스: 리저렉션', 12월 22일 개봉…'스파이더맨'·'킹메이커' 등과 빅4]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000277907</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000277907"/>
-        <updated>2021-12-09T07:24:08.672Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] SF 팬들이 손꼽아 기다려온 '매트릭스' 시리즈가 18년 만에 부활한다. '매트릭스: 리저렉션'이 오는 12월 22일 개봉을 확정했다. 2021년 새롭게 돌아온 '매트릭스: 리저렉]]></content>
     </entry>
 </feed>
