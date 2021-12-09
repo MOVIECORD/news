@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-09T18:31:04.740Z</updated>
+    <updated>2021-12-09T19:20:53.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[22회 여성영화인상 ‘빛나는 순간’ 주연 고두심]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001490453</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001490453"/>
+        <updated>2021-12-09T19:20:11.582Z</updated>
+        <content type="html"><![CDATA[‘2021 여성영화인축제’에서 배우 고두심( 사진 )이 ‘올해의 여성영화인상’을 수상했다. 여성영화인모임은 영화 ‘빛나는 순간’에서 활약한 배우 고두심에게 여성영화인상을 수여한다고 9일 밝혔다. 제주 출신인 고두심은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 유아인 "이정재 만나 요새 느낌 어떠냐 물었다"①]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000120836</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004524060"/>
         <updated>2021-12-09T08:30:14.780Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 국내 극장 개봉을 앞둔 영화 ‘스파이더맨: 노 웨이 홈’이 압도적인 수치로 예매 오픈 이후 줄곧 전체 예매율 1위를 기록하고 있어 흥행에 귀추가 주목된다. ‘스파이더맨: 노 웨이 홈’(감독]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오영이] 한겨울에 개봉한 공포영화가 있다면 믿으시겠습니까? [영상]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0003995066</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0003995066"/>
-        <updated>2021-12-09T08:30:14.781Z</updated>
-        <content type="html"><![CDATA[[서울경제] 뭐 보지? 오늘 영화는 이거! ‘오영이’ 개그맨 유세윤이 나온다. 장르는 코미디가 아니다. 추운 겨울 분위기를 더욱 오싹하게 만들 ‘리얼’ 공포영화다. 한국판 ‘파라노말 액티비티’가 맞긴 하다. 영화]]></content>
     </entry>
 </feed>
