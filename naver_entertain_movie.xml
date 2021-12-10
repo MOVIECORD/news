@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-10T12:40:18.852Z</updated>
+    <updated>2021-12-10T13:30:26.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘레옹’ 뤼크 베송 감독 성폭행 사건, 수사 종결]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000780261</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000780261"/>
+        <updated>2021-12-10T13:29:38.022Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 배우를 성폭행한 혐의로 고소당한 프랑스 영화감독 뤼크 베송(Luc Paul Maurice Besson) 대한 수사가 종결됐다고 현지 언론이 소식통을 인용해 9일(현지시간) 전했다. ‘레옹’(영어권 제목]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부고]이랑(가수 겸 영화감독)씨 언니상]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010883368</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003011862"/>
         <updated>2021-12-10T08:28:28.138Z</updated>
         <content type="html"><![CDATA['스파이더맨: 노 웨이 홈'이 전편보다 더욱 업그레이드된 포인트를 공개했다. 10일 소니 픽쳐스는 영화 '스파이더맨: 노 웨이 홈'이 '스파이더맨: 파 프롬 홈'에 비해 업그레이드된 세 가지 포인트를 공개했다. 첫]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 ‘아이 스틸 빌리브’, 기적 예고하는 메인 포스터 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000780172</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000780172"/>
-        <updated>2021-12-10T08:28:28.142Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 내년 1월 국내 개봉을 확정한 영화 ‘아이 스틸 빌리브’가 메인 포스터를 10일 공개했다. ‘아이 스틸 빌리브’는 CCM 가수를 꿈꾸는 제레미가 암에 걸린 운명의 연인 멜리사를 위해 기적을 노래하는 종]]></content>
     </entry>
 </feed>
