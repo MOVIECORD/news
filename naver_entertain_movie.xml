@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-11T07:24:49.979Z</updated>
+    <updated>2021-12-11T08:30:43.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[티빙, ‘2021 MAMA’ 생중계]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000041695</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000041695"/>
+        <updated>2021-12-11T08:29:57.891Z</updated>
+        <content type="html"><![CDATA[국내 대표 OTT 티빙이 오늘 (11일) World’s No.1 K-POP 음악 시상식 ‘2021 Mnet ASIAN MUSIC AWARDS(2021 MAMA)’를 생중계한다. 특히 본편과 다른 매력을 느낄 수 있는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준호♥이세영 뜨거운 이마 키스 포착, 러브라인 급진전되나]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=415&amp;aid=0000006644</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002335572"/>
         <updated>2021-12-11T01:13:41.762Z</updated>
         <content type="html"><![CDATA[대기업 독과점에 강한 반대 입장... 영진위원장으로선 비판도 받아 ▲ 고 강한섭 서울예대 교수 ⓒ 강한섭 영화진흥위원회 위원장을 역임한 강한섭 서울예대 교수가 10일 오후 별세했다. 향년 63세. 1958년생인 강한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강한섭 전 영진위원장 별세, 향년 63세]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003011967</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003011967"/>
-        <updated>2021-12-11T01:13:41.779Z</updated>
-        <content type="html"><![CDATA[영화진흥위원회 위원장을 역임한 영화평론가 강한섭 서울예술대 교수가 12월10일 오후 별세했다. 향년 63세. 고인의 빈소는 이날 서울 일원동 삼성서울병원 장례식장에 마련됐다. 유족은 11일부터 조문을 받기로 했다.]]></content>
     </entry>
 </feed>
