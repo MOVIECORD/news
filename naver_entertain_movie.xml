@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-12T02:43:30.378Z</updated>
+    <updated>2021-12-12T03:27:16.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[돈이면 뭐든 팔 수 있다고..? 등가죽 팔아넘긴 남자를 보라]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002335643</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002335643"/>
+        <updated>2021-12-12T03:25:54.815Z</updated>
+        <content type="html"><![CDATA[[김성호의 씨네만세 373] &lt;피부를 판 남자&gt; ▲ 영화 &lt;피부를 판 남자&gt; 포스터 ⓒ 판씨네마(주) 사람이 가볍게 여겨지는 세상이다. 초국적 자본은 세상에 사고팔지 못할 게 아예 없는 것처럼 느껴지도록 만든다. 그]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 '20세기 소녀' 촬영…14일 충북대 일대 통제]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010884238</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000521422"/>
         <updated>2021-12-11T23:25:03.150Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] '연애 빠진 로맨스'가 50만 관객을 돌파했다. 12월 12일 영화진흥위원회 통합전산망 집계에 따르면, 이날 오전 7시 30분 기준 영화 '연애 빠진 로맨스'(감독 정가영)가 50만 관객을 돌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감독 이정재, 제작자 정우성…22년 절친, 1만원의 약속까지[TEN스타필드]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000517398</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000517398"/>
-        <updated>2021-12-11T23:25:03.151Z</updated>
-        <content type="html"><![CDATA[[텐아시아=노규민 기자] ≪노규민의 영화人싸≫ 노규민 텐아시아 영화팀장이 매주 일요일 오전 영화계 인물에 대한 이야기를 전합니다. 배우, 감독, 작가, 번역가, 제작사 등 영화 생태계 구성원들 가운데 오늘뿐 아니라]]></content>
     </entry>
 </feed>
