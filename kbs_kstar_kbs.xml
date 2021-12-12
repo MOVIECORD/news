@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 22:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 23:26:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[취기 도는 풍미 사극  '꽃 피면 달 생각하고']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=179312</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=179312</guid>
+            <pubDate>Sun, 12 Dec 2021 23:25:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=179312">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211213081624_65a2229b477eb2023be140f6af3ead32.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=179312">취기 도는 풍미 사극  '꽃 피면 달 생각하고'</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%BD%83%20%ED%94%BC%EB%A9%B4%20%EB%8B%AC%20%EC%83%9D%EA%B0%81%ED%95%98%EA%B3%A0">월화드라마 꽃 피면 달 생각하고</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211213081624_65a2229b477eb2023be140f6af3ead32.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[슈퍼맨이 돌아왔다] ‘사유리네’ 12개월 똑똑이 젠이 안내방송에 대처하는 법 (feat. 외계어 옹알이)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=179306</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211212192555_7b10eae1d3b8a7b0fab81ca476c3cd17_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[사장님 귀는 당나귀 귀] 정호영, “여자연예인 온다” 휴무인 직원 불러...알고보니 홍현희]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=179230</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=179230</guid>
-            <pubDate>Sun, 12 Dec 2021 10:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=179230">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211212190654_2ab60c47c13e15070822c5c1a45d14ba_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=179230">[사장님 귀는 당나귀 귀] 정호영, “여자연예인 온다” 휴무인 직원 불러...알고보니 홍현희</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211212190654_2ab60c47c13e15070822c5c1a45d14ba_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
