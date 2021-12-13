@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 07:26:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 08:30:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홍주현 '사랑의 꽈배기'OST '사랑했던 너를 떠나고']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=179648</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=179648</guid>
+            <pubDate>Mon, 13 Dec 2021 08:28:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=179648">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211213172742_52079db51915d95519fefbc59f03395c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=179648">홍주현 '사랑의 꽈배기'OST '사랑했던 너를 떠나고' </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%82%AC%EB%9E%91%EC%9D%98%20%EA%BD%88%EB%B0%B0%EA%B8%B0">일일드라마 사랑의 꽈배기</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211213172742_52079db51915d95519fefbc59f03395c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이방원#2] 이성계 가족의 재회, 요동치는 고려의 운명]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=179605</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8B%A0%EC%82%AC%EC%99%80%20%EC%95%84%EA%B0%80%EC%94%A8">주말드라마 신사와 아가씨</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211212214847_7ddac0a5e21233a306143fa8fefafe96_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[1박2일] 이 오빠들 말 되게 많네!! 정신없는 폭풍 훈수 속 거침없는 혜리의 칼질(?)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=179258</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=179258</guid>
-            <pubDate>Sun, 12 Dec 2021 12:37:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=179258">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211212211642_c5d7290a5279071138578537864e8a22_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=179258">[1박2일] 이 오빠들 말 되게 많네!! 정신없는 폭풍 훈수 속 거침없는 혜리의 칼질(?) </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211212211642_c5d7290a5279071138578537864e8a22_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
