@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-13T13:32:01.191Z</updated>
+    <updated>2021-12-13T14:24:48.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[부고] 영화배급사 쇼박스 김도수 대표 빙부상]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004526066</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004526066"/>
+        <updated>2021-12-13T14:24:01.605Z</updated>
+        <content type="html"><![CDATA[■고인: 故이병윤님 ■빈소: 여의도 성모병원 장례식장 6호실 ■발인: 2021년 12월 15일(수) 오전 10시 김보라 기자 / purplish@osen.co.kr]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 ‘뱀파이어와의 인터뷰’ 원작자 앤 라이스 별세, 향년 80세]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000780705</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002556990"/>
         <updated>2021-12-13T09:25:52.440Z</updated>
         <content type="html"><![CDATA[[데일리안 = 류지윤 기자] 판타지 로맨스 웹영화 '3.5교시'가 12월 17일부터 한달 동안 티빙에서 독점 공개된다. '3.5교시'는 어느 명문 고등학교의 3교시와 4교시 사이, 시간이 10배 느리게 흘러가는 3.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진영, 영화 ‘씽2게더’로 첫 더빙 도전]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001202116</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001202116"/>
-        <updated>2021-12-13T09:25:52.442Z</updated>
-        <content type="html"><![CDATA[배우 진영이 영화 ‘씽2게더’로 첫 더빙에 도전한다. 14일 소속사 비비엔터테인먼트는 “진영이 ‘씽’의 후속작 '씽2게더'의 조니 역으로 캐스팅되어 처음으로 더빙에 도전한다”고 밝혔다. '씽2게더'는 오디션 그 이후]]></content>
     </entry>
 </feed>
