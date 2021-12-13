@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-13T11:22:51.340Z</updated>
+    <updated>2021-12-13T12:40:22.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 ‘뱀파이어와의 인터뷰’ 원작자 앤 라이스 별세, 향년 80세]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000780705</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000780705"/>
+        <updated>2021-12-13T12:39:21.543Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 영화 ‘뱀파이어와의 인터뷰’ 원작 소설을 쓴 미국 작가 앤 라이스(Anne Rice)가 향년 80세를 일기로 별세했다. 현지 언론들은 12일(현지시간) 고딕 문학 장르 소설가 라이스가 뇌졸중 합병증으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘스파이더맨：노 웨이 홈’ 사전예매 40만 돌파]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000780700</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001202116"/>
         <updated>2021-12-13T09:25:52.442Z</updated>
         <content type="html"><![CDATA[배우 진영이 영화 ‘씽2게더’로 첫 더빙에 도전한다. 14일 소속사 비비엔터테인먼트는 “진영이 ‘씽’의 후속작 '씽2게더'의 조니 역으로 캐스팅되어 처음으로 더빙에 도전한다”고 밝혔다. '씽2게더'는 오디션 그 이후]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류스케 감독 ‘드라이브 마이 카’ 보스턴비평가협회상 4관왕]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000041793</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000041793"/>
-        <updated>2021-12-13T09:25:52.446Z</updated>
-        <content type="html"><![CDATA[올해 칸국제영화제에서 각본상을 수상한 하마구치 류스케 감독의 &lt;드라이브 마이 카&gt;가 제42회 보스턴비평가협회상에서 작품상, 감독상, 남우주연상, 각본상까지 최다 4관왕을 차지했다. &lt;드라이브 마이 카&gt;는 해외 유력매]]></content>
     </entry>
 </feed>
