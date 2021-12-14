@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-14T18:30:11.577Z</updated>
+    <updated>2021-12-14T19:20:59.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[멀티버스 열리자 20년 전 악당 등장… 스파이더맨의 선택은?]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001491509</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001491509"/>
+        <updated>2021-12-14T19:20:02.518Z</updated>
+        <content type="html"><![CDATA[스파이더맨이 성장했다. 메시지도 강렬해졌다. 전편 ‘스파이더맨: 파 프롬 홈’(2019년)에서 정체가 탄로 난 뒤 스파이더맨 피터 파커(톰 홀랜드)의 어깨가 무거워졌다. “큰 힘엔 큰 책임이 따른다”는 그의 대사처럼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[애프터스크리닝] 무라카미 하루키의 단편을 영화로, 상실과 위로의 이야기 '드라이브 마이 카' ★★★]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000141293</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005106578"/>
         <updated>2021-12-14T08:29:52.214Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 박미애 기자] 영화 ‘2시의 데이트’가 주연 캐스팅을 확정했다. 제작사 외유내강은 14일 “‘2시의 데이트’가 임윤아와 안보현을 캐스팅하고 내년 상반기에 촬영을 시작한다”고 밝혔다. ‘2시의 데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TEN리뷰] 설경구X이선균, 과정이냐 결과냐 '딜레마'…대선 앞두고 개봉하는 '킹메이커']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000517860</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000517860"/>
-        <updated>2021-12-14T08:29:52.216Z</updated>
-        <content type="html"><![CDATA[[텐아시아=노규민 기자] "세상 바뀌는 꼴 좀 보고 싶습니다" 같은 곳을 향해 가는 두 남자가 있다. 정치인 김운범(설경구)과 그를 돕고자 나타난 선거 전략가 서창대(이선균)다. 돈 없고 백도 없지만, 김운범은 세상]]></content>
     </entry>
 </feed>
