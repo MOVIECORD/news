@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-15T10:29:02.388Z</updated>
+    <updated>2021-12-15T11:23:04.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[웨이브 영화 '콜렉티브' 오바마 추천 호평 세례]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003013037</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003013037"/>
+        <updated>2021-12-15T11:22:06.893Z</updated>
+        <content type="html"><![CDATA[웨이브가 독점 공개한 저널리즘 다큐멘터리 '콜렉티브'가 웰메이드 영화로 호평 받고 있다. 국내 최대 OTT 웨이브(wavve)에서 독점 공개되는 '콜렉티브'(감독 알레그잔데르 나나우)는 64명의 사상자를 낸 2015]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['킹메이커' 이선균→설경구, 16일 무비토크 참석…"개봉 변경 여지"[공식]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004527031</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001385703"/>
         <updated>2021-12-15T08:30:55.498Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '웨스트 사이드 스토리'(감독 스티븐 스필버그)가 Tonight 60초 영상을 공개했다. '웨스트 사이드 스토리'는 자신을 가둔 환경과 운명에 순응하지 않고 자신만의 세상을 꿈꾸는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방역강화 예고에 영화계 일정 줄취소…극장은 초긴장(종합)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010891443</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010891443"/>
-        <updated>2021-12-15T08:30:55.505Z</updated>
-        <content type="html"><![CDATA[기사내용 요약 하루 확진자 7850명 역대 최대 기록 영화 '비상선언' 개봉일 두 번째 연기 '킹메이커'는 주연 배우 인터뷰 취소 영업시간 제한하면 영화관 또 타격 [서울=뉴시스] 손정빈 기자 = 일일 코로나 확진]]></content>
     </entry>
 </feed>
