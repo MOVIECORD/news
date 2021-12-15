@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-15T18:29:38.692Z</updated>
+    <updated>2021-12-15T19:21:41.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스파이더맨: 노 웨이 홈' 첫날 63만↑ 동원…흥행 돌풍 시작]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004527181</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004527181"/>
+        <updated>2021-12-15T19:20:50.836Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 ‘스파이더맨: 노 웨이 홈’이 개봉 첫날 1위를 차지했다. 16일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날 개봉한 ‘스파이더맨: 노 웨이 홈’은 첫날부터 63만 5006명]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스파이더맨', 어릴 적 내게 보내는 선물같은 영화 [TF씨네리뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000121880</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000781177"/>
         <updated>2021-12-15T08:30:55.485Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 가수 겸 배우 김우진이 웹영화 ‘3.5교시’ OST 타이틀곡을 선보인다. 판타지학원 로맨스 장르에 타임 스트래치라는 독특한 소재를 접목해 방송미디어 관계자들 사이 주목 받고 있는 웹영화 ‘3.5교시’]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘클리포드 더 빅 레드 독’ 코로나 확산세에 1월12일로 개봉 연기]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000522603</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000522603"/>
-        <updated>2021-12-15T08:30:55.491Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 영화 '클리포드 더 빅 레드 독'이 코로나19로 개봉일을 변경한다. 배급사 롯데엔터테인먼트는 "오는 29일 개봉 예정이었던 '클리포드 더 빅 레드 독'이 전국적으로 코로나19 확산세가 급증함에]]></content>
     </entry>
 </feed>
