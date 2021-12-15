@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-15T12:39:32.685Z</updated>
+    <updated>2021-12-15T13:31:36.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김세인 감독 '같은 속옷을 입는 두 여자', 72회 베를린국제영화제 진출 [공식]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004527158</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004527158"/>
+        <updated>2021-12-15T13:30:41.058Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '같은 속옷을 입는 두 여자'가 2022년 제72회 베를린국제영화제(Internationale Filmfestspiele Berlin)에 진출한다. '같은 속옷을 입는 두 여자'는 영화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[웨이브 영화 '콜렉티브' 오바마 추천 호평 세례]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003013037</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003013015"/>
         <updated>2021-12-15T08:30:55.495Z</updated>
         <content type="html"><![CDATA[영화 '킹메이커'가 개봉일 연기를 고려하면서, 주연 배우들의 인터뷰가 잠정 연기됐다. 15일 영화 '킹메이커' 측은 "코로나19 상황에 대해 이번 주 발표될 정부의 새로운 방역지침에 따라 오는 29일 개봉 예정 영화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['웨스트 사이드 스토리'  Tonight 60초 영상…화려한 군무로 전하는 에너지]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001385703</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001385703"/>
-        <updated>2021-12-15T08:30:55.498Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '웨스트 사이드 스토리'(감독 스티븐 스필버그)가 Tonight 60초 영상을 공개했다. '웨스트 사이드 스토리'는 자신을 가둔 환경과 운명에 순응하지 않고 자신만의 세상을 꿈꾸는]]></content>
     </entry>
 </feed>
