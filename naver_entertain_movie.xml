@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-16T19:21:12.551Z</updated>
+    <updated>2021-12-16T20:26:57.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['청년의 시선' 울산국제영화제 개막…17~21일 82편 상영]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005789653</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005789653"/>
+        <updated>2021-12-16T20:26:13.438Z</updated>
+        <content type="html"><![CDATA[(울산=뉴스1) 윤일지 기자 = 제1회 울산국제영화제(Ulsan International Film Festival, UIFF)가 5일 간의 첫 여정을 시작한다. 17일 울산시에 따르면 제1회 울산국제영화제는 이날부터]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소리로 듣는 스릴러… 국내 최초 오디오무비 ‘층’]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001492178</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003562982"/>
         <updated>2021-12-16T12:38:28.101Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 송일섭 기자] 배우 방민아가 16일 오후 서울 광화문 씨네큐브에서 진행된 '2021 올해의 여성영화인상 시상식'에서 신인연기상을 수상한 뒤 소감을 말하고 있다. (송일섭 기자 andlyu@mydail]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신인연기상' 방민아, 기쁨의 눈물]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005789506</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005789506"/>
-        <updated>2021-12-16T12:38:28.105Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 권현진 기자 = 배우 방민아가 16일 서울 종로구 씨네큐브 광화문에서 열린 2021 여성영화인축제 '올해의 영화인상'에서 ‘최선의 삶’으로 신인연기상을 수상한 뒤 소감을 말하고 있다. 2021.12.]]></content>
     </entry>
 </feed>
