@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-12-16T18:29:55.187Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 16 Dec 2021 19:21:12 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["고강도 거리두기로 영화산업 붕괴" 업계 비명]]></title>
+            <link>https://v.daum.net/v/20211217040916283</link>
+            <guid>https://v.daum.net/v/20211217040916283</guid>
+            <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영화업계의 한숨이 다시 깊어지고 있다. 18일부터 고강도 사회적 거리두기 조치가 시행되면서 극장 영업시간이 오후 10시까지로 제한되는 탓이다. 상영관협회·한국영화프로듀서조합·한국영화감독조합이사회·영화수입배급사협회 등은 16일 긴급성명을 내고 “(운영 시간 제한은) 영화 개봉을 막게 돼 업계 전체에 피해를 확산시키고 영화산업의 도미노식 붕괴로 이어질 것”이라]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F17%2Fkukminilbo%2F20211217040917209cobh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
