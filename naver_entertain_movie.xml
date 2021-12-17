@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-17T13:29:26.035Z</updated>
+    <updated>2021-12-17T14:24:27.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문소리 여성영화인상 연기상 수상]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000951707</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000951707"/>
+        <updated>2021-12-17T14:22:55.118Z</updated>
+        <content type="html"><![CDATA[문소리 여성영화인상 연기상 수상 배우 문소리가 수상 소식을 전했다. 문소리는 어제(16일) 개최된 제22회 ‘올해의 여성영화인상’에 참석, 영화 ‘세자매’로 연기상을 수상했다. 문소리는 이로써 41회 영화평론가협회상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제1회 울산국제영화제 개막선언하는 송철호 시장]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010896100</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000951683"/>
         <updated>2021-12-17T08:28:52.863Z</updated>
         <content type="html"><![CDATA[‘킹메이커’ 개봉 12월 29일→2022년 1월 설 연휴로 연기 [공식] 영화 ‘킹메이커’의 개봉일이 연기됐다. ‘킹메이커’의 투자 배급사 메가박스중앙 플러스엠은 17일 “오는 12월 29일로 예정되어 있던 ‘킹메이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[귀여운 삼총사, '미니언즈2' 2022년 7월27일 개봉]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0005017316</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0005017316"/>
-        <updated>2021-12-17T08:28:52.863Z</updated>
-        <content type="html"><![CDATA[영화 '미니언즈'가 내년 여름 속편으로 돌아온다. 유니버설픽쳐스는 17일 '미니언즈2'가 2022년 7월 27일 국내 개봉한다고 밝혔다. '미니언즈2'는 전 세계 44개국 박스오피스 1위, 흥행 수익 11억 달러를]]></content>
     </entry>
 </feed>
