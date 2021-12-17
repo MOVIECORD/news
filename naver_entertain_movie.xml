@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-17T21:23:15.331Z</updated>
+    <updated>2021-12-17T22:26:05.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷+리뷰] ‘아웃사이더’ 스티븐 킹의 수사방식 (웨이브)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000041961</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000041961"/>
+        <updated>2021-12-17T22:25:20.695Z</updated>
+        <content type="html"><![CDATA[스티븐 킹은 할리우드에서 각광받는 인기 작가이다. 그는 SF판타지, 호러, 추리 장르에서 장인의 솜씨를 보여준다. 그의 작품은 끊임없이 드라마로, 영화로 만들어진다. ‘캐리’, ‘샤이닝’, ‘미스트’, ‘쇼생크탈출’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문소리 여성영화인상 연기상 수상]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000951707</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046183"/>
         <updated>2021-12-17T08:28:52.863Z</updated>
         <content type="html"><![CDATA[&lt;씨네21&gt;이 2021년을 빛낸 영화인을 발표했다. 올해의 영화인은 감독, 주연 남녀배우, 신인 감독 및 남녀배우, 제작자, 시나리오작가, 촬영감독까지 총 9개 부문으로, 2020년 12월부터 2021년 11월까지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘킹메이커’ 개봉 12월 29일→2022년 1월 설 연휴로 연기 [공식]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000951683</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000951683"/>
-        <updated>2021-12-17T08:28:52.863Z</updated>
-        <content type="html"><![CDATA[‘킹메이커’ 개봉 12월 29일→2022년 1월 설 연휴로 연기 [공식] 영화 ‘킹메이커’의 개봉일이 연기됐다. ‘킹메이커’의 투자 배급사 메가박스중앙 플러스엠은 17일 “오는 12월 29일로 예정되어 있던 ‘킹메이]]></content>
     </entry>
 </feed>

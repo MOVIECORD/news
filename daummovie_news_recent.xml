@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-12-17T21:23:15.320Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 17 Dec 2021 22:26:05 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['노 웨이 홈' 보려면 알아야 할 '스파이더맨' 빌런 상식]]></title>
+            <link>https://v.daum.net/v/20211218063902598</link>
+            <guid>https://v.daum.net/v/20211218063902598</guid>
+            <pubDate>Fri, 17 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘스파이더맨: 노 웨이 홈’(감독 존 왓츠)엔 새로운 빌런이 등장하지 않는다. 대신 이전 ‘스파이더맨’ 세계관의 빌런 다섯 명이 총출동한다. 배우 토비 맥과이어의 ‘스파이더맨’ 3부작과 앤드류 가필드의 ‘어메이징 스파이더맨’ 2부작에 등장한 빌런들이 그 주인공이다. 이전 시리즈를 본 적 없거나, 분명 본 것 같은데 잘 기억나지 않는 이들을 위해 ‘스]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F18%2Fkukinews%2F20211218063903772pqao.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
