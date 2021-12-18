@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-18T21:25:06.929Z</updated>
+    <updated>2021-12-18T22:25:27.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수상 기록으로 본 올해의 영화들은 [2021 결산-영화]②]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005792290</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005792290"/>
+        <updated>2021-12-18T22:24:29.695Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 2021년에도 신종 코로나바이러스 감염증(코로나19) 확산으로 인한 극장가 침체가 지속됐다. 각 배급사들의 미개봉작은 점점 쌓여갔고, 코로나19 장기화에 따른 변수로 인해 개봉 일정을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마블 ‘스파이더맨4’ 제작 착수, 톰 홀랜드 복귀하나[해외이슈]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003563457</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0003998397"/>
         <updated>2021-12-18T04:32:31.415Z</updated>
         <content type="html"><![CDATA[[서울경제] 어느덧 올해도 2주가 채 남지 않았다. 거리두기가 다시 강화된 지금, 집에서 따뜻한 음료를 마시며 OTT 영화를 시청해 보는 건 어떨까? 서울경제스타는 넷플릭스와 왓챠에서 곧 사라지는 영화들 중 챙겨볼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["액션 연기 희열"..'특송' 박소담, 걸크러쉬 매력 예고]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003013701</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003013701"/>
-        <updated>2021-12-18T04:32:31.415Z</updated>
-        <content type="html"><![CDATA[영화 '특송'이 박소담의 액션 스틸을 공개했다. 박소담의 필모그래피 사상 첫 액션 주연작으로 기대를 모으는 영화 '특송' 측이 박소담이 연기한 '은하'의 파격적인 액션을 엿볼 수 있는 스틸을 공개했다. '특송'은 성]]></content>
     </entry>
 </feed>
