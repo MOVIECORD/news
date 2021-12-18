@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 09:26:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 10:28:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['비정성시' '루빙화' 출연 대만 배우 진송용 병사]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=180688</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=180688</guid>
+            <pubDate>Sat, 18 Dec 2021 10:25:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=180688">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211218182559_83a029a42845447f817a0cfadb47c8c1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=180688">'비정성시' '루빙화' 출연 대만 배우 진송용 병사</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211218182559_83a029a42845447f817a0cfadb47c8c1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷+리뷰] ‘아웃사이더’ 스티븐 킹의 수사방식 (웨이브)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=180484</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=179882">최불암과 최자의 만남, '한국인의 밥상'에서 '한국인의 술상'으로</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211214174243_4be5ea35fdd9b58baf0c6d1af98c903c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] 역대 스파이더맨들과 빌런들의 짜릿한 동창회 '스파이더맨: 노 웨이 홈']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=179874</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=179874</guid>
-            <pubDate>Tue, 14 Dec 2021 08:28:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=179874">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211214172119_fe0a45d8269b13e3a04510693673ae7d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=179874">[리뷰] 역대 스파이더맨들과 빌런들의 짜릿한 동창회 '스파이더맨: 노 웨이 홈' </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211214172119_fe0a45d8269b13e3a04510693673ae7d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
