@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-18T08:29:58.732Z</updated>
+    <updated>2021-12-18T09:26:14.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김태호 PD의 새로운 넷플릭스 예능 <먹보와 털보>의 비, 노홍철을 만나다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046188</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046188"/>
+        <updated>2021-12-18T09:24:33.769Z</updated>
+        <content type="html"><![CDATA[비(정지훈)와 노홍철이 바이크를 타고 우정 여행을 떠난다. 비와 노홍철의 조합도, 우정 여행에 바이크 여행이라는 컨셉도 낯설 테지만, 알고 보면 ‘찐친’인 두 사람의 궁합은 비의 말을 빌려 표현하면 “최수종, 하희라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘샹치’ 감독, “속편에 성룡 출연시키고 싶어” MCU 합류하나[해외이슈]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003563364</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005791827"/>
         <updated>2021-12-18T01:20:02.240Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 영화 '스파이더맨: 노 웨이 홈'이 개봉 3일 만에 150만 돌파를 목전에 뒀다. 18일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 '스파이더맨: 노 웨이 홈'은 지난 17일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['D.P.'부터 '지옥'까지 "속편에는 여백이 필요하다"[인터뷰S]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000333968</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000333968"/>
-        <updated>2021-12-18T01:20:02.263Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]클라이맥스스튜디오는 변화의 최전선에 있는 대표 콘텐츠 제작사다. 지난해 영화 '초미의 관심사', 카카오TV '아만자', tvN 드라마 '방법' 등을 선보이며 주목받은 데 이어 극장와 케이블]]></content>
     </entry>
 </feed>
