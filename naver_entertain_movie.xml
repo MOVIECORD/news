@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-19T11:22:34.257Z</updated>
+    <updated>2021-12-19T12:39:48.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[포토] 이상이, '미소부자']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=014&amp;aid=0004758254</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=014&amp;aid=0004758254"/>
+        <updated>2021-12-19T12:38:59.740Z</updated>
+        <content type="html"><![CDATA[[FN스타 이승훈 기자] 배우 이상이가 19일 서울 강남구 세텍전시장에서 진행된 ‘제16회 우즈넥스와 함께 하는 코리아에이치투얼라이언스 아시아모델어워즈’ 시상식에 참석했다. totopurdy_star@fnnews.c]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['♥윤형빈' 정경미, 독특한 자격증 땄다…김지혜 "사람도 정리해주나"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000334103</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000141607"/>
         <updated>2021-12-18T23:24:06.581Z</updated>
         <content type="html"><![CDATA[올 한해 영화계를 돌아봤다. 팬데믹 이후 문화업계 전반이 엄청나게 위축되며 위기를 맞이하고 있다는데 도대체 얼마나 위기였을까? 올해 영화진흥위원회 통합전산망의 데이터를 기준으로 올 한해 영화계를 정리해 보았다. (2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스파이더맨 : 노 웨이 홈', 개봉 4일만 200만 돌파 [★무비차트]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003013868</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003013868"/>
-        <updated>2021-12-18T23:24:06.582Z</updated>
-        <content type="html"><![CDATA['스파이더맨: 노 웨이 홈'이 개봉 나흘만에 누적관객수 200만 명을 돌파했다. 19일 영진위 영화관입장권통합전산망에 따르면 '스파이더맨: 노 웨이 홈'은 개봉 첫 토요일인 지난 18일 64만 7153명이 찾아 박스]]></content>
     </entry>
 </feed>
