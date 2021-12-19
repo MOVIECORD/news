@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-19T20:27:29.192Z</updated>
+    <updated>2021-12-19T21:22:23.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“매력적인 상” 무진성, 아시아 모델 어워즈서 패셔니스타상 쾌거[공식]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000524236</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000524236"/>
+        <updated>2021-12-19T21:21:28.146Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 배우 무진성이 아시아 모델 어워즈에서 패셔니스타상을 수상했다. 무진성은 12월 19일 SETEC에서 무관중으로 개최된 제16회 아시아 모델 어워즈(Asia Model Awards)에서 패셔니스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘스파이더맨:노 웨이 홈’ 개봉 첫주 277만↑ 팬데믹 후 최단 기록[박스오피스]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000524235</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010896776"/>
         <updated>2021-12-19T01:21:37.470Z</updated>
         <content type="html"><![CDATA[기사내용 요약 코로나 사태 이후 최고 흥행 기록 예상 [서울=뉴시스] 손정빈 기자 = 마블의 새 슈퍼히어로 영화 '스파이더맨:노 웨이 홈'(감독 존 왓츠)이 개봉 나흘 만에 200만 관객을 넘어섰다. 코로나 사태 발]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스파이더맨: 노웨이홈' 개봉 4일째 200만 돌파…흥행 질주 [Nbox]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005792436</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005792436"/>
-        <updated>2021-12-19T01:21:37.470Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 영화 '스파이더맨: 노 웨이 홈'이 4일째 박스오피스 1위를 수성하며 200만 관객을 돌파했다. 19일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 지난 18일 '스파이더맨:]]></content>
     </entry>
 </feed>
