@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-19T18:29:00.286Z</updated>
+    <updated>2021-12-19T19:20:42.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시한부 아빠의 ‘세상서 두 번째로 행복한 가정’ 찾기]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001492615</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001492615"/>
+        <updated>2021-12-19T19:19:53.507Z</updated>
+        <content type="html"><![CDATA[“이제 자려고 몸을 누이니 주님, 저희 영혼을 지켜주시옵소서. 밤새 저희를 보호해 주시옵고 아침 햇살과 함께 깨워주시옵소서. 아멘.” 아빠 존(제임스 노튼)은 네 살배기 마이클(다니엘 라몬트)과 잠들기 전 동화책을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[포토] 이상이, '미소부자']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=014&amp;aid=0004758254</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004895764"/>
         <updated>2021-12-19T01:21:37.475Z</updated>
         <content type="html"><![CDATA[영화 '스파이더맨: 노 웨이 홈'이 개봉 나흘만에 200만 관객을 돌파했다. 19일 영진위 영화관입장권통합전산망에 따르면 '스파이더맨: 노 웨이 홈'은 개봉 첫 주말인 지난 18일 하루 동안 64만7153명을 동원,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2년전 대비 극장에서 영화 관란 80% 감소, 올해 TOP10안에 한국영화 단 두편 [2021총결산]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000141607</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000141607"/>
-        <updated>2021-12-18T23:24:06.581Z</updated>
-        <content type="html"><![CDATA[올 한해 영화계를 돌아봤다. 팬데믹 이후 문화업계 전반이 엄청나게 위축되며 위기를 맞이하고 있다는데 도대체 얼마나 위기였을까? 올해 영화진흥위원회 통합전산망의 데이터를 기준으로 올 한해 영화계를 정리해 보았다. (2]]></content>
     </entry>
 </feed>
