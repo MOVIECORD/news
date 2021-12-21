@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-21T16:39:31.220Z</updated>
+    <updated>2021-12-21T17:33:32.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘킹메이커’ 설경구→이선균, 카리스마 팀워크 [화보]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000952333</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000952333"/>
+        <updated>2021-12-21T17:32:49.351Z</updated>
+        <content type="html"><![CDATA[영화 '킹메이커' 주역들이 화보를 촬영했다. '킹메이커'는 세상을 바꾸기 위해 도전하는 정치인 김운범과 존재도 이름도 숨겨진 선거 전략가 서창대가 치열한 선거판에 뛰어들며 시작되는 드라마를 그린 영화로, 오는 1월]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[돌아온 키아누 리브스 액션도 철학도 깊어졌다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004897181</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000782349"/>
         <updated>2021-12-21T08:31:08.037Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 코로나19 확산으로 피해를 입은 충무로 영화인들이 정부에 극장 영업시간 제한 해제와 손실보상을 호소했다. 한국상영관협회, 한국영화프로듀서조합, 수입배급사협회, 극장 등 영화 단체 소속 관계자들은 21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['클리포드 더 빅 레드 독', 3m 슈퍼 사이즈 된 이유]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004529592</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004529592"/>
-        <updated>2021-12-21T08:31:08.038Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '클리포드 더 빅 레드 독' 측이 슈퍼 사이즈가 된 이유와 특별한 이름이 탄생하게 된 비하인드 스토리를 공개했다. 사랑받을수록 커지는 클리포드와 12살 소녀 에밀리가 운명처럼 만나면서]]></content>
     </entry>
 </feed>
