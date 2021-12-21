@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 06:31:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 07:25:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잉꼬부부 심진화-김원효에게 찾아온 위기?]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=181394</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=181394</guid>
+            <pubDate>Tue, 21 Dec 2021 07:24:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=181394">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211221153042_f870dd6c4edb9c9cd94024ea0b98e533.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=181394">잉꼬부부 심진화-김원효에게 찾아온 위기?</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%20%ED%9E%88%EC%96%B4%EB%A1%9C">슈퍼 히어로</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211221153042_f870dd6c4edb9c9cd94024ea0b98e533.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[독기 어린 이혜리, 당당한 사극 연기와 유승호와의 뜨거운 케미스트리!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=181317</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EC%8A%B9%EC%9E%90">개승자</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211220085603_e5cb67b48b5e4c311973ccd751664d17.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[형제 다툼, 이성계 분노폭발 "동북면으로 돌아가겠다"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=180969</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=180969</guid>
-            <pubDate>Sun, 19 Dec 2021 23:25:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=180969">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211220081142_43ab68bd7b057935566d87a308e669f7.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=180969">형제 다툼, 이성계 분노폭발 "동북면으로 돌아가겠다"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8C%80%ED%95%98%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%83%9C%EC%A2%85%20%EC%9D%B4%EB%B0%A9%EC%9B%90">대하드라마 태종 이방원</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20211220081142_43ab68bd7b057935566d87a308e669f7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
