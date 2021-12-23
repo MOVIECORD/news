@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-12-23T19:21:42.631Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 23 Dec 2021 20:28:05 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['스파이더맨:노 웨이 홈' 9일 연속 1위 질주..352만 돌파[박스오피스]]]></title>
+            <link>https://v.daum.net/v/20211224051438093</link>
+            <guid>https://v.daum.net/v/20211224051438093</guid>
+            <pubDate>Thu, 23 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '스파이더맨: 노 웨이 홈'이 350만을 돌파, 400만을 향해 달리고 있다. 12월 24일 영화진흥위원회 통합전산망 집계에 따르면 23일 영화 '스파이더맨: 노 웨이 홈'이 16만6,307명을 동원하며 9일 연속 박스오피스 정상을 지켰다. 지난 15일 개봉한 '스파이더맨: 노 웨이 홈'의 누적 관객은 352만6,137명으로, 4]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F24%2Fnewsen%2F20211224051439559qocs.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
