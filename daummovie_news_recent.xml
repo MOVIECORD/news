@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-12-24T20:27:23.929Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 24 Dec 2021 21:22:26 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['나홀로 집에' 케빈 형, 여자친구 목 조르고 주먹으로 때려 "살해 시도"[해외이슈]]]></title>
+            <link>https://v.daum.net/v/20211225060006509</link>
+            <guid>https://v.daum.net/v/20211225060006509</guid>
+            <pubDate>Fri, 24 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]'나 홀로 집에' 영화 속에서 케빈의 형 버즈 역할을 맡았던 데빈 라트레이(44)가 여자친구의 목을 졸라 살해하려 한 혐의로 쇠고랑을 찼다. 23일(현지시간) ‘더 랩’ 등 미국 매체는 데빈 라트레이가 이달 초 미국 오클라호마주 오클라호마시티의 한 호텔방에서 여자친구와 말다툼을 하던 중 폭행한 혐의 등으로 경찰에 체포됐다고]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F25%2Fmydaily%2F20211225060006277gjkk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>

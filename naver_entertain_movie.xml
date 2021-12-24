@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-24T20:27:23.946Z</updated>
+    <updated>2021-12-24T21:22:26.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘나홀로 집에’ 케빈 형, 여자친구 목 조르고 주먹으로 때려 “살해 시도”[해외이슈]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003564780</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003564780"/>
+        <updated>2021-12-24T21:21:41.375Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]'나 홀로 집에' 영화 속에서 케빈의 형 버즈 역할을 맡았던 데빈 라트레이(44)가 여자친구의 목을 졸라 살해하려 한 혐의로 쇠고랑을 찼다. 23일(현지시간) ‘더 랩’ 등 미국 매체는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["기쁘다 신혜선 오셨다" 상상초월 반전매력 SNL 출격]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000042195</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000042189"/>
         <updated>2021-12-24T08:30:55.631Z</updated>
         <content type="html"><![CDATA[오늘은 크리스마스이브이다. 내일은 크리스마스이다. 이맘때가 되면 TV에서는 항상 만날 수 있는 영화가 있다. ‘나홀로 집에’, ‘다이 하드’(1편), ‘멋진 인생’(프랭크 캐프라 감독,1946)이다. 이 목록에 추가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마피아가 만든 아이스하키팀의 기구한 운명]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002336949</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002336949"/>
-        <updated>2021-12-24T08:30:55.632Z</updated>
-        <content type="html"><![CDATA[[넷플릭스 오리지널 리뷰] &lt;말하지 못한 이야기: 죄와 벌 그리고 하키&gt; ▲ 넷플릭스 오리지널 다큐멘터리 &lt;죄와 벌 그리고 하키&gt; 포스터. ⓒ 넷플릭스 아이스하키 하면 NHL, 즉 미국과 캐나다에서 함께 시행해 10]]></content>
     </entry>
 </feed>
