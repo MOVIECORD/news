@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-24T10:28:31.892Z</updated>
+    <updated>2021-12-24T11:22:13.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크리스마스 파티에 '날벼락'…TBS '타워' 방영]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010908441</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010908441"/>
+        <updated>2021-12-24T11:21:24.213Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]전재경 인턴 기자 = TBS '무비컬렉션'이 24일 오후 10시 30분 영화 '타워'를 방영한다. 2012년 개봉한 '타워'는 '코리아' '싱크홀' 등을 연출한 김지훈 감독 작품이다. 배우 설경구, 손]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['하우스 오브 구찌' 레이디 가가, 스크린 압도할 도발적 매력..인생캐 예고]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003513506</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003015273"/>
         <updated>2021-12-24T07:24:41.340Z</updated>
         <content type="html"><![CDATA[국제영화비평가연맹(FIPRESCI) 한국본부가 신임회장으로 영화평론가 이명희(63)를 선임했다. 국제영화비평가연맹은 24일 이 같이 밝혔다. 이 회장은 1980년 성균관대 프랑스어문학과를 졸업하고, 1994년 프랑스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고요의 바다', '오징어 게임'→'지옥' 이을까…해외 반응도 '기대']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000278391</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000278391"/>
-        <updated>2021-12-24T07:24:41.341Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 넷플릭스의 야심작 '고요의 바다'가 오늘(24일) 오후 공개된다. '고요의 바다'는 필수 자원의 고갈로 황폐해진 근미래의 지구, 특수 임무를 받고 달에 버려진 연구기지로 떠난 정예]]></content>
     </entry>
 </feed>
