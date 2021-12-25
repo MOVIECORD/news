@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-25T11:21:15.990Z</updated>
+    <updated>2021-12-25T12:39:23.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘고요의 바다’, 그냥저냥 지루하고요[한현정의 직구리뷰]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004899160</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004899160"/>
+        <updated>2021-12-25T12:38:24.501Z</updated>
+        <content type="html"><![CDATA[도전의 의미만 남았고요.. 졸음과의 싸움이다. 고독하고도 지루하다. 달을 배경으로 한 첫 한국 SF물, 그 도전의 의미만 기억에 남는, ‘고요의 바다’다. 영화는 필수 자원의 고갈로 황폐해진 근미래의 지구, 특수 임]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["권력자에게 '극단적 선택' 종용 받았습니다" …영화 '내부자들' 리뷰 [씨네프레소]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004899100</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000600448"/>
         <updated>2021-12-25T02:43:48.341Z</updated>
         <content type="html"><![CDATA[크리스마스에도 ‘스파이더맨’의 위력이 계속 되고 있다. 각종 할리우드 블록버스터가 연이어 개봉했음에도 2주 연속 1위 자리를 강력히 사수 중이다. 더 나아가 올해 전체 박스오피스 1위까지 섭렵했다. 25일 영화진흥위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘스파이더맨: 노 웨이 홈’, 개봉 11일 차에 400만 돌파…올해 최고 흥행 기록]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000839676</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000839676"/>
-        <updated>2021-12-25T02:43:48.342Z</updated>
-        <content type="html"><![CDATA[영화 ‘스파이더맨: 노 웨이 홈’이 400만 관객을 돌파하며 흥행 중이다. ‘스파이더맨: 노 웨이 홈’은 정체가 탄로난 스파이더맨 ‘피터 파커’(톰 홀랜드 분)가 문제를 해결하기 위해 ‘닥터 스트레인지’(베네딕트 컴]]></content>
     </entry>
 </feed>
