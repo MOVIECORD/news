@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-25T02:44:35.359Z</updated>
+    <updated>2021-12-25T03:27:56.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[산드라 블록X채닝 테이텀, '로스트 시티'..어른들의 서바이벌 어드벤처]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003015399</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003015399"/>
+        <updated>2021-12-25T03:26:44.985Z</updated>
+        <content type="html"><![CDATA[어른들의 서바이벌 어드벤처 '로스트 시티'가 티저 예고편과 티저 포스터를 공개했다. 영화 '로스트 시티'가 2022년 3월 개봉을 확정 짓고 티저 예고편을 최초 공개했다. '로스트 시티'는 은둔 생활 중인 베스트셀러]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['젊은 거장'을 향한 찬사는 호들갑이 아니었다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002336997</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012803533"/>
         <updated>2021-12-24T22:25:16.849Z</updated>
         <content type="html"><![CDATA['가족형 콘텐츠' 티빙·로맨스 작품들로 채운 웨이브·입맛 따라 골라보는 왓챠 (서울=연합뉴스) 김정진 기자 = 신종 코로나바이러스 감염증(코로나19) 사태 속에서 맞는 두 번째 크리스마스, 집에서 OTT(온라인 동영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스마스에 극장·TV·OTT에서 무슨 영화 볼까 [N초점]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005804840</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005804840"/>
-        <updated>2021-12-24T22:25:16.849Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 크리스마스를 앞두고 있지만, 축제의 분위기는 예년보다 덜하다. 공휴일이 토요일과 겹친 데다가 신종 코로나바이러스 감염증(코로나19)에 대한 방역 강화 조치로 인해 연말의 떠들썩하고 들]]></content>
     </entry>
 </feed>
