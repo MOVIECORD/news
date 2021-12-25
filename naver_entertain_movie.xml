@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-25T07:25:51.634Z</updated>
+    <updated>2021-12-25T08:30:48.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['고요의 바다' SF 드라마 새 지평 열까…'지옥'처럼 호불호 갈려]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012803982</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012803982"/>
+        <updated>2021-12-25T08:29:59.756Z</updated>
+        <content type="html"><![CDATA[IMDb 10점 만점에 7.2점…'지옥'보다 높고 '오징어 게임'보다 낮아 (서울=연합뉴스) 김정진 기자 = 넷플릭스가 새롭게 공개한 한국 오리지널 시리즈 '고요의 바다'가 한국 드라마의 새로운 지평을 열 수 있을지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스파이더맨' 개봉 11일 만에 모가디슈 제쳤다… 올해 최다 관객 '400만' 돌파]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=417&amp;aid=0000768272</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005804889"/>
         <updated>2021-12-25T01:15:51.551Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = '스파이더맨: 노 웨이 홈'이 누적 378만명 이상의 관객을 동원, 불과 개봉 10일째 만에 2021년 최다 관객 영화로 등극했다. 25일 영화진흥위원회 영화관 입장권 통합 전산망에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스파이더맨' 올해 최고 흥행작 등극···'모가디슈' 제쳐]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004000766</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004000766"/>
-        <updated>2021-12-25T01:15:51.553Z</updated>
-        <content type="html"><![CDATA[[서울경제] '스파이더맨:노 웨이 홈'이 한국 영화 '모가디슈'를 제치고 올해 최고 흥행작에 올랐다. 25일 배급사 소니픽쳐스에 따르면 지난 15일 개봉한 '스파이더맨:노 웨이 홈'은 이날 오전 7시 기준 누적 관객]]></content>
     </entry>
 </feed>
