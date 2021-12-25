@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-12-25T20:27:36.157Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 25 Dec 2021 21:22:31 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['스파이더맨:노웨이홈', 아카데미 작품상 노린다 "시상식 사회는 톰 홀랜드"[해외이슈]]]></title>
+            <link>https://v.daum.net/v/20211226061903395</link>
+            <guid>https://v.daum.net/v/20211226061903395</guid>
+            <pubDate>Sat, 25 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘스파이더맨:노웨이홈’이 아카데미 작품상을 받기 위한 캠페인을 벌인다. 할리우드 리포터는 24일(현지시간) ‘스파이더맨:노웨이홈’의 호평과 함께 아카데미 작품상을 수상하는 캠페인이 추진될 것이라고 전했다. ‘스파이더맨: 노웨이홈’의 이러한 노력은 슈퍼히어로 영화에 대한 인식에 큰 변화를 가져올 전망이다. ‘블랙 팬서’는 2]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F26%2Fmydaily%2F20211226061903852kulf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['스파이더맨' 이어 '매트릭스'·'킹스맨'..연말 휩쓸 외화 대작 [N초점]]]></title>
+            <link>https://v.daum.net/v/20211226053013936</link>
+            <guid>https://v.daum.net/v/20211226053013936</guid>
+            <pubDate>Sat, 25 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 연말 극장가는 할리우드 대작들이 휩쓸 전망이다. 지난 25일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '스파이더맨: 노 웨이 홈'은 지난 24일 하루 26만242명을 동원해 박스오피스 1위를 지키며 누적관객수 378만6325명을 기록했다. 이로써 이달 15일 개봉한 '스파이더맨: 노 웨이 홈'은 불과 10일째 만]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F26%2FNEWS1%2F20211226053015184ldlz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
