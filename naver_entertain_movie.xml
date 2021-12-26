@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-26T02:46:46.789Z</updated>
+    <updated>2021-12-26T03:27:44.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스파이더맨' 팬데믹 이후 첫 10억 달러 흥행 확실]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012804583</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012804583"/>
+        <updated>2021-12-26T03:27:00.911Z</updated>
+        <content type="html"><![CDATA[중국 영화 '장진호' 제치고 올해 최대 박스오피스 달성 (로스앤젤레스=연합뉴스) 정윤섭 특파원 = 영화 '스파이더맨:노 웨이 홈'(이하 스파이더맨)이 신종 코로나바이러스 감염증(코로나19) 대유행 이후 처음으로 10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['램' 누미 라파스 "봉준호 감독과 일하고 싶다" 韓영화 향한 애정]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005113847</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004531631"/>
         <updated>2021-12-26T01:21:00.837Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 배우 누미 라파스가 감독 봉준호에 대한 애정을 드러냈다. 눈 폭풍이 휘몰아치던 크리스마스 날 밤 이후 양 목장에서 태어난 신비한 아이를 선물 받은 마리아 부부에게 닥친 예측할 수 없는 일을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스파이더맨: 노 웨이 홈' 438만 돌파…올해 최고 흥행작 등극]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001389724</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001389724"/>
-        <updated>2021-12-25T23:24:30.450Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '스파이더맨: 노 웨이 홈'(감독 존 왓츠)이 400만 관객을 돌파하며 올해 국내 개봉 영화 중 최고 흥행 기록을 경신했다. 영진위 통합전산망에 따르면 '스파이더맨: 노 웨이 홈'은]]></content>
     </entry>
 </feed>
