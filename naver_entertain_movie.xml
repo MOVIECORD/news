@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-26T11:21:59.089Z</updated>
+    <updated>2021-12-26T12:38:36.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[생방송 중 난입한 복면괴한, ‘그날의 진실’을 추궁하는데…]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003651390</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003651390"/>
+        <updated>2021-12-26T12:37:41.542Z</updated>
+        <content type="html"><![CDATA[스페인 스릴러 ‘피드백’ “첫째, 평소처럼 방송을 진행하라. 둘째, 지시를 따르되 아무것도 묻지 않는다.” “절대 따르지 않을 거야. 당장 (밖에서 잠긴 스튜디오) 문 열어!” “세째, 이유가 무엇이든 방송이 끊기면]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘특송’ 메인 예고편 공개…박소담 카체이싱 온다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000783284</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003565012"/>
         <updated>2021-12-26T02:45:25.101Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘스파이더맨’ 커플 톰 홀랜드와 젠데이아의 약혼설이 급속히 확산되고 있다. 젠데이아는 최근 인스타그램에 “변화를 위한 시간”이라는 글과 함께 사진을 게재했다. 사진 속 젠데이아는 긴 머리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['경관의 피', 조진웅X최우식이 밝힌 매력..제작기 영상 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003015865</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003015865"/>
-        <updated>2021-12-26T02:45:25.105Z</updated>
-        <content type="html"><![CDATA['경관의 피'가 비하인드 스토리를 확인할 수 있는 제작기 영상을 공개했다. 최근 에이스메이커무비웍스는 영화 제작 현장을 엿볼 수 있는 제작기 영상을 공개했다. 영화 '경관의 피'는 위법 수사도 개의치 않는 광수대 에]]></content>
     </entry>
 </feed>
