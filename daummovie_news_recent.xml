@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-12-27T20:28:06.612Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 27 Dec 2021 21:22:59 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['해피 뉴 이어', 군더더기 없는 연기 앙상블 [마데핫리뷰]]]></title>
+            <link>https://v.daum.net/v/20211228060009070</link>
+            <guid>https://v.daum.net/v/20211228060009070</guid>
+            <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 새해는 어떤 방향으로든 나아갈 수 있는 출발선이 될 수도, 희망 없는 누군가에게는 절대 마주치고 싶지 않은 악몽이 되기도 한다. 영화 '해피 뉴 이어'는 각기 다른 고민과 설렘을 품고 연말을 보내는 여러 커플의 이야기를 경쾌한 속도감으로 풀어낸다. 'A YEAR-END MEDLEY'라는 영제에서 알 수 있듯 이야기 조각이 한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F28%2Fmydaily%2F20211228060009227xzvf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
