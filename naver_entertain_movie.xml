@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-28T18:29:56.902Z</updated>
+    <updated>2021-12-28T19:21:14.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[호텔이란 공간을 중심으로 아름답고 동화같은 이야기 담아]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001494853</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001494853"/>
+        <updated>2021-12-28T19:20:17.987Z</updated>
+        <content type="html"><![CDATA[크리스마스를 앞둔 서울의 특급 호텔 엠로스. 호텔리어 소진(한지민)은 ‘남사친’ 승효(김영광)를 15년 동안 짝사랑해 왔다. 고백을 받을 거라고 기대한 소진에게 승효는 갑작스런 결혼 소식을 전한다. 승효가 연출하는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스파이더맨' 2주 만에 500만 돌파…최단 기간·최다 관객 동원]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004532761</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002337278"/>
         <updated>2021-12-28T09:25:38.030Z</updated>
         <content type="html"><![CDATA[[미리 보는 영화] &lt;해피 뉴 이어&gt; 풋풋한 첫사랑부터 가슴 아픈 짝사랑, 아련한 옛사랑까지. 연말연시 소중한 인연과 함께 하고 싶은 우리 모두의 이야기를 담은 영화 &lt;해피 뉴 이어&gt;가 티빙과 극장에서 오는 29일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신애라♥' 차인표, 레게머리 요정 변신…'반전 매력']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010914140</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010914140"/>
-        <updated>2021-12-28T09:25:38.031Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 차인표가 코믹하게 변신한 모습을 공개했다. 28일 차인표는 자신의 인스타그램에 "1월 1일 쿠팡플레이의 SNL Korea에서 만나요~ SNL Korea. See you on Jan]]></content>
     </entry>
 </feed>
