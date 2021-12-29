@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-12-29T20:05:21.230Z</updated>
+    <updated>2021-12-29T21:05:37.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올해 당신이 놓쳤을 한국영화]]></title>
+        <id>https://entertain.v.daum.net/v/20211230060203652</id>
+        <link href="https://entertain.v.daum.net/v/20211230060203652"/>
+        <updated>2021-12-29T21:05:37.014Z</updated>
+        <content type="html"><![CDATA[올해 극장에서 어떤 한국영화를 봤을까. 대부분 관객들이 잘 기억하지 못하는 게 당연하다. 올해 한국영화 성적은 처참하다. 2021년 최다 관객 영화 10편 중 한국영화는 ‘모가디슈’ ‘싱크홀’ 두 편에 불과하다. 기대작들은 코로나바이러스감염증-19(코로나19) 여파로 개봉 타이밍을 잡지 못했다. 용기를 내 개봉해도 관객수는 턱없이 적다. 그럼에도 잊기엔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["더 나은 내일을 위해"..'여성들의 연대' 그린 작품 주목]]></title>
         <id>https://entertain.v.daum.net/v/20211230050034997</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211229174803968"/>
         <updated>2021-12-29T09:01:28.416Z</updated>
         <content type="html"><![CDATA[[이선필 기자] ▲ '경관의 피' 위험한 수사&nbsp;영화 &lt;경관의 피&gt;에 출연한 권율, 조진웅, 최우식, 박희순, 박명훈 배우의 모습. 지난 11월 25일 오전 비대면으로 열린 제작보고회 당시.    ⓒ ㈜에이스메이커무비웍스  &nbsp; 중범죄자를 소탕하는 경찰과 그를 감시하는 또 다른 경찰 간 긴장감이 이 영화의 핵심이었다. 29일 서울 용산 CGV에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조진웅X최우식의 위험한 브로맨스 '경관의 피']]></title>
-        <id>https://entertain.v.daum.net/v/20211229174505895</id>
-        <link href="https://entertain.v.daum.net/v/20211229174505895"/>
-        <updated>2021-12-29T09:01:28.417Z</updated>
-        <content type="html"><![CDATA[조진웅과 최우식의 브로맨스가 빛났다. 29일 오후 서울 용산구 CGV 용산아이파크몰에서 영화 ‘경관의 피’ 언론시사회가 열린 가운데 이규만 감독과 배우 조진웅, 최우식, 박희순, 권율, 박명훈이 참석했다. ‘경관의 피’는 위법 수사도 개의치 않는 광수대 에이스 강윤(조진웅 분)과 그를 감시하게 된 언더커버 신입경찰 민재(최우식 분)의 위험한 추적을 그린 범]]></content>
     </entry>
 </feed>
