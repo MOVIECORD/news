@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-30T14:05:58.613Z</updated>
+    <updated>2021-12-30T15:05:46.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[상반기 '랑종', 하반기 '램'…공포 흥행 이을까 [TF프리즘]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000124695</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000124695"/>
+        <updated>2021-12-30T15:04:30.841Z</updated>
+        <content type="html"><![CDATA[기대감·예측 불가·흥행몰이까지…두 작품 닮은꼴 눈길 A24의 독창적 호러 '램'이 지난여름 개봉해 많은 영화 팬들의 사랑을 받은 공포 영화 '곡성'의 흥행 바통을 이어받을지 주목된다. '곡성'의 나홍진 감독이 제작한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정부, 코로나 피해 입은 영화·여행·관광업 등 고용지원 연장 검토]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000784248</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046291"/>
         <updated>2021-12-30T09:05:19.279Z</updated>
         <content type="html"><![CDATA[“가장 위대하고 순수한 예술가이자 몽상가 중 한 사람을 잃었다.”(배우 로라 던) 12월27일(현지 시간) 장 마크 발레 감독이 캐나다 퀘벡 외곽의 자택에서 숨진 채 발견됐다. 향년 58살. 사인은 심장마비로 밝혀졌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[종합] '특송', 스크린 압도한 박소담… 짜릿한 쾌감 가득한 드라이빙 액션]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000521479</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000521479"/>
-        <updated>2021-12-30T09:05:19.279Z</updated>
-        <content type="html"><![CDATA[[텐아시아=김지원 기자] 걸크러쉬 박소담이 펼치는 파워풀한 드라이빙 액션이 짜릿한 쾌감을 선사한다. 영화 '특송'이다. '특송'은 성공률 100%의 특송 전문 드라이버 은하가 예기치 못한 배송사고에 휘말리면서 벌어지]]></content>
     </entry>
 </feed>
