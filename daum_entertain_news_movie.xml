@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2021-12-30T19:05:19.739Z</updated>
+    <updated>2021-12-30T20:05:10.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이 영화로 일상의 따뜻함, 밝은 기운을 드리고 싶다"]]></title>
+        <id>https://entertain.v.daum.net/v/20211231040831502</id>
+        <link href="https://entertain.v.daum.net/v/20211231040831502"/>
+        <updated>2021-12-30T20:05:10.397Z</updated>
+        <content type="html"><![CDATA[배우 한지민(사진)이 영화 ‘해피 뉴 이어’에서 귀엽고 사랑스러운 역할로 관객들을 찾아왔다. 15년간 짝사랑한 ‘남사친’이 다른 여자와 결혼하는 모습을 지켜보는 애틋한 감정도 잘 표현했다. 한지민은 30일 기자들과 화상으로 진행한 인터뷰에서 “심적으로 많이 힘들게 한 해를 시작했는데 감사하게도 ‘해피 뉴 이어’를 만나서 빛이 있는 곳으로 나올 수 있었다”]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[상반기 '랑종', 하반기 '램'..공포 흥행 이을까]]></title>
         <id>https://entertain.v.daum.net/v/20211231000054450</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20211230172404811"/>
         <updated>2021-12-30T09:06:04.084Z</updated>
         <content type="html"><![CDATA[[스포츠투데이 최혜진 기자] '특송'이 시동이 걸었다. 참신한 소재, 배우들의 '케미', 화려한 카체이싱과 액션을 실은 '특성'이 흥행 가도를 달릴 수 있을까. 30일 영화 '특송'(감독 박대민·제작 엠픽처스) 언론배급시사회가 롯데시네마 건대입구에서 진행됐다. 행사에는 박대민 감독을 비롯해 배우 송새벽, 김의성, 정현준, 연우진, 염혜란, 한현민이 참석해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['특송', 스크린 압도한 박소담.. 짜릿한 쾌감 가득한 드라이빙 액션]]></title>
-        <id>https://entertain.v.daum.net/v/20211230172302771</id>
-        <link href="https://entertain.v.daum.net/v/20211230172302771"/>
-        <updated>2021-12-30T09:06:04.085Z</updated>
-        <content type="html"><![CDATA[[텐아시아=김지원 기자] 걸크러쉬 박소담이 펼치는 파워풀한 드라이빙 액션이 짜릿한 쾌감을 선사한다. 영화 '특송'이다. '특송'은 성공률 100%의 특송 전문 드라이버 은하가 예기치 못한 배송사고에 휘말리면서 벌어지는 추격전을 그린 범죄 오락 액션 영화. 30일 서울 자양동 롯데시네마 건대입구에서 영화 '특송' 언론시사회가 열렸다. 박대민 감독과 배우]]></content>
     </entry>
 </feed>
