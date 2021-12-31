@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2021-12-31T07:05:13.002Z</updated>
+    <updated>2021-12-31T08:06:41.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤도현 "씽2게더, 음악의 힘 있는 영화"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010920545</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010920545"/>
+        <updated>2021-12-31T08:05:57.489Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]윤준호 인턴 = 영화 '씽2게더'가 K-클레이 윤도현의 일문일답 영상을 31일 공개했다. '씽2게더'는 전 세계가 주목하는 쇼 스테이지에 오르기 위한 크루들의 고군분투 도전기를 그린 2022년 첫 번째]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[독립영화관] '어게인' 독립영화와 뮤지컬, 그리고 전주의 만남 (조창열 감독,2020)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000042458</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003566186"/>
         <updated>2021-12-31T05:08:45.129Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 2022년, 새로운 세상을 꿈꾸는 모두에게 특별한 메시지를 선사할 영화 '웨스트 사이드 스토리'가 레전드 뮤지컬의 귀환을 확인케 하는 만장일치 추천 영상을 공개했다. 영화 '웨스트 사이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화관 영업제한 완화…"오후 9시까지 극장 입장 가능"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000335769</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000335769"/>
-        <updated>2021-12-31T05:08:45.133Z</updated>
-        <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]강화된 사회적 거리두기가 2주 더 연장된 가운데 영화관 영업제한이 완화된다. 정부는 31일 열린 코로나19 중앙재난안전대책본부 회의에서 현행 사회적 거리두기를 2주 연장한다고 밝혔다. 사적]]></content>
     </entry>
 </feed>
