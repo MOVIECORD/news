@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2021-12-31T20:05:29.746Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 31 Dec 2021 21:06:19 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['한산'·'비상선언'·'특송'..배급사·OTT별 2022년 영화 라인업은① [신년특집]]]></title>
+            <link>https://v.daum.net/v/20220101060127452</link>
+            <guid>https://v.daum.net/v/20220101060127452</guid>
+            <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자,고승아 기자 = 2022년 극장가는 볼거리 넘치는 영화들로 꽉 채워질 전망이다. 영화계가 신종 코로나 바이러스 감염증(코로나19) 확산 3년 차에 접어든 가운데, 각 배급사들은 그간 오래 묵혀둔 대작들과 기대작들을 선보일 것을 예고했다. 각 배급사들의 라인업을 살펴본 결과 감독, 출연진 이름만 들어도 설레는 영화들이 다수]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F01%2FNEWS1%2F20220101060129111gamc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['보고타'·'승부'·'젠틀맨'..배급사·OTT별 2022년 영화 라인업은② [신년특집]]]></title>
+            <link>https://v.daum.net/v/20220101060058411</link>
+            <guid>https://v.daum.net/v/20220101060058411</guid>
+            <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자,고승아 기자 = 2022년 극장가는 볼거리 넘치는 영화들로 꽉 채워질 전망이다. 영화계가 신종 코로나 바이러스 감염증(코로나19) 확산 3년 차에 접어든 가운데, 각 배급사들은 그간 오래 묵혀둔 대작들과 기대작들을 선보일 것을 예고했다. 각 배급사들의 라인업을 살펴본 결과 감독, 출연진 이름만 들어도 설레는 영화들이 다수]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F01%2FNEWS1%2F20220101060059463ysgw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
