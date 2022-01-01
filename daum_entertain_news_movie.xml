@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-01-01T04:06:15.001Z</updated>
+    <updated>2022-01-01T05:09:03.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[개봉 미뤘던 한국 영화들 온다]]></title>
+        <id>https://entertain.v.daum.net/v/20220101135503598</id>
+        <link href="https://entertain.v.daum.net/v/20220101135503598"/>
+        <updated>2022-01-01T05:09:02.854Z</updated>
+        <content type="html"><![CDATA[(시사저널=조유빈 기자) 오는 1월3일부터 영화관 마지막 영화 상영을 저녁 9시에 할 수 있도록 기준이 다소 조정됐다. 중앙재난안전대책본부(중대본)은 지난해 12월31일 현행 사회적 거리 두기 조치 연장을 발표하면서, 오후 10시까지로 상영을 제한했던 영화관 운영 기준을 '오후 9시까지 입장'으로 조정했다. 이 같은 완화 조치가 극장가의 전환점이 될지 주목]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[감독으로 만나는 정우성X이정재→기다려온 '빈이 오빠' 현빈·김우빈]]></title>
         <id>https://entertain.v.daum.net/v/20220101130002211</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220101090117405"/>
         <updated>2022-01-01T00:21:46.903Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김미화 기자] '비상선언' 송강호, 이병헌 전도연 등 /사진=각 배급사, 소속사 제공 2022년 새로운 한국영화와 외화들이 스크린을 찾는다. 코로나 팬데믹으로 개봉을 연기한 영화들이 올해 순차적으로 관객을 만날 계획을 세우고 있다. 올해 관객과의 만남을 기다리고 있는 2022년 영화들을 미리 짚었다. ━'비상선언' 개봉박두..'압구정 리포트']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['특송''마녀2''밀수' 등..NEW, 女風 몰고 온다  ⑤]]></title>
-        <id>https://entertain.v.daum.net/v/20220101090059392</id>
-        <link href="https://entertain.v.daum.net/v/20220101090059392"/>
-        <updated>2022-01-01T00:21:46.988Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김미화 기자] 김혜수, 라미란, 조민수, 박소담 /사진=스타뉴스 2022년 새로운 한국영화와 외화들이 스크린을 찾는다. 코로나 팬데믹으로 개봉을 연기한 영화들이 올해 순차적으로 관객을 만날 계획을 세우고 있다. 올해 관객과의 만남을 기다리고 있는 2022년 영화들을 미리 짚었다. ━박소담 '특송', 조민수 '마녀2', 김혜수 '밀수', 라미란]]></content>
     </entry>
 </feed>
