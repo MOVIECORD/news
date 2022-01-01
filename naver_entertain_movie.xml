@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-01T02:36:16.523Z</updated>
+    <updated>2022-01-01T03:10:40.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['드라이브 마이 카', 조용한 흥행…2만 관객 돌파]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010921533</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010921533"/>
+        <updated>2022-01-01T03:09:59.077Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 하마구치 류스케 감독의 '드라이브 마이 카'가 조용한 흥행을 이어가고 있다. 1일 영화통합전산망에 따르면 지난달 23일 개봉한 '드라이브 마이 카'는 개봉 10일 만인 이날 오전 9시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘루키’ 무진성을 주목하라 (인터뷰) [신년기획 ②]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000784489</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012891158"/>
         <updated>2021-12-31T22:06:00.896Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 강애란 김정진 기자 = 범띠 스타들이 2022년 임인년(壬寅年) '검은 호랑이의 해'를 맞아 왕성한 움직임을 보이고 있다. 대표적인 범띠 배우로는 1986년생 유아인·변요한, 1962년생 최민식이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 3년차, 2022년 영화계 해결할 숙제는 [신년특집]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005818241</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005818241"/>
-        <updated>2021-12-31T22:06:00.896Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 지난 2021년 영화계는 희망과 절망이 교차했다. 상반기 화두였던 백신 접종은 '위드 코로나' 시대 관객수 회복에 대한 희망을 잠깐 안겨주었으나, 하반기 접종자수가 늘어난 후에도 줄어]]></content>
     </entry>
 </feed>
