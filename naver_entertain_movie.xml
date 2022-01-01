@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-01T05:09:03.462Z</updated>
+    <updated>2022-01-01T06:06:48.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[양심적 병역거부, 18년의 기록]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002573866</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002573866"/>
+        <updated>2022-01-01T06:05:41.173Z</updated>
+        <content type="html"><![CDATA[“모든 국민은 양심의 자유를 가진다”라고 대한민국 헌법 제19조는 말한다. 이 조문에 근거하여, 2018년 6월28일 헌법재판소는 병역법 제88조 제1항 등이 위헌이라고 선언했다. 더 이상 양심적 병역거부자들이 감옥]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 한지민 “해피 뉴이어, 새해 키워드는 모두가 행복”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000042479</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000528638"/>
         <updated>2022-01-01T00:20:52.672Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 1월 1일 신년을 맞아 호캉스를 계획하고 있다면 더없이 적절한 영화, '해피 뉴 이어'를 선택하면 후회가 없을 것 같다. 12월 29일 극장과 티빙을 통해 공개된 영화 '해피 뉴 이어'(감독]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Y터뷰②] 한지민, 눈물로 전한 고백 "'해피뉴이어', 어둠에 있던 날 꺼내줘"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=052&amp;aid=0001684241</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=052&amp;aid=0001684241"/>
-        <updated>2021-12-31T23:04:21.531Z</updated>
-        <content type="html"><![CDATA[대중이 모르는 사이 힘든 시기를 거친 배우 한지민이 눈물을 보였다. 힘든 시기를 극복할 수 있도록 힘을 준 영화 '해피 뉴 이어'로 그가 오랜만에 극장가를 찾는다. 올 연말을 따스하게 밝히는 로맨스 영화 '해피 뉴]]></content>
     </entry>
 </feed>
