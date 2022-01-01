@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 21:05:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 22:06:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fohmynews%2F20211231105102165pwxt.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA['혼자 사는 사람들' 해외 영화제서 잇단 수상]]></title>
-            <link>https://movie.v.daum.net/v/20211231114324043</link>
-            <guid>https://movie.v.daum.net/v/20211231114324043</guid>
-            <pubDate>Fri, 31 Dec 2021 06:05:40 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 한미희 기자 = 영화 '혼자 사는 사람들'이 해외 영화제에서 잇따라 수상했다. 7일 배급사 더쿱에 따르면 '혼자 사는 사람들'은 최근 폐막한 제39회 토리노영화제에서 배우 공승연이 여우주연상을, 제43회 카이로국제영화제에서 홍성은 감독이 신인 감독상을 받았다. 홍 감독의 데뷔작인 '혼자 사는 사람들'은 누구와도 관계를 맺고 싶어하지 않는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fyonhap%2F20211231114324675pjyy.jpg" length="0" type="image//thumb/S732x228/"/>
-        </item>
-        <item>
             <title><![CDATA[아내와 아들 잃은 남자가 전쟁에 뛰어든 까닭]]></title>
             <link>https://movie.v.daum.net/v/20211231095100648</link>
             <guid>https://movie.v.daum.net/v/20211231095100648</guid>
             <pubDate>Fri, 31 Dec 2021 06:05:40 GMT</pubDate>
             <content:encoded><![CDATA[[이정희 기자] 지난 2015년 개봉한 &lt;킹스맨: 시크릿 에이전트&gt;는 &lt;킹스맨: 골든 서클&gt;에 이어&nbsp;&lt;킹스맨: 퍼스트 에이전트&gt;에 이르기까지 시리즈를 거듭하며 세계관을 구축해 나가고 있다. 정장을 차려입고 신발, 만년필, 자동차 등 생활용품을 첨단 무기로 변신시켜 적들과 싸운다는 점에서 '킹스맨'은 전통의 '007'과 다르지 않아 보인다. 그러나 사투리를]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fohmynews%2F20211231095104904zerm.jpg" length="0" type="image//thumb/S384x240/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fohmynews%2F20211231095104904zerm.jpg" length="0" type="image//thumb/S732x228/"/>
+        </item>
+        <item>
+            <title><![CDATA['혼자 사는 사람들' 해외 영화제서 잇단 수상]]></title>
+            <link>https://movie.v.daum.net/v/20211231114324043</link>
+            <guid>https://movie.v.daum.net/v/20211231114324043</guid>
+            <pubDate>Fri, 31 Dec 2021 06:05:40 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 한미희 기자 = 영화 '혼자 사는 사람들'이 해외 영화제에서 잇따라 수상했다. 7일 배급사 더쿱에 따르면 '혼자 사는 사람들'은 최근 폐막한 제39회 토리노영화제에서 배우 공승연이 여우주연상을, 제43회 카이로국제영화제에서 홍성은 감독이 신인 감독상을 받았다. 홍 감독의 데뷔작인 '혼자 사는 사람들'은 누구와도 관계를 맺고 싶어하지 않는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fyonhap%2F20211231114324675pjyy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['특송' 드라이버 박소담, 이게 걸크러쉬다 ②]]></title>
@@ -38,14 +38,6 @@
             <pubDate>Fri, 31 Dec 2021 06:05:40 GMT</pubDate>
             <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='특송' 배우 박소담이 짜릿한 액션으로 스크린에 돌아왔다. 완벽한 카체이싱 액션이 관객을 빨아들인다. 영화 '특송'은 성공률 100%의 특송 전문 드라이버 은하가 예기치 못한 배송사고에 휘말리면서 벌어지는 추격전을 그린 범죄 오락 액션 영화다. '기생충'으로 전세계의 주목을 받은 박소담이 원톱 주연을 맡았다. 한국 영화]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fstarnews%2F20211231091144466hktw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['박소담의 하드캐리' 스릴 만점 액션에 재미까지 '특송'[영화보고서:리뷰]]]></title>
-            <link>https://movie.v.daum.net/v/20211231070006033</link>
-            <guid>https://movie.v.daum.net/v/20211231070006033</guid>
-            <pubDate>Fri, 31 Dec 2021 00:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] 좋은 프레임의 ‘변주’는 인기를 먹고 사는 상업영화로서 가장 안전한 ‘담보’라고도 할 수 있을 듯 하다. 이 변주가 매우 잘 계산되고, 요즘 언어에 맞게 윤색됐으며, 그리하여 전혀 새롭기까지 하다면 이건 ‘성공’인 거다. 예컨대 태초의 갤럭시나 아이폰이 아닌 3, 4 번호를 거듭한 ‘개선 버전’이 대흥행을 했듯이, 바로 이 영화 ‘]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202112%2F31%2Fnewsen%2F20211231070006508lidp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[D:인터뷰] 한계 없는 윤계상]]></title>
@@ -80,28 +72,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F01%2F10asia%2F20220101194304706utli.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] 연상호, 만화 좋아하던 소년에서 세계 주목받는 감독 되기까지]]></title>
-            <link>https://movie.v.daum.net/v/20220101170640470</link>
-            <guid>https://movie.v.daum.net/v/20220101170640470</guid>
-            <pubDate>Sat, 01 Jan 2022 09:05:35 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠한국 모신정 기자] 연상호 감독의 이름 앞에는 항상 '비주얼 마스터'라는 호칭이 따라 붙고 실제 세계 그 어느 감독과 견줘도 뒤지지 않을 만큼 '부산행', '반도', '지옥'에서 누구도 시도하지 않았던 창의적이고 획기적인 비주얼들을 선보여 왔다. 하지만 작품의 비주얼적 창의력과 완성도 못지 않게 연상호 감독을 정의내릴 수 있는 요소 중 하나는 놀]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F01%2FSpoHankook%2F20220101170642061wamk.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[2022 연예계②-영화] '다시 극장으로' 새해 극장가 기대작 라인업 풍성]]></title>
             <link>https://movie.v.daum.net/v/20220102000053986</link>
             <guid>https://movie.v.daum.net/v/20220102000053986</guid>
             <pubDate>Sat, 01 Jan 2022 16:05:46 GMT</pubDate>
             <content:encoded><![CDATA[임인년(壬寅年) 새해가 밝았다. 코로나19 장기화에도 연예계는 지난해 경쟁력 있는 한류 콘텐츠로 세계를 호령한 가운데 유독 희망찬 기대감을 갖고 새해를 맞이했다. 신인 아이돌들이 대거 출격 채비에 나선 가요계는 K팝의 새로운 이정표와 함께 또 한 번 큰 변화를 예고하고 있고, 방송 영화계는 좀더 다양한 콘텐츠들로 시청자와 관객을 만날 준비를 하고 있다.]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F02%2FTHEFACT%2F20220102000054783ipmu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[연예계 키워드, 원작①] 원작 있는 작품들, '우량주(株)' 지속세]]></title>
-            <link>https://movie.v.daum.net/v/20220102000104990</link>
-            <guid>https://movie.v.daum.net/v/20220102000104990</guid>
-            <pubDate>Sat, 01 Jan 2022 16:05:46 GMT</pubDate>
-            <content:encoded><![CDATA[지상파, 케이블 등 방송 채널뿐 아니라 OTT의 무한 경쟁이 시작된 후 양질의 콘텐츠가 쏟아지는 가운데 특히 웹툰과 웹소설을 원작으로 하는 작품들이 올해도 줄지어 공개될 전망이다. 지난해 큰 사랑을 받은 작품과 함께 올해 공개 예정인 작품들을 살펴보고 이런 트렌드가 지속하는 이유와 장단점을 짚어본다. &lt;편집자 주&gt; 웹툰 또는 웹소설 기반 콘텐츠들 흥행]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F02%2FTHEFACT%2F20220102000105731gjty.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[감독으로 만나는 정우성X이정재→기다려온 '빈이 오빠' 현빈·김우빈 [2022 기대되는 男배우]]]></title>
@@ -120,6 +96,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F01%2Fmydaily%2F20220101121642887vedt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[[인터뷰] 연상호, 만화 좋아하던 소년에서 세계 주목받는 감독 되기까지]]></title>
+            <link>https://movie.v.daum.net/v/20220101170640470</link>
+            <guid>https://movie.v.daum.net/v/20220101170640470</guid>
+            <pubDate>Sat, 01 Jan 2022 09:05:35 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 모신정 기자] 연상호 감독의 이름 앞에는 항상 '비주얼 마스터'라는 호칭이 따라 붙고 실제 세계 그 어느 감독과 견줘도 뒤지지 않을 만큼 '부산행', '반도', '지옥'에서 누구도 시도하지 않았던 창의적이고 획기적인 비주얼들을 선보여 왔다. 하지만 작품의 비주얼적 창의력과 완성도 못지 않게 연상호 감독을 정의내릴 수 있는 요소 중 하나는 놀]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F01%2FSpoHankook%2F20220101170642061wamk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[연예계 키워드, 원작①] 원작 있는 작품들, '우량주(株)' 지속세]]></title>
+            <link>https://movie.v.daum.net/v/20220102000104990</link>
+            <guid>https://movie.v.daum.net/v/20220102000104990</guid>
+            <pubDate>Sat, 01 Jan 2022 16:05:46 GMT</pubDate>
+            <content:encoded><![CDATA[지상파, 케이블 등 방송 채널뿐 아니라 OTT의 무한 경쟁이 시작된 후 양질의 콘텐츠가 쏟아지는 가운데 특히 웹툰과 웹소설을 원작으로 하는 작품들이 올해도 줄지어 공개될 전망이다. 지난해 큰 사랑을 받은 작품과 함께 올해 공개 예정인 작품들을 살펴보고 이런 트렌드가 지속하는 이유와 장단점을 짚어본다. &lt;편집자 주&gt; 웹툰 또는 웹소설 기반 콘텐츠들 흥행]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F02%2FTHEFACT%2F20220102000105731gjty.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['왜 병역을 통해 강해져야 하는가'..양심적 거부, 그 18년의 기록]]></title>
             <link>https://movie.v.daum.net/v/20220101144601018</link>
             <guid>https://movie.v.daum.net/v/20220101144601018</guid>
@@ -136,6 +128,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F01%2Fsisapress%2F20220101135507131rbko.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[선수 아들 유괴하고 협박.. 팬심도 선 넘으면 비극이다]]></title>
+            <link>https://movie.v.daum.net/v/20220101110901775</link>
+            <guid>https://movie.v.daum.net/v/20220101110901775</guid>
+            <pubDate>Sat, 01 Jan 2022 02:35:54 GMT</pubDate>
+            <content:encoded><![CDATA[[양형석 기자] 다른 종목의 팬들은 동의하지 못할 수도 있지만 한국인들의 야구 사랑은 남다르다 못해 유별나다. 지난 2013년 LG트윈스가 11년 만에 가을야구에 진출했을 때 플레이오프가 열린 잠실야구장은 옷장 속 먼지가 쌓여 있던 유광점퍼를 입고 나온 LG 팬들의 행렬로 가득 했다. 2008년 만년 하위팀이었던 롯데 자이언츠가 제리 로이스터 감독 부임 후]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F01%2Fohmynews%2F20220101110903876pyeg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['경관의 피'·'특송'·'해적2'..새해 여는 한국영화]]></title>
             <link>https://movie.v.daum.net/v/20220101100735789</link>
             <guid>https://movie.v.daum.net/v/20220101100735789</guid>
@@ -144,12 +144,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F01%2Fnewsy%2F20220101100735779zayo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[선수 아들 유괴하고 협박.. 팬심도 선 넘으면 비극이다]]></title>
-            <link>https://movie.v.daum.net/v/20220101110901775</link>
-            <guid>https://movie.v.daum.net/v/20220101110901775</guid>
-            <pubDate>Sat, 01 Jan 2022 02:35:54 GMT</pubDate>
-            <content:encoded><![CDATA[[양형석 기자] 다른 종목의 팬들은 동의하지 못할 수도 있지만 한국인들의 야구 사랑은 남다르다 못해 유별나다. 지난 2013년 LG트윈스가 11년 만에 가을야구에 진출했을 때 플레이오프가 열린 잠실야구장은 옷장 속 먼지가 쌓여 있던 유광점퍼를 입고 나온 LG 팬들의 행렬로 가득 했다. 2008년 만년 하위팀이었던 롯데 자이언츠가 제리 로이스터 감독 부임 후]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F01%2Fohmynews%2F20220101110903876pyeg.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['특송''마녀2''밀수' 등..NEW, 女風 몰고 온다 [2022 신년특집] ⑤]]></title>
+            <link>https://movie.v.daum.net/v/20220101090059392</link>
+            <guid>https://movie.v.daum.net/v/20220101090059392</guid>
+            <pubDate>Sat, 01 Jan 2022 22:05:50 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 김혜수, 라미란, 조민수, 박소담 /사진=스타뉴스 2022년 새로운 한국영화와 외화들이 스크린을 찾는다. 코로나 팬데믹으로 개봉을 연기한 영화들이 올해 순차적으로 관객을 만날 계획을 세우고 있다. 올해 관객과의 만남을 기다리고 있는 2022년 영화들을 미리 짚었다. ━박소담 '특송', 조민수 '마녀2', 김혜수 '밀수', 라미란]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F01%2Fstarnews%2F20220101090100312kaxh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[2022년은 韓영화산업 분기점..개봉하거나 도산하거나 [2022 신년특집] ①]]></title>
