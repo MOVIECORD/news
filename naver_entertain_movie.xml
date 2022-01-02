@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-02T10:05:10.312Z</updated>
+    <updated>2022-01-02T11:05:34.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['영화배우 신혜수 아버지' 시인 신기선씨 별세]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012893214</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012893214"/>
+        <updated>2022-01-02T11:04:05.939Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 이충원 기자 = 영화배우 신혜수씨의 부친이기도 한 신기선(申基宣) 한국현대시인협회 고문이 지난달 30일 충북 단양 자택에서 세상을 떠났다고 협회가 2일 전했다. 1932년 함북 청진에서 태어난 고인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부고]영화감독 변영주 모친상]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010922632</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003017934"/>
         <updated>2022-01-02T04:05:54.863Z</updated>
         <content type="html"><![CDATA[코로나19 팬데믹으로 영화계는 여전히 암흑 속을 걷고 있다. 많은 기대작들이 개봉 시기를 결정하지 못하고, 멈춰있는 상태다. 그러나 2022년에는 긴 기다림의 시간을 끝내고, 많은 영화와 배우들이 관객들을 만나고자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TEN스타필드] '초짜' 존 왓츠 감독, '스파이더맨' 홈 3부작 성공 비결…10대 범죄물 '캅 카' 있었다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000522161</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000522161"/>
-        <updated>2022-01-02T04:05:54.869Z</updated>
-        <content type="html"><![CDATA[[텐아시아=노규민 기자] ≪노규민의 영화人싸≫ 노규민 텐아시아 영화팀장이 매주 일요일 오전 영화계 인물에 대한 이야기를 전합니다. 배우, 감독, 작가, 번역가, 제작사 등 영화 생태계 구성원들 가운데 오늘뿐 아니라]]></content>
     </entry>
 </feed>
