@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 23:05:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 00:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘개승자’ 3라운드, "초박빙 대혼전"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=183872</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=183872</guid>
+            <pubDate>Sun, 02 Jan 2022 00:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=183872">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220102085717_1418878fd23743629d47fa3942d3ac59.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=183872">‘개승자’ 3라운드, "초박빙 대혼전"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EC%8A%B9%EC%9E%90">개승자</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220102085717_1418878fd23743629d47fa3942d3ac59.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[태종 이방원] “정몽주를 죽일 것이다” 마침내 결심한 이방원]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=183851</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220101211523_4aec195952edf3260d35fa21f7bf72e6_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[불후의 명곡]  ‘절친’ 럭키와 맞대결...크리스티안 - 이차선 다리]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=183754</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=183754</guid>
-            <pubDate>Sat, 01 Jan 2022 12:06:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=183754">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220101210338_eb7375ae319a204ce6f8e532d7a67b03_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=183754">[불후의 명곡]  ‘절친’ 럭키와 맞대결...크리스티안 - 이차선 다리</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220101210338_eb7375ae319a204ce6f8e532d7a67b03_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
