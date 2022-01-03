@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-03T12:07:46.184Z</updated>
+    <updated>2022-01-03T13:19:19.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스티븐 스필버그와 윤제균이 만났다, "'웨스트 사이드 스토리' 재미+감동+볼거리 모두 잡아"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003566925</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003566925"/>
+        <updated>2022-01-03T13:18:37.775Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]영화 '웨스트 사이드 스토리'의 연출을 맡은 세계적인 감독 스티븐 스필버그와 윤제균 감독의 특별 대담 영상이 뜨거운 화제를 모으고 있다. 2022년, 새로운 세상을 꿈꾸는 모두에게 특별한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['특송' 아트 NFT, 선판매 수량 1초 만에 '완판']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000336204</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003566850"/>
         <updated>2022-01-03T08:05:41.619Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 배우 송새벽이 역할 소화를 위해 체중 감량을 감행했다고 밝혔다. 영화 '특송'의 주역 송새벽을 3일 오후 화상으로 만났다. '봉이 김선달'(2016), '그림자 살인'(2009) 박대민]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['특송' 송새벽 "갑상샘암 수술 받은 박소담, 많이 호전됐다더라" [MD인터뷰②]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003566848</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003566848"/>
-        <updated>2022-01-03T08:05:41.633Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 배우 송새벽이 배우 박소담과 합 맞춘 소감을 털어놨다. 영화 '특송'의 주역 송새벽을 3일 오후 화상으로 만났다. '봉이 김선달'(2016), '그림자 살인'(2009) 박대민 감독이]]></content>
     </entry>
 </feed>
