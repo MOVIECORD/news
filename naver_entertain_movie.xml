@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-03T10:05:18.435Z</updated>
+    <updated>2022-01-03T11:05:55.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['웨스트 사이드 스토리', 레전드 OST '발코니 신' 클립 공개…역대급 라이브 펼쳐진다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003566886</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003566886"/>
+        <updated>2022-01-03T11:05:05.725Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 2022년, 새로운 세상을 꿈꾸는 모두에게 특별한 메시지를 선사할 영화 '웨스트 사이드 스토리'가 OST 'Balcony Scene (Tonight)' 클립을 공개했다. 새해 극장가에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[레아 세두의 이름으로 기억될 영화 '프랑스']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012895477</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000954301"/>
         <updated>2022-01-03T08:05:41.638Z</updated>
         <content type="html"><![CDATA[영화 ‘특송’이 ‘한국판 타임스퀘어’로 불리는 삼성역 코엑스 K-POP 스퀘어에서 박진감 넘치는 카체이싱 액션과 맨몸 액션을 선보였다. 배급사 NEW에 따르면 ‘특송’은 성공률 100%의 특송 전문 드라이버 ‘은하’]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고요의 바다' 히든카드 김시아]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001203853</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001203853"/>
-        <updated>2022-01-03T08:05:41.643Z</updated>
-        <content type="html"><![CDATA[글로벌 엔터테인먼트 스트리밍 서비스 넷플릭스(Netflix)의 '고요의 바다'가 이야기의 핵심 비밀을 간직한 루나의 캐릭터 스틸을 공개했다. 달로 출정한 한국 첫 SF 미스터리 스릴러로 시청자들을 사로잡은 '고요의]]></content>
     </entry>
 </feed>
