@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-04T14:06:20.800Z</updated>
+    <updated>2022-01-04T15:06:41.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘피드백’ 극장 개봉 기념 특별GV 8일 개최]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000785104</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000785104"/>
+        <updated>2022-01-04T15:05:47.972Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 영화 팬들 사랑을 받는 스페인 스릴러의 계보를 이을 영화 ‘피드백’이 오는 5일 개봉을 기념해 특별 GV를 개최한다. ‘피드백’은 한때 최고의 스타였지만 지금은 보잘것없는 라디오 프로그램을 진행하는 자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영진위 신임 위원에 김동현 독립영화협회 이사 등 6명]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000785090</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003018596"/>
         <updated>2022-01-04T09:04:34.663Z</updated>
         <content type="html"><![CDATA[문화체육관광부가 영화진흥위원회 비상임 위원 6명을 임명하고 임명장을 수여했다고 4일 밝혔다. 새로 임명된 영진위원은 김동현 메리크리스마스 영화사업본부 본부장, 김동현(여) 한국독립영화협회 이사, 김선아 단국대 공연영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['상실의 시대'와 인간을 위로하는 영화]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002337949</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002337949"/>
-        <updated>2022-01-04T08:05:53.892Z</updated>
-        <content type="html"><![CDATA[[리뷰] 하마구치 류스케의 신작 &lt;드라이브 마이 카&gt; ▲ 영화 &lt;드라이브 마이 카&gt; 공식 포스터. ⓒ 영화사 조아 1895년 뤼미에르 형제가 처음 선보인 영화가 등장한 후 상당수 문학작품이 영화로 제작된다. 기록에]]></content>
     </entry>
 </feed>
