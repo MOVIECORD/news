@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-01-04T18:07:32.279Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 04 Jan 2022 20:06:16 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[TEN인터뷰] '경관의 피' 최우식 "근육질 마초남? NO..진짜 벌크업 이유 따로 있죠"]]></title>
+            <link>https://v.daum.net/v/20220105050101682</link>
+            <guid>https://v.daum.net/v/20220105050101682</guid>
+            <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=노규민 기자] "'기생충' 이후 제가 걸어야 할 '연기의 길'을 생각해 봤어요. 부담감이 밀려 오더라고요. 미래에 대해 고민 하느랴 잠도 제대로 못 잤습니다." 봉준호 감독 영화 '기생충'이 칸 영화제부터 미국 아카데미 시상식까지 세계를 재패하면서, 작품의 주역인 최우식의 주가도 덩달아 상승했다. 국내외를 막론하고 러브콜이 쏟아졌고, 최우식은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F05%2F10asia%2F20220105050103853szjo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["제작비 회수도 어려워"..영화사들, 드라마 제작에 눈 돌리다]]></title>
+            <link>https://v.daum.net/v/20220105043021522</link>
+            <guid>https://v.daum.net/v/20220105043021522</guid>
+            <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘기생충’(2019)의 제작사 바른손 이앤에이는 지난해 9월 사업 확장 발표를 했다. 봉준호·김성훈·이용주·엄태화 감독 등과 영화 제작 협업을 하는 한편 드라마 사업에 진출하겠다는 내용이었다. 인기 드라마 ‘마인’(2021)의 백미경 작가와 두 작품을 함께하기로 계약했고, 드라마 ‘태양의 후예’(2016)의 제작자 서우식씨를 대표로 영입해 드라마 제작]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F05%2Fhankooki%2F20220105043023749hpmt.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
