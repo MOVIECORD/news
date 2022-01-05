@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 08:06:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 09:05:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[제작발표회] 이선희-이금희, 이 조합이라면 채널 '한 번쯤 멈출 수밖에']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=184773</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=184773</guid>
+            <pubDate>Wed, 05 Jan 2022 09:04:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=184773">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220105141702_90bbebd0c89e691ad12a1e5da862e256.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=184773">[제작발표회] 이선희-이금희, 이 조합이라면 채널 '한 번쯤 멈출 수밖에'</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%95%9C%20%EB%B2%88%EC%AF%A4%20%EB%A9%88%EC%B6%9C%20%EC%88%98%EB%B0%96%EC%97%90">한 번쯤 멈출 수밖에</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220105141702_90bbebd0c89e691ad12a1e5da862e256.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[울부짖는 이혜리, 유승호 지키기 위한 애절한 마음]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=184629</link>
@@ -347,23 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%BD%83%20%ED%94%BC%EB%A9%B4%20%EB%8B%AC%20%EC%83%9D%EA%B0%81%ED%95%98%EA%B3%A0">월화드라마 꽃 피면 달 생각하고</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220104170254_00e0c5b34c597b9e65a9dc6e8b98f0c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KBS 베이징동계올림픽 “자국중심, 성적지상주의 벗어나 땀의 가치 전달할 것”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=184383</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=184383</guid>
-            <pubDate>Tue, 04 Jan 2022 01:57:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=184383">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220104104331_5868b7c7431697e30418ace64119766c.JPG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=184383">KBS 베이징동계올림픽 “자국중심, 성적지상주의 벗어나 땀의 가치 전달할 것”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220104104331_5868b7c7431697e30418ace64119766c.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
