@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 07:06:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 08:06:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] 해탄적일천 ‘여자의 길, 대만의 운명’ (양덕창 감독,1983)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=184782</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=184782</guid>
+            <pubDate>Wed, 05 Jan 2022 08:03:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=184782">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220105163731_23dbe7d0bfb1ba7da55f6f183fadc450.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=184782">[리뷰] 해탄적일천 ‘여자의 길, 대만의 운명’ (양덕창 감독,1983)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220105163731_23dbe7d0bfb1ba7da55f6f183fadc450.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] 구찌 제국에 서린 광기와 욕망의 인간사 '하우스 오브 구찌']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=184751</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=184012">CGV에서 ‘밀라노 두오모 콘서트’를 본다</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103094158_006fdd7014a649089b7fe13a88e3e0fb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스파이더맨: 노 웨이 홈' 600만 관객 돌파! 멈추지 않는 흥행 열기]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=184002</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=184002</guid>
-            <pubDate>Mon, 03 Jan 2022 01:54:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=184002">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103093120_d7b9e3d40859470a85bfe2bce4e45fbf.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=184002">'스파이더맨: 노 웨이 홈' 600만 관객 돌파! 멈추지 않는 흥행 열기</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103093120_d7b9e3d40859470a85bfe2bce4e45fbf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
