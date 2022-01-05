@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 05:11:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 06:07:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] 구찌 제국에 서린 광기와 욕망의 인간사 '하우스 오브 구찌']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=184751</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=184751</guid>
+            <pubDate>Wed, 05 Jan 2022 06:04:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=184751">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220105134047_dd75e8b3876e6c0600e045ae04b366d7.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=184751">[리뷰] 구찌 제국에 서린 광기와 욕망의 인간사 '하우스 오브 구찌' </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220105134047_dd75e8b3876e6c0600e045ae04b366d7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[권율-박하선 부부, 달달한 바닷가 데이트 현장!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=184651</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=184002">'스파이더맨: 노 웨이 홈' 600만 관객 돌파! 멈추지 않는 흥행 열기</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103093120_d7b9e3d40859470a85bfe2bce4e45fbf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니+ '북 오브 보바 펫' 한국에선 2월 스트리밍 시작]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=183966</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=183966</guid>
-            <pubDate>Mon, 03 Jan 2022 00:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=183966">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103084601_260ef2fc2bc88bc4678aa9b7d9ffa4ed.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=183966">디즈니+ '북 오브 보바 펫' 한국에선 2월 스트리밍 시작</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220103084601_260ef2fc2bc88bc4678aa9b7d9ffa4ed.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
