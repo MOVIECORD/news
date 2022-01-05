@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-01-05T21:05:59.388Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 05 Jan 2022 22:05:48 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰②] 신소율 "♥김지철과 결혼 후 예민함 줄어, 책 낸 이유는.."]]></title>
+            <link>https://v.daum.net/v/20220106070309550</link>
+            <guid>https://v.daum.net/v/20220106070309550</guid>
+            <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(인터뷰①에 이어) 신소율은 2018년 뮤지컬 배우 김지철과 공개 열애를 시작, 2019년 결혼식을 올리며 부부가 됐다. 신소율의 남편 김지철은 ‘긴 하루’의 세 번째 이야기에 감독 역으로 출연하기도 했다. 신소율은 남편과 서로 연기 이야기를 나누냐는 질문에 “3편에 나오는 감독이 제 남편”이라며 “서로 연기를 평가해주진 않는다. 남편이 뮤지컬 배우라]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F06%2Fstartoday%2F20220106070311510rpay.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰①] '긴 하루' 신소율 "대본 쭉쭉 읽혀..강릉 촬영 좋았죠"]]></title>
+            <link>https://v.daum.net/v/20220106070301544</link>
+            <guid>https://v.daum.net/v/20220106070301544</guid>
+            <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 신소율(36)이 옴니버스 영화 ‘긴 하루’를 들고 올겨울 극장가를 찾았다. 하와이 국제영화제에 초청된 ‘긴 하루’(감독 조성규)는 꿈 같은 하루를 우연히 떠돌게 되며 만나고 헤어지는 남녀의 이야기를 그린다. 김동완을 비롯해 남보라 신소율 정연주 등이 출연, 한 편의 소설처럼 네 개의 이야기가 수수께끼같이 이어진다. 신소율은 극 중 네 번째 이야기]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F06%2Fstartoday%2F20220106070308119qfan.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[TEN인터뷰] '특송' 김의성, 26살 차이 박소담과 각별한 우정 "완벽해도 노력하는 '독종'"]]></title>
+            <link>https://v.daum.net/v/20220106070103487</link>
+            <guid>https://v.daum.net/v/20220106070103487</guid>
+            <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자] "그동안 맡았던 역보다, 체중이 가벼운 느낌의 역할이라는 점이 마음에 들었어요. 그치만 제 역할 자체보다 영화 시나리오 전체에 더 끌렸죠. 여성 주인공이 액션을 이끌어가는 모습도 좋았어요. 그동안 여성 액션 영화가 몇 편 있었지만 상상력에 의존하는 면이 컸다면 이번 영화는 좀 더 피부로 와닿았어요. 무엇보다 박소담 씨가 한다고 해]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F06%2F10asia%2F20220106070105400ykyh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[넷플릭스 '골든글러브 시상식 보이콧' 남우주연상 후보 이정재, 참석 안한다]]></title>
+            <link>https://v.daum.net/v/20220106065723395</link>
+            <guid>https://v.daum.net/v/20220106065723395</guid>
+            <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이정재 사진제공|아티스트컴퍼니넷플릭스 드라마 ‘오징어게임’을 통해 한국 배우 최초로 미국 골든글로브 남우주연상 후보에 오른 이정재가 시상식에 불참한다. 이정재를 비롯해 연출자 황동혁 감독, 남우조연상 후보에 오른 오영수도 시상식에 가지 않는다. ‘오징어게임’ 제작 투자사인 넷플릭스 등이 시상식을 보이콧한 여파이다. 5일 소속사 아티스트컴퍼니에 따르면 이정]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F06%2Fsportsdonga%2F20220106065724833cuvt.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
