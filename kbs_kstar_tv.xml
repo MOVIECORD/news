@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 06:07:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 07:05:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한가인, SBS예능 ‘써클 하우스’ 합류]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=184945</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=184945</guid>
+            <pubDate>Thu, 06 Jan 2022 07:04:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=184945">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220106143311_b3dfd99019141b0323083ba44c2ed291.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=184945">한가인, SBS예능 ‘써클 하우스’ 합류</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220106143311_b3dfd99019141b0323083ba44c2ed291.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이동욱이 자아낸 환상의 케미스트리 "다 드루와~" '배드 앤 크레이지']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=184894</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=183688">SBS 그것이 알고 싶다,  '스토킹, 내 집 앞의 악마들'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220101093741_c24142b9b4f9a7dcb0e850b3296c7378_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송혜교, 선택의 기로에 서다]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=183760</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=183760</guid>
-            <pubDate>Sat, 01 Jan 2022 13:14:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=183760">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220101210928_22550c32b5dcf5aa5f437df73cc63736.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=183760">송혜교, 선택의 기로에 서다</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220101210928_22550c32b5dcf5aa5f437df73cc63736.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
