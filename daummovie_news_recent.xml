@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-01-06T21:05:54.264Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 06 Jan 2022 22:05:45 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰①] '긴 하루' 김동완 "조성규 감독에 많이 배워, 단편 연출 데뷔 꿈꿔"]]></title>
+            <link>https://v.daum.net/v/20220107070311845</link>
+            <guid>https://v.daum.net/v/20220107070311845</guid>
+            <pubDate>Thu, 06 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김동완(42)이 옴니버스 영화 ‘긴 하루’를 들고 올겨울 극장가를 찾았다. 하와이 국제영화제에 초청된 ‘긴 하루’(감독 조성규)는 꿈 같은 하루를 우연히 떠돌게 되며 만나고 헤어지는 남녀의 이야기를 그린다. 김동완을 비롯해 남보라 신소율 정연주 등이 출연, 한 편의 소설처럼 네 개의 이야기가 수수께끼처럼 이어진다. 김동완은 극 중 첫 번째 이야기에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F07%2Fstartoday%2F20220107070312369zyok.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰②] 김동완 "가평 생활로 강박증 불면증 약 끊어"]]></title>
+            <link>https://v.daum.net/v/20220107070306840</link>
+            <guid>https://v.daum.net/v/20220107070306840</guid>
+            <pubDate>Thu, 06 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(인터뷰①에 이어) 1998년 그룹 신화 멤버로 연예계에 발을 들인 김동완. 드라마 ‘천국의 아이들’(2002)부터 따지면 배우로서도 20년 차가 됐다. 김동완은 연기의 매력을 묻자 “‘천국의 아이들’을 할 때는 저를 투영시켰다. 화가 날 땐 누구랑 싸운 걸 생각하고 그랬는데, 어느 땐 빙의 된 것처럼 그 사람이 되는 전율 같은 게 느껴질 때가 있다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F07%2Fstartoday%2F20220107070309723teeh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['경관의 피' 권율 "유재석의 목표와 꿈에 공감, 제 생각과 같다" [인터뷰M]]]></title>
+            <link>https://v.daum.net/v/20220107070130816</link>
+            <guid>https://v.daum.net/v/20220107070130816</guid>
+            <pubDate>Thu, 06 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지금까지 보여주지 않았던 건장한 비주얼로 스타일리쉬한 범죄자를 그려낸 배우 권율을 만났다. 권율은 위법 수사도 개의치 않는 광수대 에이스 강윤(조진웅 분)과 그를 감시하게 된 언더커버 신입경찰 민재(최우식 분)의 위험한 추적을 그린 범죄수사극 '경관의 피'에서 강윤이 쫓는 마약업자 나영빈 역할을 맡아 강렬한 빌런 연기를 펼쳤다. 권율은 이번 작품에서 기]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F07%2FiMBC%2F20220107070136679jjfz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[독립영화 행사 몰래 후원.. 정우성은 "적은 돈이라 죄송하다" 했다 [라제기의 '배우'다]]]></title>
+            <link>https://v.daum.net/v/20220107070003753</link>
+            <guid>https://v.daum.net/v/20220107070003753</guid>
+            <pubDate>Thu, 06 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[편집자주 ※ 여러분이 잘 아는 배우의 덜 알려진 면모와 연기 세계를 주관적인 시선으로 전합니다. 이정재와 정우성은 늘 붙어 다니는 이름이다. 동갑인 데다 데뷔 시기가 비슷했고, 한국 영화 재부흥의 태동과 약동을 관통했다. ‘젊은 남자’(1994)와 ‘비트’(1997)로 청춘의 아이콘으로 각각 떠오르더니 ‘태양은 없다’(1999)로 인연을 맺었다. 둘이 상징]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F07%2Fhankooki%2F20220107070006286egic.gif" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
