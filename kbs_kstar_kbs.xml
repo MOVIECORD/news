@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 09:05:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 10:05:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최백호-이선희 "한 번쯤, 부산 바다 크루즈 여행"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=184997</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=184997</guid>
+            <pubDate>Thu, 06 Jan 2022 10:04:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=184997">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220106181135_505f36dea01cc5c25cc143c33cedd9ed.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=184997">최백호-이선희 "한 번쯤, 부산 바다 크루즈 여행"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%95%9C%20%EB%B2%88%EC%AF%A4%20%EB%A9%88%EC%B6%9C%20%EC%88%98%EB%B0%96%EC%97%90">한 번쯤 멈출 수밖에</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220106181135_505f36dea01cc5c25cc143c33cedd9ed.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[제작발표회] 박세리-김성주가 중계하는 스포츠 스타 가족들의 일상 '우리끼리 작전타임']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=184964</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%20%EC%8B%9C%EC%A6%8C3">박원숙의 같이 삽시다 시즌3</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220105233515_f2cf7f583ae9d7fe89a3f927c16a71df_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[제작발표회] 이선희-이금희, 이 조합이라면 채널 '한 번쯤 멈출 수밖에']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=184773</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=184773</guid>
-            <pubDate>Wed, 05 Jan 2022 09:04:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=184773">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220105141702_90bbebd0c89e691ad12a1e5da862e256.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=184773">[제작발표회] 이선희-이금희, 이 조합이라면 채널 '한 번쯤 멈출 수밖에'</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%95%9C%20%EB%B2%88%EC%AF%A4%20%EB%A9%88%EC%B6%9C%20%EC%88%98%EB%B0%96%EC%97%90">한 번쯤 멈출 수밖에</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220105141702_90bbebd0c89e691ad12a1e5da862e256.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
