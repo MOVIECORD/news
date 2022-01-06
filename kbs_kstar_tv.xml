@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 07:05:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 08:06:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김태리-남주혁 상큼한 매력 , 드라마 ‘스물다섯 스물하나’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=184969</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=184969</guid>
+            <pubDate>Thu, 06 Jan 2022 08:05:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=184969">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220106165450_f70018a8d99081376c9215719ae22ddc_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=184969">김태리-남주혁 상큼한 매력 , 드라마 ‘스물다섯 스물하나’</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220106165450_f70018a8d99081376c9215719ae22ddc_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한가인, SBS예능 ‘써클 하우스’ 합류]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=184945</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=183785">차지연 '모범택시'로 SBS연기대상 조연상, 축하무대</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220101213646_336a5f44747c9bd36fcf0620f2d2a4f9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SBS 그것이 알고 싶다,  '스토킹, 내 집 앞의 악마들']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=183688</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=183688</guid>
-            <pubDate>Sat, 01 Jan 2022 14:03:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=183688">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220101093741_c24142b9b4f9a7dcb0e850b3296c7378_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=183688">SBS 그것이 알고 싶다,  '스토킹, 내 집 앞의 악마들'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220101093741_c24142b9b4f9a7dcb0e850b3296c7378_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
