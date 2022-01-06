@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 22:05:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 23:05:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애거스티 크리스티 원작 영화 '나일 강의 죽음' 2월 개봉]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=185037</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=185037</guid>
+            <pubDate>Thu, 06 Jan 2022 23:03:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=185037">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220107074058_a5486583c113cf8cc82fc8522a8f3fe2.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=185037">애거스티 크리스티 원작 영화 '나일 강의 죽음' 2월 개봉</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220107074058_a5486583c113cf8cc82fc8522a8f3fe2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 이규만 감독, 새해 첫 한국 영화에 깃든 자신감 '경관의 피']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=184981</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=184308">[리뷰] '고요의 바다' 넷플릭스 시리즈 사상 가장 '고요한 반응'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220104090122_0ca35c80acb94587316971a1133e3ec0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니+ '너와 나의 경찰수업' 강다니엘의 MBTI는?]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=184288</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=184288</guid>
-            <pubDate>Tue, 04 Jan 2022 00:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=184288">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220104081432_fd4f643a7734fe1ca0f2ff121481c68f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=184288">디즈니+ '너와 나의 경찰수업' 강다니엘의 MBTI는?</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220104081432_fd4f643a7734fe1ca0f2ff121481c68f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
