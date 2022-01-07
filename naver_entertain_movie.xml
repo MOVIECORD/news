@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-07T14:05:57.227Z</updated>
+    <updated>2022-01-07T15:06:10.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['해적: 도깨비 깃발', 상상을 초월하는 역대급 어드벤처]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003568002</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003568002"/>
+        <updated>2022-01-07T15:05:25.604Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]신선한 소재, 스펙터클한 볼거리, 충무로 대세 배우들의 만남으로 기대를 높이는 영화 '해적: 도깨비 깃발'이 한시도 눈을 뗄 수 없는 메인 예고편을 최초 공개했다. 한국 오락 블록버스터의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中 베이징 동계올림픽 개·폐회식도 장이머우에 맡겨]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005832228</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000785731"/>
         <updated>2022-01-07T08:05:29.694Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 미국 할리우드 황금시대 향수를 자아내는 작품으로 1970년대 평단의 호평을 받았던 피터 보그다노비치 (Peter Bogdanovich)감독이 82세를 일기로 별세했다. 보그다노비치 감독은 6일(현지시간]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Coming Soon] 콧수염 명탐정 포와로가 돌아온다 '나일 강의 죽음']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046339</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046339"/>
-        <updated>2022-01-07T08:05:29.697Z</updated>
-        <content type="html"><![CDATA[콧수염 명탐정 포와로(케네스 브래나)가 돌아온다. 부유한 리넷(갤 가돗), 사이먼(아미 해머) 신혼부부가 탑승한 나일강 여객선에서 밀실 살인 사건이 일어난다. 용의자는 모두 11명인데, 그중엔 친구인 리넷에게 애인]]></content>
     </entry>
 </feed>
