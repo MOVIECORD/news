@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-07T10:06:26.428Z</updated>
+    <updated>2022-01-07T11:05:33.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['해적: 도깨비 깃발' 메인 예고편 공개 '역대급 어드벤처']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001204296</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001204296"/>
+        <updated>2022-01-07T11:04:28.890Z</updated>
+        <content type="html"><![CDATA[영화 ‘해적: 도깨비 깃발’이 한시도 눈을 뗄 수 없는 메인 예고편을 최초 공개했다. 한국 오락 블록버스터의 한 획을 그었던 ‘해적’의 귀환 ‘해적: 도깨비 깃발’은 흔적도 없이 사라진 왕실 보물의 주인이 되기 위해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['경관의 피' 조진웅 "날 선 인물 표현 위한 럭셔리 수트 부담스럽더라" [인터뷰M]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000143074</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001395125"/>
         <updated>2022-01-07T07:05:29.583Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 영화진흥위원회(이하 코픽)가 7일 2022년 제1차 정기회의에서 호선을 통해 단국대학교 문화예술대학원 영화학과 주임교수인 박기용 위원을 신임 위원장으로 선출했다. 위원장 임기는 2024년]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['죽음의 도시, 살아남아야 한다'…'레지던트 이블: 라쿤시티' 메인 포스터·예고편]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001395121</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001395121"/>
-        <updated>2022-01-07T07:05:29.590Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '레지던트 이블: 라쿤시티'(감독 요하네스 로버츠)가 메인 포스터와 메인 예고편을 공개했다. '레지던트 이블: 라쿤시티'는 엄브렐러의 철수 후 좀비 바이러스에 의해 지옥으로 돌변한]]></content>
     </entry>
 </feed>
