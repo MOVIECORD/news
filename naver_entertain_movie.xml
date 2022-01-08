@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-08T12:10:10.952Z</updated>
+    <updated>2022-01-08T13:18:01.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['드라이브 마이 카' 3만 돌파, 하마구치 류스케 감독 "극장 찾아준 관객에게 감사"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003568215</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003568215"/>
+        <updated>2022-01-08T13:17:08.604Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]2021 제74회 칸영화제 각본상 수상에 빛나는 하마구치 류스케 감독의 '드라이브 마이 카'가 12월 23일(목) 개봉하여 개봉 3주 차에 접어든 상황에서도 뜨거운 흥행 열기 속에 3만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[N차 관람 열풍…‘드라이브 마이 카’ 3만 관객 돌파!]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000601622</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000523495"/>
         <updated>2022-01-08T06:06:14.351Z</updated>
         <content type="html"><![CDATA[[텐아시아=조준원 기자]가수 겸 배우 진영이 8일 오후 서울 용산구 CGV용산점에서 열린 영화 '씽2게더' 무대인사에 참석해 관객에게 인사를 하고 있다. 조준원 기자 wizard333@tenasia.co.kr]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[송영애의 영화이야기] 아름다운 악녀 최지희 배우를 추모하며]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003655585</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003655585"/>
-        <updated>2022-01-08T05:10:58.869Z</updated>
-        <content type="html"><![CDATA[‘아름다운 악녀’(감독 이강천, 1958) 스틸컷. 네이버 영화 라이브러리 ‘아름다운 악녀’라 불리는 배우가 있었다. 바로 지난해 10월 세상을 떠난 배우 최지희씨 이야기다. 주 활동 기간이 1958부터 1973년까]]></content>
     </entry>
 </feed>
