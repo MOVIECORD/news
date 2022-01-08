@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-08T10:06:47.556Z</updated>
+    <updated>2022-01-08T11:06:00.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[N차 관람 열풍…‘드라이브 마이 카’ 3만 관객 돌파!]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000601622</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000601622"/>
+        <updated>2022-01-08T11:05:09.701Z</updated>
+        <content type="html"><![CDATA[지난 12월 23일 개봉하여 새해에도 흥행 레이스를 멈추지 않고 있는 ‘드라이브 마이 카’가 1월 8일 3만 관객을 돌파했다. 2021년 12월 23일에 개봉해 개봉 3주 차 주말에 3만 관객을 돌파한 ‘드라이브 마]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['해피 뉴 이어' 권상우로 출연한 권상우..반갑네 [★신스틸러]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003019674</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003655585"/>
         <updated>2022-01-08T05:10:58.869Z</updated>
         <content type="html"><![CDATA[‘아름다운 악녀’(감독 이강천, 1958) 스틸컷. 네이버 영화 라이브러리 ‘아름다운 악녀’라 불리는 배우가 있었다. 바로 지난해 10월 세상을 떠난 배우 최지희씨 이야기다. 주 활동 기간이 1958부터 1973년까]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킹메이커' 조우진,선거 전략가로..이선균 "가장 궁금했던 배우"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003019661</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003019661"/>
-        <updated>2022-01-08T05:10:58.874Z</updated>
-        <content type="html"><![CDATA[배우 조우진이 '킹메이커'에서 여당의 선거 전략가로 변신했다. 조우진의 변신에 대해 동료 배우 이선균도 "가장 궁금했던 배우다"라고 밝혔다. '킹메이커'는 세상을 바꾸기 위해 도전하는 정치인 '김운범'과 존재도 이름]]></content>
     </entry>
 </feed>
