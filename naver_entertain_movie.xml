@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-09T15:05:19.567Z</updated>
+    <updated>2022-01-09T16:07:09.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“지역에서 만들어지는 좋은 단편·독립영화 더 많은 분께 알려야죠”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000876973</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000876973"/>
+        <updated>2022-01-09T16:06:21.872Z</updated>
+        <content type="html"><![CDATA[강릉 홍제동 오래된 마을 골목에는 지치고 힘들 때 찾고 싶은 상영 공간 ‘무명'이 있다. 다락방 영화관 ‘무명'을 운영하고 있는 이는 1986년생 호랑이띠, 임초롱 대표. 강릉 주문진에서 학창 시절을 모두 보낸 그는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[포토] 영화 '1987' 배우 강동원, 배은심 여사 조문 "올해 꼭 뵙자 했는데..."]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004005952</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003019796"/>
         <updated>2022-01-09T03:10:13.816Z</updated>
         <content type="html"><![CDATA[배우 김의성은 여전히 '배우'라는 수식어가 너무 좋다. 뭣도 모르고 선택한 연기지만, 배우라는 직업을 가지고 있는 한 여전히 그는 가슴 뛰는 삶을 사는 중이다. '특송'은 성공률 100%의 특송 전문 드라이버 '은하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[치매와 나이듦에 저항하던 이 노인의 처절한 선택]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002338407</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002338407"/>
-        <updated>2022-01-09T02:38:45.059Z</updated>
-        <content type="html"><![CDATA[[리뷰] 영화 &lt;더 파더&gt; 안소니(안소니 홉킨스)는 은퇴 후 집에서 홀로 소일하고 있는 80대 노인이다. 최근 그가 주변에서 겪고 있는 일들은 온통 이해하기 어려운 것들이다. 언젠가부터 큰 딸 앤(올리비아 콜맨)은]]></content>
     </entry>
 </feed>
