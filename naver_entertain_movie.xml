@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-09T09:06:13.568Z</updated>
+    <updated>2022-01-09T10:06:23.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 '1987' 장준환 감독·강동원, 배은심 여사 빈소 조문 예정]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012906923</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012906923"/>
+        <updated>2022-01-09T10:04:57.036Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 한미희 기자 = 1987년 민주화 운동을 다룬 영화 '1987'(2017)의 장준환 감독과 배우 강동원이 이한열 열사의 모친 배은심 여사의 빈소를 찾아 조문할 예정이다. 9일 영화계에 따르면 현재]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['경제성장 이론' 김신행 서울대 명예교수 별세]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000651665</id>
@@ -17,7 +24,7 @@
         <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003121415</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003121415"/>
         <updated>2022-01-09T08:06:03.418Z</updated>
-        <content type="html"><![CDATA[[경향신문] 지난해 최고작 ‘드라이브 마이 카’에서 한국인 청각장애인 배우 유나 역 대본을 감정 없이 읽어나가는 연습 “과학실험 같아…내 안에서 무언가 일어나” &lt;드라이브 마이 카&gt;는 신비한 영화다. 주인공의 사]]></content>
+        <content type="html"><![CDATA[[경향신문] 지난해 최고작 ‘드라이브 마이 카’에서 한국인 언어장애인 배우 유나 역 대본을 감정 없이 읽어나가는 연습 “과학실험 같아…내 안에서 무언가 일어나” &lt;드라이브 마이 카&gt;는 신비한 영화다. 주인공의 사]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[뭐봐영?] 레옹·영웅본색·엔칸토...이번주 OTT 신작만 모아봄]]></title>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000651595"/>
         <updated>2022-01-09T02:02:44.283Z</updated>
         <content type="html"><![CDATA[듣는 영화가 나왔다. 오디오 무비 '층'은 귀로 즐기는 작품이다. 배우들의 목소리 열연과 긴장감을 자아내는 각종 효과음이 손에 땀을 쥐게 만든다. 많은 관객들이 '층'이 알려준 오디오 무비의 매력에 푹 빠진 듯한 모]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고장난 박소담, '특송'과 닮았다…갑상선 유두암 수술까지[TEN피플]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000523705</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000523705"/>
-        <updated>2022-01-09T02:02:44.286Z</updated>
-        <content type="html"><![CDATA[[텐아시아=노규민 기자] ≪노규민의 영화人싸≫ 노규민 텐아시아 영화팀장이 매주 일요일 오전 영화계 인물에 대한 이야기를 전합니다. 배우, 감독, 작가, 번역가, 제작사 등 영화 생태계 구성원들 가운데 오늘뿐 아니라]]></content>
     </entry>
 </feed>
