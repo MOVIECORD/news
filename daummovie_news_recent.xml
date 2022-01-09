@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-01-09T21:06:04.303Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 09 Jan 2022 22:05:39 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화산업 축소..최민식·설경구도 OTT행]]></title>
+            <link>https://v.daum.net/v/20220110065719718</link>
+            <guid>https://v.daum.net/v/20220110065719718</guid>
+            <pubDate>Sun, 09 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 최민식, 설경구(왼쪽부터) 등 스크린을 주 무대로 활약해온 톱스타들이 올해 OTT를 새 무대 삼아 변신을 꾀한다. 사진제공｜롯데엔터테인먼트·씨제스엔터테인먼트 10일(한국시간) 한국 드라마 최초로 미국 골든글로브 3개 부문 후보에 오른 넷플릭스 한국 오리지널 시리즈 ‘오징어게임’의 수상여부가 판가름 난다. 여러 가지 이유 등으로 배우 이정재와 연출을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F10%2Fsportsdonga%2F20220110065720568yhzb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[해리포터 20주년 다큐, 세계 곳곳서 화제]]></title>
+            <link>https://v.daum.net/v/20220110065717717</link>
+            <guid>https://v.daum.net/v/20220110065717717</guid>
+            <pubDate>Sun, 09 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘해리 포터’ 시리즈의 개봉 20주년을 기념해 제작된 다큐멘터리 ‘리턴 투 호그와트’의 한 장면. 사진출처｜HBO맥스 트위터 전 세계적으로 사랑받은 영화 ‘해리포터’ 시리즈가 2001년 개봉한 지 20년이 지난 지금까지 식지 않은 인기를 자랑한다. 최근 20주년 기념 다큐멘터리 ‘해리포터:리턴 투 호그와트’(리턴 투 호그와트)로 국내뿐 아니라 세계]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F10%2Fsportsdonga%2F20220110065718749wmej.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[안젤리나 졸리♥위켄드, 15살 연상연하 커플 탄생하나 "그녀를 사랑했다"[해외이슈]]]></title>
+            <link>https://v.daum.net/v/20220110061504429</link>
+            <guid>https://v.daum.net/v/20220110061504429</guid>
+            <pubDate>Sun, 09 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 안젤리나 졸리(46)와 15살 연하 팝스타 위켄드(31)의 열애설이 또 다시 불거졌다. 할리우드 매체 인스타일은 8일(현지시간) 위켄드의 5번째 스튜디오 앨범 ‘Dawn FM’의 수록곡 ‘Here We Go…Again’이 안젤리나 졸리와의 열애를 암시한다고 보도했다 이 노래의 가사에서 “그리고 나의 새로운 여]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F10%2Fmydaily%2F20220110061504380booz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
