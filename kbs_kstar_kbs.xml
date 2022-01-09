@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 22:05:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jan 2022 23:05:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이태곤 박미선 장민호, KBS 새 예능 ‘주접이 풍년’ MC]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=185412</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=185412</guid>
+            <pubDate>Sun, 09 Jan 2022 23:04:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=185412">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220110072858_587fd7bda8b748a9c8e7dd097fe8e467.JPG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=185412">이태곤 박미선 장민호, KBS 새 예능 ‘주접이 풍년’ MC</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EC%A0%91%EC%9D%B4%20%ED%92%8D%EB%85%84">주접이 풍년</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220110072858_587fd7bda8b748a9c8e7dd097fe8e467.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[[슈퍼맨이 돌아왔다] 사유리 ‘빅보이’ 젠, 인생 첫 투명 케이블카 탑승에 동공 지진]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=185400</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%B4%EB%A6%BC%ED%95%98%EB%8A%94%20%EB%82%A8%EC%9E%90%EB%93%A4">살림하는 남자들</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220109011955_b6347aae453afa9a5935c7db0ddc7a9c.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[살림하는 남자들 2] 정성윤-김미려 “유튜브 수입...미미해” 친정에서 맞는 2022 새해]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=185323</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=185323</guid>
-            <pubDate>Sat, 08 Jan 2022 17:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=185323">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220109011333_354274a6e6002f6b399f444d50524d37.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=185323">[살림하는 남자들 2] 정성윤-김미려 “유튜브 수입...미미해” 친정에서 맞는 2022 새해</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%B4%EB%A6%BC%ED%95%98%EB%8A%94%20%EB%82%A8%EC%9E%90%EB%93%A4">살림하는 남자들</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220109011333_354274a6e6002f6b399f444d50524d37.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
