@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-11T17:19:48.346Z</updated>
+    <updated>2022-01-11T18:06:24.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘특송’ 박소담 “갑상선 유두암 진단, 많이 놀라고 두려웠다”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001634835</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001634835"/>
+        <updated>2022-01-11T18:05:29.429Z</updated>
+        <content type="html"><![CDATA[‘특송’이 영화의 주역인 특송 전문 드라이버 ‘은하’로 분한 박소담 배우의 서면 인터뷰를 공개했다. 첫 원톱 액션에 도전한 박소담은 고난도 카체이싱과 타격감 넘치는 액션을 완벽 소화해 “기발한 차량 추격전, 박소담을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['특송' 박대민 감독 "염혜란과 한 번 더…최근 김신록·김혜준에 관심" [인터뷰②]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000524199</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003519887"/>
         <updated>2022-01-11T09:04:27.093Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=이미지 기자] ‘방관자들’이 1차 포스터를 공개했다. ‘방관자들’은 함성으로 가득했던 2002년, 월드컵에 가려졌던 최악의 국회 청문회에서 드러난 숨겨진 진실을 포착한 단편 영화. ‘생존’이라는 키워드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 배우 최초 골든글로브 수상한 오영수]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012911839</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012911839"/>
-        <updated>2022-01-11T09:04:27.098Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이재희 기자 = 넷플릭스 드라마 '오징어 게임'으로 한국 배우 최초 골든글로브 남우조연상을 받은 오영수가 11일 오후 서울 대학로 티오엠에서 열리는 연극 '라스트 세션' 출연을 위해 건물로 들어서고]]></content>
     </entry>
 </feed>
