@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 06:07:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 07:06:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김남길, ‘악의 마음을 읽는' 프로파일러 변신]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=186411</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=186411</guid>
+            <pubDate>Thu, 13 Jan 2022 07:03:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=186411">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220113152613_ee8984090ff1c19b3af9dcbf866e0537.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=186411">김남길, ‘악의 마음을 읽는' 프로파일러 변신</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220113152613_ee8984090ff1c19b3af9dcbf866e0537.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정인선과 루나 멤버들이 마주한 대형 위기!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=186261</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=185145">윤은혜의 백반기행, "강릉으로!"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220107143454_19c4ae81fec8535dec51056109c7cb38.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이동욱-위하준, '배드 앤 크레이지' 그 자체]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=185134</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=185134</guid>
-            <pubDate>Fri, 07 Jan 2022 06:03:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=185134">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220107143116_9570cdb0b5a9a98fab7234ef89fe2a9a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=185134">이동욱-위하준, '배드 앤 크레이지' 그 자체</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220107143116_9570cdb0b5a9a98fab7234ef89fe2a9a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
