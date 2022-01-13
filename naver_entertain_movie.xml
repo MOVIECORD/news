@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-13T13:19:38.257Z</updated>
+    <updated>2022-01-13T14:06:21.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['경관의 피' 최우식 화장실 액션, 어떻게 탄생했나]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004541077</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004541077"/>
+        <updated>2022-01-13T14:05:31.625Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '경관의 피'가 촬영 현장의 생생한 비하인드를 담은 현장 압수수색 스틸을 공개했다. 영화 '경관의 피'(감독 이규만, 제공배급 에이스메이커무비웍스, 제작 리양필름)는 위법 수사도 개의치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['웨스트 사이드 스토리' 리타 모레노, 원작에 없는 캐릭터로 압도적 존재감]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004541074</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046371"/>
         <updated>2022-01-13T10:04:41.391Z</updated>
         <content type="html"><![CDATA[&lt;교섭&gt; 제작 영화사 수박 감독 임순례 출연 황정민, 현빈 배급 메가박스중앙(주)플러스엠 개봉 2022년 관전 포인트 &lt;교섭&gt;의 이야기 대부분은 아프가니스탄에서 진행된다. 제작진은 요르단에서 아프가니스탄 분량을 촬영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 한국영화 신작 프로젝트: '밀수' 류승완 감독]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046370</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046370"/>
-        <updated>2022-01-13T10:04:41.407Z</updated>
-        <content type="html"><![CDATA[&lt;밀수&gt; 제작 외유내강 감독 류승완 출연 김혜수, 염정아, 조인성, 박정민, 고민시, 김종수 배급 NEW 개봉 2022년 관전 포인트 “처음부터 &lt;밀수&gt;의 목표는 ‘너무 재밌어서 앉은자리에서 한번 더 보고 싶은 영화]]></content>
     </entry>
 </feed>
