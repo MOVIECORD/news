@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 02:01:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 02:37:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송가인 따르는 깃발부대, 압도적인 포스!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=186594</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=186594</guid>
+            <pubDate>Fri, 14 Jan 2022 02:36:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=186594">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220114113225_0d4ae27ab2ce5296b912055d32242fb8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=186594">송가인 따르는 깃발부대, 압도적인 포스!</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EC%A0%91%EC%9D%B4%20%ED%92%8D%EB%85%84">주접이 풍년</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220114113225_0d4ae27ab2ce5296b912055d32242fb8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 김누림 '학교 2021' 종영 소감 "첫 작품이어서 더 의미가 깊었다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=186579</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220113090011_5cb9829187666bcc4fbe6dbd5dc2014a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['갓파더' 최환희(지플랫), 희로애락 담은 가족 이야기]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=186268</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=186268</guid>
-            <pubDate>Thu, 13 Jan 2022 02:38:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=186268">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220113085405_9beaae636d014e52be1b5860bd96acd0_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=186268">'갓파더' 최환희(지플랫), 희로애락 담은 가족 이야기</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220113085405_9beaae636d014e52be1b5860bd96acd0_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
