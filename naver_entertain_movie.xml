@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-15T07:06:22.073Z</updated>
+    <updated>2022-01-15T08:07:48.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박소담 '특송', '스파이더맨' 꺾고 3일 연속 흥행 1위..입소문 붙었다 [공식]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004541724</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004541724"/>
+        <updated>2022-01-15T08:07:06.080Z</updated>
+        <content type="html"><![CDATA[[OSEN=하수정 기자] 거침없는 카체이싱과 타격감 넘치는 맨몸 액션으로 짜릿함을 선사하는 영화 '특송'(감독 박대민, 제공배급 NEW, 공동제공 Library Pictures International, 제작 엠픽처]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['하우스 오브 구찌', 관객 매혹 시키는 관람포인트]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003021291</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003597606"/>
         <updated>2022-01-14T23:05:33.314Z</updated>
         <content type="html"><![CDATA["난 정확히 배송만 해요. 포장 부실하면 물건 안 받고 그냥 돌아옵니다." 특송 전문 드라이버 은하는 어느 날 예상치 못한 배송사고로 걷잡을 수 없는 사건에 휘말린다. 여기에 어쩌다 반송 불가 수하물에 출처를 알 수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['특송', 사흘째 박스오피스 1위..2위 '스파이더맨' [★무비차트]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003021221</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003021221"/>
-        <updated>2022-01-14T23:05:33.327Z</updated>
-        <content type="html"><![CDATA[영화 '특송'이 사흘째 박스오피스 1위를 지켰다. 15일 영화진흥위원회 영화관입장권 통합전산망에 따르면 '특송'은 지난 14일 3만 2032명의 관객을 동원해 박스오피스 1위에 올랐다. 누적관객수는 10만 5320명]]></content>
     </entry>
 </feed>
