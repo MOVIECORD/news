@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-16T19:06:34.211Z</updated>
+    <updated>2022-01-16T20:06:23.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전주국제영화제 4월28일 개막… “오프라인 대면 행사 정상화”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001499236</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001499236"/>
+        <updated>2022-01-16T20:05:37.957Z</updated>
+        <content type="html"><![CDATA[코로나19 팬데믹 이후 세 번째 개막을 앞둔 제23회 전주국제영화제가 방역 지침을 지키면서 대면 행사를 정상화한다. 전주국제영화제는 올해 230여편의 영화를 총 18개 섹션으로 나눠 500회차 상영키로 했다고 16일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[TEN인터뷰] '킹메이커' 이선균 "대선? 득일까 실일까…'선거판'서 벌어지는 사람 이야기"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000525197</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003021414"/>
         <updated>2022-01-16T02:02:25.407Z</updated>
         <content type="html"><![CDATA['경관의 피'에서 매력적인 빌런의 탄생으로 주목받고 있는 권율의 스틸이 공개됐다. 최근 에이스메이커무비웍스는 배우 권율의 스틸을 공개했다. '경관의 피'는 위법 수사도 개의치 않는 광수대 에이스 강윤(조진웅 분)과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스파이더맨: 노 웨이 홈' 700만 관객 목전… 코로나19 이후 신기록]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=052&amp;aid=0001690226</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=052&amp;aid=0001690226"/>
-        <updated>2022-01-16T02:02:25.413Z</updated>
-        <content type="html"><![CDATA[12월 개봉 이후 한달 간 흥행 돌풍을 일으키고 있는 영화 '스파이더맨: 노 웨이 홈'이 700만 관객을 목전에 두며 팬데믹 이후 최대 흥행작의 타이틀을 굳건히 지키고 있다. 지난 12월 15일 개봉한 영화 '스파이]]></content>
     </entry>
 </feed>
