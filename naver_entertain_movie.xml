@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-16T20:06:23.801Z</updated>
+    <updated>2022-01-16T21:04:31.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[흥행 질주 ‘특송’ 개봉 첫 주말 한국영화 1위[박스오피스]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000533765</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000533765"/>
+        <updated>2022-01-16T21:03:19.669Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '특송'이 개봉 첫 주말 한국영화 박스오피스 1위를 차지했다. 1월 17일 영화진흥위원회 통합전산망 집계에 따르면 지난 주말 기간(14일~16일) 영화 '특송'이 16만177명을 모으며 한국영]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전주국제영화제 4월28일 개막… “오프라인 대면 행사 정상화”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001499236</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003021419"/>
         <updated>2022-01-16T02:02:25.401Z</updated>
         <content type="html"><![CDATA['해적: 도깨비 깃발'이 배우들이 완성한 다채로운 케미스트리가 이목을 집중시킨다. '해적: 도깨비 깃발'은 흔적도 없이 사라진 왕실 보물의 주인이 되기 위해 바다로 모인 해적들의 스펙터클한 모험을 그린 영화. '해적]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['경관의 피' 권율, 12kg 증량→부상 투혼..빌런 스틸 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003021414</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003021414"/>
-        <updated>2022-01-16T02:02:25.407Z</updated>
-        <content type="html"><![CDATA['경관의 피'에서 매력적인 빌런의 탄생으로 주목받고 있는 권율의 스틸이 공개됐다. 최근 에이스메이커무비웍스는 배우 권율의 스틸을 공개했다. '경관의 피'는 위법 수사도 개의치 않는 광수대 에이스 강윤(조진웅 분)과]]></content>
     </entry>
 </feed>
