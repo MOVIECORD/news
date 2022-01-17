@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-17T14:06:31.103Z</updated>
+    <updated>2022-01-17T15:06:04.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이터널스' 마동석, '길가메시' 한국어 더빙 참여..마블 사상 가장 자연스러운]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003522060</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003522060"/>
+        <updated>2022-01-17T15:05:07.119Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] '이터널스' 마동석이 직접 ‘길가메시’ 역의 한국어 더빙에 참여해 화제를 모으고 있다. 영화 '이터널스'는 수천 년에 걸쳐 그 모습을 드러내지 않고 살아온 불멸의 히어로들이 '어벤져스:]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['킹메이커' 이선균 "변성현 감독, 자기만의 멋이 확실" [인터뷰M]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000143879</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003521914"/>
         <updated>2022-01-17T08:06:37.725Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=이미지 기자] '장민호 드라마 최종회'가 개봉일을 확정하고, ‘드라마’의 순간을 담은 30초 예고편을 공개했다. 영화 '장민호 드라마 최종회'는 아티스트 장민호의 첫 단독 콘서트 투어 '드라마'의 공연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제시카 차스테인→판빙빙 '355', 2월 9일 개봉 확정 [공식]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003021700</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003021700"/>
-        <updated>2022-01-17T08:06:37.725Z</updated>
-        <content type="html"><![CDATA[영화 '355'가 오는 2월 9일 개봉을 확정 짓고, 티저 예고편을 최초 공개했다. '355'는 인류를 위협하는 글로벌 범죄조직에 맞서기 위해 전 세계에서 뭉친 최정예 블랙 에이전트 TEAM '355'의 비공식 합동]]></content>
     </entry>
 </feed>
