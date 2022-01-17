@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-17T18:06:03.030Z</updated>
+    <updated>2022-01-17T19:05:39.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나에 ‘실종’됐던 한국 영화… 설 연휴 3편 대격돌]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=023&amp;aid=0003666919</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=023&amp;aid=0003666919"/>
+        <updated>2022-01-17T19:04:44.273Z</updated>
+        <content type="html"><![CDATA[강하늘·한효주와 돌아온 ‘해적 2′ - 한겨울에 즐기는 해상 액션물 실화 바탕에 둔 정치극 ‘킹메이커’ - 선거판의 치열한 두뇌싸움 그려 박소담이 이끄는 K추격 액션 ‘특송’ - 창의적인 연출로 남다른 속도감 연말]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이터널스' 마동석, '길가메시' 한국어 더빙 참여..마블 사상 가장 자연스러운]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003522060</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003521917"/>
         <updated>2022-01-17T08:06:37.725Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=이미지 기자] '도희야' 정주리 감독과 배우 배두나가 '다음 소희'를 통해 8년 만에 다시 뭉쳤다. 영화 '다음 소희'는 콜센터로 현장실습을 나가게 된 여고생 소희가 겪게 되는 사건과 이에 의문을 품는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['장민호 드라마 최종회' 24일 개봉확정..순간 담은 30초 예고편]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003521914</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003521914"/>
-        <updated>2022-01-17T08:06:37.725Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] '장민호 드라마 최종회'가 개봉일을 확정하고, ‘드라마’의 순간을 담은 30초 예고편을 공개했다. 영화 '장민호 드라마 최종회'는 아티스트 장민호의 첫 단독 콘서트 투어 '드라마'의 공연]]></content>
     </entry>
 </feed>
