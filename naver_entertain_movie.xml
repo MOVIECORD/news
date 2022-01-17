@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-17T09:06:57.389Z</updated>
+    <updated>2022-01-17T10:06:39.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스파이더맨' 5주 연속 주말 1위, 700만 목전]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000338382</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000338382"/>
+        <updated>2022-01-17T10:05:44.798Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=강효진 기자] 전 세계 관객들을 사로잡은 영화 '스파이더맨: 노 웨이 홈'이 5주 연속 주말 박스오피스 1위에 올랐다. 5주 연속 주말 박스오피스 1위를 차지한 영화 '스파이더맨: 노 웨이 홈'은 정체]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['전체관람가+', 류덕환·조현철→주동민 감독 합류..4월 티빙 공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003021802</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001204995"/>
         <updated>2022-01-17T08:06:37.725Z</updated>
         <content type="html"><![CDATA[탄탄한 스토리와 베테랑 배우들의 열연, 감각적인 미장센 등으로 예비 관객들의 주목을 받고 있는 기대작 '킹메이커'에서 카메오로 깜짝 등장한 진선규의 출연이 화제를 모으고 있다. 웰메이드 작품으로 호평받는 영화 '킹메]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘지금 우리 학교는’ 기대포인트 셋]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000787566</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000787566"/>
-        <updated>2022-01-17T08:06:37.730Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 동영상스트리밍서비스(OTT) 넷플릭스 새 시리즈 ‘지금 우리 학교는’ 기대포인트 세가지가 공개됐다. 넷플릭스 측은 17일 웹툰에서 시리즈물로 재탄생한 ‘지금 우리 학교는’의 기대포인트 세가지를 제시했다]]></content>
     </entry>
 </feed>
