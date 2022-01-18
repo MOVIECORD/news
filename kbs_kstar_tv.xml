@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 03:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 04:06:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안효섭 김세정의 오피스 로코,  SBS ‘사내맞선’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=187335</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=187335</guid>
+            <pubDate>Tue, 18 Jan 2022 04:03:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=187335">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220118105813_565e6143930b387ffd39278fe2b1979b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=187335">안효섭 김세정의 오피스 로코,  SBS ‘사내맞선’ </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220118105813_565e6143930b387ffd39278fe2b1979b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[틈만 나면 싸우는 정지훈-김범, 티격태격 케미스트리]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=187102</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=186077">장민호의 신곡 무대 "사는 건 정답이 없어~"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220112094228_772eb24a27ab90cc3343be6df04dc436.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["난, 작가가 될거야!" '오펜, 스토리텔러 6기 모집]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=186003</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=186003</guid>
-            <pubDate>Wed, 12 Jan 2022 03:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=186003">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220112071458_696c80e27cf0704a218a9d7d7b8cdbe7_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=186003">"난, 작가가 될거야!" '오펜, 스토리텔러 6기 모집</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220112071458_696c80e27cf0704a218a9d7d7b8cdbe7_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
