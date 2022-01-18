@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-18T18:07:05.578Z</updated>
+    <updated>2022-01-18T19:05:11.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["난 섹시한 60살"…미 코미디 스타 짐 캐리 환갑 맞아]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012926706</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012926706"/>
+        <updated>2022-01-18T19:04:12.926Z</updated>
+        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 정윤섭 특파원 = 미국에서 코미디 배우로 오랫동안 사랑을 받아온 할리우드 스타 짐 캐리가 환갑을 맞았다. 캐리는 변치 않는 유머 감각을 선보이며 예순번째 생일을 자축했다고 18일(현지시간)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강하늘X한효주→이광수X권상우 '해적2', 이유 있는 자신감 "반응 폭발적" [종합]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003570583</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003570548"/>
         <updated>2022-01-18T09:04:35.126Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 김나라 기자] 배우 설경구가 영화 '킹메이커'에서 故 김대중 전 대통령을 모티브로 한 인물을 연기한 소감을 밝혔다. 설경구는 18일 오후 마이데일리와 화상 온라인 인터뷰를 진행했다. 오는 26일 신작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['듄', IMAX 재개봉 확정]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005129303</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005129303"/>
-        <updated>2022-01-18T09:04:35.126Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 박미애 기자] 영화 ‘듄’을 아이맥스( IMAX)로 다시 만난다. ‘듄’(감독 드니 빌뇌브)은 내달 9일 용산아이파크몰·왕십리·천호·판교·창원더시티 등을 비롯해 CGV 아이맥스 전국 17개 지점에]]></content>
     </entry>
 </feed>
