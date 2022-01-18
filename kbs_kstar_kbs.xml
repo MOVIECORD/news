@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 06:06:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 07:06:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['꽃 피면' 유승호, 달콤 살벌한 로맨스 장인]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=187385</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=187385</guid>
+            <pubDate>Tue, 18 Jan 2022 07:05:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=187385">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220118134159_25c51409d3e20c0b4fd762c4b878d65d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=187385">'꽃 피면' 유승호, 달콤 살벌한 로맨스 장인</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%BD%83%20%ED%94%BC%EB%A9%B4%20%EB%8B%AC%20%EC%83%9D%EA%B0%81%ED%95%98%EA%B3%A0">월화드라마 꽃 피면 달 생각하고</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220118134159_25c51409d3e20c0b4fd762c4b878d65d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트로트 왕 장민호, 송가인-임영웅 팬 출연한 '주접이 풍년' 홍보 요정으로~]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=187323</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%BD%83%20%ED%94%BC%EB%A9%B4%20%EB%8B%AC%20%EC%83%9D%EA%B0%81%ED%95%98%EA%B3%A0">월화드라마 꽃 피면 달 생각하고</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220117170751_9c403c6c6faff54bedf8231898971cb6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['개승자' 통해 드러난 윤형빈 팀의 진심]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=187107</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=187107</guid>
-            <pubDate>Mon, 17 Jan 2022 06:06:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=187107">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220117142952_e47d9d2d9539d5a3aae5b33c8772e49a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=187107">'개승자' 통해 드러난 윤형빈 팀의 진심</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EC%8A%B9%EC%9E%90">개승자</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220117142952_e47d9d2d9539d5a3aae5b33c8772e49a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
