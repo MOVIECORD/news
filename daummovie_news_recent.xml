@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-01-19T19:05:00.315Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 19 Jan 2022 20:06:14 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김민희 배우로 컴백..♥홍상수 '소설가의 영화' 베를린국제영화제 초청 [공식]]]></title>
+            <link>https://v.daum.net/v/20220120044751655</link>
+            <guid>https://v.daum.net/v/20220120044751655</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박소영 기자] 홍상수 감독의 신작이자 27번째 작품인 &lt;소설가의 영화&gt;가 오는 2월 10일 열리는 제72회 베를린국제영화제 공식 경쟁부문에 초청됐다. 해외 배급사인 ㈜화인컷에서 전하는 바에 의하면 1월 19일 오전 11시 (현지시간 기준) 베를린국제영화제 집행위원회는 영화제 공식 경쟁부문을 발표하며 홍상수 감독 신작 &lt;소설가의 영화&gt;의 초청을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Fpoctan%2F20220120044752111oxjc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
