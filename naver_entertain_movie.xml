@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-20T10:06:43.364Z</updated>
+    <updated>2022-01-20T11:07:16.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김지운 감독, 故 가스파르 울리엘 애도…"지금쯤 작업했을 지도"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000279326</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000279326"/>
+        <updated>2022-01-20T11:05:24.708Z</updated>
+        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 영화 '놈놈놈', '밀정' 등을 만든 김지운 감독이 스키 사고로 세상을 떠난 프랑스 배우 가스파르 울리엘을 애도했다. 김지운 감독은 20일 자신의 SNS에 "2019년도의 반은 파]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍상수 감독 '소설가의 영화' 3년 연속 베를린영화제 경쟁부문 공식 초청]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000144167</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004544411"/>
         <updated>2022-01-20T08:07:11.655Z</updated>
         <content type="html"><![CDATA[[OSEN=조은정 기자] 20일 오후 서울 광진구 롯데시네마 건대입구에서 영화 '효자(감독 이훈국)' 언론시사 및 기자간담회가 열렸다. 배우 김뢰하가 포즈를 취하고 있다. 2022.01.20 /cej@osen.co.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['효자' 연운경]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005857707</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005857707"/>
-        <updated>2022-01-20T08:07:11.658Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 권현진 기자 = 배우 연운경이 20일 오후 서울 광진구 롯데시네마 건대입구에서 영화 '효자(감독 이훈국)' 언론시사회에 참석해 포즈를 취하고 있다. ‘효자’는 장례를 치른 지 얼마 지나지 않아 좀비로]]></content>
     </entry>
 </feed>

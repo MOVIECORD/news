@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 10:06:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 11:07:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[류수영 "쉬워요, 맛있어요" 스페인 '파에야' 도전]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=187951</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=187951</guid>
+            <pubDate>Thu, 20 Jan 2022 11:04:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=187951">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220120181128_c5e32fb4b8bd2af9646fa2a2b4ee8628.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=187951">류수영 "쉬워요, 맛있어요" 스페인 '파에야' 도전</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%20%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상 출시 편스토랑</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220120181128_c5e32fb4b8bd2af9646fa2a2b4ee8628.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['갓파더' 우혜림, 미니멀리스트 신혼집 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=187817</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%97%B0%EC%95%A0%EC%9D%98%EC%B0%B8%EA%B2%AC3">연애의참견3</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220119100506_721f3c07a6ca27ef3a50646a572e5504.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이혜리의 명대사 "목을 메거나, 목을 베거나!"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=187623</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=187623</guid>
-            <pubDate>Wed, 19 Jan 2022 01:48:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=187623">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220119095220_b7fe14d2cef0e669509ca6abdc10440c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=187623">이혜리의 명대사 "목을 메거나, 목을 베거나!"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%BD%83%20%ED%94%BC%EB%A9%B4%20%EB%8B%AC%20%EC%83%9D%EA%B0%81%ED%95%98%EA%B3%A0">월화드라마 꽃 피면 달 생각하고</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220119095220_b7fe14d2cef0e669509ca6abdc10440c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

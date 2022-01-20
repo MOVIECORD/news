@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 10:06:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 11:07:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220115090557_dfd53e2cf3ae06a01b37c867dfb95c61.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[류수영 "쉬워요, 맛있어요" 스페인 '파에야' 도전 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=187951</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=187951</guid>
+            <pubDate>Thu, 20 Jan 2022 11:04:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=187951">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220120181128_c5e32fb4b8bd2af9646fa2a2b4ee8628.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=187951">류수영 "쉬워요, 맛있어요" 스페인 '파에야' 도전</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%20%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상 출시 편스토랑</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220120181128_c5e32fb4b8bd2af9646fa2a2b4ee8628.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['갓파더' 우혜림, 미니멀리스트 신혼집 공개 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=187817</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=187817</guid>
@@ -1030,24 +1048,6 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220119100506_721f3c07a6ca27ef3a50646a572e5504.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이혜리의 명대사 "목을 메거나, 목을 베거나!" (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=187623</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=187623</guid>
-            <pubDate>Wed, 19 Jan 2022 01:48:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=187623">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220119095220_b7fe14d2cef0e669509ca6abdc10440c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=187623">이혜리의 명대사 "목을 메거나, 목을 베거나!"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%BD%83%20%ED%94%BC%EB%A9%B4%20%EB%8B%AC%20%EC%83%9D%EA%B0%81%ED%95%98%EA%B3%A0">월화드라마 꽃 피면 달 생각하고</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220119095220_b7fe14d2cef0e669509ca6abdc10440c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['특송' 송새벽 "악역 연기하면 촬영 내내 체한다" [인터뷰M] (MBC 연예 ─ 영화)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/335202</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/335202</guid>
@@ -1110,6 +1110,13 @@
             <pubDate>Sun, 12 Dec 2021 01:18:47 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/332560" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/06/b6f172db-3198-4998-8cf4-3fe3386cecdf.jpg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">'모가디슈', 이준익, 고두심, 설경구 제8회 한국<font color="red">영화</font>제작가협회상 수상!</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/06/b6f172db-3198-4998-8cf4-3fe3386cecdf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김지운 감독, 故 가스파르 울리엘 애도…"지금쯤 작업했을 지도" (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000279326</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000279326</guid>
+            <pubDate>Thu, 20 Jan 2022 11:05:24 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 영화 '놈놈놈', '밀정' 등을 만든 김지운 감독이 스키 사고로 세상을 떠난 프랑스 배우 가스파르 울리엘을 애도했다. 김지운 감독은 20일 자신의 SNS에 "2019년도의 반은 파]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[홍상수 감독 '소설가의 영화' 3년 연속 베를린영화제 경쟁부문 공식 초청 (네이버TV연예 ─ 영화)]]></title>
@@ -1280,186 +1287,214 @@
             <content:encoded><![CDATA[[OSEN=조은정 기자] 20일 오후 서울 광진구 롯데시네마 건대입구에서 영화 '효자(감독 이훈국)' 언론시사 및 기자간담회가 열렸다. 배우 김뢰하가 포즈를 취하고 있다. 2022.01.20 /cej@osen.co.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['효자' 연운경 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005857707</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005857707</guid>
-            <pubDate>Thu, 20 Jan 2022 08:07:11 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 권현진 기자 = 배우 연운경이 20일 오후 서울 광진구 롯데시네마 건대입구에서 영화 '효자(감독 이훈국)' 언론시사회에 참석해 포즈를 취하고 있다. ‘효자’는 장례를 치른 지 얼마 지나지 않아 좀비로]]></content:encoded>
+            <title><![CDATA[‘사랑의 꽈배기’ 심혜진, 황범식 유서 숨겼다 “때 되면 밝힐 것” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000788395</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000788395</guid>
+            <pubDate>Thu, 20 Jan 2022 11:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] ‘사랑의 꽈배기’ 심혜진이 황범식 유서를 숨겼다. 20일 오후 방송된 KBS2 일일드라마 ‘사랑의 꽈배기’에서는 황범식 유서를 숨기고 나중에 밝히겠다는 심혜진의 모습이 전파를 탔다. 이날 맹옥희(심혜진]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘트레이서’ 임시완에서 김도현까지 캐릭터 잔칫상 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000788383</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000788383</guid>
-            <pubDate>Thu, 20 Jan 2022 10:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 임시완, 고아성, 손현주, 박용우를 중심으로 한 MBC 금토드라마 ‘트레이서’의 다채로운 인물 관계가 시선을 사로잡고 있다. 금토극 시청률 1위를 달리고 있는 MBC 금토드라마 ‘트레이서’(극본 김현정]]></content:encoded>
+            <title><![CDATA[신수지, 성난 어깨 근육+선명한 복근…멋있어도 너무 멋있어 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000526089</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000526089</guid>
+            <pubDate>Thu, 20 Jan 2022 11:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=이준현 기자] 전 리듬체조 국가대표 선수 신수지가 선명한 복근을 공개했다. 신수지는 20일 자신의 인스타그램을 통해 "쫌만 더 힘내자"라는 글과 함께 한 장의 사진을 게재했다. 공개된 사진 속에는 체육관에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[헨리, 소년 같은 얼굴에 선명한 반전 복근[스타화보] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000535394</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000535394</guid>
-            <pubDate>Thu, 20 Jan 2022 10:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 가스 헨리가 복근을 드러냈다. 매거진 싱글즈가 가수 헨리의 치명적인 비주얼 화보를 공개했다. 헨리는 오랜만의 화보 촬영임에도 불구하고 여전히 완벽한 비주얼과 조각 같은 복근을 자랑하며 모두의]]></content:encoded>
+            <title><![CDATA['사랑의 꽈배기' 심혜진, 황범식 유언장 발견…"때가 되면 밝힐 것" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005857900</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005857900</guid>
+            <pubDate>Thu, 20 Jan 2022 11:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 박하나 기자 = '사랑의 꽈배기' 심혜진이 황범식의 유언장을 발견했지만 공개하지 않았다. 20일 오후 7시 50분에 방송된 KBS 2TV 일일드라마 '사랑의 꽈배기'(극본 이은주/연출 김원용)에서는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[리누, '수줍게 빛나던 그 모든 날' 뮤비 티저 공개…'이별 장인'의 감성 자극 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000338878</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000338878</guid>
-            <pubDate>Thu, 20 Jan 2022 10:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=장진리 기자] 가수 리누가 한 편의 드라마 같은 뮤직비디오를 예고했다. 소속사 제이지스타는 20일 정오 공식 유튜브 채널을 통해 신곡 '수줍게 빛나던 그 모든 날' 뮤직비디오 티저를 공개했다. 공개된]]></content:encoded>
+            <title><![CDATA[[단독]'발레가 맺어준 ♥' 왕지원, 3살 연하 발레리노 박종석과 2월6일 결혼(종합) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000338883</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000338883</guid>
+            <pubDate>Thu, 20 Jan 2022 11:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김현록 기자]'발레가 맺어준 사랑'. 배우 왕지원이 오는 2월 6일 3살 연하 발레리노 박종석과 결혼한다. 방송가에 따르면 왕지원은 다음달 6일 서울 모처에서 박종석과 웨딩마치를 울린다. 가족과 지인들]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이서진X라미란, 21일 '최화정의 파워타임' 출격…'내과 박원장' 비하인드 스토리 공개 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000526086</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000526086</guid>
-            <pubDate>Thu, 20 Jan 2022 10:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=차혜영 기자] ‘내과 박원장’ 이서진, 라미란이 ‘최화정의 파워타임’에 출격한다. 티빙 오리지널 ‘내과 박원장’ 이서진, 라미란이 21일 오후 1시 SBS 파워FM ‘최화정의 파워타임’에 출연, 시원하고]]></content:encoded>
+            <title><![CDATA['두 번째 남편' 엄현경, 오승아 살인 혐의 고발→차서원 "한기웅도 끝" [종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001205426</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001205426</guid>
+            <pubDate>Thu, 20 Jan 2022 11:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[오승아와 한기웅이 제대로 된 처벌을 받게 될까. 20일 오후 방송된 MBC 일일드라마 '두 번째 남편'에서는 봉선화(엄현경 분)와 윤재민(차서원 분)이 윤재경(오승아 분)을 경찰에 고발했다. 이날 봉선화는 경찰에 윤]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[TEN피플] 송지아 '짝퉁 명품' 논란 ing…같은 회사 '하시3' 박지현도? (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000526085</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000526085</guid>
-            <pubDate>Thu, 20 Jan 2022 10:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=강민경 기자] 1인 크리에이터 송지아(프리지아)가 명품 가품 착용 및 하울 영상 게시 등으로 논란이 일었다. 송지아는 자필 사과문을 게재했고, 소속사 대표는 공식 입장을 밝혔다. 그러나 계속된 논란 여파는]]></content:encoded>
+            <title><![CDATA['두 번째 남편' 오승아, 성병숙 사건 용의자 긴급 체포…엄현경 "용서 못 해"(종합) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005857896</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005857896</guid>
+            <pubDate>Thu, 20 Jan 2022 11:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 안은재 기자 = '두 번째 남편' 오승아가 성병숙 사건의 살해 용의자로 체포됐다. 20일 오후 7시5분 방송된 MBC 저녁 일일드라마 '두 번째 남편' (극본 서현주 / 연출 김칠봉)에서는 윤재경(오]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['짝퉁 논란' 송지아, '전참시' OUT..'아형' 일부 편집[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003022692</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003022692</guid>
-            <pubDate>Thu, 20 Jan 2022 10:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[뷰티 크리에이터 송지아(프리지아)가 명품 가품 착용으로 수익을 창출해 문제가 되자, 방송가에서 그를 손절했다. MBC 예능 프로그램 '전지적 참견 시점'(이하 '전참시') 제작진은 20일 공식입장을 내고 "송지아 촬]]></content:encoded>
+            <title><![CDATA[소유, 술은 병나발 불어야 제맛이지…정기고 "나만 소주로 본거야?" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000338881</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000338881</guid>
+            <pubDate>Thu, 20 Jan 2022 11:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=정서희 기자]가수 소유가 자택에서 여유로운 일상을 보내는 모습을 공개했다. 소유지는 20일 자신의 인스타그램에 별다른 코멘트 없이 사진 8장을 게재했다. 사진에는 소유가 노트북으로 작업을 하는 모습,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[송지아, 디올 향수 광고서도 짝퉁백…고가 광고비 무색 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000535392</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000535392</guid>
-            <pubDate>Thu, 20 Jan 2022 10:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 유튜버 송지아(프리지아)가 광고서도 가짜 명품 가방을 든 것으로 알려졌다. 송지아는 지난해 9월 자신의 인스타그램에 명품 브랜드 디올 향수 제품 홍보글을 게재했다. 이 게시물에서 송지아는 한손]]></content:encoded>
+            <title><![CDATA[슈퍼주니어 은혁, 코로나19 확진 의심…"'런닝맨' 유재석·하하 검사" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=469&amp;aid=0000653877</link>
+            <guid>https://entertain.naver.com/now/read?oid=469&amp;aid=0000653877</guid>
+            <pubDate>Thu, 20 Jan 2022 11:05:44 GMT</pubDate>
+            <content:encoded><![CDATA['런닝맨'에 게스트로 출연했던 그룹 슈퍼주니어 멤버 은혁이 코로나19 확진이 의심돼 PCR 검사를 받았다. 방송인 유재석 하하 등도 검사에 임한다. 소속사 레이블SJ 측은 20일 "슈퍼주니어 은혁이 이날 오전 선제적]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘전참시’ 송지아 촬영분 방송하지 않기로·…‘아형’도 “일부 편집” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003659574</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003659574</guid>
-            <pubDate>Thu, 20 Jan 2022 10:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[유튜브 채널 프리지아 캡처 이른바 ‘짝퉁’ 명품을 착용한 채 사회관계망서비스(SNS)와 유튜브 채널 프리지아 등에서 선보였다 사과한 뷰티 인플루언서 송지아(사진)가 녹화를 마친 MBC 예능 프로그램 ‘전지적 참견 시]]></content:encoded>
+            <title><![CDATA[[TV 엿보기] ‘엄마는 아이돌’ 박진영·선미, 선예 지원사격 나섰다가 ‘울컥’ (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=119&amp;aid=0002568923</link>
+            <guid>https://entertain.naver.com/now/read?oid=119&amp;aid=0002568923</guid>
+            <pubDate>Thu, 20 Jan 2022 11:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[[데일리안 = 박정선 기자] 20일 방송되는 tvN ‘엄마는 아이돌’에서는 가희, 박정아, 선예, 별, 현쥬니, 양은지 6인 완전체의 데뷔 확정 여부가 공개된다. 멤버들을 응원하기 위해 절친들이 직접 나선다. 지난]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['시고르 경양식' 막방은 화이트 크림 파스타로 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010957335</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010957335</guid>
-            <pubDate>Thu, 20 Jan 2022 10:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]유다연 인턴 기자 = 200여명의 손님과 함께한 '시고르 경양식'이 마지막 영업일을 맞이한다. 20일 오후 9시 방송되는 JTBC '시고르 경양식'이 마지막 화를 맞이하게 되었다. 멤버들은 심란한 마음]]></content:encoded>
+            <title><![CDATA[MBC '스트레이트', 23일 김건희 녹취록 후속 방송 취소 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003022700</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003022700</guid>
+            <pubDate>Thu, 20 Jan 2022 11:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[MBC '스트레이트'가 23일 김건희 녹취록 후속 방송을 하지 않는다. '스트레이트'는 20일 오후 공식 홈페이지를 통해 이 같이 밝혔다. '스트레이트'는 "'스트레이트' 제작진은 1월 16일 159회 방송에서 김건]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[슈주 은혁, 코로나19 간이검사 '양성'…'런닝맨'·'놀뭐?' 검사 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000338877</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000338877</guid>
-            <pubDate>Thu, 20 Jan 2022 10:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=장진리 기자] 그룹 슈퍼주니어의 멤버 은혁이 신종 코로나바이러스 감염증(코로나19) 확진이 의심돼 PCR 검사를 받았다. 은혁은 20일 코로나19 자가진단키트(신속항원검사)에서 양성 반응을 보였고, 곧]]></content:encoded>
+            <title><![CDATA[정경미, ♥윤형빈 똑 닮은 붕어빵 딸에 "닮았네 작은 형빈" [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000526088</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000526088</guid>
+            <pubDate>Thu, 20 Jan 2022 11:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=이준현 기자] 개그우먼 정경미가 윤형빈과 똑 닮은 딸의 일상을 공유했다. 정경미는 20일 자신의 인스타그램을 통해 "역시 면이 최고여! 애미야 다음엔 좀 길게 잘라라. 그라고 아부지! #대한외국인 우승!!]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[전문] ‘태종 이방원’ 측 “동물 학대 논란 죄송…말은 촬영 후 사망” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000788380</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000788380</guid>
-            <pubDate>Thu, 20 Jan 2022 10:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] KBS가 드라마 ‘태종 이방원’의 동물 학대 논란에 대해 사과했다. KBS 측은 20일 “&lt;태종 이방원&gt; 촬영 중 벌어진 사고에 대해 책임을 깊이 통감하고 사과드린다”며 최근 논란이 된 낙마 촬영 장면]]></content:encoded>
+            <title><![CDATA[‘엠카’ 김요한, 팔색조 매력 담은 ‘DESSERT’ (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000788394</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000788394</guid>
+            <pubDate>Thu, 20 Jan 2022 11:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 아이돌그룹 위아이(WEi) 김요한이 한계 없는 콘셉트 소화력을 보였다. 김요한은 20일 방송된 Mnet ‘엠카운트다운’에 출연해 솔로 미니앨범 ‘Illusion(일루전)’의 타이틀곡 ‘DESSERT(디]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['놀면 뭐하니' 유재석·하하, 코로나19 확진자와 접촉 "PCR 검사" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000526084</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000526084</guid>
-            <pubDate>Thu, 20 Jan 2022 10:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=신소원 기자] '놀면 뭐하니?' 측이 코로나19 확진자와 접촉한 유재석, 하하의 검사 상황을 전했다. 20일 MBC '놀면 뭐하니?' 측은 "(코로나19) 확진자와 접촉한 유재석, 하하는 녹화 도중 연락을]]></content:encoded>
+            <title><![CDATA['첫 좀비 영화 출연' 이철민, "우리 엄마가? 라는 생각으로 촬영 임해"(영화 효자) [O! STAR] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004544491</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004544491</guid>
+            <pubDate>Thu, 20 Jan 2022 11:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최재현 기자] 20일 오후 서울 광진구 롯데시네마 건대입구에서 영화 '효자(감독 이훈국)' 언론시사 및 기자간담회가 열렸다. 배우 이철민이 취재진의 질문에 답하고 있다. 2022.01.20 / hyun30]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['오뚜기3세' 함연지, 한파도 못 막은 과감한 브라톱 패션 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000526083</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000526083</guid>
-            <pubDate>Thu, 20 Jan 2022 10:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=차혜영 기자] 뮤지컬 배우 함연지가 과감한 브라톱 패션을 선보였다. 함연지는 20일 자신의 인스타그램을 통해 "SS 컬렉션 초대해주셔서 보고 왔지요~ 꽃을 한 아름씩 선물 주시니 봄이네 봄! (하얀 옷 전]]></content:encoded>
+            <title><![CDATA['두 번째 남편' 엄현경, 목격자 빼내기 성공…오승아 살인 혐의 고소 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005857889</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005857889</guid>
+            <pubDate>Thu, 20 Jan 2022 11:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 안은재 기자 = '두 번째 남편' 엄현경이 성병숙 사건의 목격자 백소장을 빼돌리는 데 성공한 후 오승아를 고소했다. 20일 오후 7시5분 방송된 MBC 저녁 일일드라마 '두 번째 남편' (극본 서현주]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방송협회 "지상파 위기 극복 위해 규제완화·기금확대 절실" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012931756</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012931756</guid>
-            <pubDate>Thu, 20 Jan 2022 10:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[차기 정부 '미디어 산업 개혁 10대 과제' 요구안 제시 (서울=연합뉴스) 김정진 기자 = 미디어 환경의 급격한 변화 속에 지상파 방송이 위기를 극복하려면 규제 완화와 적극적인 진흥 정책이 필요하다는 목소리가 나왔다]]></content:encoded>
+            <title><![CDATA[‘두 번째 남편’ 오승아, 살해 혐의로 붙잡혔다...엄현경 “이제 시작” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000788392</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000788392</guid>
+            <pubDate>Thu, 20 Jan 2022 11:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] ‘두 번째 남편’ 엄현경이 오승아를 신고했다. 20일 오후 방송된 MBC 일일드라마 ‘두 번째 남편’에서는 한곱분 살인과 대국 제과 비리로 오승아를 신고하는 엄현경의 모습이 전파를 탔다. 이날 백 소장]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유재석, 또 자가격리하나…슈주 은혁 코로나19 의심 여파 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010957325</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010957325</guid>
-            <pubDate>Thu, 20 Jan 2022 10:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스] 최지윤 기자 = MC 유재석이 또 코로나19 검사를 받았다. MBC TV 예능물 '놀면 뭐하니' 측은 20일 "확진자와 접촉한 MC 유재석, 하하는 녹화 도중 연락을 받자마자 가까운 선별진료소로 PC]]></content:encoded>
+            <title><![CDATA[‘엠카’ 최예나, 핫 솔로 데뷔 ‘스마일리’ 음악방송 최초 공개 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000788390</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000788390</guid>
+            <pubDate>Thu, 20 Jan 2022 11:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 가수 최예나가 첫 솔로 데뷔 타이틀곡 무대를 공개했다. 최예나는 20일 오후 방송된 Mnet ‘엠카운트다운’에서 첫 번째 미니앨범 ‘SMiLEY’ 타이틀곡 ‘SMILEY(스마일리)(feat.BIBI)’]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[윤언니, 옛사랑 추억 노래…신곡 '커피' 공개 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=018&amp;aid=0005131076</link>
-            <guid>https://entertain.naver.com/now/read?oid=018&amp;aid=0005131076</guid>
-            <pubDate>Thu, 20 Jan 2022 10:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[[이데일리 스타in 김현식 기자] ‘감성 보컬’ 가수 윤언니가 신곡을 발표했다. 윤언니는 20일 오후 6시 각종 음원사이트를 통해 신곡 ‘커피’를 공개했다. ‘커피’는 옛사랑을 떠올리며 느끼는 쓸쓸한 감정을 노래한]]></content:encoded>
+            <title><![CDATA[영화 '효자' 이철민, "영화 보는 내내 부모님 생각만 나" [O! STAR] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004544482</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004544482</guid>
+            <pubDate>Thu, 20 Jan 2022 11:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최재현 기자] 20일 오후 서울 광진구 롯데시네마 건대입구에서 영화 '효자(감독 이훈국)' 언론시사 및 기자간담회가 열렸다. 배우 이철민이 취재진의 질문에 답하고 있다. 2022.01.20 / hyun30]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[KBS 측 "'태종 이방원' 촬영 중 죽은 말에 깊은 책임감…거듭 사과"[전문] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000338876</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000338876</guid>
-            <pubDate>Thu, 20 Jan 2022 10:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=심언경 기자] KBS1 대하사극 '태종 이방원' 제작진이 낙마 신 촬영 중 동물(말)을 학대했다는 의혹에 대해 사과했다. KBS 측은 20일 "촬영 중 벌어진 사고에 대해 책임을 깊이 통감하고 사과드린]]></content:encoded>
+            <title><![CDATA[방송협회 “지상파 위기 극복 위해 규제완화·기금확대 절실” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000788389</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000788389</guid>
+            <pubDate>Thu, 20 Jan 2022 11:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 미디어 환경 변화 속에 지상파 방송이 위기를 극복하려면 규제 완화와 적극적 진흥 정책이 필요하다는 주장이 나왔다. 지상파 방송사들로 구성된 한국방송협회는 20일 서울 양천구 목동 방송회관에서 ‘방송정책]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독] 슈퍼주니어 은혁, 코로나19 자가키트 양성…"PCR 검사 결과 대기 중" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001692217</link>
-            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001692217</guid>
-            <pubDate>Thu, 20 Jan 2022 10:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 슈퍼주니어 은혁이 코로나19 확진이 의심돼 PCR 검사를 받았다. 20일 방송 관계자에 따르면, 은혁이 오늘(20일) 코로나19 신속항원검사(자가진단키트)에서 양성 반응을 얻어 PCR 검사를 받았다. 이에 대해]]></content:encoded>
+            <title><![CDATA['태종 이방원' 낙마 촬영 말, 결국 사망…KBS "책임 깊이 통감…사과" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001692231</link>
+            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001692231</guid>
+            <pubDate>Thu, 20 Jan 2022 11:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[KBS 드라마 '태종 이방원' 촬영에 투입됐던 말이 일주일 후 사망했다. 이에 KBS가 "책임을 깊이 통감한다"며 공식 사과했다. KBS 측은 오늘(20일) "'태종 이방원' 촬영 중 벌어진 사고에 대해 책임을 깊이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[다비치, 박형식·한소희 주연 '사운드트랙#1' 음원 발매 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000526081</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000526081</guid>
-            <pubDate>Thu, 20 Jan 2022 10:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=신소원 기자] 여성 듀오 다비치(이해리, 강민경)가 로맨스 뮤직드라마 '사운드트랙#1'의 몰입감을 더한다. 다비치는 20일 오후 6시 각종 온라인 음원 사이트를 통해 '사운드트랙#1'의 세 번째 음원 '소]]></content:encoded>
+            <title><![CDATA[[사진]휘인, '돌아보면 심쿵' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004544480</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004544480</guid>
+            <pubDate>Thu, 20 Jan 2022 11:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=조은정 기자] 20일 오후 서울 양천구 목동 SBS 사옥에서 SBS 파워FM ‘두시탈출 컬투쇼’ 생방송이 진행됐다. 가수 휘인이 포즈를 취하고 있다. 2022.01.20 /cej@osen.co.kr]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[윤소이, 혼자 잘 노는 생후 76일 귀여운 딸에 "육아는 템빨이라더니" [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000526080</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000526080</guid>
-            <pubDate>Thu, 20 Jan 2022 10:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=이준현 기자] 배우 윤소이가 육아 일상을 공유했다. 윤소이는 20일 자신의 인스타그램을 통해 "오늘 기분이 너무 좋아요~ 육아는 템빨이라더니.. 어느새 두 시간 세 시간은..혼자서도 끄떡없이 잘 놉니다"라]]></content:encoded>
+            <title><![CDATA[아이비, 남자 친구 생겼나…"잘생긴 의사 친구와 칼국수에 모듬전" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000338880</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000338880</guid>
+            <pubDate>Thu, 20 Jan 2022 11:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=정서희 기자]뮤지컬 배우로 활동중인 아이비가 미남 의사 친구와 밥을 먹은 사실을 고백했다. 아이비는 20일 자신의 인스타그램 계정에 "같은 아파트 사는 잘생긴 의사 친구 병원 갔다가 칼국수랑 모듬전 얻]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['위조품 논란' 유튜버 프리지아측, 다른 의혹 부인…"법적 대응"(종합) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0012931733</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0012931733</guid>
-            <pubDate>Thu, 20 Jan 2022 10:05:44 GMT</pubDate>
-            <content:encoded><![CDATA['전참시', 프리지아 촬영분 삭제 결정…'아는 형님'도 일부 편집 (서울=연합뉴스) 김정진 기자 = 뷰티 유튜버 프리지아(본명 송지아) 측이 최근 불거진 위조품 착용 사실은 인정하면서도 온라인상에서 제기된 다른 의혹]]></content:encoded>
+            <title><![CDATA['진화♥' 함소원, 끝도 없는 거실 크기…새 집 이사가나? [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000526087</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000526087</guid>
+            <pubDate>Thu, 20 Jan 2022 11:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=차혜영 기자] 방송인 함소원이 으리으리한 집 공사현장을 공개했다. 함소원은 20일 자신의 인스타그램을 통해 "#공사현장 오늘도 바쁘네요~"라는 글과 짧은 영상을 공개했다. 공개된 영상 속에는 공사 중인 함]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[안치행, 추모곡 '대장동 블루스' 발표 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000338867</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000338867</guid>
-            <pubDate>Thu, 20 Jan 2022 10:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]가요계의 거장 안치행(80)이 '대장동 의혹'관련 망자들을 위한 추모곡 '대장동 블루스'를 발표했다. 안치행이 작사, 작곡하고 직접 노래까지 부른 이곡은 지난 17일 유튜브에 올려진데 이어]]></content:encoded>
+            <title><![CDATA[[사진]휘인, '오묘하게' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004544477</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004544477</guid>
+            <pubDate>Thu, 20 Jan 2022 11:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=조은정 기자] 20일 오후 서울 양천구 목동 SBS 사옥에서 SBS 파워FM ‘두시탈출 컬투쇼’ 생방송이 진행됐다. 가수 휘인이 포즈를 취하고 있다. 2022.01.20 /cej@osen.co.kr]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[조덕제, 성추행 여배우 명예훼손도 유죄…징역 11개월 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000338866</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000338866</guid>
-            <pubDate>Thu, 20 Jan 2022 10:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=정서희 기자] 자신이 성추행한 배우를 비방해 재판에 넘겨진 배우 조덕제의 실형이 확정됐다. 20일 법조계에 따르면 대법원 1부는 최근 정보통신망 이용 촉진 및 정보보호 등에 관한 법률 위반 등 혐의로]]></content:encoded>
+            <title><![CDATA[‘태종 이방원’ 낙마장면 촬영한 말 1주일쯤 후 사망…KBS “책임 깊이 통감” 사과 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003659592</link>
+            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003659592</guid>
+            <pubDate>Thu, 20 Jan 2022 11:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[동물자유연대가 20일 공개한 KBS 1TV 대하사극 ‘태종 이방원’의 낙마 장면 촬영 과정. 말의 발목에 줄이 묶여(빨간 동그라미)있는 것을 볼 수 있다. KBS가 1TV 대하사극 ‘태종 이방원’을 촬영 중 빚어진]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[KBS, '태종 이방원' 동물 학대 논란 사과…"다른 촬영 방식 찾겠다" [전문] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=018&amp;aid=0005131068</link>
-            <guid>https://entertain.naver.com/now/read?oid=018&amp;aid=0005131068</guid>
-            <pubDate>Thu, 20 Jan 2022 10:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[(사진=KBS1 ‘태종 이방원’) [이데일리 스타in 김보영 기자] KBS 측이 동물권 단체를 통해 제기된 드라마 ‘태종 이방원’ 속 동물 학대 논란을 사과했다. KBS는 20일 오후 공식입장을 통해 “‘태종 이방원]]></content:encoded>
+            <title><![CDATA[[사진]휘인, '한파 녹이는 하트' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004544476</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004544476</guid>
+            <pubDate>Thu, 20 Jan 2022 11:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=조은정 기자] 20일 오후 서울 양천구 목동 SBS 사옥에서 SBS 파워FM ‘두시탈출 컬투쇼’ 생방송이 진행됐다. 가수 휘인이 포즈를 취하고 있다. 2022.01.20 /cej@osen.co.kr]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['놀면뭐하니' 유재석·하하, 코로나19 확진자 접촉→PCR 검사[공식] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003022687</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003022687</guid>
-            <pubDate>Thu, 20 Jan 2022 10:05:44 GMT</pubDate>
-            <content:encoded><![CDATA['놀면 뭐하니?' 출연자들이 급히 코로나19 PCR 검사를 받는 긴근 상황이 벌어졌다. MBC 예능 프로그램 '놀면 뭐하니?' 측은 20일 스타뉴스에 "코로나19 확진자와 접촉한 유재석, 하하는 녹화 도중 연락을 받]]></content:encoded>
+            <title><![CDATA['두번째남편' 오승아, 살인죄로 경찰서 연행[별별TV] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003022702</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003022702</guid>
+            <pubDate>Thu, 20 Jan 2022 11:06:00 GMT</pubDate>
+            <content:encoded><![CDATA['두 번째 남편'에서 엄현경이 오승아를 살인죄로 신고했다. 20일 오후 방송된 MBC 일일드라마 '두 번째 남편'에서는 경찰서를 찾은 봉선화(엄현경 분)의 모습이 그려졌다. 이날 봉선화는 경찰서를 찾아가 "대국제과]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘두 번째 남편’ 오승아, 살인 혐의로 경찰서행! 차서원 “한기웅도 끝이야” (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000144169</link>
+            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000144169</guid>
+            <pubDate>Thu, 20 Jan 2022 11:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[오승아가 살인 혐의로 경찰에 연행됐다. 20일(목) 방송된 MBC 일일드라마 ‘두 번째 남편(극본 서현주/연출 김칠봉)’ 110회에서 봉선화(엄현경)의 윤재경(오승아)이 경찰 조사를 받는 모습이 그려졌다. 앞서 봉선]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['태종 이방원' 학대 논란 말 사망···KBS "촬영 방법 문제 인지" 사과 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=011&amp;aid=0004010648</link>
+            <guid>https://entertain.naver.com/now/read?oid=011&amp;aid=0004010648</guid>
+            <pubDate>Thu, 20 Jan 2022 11:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] KBS1 드라마 '태종 이방원' 촬영 당시 말의 발에 와이어를 달아 강제로 넘어뜨리는 등 동물 학대가 있었다는 의혹이 불거진 가운데, 해당 말이 촬영 이후 사망한 것으로 밝혀졌다. KBS 측은 잘못을 인]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['태종 이방원' 말 사망, KBS 공식 사과 [전문] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=015&amp;aid=0004655459</link>
+            <guid>https://entertain.naver.com/now/read?oid=015&amp;aid=0004655459</guid>
+            <pubDate>Thu, 20 Jan 2022 11:06:00 GMT</pubDate>
+            <content:encoded><![CDATA['태종 이방원' 제작진이 촬영 중 발생한 사고 때문에 말이 목숨을 잃은 것과 관련해 사과했다. KBS 1TV 대하드라마 '태종 이방원' 측은 20일 "촬영 중 벌어진 사고에 대해 책임을 깊이 통감하고 사과한다"고 밝]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KBS, '태종 이방원' 동물 학대 논란 사과…"촬영 일주일 뒤 말 사망" (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=008&amp;aid=0004698935</link>
+            <guid>https://entertain.naver.com/now/read?oid=008&amp;aid=0004698935</guid>
+            <pubDate>Thu, 20 Jan 2022 11:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[KBS가 '태종 이방원'의 말 학대 논란에 사과했다. KBS는 20일 "태종 이방원 촬영 중 벌어진 사고에 책임을 깊이 통감하고 사과드린다"며 "당시 배우가 말에서 멀리 떨어지고 말 상체가 땅에 크게 부딪히는 사고가]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[일본판 '별에서 온 그대' 예고편 공개…누리꾼 "캐스팅 아쉽다" (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
@@ -1602,41 +1637,6 @@
             <content:encoded><![CDATA[[텐아시아=신소원 기자] '고스트 닥터'가 배우들의 찐 케미가 담긴 5, 6회 비하인드 메이킹을 공개했다. 지난 17일, 18일 밤 방송된 tvN 월화드라마 '고스트 닥터'(극본 김선수 연출 부성철) 5, 6회는 한]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“와이어 묶어 강제로” 동물학대 논란 ‘태종 이방원’ 시청자 항의→국민청원 등장(종합) (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000535370</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000535370</guid>
-            <pubDate>Thu, 20 Jan 2022 08:07:26 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박은해 기자] KBS 1TV '태종 이방원' 동물 학대 논란에 불이 붙었다. 드라마를 폐지해야 한다는 시청자 항의부터 관련자를 철저하게 수사하고 처벌해야 한다는 국민청원까지 등장했다. 1월 19일 동물자유연]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 '지킬앤하이드' 2차 라인업, 캐릭터 컷 공개 '기대감↑' (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003022675</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003022675</guid>
-            <pubDate>Thu, 20 Jan 2022 08:07:26 GMT</pubDate>
-            <content:encoded><![CDATA[뮤지컬 '지킬앤하이드' 2차 라인업 배우들의 캐릭터 컷을 공개했다. 20일 '지킬앤하이드' 2차 라인업 배우들의 캐릭터 컷이 공개됐다. 먼저 '지킬/하이드' 역의 박은태, 카이, 전동석은 '지킬' 박사의 지적이고 부]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[수애, 스타일리스트가 밝힌 '공작도시' 상위 1% 룩 "고급美+우아함" (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003571166</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003571166</guid>
-            <pubDate>Thu, 20 Jan 2022 08:07:26 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 이승길 기자] 배우 수애가 우아한 스타일로 독보적인 아우라를 내뿜으며 시청자들의 시선은 물론 마음까지 빼앗았다. 매회 빠져들 수밖에 없는 전개로 화제를 모으는 JTBC 수목드라마 ‘공작도시’에서는 수]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘악의 마음을 읽는 자들’ 측 “내일(21일) 김소진 등판…긴장감 높일 것” (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000844975</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000844975</guid>
-            <pubDate>Thu, 20 Jan 2022 08:07:26 GMT</pubDate>
-            <content:encoded><![CDATA[‘악의 마음을 읽는 자들’ 김소진이 첫 등장한다. SBS 금토드라마 ‘악의 마음을 읽는 자들’(극본 설이나/연출 박보람/제작 스튜디오S/투자 웨이브(wavve))이 방송 첫 주 만에 “역대급 웰메이드 드라마”, “꼭]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[정해인, '누나'들 없으니 힘 못 쓰네…조기종영에 1% 시청률 굴욕史 [TEN스타필드] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000526053</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000526053</guid>
-            <pubDate>Thu, 20 Jan 2022 07:04:52 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=태유나 기자] 《태유나의 듣보드뽀》 태유나 텐아시아 기자가 현장에서 듣고 본 사실을 바탕으로 드라마의 면면을 제대로 뽀개드립니다. 수많은 채널에서 쏟아지는 드라마 홍수 시대에 독자들의 눈과 귀가 되겠습니다]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['기생충'에 깨진 흥행기록, 봤다 하면 눈물샘 터지는 장면 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220120114500893</link>
             <guid>https://movie.v.daum.net/v/20220120114500893</guid>
@@ -1669,20 +1669,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Fohmynews%2F20220120135401533vjux.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[권상우 "美에 있는 ♥손태영 보러 오가느라 자가격리만 4번"[EN:인터뷰④] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220120115114205</link>
-            <guid>https://movie.v.daum.net/v/20220120115114205</guid>
-            <pubDate>Thu, 20 Jan 2022 03:05:54 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 권상우가 아내 손태영과 자녀들을 보기 위해 한국과 미국을 오가고 있다고 전했다. 영화 '해적: 도깨비 깃발'(감독 김정훈)에 출연한 권상우는 1월 20일 진행된 화상 인터뷰를 통해 미국과 한국을 열심히 오가느라 자가격리를 네 번이나 했다고 밝혀 눈길을 끌었다. 사랑꾼이며 가정적인 남편, 아버지로 유명한 권상우. 그는 "결혼 후 세상]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Fnewsen%2F20220120115114470xvju.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[비경에 담아낸 학살의 역사..애니 '1975 킬링필드, 푸난' (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220120104942861</link>
             <guid>https://movie.v.daum.net/v/20220120104942861</guid>
             <pubDate>Thu, 20 Jan 2022 09:06:17 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 한미희 기자 = 비극의 역사는 비슷하게 반복된다. 일제 강점기와 전쟁을 겪은 한반도가 남북으로 갈라지고 대치한 채 군사 정권의 폭압 아래 있던 1970년대, 프랑스 보호령과 일본군 점령기를 거쳐 자치국으로 독립한 캄보디아에서는 베트남 전쟁 여파 속에 친미 정권과 공산군의 내전으로 불안정한 상황이 이어지고 있었다. 1975년 수도 프놈펜]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Fyonhap%2F20220120104942363dsux.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[권상우 "美에 있는 ♥손태영 보러 오가느라 자가격리만 4번"[EN:인터뷰④] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220120115114205</link>
+            <guid>https://movie.v.daum.net/v/20220120115114205</guid>
+            <pubDate>Thu, 20 Jan 2022 03:05:54 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 권상우가 아내 손태영과 자녀들을 보기 위해 한국과 미국을 오가고 있다고 전했다. 영화 '해적: 도깨비 깃발'(감독 김정훈)에 출연한 권상우는 1월 20일 진행된 화상 인터뷰를 통해 미국과 한국을 열심히 오가느라 자가격리를 네 번이나 했다고 밝혀 눈길을 끌었다. 사랑꾼이며 가정적인 남편, 아버지로 유명한 권상우. 그는 "결혼 후 세상]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Fnewsen%2F20220120115114470xvju.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['기생충' 봉준호 차기작은 '트와일라잇' 로버트 패틴슨 주연 SF영화 (다음영화 뉴스 ─ 인기)]]></title>
@@ -1693,14 +1693,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2FSPORTSSEOUL%2F20220120081810867ghwr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["엄청난 재능 잃어" 가스파르 울리엘, 스키 사고로 사망..추모 물결 [종합] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220120141405933</link>
-            <guid>https://movie.v.daum.net/v/20220120141405933</guid>
-            <pubDate>Thu, 20 Jan 2022 07:05:01 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 가스파르 울리엘/AFPBBNews=뉴스1할리우드와 프랑스 영화계가 배우 가스파르 울리엘의 갑작스러운 사망에 큰 충격에 빠졌다. 19일(현지시간) AFP 통신 등에 따르면 가스파르 울리엘은 전날 알프스 산맥에서 스키를 타다가 사고로 세상을 떠났다. 향년 37세. 가스파르 울리엘은 스키를 타던 중 다른 사람과 충돌했고, 심각한 뇌]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Fstarnews%2F20220120141409217fgzo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[지구를 떠나게 되면 문득 소중해지는 것들 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220120110600780</link>
             <guid>https://movie.v.daum.net/v/20220120110600780</guid>
@@ -1709,12 +1701,36 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Fohmynews%2F20220120110604553ioaj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA["엄청난 재능 잃어" 가스파르 울리엘, 스키 사고로 사망..추모 물결 [종합] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220120141405933</link>
+            <guid>https://movie.v.daum.net/v/20220120141405933</guid>
+            <pubDate>Thu, 20 Jan 2022 07:05:01 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 가스파르 울리엘/AFPBBNews=뉴스1할리우드와 프랑스 영화계가 배우 가스파르 울리엘의 갑작스러운 사망에 큰 충격에 빠졌다. 19일(현지시간) AFP 통신 등에 따르면 가스파르 울리엘은 전날 알프스 산맥에서 스키를 타다가 사고로 세상을 떠났다. 향년 37세. 가스파르 울리엘은 스키를 타던 중 다른 사람과 충돌했고, 심각한 뇌]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Fstarnews%2F20220120141409217fgzo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이유리→김동완 '광대: 소리꾼' 2월24일 새개봉[공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220119183410746</link>
+            <guid>https://movie.v.daum.net/v/20220119183410746</guid>
+            <pubDate>Thu, 20 Jan 2022 09:06:17 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘광대: 소리꾼’이 내달 새롭게 선보인다.&nbsp; 영화 ‘광대: 소리꾼’(감독 조정래, 제작 제이오엔터테인먼트, 배급 트윈플러스파트너스)은 사람들을 울리고 웃긴 광대들의 이야기를 통해 우리 민족의 흥과 한을 담아낸 작품이다. 지난해 개봉을 준비했으나 코로나 팬데믹 상황으로 연기됐다가 마침내 관객들과 만나게 됐다. ‘광대: 소리꾼]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F19%2Fpoctan%2F20220119183410467pqds.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[장예모 감독이 필름에 바치는 헌사..영화 '원 세컨드' (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220120115159244</link>
             <guid>https://movie.v.daum.net/v/20220120115159244</guid>
             <pubDate>Thu, 20 Jan 2022 06:05:54 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 오보람 기자 = 영어 단어 필름(film)이 왜 영화를 뜻하는지 이해하지 못하는 사람이 대부분일 때가 곧 올 듯하다. 필름을 돌릴 필요 없이 클릭 몇 번이면 집에서 편하게 영화를 볼 수 있는 세상이 되면서다. 영화계도 2000년대 불어닥친 디지털화 바람을 피해 가지 못했고 백 년을 이어온 필름 영화 시대는 저물었다. 필름은 어느새 구시대의]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Fyonhap%2F20220120115159751iivb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[봉준호·박찬욱 호평 '미싱타는 여자들' 오늘(20일) 개봉 "관람포인트 셋" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220120100815746</link>
+            <guid>https://movie.v.daum.net/v/20220120100815746</guid>
+            <pubDate>Thu, 20 Jan 2022 09:06:17 GMT</pubDate>
+            <content:encoded><![CDATA[거장들의 극찬 일색으로 기대감을 높인 영화, 그 이유가 오늘 공개된다. 1970년대 평화시장 소녀 미싱사들의 과거와 현재를 다시 그린 영화 '미싱타는 여자들(이혁래, 김정영 감독)'이 20일 개봉하는 가운데, 관람 포인트 3가지를 공개했다. '미싱타는 여자들'은 여자라서 혹은 가난하다는 이유로 공부 대신 미싱을 탈 수밖에 없었던 1970년대 평화시장]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Filgansports%2F20220120100817125uatr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰③] 권상우 "'십오야' 나 못알아본 정우성에 '너무해' 연락" (다음영화 뉴스 ─ 인기)]]></title>
@@ -1733,20 +1749,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Fnewsen%2F20220120130009925yrbc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[이유리→김동완 '광대: 소리꾼' 2월24일 새개봉[공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220119183410746</link>
-            <guid>https://movie.v.daum.net/v/20220119183410746</guid>
+            <title><![CDATA[추락한 한국 영화, 임인년 '꿈의 숫자 1000만'에 재도전하는 명장들 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220120153402443</link>
+            <guid>https://movie.v.daum.net/v/20220120153402443</guid>
             <pubDate>Thu, 20 Jan 2022 09:06:17 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘광대: 소리꾼’이 내달 새롭게 선보인다.&nbsp; 영화 ‘광대: 소리꾼’(감독 조정래, 제작 제이오엔터테인먼트, 배급 트윈플러스파트너스)은 사람들을 울리고 웃긴 광대들의 이야기를 통해 우리 민족의 흥과 한을 담아낸 작품이다. 지난해 개봉을 준비했으나 코로나 팬데믹 상황으로 연기됐다가 마침내 관객들과 만나게 됐다. ‘광대: 소리꾼]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F19%2Fpoctan%2F20220119183410467pqds.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[봉준호·박찬욱 호평 '미싱타는 여자들' 오늘(20일) 개봉 "관람포인트 셋" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220120100815746</link>
-            <guid>https://movie.v.daum.net/v/20220120100815746</guid>
-            <pubDate>Thu, 20 Jan 2022 09:06:17 GMT</pubDate>
-            <content:encoded><![CDATA[거장들의 극찬 일색으로 기대감을 높인 영화, 그 이유가 오늘 공개된다. 1970년대 평화시장 소녀 미싱사들의 과거와 현재를 다시 그린 영화 '미싱타는 여자들(이혁래, 김정영 감독)'이 20일 개봉하는 가운데, 관람 포인트 3가지를 공개했다. '미싱타는 여자들'은 여자라서 혹은 가난하다는 이유로 공부 대신 미싱을 탈 수밖에 없었던 1970년대 평화시장]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Filgansports%2F20220120100817125uatr.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[텐아시아=노규민 기자] 임인년(壬辰年)이 밝았다. 신종 코로나바이러스 감염증(코로나19)이 창궐한 이후 한국영화는 좀처럼 기세를 떨치지 못했다. 코로나19 사태가 잠잠해지길 바라며 개봉을 주저 하는 사이 이미 찍어 놓은 작품들이 쌓이고 쌓였다. CJ엔터테인먼트, 롯데엔터테인먼트, 쇼박스, NEW, 메가박스(주)플러스엠, 에이스메이커무빅웍스 등 주요 배급사]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2F10asia%2F20220120153405232tphl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[니콜라스 케이지 '피그', 2월23일 국내 개봉..마스터피스 기대↑ (다음영화 뉴스 ─ 인기)]]></title>
@@ -1757,12 +1765,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F19%2Fpoctan%2F20220119185345652zrck.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[추락한 한국 영화, 임인년 '꿈의 숫자 1000만'에 재도전하는 명장들 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220120153402443</link>
-            <guid>https://movie.v.daum.net/v/20220120153402443</guid>
-            <pubDate>Thu, 20 Jan 2022 09:06:17 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=노규민 기자] 임인년(壬辰年)이 밝았다. 신종 코로나바이러스 감염증(코로나19)이 창궐한 이후 한국영화는 좀처럼 기세를 떨치지 못했다. 코로나19 사태가 잠잠해지길 바라며 개봉을 주저 하는 사이 이미 찍어 놓은 작품들이 쌓이고 쌓였다. CJ엔터테인먼트, 롯데엔터테인먼트, 쇼박스, NEW, 메가박스(주)플러스엠, 에이스메이커무빅웍스 등 주요 배급사]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2F10asia%2F20220120153405232tphl.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['인민을 위해 복무하라' 장철수 감독 "11년에 걸쳐 영화화, 나의 오랜 꿈" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220120143405693</link>
+            <guid>https://movie.v.daum.net/v/20220120143405693</guid>
+            <pubDate>Thu, 20 Jan 2022 10:06:05 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;장철수 감독의 신작으로 기대를 모으는 영화 '인민을 위해 복무하라'의 원작이 금서로 지정됐던 작품이라는 사실이 알려지면서 예비 관객들의 관심이 집중되고 있다. 올해 뜨거운 화제를 불러 일으킬 파격 멜로영화 '인민을 위해 복무하라'가 강렬하고 파격적인 스토리로 전 세계 독자들에게 극찬을 이끌어낸 원작의 호평을 고스란히 이어갈 것으]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Fpoctan%2F20220120143405214mimh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['킹메이커' 어디 내놔도 부족함 없는 감각적 비주얼..글로벌 포스터 공개 (다음영화 뉴스 ─ 인기)]]></title>
@@ -1773,12 +1781,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F19%2Fnewsen%2F20220119081617311hnrh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['인민을 위해 복무하라' 장철수 감독 "11년에 걸쳐 영화화, 나의 오랜 꿈" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220120143405693</link>
-            <guid>https://movie.v.daum.net/v/20220120143405693</guid>
-            <pubDate>Thu, 20 Jan 2022 10:06:05 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;장철수 감독의 신작으로 기대를 모으는 영화 '인민을 위해 복무하라'의 원작이 금서로 지정됐던 작품이라는 사실이 알려지면서 예비 관객들의 관심이 집중되고 있다. 올해 뜨거운 화제를 불러 일으킬 파격 멜로영화 '인민을 위해 복무하라'가 강렬하고 파격적인 스토리로 전 세계 독자들에게 극찬을 이끌어낸 원작의 호평을 고스란히 이어갈 것으]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Fpoctan%2F20220120143405214mimh.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[팬데믹의 기적..'스파이더맨 노웨이홈' 북미 역대 흥행 4위 [무비노트] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220120150806290</link>
+            <guid>https://movie.v.daum.net/v/20220120150806290</guid>
+            <pubDate>Thu, 20 Jan 2022 11:06:15 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 김종은 기자] 영화 '스파이더맨: 노 웨이 홈'의 기록 경신 행진이 한 달 내내 이어지고 있다. 전 세계 역대 흥행 순위 8위에 오른 데 이어 이번엔 '블랙 팬서'를 꺾고 북미 역대 흥행 4위에 올랐다. 넘어야 할 다음 산은 '아바타'다. '스파이더맨: 노 웨이 홈'(감독 존 왓츠·배급 소니 픽쳐스)는 미스테리오(제이크 질렌할)의 계략으로 세]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Ftvdaily%2F20220120150807577znii.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[SC인터뷰] '해적2' 강하늘 "우리영화 강점은 '팀워크'"..'스파이더맨' 흥행 다행이라 느낀 이유 (다음영화 뉴스 ─ 인기)]]></title>
@@ -1787,14 +1795,6 @@
             <pubDate>Thu, 20 Jan 2022 00:22:13 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠조선 고재완 기자] 배우 강하늘이 자칭 '고려 제일검'이 돼 스크린을 장악했다. 강하늘은 오는 26일 개봉하는 영화 '해적:도깨비 깃발'(이하 해적2)에서 자칭 고려 제일검이자 의적단을 이끄는 두목 무치 역을 맡아 열연을 펼쳤다. 무치는 유쾌하고 인간미가 녹아 있는 천방지축 캐릭터이지만 탁월한 검술 실력으로 독보적인 매력을 자랑하는 인]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2FSpoChosun%2F20220120174300196unle.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[적수 없는 '스파이더맨: 노 웨이 홈', 연일 기록 경신 [★무비차트] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220120083057669</link>
-            <guid>https://movie.v.daum.net/v/20220120083057669</guid>
-            <pubDate>Thu, 20 Jan 2022 00:22:13 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 스파이더맨: 노 웨이 홈 / 사진=영화 포스터 '스파이더맨: 노 웨이 홈'이 연일 기록을 경신하고 있다. 20일 영화진흥위원회 영화관입장권 통합전산망에 따르면 전날 '스파이더맨: 노 웨이 홈'은 2만 7612명의 관객을 끌어모아 박스오피스 1위를 차지했다. 누적 관객 수는 698만 973명이다. 지난달 15일 개봉한 '스파이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2Fstarnews%2F20220120083058472dnyc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[애프터스크리닝] 웃음과 감동, 배우들의 케미가 돋보이는 코믹호러 '효자' ★★★ (다음영화 뉴스 ─ 최신)]]></title>
@@ -1957,6 +1957,13 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F20%2FSBSfunE%2F20220120150609631gunt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['두번째남편' 오승아, 살인죄로 경찰서 연행 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20220120200428498</link>
+            <guid>https://entertain.v.daum.net/v/20220120200428498</guid>
+            <pubDate>Thu, 20 Jan 2022 11:06:45 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 이시연 기자] /사진= MBC '두 번째 남편' 방송 화면'두 번째 남편'에서 엄현경이 오승아를 살인죄로 신고했다. 20일 오후 방송된 MBC 일일드라마 '두 번째 남편'에서는 경찰서를 찾은 봉선화(엄현경 분)의 모습이 그려졌다. 이날 봉선화는 경찰서를 찾아가 "대국제과 제품개발팀 윤재경(오승아 분) 팀장을 신고한다. 그 사람 우리 할머니를]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[일본판 '별에서 온 그대' 예고편 공개..누리꾼 "캐스팅 아쉽다" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
             <link>https://entertain.v.daum.net/v/20220120183913985</link>
             <guid>https://entertain.v.daum.net/v/20220120183913985</guid>
@@ -2055,11 +2062,18 @@
             <content:encoded><![CDATA[[뉴스엔 김명미 기자] ‘고스트 닥터’가 배우들의 ‘찐’ 케미가 담긴 5, 6회 비하인드 메이킹을 공개했다. 1월 17일, 18일 오후 10시 30분에 방송된 tvN 월화드라마 ‘고스트 닥터’(연출 부성철/ 극본 김선수/ 제작 스튜디오드래곤, 본팩토리) 5, 6회는 한시도 눈을 뗄 수 없는 흥미진진한 전개와 배우들의 유쾌한 케미스트리로 안방극장을 사로잡았]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['가품 논란' 프리지아, 꼬리에 꼬리를 무는 의혹들 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20220120154115755</link>
-            <guid>https://entertain.v.daum.net/v/20220120154115755</guid>
-            <pubDate>Thu, 20 Jan 2022 07:05:19 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 김선우기자]뷰티 유튜버 프리지아(본명 송지아)에 대한 논란과 의혹이 일파만파 계속되고 있다. 프리지아는 새해를 가장 뜨겁게 달군 인플루언서다. 넷플릭스 ‘솔로지옥’에 출연하며 모든 출연진을 통틀어 가장 강한 인상을 남겼다. 대부분의 남성 출연진이 프리지아에게 반하는가 하면, 이를 지켜보는 시청자들 역시 프리지아에 열광했다]]></content:encoded>
+            <title><![CDATA['엠카' 케플러, 엔하이픈 꺾고 영광의 1위.."영원히 함께해요" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220120193140813</link>
+            <guid>https://entertain.v.daum.net/v/20220120193140813</guid>
+            <pubDate>Thu, 20 Jan 2022 11:06:59 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김수정 인턴기자) '엠카'에서 케플러가 1위를 차지했다. 20일 방송된 Mnet '엠카운트다운'(이하 '엠카')에서는 엔하이픈(ENHYPEN)과 케플러가 1위 후보로 올랐다. 치열한 대결 끝, 1월 셋째 주 1위는 케플러의 '와다다(WA DA DA)'가 차지했다. 케플러는 "상상도 못했는데 믿고 응원해 주셔서 감사드린다. 너무 사랑하고 열]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['놀면 뭐하니?' 측 "유재석·하하 확진자 접촉, 설특집 촬영 중 PCR 검사" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220120191105503</link>
+            <guid>https://entertain.v.daum.net/v/20220120191105503</guid>
+            <pubDate>Thu, 20 Jan 2022 11:06:59 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=연휘선 기자] '놀면 뭐하니?' 측이 유재석, 하하의 확진자 접촉으로 인한 촬영 중단을 알렸다. 20일 MBC 예능 프로그램 '놀면 뭐하니?' 측은 OSEN에 "확진자와 접촉한 유재석, 하하가 녹화 도중 연락을 받자마자 가까운 선별진료소로 PCR 검사를 하러 갔다. 나머지 멤버들도 지침에 따라 PCR 검사를 받을 예정이다"라고 밝혔다.&nbsp; 또한]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['놀뭐?' 측 "유재석·하하, 코로나19 확진자 접촉 PCR 검사" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
@@ -2151,20 +2165,6 @@
             <guid>https://entertain.v.daum.net/v/20220120170516218</guid>
             <pubDate>Thu, 20 Jan 2022 08:07:50 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 이승길 기자] 자타공인 '동물들의 부모' 사육사들의 '내 새끼 자랑 타임'이 공개된다. 21일 방송되는 JTBC '다수의 수다'(이하 ‘다수다’)에서는 두 MC 유희열, 차태현과 ‘다수’의 사육사들이 뜻깊은 수다 한 판을 나눈다. 최근 진행된 ‘다수의 수다’의 녹화에서 판다 할아버지와 호랑이 엄마, 맹수 아빠와 해양 동물 아빠까지 4명의]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[홍윤화, 맨손 굴캐기 대결.."호미 필요 없어" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220120164928613</link>
-            <guid>https://entertain.v.daum.net/v/20220120164928613</guid>
-            <pubDate>Thu, 20 Jan 2022 08:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 최희재 기자) 홍윤화가 맨손 굴캐기 기술을 선보인다.&nbsp; 20일 방송되는 채널 IHQ 예능프로그램 '뚝딱뚝딱 자급자족원정대' 3회에서는 충남 태안을 찾아 굴캐기 대결을 펼치는 이만기, 윤택, 김용명, 홍윤화의 모습이 그려진다. 최근 진행된 녹화에 참석한 멤버들은 태안 앞바다 갯벌에 깔린 굴을 캐는 미션을 받았다. 마을 주민들과 2인 1조를]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[부상투혼 속출 '골때녀', 진정성과 출연자 보호 사이 묘수를 찾다 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220120164455435</link>
-            <guid>https://entertain.v.daum.net/v/20220120164455435</guid>
-            <pubDate>Thu, 20 Jan 2022 08:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[[엔터미디어=정덕현] SBS 예능 &lt;골 때리는 그녀들&gt;의 연이은 부상이 이 프로그램의 새로운 이슈로 떠올랐다. 19일 방송된 FC구척장신과 FC아나콘다의 경기는 4대 0으로 FC구척장신의 압승으로 끝을 맺었다. 시즌1 때 연이은 패배를 기록했던 FC구척장신이 그간 얼마나 빠른 성장을 보였는가를 잘 보여준 경기였다. 골기퍼 아이린은 안정적인 수비를 보여주는]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[웃음과 감동, 배우들의 케미가 돋보이는 코믹호러 '효자' ★★★ (다음 연예 ─ 뉴스 ─ 영화)]]></title>
