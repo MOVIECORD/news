@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-20T15:05:48.914Z</updated>
+    <updated>2022-01-20T16:07:43.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[새영화]걸크러시 발산 추격전의 새역사…희망 노래했던 소녀들의 이야기]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000878809</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000878809"/>
+        <updated>2022-01-20T16:06:25.532Z</updated>
+        <content type="html"><![CDATA[새해 들어 극장가에 반가운 소식이 찾아 왔다. 지난해 12월부터 적용된 강력한 코로나19 방역 지침에 따른 방역패스에서 영화관이 해제된 것. 부푼 기대를 안고 극장가에 걸린 한국영화 두 편을 소개한다. 여성이 주인공]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[선거판 ‘빛과 그림자’ 스크린에 비추다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003659630</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004544415"/>
         <updated>2022-01-20T08:07:11.648Z</updated>
         <content type="html"><![CDATA[[OSEN=조은정 기자] 20일 오후 서울 광진구 롯데시네마 건대입구에서 영화 '효자(감독 이훈국)' 언론시사 및 기자간담회가 열렸다. 배우 전운종이 포즈를 취하고 있다. 2022.01.20 /cej@osen.co.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍상수·김민희 신작 '소설가의 영화', 베를린영화제 경쟁부문 초청]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003022680</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003022680"/>
-        <updated>2022-01-20T08:07:11.654Z</updated>
-        <content type="html"><![CDATA[홍상수 감독의 신작 '소설가의 영화'가 제72회 베를린국제영화제 경쟁 부문에 초청됐다. 19일 베를린영화제 집행위원회는 경쟁 부문 초청작을 발표했고, 홍상수 감독은 '도망친 여자', '인트로덕션'에 이어 3년 연속으]]></content>
     </entry>
 </feed>
