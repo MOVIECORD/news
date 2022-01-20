@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-20T11:07:16.312Z</updated>
+    <updated>2022-01-20T12:08:34.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열이 말하는 촛불집회 그리고 박근혜 탄핵]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002339745</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002339745"/>
+        <updated>2022-01-20T12:07:50.200Z</updated>
+        <content type="html"><![CDATA[[미리보는 영화] 다큐멘터리 &lt;나의 촛불&gt; ▲ 영화 &lt;나의 촛불&gt; 관련 이미지. ⓒ 리틀빅픽쳐스 대한민국의 2017년은 그야말로 역사의 현장이었다. 헌정 사상 처음으로 대통령을 탄핵시킨 나라. 그것도 유혈 사태 하나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김지운 감독, 故 가스파르 울리엘 애도…"지금쯤 작업했을 지도"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000279326</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004544413"/>
         <updated>2022-01-20T08:07:11.654Z</updated>
         <content type="html"><![CDATA[[OSEN=조은정 기자] 20일 오후 서울 광진구 롯데시네마 건대입구에서 영화 '효자(감독 이훈국)' 언론시사 및 기자간담회가 열렸다. 배우 전운종이 포즈를 취하고 있다. 2022.01.20 /cej@osen.co.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]김뢰하, '포스가 철철']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004544411</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004544411"/>
-        <updated>2022-01-20T08:07:11.655Z</updated>
-        <content type="html"><![CDATA[[OSEN=조은정 기자] 20일 오후 서울 광진구 롯데시네마 건대입구에서 영화 '효자(감독 이훈국)' 언론시사 및 기자간담회가 열렸다. 배우 김뢰하가 포즈를 취하고 있다. 2022.01.20 /cej@osen.co.]]></content>
     </entry>
 </feed>
