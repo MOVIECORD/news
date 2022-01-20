@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-20T18:06:27.049Z</updated>
+    <updated>2022-01-20T19:04:51.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[톰 크루즈 영화 찍을 세계 최초 우주 스튜디오 2024년 구축]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012932097</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012932097"/>
+        <updated>2022-01-20T19:04:00.663Z</updated>
+        <content type="html"><![CDATA[직경 6ｍ 우주 스튜디오서 콘텐츠 제작·라이브 스트리밍 방송 (로스앤젤레스=연합뉴스) 정윤섭 특파원 = 미국 할리우드 스타 톰 크루즈가 출연하는 영화를 찍을 세계 최초의 우주 스튜디오가 2024년에 만들어진다. 영국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[새영화]걸크러시 발산 추격전의 새역사…희망 노래했던 소녀들의 이야기]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000878809</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004544417"/>
         <updated>2022-01-20T08:07:11.646Z</updated>
         <content type="html"><![CDATA[[OSEN=조은정 기자] 20일 오후 서울 광진구 롯데시네마 건대입구에서 영화 '효자(감독 이훈국)' 언론시사 및 기자간담회가 열렸다. 배우 안민영이 포즈를 취하고 있다. 2022.01.20 /cej@osen.co.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]전운종, '영화관에서 만나요']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004544415</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004544415"/>
-        <updated>2022-01-20T08:07:11.648Z</updated>
-        <content type="html"><![CDATA[[OSEN=조은정 기자] 20일 오후 서울 광진구 롯데시네마 건대입구에서 영화 '효자(감독 이훈국)' 언론시사 및 기자간담회가 열렸다. 배우 전운종이 포즈를 취하고 있다. 2022.01.20 /cej@osen.co.]]></content>
     </entry>
 </feed>
