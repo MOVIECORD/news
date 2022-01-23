@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-23T08:05:26.003Z</updated>
+    <updated>2022-01-23T09:06:28.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰]'킹메이커' 설경구 “DJ 역할 중압감···가명 쓰자고 했죠”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004011270</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004011270"/>
+        <updated>2022-01-23T09:04:57.618Z</updated>
+        <content type="html"><![CDATA[[서울경제] “처음 시나리오를 받았을 때는 캐릭터 이름이 ‘김대중’이었습니다. 이름이 주는 무게감이 너무 커 감독에게 실명을 쓰지 말자고 요청했어요. ‘김운범’으로 바꾸고 나니 그나마 부담이 조금 덜어지더군요” 내년]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아놀드 슈왈제네거, 4중 추돌 교통사고 냈다..상대차 여성 부상]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003023200</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003571656"/>
         <updated>2022-01-22T22:04:55.831Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]최초의 ‘흑인 제임스 본드’ 탄생에 관심이 쏠리고 있다. ‘제임스 본드’ 시리즈 프로듀서 바바라 브로콜리(61)는 최근 데드라인의 팟캐스트 ‘크루 콜(Crew Call)’에 출연해 “관계]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['해피 뉴 이어', 확장판 공개…6개 에피소드]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010960396</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010960396"/>
-        <updated>2022-01-22T19:05:43.358Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스]김현숙 인턴 기자 = 티빙 오리지널 영화 '해피 뉴 이어'가 확장판을 26일 공개한다. '해피 뉴 이어'는 저마다의 사연을 안고 호텔 '엠로스'를 찾은 사람들이 각자의 방식으로 자신만의 인연을 만들어가]]></content>
     </entry>
 </feed>
