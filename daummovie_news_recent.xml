@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>다음영화 뉴스 ─ 최신</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 15:08:08 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA["단 1초라도" 장이머우 '시네마 천국'..문화대혁명 불러낸 이유]]></title>
-            <link>https://v.daum.net/v/20220124000426424</link>
-            <guid>https://v.daum.net/v/20220124000426424</guid>
-            <pubDate>Sun, 23 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“어렸을 때 보았던 영화들의 몇몇 장면은 아마 영원히 잊지 못할 것 같다. 말로 표현할 수 없는 설렘과 행복에 마치 꿈을 꾸는 것만 같았다. 꿈은 평생 우리와 함께한다.” 중국 거장 장이머우(72) 감독이 새 영화 ‘원 세컨드’(27일 개봉)를 “영화를 사랑하는 모든 이에게 바치는 헌사”라면서 한 얘기다. 그가 본지 e메일 인터뷰에 19일 답변을 보내]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F24%2Fjoongang%2F20220124000426560owkk.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://movie.daum.net/contents/news?type=recent</id>
+    <title>다음영화 뉴스 ─ 최신</title>
+    <updated>2022-01-23T16:07:26.770Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://movie.daum.net/contents/favicon.ico</icon>
+</feed>
