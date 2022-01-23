@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-23T18:05:56.857Z</updated>
+    <updated>2022-01-23T19:05:45.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["디즈니는 미국 불평등의 중심"…창업주 손녀, 비판 다큐 제작]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012936142</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012936142"/>
+        <updated>2022-01-23T19:04:55.896Z</updated>
+        <content type="html"><![CDATA[선댄스 영화제 공개…디즈니 "심각하고 불공정한 사실 왜곡" (뉴욕=연합뉴스) 고일환 특파원 = 세계적인 엔터테인먼트 기업인 월트디즈니 창업주의 손녀가 디즈니의 저임금을 비판하는 다큐멘터리 영화를 만들었다. 뉴욕타임스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['킹메이커' 러닝메이트 유재명]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000043239</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012935130"/>
         <updated>2022-01-23T00:21:14.438Z</updated>
         <content type="html"><![CDATA[칸·베를린·베네치아 수상 장예모·PTA 신작…스필버그·스콧 대작 개봉 (서울=연합뉴스) 오보람 기자 = 세계 유수의 영화제를 휩쓴 감독부터 흥행의 귀재로 불리는 감독까지, 탄탄한 필모그래피를 구축한 거장들의 새 영화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인민을 위해 복무하라' 연우진X지안, 이토록 파격적이라니]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003023131</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003023131"/>
-        <updated>2022-01-23T16:05:56.620Z</updated>
-        <content type="html"><![CDATA[파격 멜로의 탄생을 알리는 영화 '인민을 위해 복무하라'가 단 한 순간도 헤어나올 수 없는 매혹적인 사랑을 담은 런칭 예고편을 최초 공개했다. '인민을 위해 복무하라'는 출세를 꿈꾸는 모범병사 무광(연우진 분)이 사]]></content>
     </entry>
 </feed>
