@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 08:07:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 09:07:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220123195529_77721ce35845d37dcde7084b333d3a61.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이혜리-변우석, 달밤의 월담 데이트 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=188878</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=188878</guid>
+            <pubDate>Tue, 25 Jan 2022 09:04:59 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=188878">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220125180245_92bd9a53378475a9efb29353c65650fe.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=188878">이혜리-변우석, 달밤의 월담 데이트</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%BD%83%20%ED%94%BC%EB%A9%B4%20%EB%8B%AC%20%EC%83%9D%EA%B0%81%ED%95%98%EA%B3%A0">월화드라마 꽃 피면 달 생각하고</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220125180245_92bd9a53378475a9efb29353c65650fe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["응원합니다!" KBS 어벤져스 해설진의 응원 메시지 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=188809</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=188809</guid>
@@ -1029,24 +1047,6 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220124221747_9e2c922065838718b0842189603b7e2a_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[성시경 소신 발언 "'백종원 클라쓰' 가 아니라 '백종원과 가마솥' 되겠다" (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=188603</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=188603</guid>
-            <pubDate>Mon, 24 Jan 2022 08:05:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=188603">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220124165530_52d0c9e71e622f259b648de9b12b52e2.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=188603">성시경 소신 발언 "'백종원 클라쓰' 가 아니라 '백종원과 가마솥' 되겠다" </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B1%EC%A2%85%EC%9B%90%20%ED%81%B4%EB%9D%BC%EC%93%B0">백종원 클라쓰</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220124165530_52d0c9e71e622f259b648de9b12b52e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['해적' 한효주 "여성 액션 넘어선 액션 배우로의 도전" [인터뷰M] (MBC 연예 ─ 영화)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/336368</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/336368</guid>
@@ -1109,6 +1109,48 @@
             <pubDate>Sun, 19 Dec 2021 01:21:25 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/333480" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/16/a3f51c5a-9993-4230-a574-9edc7eff1297.jpg" alt="">        <div class="text-box">            <span class="label"> 외화</span>            <p class="summary">'드라이브 마이 카' 하마구치 류스케 감독 "원작자인 무라카미 하루키의 세계적인 명성 덕을 보는 것"</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/12/16/a3f51c5a-9993-4230-a574-9edc7eff1297.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['해적' 김정훈 감독 "보물섬, 신밧드의 모험을 이을 한국형 가족 어드벤처 영화" [인터뷰M] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000144562</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000144562</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '쩨쩨한 로맨스', '탐정: 더 비기닝'에 이어 해양액션어드벤처 '해적: 도깨비 깃발'로 관객들에게 새로운 즐거움과 웃음을 전해줄 김정훈 감독을 만났다. 감각적인 코미디 연출력과 더불어 흥행성을 입증한 김정훈]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[권상우 “다양한 장르 유연하게 하는 배우 되고파” [화보] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000958211</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000958211</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[권상우 “다양한 장르 유연하게 하는 배우 되고파” [화보] 배우 권상우가 패션화보를 공개했다. 화보에는 편안하고 자연스러운 권상우의 모습을 담았다. 나른한 표정을 보여달라는 요청에 권상우는 이내 느긋한 몸짓과 표정으]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[강하늘X한효주 '해적: 도깨비 깃발', 세대별 취향저격 관람포인트 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003524941</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003524941</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드POP=이미지 기자] '해적: 도깨비 깃발'이 전 연령대를 사로잡을 세대별 취향저격 관람 포인트를 공개했다. 한국 오락 블록버스터의 한 획을 그었던 영화 ‘해적’의 귀환 '해적: 도깨비 깃발'은 흔적도 없이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['왕좌의 게임' 피터 딘클리지, '백설공주' 실사화 비판 "위선적" (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003023778</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003023778</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:20 GMT</pubDate>
+            <content:encoded><![CDATA['왕좌의 게임'으로 잘 알려진 할리우드 배우 피터 딘클리지가 '백설공주' 실사화를 비판했다. 24일 미국 연예 매체 버라이어티에 따르면 피터 딘클리지는 한 팟캐스트에 게스트로 출연해 동화 '백설공주' 속 난쟁이들에]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[덱스터픽쳐스 - 투유드림, 영상웹툰 기획 제작 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000043334</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000043334</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[시각특수효과(VFX) 및 콘텐츠 전문기업 (주)덱스터스튜디오의 자회사 (주)덱스터픽쳐스(대표 김동현)가 웹툰 콘텐츠 전문기업 (주)투유드림(대표 유택근)과 손잡고 영상 및 웹툰 제작에 나선다. 덱스터스튜디오는 24일 오후 서울]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['모럴센스' 이준영, 은밀 성적 취향 가진 완벽남 "인간 리트리버 되기 위해 노력" (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003524932</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003524932</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드POP=이미지 기자] '모럴센스'가 은밀한 성적 취향을 가진 완벽남 ‘정지후’로 분한 이준영의 캐릭터 스틸을 공개했다. '모럴센스'는 모든 게 완벽하지만 남다른 성적 취향을 가진 지후와 그의 비밀을 알게 된]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[D:영화 뷰] '겨울왕국' 제친 '엔칸토: 마법의 세계' OST 역주행, 달라진 소비 문화 힘 컸다 (네이버TV연예 ─ 영화)]]></title>
@@ -1244,221 +1286,221 @@
             <content:encoded><![CDATA[영화 '해적: 도깨비 깃발'에서 첫 사극 도전, 첫 악역 도전에 성공한 배우 권상우를 만났다. 권상우는 '해적: 도깨비 깃발'에서 왕실의 사라진 보물을 노리는 '부흥수'로 신출귀물한 무술 실력과 목표를 위해서라면 수]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['그리드', 2차 포스터·예고편 공개..제작진 "무엇을 상상하든 그 이상" (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003023733</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003023733</guid>
-            <pubDate>Tue, 25 Jan 2022 06:07:00 GMT</pubDate>
-            <content:encoded><![CDATA['그리드'가 2차 포스터 3종과 예고편을 공개했다. 2월 16일 공개되는 디즈니+(디즈니플러스) 오리지널 시리즈 '그리드'(극본 이수연·연출 리건, 박철환)는 태양풍으로부터 인류를 구원한 방어막 '그리드'를 탄생시킨]]></content:encoded>
+            <title><![CDATA[‘검사남편♥’ 한지혜, 딸 바라만 봐도 좋은 도치맘 “굴러다니다 걸을 듯” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000536920</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000536920</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:31 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박정민 기자] 배우 한지혜가 육아 근황을 전했다. 한지혜는 1월 25일 개인 인스타그램에 "윤스리 슬이 슬이 윤슬이 혼자 놀기 10분 동안 편안한 아침 식사 이앓이 인지 짜증 기진 못하고 굴러다니다 걸을듯]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['최태준♥' 박신혜, 설날 TV서 본다…특선 라인업 공개 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000526950</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000526950</guid>
-            <pubDate>Tue, 25 Jan 2022 06:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=태유나 기자] 배우 최태준과 최근 결혼식을 올린 새 신부 박신혜가 주연을 맡은 영화 '#살아있다'를 설날 특선 영화로 만난다. SBS가 2022 설 특집으로 여섯 편의 특선 영화를 준비했다. 오미크론 영향]]></content:encoded>
+            <title><![CDATA['노는언니2' 측 "박세리, 재물 계속 들어오는 사주…남자 먹여 살려" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=031&amp;aid=0000650393</link>
+            <guid>https://entertain.naver.com/now/read?oid=031&amp;aid=0000650393</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:31 GMT</pubDate>
+            <content:encoded><![CDATA['노는언니2'에서 대한민국 하계올림픽 최초 3관왕에 빛나는 양궁 선수 안산과 박세리, 한유미, 정유인, 김성연, 신수지의 2022년 신년운세가 공개된다. 25일 방송되는 '노는언니2' 21회에는 '무한도전' '런닝맨]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[브래들리 쿠퍼x케이트 블란쳇 '나이트메어 앨리'…2월 국내 개봉 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005866061</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005866061</guid>
-            <pubDate>Tue, 25 Jan 2022 06:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 기예르모 델 토로 감독이 연출하고 할리우드 톱스타들이 총출동한 화제작 '나이트메어 앨리'가 2월 국내 개봉을 확정 짓고 메인 포스터를 공개했다. 오는 2월 개봉하는 '나이트메어 앨리']]></content:encoded>
+            <title><![CDATA['절친에 1000만원 빌리기' 미션 실패, 누구?…'고끝밥' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010965927</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010965927</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:31 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]황지향 인턴 기자 = '82 개띠즈'가 친구에게 돈을 빌려야 '모둠전'을 먹는다. 25일 오후 8시에 방송되는 NQQ와 디스커버리 채널 코리아 '고생 끝에 밥이 온다(이하 '고끝밥')'의 문세윤, 조세]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[팝인터뷰]이선균 "'문명특급' 조사력에 깜짝..왜 재재 하는지 알겠더라" (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003524844</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003524844</guid>
-            <pubDate>Tue, 25 Jan 2022 06:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=이미지 기자] 배우 이선균이 '문명특급' 출연 소감을 밝혔다. 이선균은 설경구와 같이 유튜브 채널 '문명특급' 게스트로 출격, 솔직한 대화를 이어가며 큰 웃음을 선사한 바 있다. 최근 헤럴드POP과 화]]></content:encoded>
+            <title><![CDATA[아이브, 2022 베이징올림픽 결단식 축하 공연 "무대로나마 응원할 수 있어 기쁘다" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000339619</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000339619</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:31 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]6인조 신예 아이브가 2022 베이징올림픽 참가 선수단을 위한 응원을 보냈다. 아이브(유진ㆍ가을ㆍ레이ㆍ원영ㆍ리즈ㆍ이서)는 25일 오후 4시 서울 방이동 올림픽공원 올림픽홀에서 진행된 202]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['해적2', 흥행 깃발 세웠다…D-1 예매율 47% 돌파 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000279472</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000279472</guid>
-            <pubDate>Tue, 25 Jan 2022 06:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 영화 '해적:도깨비 깃발'(이하 '해적2')이 개봉을 하루 앞두고 50%에 육박하는 예매율을 기록하고 있다. 25일 영화진흥위원회 예매율 집계에 따르면 '해적2'는 47.5%의 예]]></content:encoded>
+            <title><![CDATA[엄현경, 아름다움에 엄지척 (‘두 번째 남편’ 라디오 출근)[뉴스엔TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000536918</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000536918</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:31 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 김기태 기자] MBC 일일드라마 '두 번째 남편' 출연 배우 엄현경이 1월 25일 오후 서울 마포구 상암동 MBC상암에서 진행되는 MBC FM4U '두시의 데이트 뮤지, 안영미입니다' 라디오 일정에 참석하기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공식] 덱스터픽쳐스, 투유드림과 MOU 체결..'그날, 그곳에서'→'EARTH 619' 공동 프로젝트 진행 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003825557</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003825557</guid>
-            <pubDate>Tue, 25 Jan 2022 06:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 시각특수효과(VFX) 및 콘텐츠 전문기업 덱스터스튜디오의 자회사 덱스터픽쳐스가 웹툰 콘텐츠 전문기업 투유드림과 손잡고 영상 및 웹툰 제작에 나선다. 덱스터스튜디오는 24일 오후 서울 상암동]]></content:encoded>
+            <title><![CDATA[박지후, 허걱! 인형인줄... (정오의 희망곡 출근)[뉴스엔TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000536917</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000536917</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:31 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 김기태 기자] 넷플릭스 시리즈 '지금 우리 학교는' 출연 배우 박지후가 1월 25일 오후 서울 마포구 상암동 MBC상암에서 진행되는 MBC FM4U '정오의 희망곡 김신영입니다' 라디오 일정에 참석하기 위해]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['솔로지옥' 김현중, 송지아 언팔 여파 거셌나 "악플·성희롱 심각해, 법적 대응"[전문] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000339606</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000339606</guid>
-            <pubDate>Tue, 25 Jan 2022 08:06:45 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=강효진 기자] 넷플릭스 예능프로그램 '솔로지옥' 출연자 김현중이 악플 법적 대응을 예고했다. 김현중은 24일 자신의 인스타그램 스토리에 "'솔로지옥'을 통해 관심 가져주신 분들에게 감사드린다"며 "영상]]></content:encoded>
+            <title><![CDATA[조이현, 러블리한 심쿵! 눈미소 (정오의 희망곡 출근)[뉴스엔TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000536916</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000536916</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:31 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 김기태 기자] 넷플릭스 시리즈 '지금 우리 학교는' 출연 배우 조이현이 1월 25일 오후 서울 마포구 상암동 MBC상암에서 진행되는 MBC FM4U '정오의 희망곡 김신영입니다' 라디오 일정에 참석하기 위해]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[영상]진구X하도권X이원근, 섬뜩 살벌 '우월한 하루' 대본리딩 현장 공개 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=031&amp;aid=0000650376</link>
-            <guid>https://entertain.naver.com/now/read?oid=031&amp;aid=0000650376</guid>
-            <pubDate>Tue, 25 Jan 2022 08:06:45 GMT</pubDate>
-            <content:encoded><![CDATA['우월한 하루'의 대본리딩 현장이 공개됐다. 25일 OCN 공식홈에는 OCN 새 드라마 '우월한 하루' 대본리딩 현장이 게재돼 관심을 모으고 있다. 영상에는 조남형 감독과 이지현 작가를 비롯해 진구, 하도권, 이원근]]></content:encoded>
+            <title><![CDATA['진격의 할매' 김영옥 앞 '임영웅 인연' 사연자 등장 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003825643</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003825643</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:31 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 문지연 기자] '매운맛 토크쇼' '진격의 할매'에 임영웅과 인연이 있는 사연자가 등장한다. 25일 첫 방송을 앞둔 채널S 새 예능프로그램 '진격의 할매'에 찾아온 사연자는 "저를 기억하실 지 모르겠지만]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['꽃피면' 유승호 이혜리, 감격의 재회…애틋한 포옹 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004913745</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004913745</guid>
-            <pubDate>Tue, 25 Jan 2022 08:06:45 GMT</pubDate>
-            <content:encoded><![CDATA[‘꽃 피면 달 생각하고’ 유승호가 구사일생으로 귀환한 뒤 정인 이혜리와 감격의 재회 포옹을 나눈다. KBS 2TV 월화드라마 ‘꽃 피면 달 생각하고’(연출 황인혁, 극본 김아록)는 측은 25일 남영(유승호 분)과 강]]></content:encoded>
+            <title><![CDATA[NCT 도영‧스테이씨 시은‧재재, 가온차트 뮤직어워즈 3MC 확정 "방역에도 최선 다한다" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000339618</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000339618</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:31 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]제11회 가온차트 뮤직어워즈가 NCT 도영, 스테이씨 시은, 재재 3MC체제로 확정됐다. 25일 가온차트 뮤직어워즈 측은 "도영, 시은, 재재가 제 11회 가온차트 뮤직어워즈 진행자로 확정]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['라스' 이세영 "'옷소매' 성덕임 위해 몸무게 8kg 찌웠다" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003023775</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003023775</guid>
-            <pubDate>Tue, 25 Jan 2022 08:06:45 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이세영이 '옷소매 붉은 끝동'으로 또 한 번 대박을 터트리며 10년 만에 '라디오스타'를 다시 찾았다. 이세영은 인생캐 '성덕임'과의 운명적인 만남부터 '이산'과 애절한 엔딩을 떠올리다 울컥하는 등 '성덕임']]></content:encoded>
+            <title><![CDATA[‘라스’ 이세영, 이준호와 키스신 찍을 당시 뜻밖의 어려움 고백? (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001638048</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001638048</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:31 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이세영이 ‘옷소매 붉은 끝동’으로 또 한 번 대박을 터트리며 10년 만에 ‘라디오스타’를 다시 찾았다. 이세영은 인생캐 ‘성덕임’과의 운명적인 만남부터 ‘이산’과 애절한 엔딩을 떠올리다 울컥하는 등 ‘성덕임’]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[펜타곤 1위, ‘Feelin' Like’로 발매 당일 국내 음원 차트 석권 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001638035</link>
-            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001638035</guid>
-            <pubDate>Tue, 25 Jan 2022 08:06:45 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 펜타곤이 미니 12집 ‘IN:VITE U’(인바잇유)로 국내 음원 차트 1위를 차지했다. 펜타곤은 지난 24일 오후 6시 미니 12집 'IN:VITE U'(인바잇유)를 발매한 가운데, 타이틀곡 ‘Feelin']]></content:encoded>
+            <title><![CDATA[[포토S] 장의수, 분위기 있는 배우 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000339617</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000339617</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:31 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=서울, 곽혜미 기자] 배우 장의수가 25일 오후 서울 마포구 상암동 스포티비뉴스 사옥에서 진행된 인터뷰에 앞서 포즈를 취하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이윤지 둘째 딸, 눈이 왕방울 만하네 "아플 때만 나오는 쌍커풀" [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000526957</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000526957</guid>
-            <pubDate>Tue, 25 Jan 2022 08:06:45 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=차혜영 기자] 배우 이윤지가 딸 소율 양의 쌍꺼풀을 공개했다. 이윤지는 25일 자신의 인스타그램을 통해 "촬영 각도가 중요하게 작용한 컷이지만 역시나 마음에 들어"라는 글과 함께 여러 장의 사진을 게재했다]]></content:encoded>
+            <title><![CDATA['오징어게임'·BTS 뮤비, 美 미술감독조합상 후보 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010965901</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010965901</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:31 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]이재훈 기자 = 넷플릭스 시리즈 '오징어 게임'과 그룹 '방탄소년단'(BTS)이 브릿팝 밴드 '콜드플레이'와 함께 출연한 '마이 유니버스(My Universe)' 뮤직비디오가 미국 미술감독조합(Art]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[트와이스 쯔위 ‘여신과의 눈맞춤’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000536895</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000536895</guid>
-            <pubDate>Tue, 25 Jan 2022 08:06:45 GMT</pubDate>
-            <content:encoded><![CDATA[[인천공항(영종도)=뉴스엔 지수진 기자] 트와이스(TWICE) 멤버 쯔위가 1월 25일 오후 인천 중구 운서동 인천국제공항 제2여객터미널을 통해 대만 타이베이에서 입국하고 있다.]]></content:encoded>
+            <title><![CDATA[간미연, 벽 뚫는 소리 아냐?…층간소음 고통 호소 "깜짝 놀라 깼다" [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000526960</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000526960</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:31 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=차혜영 기자] 그룹 베이비복스 출신 간미연이 층간소음에 고통을 호소했다. 간미연은 25일 자신의 인스타그램 스토리를 통해 짧은 영상을 게재했다. 천장을 촬영한 것으로 보이는 영상 속에는 드릴음을 연상케 하]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘서프비방’ 마릴린 먼로의 팬 초아도 놀랐다? ‘비운의 스타’ 조명 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001205829</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001205829</guid>
-            <pubDate>Tue, 25 Jan 2022 08:06:45 GMT</pubDate>
-            <content:encoded><![CDATA[‘서프라이즈 비밀의 방’이 마릴린 먼로의 팬인 초아도 놀라게 만든 ‘비운의 스타’에 대한 사건을 조명한다. 오는 26일(수) 방송되는 MBC ‘서프라이즈: 비밀의 방’(이하 ‘서프비방’)에는 에이핑크 남주가 MZ세대]]></content:encoded>
+            <title><![CDATA[[단독]'강철돌' 오종혁 '맘마미안' 마지막 게스트..母 손맛 찾기 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003023781</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003023781</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:31 GMT</pubDate>
+            <content:encoded><![CDATA[보이 그룹 클릭비 출신 오종혁이 '맘마미안'에 출연한다. 25일 스타뉴스 취재 결과, 오종혁은 오는 2월 1일 방송되는 MBC에브리원 예능 프로그램 '맘마미안' 8회 게스트로 출연한다. '맘마미안'은 스타가 출연해]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['고스트 닥터' 정지훈·김범·유이, 행복과 불행 사이에서… [N컷] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005866813</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005866813</guid>
-            <pubDate>Tue, 25 Jan 2022 08:06:45 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 안태현 기자 = '고스트 닥터'의 정지훈, 김범, 유이에게 예상치 못한 불행이 밀려온다. 25일 오후 10시30분 방송되는 tvN 월화드라마 '고스트 닥터'(극본 김선수/ 연출 부성철) 8회에서는 차]]></content:encoded>
+            <title><![CDATA[송윤아, 이렇게까지 가식 없어도 돼? 격한 닭다리 먹방 ‘깜짝’ (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000536915</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000536915</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:31 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박정민 기자] 배우 송윤아가 친근한 일상을 공개했다. 송윤아는 1월 25일 개인 인스타그램에 "쉼........"이라는 글과 함께 사진 여러 장을 게재했다. 공개된 사진 속 송윤아는 채널A 드라마 '쇼윈도:]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[트와이스 쯔위 ‘꾸미지 않은 수수한 공항패션’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000536894</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000536894</guid>
-            <pubDate>Tue, 25 Jan 2022 08:06:45 GMT</pubDate>
-            <content:encoded><![CDATA[[인천공항(영종도)=뉴스엔 지수진 기자] 트와이스(TWICE) 멤버 쯔위가 1월 25일 오후 인천 중구 운서동 인천국제공항 제2여객터미널을 통해 대만 타이베이에서 입국하고 있다.]]></content:encoded>
+            <title><![CDATA[장영란, 얼마나 바쁘면 떡진 머리로 출근…병원장 사모님인데 뭐 어때 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000339616</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000339616</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:31 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=정서희 기자] 방송인 장영란이 털털한 매력을 발산했다. 장영란은 25일 자신의 SNS에 "일찍 출근. 어제 촬영 때 했던 머리 그대로 하고 출근. 기름기 주의"라는 글과 함께 사진 세 장을 게재했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['군검사 도베르만' 안보현X조보아, 열정 폭발 대본리딩 현장 공개 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004913744</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004913744</guid>
-            <pubDate>Tue, 25 Jan 2022 08:06:45 GMT</pubDate>
-            <content:encoded><![CDATA[tvN ‘군검사 도베르만’이 첫 대본리딩부터 범상치 않은 기운을 뿜어내며 짜릿한 밀리터리 법정 활극의 탄생을 예고했다. tvN 새 월화드라마 ‘군검사 도베르만’(극본 윤현호/ 연출 진창규)은 돈을 위해 군검사가 된]]></content:encoded>
+            <title><![CDATA[EBS, 2022 시청자위원회 위원장으로 김동규 건국대 교수 위촉 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005866948</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005866948</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:31 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 안태현 기자 = 김동규 건국대학교 미디어커뮤니케이션학과 교수가 2022년 EBS 시청자위원회 위원장으로 위촉됐다. 25일 EBS는 2022년 시청자위원회 위촉식을 갖고 10명의 시청자 위원을 위촉했다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[트와이스 쯔위 ‘반짝이는 검은 눈동자’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000536893</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000536893</guid>
-            <pubDate>Tue, 25 Jan 2022 08:06:45 GMT</pubDate>
-            <content:encoded><![CDATA[[인천공항(영종도)=뉴스엔 지수진 기자] 트와이스(TWICE) 멤버 쯔위가 1월 25일 오후 인천 중구 운서동 인천국제공항 제2여객터미널을 통해 대만 타이베이에서 입국하고 있다.]]></content:encoded>
+            <title><![CDATA[‘전설체전’ 김재환 “형 머리에 피 난다”...김용만 흑채 땀에 피로 착각 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001638044</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001638044</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:31 GMT</pubDate>
+            <content:encoded><![CDATA[‘전설체전’에서 돌발 상황이 벌어져 연예부 대 럭비부의 승부가 오리무중으로 빠진다. 오늘(25일) 방송되는 JTBC 신년특집 ‘전설체전’에서 연예부와 럭비부가 정면충돌하는 가운데 예상치 못한 변수가 발생한다. 바로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[트와이스 쯔위 ‘카트 위 캐리어가 한가득’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000536892</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000536892</guid>
-            <pubDate>Tue, 25 Jan 2022 08:06:45 GMT</pubDate>
-            <content:encoded><![CDATA[[인천공항(영종도)=뉴스엔 지수진 기자] 트와이스(TWICE) 멤버 쯔위가 1월 25일 오후 인천 중구 운서동 인천국제공항 제2여객터미널을 통해 대만 타이베이에서 입국하고 있다.]]></content:encoded>
+            <title><![CDATA[[매경e신문] 오늘의 프리미엄 (1월 26일) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004913853</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004913853</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:31 GMT</pubDate>
+            <content:encoded><![CDATA[●이것 있는 사람, 비아그라 '조심' ●"널린 게 벤츠·BMW"라더니…'1억' 넘어야 수입차 대접받겠네]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[문세윤, 김숙 미담 "애 낳고 전기세 못 낼때 500만원 선뜻" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005866799</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005866799</guid>
-            <pubDate>Tue, 25 Jan 2022 08:06:45 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 김학진 기자 = 개그맨 문세윤이 선배 신동엽과 김숙에게 감동을 받았던 순간을 떠올렸다. 25일 방송된 KBS 1TV '아침마당' 화요 초대석에는 '나의 전성시대는 지금부터'라는 주제를 놓고 문세윤이]]></content:encoded>
+            <title><![CDATA[김기리 "작년부터 희귀한 고무 알레르기…불편하다" 고백 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005866943</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005866943</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:31 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 개그맨 김기리가 고무 알레르기가 생겼다며 근황을 밝혔다. 김기리는 25일 자신의 인스타그램에 "제가 작년부터 고무 알레르기라는 희귀한 알레르기가 생겼는데 이게 생각보다 불편하더라고요,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[국민 고민 해결 위해 `진격의 할매` 김영옥·나문희·박정수 출격 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=029&amp;aid=0002717692</link>
-            <guid>https://entertain.naver.com/now/read?oid=029&amp;aid=0002717692</guid>
-            <pubDate>Tue, 25 Jan 2022 08:06:45 GMT</pubDate>
-            <content:encoded><![CDATA[인생 경험 나이를 모두 합해서 238살의 매운 입담이 시작된다. '국민 할매' 트리오 김영옥, 나문희, 박정수가 국민 누구나 마음 속에 품고 있을 법한 고민을 해결해주기 위해 나섰다. 25일 열린 채널S의 오리지널]]></content:encoded>
+            <title><![CDATA['전설체전' 김재환, 김용만 흑채 땀에 "피 난다" 순수 걱정 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003825636</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003825636</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:31 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 문지연 기자] '전설체전'이 예상치 못한 상황 속 경기를 이어간다. 25일 방송되는 JTBC 신년특집 '전설체전'에서 연예부와 럭비부가 정면충돌하는 가운데 예상치 못한 변수가 발생한다. 바로 경기 도중]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이상화-모태범 ‘소치의 얼굴들’, 베이징 동계올림픽 해설 ‘선의의 경쟁’ [스경X초점] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000789331</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000789331</guid>
-            <pubDate>Tue, 25 Jan 2022 08:06:45 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 설 연휴가 지나면 방송가의 흐름은 급격하게 올림픽의 분위기로 변한다. 다음 달 4일부터 20일까지 보름 동안 2022 베이징 동계올림픽이 열리기 때문이다. 코로나19 시국으로 방송가는 전 세계적이 스포]]></content:encoded>
+            <title><![CDATA[이원일 “뉴욕에 김밥 매장 2곳 운영 중” (맘마미안) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000789358</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000789358</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:31 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 글로벌 셰프를 꿈꾸는 이원일의 이야기가 공개된다. 25일 방송되는 MBC에브리원 ‘맘마미안’에는 요리도, 먹방도 다 잘하는 이원일 셰프가 출연한다. 아들이 극찬하는 어머니의 손맛과 어디에서도 본 적 없]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[트와이스 쯔위 ‘모자 속 눈빛만 살짝’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000536891</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000536891</guid>
-            <pubDate>Tue, 25 Jan 2022 08:06:45 GMT</pubDate>
-            <content:encoded><![CDATA[[인천공항(영종도)=뉴스엔 지수진 기자] 트와이스(TWICE) 멤버 쯔위가 1월 25일 오후 인천 중구 운서동 인천국제공항 제2여객터미널을 통해 대만 타이베이에서 입국하고 있다.]]></content:encoded>
+            <title><![CDATA[엄현경 ‘깜찍 깜찍’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000536914</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000536914</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:31 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 지수진 기자] 배우 엄현경이 1월 25일 오후 서울 마포구 상암동 MBC상암에서 진행되는 MBC FM4U '두시의 데이트 뮤지, 안영미입니다’ 라디오 일정에 참석하기 위해 출근하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['스물다섯 스물하나', 5인 5색 포스터 공개…레트로 감성 물씬 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001694035</link>
-            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001694035</guid>
-            <pubDate>Tue, 25 Jan 2022 08:06:45 GMT</pubDate>
-            <content:encoded><![CDATA[김태리-남주혁-김지연(보나)-최현욱-이주명이 싱그러운 '청춘의 우정'을 드러낸 '스페셜 단체 포스터'를 공개했다. 오는 2월 12일 밤 9시 10분에 첫 방송되는 tvN 새 토일드라마 '스물다섯 스물하나'(극본 권도]]></content:encoded>
+            <title><![CDATA[‘호적메이트’ 위너 김진우 울컥 “가족에게 많이 소홀했다” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001638043</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001638043</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:31 GMT</pubDate>
+            <content:encoded><![CDATA[‘호적메이트’ 위너 김진우가 가족에게 미안한 마음을 털어놓는다. 25일 방송되는 MBC 예능프로그램 '호적메이트' 4회에서는 김진우-김진희 남매의 뭉클한 하루가 시청자들을 찾아간다. 이날 김진우-김진희 남매는 생애]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[송윤아, 닭다리에 노래방 열창까지…코믹 연기 노리나 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000339604</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000339604</guid>
-            <pubDate>Tue, 25 Jan 2022 08:06:45 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스-정서희 기자] 배우 송윤아가 여유로운 일상을 공유했다. 송윤아는 25일 자신의 SNS에 "쉼"이라는 글과 함께 사진 여러 장을 게재했다. 공개된 사진에는 편안한 차림으로 휴식을 취하는 송윤아의 모습이]]></content:encoded>
+            <title><![CDATA[엄현경 ‘귀엽게 브이도 한 컷!’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000536913</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000536913</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:31 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 지수진 기자] 배우 엄현경이 1월 25일 오후 서울 마포구 상암동 MBC상암에서 진행되는 MBC FM4U '두시의 데이트 뮤지, 안영미입니다’ 라디오 일정에 참석하기 위해 출근하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[트와이스 쯔위, 여신이닷! (공항패션)[뉴스엔TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000536890</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000536890</guid>
-            <pubDate>Tue, 25 Jan 2022 08:06:45 GMT</pubDate>
-            <content:encoded><![CDATA[[인천공항(영종도)=뉴스엔 김기태 기자] 트와이스(TWICE) 멤버 쯔위(Tzuyu)가 1월 25일 오후 인천 중구 운서동 인천국제공항 제2여객터미널을 통해 일본 오사카에서 입국하고 있다. #쯔위 #Tzuyu #트와]]></content:encoded>
+            <title><![CDATA[이혜리-변우석, 달밤의 월담 데이트 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=438&amp;aid=0000043336</link>
+            <guid>https://entertain.naver.com/now/read?oid=438&amp;aid=0000043336</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:40 GMT</pubDate>
+            <content:encoded><![CDATA[KBS 2TV 월화드라마 ‘꽃 피면 달 생각하고’ 제작진이 월담 데이트를 즐기는 강로서(이혜리 분)와 이표(변우석 분)의 모습을 공개했다. 공개된 스틸에는 단둘이 달밤에 월담 데이트를 즐기는 로서와 이표의 모습이 담]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['화밤' 전유진, 행운요정으로 등장 "정동원에 예능 과외 받아" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001205828</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001205828</guid>
-            <pubDate>Tue, 25 Jan 2022 08:06:45 GMT</pubDate>
-            <content:encoded><![CDATA[전유진이 ‘화요일은 밤이 좋아’ 행운요정으로 깜짝 등장한다. TV CHOSUN ‘화요일은 밤이 좋아’는 ‘미스트롯2’ TOP7과 ‘미스레인보우’ 등 국민 딸들이 정통 트롯부터 7080 가요, 댄스 등 장르를 불문한]]></content:encoded>
+            <title><![CDATA[수녀 된 안은진♥김경남, 시선집중시키는 '공개수배범'의 위장 ('한 사람만') (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000526961</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000526961</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:40 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=차혜영 기자] ‘한 사람만’ 수녀와 신부로 위장한 안은진♥김경남의 스틸컷이 본방송에 앞서 사전 공개돼 시선이 집중된다. 지난 24일 방송된 JTBC 월화드라마 ‘한 사람만’ 11회에서 표인숙(안은진)과 민]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[최시원, 유니세프 차세대 글로벌 리더…아시아 유일 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010965742</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010965742</guid>
-            <pubDate>Tue, 25 Jan 2022 08:06:45 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]황지향 인턴 기자 = 유니세프한국위원회(회장 정갑영)는 유니세프 차세대 글로벌 리더 8인에 최시원이 포함됐다고 25일 밝혔다. 최시원은 현재 유니세프 동아시아태평양지역 친선대사다. 최시원과 함께 글로벌]]></content:encoded>
+            <title><![CDATA['꽃달' 변우석, 이혜리와 월담 데이트...유승호 '질투 폭발' (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001402685</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001402685</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:40 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 백민경 인턴 기자) '꽃달' 유승호의 질투가 폭발한다. KBS 2TV 월화드라마 ‘꽃 피면 달 생각하고’ 측은 25일 월담 데이트를 즐기는 강로서(이혜리 분)와 이표(변우석)의 모습을 공개했다. 공개된]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[킹덤이 열고 위클리가 닫았다… '플라이하이' 콘서트 성료 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=018&amp;aid=0005133744</link>
-            <guid>https://entertain.naver.com/now/read?oid=018&amp;aid=0005133744</guid>
-            <pubDate>Tue, 25 Jan 2022 08:06:45 GMT</pubDate>
-            <content:encoded><![CDATA[킹덤(사진=GF엔터테인먼트) [이데일리 스타in 윤기백 기자] 한국매니지먼트연합이 개최한 ‘2022 플라이하이 K팝 콘서트’가 글로벌 팬들을 사로잡으며 성대하게 개최됐다. 지난 24일 경기도 일산 빛마루 방송지원센터]]></content:encoded>
+            <title><![CDATA['그 해 우리는' 최종회 관전 포인트…최우식X김다미 종영 소감 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000845936</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000845936</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:40 GMT</pubDate>
+            <content:encoded><![CDATA[‘그 해 우리는’ 최우식, 김다미가 또 다시 이별의 위기를 마주한다. SBS 월화드라마 ‘그 해 우리는’측은 최종회 방송을 앞둔 25일 재회 후 최대의 갈림길에 선 ‘웅연수’ 커플, 최웅(최우식 분)과 국연수(김다미]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[故신해철 꼭 닮은 딸X아들 "비 올 때 아빠 생각 많이 해" ('자본주의학교') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000526956</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000526956</guid>
-            <pubDate>Tue, 25 Jan 2022 08:06:45 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=차혜영 기자] 마왕의 가족이 ‘자본주의학교’에 입학한다. KBS 2TV ‘자본주의학교’는 경제 교육이 필수인 시대, 10대들의 기상천외한 경제생활을 관찰하고 자본주의 생존법을 알려주며 이를 통해 발생한 수]]></content:encoded>
+            <title><![CDATA['노는언니2' 안산 "양궁 3관왕 포상금은 7억, 신차도 풀옵션으로 받아" (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=416&amp;aid=0000279479</link>
+            <guid>https://entertain.naver.com/now/read?oid=416&amp;aid=0000279479</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:40 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 도쿄 올림픽에서 '양궁 3관왕'에 오른 안산이 '억' 소리나는 포상 내역을 공개했다. 오늘(25일) 오후 방송되는 티캐스트 E채널 '노는언니2'는 '안산 선수 특집'으로 진행된다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[식케이, 전역 후 첫 공식석상은 파리패션위크…패션 아이콘 행보 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001694021</link>
-            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001694021</guid>
-            <pubDate>Tue, 25 Jan 2022 08:06:45 GMT</pubDate>
-            <content:encoded><![CDATA[아티스트 식케이(Sik-K)가 파리패션위크를 빛냈다. 식케이는 최근 진행된 파리 패션위크의 겐조 2022 가을, 겨울 컬렉션에 칸예 웨스트, 줄리아 폭스, 타일러 더 크리에이터, 퍼렐 윌리엄스 등 세계적인 유명인사들]]></content:encoded>
+            <title><![CDATA[김희재, 첫 드라마는 멜로? ‘지금부터 쇼타임’ 장하은과 꽁냥꽁냥 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000845924</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000845924</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:40 GMT</pubDate>
+            <content:encoded><![CDATA[MBC 드라마 '지금부터, 쇼타임!'(극본 하윤아 연출 이형민·정상희)으로 배우 도전에 나선 김희재가 풋풋한 로맨스를 예고하고 있다. ‘지금부터, 쇼타임!’은 카리스마 마술사 차차웅(박해진 분)과 신통력을 지닌 열혈]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이영진, 포기하려는 강예원 붙잡으며 “또 도망치고 싶어?”(한 사람만) (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
@@ -1594,48 +1636,6 @@
             <content:encoded><![CDATA[‘한 사람만’ 이영진이 강예원의 든든한 조력자로 활약했다. 24일 방송된 JTBC 월화드라마 ‘한 사람만’에서 이영진은 지윤서에 분해 태연한 카리스마를 발휘했다. 강세연(강예원 분)과 성미도(박수영 분)의 연행을 막]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이혜리·변우석, 달밤 월담 데이트.. 유승호 극대노 포착(‘꽃달’) (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004546590</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004546590</guid>
-            <pubDate>Tue, 25 Jan 2022 07:05:40 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=임혜영 기자] 이혜리와 변우석이 달밤에 단둘이 월담 데이트를 즐긴다. 두 사람이 다시 술잔을 부딪치며 술을 마시던 중, 변우석이 이혜리에게 취중진담을 할 것이 예고돼 그 내용에 관심이 쏠리고 있다. KBS]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박현정, '신사와 아가씨→ 더 드라이버' 출연…열일 행보 [공식입장] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001402603</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001402603</guid>
-            <pubDate>Tue, 25 Jan 2022 07:05:40 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 하지원 기자) 배우 박현정이 MBN '더 드라이버'에 출연한다. 25일 소속사 에스에이치미디어코프 측은 “배우 박현정이 ‘더 드라이버’에 출연한다. 짧지만 강렬한 인상을 남기며 여운 깊은 연기를 선보인]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[’꽃피달’ 변서윤, 단아함 뒤에 숨겨진 대범함 ​ (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000845904</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000845904</guid>
-            <pubDate>Tue, 25 Jan 2022 07:05:40 GMT</pubDate>
-            <content:encoded><![CDATA[배우 변서윤이 ‘꽃 피면 달 생각하고’에서 중전 연씨를 완벽히 소화하며 존재감을 드러내고 있다. 변서윤은 KBS2 월화드라마 ‘꽃 피면 달 생각하고’(극본 김주희, 연출 황인혁)‘에서 조부의 정치적 야욕 때문에 어린]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘꽃 피면 달 생각하고’ 이혜리-변우석, 둘이서 술 한 잔‥취중진담 예고[오늘TV] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000536873</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000536873</guid>
-            <pubDate>Tue, 25 Jan 2022 07:05:40 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] ‘꽃 피면 달 생각하고’ 이혜리와 변우석이 달밤에 단둘이 월담 데이트를 즐긴다. KBS 2TV 월화드라마 ‘꽃 피면 달 생각하고’(연출 황인혁 / 극본 김아록 / 제작 (유)꽃피면달생각하고문화]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['스물다섯 스물하나' 김태리→남주혁, 5人5色 레트로 포스터 공개 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003825572</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003825572</guid>
-            <pubDate>Tue, 25 Jan 2022 07:05:40 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 문지연 기자] '스물다섯 스물하나' 김태리, 남주혁부터 김지연(보나), 최현욱, 이주명까지 '청춘의 우정'이 드러난 포스터가 공개됐다. 오는 2월 12일 첫 방송되는 tvN 새 토일드라마 '스물다섯 스물]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“육아는 부부 공동”‥‘며느라기2’ 뼈 때리는 명대사들 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000536872</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000536872</guid>
-            <pubDate>Tue, 25 Jan 2022 06:07:19 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] ‘며느라기2...ing’가 시청자들의 마음에 깊은 여운을 전하는 명대사들로 화제를 모으고 있다. 카카오TV 오리지널 '며느라기2...ing'(연출 이광영, 극본 유송이, 기획 카카오엔터테인먼트]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA["두근두근"..영화거장 대작 행진에 설렌다 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220124170610184</link>
             <guid>https://movie.v.daum.net/v/20220124170610184</guid>
@@ -1644,12 +1644,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F24%2Fmk%2F20220124170612034hzxt.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
+            <title><![CDATA[키아누 리브스, 티베트 자선 행사 참여에 中 반발..왜? [월드스타이슈] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220125154631741</link>
+            <guid>https://movie.v.daum.net/v/20220125154631741</guid>
+            <pubDate>Tue, 25 Jan 2022 08:06:59 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 키아누 리브스/AFPBBNews=뉴스1배우 키아누 리브스가 티베트 자선 행사에 참여한다는 사실이 알려지며 중국에서 거센 비판을 받고 있다. 최근 대만 중앙통신에 따르면 배우 키아누 리브스가 오는 3월 3일 열리는 티베트 하우스 미국 자선 콘서트 참석을 확정 지었다. 키아누 리브스가 참석하는 해당 행사는 티베트 문화를 보호하고]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F25%2Fstarnews%2F20220125154632494mqtx.jpg" length="0" type="image//thumb/S732x228/"/>
+        </item>
+        <item>
             <title><![CDATA[미국 역사상 가장 성공한 복서의 롤러코스터 같은 삶 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220124173301132</link>
             <guid>https://movie.v.daum.net/v/20220124173301132</guid>
             <pubDate>Tue, 25 Jan 2022 01:58:54 GMT</pubDate>
             <content:encoded><![CDATA[[김형욱 기자] &nbsp;        ▲ &nbsp;넷플릭스 오리지널 다큐멘터리 &lt;악마와의 거래&gt; 포스터.    ⓒ 넷플릭스  &nbsp; 2010년 11월 23일, 미국 역사상 가장 성공한 여자 복서 '크리스티 마틴'이 쓰러진다. 그런데, 그곳은 링 위가 아닌 링 밖이었다. 그것도 남편과 함께 살고 있는 집에서 말이다. 고등학교 때 여자친구였던 셰리와 오랜만에 페이스북으로 연락]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F24%2Fohmynews%2F20220124173302315lzjq.jpg" length="0" type="image//thumb/S732x228/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F24%2Fohmynews%2F20220124173302315lzjq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[제시카 차스테인→판빙빙 '355', 강렬한 메인 포스터 공개 (다음영화 뉴스 ─ 인기)]]></title>
@@ -1660,6 +1668,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F24%2Fstarnews%2F20220124180958422ioak.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[교사 4명의 '혈중 알코올 0.05% 실험', 놀라운 결과 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220124144201292</link>
+            <guid>https://movie.v.daum.net/v/20220124144201292</guid>
+            <pubDate>Tue, 25 Jan 2022 00:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[[장혜령 기자] ▲ &nbsp;영화 &lt;어나더 라운드&gt; 스틸    ⓒ (주)엣나인필름  &nbsp; &nbsp; 영화 보는 내내 술 냄새가 스크린을 뚫고 진동하는데 함께 취한 착각이 들 정도였다. 이 아저씨들 생각보다 주사도 봐줄만했다. 분명 만취인데 귀여울 정도였기에 문득 양가적 감정이 들었다.&nbsp; 메마른 열정에 촉촉한 술 붓기 &nbsp;&nbsp;        ▲ &nbsp;영화 &lt;어나더 라운]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F24%2Fohmynews%2F20220124144202664ebnw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA["달이 지구로 떨어진다" 롤렌드 에머리히 '문폴', 3월 韓 개봉[공식] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220124141622307</link>
             <guid>https://movie.v.daum.net/v/20220124141622307</guid>
@@ -1668,12 +1684,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F24%2Fspotvnews%2F20220124141624410iozd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[교사 4명의 '혈중 알코올 0.05% 실험', 놀라운 결과 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220124144201292</link>
-            <guid>https://movie.v.daum.net/v/20220124144201292</guid>
-            <pubDate>Tue, 25 Jan 2022 00:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[[장혜령 기자] ▲ &nbsp;영화 &lt;어나더 라운드&gt; 스틸    ⓒ (주)엣나인필름  &nbsp; &nbsp; 영화 보는 내내 술 냄새가 스크린을 뚫고 진동하는데 함께 취한 착각이 들 정도였다. 이 아저씨들 생각보다 주사도 봐줄만했다. 분명 만취인데 귀여울 정도였기에 문득 양가적 감정이 들었다.&nbsp; 메마른 열정에 촉촉한 술 붓기 &nbsp;&nbsp;        ▲ &nbsp;영화 &lt;어나더 라운]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F24%2Fohmynews%2F20220124144202664ebnw.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[딸의 모습 담긴 '1초' 위해 탈옥을 결심한 남자 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220125112700908</link>
+            <guid>https://movie.v.daum.net/v/20220125112700908</guid>
+            <pubDate>Tue, 25 Jan 2022 03:06:13 GMT</pubDate>
+            <content:encoded><![CDATA[[이학후 기자] &nbsp;        ▲ &nbsp;&lt;원 세컨드&gt; 영화 포스터    ⓒ 찬란  폭력 사건으로 노동교화소에 수감되어 오랫동안 가족을 만나지 못한 이름 없는 남자(장역 분)는 영화 상영 전 나오는 '중화뉴스 22호'에 딸의 모습이 담겼다는 익명의 편지를 받자 그 길로 탈출해 필름을 찾아 나선다. 그는 사막을 헤치고 외딴 마을의 상영관에 도착했지만, 안타깝게도]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F25%2Fohmynews%2F20220125112701850iguy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['나의 촛불' 김의성·주진우 "위대한 승리, 잊지 않았으면" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220125103058933</link>
+            <guid>https://movie.v.daum.net/v/20220125103058933</guid>
+            <pubDate>Tue, 25 Jan 2022 08:06:59 GMT</pubDate>
+            <content:encoded><![CDATA[‘나의 촛불’ 감독 김의성 주진우[이데일리 스타in 박미애 기자] “광화문의 촛불이 여의도로 옮겨붙어 자신들을 태워버릴 것 같았다는 얘기가 인상적이었다.” 배우 김의성과 기자 출신 주진우가 “하나같이 촛불이 두려웠다고 하더라”며 영화를 만들면서 만난 정치인들의 이야기를 들려줬다. 김의성과 주진우는 24일 진행한 영화 ‘나의 촛불’ 화상 인터뷰에서 촛불집회]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F25%2FEdaily%2F20220125103105075jpmh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['더 마더', '콰이어트 플레이스'·'맨 인 더 다크' 잇는 웰메이드 스릴러 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220125130832953</link>
+            <guid>https://movie.v.daum.net/v/20220125130832953</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:48 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '더 마더'(감독 후안마 바호 우료아)가 '콰이어트 플레이스', '맨 인 더 다크'와 더불어 독특한 설정의 웰메이드 스릴러로 예비 관객들의 주목을 받고 있다. 지난 2018년 개봉해 제작비의 20배에 달하는 흥행 수익을 거두며 모두를 놀라게 한 '콰이어트 플레이스'는 '소리 내면 죽는다'라는 간결하면서도 강력한 설정으로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F25%2Fxportsnews%2F20220125130834705lveg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['덩케르크'→'듄', 극장가 재개봉 열풍 [무비노트] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1692,76 +1724,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F25%2Fstartoday%2F20220125083601942nedu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[키아누 리브스, 티베트 자선 행사 참여에 中 반발..왜? [월드스타이슈] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220125154631741</link>
-            <guid>https://movie.v.daum.net/v/20220125154631741</guid>
-            <pubDate>Tue, 25 Jan 2022 08:06:59 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 키아누 리브스/AFPBBNews=뉴스1배우 키아누 리브스가 티베트 자선 행사에 참여한다는 사실이 알려지며 중국에서 거센 비판을 받고 있다. 최근 대만 중앙통신에 따르면 배우 키아누 리브스가 오는 3월 3일 열리는 티베트 하우스 미국 자선 콘서트 참석을 확정 지었다. 키아누 리브스가 참석하는 해당 행사는 티베트 문화를 보호하고]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F25%2Fstarnews%2F20220125154632494mqtx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["강하늘, 삭발할 뻔"..'해적2' 둘러싼 흥미로운 TMI (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220124135719468</link>
-            <guid>https://movie.v.daum.net/v/20220124135719468</guid>
-            <pubDate>Tue, 25 Jan 2022 01:58:54 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 개봉을 앞둔 블록버스터 '해적: 도깨비 깃발'의 흥미로운 TMI가 공개됐다. #1. 강하늘, 파격적인 헤어 탄생 과정 영화 '해적: 도깨비 깃발'(감독 김정훈)의 첫 번째 TMI는 자칭 고려 제일검이자 의적단 두목인 ‘무치’ 역 강하늘의 헤어스타일 탄생 비화다. ‘무치’ 특유의 넉살과 호탕함이 고스란히 느껴지는 독특한 파마머리는 긴]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F24%2Fnewsen%2F20220124135719300obht.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['스파이더맨'VS'특송'VS'해적2'VS'킹메이커', 설 극장가 접전[MK무비] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220125074801306</link>
-            <guid>https://movie.v.daum.net/v/20220125074801306</guid>
-            <pubDate>Tue, 25 Jan 2022 00:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[설 연휴 극장가에 오랜 만의 대접전이 펼쳐진다. 무서운 기세로 장기 흥행 중인 할리우드 대작 ‘스파이더맨: 노 웨이 홈’(이하 ‘스파이더맨’)을 비롯해 한국 영화 ‘특송’과 ‘해적: 도깨비 깃발’(이하 ‘해적2’) 그리고 정치 영화 ‘킹메이커’까지 사파전이 예상된다. 과연 승기는 누가 잡을까. 설 연휴 전날인 26일에는 두 편의 한국 기대작이 맞장 개봉한]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F25%2Fstartoday%2F20220125074806467mowz.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[서현, 당당+세련 커리어우먼..'모럴센스' 캐릭터 스틸 공개 [N컷] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220124143106796</link>
-            <guid>https://movie.v.daum.net/v/20220124143106796</guid>
-            <pubDate>Tue, 25 Jan 2022 08:06:59 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 세계적인 엔터테인먼트 스트리밍 서비스 넷플릭스(Netflix)의 영화 '모럴센스'가 일 잘하고 능력 있는 사원 정지우로 변신한 서현의 캐릭터 스틸을 공개했다. 서현은 오는 2월11일 공개되는 넷플릭스 영화 '모럴센스'에서 영화 첫 주연을 맡아 시청자들에게 또 다른 얼굴을 보여줄 예정이다. '모럴센스'는 모든 게 완벽하지만]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F24%2FNEWS1%2F20220124143108192ibiv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[['킹메이커' ②] '오스카의 남자' 이선균, 드디어 스크린 컴백..'역대급 변신' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220125063008364</link>
-            <guid>https://movie.v.daum.net/v/20220125063008364</guid>
-            <pubDate>Tue, 25 Jan 2022 01:58:54 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 이선균이 오스카상 4관왕에 빛나는 '기생충' 이후 '킹메이커'로 스크린에 컴백, 설날 극장가 표심을 사로잡을 전망이다. '킹메이커'는 세상에 도전하는 정치인 김운범(설경구)과 존재도 이름도 숨겨진 선거 전략가 서창대(이선균)가 치열한 선거판에 뛰어들며 시작되는 드라마를 그린 작품. 故 김대중 전 대통령과 그의 선거 참모]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F25%2Fmydaily%2F20220125063008928kxdl.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[공식] 이석형, '갯마을 차차차'→'링크' 출연 확정..여진구와 호흡 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220125154108496</link>
-            <guid>https://movie.v.daum.net/v/20220125154108496</guid>
-            <pubDate>Tue, 25 Jan 2022 07:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 문지연 기자] '갯마을 차차차'에 출연했던 배우 이석형이 이번에는 '링크'를 통해 연기를 선보인다. tvN 새 드라마 '링크 : 먹고 사랑하라, 죽이게'(권기영 권도환 극본, 홍종찬 연출)는 어느 날 갑자기 한 여자의 감정을 공유(link)하게 된 남자가 그녀의 온갖 기쁨, 슬픔, 아픔을 함께 느끼며 벌어지는 감정 공유 판타지]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F25%2FSpoChosun%2F20220125154109610ezos.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[딸의 모습 담긴 '1초' 위해 탈옥을 결심한 남자 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220125112700908</link>
-            <guid>https://movie.v.daum.net/v/20220125112700908</guid>
-            <pubDate>Tue, 25 Jan 2022 03:06:13 GMT</pubDate>
-            <content:encoded><![CDATA[[이학후 기자] &nbsp;        ▲ &nbsp;&lt;원 세컨드&gt; 영화 포스터    ⓒ 찬란  폭력 사건으로 노동교화소에 수감되어 오랫동안 가족을 만나지 못한 이름 없는 남자(장역 분)는 영화 상영 전 나오는 '중화뉴스 22호'에 딸의 모습이 담겼다는 익명의 편지를 받자 그 길로 탈출해 필름을 찾아 나선다. 그는 사막을 헤치고 외딴 마을의 상영관에 도착했지만, 안타깝게도]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F25%2Fohmynews%2F20220125112701850iguy.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[실체 없는 욕망에 헌실할 때 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220124151200536</link>
-            <guid>https://movie.v.daum.net/v/20220124151200536</guid>
-            <pubDate>Tue, 25 Jan 2022 01:58:54 GMT</pubDate>
-            <content:encoded><![CDATA[[홍기표 기자] *주의! 이 기사에는 영화의 스포일러가 포함돼 있습니다. 인간은 지키고 싶은 현실과 열망하는 미래를 지향한다. 자신이 선택한 길이 맞는지 알 수 없기에 끝까지 가보는 수밖에 없다. 그것이 잘못된 길이라고 의심이 들더라도 눈을 감기 전까지 단정할 수 없다. 그 과정에서 필수적으로 동반되는 불안을 해소하기 위한 두 가지 길이 있다. 다양한 직간]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F24%2Fohmynews%2F20220124151201926punn.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['나의 촛불' 김의성·주진우 "위대한 승리, 잊지 않았으면" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220125103058933</link>
-            <guid>https://movie.v.daum.net/v/20220125103058933</guid>
-            <pubDate>Tue, 25 Jan 2022 08:06:59 GMT</pubDate>
-            <content:encoded><![CDATA[‘나의 촛불’ 감독 김의성 주진우[이데일리 스타in 박미애 기자] “광화문의 촛불이 여의도로 옮겨붙어 자신들을 태워버릴 것 같았다는 얘기가 인상적이었다.” 배우 김의성과 기자 출신 주진우가 “하나같이 촛불이 두려웠다고 하더라”며 영화를 만들면서 만난 정치인들의 이야기를 들려줬다. 김의성과 주진우는 24일 진행한 영화 ‘나의 촛불’ 화상 인터뷰에서 촛불집회]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F25%2FEdaily%2F20220125103105075jpmh.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[중세시대 '미투'와 '피해자다움'에 대하여 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220125121200755</link>
+            <guid>https://movie.v.daum.net/v/20220125121200755</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:48 GMT</pubDate>
+            <content:encoded><![CDATA[[이현파 기자] &nbsp; &nbsp;        ▲ &nbsp;&lt; 라스트 듀얼 : 최후의 결투 &gt; 스틸컷    ⓒ 월트디즈니컴퍼니코리아  한국인의 평균 수명이 83세를 넘긴 지금, 당신에게 '여든 살 이후의 삶은 어떨 것 같냐'고 묻는다면 어떨까? 1937년생, 여든 다섯의 영화감독 리들리 스콧은 여전히 현역이다. 지난해 10월 중세 역사물 &lt;라스트 듀얼 : 최후의 결투&gt;(이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F25%2Fohmynews%2F20220125121201459arfe.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[정유미 감독 '존재의 집' 베를린영화제 단편 경쟁부문 초청[공식] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1770,6 +1738,14 @@
             <pubDate>Tue, 25 Jan 2022 08:06:59 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스엔 배효주 기자] 한국영화아카데미 정유미 감독 연출작 '존재의 집'이 베를린국제영화제 단편 경쟁 부문에 초청됐다. 1월 21일 영화진흥위원회에 따르면 정유미 감독의 신작 애니메이션 영화 '존재의 집'이 다음 달 열리는 제72회 베를린국제영화제에 진출해 ‘황금곰상’을 노린다. 정유미 감독은 한국영화아카데미(KAFA)의 정규과정 애니메이션 전공 졸업생]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F24%2Fnewsen%2F20220124162033239vkig.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["강하늘, 삭발할 뻔"..'해적2' 둘러싼 흥미로운 TMI (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220124135719468</link>
+            <guid>https://movie.v.daum.net/v/20220124135719468</guid>
+            <pubDate>Tue, 25 Jan 2022 01:58:54 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 개봉을 앞둔 블록버스터 '해적: 도깨비 깃발'의 흥미로운 TMI가 공개됐다. #1. 강하늘, 파격적인 헤어 탄생 과정 영화 '해적: 도깨비 깃발'(감독 김정훈)의 첫 번째 TMI는 자칭 고려 제일검이자 의적단 두목인 ‘무치’ 역 강하늘의 헤어스타일 탄생 비화다. ‘무치’ 특유의 넉살과 호탕함이 고스란히 느껴지는 독특한 파마머리는 긴]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F24%2Fnewsen%2F20220124135719300obht.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[이지훈 '아이돌레시피' 스크린 컴백 (다음영화 뉴스 ─ 인기)]]></title>
@@ -1788,12 +1764,44 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F24%2Fstarnews%2F20220124163347083iwwv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[뇌사 판정 딸, '섬뜩한' 모성애가 낳은 비극 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220124100601944</link>
-            <guid>https://movie.v.daum.net/v/20220124100601944</guid>
-            <pubDate>Mon, 24 Jan 2022 01:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[[김준모 기자] ▲ &nbsp;&lt;인어가 잠든 집&gt; 포스터    ⓒ (주)영화특별시SMC  &nbsp; 일본을 대표하는 작가 히가시노 게이고는 노년에 접어든 현재에도 다작을 하는 것으로 유명하다. 그만큼 일본에서 가장 많은 소설이 영상화 된 그의 작품들은 흥미로운 이야기와 사회적인 메시지를 담은 이야기로 주목받고 있다. 동명의 원작을 바탕으로 한 &lt;인어가 잠든]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F24%2Fohmynews%2F20220124100602858orpk.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['가슴이 떨리는 건 너 때문', 두근두근 로맨스로 달달함 채워주는 설렘 지수 영상 대공개 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220124145312757</link>
+            <guid>https://movie.v.daum.net/v/20220124145312757</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:48 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]일본의 청춘 스타 우키쇼 히다카와 시라이시 세이 주연 '가슴이 떨리는 건 너 때문'이 두근두근 로맨스를 기대케 하는 ‘심쿵주의보! 설렘 지수 영상’을 공개했다. 열아홉, 단짝 친구 ‘아리마 하야토’를 좋아하게 된 짝사랑 전문 ‘시노하라 츠카사’가 친구 이상, 연인 미만의 관계 속에서 풋풋한 사랑을 쌓아 나가는 과정을 그린 달콤]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F24%2Fmydaily%2F20220124145312666gptf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['스파이더맨'VS'특송'VS'해적2'VS'킹메이커', 설 극장가 접전[MK무비] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220125074801306</link>
+            <guid>https://movie.v.daum.net/v/20220125074801306</guid>
+            <pubDate>Tue, 25 Jan 2022 00:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[설 연휴 극장가에 오랜 만의 대접전이 펼쳐진다. 무서운 기세로 장기 흥행 중인 할리우드 대작 ‘스파이더맨: 노 웨이 홈’(이하 ‘스파이더맨’)을 비롯해 한국 영화 ‘특송’과 ‘해적: 도깨비 깃발’(이하 ‘해적2’) 그리고 정치 영화 ‘킹메이커’까지 사파전이 예상된다. 과연 승기는 누가 잡을까. 설 연휴 전날인 26일에는 두 편의 한국 기대작이 맞장 개봉한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F25%2Fstartoday%2F20220125074806467mowz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[서현, 당당+세련 커리어우먼..'모럴센스' 캐릭터 스틸 공개 [N컷] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220124143106796</link>
+            <guid>https://movie.v.daum.net/v/20220124143106796</guid>
+            <pubDate>Tue, 25 Jan 2022 08:06:59 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 세계적인 엔터테인먼트 스트리밍 서비스 넷플릭스(Netflix)의 영화 '모럴센스'가 일 잘하고 능력 있는 사원 정지우로 변신한 서현의 캐릭터 스틸을 공개했다. 서현은 오는 2월11일 공개되는 넷플릭스 영화 '모럴센스'에서 영화 첫 주연을 맡아 시청자들에게 또 다른 얼굴을 보여줄 예정이다. '모럴센스'는 모든 게 완벽하지만]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F24%2FNEWS1%2F20220124143108192ibiv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[D:인터뷰] 강하늘 "'해적: 도깨비 깃발', 전편보다 강해진 모험담에 욕심" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220125091727568</link>
+            <guid>https://movie.v.daum.net/v/20220125091727568</guid>
+            <pubDate>Tue, 25 Jan 2022 09:06:48 GMT</pubDate>
+            <content:encoded><![CDATA[배우 강하늘이 올해 설을 책임진다. 강하늘은 영화 '해적: 도깨비 깃발'로 돌아와 능청스럽고 허당기가 가득하지만 우직한 무치로 스크린을 가득 채웠다. 코미디 연기부터 액션까지, 강하늘은 언제나 그랬듯, 무치가 자신인 것처럼 자연스러움을 무기로 극을 끌어간다. '해적: 도깨비 깃발'은 흔적도 없이 사라진 왕실 보물의 주인이 되기 위해 바다로 모인 해적들의 스]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F25%2Fdailian%2F20220125091733564xtsb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['해적' 김정훈 감독 "보물섬, 신밧드의 모험을 이을 한국형 가족 어드벤처 영화" [인터뷰M] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220125175121552</link>
+            <guid>https://v.daum.net/v/20220125175121552</guid>
+            <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '쩨쩨한 로맨스', '탐정: 더 비기닝'에 이어 해양액션어드벤처 '해적: 도깨비 깃발'로 관객들에게 새로운 즐거움과 웃음을 전해줄 김정훈 감독을 만났다. 감각적인 코미디 연출력과 더불어 흥행성을 입증한 김정훈 감독의 신작 '해적: 도깨비 깃발'은 강하늘-한효주-이광수-권상우-채수빈-오세훈-김성오-박지환의 대세 배우들이 출연하여 찰진 호흡과 끈끈한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F25%2FiMBC%2F20220125175126587kuaw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["독립영화계 독보적 존재감" 김새벽 '소피의 세계'서 연기력 경신 (다음영화 뉴스 ─ 최신)]]></title>
@@ -1948,12 +1956,18 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F25%2Fstarnews%2F20220125105158732zirh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['킹메이커', 바로 이 순간 되짚어본 대의와 정의 (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220125104004383</link>
-            <guid>https://v.daum.net/v/20220125104004383</guid>
-            <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아이즈 ize 정유미(칼럼니스트)제20대 대통령 선거를 50여 일 앞두고 1970년대 대한민국 선거판을 배경으로 한 영화 '킹메이커'(감독 변성현, 제작 (주)씨앗필름)가 개봉한다. 대선 시즌을 겨냥한 영화냐고? 이 영화의 연출을 맡은 변성현 감독은 개봉 시기와 무관하게 평가받고 싶다고 했지만 공교롭게도 대선 막바지와 맞물려 관심의 초점이 되고 있다. 20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F25%2FIZE%2F20220125104006562atzf.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA["기계적으로 일하고 있다" 느낀 순간, 이준영의 통렬한 자기반성 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20220125175706748</link>
+            <guid>https://entertain.v.daum.net/v/20220125175706748</guid>
+            <pubDate>Tue, 25 Jan 2022 09:07:04 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS연예뉴스 | 강선애 기자] 배우 이준영은 아이돌 출신이다. 2014년 그룹 유키스 멤버로 합류했고, 2017년 KBS '아이돌 리부팅 프로젝트-더 유닛'에서 춤, 노래, 랩 등 모든 분야에서 실력을 인정 받으며 최종 1위로 데뷔조 멤버에 발탁돼 프로젝트 그룹 UNB로도 활동했다. 하지만 이준영의 아이돌 활약은 대중의 머리 속에 강렬하게 남아있지 않다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['고스트 닥터'.. 평균치 인성 정지훈·김범의 티키타카 영웅행보 볼 만 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20220125171108039</link>
+            <guid>https://entertain.v.daum.net/v/20220125171108039</guid>
+            <pubDate>Tue, 25 Jan 2022 09:07:04 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김재동 객원기자]&nbsp;&nbsp;아기가 울타리도 없는 우물을 향해 엉금엉금 기어간다. 곧 우물에 빠져 목숨을 잃을 상황이다. 지나가던 도둑이 냉큼 아기를 들어 올려 옮겨놓는다. 맹자가 성선설을 주장하며 소개한 측은지심, 곧 인(仁)의 모범사례다. 타인의 불행을 남의 일 같지 않게 느끼는 마음인 이 측은지심은 결국 사랑이고 개인을 넘어 이웃으로, 세계로 스]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이영진, 포기하려는 강예원 붙잡으며 "또 도망치고 싶어?" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
@@ -2047,18 +2061,39 @@
             <content:encoded><![CDATA[[스타뉴스 김수진 기자] 배우 유승호가 가슴 떨리는 '심쿵 엔딩'으로 시청자들의 마음을 간지럽혔다. 유승호는 24일 방송된 KBS 2TV 월화드라마 '꽃 피면 달 생각하고'(연출 황인혁 / 극본 김주희 / 제작 꽃피면달생각하고문화산업전문회사, 몬스터유니온, 피플스토리컴퍼니) 11회에서 연모하는 로서(이혜리 분)와 극적으로 재회, 안방극장에 긴 여운을 남겼]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정지훈·김범·유이에게 닥친 시련..왜? (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20220125144041874</link>
-            <guid>https://entertain.v.daum.net/v/20220125144041874</guid>
-            <pubDate>Tue, 25 Jan 2022 06:07:41 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김수진 기자] '고스트 닥터'의 정지훈, 김범, 유이에게 예상치 못한 불행이 밀려온다. 25일 오후 10시 30분에 방송되는 tvN 월화드라마 '고스트 닥터'(연출 부성철/ 극본 김선수/ 제작 스튜디오드래곤, 본팩토리) 8회에서는 정지훈(차영민 역)과 김범(고승탁 역)이 유이(장세진 역)에게 좋은 소식과 나쁜 소식을 전한다. 앞서 차영민(정]]></content:encoded>
+            <title><![CDATA[김재환 "형 머리에 피 난다" 김용만 흑채 땀 피로 착각 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220125175141560</link>
+            <guid>https://entertain.v.daum.net/v/20220125175141560</guid>
+            <pubDate>Tue, 25 Jan 2022 09:07:09 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp;JTBC 신년특집 ‘전설체전’에서 돌발 상황이 벌어져 연예부 대 럭비부의 승부가 오리무중으로 빠진다. 오늘(25일) 오후&nbsp;9시 방송되는 JTBC 신년특집 ‘전설체전’에서 연예부와 럭비부가 정면충돌하는 가운데 예상치 못한 변수가 발생한다. 바로 경기 도중 럭비부 중 한 멤버가 부상 위험을 감지해 필드에서 빠지게 되면서 5인 대 4]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['고스트닥터' 정지훈X김범X유이, 행복과 불행 사이에 서다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20220125143037504</link>
-            <guid>https://entertain.v.daum.net/v/20220125143037504</guid>
-            <pubDate>Tue, 25 Jan 2022 06:07:41 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박판석 기자] ‘고스트 닥터’의 정지훈, 김범, 유이에게 예상치 못한 불행이 밀려온다.&nbsp; 25일(오늘) 밤 10시 30분에 방송되는 tvN 월화드라마 ‘고스트 닥터’(연출 부성철/ 극본 김선수/ 제작 스튜디오드래곤, 본팩토리) 8회에서는 정지훈(차영민 역)과 김범(고승탁 역)이 유이(장세진 역)에게 좋은 소식과 나쁜 소식을 전한다. 앞서 차영]]></content:encoded>
+            <title><![CDATA['강철돌' 오종혁 '맘마미안' 마지막 게스트..母 손맛 찾기 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220125174651356</link>
+            <guid>https://entertain.v.daum.net/v/20220125174651356</guid>
+            <pubDate>Tue, 25 Jan 2022 09:07:09 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 윤성열 기자] /사진=이기범 기자보이 그룹 클릭비 출신 오종혁이 '맘마미안'에 출연한다. 25일 스타뉴스 취재 결과, 오종혁은 오는 2월 1일 방송되는 MBC에브리원 예능 프로그램 '맘마미안' 8회 게스트로 출연한다. '맘마미안'은 스타가 출연해 엄마의 손맛을 찾아내는 예능 프로그램이다. 스타는 엄마가 만든 음식과 '엄마의 손맛'을 그대로]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이금희 "18년 진행한 '아침마당' 하차 후 잠수 탔다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220125172928692</link>
+            <guid>https://entertain.v.daum.net/v/20220125172928692</guid>
+            <pubDate>Tue, 25 Jan 2022 09:07:09 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=장우영 기자] 방송인 이금희가 ‘박원숙의 같이 삽시다’에 출연한다. KBS2 ‘박원숙의 같이 삽시다’는 혼자 사는 중년 여자 스타들의 동거 생활을 통해 중장년 세대가 직면한 현실과 노후 고민에 대해 가감 없이 이야기하고, 서로의 상처와 고민을 함께 나누며 같이 살아가는 삶의 가치를 보여주는 프로그램이다. 국민 아나운서 이금희와 사선녀의 쉽지]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이금희, 인생 바꾼 슬픔.."'아침마당' 하차도 별일 아냐" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220125171947329</link>
+            <guid>https://entertain.v.daum.net/v/20220125171947329</guid>
+            <pubDate>Tue, 25 Jan 2022 09:07:09 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 이경호 기자] 이금희가 KBS 2TV '박원숙의 같이 삽시다'에 출연했다./사진=KBS이금희가 '박원숙의 같이 삽시다'에서 인생을 바꾼 슬픔을 겪은 사연을 털어놓는다. 오는 26일 방송될 KBS 2TV '박원숙의 같이 삽시다'에서는 이금희와 사선녀(박원숙, 김영란, 혜은이, 김청)와 만남이 공개된다. 혜은이의 초대로 사선가를 찾은 이금희,]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["이런 사람 있을 수도.." 서현의 '모럴센스' 출연 계기 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220125171202074</link>
+            <guid>https://entertain.v.daum.net/v/20220125171202074</guid>
+            <pubDate>Tue, 25 Jan 2022 09:07:09 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS연예뉴스 | 지나윤 에디터] 넷플릭스 오리지널 '모럴센스'로 첫 영화 주연을 맡은 배우 서현이 뜻깊은 소회를 밝혔습니다. 영화 '모럴센스'는 동명의 인기 웹툰을 원작으로, 모든 게 완벽하지만 남다른 성적 취향을 가진 지후와 그의 비밀을 알게 된 유능한 홍보팀 사원 지우의 아찔한 취향 존중 로맨스를 그린 이야기입니다. 앞서 서현의 '모럴센스' 출연 소]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['라스' 이세영 "'옷소매' 성덕임 위해 몸무게 8kg 찌웠다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
@@ -2131,39 +2166,11 @@
             <content:encoded><![CDATA[[스타뉴스 김수진 기자] 유빈이 웨이션브이(WayV) 동생들과의 이별에 진한 아쉬움을 드러냈다. 지난 24일 방송된 Mnet·디스커버리 채널 코리아 '우리 식구 됐어요'에서는 유빈과 웨이션브이(WayV) 샤오쥔·헨드리·양양이 마지막 추억을 쌓는 이야기가 그려졌다. 이날 유빈은 동생들에게 제대로 된 요리를 만들어주기 위해 직접 닭볶음탕과 막창 밀키트를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박정수 "김영옥 욕 달력에 적어놔..우린 불협화음" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220125145002191</link>
-            <guid>https://entertain.v.daum.net/v/20220125145002191</guid>
-            <pubDate>Tue, 25 Jan 2022 06:07:48 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 황수연 기자) '진격의 할매' 김영옥, 나문희, 박정수가 범상치 않은 입담을 자랑했다.&nbsp; 25일 온라인을 통해 채널S 새 예능프로그램 '진격의 할매' 제작발표회가 진행됐다. 이 자리에는 김영옥, 나문희, 박정수가 참석했다.&nbsp; '진격의 할매'는 국민할매 트리오로 불리는 할머니 3인 김영옥, 나문희, 박정수가 고민 많은 사연자들과 만나 진솔한]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[홍윤화♥김민기 티격태격 개그 부부 케미 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220125144738117</link>
-            <guid>https://entertain.v.daum.net/v/20220125144738117</guid>
-            <pubDate>Tue, 25 Jan 2022 06:07:48 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김수진 기자] 개그계 대표 부부 홍윤화-김민기가 찐 부부 케미스트리로 예능감을 과시했다. 홍윤화와 김민기는 24일 방송된 Mnet '거치면 흥하리'에서 이날의 손주로 아이돌 그룹 드리핀을 초대해 컴백곡 '빌런'에 대한 소개와 함께 개인기와 노래자랑 등 흥과 끼로 가득한 시간을 보냈다. 이날 오프닝에서 김민기는 귤을 먹으며 쩝쩝거리는 소리로 홍]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['싱어게인2' 오늘 '제발' 등 8회 음원 발매..안방 1열 감동 그대로 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220125144434005</link>
-            <guid>https://entertain.v.daum.net/v/20220125144434005</guid>
-            <pubDate>Tue, 25 Jan 2022 06:07:48 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] ‘싱어게인 시즌2-무명가수전’ EP8 정식 음원이 공개됐다. 1월 25일 정오 각종 음원사이트를 통해 JTBC ‘싱어게인 시즌2-무명가수전(이하 ‘싱어게인2’)’ 8회 경연곡들이 정식 음원으로 발매됐다. 이날 공개된 ‘싱어게인2 EP8’ 앨범에는 4라운드 TOP 10 결정전 경연곡 33호 ‘제발’을 비롯해 17호 ‘우리네 인생’,]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['연참3' 결혼 약속한 연인이 죽었다..서장훈 "내가 울기라도 해야 되나" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220125144031864</link>
-            <guid>https://entertain.v.daum.net/v/20220125144031864</guid>
-            <pubDate>Tue, 25 Jan 2022 06:07:48 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자] 고민녀가 죽은 전 연인의 친구와 새로운 인연을 맺는다.&nbsp; 오늘(25일) 오후&nbsp;8시 30분 방송되는 KBS Joy 예능프로그램 '연애의&nbsp;참견&nbsp;시즌3' 108회에서는 결혼을 약속한 남자친구를 한 순간에 잃은 고민녀의 사연이 전해진다.&nbsp; 갑작스러운 교통사고로 남자친구가 죽음을 맞이하고 3년 동안 힘들어했던 고민녀 앞에 한 남자가 나타]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['월간 커넥트2' 김윤아→장동선 4인4색 전문가들 선보일 랜선 인터뷰 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220125143230567</link>
-            <guid>https://entertain.v.daum.net/v/20220125143230567</guid>
-            <pubDate>Tue, 25 Jan 2022 06:07:48 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] tvN ‘월간 커넥트2’가 새로운 MC 4인의 모습이 담긴 공식 포스터와 티저를 공개했다. 오바마 전 대통령, 마이클 샌델 교수, 오드리 탕 장관 등 굵직한 섭외를 성사시키며 호평 받은 ‘월간 커넥트’가 시즌2의 시작을 앞두고 새로운 MC 김윤아, 장동선, 심용환, 김자영의 공식 포스터와 티저를 공개했다. 1월 25일 공개된 포스터]]></content:encoded>
+            <title><![CDATA['해적' 김정훈 감독 "보물섬, 신밧드의 모험을 이을 한국형 가족 어드벤처 영화" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+            <link>https://entertain.v.daum.net/v/20220125175121552</link>
+            <guid>https://entertain.v.daum.net/v/20220125175121552</guid>
+            <pubDate>Tue, 25 Jan 2022 09:07:15 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '쩨쩨한 로맨스', '탐정: 더 비기닝'에 이어 해양액션어드벤처 '해적: 도깨비 깃발'로 관객들에게 새로운 즐거움과 웃음을 전해줄 김정훈 감독을 만났다. 감각적인 코미디 연출력과 더불어 흥행성을 입증한 김정훈 감독의 신작 '해적: 도깨비 깃발'은 강하늘-한효주-이광수-권상우-채수빈-오세훈-김성오-박지환의 대세 배우들이 출연하여 찰진 호흡과 끈끈한]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["독립영화계 독보적 존재감" 김새벽 '소피의 세계'서 연기력 경신 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
@@ -2262,13 +2269,6 @@
             <guid>https://entertain.v.daum.net/v/20220125121200755</guid>
             <pubDate>Tue, 25 Jan 2022 04:06:21 GMT</pubDate>
             <content:encoded><![CDATA[[이현파 기자] &nbsp; &nbsp;        ▲ &nbsp;&lt; 라스트 듀얼 : 최후의 결투 &gt; 스틸컷    ⓒ 월트디즈니컴퍼니코리아  한국인의 평균 수명이 83세를 넘긴 지금, 당신에게 '여든 살 이후의 삶은 어떨 것 같냐'고 묻는다면 어떨까? 1937년생, 여든 다섯의 영화감독 리들리 스콧은 여전히 현역이다. 지난해 10월 중세 역사물 &lt;라스트 듀얼 : 최후의 결투&gt;(이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['킹 메이커' 이선균 "정치 영화 아닌, 사람에 관한 이야기" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-            <link>https://entertain.v.daum.net/v/20220125120119418</link>
-            <guid>https://entertain.v.daum.net/v/20220125120119418</guid>
-            <pubDate>Tue, 25 Jan 2022 03:06:38 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '킹메이커'에서 존재도 이름도 숨겨진 선거 전략가 '서창대'로 20대부터 60대까지의 드라마틱한 서사를 소화해낸 배우 이선균을 만났다. 그는 세상을 바꾸기 위해 도전하는 정치인 ‘김운범’과 존재도 이름도 숨겨진 선거 전략가 ‘서창대’가 치열한 선거판에 뛰어들며 시작되는 드라마를 다룬 영화 '킹메이커'를 통해 기발한 선거 전략과 과정보다 결과를 중시하는]]></content:encoded>
         </item>
     </channel>
 </rss>
