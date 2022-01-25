@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-25T14:05:47.300Z</updated>
+    <updated>2022-01-25T15:07:03.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[델 토로 감독 '나이트메어 앨리', 2월 개봉..케이트 블란쳇→루니 마라 총출동[공식]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004546736</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004546736"/>
+        <updated>2022-01-25T15:05:48.875Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 기예르모 델 토로 감독이 연출하고 할리우드 톱스타들이 총출동한 영화 '나이트메어 앨리'가 2월 국내 개봉을 확정짓고 메인 포스터를 공개했다. 상상을 뛰어넘는 화려한 영상미와 예측불허 스토리로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['축복의 집' 2월 24일 극장 개봉 확정[공식]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004546733</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002340211"/>
         <updated>2022-01-25T07:05:20.828Z</updated>
         <content type="html"><![CDATA[[미리보는 영화] &lt;존경하고 사랑하는 국민 여러분&gt; ▲ 영화 &lt;존경하고 사랑하는 국민 여러분&gt; 관련 이미지. ⓒ 영화사 메이플러스 인동초, 헌정 사상 처음으로 평화적인 정권 교체를 이룬 인물 등 정치인 김대중을 수식]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘킹메이커’ 대선 기간 관객들 가슴 두드릴 명대사 명장면]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000536880</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000536880"/>
-        <updated>2022-01-25T07:05:20.833Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '킹메이커' 예비 관객들의 가슴을 울릴 명장면과 명대사가 미리 공개됐다. 1월 26일 개봉하는 영화 '킹메이커'(감독 변성현)는 세상을 바꾸기 위해 도전하는 정치인 ‘김운범’과 존재도 이름도]]></content>
     </entry>
 </feed>
