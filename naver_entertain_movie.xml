@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-25T19:06:52.279Z</updated>
+    <updated>2022-01-25T20:07:05.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[리뷰]그냥 웃어 넘기자고요…'해적:도깨비 깃발']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010966183</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010966183"/>
+        <updated>2022-01-25T20:06:15.960Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 한효주·강하늘 주연 1월26일 개봉 [서울=뉴시스] 손정빈 기자 = '해적:도깨비 깃발'(감독 김정훈)은 목표가 명확하다. 상영 시간 2시간을 가볍게 웃으며 흘려보내면 그만이라는 거다. 그러니 애초에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['어벤져스' 시각효과 제작사 DNEG, 美증시에 스팩 합병 상장]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012941270</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003601273"/>
         <updated>2022-01-25T08:06:37.574Z</updated>
         <content type="html"><![CDATA[특유의 상상력과 미장센으로 전 세계 영화 팬들의 사랑을 받는 기예르모 델 토로 감독의 신작 '나이트메어 앨리'가 오는 2월 국내 개봉을 확정 짓고 메인 포스터를 공개했다. 상상을 뛰어넘는 화려한 영상미와 예측불허 스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뭘 보지? 고민 끝!…‘OTT 포털’ 등장]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000789313</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000789313"/>
-        <updated>2022-01-25T08:06:37.574Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 다양한 온라인동영상서비스(OTT)와 노래방 등의 서비스를 한곳에서 통합 검색할 수 있는 ‘OTT포털’이 나왔다. SK브로드밴드가 25일 출시한 올인원 플레이박스 ‘플레이제트(PlayZ)’는 웨이브·티빙]]></content>
     </entry>
 </feed>
