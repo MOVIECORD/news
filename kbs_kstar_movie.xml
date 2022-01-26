@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 08:07:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 09:06:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] '킹메이커' 변성현 감독 "'불한당'보다 만족할 만한 결과물"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=189158</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=189158</guid>
+            <pubDate>Wed, 26 Jan 2022 09:02:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=189158">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220126172115_ebecdff92d23f8597bda991b492511ee.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=189158">[인터뷰] '킹메이커' 변성현 감독 "'불한당'보다 만족할 만한 결과물"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220126172115_ebecdff92d23f8597bda991b492511ee.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] '며느라기2...ing’ 유송이 작가 "미처 예상치 못한 관심"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=189086</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=188351">'킹메이커' 러닝메이트 유재명</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220123202007_1532d447405803722082324a2d9312be_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이동휘, 올라운드 플레이어 'SNL코리아' 출격]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=188082</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=188082</guid>
-            <pubDate>Sat, 22 Jan 2022 10:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=188082">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220121171025_e8616f88649cb178cb57e926d2517075.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=188082">이동휘, 올라운드 플레이어 'SNL코리아' 출격</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220121171025_e8616f88649cb178cb57e926d2517075.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
