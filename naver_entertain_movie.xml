@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-26T17:12:49.741Z</updated>
+    <updated>2022-01-26T18:06:00.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['찰리 브라운' 목소리 연기한 美 배우 피터 로빈스 별세]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012944085</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012944085"/>
+        <updated>2022-01-26T18:05:13.215Z</updated>
+        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 정윤섭 특파원 = 미국의 인기 만화 캐릭터 '찰리 브라운'의 목소리를 연기한 배우 피터 로빈스가 65세 일기로 별세했다. 미국 영화 전문매체 데드라인은 26일(현지시간) 로빈스가 지난주 사망]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문체부 “기초생활수급자·차상위계층 전체에 문화누리카드 지원”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000789648</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000958420"/>
         <updated>2022-01-26T08:06:37.336Z</updated>
         <content type="html"><![CDATA[애거서 크리스티의 베스트셀러를 원작으로 한 영화 ‘나일 강의 죽음’에 대한 관심이 끊이질 않고 있다. 26일 표창원 프로파일러가 2월 9일 개봉을 앞두고 관람을 강력 추천하며 호기심을 자극했다. ‘나일 강의 죽음’은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 ‘라이온 킹’ 코로나19 확진자 발생에 발빠른 대응…개막 공연 취소]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000603233</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000603233"/>
-        <updated>2022-01-26T08:06:37.341Z</updated>
-        <content type="html"><![CDATA[오리지널 뮤지컬 '라이온 킹'이 신종 코로나바이러스 감염증(코로나19) 확진자 발생으로 개막 공연을 취소하는 발빠른 대응을 보여줬다. 26일 '라이온 킹' 제작사는 "오늘 예정됐던 개막 공연이 불가피하게 취소됐음을]]></content>
     </entry>
 </feed>
