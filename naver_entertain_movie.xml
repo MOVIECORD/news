@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-26T18:06:00.023Z</updated>
+    <updated>2022-01-26T19:06:20.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[영화평 300]바라는 거 없어요, 웃다 가세요]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010968858</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010968858"/>
+        <updated>2022-01-26T19:05:35.098Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 손정빈 기자 = 1월 4주차 개봉 영화 및 최신 영화에 대한 간단평을 300자 분량으로 정리했다. 가장 어려운 미션…해적:도깨비 깃발(1월26일 개봉) '해적:도깨비 깃발'에 대한 가장 생산적이지 못]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['찰리 브라운' 목소리 연기한 美 배우 피터 로빈스 별세]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012944085</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012944085"/>
-        <updated>2022-01-26T18:05:13.215Z</updated>
+        <updated>2022-01-26T19:05:35.099Z</updated>
         <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 정윤섭 특파원 = 미국의 인기 만화 캐릭터 '찰리 브라운'의 목소리를 연기한 배우 피터 로빈스가 65세 일기로 별세했다. 미국 영화 전문매체 데드라인은 26일(현지시간) 로빈스가 지난주 사망]]></content>
     </entry>
     <entry>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001403091"/>
         <updated>2022-01-26T08:06:37.336Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 변성현 감독이 오래 기다려 온 '킹메이커' 개봉을 맞은 마음과 함께 영화를 향한 관심을 당부했다. 변성현 감독은 26일 오후 온라인으로 진행된 영화 '킹메이커' 인터뷰에서 다양한 이야기를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 ‘나일 강의 죽음’, 프로파일러 표창원 ‘강추’]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000958420</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000958420"/>
-        <updated>2022-01-26T08:06:37.336Z</updated>
-        <content type="html"><![CDATA[애거서 크리스티의 베스트셀러를 원작으로 한 영화 ‘나일 강의 죽음’에 대한 관심이 끊이질 않고 있다. 26일 표창원 프로파일러가 2월 9일 개봉을 앞두고 관람을 강력 추천하며 호기심을 자극했다. ‘나일 강의 죽음’은]]></content>
     </entry>
 </feed>

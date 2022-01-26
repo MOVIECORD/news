@@ -4,27 +4,9 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 18:06:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 19:06:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[박원숙의 같이 삽시다 시즌3] 국민 아나운서 이금희를 만난 사선녀의 이야기]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=189179</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=189179</guid>
-            <pubDate>Wed, 26 Jan 2022 18:04:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=189179">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220127001356_6192a9fa6e09e229aa9a1399ffba0c22.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=189179">[박원숙의 같이 삽시다 시즌3] 국민 아나운서 이금희를 만난 사선녀의 이야기</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%20%EC%8B%9C%EC%A6%8C3">박원숙의 같이 삽시다 시즌3</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220127001356_6192a9fa6e09e229aa9a1399ffba0c22.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[[박원숙의 같이 삽시다 시즌3] 이금희와 노래하기 좋은 날 ‘맞춤 선곡’ ♪]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=189176</link>
@@ -363,6 +345,24 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%85%B8%EB%9E%98%EA%B0%80%20%EC%A2%8B%EC%95%84">노래가 좋아</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220125224321_b9903e4941c89cc372e7ea6ed0ed6b99_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[노래가 좋아] 조카의 삼촌 장가 보내기 프로젝트! “오늘 우승하면 다음주는 첫째 삼촌 공개 구혼할 것!”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=188893</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=188893</guid>
+            <pubDate>Tue, 25 Jan 2022 14:03:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=188893">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220125224027_610a776bc15060ab31290bd8cd4c54c3_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=188893">[노래가 좋아] 조카의 삼촌 장가 보내기 프로젝트! “오늘 우승하면 다음주는 첫째 삼촌 공개 구혼할 것!”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%85%B8%EB%9E%98%EA%B0%80%20%EC%A2%8B%EC%95%84">노래가 좋아</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220125224027_610a776bc15060ab31290bd8cd4c54c3_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
