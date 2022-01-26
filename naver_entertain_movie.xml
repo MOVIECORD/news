@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-26T12:09:16.252Z</updated>
+    <updated>2022-01-26T13:12:34.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유튜브를 강타한 성인 콘텐츠 시청 제한 사태 [정윤하의 러브월드 ③]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000789645</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000789645"/>
+        <updated>2022-01-26T13:11:49.288Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 현재 유튜브에 ‘성인’, ‘성인용품’ 등 키워드를 치면 수백 개의 유튜브 영상 콘텐츠가 뜬다. 대부분이 국가 제한 조치를 받지 않은 것들이다. 이 중에는 노골적인 신체의 노출이 포함된 콘텐츠도 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[여행소식] 이시영, 스위스 홍보대사 됐다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012943856</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012943497"/>
         <updated>2022-01-26T08:06:37.343Z</updated>
         <content type="html"><![CDATA[(전주=연합뉴스) 임채두 기자 = 전주국제영화제 조직위원회는 제23회 영화제와 함께할 자원활동가 '지프지기'를 2월 23일까지 모집한다고 26일 밝혔다. 모집 분야 및 인원은 관객서비스팀, 디자인팀, 마케팅팀, 기술]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리사, 뮤지컬 ‘프리다’ 출연…직접 눈으로 봐야하는 이유]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000603231</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000603231"/>
-        <updated>2022-01-26T08:06:37.345Z</updated>
-        <content type="html"><![CDATA[가수 겸 뮤지컬 배우 리사가 뮤지컬 ‘프리다’ 출연을 확정했다. 21일 홍보사 더 씨드에 따르면 리사는 오는 3월 세종문화회관 S씨어터에서 막을 올리는 뮤지컬 ‘프리다’에 캐스팅됐다. ‘프리다’는 멕시코 화가이자 혁]]></content>
     </entry>
 </feed>
