@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 01:53:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 02:23:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] 청소년 범죄자들에게 부디 불편한 작품이 되길 '지금 우리 학교는']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=189342</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=189342</guid>
+            <pubDate>Thu, 27 Jan 2022 02:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=189342">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220127105046_211eeff1ed556d5ae7f65f9b1ea2c383.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=189342">[리뷰] 청소년 범죄자들에게 부디 불편한 작품이 되길 '지금 우리 학교는'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220127105046_211eeff1ed556d5ae7f65f9b1ea2c383.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 'Not Today'까지! 환상의 OST 라인업!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=189323</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=188585">[인터뷰] 김정훈 감독 “'캐리비언'보다는 '보물섬'에 가까운 어드벤처!”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220124164532_26e5cc8be6a417bcc7fa77e26a45c959.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] '특송' 대신 특'송새벽'이라 부르리라]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=188530</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=188530</guid>
-            <pubDate>Tue, 25 Jan 2022 05:02:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=188530">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220124132506_f642b818c48b666511d23f845c7226a4.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=188530">[리뷰] '특송' 대신 특'송새벽'이라 부르리라</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220124132506_f642b818c48b666511d23f845c7226a4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
