@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-27T14:07:03.694Z</updated>
+    <updated>2022-01-27T15:06:53.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[각 장르 기대작들, 설 연휴 극장가 채운다 [TF프리즘]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000129971</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000129971"/>
+        <updated>2022-01-27T15:05:44.435Z</updated>
+        <content type="html"><![CDATA[코믹·액션, 정치 드라마, 가족 영화까지…'골라 보는 재미' 설 연휴를 앞두고 다채로운 영화들이 극장가를 찾는다. 다양한 장르와 볼거리로 무장한 기대작들이 스크린에 걸리며 관객들의 발길을 극장으로 이끌 전망이다. 1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이용관 부산국제영화제 이사장 유임]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012946909</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000537563"/>
         <updated>2022-01-27T07:06:22.809Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] '킹메이커'의 2차 캐릭터 포스터가 공개됐다. 1월 26일 개봉한 영화 '킹메이커'(감독 변성현)는 세상을 바꾸기 위해 도전하는 정치인 ‘김운범’과 존재도 이름도 숨겨진 선거 전략가 ‘서창대’]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추리 바이블 ‘나일강의 죽음’ 특별 예고편 공개하며 기대감↑]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000537551</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000537551"/>
-        <updated>2022-01-27T07:06:22.813Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 허민녕 기자] ‘범인은 이 안에 있다!’ 모두가 용의자인 밀실 추리극의 전범(典範)은 역시 애거서 크리스티의 작품들이 아닐까. 디즈니의 애거서 크리스티 시리즈 제2편 ‘나일강의 죽음’이 그 미덕을 십분 살린]]></content>
     </entry>
 </feed>
