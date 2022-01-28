@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-28T14:05:21.207Z</updated>
+    <updated>2022-01-28T15:06:46.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비틀스 마지막 무대, 영화관서 아이맥스로 상영]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000790192</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000790192"/>
+        <updated>2022-01-28T15:05:47.810Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 전설이 된 영국 록밴드 비틀스의 마지막 공연이 담긴 다큐멘터리 ‘비틀즈 겟 백:루프탑 콘서트’가 아이맥스(IMAX)로 상영된다. 월트디즈니컴퍼니 코리아는 다음 달 11∼13일 ‘비틀즈 겟 백:루프탑 콘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘사생활 논란‘ 김정현, 영화 ‘비²밀’로 활동재개[공식]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004915764</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003573176"/>
         <updated>2022-01-28T08:05:48.110Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세상을 바꾸기 위해 도전하는 정치인 김운범(설경구) 앞에 그와 뜻을 함께하고자 선거 전략가 서창대(이선균)가 찾아온다. 열세인 상황 속에서 서창대는 아무도 상상하지 못한 선거 전략을 펼치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SE★이슈] 설은 영화와 함께…극장가 이벤트→방송가 특선 영화]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004013703</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004013703"/>
-        <updated>2022-01-28T08:05:48.112Z</updated>
-        <content type="html"><![CDATA[[서울경제] 정신없이 바쁜 일상 속 꿀 같은 명절 연휴가 온다. 이번 설 연휴는 28일부터 2월 2일로 5일 동안 이어진다. 명절 특수를 맞아 극장가에는 영화 '해적: 도깨비 깃발'과 '킹메이커' 등 다양한 장르의]]></content>
     </entry>
 </feed>
