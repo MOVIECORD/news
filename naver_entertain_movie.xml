@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-28T18:06:24.247Z</updated>
+    <updated>2022-01-28T19:06:14.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 ‘킹메이커’ ‘해적: 도깨비깃발’ 배우들 무대서 만난다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001502229</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001502229"/>
+        <updated>2022-01-28T19:05:16.432Z</updated>
+        <content type="html"><![CDATA[상영시간 제한 탓에 평일 극장 나들이가 어려웠던 영화팬들은 설 연휴를 노리는 게 좋다. 코로나19로 공개를 미뤘던 국내 영화들이 설 연휴를 앞두고 잇달아 개봉했다. 지난 연말 개봉할 예정이었던 설경구 이선균 주연의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비틀스 마지막 무대, 영화관서 아이맥스로 상영]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000790192</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002340693"/>
         <updated>2022-01-28T08:05:48.108Z</updated>
         <content type="html"><![CDATA[[미리보는 영화] &lt;1975, 킬링필드, 푸난&gt; ▲ 애니메이션 &lt;1975 킬링필드, 푸난&gt; 관련 이미지. ⓒ 그린나래미디어 냉전 시대를 거치며 여러 국가는 이데올로기 대결에 신음했다. 어쩌면 외부 세력의 침략보다 무]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘킹메이커’, 뜨거우면서도 아련한 브로맨스[곽명동의 씨네톡]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003573176</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003573176"/>
-        <updated>2022-01-28T08:05:48.110Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]세상을 바꾸기 위해 도전하는 정치인 김운범(설경구) 앞에 그와 뜻을 함께하고자 선거 전략가 서창대(이선균)가 찾아온다. 열세인 상황 속에서 서창대는 아무도 상상하지 못한 선거 전략을 펼치]]></content>
     </entry>
 </feed>
