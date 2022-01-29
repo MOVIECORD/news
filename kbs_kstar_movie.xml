@@ -4,26 +4,9 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 17:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 18:09:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA['월드 빌런' 허성태, SNL코리아 출격]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=189711</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=189711</guid>
-            <pubDate>Sat, 29 Jan 2022 17:09:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=189711">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220129073622_cc8e03d8d8909a5a6a56674d6003f41a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=189711">'월드 빌런' 허성태, SNL코리아 출격</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220129073622_cc8e03d8d8909a5a6a56674d6003f41a.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA['장민호 드라마 최종회' 스페셜 버전 특별상영]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=189620</link>
@@ -346,6 +329,23 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=189188">"또 하나의 K스토리"  파친코, 애플TV+ 3월 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220127072032_b9c4b68a8b00bd94c63c3c6a7341bc12.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] '킹메이커' 변성현 감독 "'불한당'보다 만족할 만한 결과물"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=189158</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=189158</guid>
+            <pubDate>Wed, 26 Jan 2022 09:02:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=189158">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220126172115_ebecdff92d23f8597bda991b492511ee.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=189158">[인터뷰] '킹메이커' 변성현 감독 "'불한당'보다 만족할 만한 결과물"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220126172115_ebecdff92d23f8597bda991b492511ee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
