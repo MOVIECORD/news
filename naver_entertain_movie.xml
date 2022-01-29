@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-29T11:07:04.702Z</updated>
+    <updated>2022-01-29T12:09:10.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어드벤처 '해적2' vs 드라마 '킹메이커'…설영화 뭐볼까]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005136950</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005136950"/>
+        <updated>2022-01-29T12:08:05.120Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 박미애 기자] 한국영화 두 편의 본격적인 설 연휴 관객몰이가 시작됐다. ‘해적:도깨비 깃발’(감독 김정훈)이 먼저 승기를 잡은 가운데 ‘킹메이커’(감독 변성현)가 반격에 나설지 관심이 쏠린다. ‘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이혼남' 제이슨 모모아, '분노의 질주10' 캐스팅…빈 디젤과 갈등 [Oh!llywood]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004548457</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003526274"/>
         <updated>2022-01-29T04:07:48.780Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=이미지 기자] ‘파친코’ - Pachinko가 첫 스틸을 공개하며 드디어 베일을 벗은 가운데, 전 세계 공개일을 확정 지었다. 세계적 명성의 배우들이 대거 출연하는 Apple Original Serie]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['해적:도깨비깃발' vs '킹메이커' 설연휴 쌍끌이 예고 [주말흥행기상도]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003024924</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003024924"/>
-        <updated>2022-01-29T04:07:48.790Z</updated>
-        <content type="html"><![CDATA['해적:도깨비깃발'과 '킹메이커' 설 연휴 쌍끌이로 흥행을 이끌 전망이다. 지난 26일 나란히 개봉한 두 영화는 이번 주말 '해적:도깨비깃발'이 누적 60만명을, '킹메이커'가 누적 30만명 가량을 동원할 것으로 예]]></content>
     </entry>
 </feed>
