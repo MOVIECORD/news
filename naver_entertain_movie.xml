@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-29T19:08:16.282Z</updated>
+    <updated>2022-01-29T20:10:46.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지난해 라면 수출액 6억7천만달러…사상 최대]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012949977</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012949977"/>
+        <updated>2022-01-29T20:09:45.997Z</updated>
+        <content type="html"><![CDATA['코로나+짜파구리' 효과…해외 현지서 직접 생산 판매도 (서울=연합뉴스) 박상돈 기자 = 지난해 라면 수출액이 6억7천만달러로 사상 최대치를 기록한 것으로 나타났다. 30일 관세청과 식품업계에 따르면 지난해 라면 수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어드벤처 '해적2' vs 드라마 '킹메이커'…설영화 뭐볼까]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005136950</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003573300"/>
         <updated>2022-01-29T04:07:48.777Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]미국에서 코로나 백신을 둘러싼 논란이 이어지고 있는 가운데 마블영화 출연배우들이 상반된 입장을 내놓아 주목된다. ‘샹치’의 시무 리우는 28일(현지시간) 트위터에 “나는 지난해 COVID]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이민호X윤여정 Apple TV+ '파친코' 3월25일 공개..첫 스틸부터 강렬]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003526274</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003526274"/>
-        <updated>2022-01-29T04:07:48.780Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] ‘파친코’ - Pachinko가 첫 스틸을 공개하며 드디어 베일을 벗은 가운데, 전 세계 공개일을 확정 지었다. 세계적 명성의 배우들이 대거 출연하는 Apple Original Serie]]></content>
     </entry>
 </feed>
