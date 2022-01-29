@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 23:05:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 00:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['불후의 명곡' 황치열, 마이클 잭슨 변신]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=189745</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=189745</guid>
+            <pubDate>Sat, 29 Jan 2022 00:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=189745">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220129080702_ddd06af60c933ecd0b3b8308273ab0c1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=189745">'불후의 명곡' 황치열, 마이클 잭슨 변신</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220129080702_ddd06af60c933ecd0b3b8308273ab0c1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[유희열의 스케치북] 규현, 서정적인 멜로디와 감미로운 보이스 ♬ 연애소설]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=189703</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EC%8A%B9%EC%9E%90">개승자</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220128100108_0f6feacba1bdc8e2cb4132bed043a226.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['주접이 풍년' 슬기로운 '임영웅' 덕질 생활 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=189451</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=189451</guid>
-            <pubDate>Thu, 27 Jan 2022 23:05:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=189451">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220128075325_d3bb25cea2c20323f53ef67da9c0ec19.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=189451">'주접이 풍년' 슬기로운 '임영웅' 덕질 생활 공개 </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EC%A0%91%EC%9D%B4%20%ED%92%8D%EB%85%84">주접이 풍년</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220128075325_d3bb25cea2c20323f53ef67da9c0ec19.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
