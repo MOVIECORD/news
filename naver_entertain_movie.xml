@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-30T11:06:45.058Z</updated>
+    <updated>2022-01-30T12:08:27.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바다서 펼치는 스펙터클한 보물찾기[스크린PICK]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005137213</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005137213"/>
+        <updated>2022-01-30T12:07:42.726Z</updated>
+        <content type="html"><![CDATA[[이데일리 스타in 박미애 기자]개봉 영화를 소개합니다 ◇‘해적:도깨비 깃발’ 자칭 고려 제일검인 의적단 두목 ‘무치’(강하늘 분)와 바다를 평정한 해적선의 주인 ‘해랑’(한효주 분). 한 배에서 운명을 함께하게 된]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해외영화 각본집: 그들이 서로 마주본 순간]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046499</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012950186"/>
         <updated>2022-01-30T01:51:16.624Z</updated>
         <content type="html"><![CDATA[로튼토마토·IMDb 등 해외 비평사이트서 높은 성적…신선도지수 100%로튼토마토 '지금 우리 학교는' 평점[로튼토마토 사이트 캡처. 재판매 및 DB 금지] (서울=연합뉴스) 김정진 기자 = 넷플릭스가 새롭게 공개한 한국 오리지널 시리즈 '지금 우리 학교는'이 해외 평론가 등의 호평을 받으면서 '오징어 게임'과 같은 글로벌...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“‘아이언맨’ 로다주와 하룻밤 잤냐고?” 기네스 펠트로 단호한 대답[해외이슈]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003573390</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003573390"/>
-        <updated>2022-01-30T01:51:16.630Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 기네스 펠트로(49)가 ‘아이언맨’ 로버트 다우니 주니어(56)와의 루머를 반박했다. 그는 29일(현지시간) 인스타그램 Q&amp;A 시간을 갖고 팬들과 소통했다. 전 남편이었던]]></content>
     </entry>
 </feed>
