@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-01-30T21:06:44.241Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 30 Jan 2022 22:06:40 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] '해적2' 한효주, "청순 포기? 전 지금이 너무 좋아요"]]></title>
+            <link>https://v.daum.net/v/20220131070015633</link>
+            <guid>https://v.daum.net/v/20220131070015633</guid>
+            <pubDate>Sun, 30 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["새로운 도전 납득되는 배우 되고파" [더팩트ㅣ이한림 기자] "새로운 것을 하는 걸 좋아하는 성격이에요. 캐릭터도 그렇고 검술 액션 역시 해보지 않았기 때문에 '해적2'를 선택했어요. 장르를 가리지 않고 어떤 장르든 다 소화해 내는 새로운 도전이 납득이 되는 배우가 되고 싶어요. " 한효주는 최근 영화 '해적: 도깨비 깃발'(이하 '해적2') 개봉 전]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202201%2F31%2FTHEFACT%2F20220131070016380cmvn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
