@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-30T08:07:38.516Z</updated>
+    <updated>2022-01-30T09:06:53.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['지금 우리 학교는' 공개 하루만에 넷플릭스 세계 1위]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=654&amp;aid=0000001315</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=654&amp;aid=0000001315"/>
+        <updated>2022-01-30T09:06:02.164Z</updated>
+        <content type="html"><![CDATA[넷플릭스 한국 오리지널 시리즈 '지금 우리 학교는'이 공개 하루 만에 넷플릭스 전 세계 1위를 차지했다. 30일 온라인 콘텐츠 서비스 순위 집계 사이트 플릭스 패트롤에 따르면 '지금 우리 학교는'은 전날 기준으로 넷]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크리스틴 스튜어트 '스펜서', 압도적 아름다움..티저포스터 공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003526627</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[[헤럴드POP=이미지 기자] 크리스틴 스튜어트가 다이애나 왕세자비로 완벽 변신해 전 세계 여우주연상을 석권하고 있는 '스펜서'가 드디어 국내 개봉을 확정하며 티저 포스터를 공개했다. 영화 '스펜서'는 파블로 라라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[POP초점]'지금 우리 학교는' 공개 하루만 넷플릭스 1위..韓시리즈 네번째(종합)]]></title>
+        <title type="html"><![CDATA[[POP초점]'지금 우리 학교는' 넷플릭스 전세계 1위..韓시리즈 네번째(종합)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003526613</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003526613"/>
         <updated>2022-01-30T07:05:49.122Z</updated>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003025066"/>
         <updated>2022-01-30T01:51:16.675Z</updated>
         <content type="html"><![CDATA[설 연휴를 맞아 블록버스터 영화 '해적 : 도깨비 깃발'과 '킹메이커'가 지난 26일 개봉했다. 개봉 첫날 '해적 : 도깨비 깃발'이 박스오피스 1위에 오르며 2위 '킹메이커'를 따돌리고 승기를 잡았다. 이처럼 겉으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[설특집] 넷플릭스 뭐볼까..어, 일이 점점 커지네? '돈 룩 업']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003025065</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003025065"/>
-        <updated>2022-01-30T01:51:16.710Z</updated>
-        <content type="html"><![CDATA[가족과 다 함께 모이기도, 어딘가에 나가기도 힘든 2022 설 연휴. 연휴도 긴 설 명절에 코로나19로 인해 집에 머무르는 당신을 위한 '지극히 주관적이면서 은근히 객관적인' OTT 프로그램 추천. ━ '돈 룩]]></content>
     </entry>
 </feed>
