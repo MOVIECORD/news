@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-31T12:09:40.595Z</updated>
+    <updated>2022-01-31T13:14:31.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘해적2’ 1위, 새해 극장가 압도적 흥행 선두 주자 등극]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001639331</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001639331"/>
+        <updated>2022-01-31T13:13:10.599Z</updated>
+        <content type="html"><![CDATA[‘해적: 도깨비 깃발’이 개봉 첫 주 박스오피스 1위를 차지했다. ‘해적’의 귀환 ‘해적: 도깨비 깃발’은 흔적도 없이 사라진 왕실 보물의 주인이 되기 위해 바다로 모인 해적들의 스펙터클한 모험을 그린 영화다. 육해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한효주 "새로운 길 가다가 '해적2'까지"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005137446</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012951046"/>
         <updated>2022-01-31T01:49:50.623Z</updated>
         <content type="html"><![CDATA[영산대 애니메이션 전공 류수환 교수, '문화공간 반달' 운영 (부산=연합뉴스) 김선호 기자 = 부산의 한 애니메이션 전공 대학교수가 원도심에 있는 자택을 지역 아동과 청소년을 위한 복합문화공간로 리모델링해 무료로 개]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코믹·오락영화 흥행 선점 속 정치영화 추격전]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002340848</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002340848"/>
-        <updated>2022-01-31T01:49:50.628Z</updated>
-        <content type="html"><![CDATA[[박스오피스] 지난 추석 이후 첫 한국영화 1~2위 ▲ &lt;해적: 도깨비 깃발&gt; 한 장면 ⓒ 롯데엔터테인먼트 설날 흥행 대목을 맞아 두 편의 한국영화가 선전하고 있다. 가벼운 코믹 오락영화와 진중한 정치영화의 대결에서]]></content>
     </entry>
 </feed>
