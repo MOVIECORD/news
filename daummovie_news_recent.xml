@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-01-31T21:06:22.776Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 31 Jan 2022 22:06:25 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] '해적2' 강하늘, "공포증 탓 수중 촬영 힘들었지만 그냥 받아들였다"]]></title>
+            <link>https://v.daum.net/v/20220201070019339</link>
+            <guid>https://v.daum.net/v/20220201070019339</guid>
+            <pubDate>Mon, 31 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스태프·배우들에게 감사함 전한 '미담꾼' [더팩트ㅣ이한림 기자] 배우 강하늘에게는 '믿고 보는 강하늘' '강하늘이 강하늘 했다'라는 수식어가 따른다. 다양한 작품에 출연하며 자신만의 필모그라피를 탄탄하게 쌓아가고 있는 강하늘이 또 한 번 연기 변신에 나섰다. 강하늘은 영화 '해적: 도깨비 깃발'(이하 '해적2')에서 종잡을 수 없는 성격에 허당끼 가득하]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F01%2FTHEFACT%2F20220201070020109petp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
