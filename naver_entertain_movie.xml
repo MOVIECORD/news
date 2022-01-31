@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-01-31T06:07:46.568Z</updated>
+    <updated>2022-01-31T07:07:49.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[SC할리우드] '美USA출신' 흑인 변호사 첼시 크리스트, 60층 건물서 투신 충격]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003826905</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003826905"/>
+        <updated>2022-01-31T07:06:39.848Z</updated>
+        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 2019년 미스 USA 출신 흑인 변호사 첼시 크리스트가 60층 건물에서 뛰어내려 사망했다. 뉴욕포스트, 피플을 비롯해 외신들은 30일(현지시각) 첼시 크리스트의 사망을 보도했다. 첼시 크]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['킹메이커' 개봉주 무대인사 성황리 개최...열기 잇는다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001206248</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000790385"/>
         <updated>2022-01-31T00:20:33.793Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 압도적 박스오피스 1위를 기록하며 새해 극장가 흥행 돌풍을 불러일으키고 있는 영화 &lt;해적: 도깨비 깃발&gt;이 개봉 첫 주 박스오피스 정상에 올랐다. 한국 오락 블록버스터의 한 획을 그었던 ‘해적’의 귀환]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['해적:도깨비 깃발', 압도적 흥행 질주 [성적표]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001206238</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001206238"/>
-        <updated>2022-01-31T00:20:33.796Z</updated>
-        <content type="html"><![CDATA[압도적 박스오피스 1위를 기록하며 새해 극장가 흥행 돌풍을 불러일으키고 있는 영화 '해적: 도깨비 깃발'이 개봉 첫 주 박스오피스 정상에 올랐다. 육해를 총망라한 스펙터클한 볼거리 속 개성 넘치는 배우들의 유쾌한 케]]></content>
     </entry>
 </feed>
