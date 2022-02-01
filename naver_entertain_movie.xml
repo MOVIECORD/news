@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-01T11:06:21.287Z</updated>
+    <updated>2022-02-01T12:12:13.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['모가디슈' '싱크홀' '인질'…여름 대작, 설 안방극장에]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005137632</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005137632"/>
+        <updated>2022-02-01T12:11:19.088Z</updated>
+        <content type="html"><![CDATA[‘모가디슈’ [이데일리 스타in 박미애 기자] 지난 여름 극장을 떠받친 대작들이 설 안방극장을 찾는다. ‘모가디슈’ ‘싱크홀’ ‘인질’이 남은 연휴를 책임진다. ‘모가디슈’ ‘싱크홀’ ‘인질’은 코로나19가 급격히]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['드라이브 마이 카', 조용한 질주…5만 관객 돌파]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010976108</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000790462"/>
         <updated>2022-02-01T01:55:37.327Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 배우 연우진, 지안, 조성하 등 영화 ‘인민을 위해 복무하라’ 팀이 새해 인사를 건넸다. 배급사 제이앤씨미디어그룹 측은 1일 연우진, 지안, 조성하 등이 직접 전하는 새해 인사 자필 편지와 사진을 공개]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["연휴엔 '해적: 도깨비 깃발'"…강하늘→한효주, 설날 인사+홍보 열일]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000528148</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000528148"/>
-        <updated>2022-02-01T00:21:53.934Z</updated>
-        <content type="html"><![CDATA[[텐아시아=노규민 기자] 새해 극장가 흥행 돌풍을 불러일으키고 있는 영화 '해적: 도깨비 깃발'이 2022년 설날을 맞아 배우들이 직접 전하는 인사 영상을 공개했다. '해적: 도깨비 깃발'은 흔적도 없이 사라진 왕실]]></content>
     </entry>
 </feed>
