@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-01T19:06:21.759Z</updated>
+    <updated>2022-02-01T20:07:32.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['엔칸토' OST, 빌보드 싱글 1위…디즈니노래, 29년 만에 정상]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012952789</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012952789"/>
+        <updated>2022-02-01T20:06:12.348Z</updated>
+        <content type="html"><![CDATA['입에 담지 마 브루노' 미국서 인기몰이…앨범차트까지 석권 (로스앤젤레스=연합뉴스) 정윤섭 특파원 = 디즈니 애니메이션 '엔칸토:마법의 세계'에 수록된 오리지널사운드트랙(OST)이 미국 빌보드 싱글 차트 1위에 올랐]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모가디슈' '싱크홀' '인질'…여름 대작, 설 안방극장에]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005137632</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003025386"/>
         <updated>2022-02-01T01:55:37.322Z</updated>
         <content type="html"><![CDATA[가족과 다 함께 모이기도, 어딘가에 나가기도 힘든 2022 설 연휴. 연휴도 긴 설 명절에 코로나19로 인해 집에 머무르는 당신을 위한 취향맞춤 디즈니+ 프로그램 추천. ━ 지난해 한해 떠들썩 했던 메타버스. 영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘복무하라’ 연우진·지안·조성하, 새해 인사]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000790462</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000790462"/>
-        <updated>2022-02-01T01:55:37.327Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 배우 연우진, 지안, 조성하 등 영화 ‘인민을 위해 복무하라’ 팀이 새해 인사를 건넸다. 배급사 제이앤씨미디어그룹 측은 1일 연우진, 지안, 조성하 등이 직접 전하는 새해 인사 자필 편지와 사진을 공개]]></content>
     </entry>
 </feed>
