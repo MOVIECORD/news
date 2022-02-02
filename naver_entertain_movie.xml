@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-02T11:07:28.785Z</updated>
+    <updated>2022-02-02T12:12:00.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시작은 10만 원, 수억 원 빼돌린 은행원의 뻔뻔함 [나를 키운 여자들]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002340976</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002340976"/>
+        <updated>2022-02-02T12:10:35.120Z</updated>
+        <content type="html"><![CDATA[[나를 키운 여자들] 영화 &lt;종이달&gt; 속 리카 2215억 원. 오스템 임플란트에서 자금 담당 업무를 맡았던 직원이 빼돌린 회삿돈 총액이다. 이 직원은 잔액 증명서를 위조하고 회사 자금을 개인 계좌와 증권 계좌로 이체]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['해적2' 강하늘 "작품 앞서지 않도록 항상 경계"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005137988</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004549754"/>
         <updated>2022-02-02T03:06:18.253Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] 개봉 이후 폭넓은 관객층의 사랑을 받고 있는 '킹메이커'(감독 변성현, 제공배급 메가박스중앙(주)플러스엠, 제작 (주)씨앗필름)가 한국 영화 좌석 판매율 1위를 기록했다. 세상을 바꾸기 위해 도전하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김대중 선거전략가 다룬 ‘킹메이커’··· 변성현 감독이 대선 아닌 후보경선을 더 공들여 묘사한 이유 [인터뷰]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003125944</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003125944"/>
-        <updated>2022-02-02T02:23:35.197Z</updated>
-        <content type="html"><![CDATA[[경향신문] 변성현 감독(42)은 대선 한 달여 앞으로 정해진 &lt;킹메이커&gt;의 개봉 시기를 “정말 원하지 않았다. 대선 시국 노리고 이슈화하려고 만들지는 않았다는 점만은 믿어주면 좋겠다”고 말했다. 그는 이 시기가 “]]></content>
     </entry>
 </feed>
