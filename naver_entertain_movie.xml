@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-03T12:08:40.909Z</updated>
+    <updated>2022-02-03T13:14:23.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이탈리아 영화계 ‘아이콘’ 모니카 비티 별세, 향년 90세]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000790872</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000790872"/>
+        <updated>2022-02-03T13:13:41.917Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 이탈리아 영화계 ‘아이콘’이자 가장 사랑받는 여배우 가운데 한 명인 모니카 비티가 2일 오전(현지시간) 90세를 일기로 별세했다고 현지 언론이 전했다. 전직 로마시장이자 영화평론가 월터 벨트로니는 이날]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[설연휴 승자는 ‘해적’… 100만 동원은 실패]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003663436</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000020868"/>
         <updated>2022-02-03T07:05:51.788Z</updated>
         <content type="html"><![CDATA[A moviegoer was trapped inside a theater in multiplex chain CGV located in Jeonju, North Jeolla, after employees failed]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K-크리처 끝판왕 '해적:도깨비 깃발'..흰수염고래→펭귄까지 '황홀']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004550430</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004550430"/>
-        <updated>2022-02-03T07:05:51.803Z</updated>
-        <content type="html"><![CDATA[[OSEN=하수정 기자] 압도적 박스오피스 1위를 기록하며 새해 극장가 흥행 돌풍을 불러일으키고 있는 영화 '해적: 도깨비 깃발'이 소부터 해파리, 흰수염고래, 펭귄까지 다채로운 동물 크리처로 화제를 모으고 있다.]]></content>
     </entry>
 </feed>
