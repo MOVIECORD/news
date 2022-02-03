@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 01:48:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 04:06:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['베이징올림픽' 송승환 이상화 KBS 명품해설진]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=190275</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=190275</guid>
+            <pubDate>Thu, 03 Feb 2022 04:04:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=190275">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220203093131_9217a502713d107dae327720a389572c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=190275">'베이징올림픽' 송승환 이상화 KBS 명품해설진 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220203093131_9217a502713d107dae327720a389572c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장민호 주접단 출격 "주접이 셀럽!"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=190281</link>
@@ -348,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9E%90%EB%B3%B8%EC%A3%BC%EC%9D%98%20%ED%95%99%EA%B5%90">자본주의 학교</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220201214509_a4b83ce1f232b14d165fd24a95f3ce4b_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[자본주의 학교] 국산 염전 진성 + 한주 소금 설운도에 진절머리 내는 정동원]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=190110</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=190110</guid>
-            <pubDate>Tue, 01 Feb 2022 13:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=190110">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220201214201_6e2b9e2f694fedba834f1955472e0734_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=190110">[자본주의 학교] 국산 염전 진성 + 한주 소금 설운도에 진절머리 내는 정동원</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9E%90%EB%B3%B8%EC%A3%BC%EC%9D%98%20%ED%95%99%EA%B5%90">자본주의 학교</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220201214201_6e2b9e2f694fedba834f1955472e0734_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
