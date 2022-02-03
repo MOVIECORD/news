@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-03T15:06:34.556Z</updated>
+    <updated>2022-02-03T16:06:34.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[믿고 보는 명품배우·거장들 작품 쏟아진다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000880608</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000880608"/>
+        <updated>2022-02-03T16:05:37.242Z</updated>
+        <content type="html"><![CDATA[박찬욱·최동훈·임진순·윤제균 등 신작 눈길 이정재, 감독데뷔작 ‘헌트' 춘천·고성서 촬영 라미란 주연 ‘정직한후보2' 강원도청 배경담아 올해 극장가에 소개될 영화 목록에는 화제작들이 대거 포진했다. 새해가 되면 극장]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이탈리아 영화계 ‘아이콘’ 모니카 비티 별세, 향년 90세]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000790872</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010979210"/>
         <updated>2022-02-03T08:07:01.703Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]김예지 인턴 기자 = 유니버스가 새롭게 개편된 '유니버스 라디오' 시즌2를 론칭한다. 3일 글로벌 팬덤 플랫폼 유니버스(UNIVERSE) 측은 "이날부터 4일까지 유니버스 공식 SNS 채널을 통해 새롭]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moviegoer dozes off, wakes up trapped in theater]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000020868</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000020868"/>
-        <updated>2022-02-03T07:05:51.788Z</updated>
-        <content type="html"><![CDATA[A moviegoer was trapped inside a theater in multiplex chain CGV located in Jeonju, North Jeolla, after employees failed]]></content>
     </entry>
 </feed>
