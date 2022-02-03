@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-02-03T17:12:36.773Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 03 Feb 2022 18:07:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['듄'·'파워 오브 도그', 영국 아카데미상 최다 후보]]></title>
+            <link>https://v.daum.net/v/20220204024909884</link>
+            <guid>https://v.daum.net/v/20220204024909884</guid>
+            <pubDate>Thu, 03 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(런던=연합뉴스) 최윤정 특파원 = SF 영화 '듄'과 제인 캠피온 감독의 '파워 오브 도그'가 영국 아카데미상 최다 후보에 올랐다. 영국영화TV예술아카데미(BAFTA)는 3일(현지시간) 작품상 후보로 '듄', '파워 오브 도그', '벨파스트', '돈 룩 업', '리코리쉬 피자'를 선정했다고 밝혔다. 드니 빌뵈브 감독의 '듄'이 11개 부문, '파워 오브]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F04%2Fyonhap%2F20220204024909247wynl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
