@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 07:05:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 08:04:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[센스 만점 이이경 "요리부터 토크까지"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=190491</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=190491</guid>
+            <pubDate>Fri, 04 Feb 2022 08:03:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=190491">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220204142326_144f06561d5461b607391418309d61a1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=190491">센스 만점 이이경 "요리부터 토크까지"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220204142326_144f06561d5461b607391418309d61a1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['킬힐' 김하늘-이혜영-김성령, 성공을 향한 세 여자의 뜨거운 전쟁]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=190451</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=189308">국민가수 다 모였다~ '내일은 국민가수 올스타전'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220127100221_fd6b9a116aaa2350a5241245539f4a1c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박서준-한소희, 함께 정체 모를 괴물과 맞서다! '경성 크리처']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=189258</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=189258</guid>
-            <pubDate>Thu, 27 Jan 2022 02:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=189258">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220127090921_78cb89d25eb69b99eb9c305e465362f2.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=189258">박서준-한소희, 함께 정체 모를 괴물과 맞서다! '경성 크리처'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220127090921_78cb89d25eb69b99eb9c305e465362f2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
