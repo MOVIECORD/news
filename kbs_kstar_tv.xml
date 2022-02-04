@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 22:05:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 00:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김민규, "설강화의 주격찬"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=190359</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=190359</guid>
+            <pubDate>Fri, 04 Feb 2022 00:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=190359">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220204081435_2b63aa5948c742f81315dcf14537cefa.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=190359">김민규, "설강화의 주격찬" </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220204081435_2b63aa5948c742f81315dcf14537cefa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차태현 조인성의 행복한 영업일지 '어쩌다 사장2']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=190259</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=189125">김세정의 '사내맞선', "아슬아슬 직장 생활"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220126155457_316bcb570565e190c55e247f8f04d4aa.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['한지붕 세가족' 순돌이 "맛있게 먹어야 한다는 부담감"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=189114</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=189114</guid>
-            <pubDate>Wed, 26 Jan 2022 07:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=189114">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220126142857_a2d67c1857a8917d3fc8379eb98a1738.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=189114">'한지붕 세가족' 순돌이 "맛있게 먹어야 한다는 부담감"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220126142857_a2d67c1857a8917d3fc8379eb98a1738.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
