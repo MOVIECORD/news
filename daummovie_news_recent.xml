@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-02-04T19:05:18.349Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 04 Feb 2022 20:05:50 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서현·이준영 연기 변신 '모럴센스', 박현진 감독표 감각적 로코]]></title>
+            <link>https://v.daum.net/v/20220205050012687</link>
+            <guid>https://v.daum.net/v/20220205050012687</guid>
+            <pubDate>Fri, 04 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 박현진 감독이 넷플릭스(Netflix) 영화 '모럴센스'를 통해 감각적인 로맨스를 선보인다. '모럴센스'는 모든 게 완벽하지만 남다른 성적 취향을 가진 지후와 그의 비밀을 알게 된 유능한 홍보팀 사원 지우의 아찔한 취향존중 로맨스를 그린 영화다. '6년째 연애중'과 '좋아해줘'를 통해 현실 연애의 모든 것을 보여줬던 박현진 감독은 '모럴센]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F05%2Fsportsdonga%2F20220205050013713cbbh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['지금 우리 학교는' 오미크론 변이 시대에 만난 고딩 좀비, 끝내 주네(종합)[Oh!쎈 리뷰]]]></title>
+            <link>https://v.daum.net/v/20220205043258627</link>
+            <guid>https://v.daum.net/v/20220205043258627</guid>
+            <pubDate>Fri, 04 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;목이나 팔을 물리고, 복부 살이 뜯겨 나가 내장이 튀어 나온다. ‘지금 우리 학교는’도 기존의 좀비물처럼 인간이 좀비가 돼가는 과정은 같다. 하지만 코로나 팬데믹 시대를 반영한 ‘절비’는 완전히 새롭다.(※이 기사에 스포일러가 있습니다.) 한 번 공격을 당해 이미 좀비가 된 괴물이 인간처럼 말을 하고 생각까지 한다. 일명 ‘요나]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F05%2Fpoctan%2F20220205043258284jsrr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
