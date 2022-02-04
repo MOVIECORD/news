@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 08:04:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 09:04:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[류수영 '박하선의 매력', 강남 '이상화의 취향']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=190537</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=190537</guid>
+            <pubDate>Fri, 04 Feb 2022 09:03:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=190537">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220204172722_2c211788b028135b7fc932e123383e83.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=190537">류수영 '박하선의 매력', 강남 '이상화의 취향'</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%20%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상 출시 편스토랑</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220204172722_2c211788b028135b7fc932e123383e83.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] 국경의 왕, '국경의 왕의 끝'을 찾아서 (임정환 감독,2019)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=190518</link>
@@ -346,24 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220203022834_0d4129f1cd472a964707f581dd951c4a_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[갓파더] KCM 가족과 함께 명절을 보내게 된 지플랫(최환희)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=190224</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=190224</guid>
-            <pubDate>Wed, 02 Feb 2022 18:05:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=190224">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220203021823_9ac77e7bddb5e29125fc6b853a960d0b_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=190224">[갓파더] KCM 가족과 함께 명절을 보내게 된 지플랫(최환희)</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220203021823_9ac77e7bddb5e29125fc6b853a960d0b_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

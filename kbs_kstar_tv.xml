@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 08:04:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 09:04:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스키 여행 떠난 드리핀, 첫 단독 리얼리티 쇼 '화이트 드림']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=190549</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=190549</guid>
+            <pubDate>Fri, 04 Feb 2022 09:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=190549">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220204173249_59eec26707b63a97689aadf2ce09e767.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=190549">스키 여행 떠난 드리핀, 첫 단독 리얼리티 쇼 '화이트 드림'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220204173249_59eec26707b63a97689aadf2ce09e767.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[센스 만점 이이경 "요리부터 토크까지"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=190491</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=189382">안보현-조보아 ‘군검사 도베르만’ 캐릭터 포스터 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220127164644_73e24c924a5079a110c4deedd25d5add.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국민가수 다 모였다~ '내일은 국민가수 올스타전']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=189308</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=189308</guid>
-            <pubDate>Thu, 27 Jan 2022 02:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=189308">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220127100221_fd6b9a116aaa2350a5241245539f4a1c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=189308">국민가수 다 모였다~ '내일은 국민가수 올스타전'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220127100221_fd6b9a116aaa2350a5241245539f4a1c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
