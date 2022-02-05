@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 16:05:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 17:05:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[개승자] 명품 콩트의 대명사 김원효 팀... 새로운 코너 ‘VIP’로 승부수]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=190714</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=190714</guid>
+            <pubDate>Sat, 05 Feb 2022 17:04:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=190714">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220206011129_d11b0f20c15fe673ee3cffab89050abd_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=190714">[개승자] 명품 콩트의 대명사 김원효 팀... 새로운 코너 ‘VIP’로 승부수</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EC%8A%B9%EC%9E%90">개승자</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220206011129_d11b0f20c15fe673ee3cffab89050abd_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[개승자] 강력한 개그 내공의 윤형빈 팀, 진짜 최종 무기는 정경미...팀 이름도 ‘정경미 팀’으로?]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=190710</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%97%B0%EC%A4%91%20%EB%9D%BC%EC%9D%B4%EB%B8%8C">연중 라이브</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220205003139_f6d5c126074ab2a5fe9b987139b9597e.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[연중 라이브] 연예계 도플갱어 올림픽 순위 공개! 대망의 1위는?]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=190610</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=190610</guid>
-            <pubDate>Fri, 04 Feb 2022 16:05:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=190610">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220205002555_0baacb5d9c654a8f9d1bfa4f894845db_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=190610">[연중 라이브] 연예계 도플갱어 올림픽 순위 공개! 대망의 1위는?</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%97%B0%EC%A4%91%20%EB%9D%BC%EC%9D%B4%EB%B8%8C">연중 라이브</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220205002555_0baacb5d9c654a8f9d1bfa4f894845db_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
