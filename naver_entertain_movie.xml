@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-06T03:05:58.950Z</updated>
+    <updated>2022-02-06T04:07:11.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["지구는 평평하다"라고 주장하는 사람들, 왜?]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002341326</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002341326"/>
+        <updated>2022-02-06T04:06:25.085Z</updated>
+        <content type="html"><![CDATA[[다큐멘터리에 들어서면] 넷플릭스 &lt;그래도 지구는 평평하다(Behind the Curve)&gt; 중요한 사안에서 꼭 음모론을 들고 나오는 사람들이 있다. 수십 년 전, 미국의 역사학자 리처드 호프스태터(Richard H]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오미크론에 설 연휴 개봉작 기대 이하 성적…극장가 한파 언제까지?]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003126577</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002341310"/>
         <updated>2022-02-05T23:08:34.841Z</updated>
         <content type="html"><![CDATA[[리뷰] 영화 &lt;355&gt; ▲ 영화 &lt;355&gt; 스틸컷 ⓒ 조이앤시네마 한국 속담에 여자가 한을 품으면 오뉴월에도 서리가 내린다고 했다. 어디까지나 속담이라지만 여자의 강인함을 비유한다고 했을 때 그리 틀린 말도 아닐테]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['듄'·'덩케르크'·'해리포터'…할리우드 대작 재개봉 물결 [N초점]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005885396</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005885396"/>
-        <updated>2022-02-05T22:05:00.240Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 영화 '듄'(감독 드니 빌뇌브)부터 '덩케르크'(감독 크리스토퍼 놀란), '해리 포터와 불사조 기사단'(감독 데이빗 예이츠)까지, 마니아 층을 형성한 할리우드 대작들이 한날 재개봉하며]]></content>
     </entry>
 </feed>

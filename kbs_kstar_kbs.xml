@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 03:05:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 04:07:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신비한 알고리즘의 세계, ‘개승자’  파이널 1차전 1위]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=190733</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=190733</guid>
+            <pubDate>Sun, 06 Feb 2022 04:06:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=190733">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220206111429_c76933b7e22d8054b1e5c4fcbc94d941.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=190733">신비한 알고리즘의 세계, ‘개승자’  파이널 1차전 1위</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EC%8A%B9%EC%9E%90">개승자</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220206111429_c76933b7e22d8054b1e5c4fcbc94d941.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[베이징2022] '크로스컨트리' '루지' KBS 중계]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=190728</link>
@@ -346,24 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=2022%20%EB%B2%A0%EC%9D%B4%EC%A7%95%EC%98%AC%EB%A6%BC%ED%94%BD%20%EA%B0%9C%EB%A7%89%EC%8B%9D">2022 베이징올림픽 개막식</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220205084448_85b1ac44da6136ad6bb93499cc04f1f3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['주접이 풍년' 장민호, 팬들 주접에 '황홀']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=190640</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=190640</guid>
-            <pubDate>Sat, 05 Feb 2022 02:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=190640">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220205083053_0689badea1d7d78a3bcdbd012f7f3d93.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=190640">'주접이 풍년' 장민호, 팬들 주접에 '황홀'</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EC%A0%91%EC%9D%B4%20%ED%92%8D%EB%85%84">주접이 풍년</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220205083053_0689badea1d7d78a3bcdbd012f7f3d93.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
