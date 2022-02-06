@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-06T04:07:11.674Z</updated>
+    <updated>2022-02-06T05:06:18.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“아이맥스로 또 볼 예정”…극찬 릴레이 ‘해적: 도깨비 깃발’, 올해 첫 100만 돌파]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000603949</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000603949"/>
+        <updated>2022-02-06T05:05:36.223Z</updated>
+        <content type="html"><![CDATA[해양 어드벤처 영화 '해적:도깨비 깃발'이 올해 개봉한 영화 중 처음으로 100만 관객을 돌파했다. 5일 배급사 롯데엔터테인먼트에 따르면 '해적'은 개봉 11일째인 이날 오후 누적 관객 100만378명을 기록했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["지구는 평평하다"라고 주장하는 사람들, 왜?]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002341326</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002341311"/>
         <updated>2022-02-05T23:08:34.840Z</updated>
         <content type="html"><![CDATA[[리뷰] 영화 &lt;맛있는 영화&gt; 계약직 직원 송이(정연주)는 재직 중이던 회사와의 재계약 불발로 백수 처지가 된다. 앞으로 뭘 먹고 살아야 하나 고민이 많다. 그날도 이런 고민 속에서 냉장고 문을 활짝 열었다. 마침]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[평균 연령 40대 배우의 이유 있는 종횡무진]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002341310</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002341310"/>
-        <updated>2022-02-05T23:08:34.841Z</updated>
-        <content type="html"><![CDATA[[리뷰] 영화 &lt;355&gt; ▲ 영화 &lt;355&gt; 스틸컷 ⓒ 조이앤시네마 한국 속담에 여자가 한을 품으면 오뉴월에도 서리가 내린다고 했다. 어디까지나 속담이라지만 여자의 강인함을 비유한다고 했을 때 그리 틀린 말도 아닐테]]></content>
     </entry>
 </feed>
