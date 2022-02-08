@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-08T16:06:32.990Z</updated>
+    <updated>2022-02-08T17:11:43.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[캠피온 감독의 '파워 오브 도그', 오스카상 12개 부문 최다 후보(종합)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012968701</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012968701"/>
+        <updated>2022-02-08T17:10:12.870Z</updated>
+        <content type="html"><![CDATA[작품상 등 주요후보에 올라…캠피온, 감독상 후보 두 번 오른 첫 여성 SF대작 '듄' 10개 부문 후보…日영화 '드라이브 마이 카' 작품상 후보 (로스앤젤레스=연합뉴스) 정윤섭 특파원 = 제인 캠피온 감독의 넷플릭스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스튜어트, 헤어부터 드레스까지..故 다이애나 왕세자비 똑같네('스펜서')]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004553371</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000279851"/>
         <updated>2022-02-08T09:04:48.804Z</updated>
         <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 로버트 패틴슨이 타이틀롤을 맡은 '더 배트맨'(감독 맷 리브스)이 긴 침체에 빠진 극장가에 구원투수가 될 수 있을까. '더 배트맨'이 오는 3월 1일 개봉을 확정했다. '더 배트맨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나일 강의 죽음', 박지선 등 국내 대표 전문가들도 극찬]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003575440</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003575440"/>
-        <updated>2022-02-08T09:04:48.812Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 김나라 기자] 영화 '나일 강의 죽음'이 명탐정 에르큘 포와로(케네스 브래너)의 매력에 흠뻑 빠진 국내 대표 범죄전문가들의 범죄전문가 프로파일링 영상을 전격 공개했다. 오늘(8일) 공개된 영상은 국내]]></content>
     </entry>
 </feed>
