@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 20:06:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 21:05:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김준수와 영탁의 ‘요즘 남자 라이프-신랑수업’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=191070</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=191070</guid>
+            <pubDate>Tue, 08 Feb 2022 21:03:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191070">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220208143803_e626076a3985918cdb984b4d94f61e8f_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191070">김준수와 영탁의 ‘요즘 남자 라이프-신랑수업’ </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220208143803_e626076a3985918cdb984b4d94f61e8f_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[저승에서 취직한 로운, '내일' 최준웅으로 활약]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=191057</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=190359">김민규, "설강화의 주격찬" </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220204081435_2b63aa5948c742f81315dcf14537cefa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차태현 조인성의 행복한 영업일지 '어쩌다 사장2']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=190259</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=190259</guid>
-            <pubDate>Thu, 03 Feb 2022 04:04:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=190259">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220203090228_28ff01af3966fbcd61c312a789c2151c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=190259">차태현 조인성의 행복한 영업일지 '어쩌다 사장2' </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220203090228_28ff01af3966fbcd61c312a789c2151c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

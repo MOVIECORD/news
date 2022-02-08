@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-08T20:06:07.710Z</updated>
+    <updated>2022-02-08T21:05:53.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤직영화 '코다', 오스카 작품상·남우조연상·각색상 노미네이트[공식]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004553389</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004553389"/>
+        <updated>2022-02-08T21:05:02.159Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '코다'가 미국 아카데미 시상식에서 작품상, 남우조연상, 각색상 후보로 지명돼 세계적인 관심을 받고 있다. 소리를 들을 수 없는 가족을 세상과 연결하는 코다 루비가 어느 여름날, 우연히]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 등 스트리밍 영화, 오스카 첫 작품상 받을까]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012968714</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001206740"/>
         <updated>2022-02-08T10:06:17.605Z</updated>
         <content type="html"><![CDATA[올해 개봉작 중 첫 100만 관객을 돌파하며 새해 극장가 흥행 돌풍을 불러일으키고 있는 영화 '해적: 도깨비 깃발'이 넷플릭스 오리지널 시리즈 '지금 우리 학교는'과 함께 풍성한 재미로 대중들을 사로잡고 있다. 한국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 첫 히어로 블록버스터 '더 배트맨' 3월 1일 개봉]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012968120</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012968120"/>
-        <updated>2022-02-08T10:06:17.621Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 한미희 기자 = 올해 첫 히어로 블록버스터 '더 배트맨'이 올봄 개봉을 확정했다. '스파이더맨'에 이어 코로나19 대유행 속에 침체에 빠진 극장가를 구할 수 있을지 주목된다. 배급사 워너브러더스코리]]></content>
     </entry>
 </feed>
