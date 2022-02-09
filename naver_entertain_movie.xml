@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-09T19:06:13.479Z</updated>
+    <updated>2022-02-09T20:05:41.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[클로즈업 필름]넷플릭스, 오스카 작품상 손에 넣을까]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010992516</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010992516"/>
+        <updated>2022-02-09T20:04:31.118Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 '피워 오브 도그' 최다 12개 부문 후보 작품상·감독상 수상 가능성 가장 높아 2019년 '로마' 첫 작품상 후보에 올라 딱 4년만에 작품상 최근접 영화 내놔 극장 상영 없이 작품상 받으면 새 역사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[농구경기 하다 말고 패싸움에 몰두했다, 무엇 때문에?]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002341769</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003027166"/>
         <updated>2022-02-09T09:05:07.315Z</updated>
         <content type="html"><![CDATA[코로나19 확산세에 연예계 전반에 걸쳐 확진자가 속출하면서 빨간불이 켜졌다. 9일 배우 이병헌, 이민정 부부가 나란히 신종 코로나 바이러스 감염증(코로나19) 확진 판정을 받았다. 이병헌 소속사 BH엔터테인먼트는 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘라이온 킹’, 남다른 韓 관객 사랑 “감동과 영감 받아”[SW현장]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000604280</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000604280"/>
-        <updated>2022-02-09T09:05:07.316Z</updated>
-        <content type="html"><![CDATA[뮤지컬 ‘라이온 킹’ 인터내셔널 투어에 참여한 배우들이 작품에 대한 애정과 한국 관객에 대한 고마움을 아낌없이 드러냈다. 9일 오후 열린 온라인 화상 기자간담회에는 ‘라이온 킹’ 흥행 주역인 배우 푸티 무쏭고, 데이]]></content>
     </entry>
 </feed>
