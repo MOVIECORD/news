@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-10T19:05:22.057Z</updated>
+    <updated>2022-02-10T20:06:23.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰]로몬 "좀비와 싸우려고 덩치 더 키웠죠"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010995287</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010995287"/>
+        <updated>2022-02-10T20:05:25.158Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 넷플릭스 '지금 우리 학교는' 수혁 열연 "액션·로맨스 실감나게 보여주려 맹훈련" "우즈벡 출생이지만 한국서 학교 다녀" [서울=뉴시스] 손정빈 기자 = "액션스쿨 다니는 것 말고도 체력을 기르려고 한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배우 최희진, 영화 ‘다음 소희’ 출연…촬영 중]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000604450</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004554816"/>
         <updated>2022-02-10T10:08:58.324Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '나일 강의 죽음'이 연일 뜨거운 호평을 받고 있는 가운데 작품에 참여한 배우들이 만장일치로 극찬한 영화의 흥미로운 코멘트를 담은 ‘황홀한 추리 여행’ 메이킹 영상이 공개돼 눈길을 끈다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘71세’ 리암 니슨 “사별 후 사랑에 빠졌지만‥짝 있더라” 고백[할리우드비하인드]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000541305</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000541305"/>
-        <updated>2022-02-10T10:08:58.325Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 사별한 리암 니슨이 "이루어질 수 없는 사랑에 빠졌었다"고 고백했다. 할리우드 배우 리암 니슨(71)은 최근 호주 프로그램 '선라이즈'에 출연, 영화 '블랙라이트'를 찍는 동안 호주 현지 촬영]]></content>
     </entry>
 </feed>
