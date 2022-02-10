@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-10T11:07:21.296Z</updated>
+    <updated>2022-02-10T12:12:12.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['극장판 주술회전 0', 사랑과 저주의 시작 영상 최초 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003576071</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003576071"/>
+        <updated>2022-02-10T12:11:27.703Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]'극장판 주술회전 0'가 세계관의 원점이 담긴 ‘사랑과 저주의 시작 영상’을 최초 공개해 예비 관객들의 관람 의욕을 고조시키고 있다. 백귀야행으로 주술고전을 위기에 빠트릴 강력한 주저사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아이돌 레시피' 이지훈 코로나 확진…아이돌만 캐스팅 하면 장땡?(종합)[Oh!쎈 초점]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004554821</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0005042669"/>
         <updated>2022-02-10T09:06:00.367Z</updated>
         <content type="html"><![CDATA["시장 변화가 빠르게 이뤄지며 K-콘텐츠가 세계로 나아가고 있는데, 작품이 많이 제작되는 만큼 질적 향상도 이뤄지는 걸까요? 르네상스 같은 시기를 지나고 있습니다." 천성일 작가는 10일 진행된 아시아경제와의 화상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모럴센스', 은밀한 취향존중 로맨스]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001206929</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001206929"/>
-        <updated>2022-02-10T09:06:00.367Z</updated>
-        <content type="html"><![CDATA[글로벌 엔터테인먼트 스트리밍 서비스 넷플릭스(Netflix)의 영화 '모럴센스'가 전 세계 공개를 하루 앞두고 관전 포인트를 공개했다. 모든 게 완벽하지만 남다른 성적 취향을 가진 지후와 그의 비밀을 알게 된 유능한]]></content>
     </entry>
 </feed>
