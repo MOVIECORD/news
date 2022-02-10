@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 17:09:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 18:05:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -692,7 +692,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=191496</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=191496</guid>
             <pubDate>Thu, 10 Feb 2022 09:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191496">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191496">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220210174948_be853beaf25d05a4fa2d748b267044c1.jpg" alt="대체 텍스트">
@@ -710,7 +710,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=191417</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=191417</guid>
             <pubDate>Thu, 10 Feb 2022 01:53:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191417">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191417">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220210095002_7f4c150be9a1ffd196d04b7363c4d0dd.jpg" alt="대체 텍스트">
@@ -1109,6 +1109,13 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/01/20/19e24658-2837-4208-8f47-2c1215008080.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[배우 최희진, 영화 ‘다음 소희’ 출연…촬영 중 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000604450</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000604450</guid>
+            <pubDate>Thu, 10 Feb 2022 18:05:01 GMT</pubDate>
+            <content:encoded><![CDATA[배우 최희진이 영화 ‘다음 소희’에 출연한다. ‘다음 소희’는 콜센터로 현장실습을 나가게 된 여고생 소희가 겪게 되는 사건과 이에 의문을 품는 형사 유진의 이야기를 다룬 작품이다. 데뷔작 ‘도희야’를 통해 신선한 연]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[서현♥이준영 취존 로맨스, ‘모럴센스’ 오늘 공개 [DA:투데이] (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000960537</link>
             <guid>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000960537</guid>
@@ -1277,11 +1284,18 @@
             <content:encoded><![CDATA[[뉴스엔 배효주 기자] 사별한 리암 니슨이 "이루어질 수 없는 사랑에 빠졌었다"고 고백했다. 할리우드 배우 리암 니슨(71)은 최근 호주 프로그램 '선라이즈'에 출연, 영화 '블랙라이트'를 찍는 동안 호주 현지 촬영]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['버즈 라이트이어', '토이 스토리' 영웅의 숨겨진 이야기..6월 개봉(공식) (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003530001</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003530001</guid>
-            <pubDate>Thu, 10 Feb 2022 10:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드POP=이미지 기자] 전 세계적인 사랑을 받은 레전드 애니메이션 '토이 스토리' 시리즈의 영웅 ‘버즈 라이트이어’가 새로운 모습으로 관객들과 만남을 예고한다. 영화 '버즈 라이트이어' 가 마침내 국내 개봉을]]></content:encoded>
+            <title><![CDATA[[오늘의 채널A]오늘 ‘대선 후보 2차 TV토론’… 이번엔 난타전? (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=020&amp;aid=0003410418</link>
+            <guid>https://entertain.naver.com/now/read?oid=020&amp;aid=0003410418</guid>
+            <pubDate>Thu, 10 Feb 2022 18:05:08 GMT</pubDate>
+            <content:encoded><![CDATA[오후 8시 대선 후보 2차 TV토론이 채널A 등을 통해 생중계된다. 이재명 후보는 윤석열 후보의 정책적 약점을 핀셋 공략하겠다는 계획이고, 윤 후보는 핵심부터 말하는 연습에 집중하고 있다고 한다. 1차 토론 때와 달]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[걸그룹 출신 아내가 마주한 끔찍한 상황…'애로부부' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0010995256</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0010995256</guid>
+            <pubDate>Thu, 10 Feb 2022 18:05:08 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]전재경 기자 = '애로부부'에서 충격적인 사연이 공개된다. 오는 12일 오후 11시 방송되는 SKY채널·채널A '애로부부'에서는 2000년대 초반 활동했던 걸그룹 출신 아내가 등장한다. 누구보다 화려한]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['국가수' 이병찬→김동현, 2번째 커튼콜 무대 장식[★밤TView] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
@@ -1443,20 +1457,6 @@
             <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000792378</guid>
             <pubDate>Thu, 10 Feb 2022 14:05:38 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠경향] KBS가 지난 한 해 동안 국제 영상 페스티벌에서 30여 건 수상 기록을 세웠다. 역대 최고 성적이다. KBS는 지난해 아시아, 미주, 유럽에서 개최된 21개 행사에서 33건의 국제상을 받았다고 10일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['해치지않아' 아이키→노제, 못다한 이야기 "우리 오래 보자"[★밤TView] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003027491</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003027491</guid>
-            <pubDate>Thu, 10 Feb 2022 14:05:38 GMT</pubDate>
-            <content:encoded><![CDATA['해치지않아X스우파'에서 리더즈들이 캠프파이어를 하며 경연 프로그램 뒷이야기를 밝혔다. 10일 오후 tvN 예능프로그램 '해치지않아X스우파'에서는 리더즈의 캠프파이어가 그려졌다. 이날 리더즈들은 랍스터 파티 이후 서]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["사랑의 불시착, 아니 착지" 현빈♥손예진, 3월 결혼…日이 더 난리 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000342106</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000342106</guid>
-            <pubDate>Thu, 10 Feb 2022 14:05:38 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=김현록 기자]사랑의 불시착이 아니라 사랑의 착지였다. 배우 현빈(40)과 손예진(40)이 오는 3월 결혼한다. 10일 현빈과 손예진은 이날 오후 각각 소속사 SNS와 개인 SNS를 통해 직접 결혼 소식]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['공작도시' 수애, 이이담과 환상 속 재회→김미숙에 굴복[★밤TView] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
@@ -1650,20 +1650,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F10%2Fnewsen%2F20220210163311792tdsn.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA[[종합] "바지 내린 장면 삭제"..배우희→켄타, 무명 아이돌의 고군분투 성공기('아이돌레시피') (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220210132301280</link>
-            <guid>https://movie.v.daum.net/v/20220210132301280</guid>
-            <pubDate>Thu, 10 Feb 2022 05:06:31 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김지원 기자] 배우 배우희부터 켄타, 문종업, 유호연, 김나현 등 전현직 아이돌들이 영화 '아이돌레시피'로 뭉쳤다. 10일 서울 한강로동 CGV용산아이파크몰에서 영화 '아이돌레시피' 언론시사회가 열렸다. 이호성 감독과 그룹 달샤벳 출신 배우희, 그룹 JBJ95 켄타, B.A.P 문종업, 그룹 느와르 유호연, 그룹 소나무 출신 김나현이 참석했다]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F10%2F10asia%2F20220210132305032chdt.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['해적2' 작가 "박스오피스 1위했지만 관객 많이 못 들어 안타깝다"[인터뷰①] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220210152931467</link>
             <guid>https://movie.v.daum.net/v/20220210152931467</guid>
             <pubDate>Thu, 10 Feb 2022 08:07:18 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;천성일 작가가 영화 ‘해적: 도깨비 깃발’(해적2)이 개봉 첫날부터 박스오피스 1위를 차지한 것과 관련, “박스오피스 1위였지만 관객들이 많이 들지 못 해서 안타깝다”라고 말했다. 천 작가는 10일 오후 온라인으로 진행된 화상인터뷰에서 “‘해적2’가 1위를 하긴 했지만 많은 관객들이 찾아주시지 않아서 아쉽다”라며 이같이 밝혔다.]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F10%2Fpoctan%2F20220210152931848cojk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[종합] "바지 내린 장면 삭제"..배우희→켄타, 무명 아이돌의 고군분투 성공기('아이돌레시피') (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220210132301280</link>
+            <guid>https://movie.v.daum.net/v/20220210132301280</guid>
+            <pubDate>Thu, 10 Feb 2022 05:06:31 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자] 배우 배우희부터 켄타, 문종업, 유호연, 김나현 등 전현직 아이돌들이 영화 '아이돌레시피'로 뭉쳤다. 10일 서울 한강로동 CGV용산아이파크몰에서 영화 '아이돌레시피' 언론시사회가 열렸다. 이호성 감독과 그룹 달샤벳 출신 배우희, 그룹 JBJ95 켄타, B.A.P 문종업, 그룹 느와르 유호연, 그룹 소나무 출신 김나현이 참석했다]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F10%2F10asia%2F20220210132305032chdt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[이게 아닌데.. 상상과 달랐던 영화 '나의 촛불' (다음영화 뉴스 ─ 인기)]]></title>
@@ -1746,20 +1746,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F09%2Fseoul%2F20220209050805704vjea.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['71세' 리암 니슨 "사별 후 사랑에 빠졌지만..짝 있더라" 고백[할리우드비하인드] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220210184450526</link>
-            <guid>https://movie.v.daum.net/v/20220210184450526</guid>
-            <pubDate>Thu, 10 Feb 2022 12:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 사별한 리암 니슨이 "이루어질 수 없는 사랑에 빠졌었다"고 고백했다. 할리우드 배우 리암 니슨(71)은 최근 호주 프로그램 '선라이즈'에 출연, 영화 '블랙라이트'를 찍는 동안 호주 현지 촬영 스태프와 사랑에 빠졌다고 고백했다. 그는 "나는 멜버른을 사랑하고, 우리의 호주 스태프들을 사랑했다"며 "모든 이들이 최고였다"고 말했다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F10%2Fnewsen%2F20220210184452638cgla.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['히트' 마이클 만, 엔초 페라리 영화 만든다..아담 드라이버 주연 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220210162104133</link>
             <guid>https://movie.v.daum.net/v/20220210162104133</guid>
             <pubDate>Thu, 10 Feb 2022 10:09:20 GMT</pubDate>
             <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 영화 '히트'로 유명한 마이클 만 감독이 엔초 페라리의 전기 영화를 만든다. 미국 인디와이어에 따르면 엔초 페라리 전기 영화는 주요 캐스팅을 확정하고 본격적인 제작에 착수했다. 연출은 마이클 만이 맡으며, 아담 드라이버가 엔초 페라리를 연기한다. 페넬로페 크루즈는 엔초 페라리의 부인 라우라 가렐로를, 쉐일린 우들리는 페라]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F10%2FSBSfunE%2F20220210162106741lscl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['71세' 리암 니슨 "사별 후 사랑에 빠졌지만..짝 있더라" 고백[할리우드비하인드] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220210184450526</link>
+            <guid>https://movie.v.daum.net/v/20220210184450526</guid>
+            <pubDate>Thu, 10 Feb 2022 12:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 사별한 리암 니슨이 "이루어질 수 없는 사랑에 빠졌었다"고 고백했다. 할리우드 배우 리암 니슨(71)은 최근 호주 프로그램 '선라이즈'에 출연, 영화 '블랙라이트'를 찍는 동안 호주 현지 촬영 스태프와 사랑에 빠졌다고 고백했다. 그는 "나는 멜버른을 사랑하고, 우리의 호주 스태프들을 사랑했다"며 "모든 이들이 최고였다"고 말했다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F10%2Fnewsen%2F20220210184452638cgla.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[디즈니 콘텐츠,제 94회 아카데미시상식에 총 23개 후보 선정 (다음영화 뉴스 ─ 인기)]]></title>
