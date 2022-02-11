@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-11T19:06:13.628Z</updated>
+    <updated>2022-02-11T20:06:20.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주말의 OTT]제 성적 취향이 어때서요?]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010997430</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010997430"/>
+        <updated>2022-02-11T20:05:28.186Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 손정빈 기자 = 이번 주말 넷플릭스·디즈니플러스(+)·왓챠에서 볼 만한 영화·드라마를 추렸다. 그간 한국 작품으로는 드라마만 만들던 넷플릭스가 첫 한국영화 '모럴센스'를 선보인다. 디즈니+에선 올해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['배우 데뷔' KCM "밤업소 노래 장면, 만감이 교차했죠"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000657756</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004555409"/>
         <updated>2022-02-11T11:05:28.585Z</updated>
         <content type="html"><![CDATA[[OSEN=김성락 기자] 11일 오전 서울 한강로 CGV 용산아이파크몰에서 영화 '리프레쉬' 언론배급 시사회가 열렸다. 가수 겸 배우 KCM(강창모)가 상영관으로 입장하고 있다. 2022.02.11 / ksl0919]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TEN 포토] 명현만 '리플레쉬 사랑합니다']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000530127</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000530127"/>
-        <updated>2022-02-11T11:05:28.586Z</updated>
-        <content type="html"><![CDATA[[텐아시아=조준원 기자]배우 명현만이 11일 오후 서울 용산구 한강로 용산 아이파크몰 용산 CGV에서 열린 영화 '리프레쉬' 언론시사회에 참석해 인사말을 하고 있다. 영화 &lt;리프레쉬&gt;는 한물 간 가수 ‘K’가 국립]]></content>
     </entry>
 </feed>
