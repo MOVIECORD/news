@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 04:06:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 06:10:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[베이징] 비인기 종목의 피, 땀, 눈물 KBS에 담다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=191655</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=191655</guid>
+            <pubDate>Fri, 11 Feb 2022 06:08:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191655">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220211142137_a5a5e267152bacbc55003842995ad4a9_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191655">[베이징] 비인기 종목의 피, 땀, 눈물 KBS에 담다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220211142137_a5a5e267152bacbc55003842995ad4a9_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘유스케’ 특급라인업 "박정현 빅마마 소연 나비"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=191606</link>
@@ -348,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">개는 훌륭하다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220208013702_d1f38c2e7d594aaf25e98862095ba503_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[개는 훌륭하다] 동거 적응 못하는 각자의 반려견 사이에서 갈등 겪는 신혼부부]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=190914</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=190914</guid>
-            <pubDate>Mon, 07 Feb 2022 17:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=190914">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220208012447_9892f3d82d673f774c71b31962d320e4_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=190914">[개는 훌륭하다] 동거 적응 못하는 각자의 반려견 사이에서 갈등 겪는 신혼부부</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">개는 훌륭하다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220208012447_9892f3d82d673f774c71b31962d320e4_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
