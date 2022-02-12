@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-12T02:32:54.772Z</updated>
+    <updated>2022-02-12T03:06:02.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[日소설 원작 '인어가 잠든 집', 극장 동시 VOD서비스]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004555833</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004555833"/>
+        <updated>2022-02-12T03:05:09.430Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 히가시노 게이고의 소설을 원작으로 하는 영화 '인어가 잠든 집'이 극장 동시 IPTV 및 VOD 서비스를 개시하며 안방극장을 뜨겁게 달구고 있다. '인어가 잠든 집'(감독 츠츠미 유키히코,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나일 강의 죽음' 불금에 고작 1만 7436명…3일 연속 박스오피스 1위]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000530211</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000792643"/>
         <updated>2022-02-12T00:21:57.698Z</updated>
         <content type="html"><![CDATA[[스포츠경향] ‘로코 장인’ 이준영이 다시 한번 시청자들의 마음을 설레게 했다. 배우 이준영이 지난 11일 공개된 넷플릭스 영화 ‘모럴센스’를 통해 어떤 로맨스도 특별하게 만드는 ‘로코 장인’의 매력을 발산하고 있다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상실을 치유하는 법…영화 '역으로 가는 길을 알려줘']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012978651</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012978651"/>
-        <updated>2022-02-12T00:21:57.702Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 한미희 기자 = 학교 친구들에게 따돌림을 당하는 사야카(니쓰 지세 분)는 버림받을 운명에 처한 시바견 루를 만나 하나밖에 없는 절친한 친구가 된다. 사야카는 체험학습을 다녀온 어느 날 심장병으로 세]]></content>
     </entry>
 </feed>
