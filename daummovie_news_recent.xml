@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-02-12T21:06:36.658Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 12 Feb 2022 22:06:27 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['그래도 지구는 평평하다' 음모론에 매혹된 이유를 묻는다면 [넷플릭스 다큐깨기⑦]]]></title>
+            <link>https://v.daum.net/v/20220213062102829</link>
+            <guid>https://v.daum.net/v/20220213062102829</guid>
+            <pubDate>Sat, 12 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[모두가 속고 있다. 사실 지구는 평평하다. 시속 1600㎞로 스스로 돌고 있지 않다. 당연히 시속 10만㎞로 태양 주위를 공전하고 있는 것도 아니다. 그렇게 빠른 속도로 움직이는 데도 아무도 느끼지 못하는 게 이상하지 않은가. 진실은 우리는 지금 수천㎞의 평평한 둥근 원반 위에 살고 있다. 태양과 달은 공중에서 회전하고 하늘의 이미지는 일종의 CG다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F13%2Fkukinews%2F20220213062103652dswo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
