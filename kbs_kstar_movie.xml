@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 23:06:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 00:22:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연상호 '돼지의 왕', 티빙 실사 드라마로]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=191611</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=191611</guid>
+            <pubDate>Sat, 12 Feb 2022 00:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191611">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220211105138_de1292d7c171d057d412a59bb973db15.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191611">연상호 '돼지의 왕', 티빙 실사 드라마로 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220211105138_de1292d7c171d057d412a59bb973db15.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기가 화사 등장! 토요일 밤 후끈하게 만들 화사의 끼와 재능!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=191698</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191283">'경찰수업' 이신영, 체육특기생 김탁</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220209141947_2c64fed2a7e08dc53b20d79959d3be61_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["위풍당당 우리학교" 한국콘텐츠 넷플릭스 시청 신기록]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=191273</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=191273</guid>
-            <pubDate>Wed, 09 Feb 2022 08:07:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191273">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220209135905_294a61145a74e97ad57fa792d4a7f418.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191273">"위풍당당 우리학교" 한국콘텐츠 넷플릭스 시청 신기록 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220209135905_294a61145a74e97ad57fa792d4a7f418.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
