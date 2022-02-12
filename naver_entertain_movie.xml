@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-12T19:06:24.713Z</updated>
+    <updated>2022-02-12T20:06:12.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰]윤찬영 "제 액션은 손흥민 선수에게서 나왔어요"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010998267</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0010998267"/>
+        <updated>2022-02-12T20:05:05.932Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 넷플릭스 '지금 우리 학교는' 청산 역 "손흥민처럼 폭발적인 액션 시도했다" [서울=뉴시스] 손정빈 기자 = 넷플릭스 드라마 '지금 우리 학교는'에서 좀비와 가장 자주 맞닥뜨리며 처절하게 싸우는 인물은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모럴센스' 서현 "신선한 충격, 도전하고 싶었어요"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000657864</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002342085"/>
         <updated>2022-02-12T04:08:57.715Z</updated>
         <content type="html"><![CDATA[[리뷰] 영화 &lt;모럴센스&gt; ▲ &lt;모럴센스&gt; 메인 포스터 ⓒ 넷플릭스 넷플릭스가 제작단계부터 참여한 첫 번째 한국 오리지널 영화 &lt;모럴센스&gt;는 최근 충무로에서 실종되었다는 소리를 듣는 로맨스 장르의 작품이다. &lt;지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日소설 원작 '인어가 잠든 집', 극장 동시 VOD서비스]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004555833</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004555833"/>
-        <updated>2022-02-12T03:05:09.430Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 히가시노 게이고의 소설을 원작으로 하는 영화 '인어가 잠든 집'이 극장 동시 IPTV 및 VOD 서비스를 개시하며 안방극장을 뜨겁게 달구고 있다. '인어가 잠든 집'(감독 츠츠미 유키히코,]]></content>
     </entry>
 </feed>
