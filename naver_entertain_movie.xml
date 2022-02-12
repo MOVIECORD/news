@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-12T08:06:42.375Z</updated>
+    <updated>2022-02-12T09:06:49.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['지금 우리 학교는' 14일 연속 전세계 1위…장기 흥행간다[공식]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004556160</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004556160"/>
+        <updated>2022-02-12T09:05:56.351Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 넷플릭스 드라마 ‘지금 우리 학교는’(All of Us are Dead)이 전세계 시청자들의 사랑을 받아 1위를 유지하고 있다. 12일(한국 시간) 플릭스패트롤 집계를 보면 넷플릭스 오리지널]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['언차티드' 전체 예매율 1위 24.4%…톰 홀랜드 또 흥행 예고[공식]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004556121</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003027893"/>
         <updated>2022-02-12T02:31:33.535Z</updated>
         <content type="html"><![CDATA[배우 조이현이 평생 잊지 못할 작품을 만났다. '지금 우리 학교는'을 통해 전 세계적으로 눈도장을 찍은 그는 들뜨지 않고 그저 묵묵히 자신의 길을 걸어가고 있다. 조이현은 최근 화상 인터뷰를 통해 넷플릭스 시리즈 ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제훈이 강추한 '나일 강의 죽음'… 박스오피스 1위 질주]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005144941</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005144941"/>
-        <updated>2022-02-12T02:31:33.538Z</updated>
-        <content type="html"><![CDATA[(사진=월트디즈니컴퍼니 코리아) [이데일리 스타in 윤기백 기자] 영화 ‘나일 강의 죽음’이 개봉 이후 연일 박스오피스 1위와 함께 호평을 받고 있는 가운데, 숨막히는 추리 스토리를 단 3분 만에 만나볼 수 있는 배]]></content>
     </entry>
 </feed>
