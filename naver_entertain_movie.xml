@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-14T15:06:57.381Z</updated>
+    <updated>2022-02-14T16:07:09.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['그리드' 김아중, 거대 미스터리 포문..살인범 김성균 놓치고 '당황']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003028410</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003028410"/>
+        <updated>2022-02-14T16:06:23.893Z</updated>
+        <content type="html"><![CDATA['그리드'의 김아중이 편의점 살인사건으로 미스터리의 포문을 연다. 16일 첫 공개되는 디즈니+의 오리지널 시리즈 '그리드'(극본 이수연·연출 리건, 박철환)는 태양풍으로부터 인류를 구원한 방어막 '그리드'를 탄생시킨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘모럴센스’ 서현, ‘올라운더’다운 화려한 연기 변신 通했다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001642406</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002579176"/>
         <updated>2022-02-14T10:06:22.204Z</updated>
         <content type="html"><![CDATA[졸업사진 촬영 장소에서 아르바이트를 하러 온 알라나(알라나 하임)를 보고 반한 10대 소년 개리(쿠퍼 호프먼)는, 알라나의 면박에도 데이트 신청을 하며 직진한다. 희망 없는 나날을 보내고 있던 알라나도 어린 개리의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SE★현장] '인민을 위해 복무하라' 연우진X지안, 신분의 벽을 뛰어넘은 파격 29금 멜로(종합)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004018716</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004018716"/>
-        <updated>2022-02-14T10:06:22.207Z</updated>
-        <content type="html"><![CDATA[[서울경제] 한 때 금서로 지정될 만큼 파격적인 이야기가 스크린에 펼쳐진다. 영화 '인민을 위해 복무하라'는 1970년대 가상의 사회주의 국가를 배경으로 모범병사와 사단장의 젊은 아내 사이 아슬아슬한 멜로를 통해 관]]></content>
     </entry>
 </feed>
