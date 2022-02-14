@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 23:05:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 00:22:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나인우 '1박2일' 합류 “형들의 마음을 사로잡겠습니다”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=191887</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=191887</guid>
+            <pubDate>Mon, 14 Feb 2022 00:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191887">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220214083717_52487c90ebc58b2c46b21e8a5e310bd8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191887">나인우 '1박2일' 합류 “형들의 마음을 사로잡겠습니다”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220214083717_52487c90ebc58b2c46b21e8a5e310bd8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김재욱-정수정, '크레이지 러브'  “미치게 재밌는 로맨스”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=191840</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8F%85%EB%A6%BD%EC%98%81%ED%99%94%EA%B4%80">독립영화관</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220211182308_fe1ed93a5690c9a874b1cdca70c7d18d.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[나인우, 납치된 차 안에서 세상 모르고 꿀잠...그에게 무슨 일이?]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=191693</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=191693</guid>
-            <pubDate>Fri, 11 Feb 2022 09:03:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191693">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220211172228_62a76360f3ad7492832533848bfc4671.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191693">나인우, 납치된 차 안에서 세상 모르고 꿀잠...그에게 무슨 일이?</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220211172228_62a76360f3ad7492832533848bfc4671.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

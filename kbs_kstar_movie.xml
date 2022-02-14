@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 23:05:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 00:22:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이상한 나라의 수학자 "답을 찾아라!"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=191866</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=191866</guid>
+            <pubDate>Mon, 14 Feb 2022 00:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191866">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220214080344_8e348b30c97836b1c647fef1e4aecf3e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191866">이상한 나라의 수학자 "답을 찾아라!"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220214080344_8e348b30c97836b1c647fef1e4aecf3e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이준영, ‘모럴센스’에서 댕댕미 과시]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=191784</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191372">"부탄 최초!" 힐링 무비 '교실 안의 야크' 아카데미 국제장편영화상 후보 진출</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220210073907_65dc199e10c5ad0859872767a3480abc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최민식, 탈북천재수학자 변신   <이상한 나라의 수학자> 3월 개봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=191366</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=191366</guid>
-            <pubDate>Thu, 10 Feb 2022 00:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191366">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220209173154_72a985e480dcb4d8ce5ef9d5e80e52ce.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191366">최민식, 탈북천재수학자 변신   &lt;이상한 나라의 수학자&gt; 3월 개봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220209173154_72a985e480dcb4d8ce5ef9d5e80e52ce.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
