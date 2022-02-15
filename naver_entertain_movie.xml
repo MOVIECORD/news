@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-15T11:06:35.273Z</updated>
+    <updated>2022-02-15T12:10:55.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시크릿 카운터, 17일 개봉 확정하고 메인 포스터 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000793360</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000793360"/>
+        <updated>2022-02-15T12:09:30.650Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 빚 독촉에 시달리던 남자가 우연한 제안을 받고, 일을 하지 않아도 의식주를 보장해 주는 기이한 마을에 가게 되며 벌어지는 일을 그린 ‘시크릿 카운터’가 17일 개봉을 확정하고 메인 포스터를 공개했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노홍철, 단편 제작 돕는다…티빙 '전체관람가' 합류]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0005044995</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002342483"/>
         <updated>2022-02-15T09:08:03.148Z</updated>
         <content type="html"><![CDATA[[현장] 영화 &lt;이상한 나라의 수학자&gt; 온라인 제작보고회 수학을 주제로 한 따뜻한 영화가 스크린을 찾는다. 오는 3월 9일 개봉하는 최민식·김동휘 주연의 영화 &lt;이상한 나라의 수학자&gt;가 바로 그것이다. 15일 오전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['언차티드' 톰 홀랜드의 보물찾기, 리얼 액션이 살렸다[MK무비]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004922215</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004922215"/>
-        <updated>2022-02-15T09:08:03.149Z</updated>
-        <content type="html"><![CDATA[마블 영화 ‘스파이더맨’ 시리즈의 주인공 톰 홀랜드가 ‘인디아나 존스’가 되어 돌아왔다. 영화 ‘언차티드’(감독 Uncharted)는 세상을 바꿀 미지의 트레저를 제일 먼저 찾아야 하는 미션을 받은 네이선(톰 홀랜드]]></content>
     </entry>
 </feed>
