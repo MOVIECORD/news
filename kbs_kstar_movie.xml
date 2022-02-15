@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 20:06:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 21:05:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장] 장철수 감독 격정멜로 ‘인민을 위해 복무하라’ (시사회)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=192174</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=192174</guid>
+            <pubDate>Tue, 15 Feb 2022 21:02:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=192174">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220215172717_be6d6e81f97e378480c7f8773264fdab.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192174">[현장] 장철수 감독 격정멜로 ‘인민을 위해 복무하라’ (시사회)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220215172717_be6d6e81f97e378480c7f8773264fdab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장] “이데올로기도, 수학도 따뜻한 영화” 최민식의 '이상한 나라의 수학자‘ (제작발표회)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=192118</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191616">에이핑크, 스페셜 무비 ‘HORN’ CGV 단독상영</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220211110045_9e267da502cae31daeb5bca344b5eecd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왓차 캠퍼스 로맨스, '시맨틱 에러' 박서함X박재찬]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=191598</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=191598</guid>
-            <pubDate>Fri, 11 Feb 2022 17:02:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191598">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220211103831_d22ee21ca6f41d5fbcd54474634f262f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191598">왓차 캠퍼스 로맨스, '시맨틱 에러' 박서함X박재찬</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220211103831_d22ee21ca6f41d5fbcd54474634f262f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
