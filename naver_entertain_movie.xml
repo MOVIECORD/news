@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-15T13:13:52.091Z</updated>
+    <updated>2022-02-15T14:07:12.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[재난 블록버스터 '문폴', 스펙터클한 메인 예고편 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001207340</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001207340"/>
+        <updated>2022-02-15T14:06:29.120Z</updated>
+        <content type="html"><![CDATA[3월 16일 국내 개봉을 확정 짓고 2022년 첫 번째 재난 블록버스터로 기대를 모으고 있는 영화 ‘문폴’이 압도적 스케일의 메인 예고편을 최초 공개했다. 영화 ‘문폴’은 달이 궤도를 벗어나 지구로 떨어지는 사상 초]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시크릿 카운터, 17일 개봉 확정하고 메인 포스터 공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000793360</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003577264"/>
         <updated>2022-02-15T09:08:03.141Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 크리스틴 스튜어트가 동성 연인 딜런 마이어와 독특한 밸런타인데이 데이트를 즐겼다. 딜런 마이어는 14일(현지시간) 인스타그램에 “나는 언제나 너와 함께 죽은 체 할 거야.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['민식 앓이'로 뭉친 배우들... 수학으로 어떤 이야기 펼칠까]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002342483</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002342483"/>
-        <updated>2022-02-15T09:08:03.148Z</updated>
-        <content type="html"><![CDATA[[현장] 영화 &lt;이상한 나라의 수학자&gt; 온라인 제작보고회 수학을 주제로 한 따뜻한 영화가 스크린을 찾는다. 오는 3월 9일 개봉하는 최민식·김동휘 주연의 영화 &lt;이상한 나라의 수학자&gt;가 바로 그것이다. 15일 오전]]></content>
     </entry>
 </feed>
