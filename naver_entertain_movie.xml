@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-16T17:09:58.223Z</updated>
+    <updated>2022-02-16T18:07:35.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[M.I.+인디아나 존스의 쾌감… ‘할리우드’가 돌아왔다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=023&amp;aid=0003673286</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=023&amp;aid=0003673286"/>
+        <updated>2022-02-16T18:06:55.361Z</updated>
+        <content type="html"><![CDATA[어제 개봉한 액션 대작 ‘언차티드’ 1800개 스크린 압도적 1위… ‘스파이더맨’ 톰 홀랜드 주연 비행기 화물칸 추락 장면이 압권, ‘창의적 한 방’ 없는 것은 아쉬워 배우 톰 홀랜드부터 보인다. 코로나 시대 한국에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[천우희, ‘부스럭’ 출연확정…감독 조현철과 연기 호흡 예고(공식)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001643005</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004019659"/>
         <updated>2022-02-16T10:06:34.944Z</updated>
         <content type="html"><![CDATA[[서울경제] 영화 '소피의 세계'가 따스한 힐링을 전한다. 일상적이고 소소한 이야기들과 함께 북촌 한옥마을 곳곳 아름다운 가을 풍경들이 따뜻함을 더해준다. "사소한 것들도 사진으로 정리하고 글로 써 놓으면 특별해진다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현장] 디즈니+의 첫 K-장르물 '그리드' (제작발표회)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000043916</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000043916"/>
-        <updated>2022-02-16T09:05:39.175Z</updated>
-        <content type="html"><![CDATA[디즈니+가 '너와 나의 경찰수업'에 이어 또 한편의 오리지널 시리즈를 시작한다. 오늘(16일) 오전, 디즈니+ 오리지널 시리즈 '그리드'(극본 이수연, 연출 리건·박철환)의 제작발표회가 열렸다. 이 자리에는 리건 감]]></content>
     </entry>
 </feed>

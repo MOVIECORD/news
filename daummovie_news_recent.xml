@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-02-16T17:09:58.230Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Feb 2022 18:07:35 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[M.I.+인디아나 존스의 쾌감.. '할리우드'가 돌아왔다]]></title>
+            <link>https://v.daum.net/v/20220217030336564</link>
+            <guid>https://v.daum.net/v/20220217030336564</guid>
+            <pubDate>Wed, 16 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 톰 홀랜드부터 보인다. 코로나 시대 한국에서 가장 흥행한 영화 ‘스파이더맨: 노 웨이 홈’(관객 750만명)의 주인공. 이번엔 거미 인간이 아니다. ‘미션 임파서블’의 톰 크루즈도 아닌데 수송기에서 쏟아져 나온 화물에 그가 아슬아슬하게 매달려 있다. 16일 개봉한 ‘언차티드(Uncharted)’는 가볍게 즐길 수 있는 할리우드 액션 블록버스터다. 제목]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F17%2Fchosun%2F20220217030337706efik.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
