@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 04:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 05:06:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한해 "혜리, 태연보다 송은이가 이상형"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=192552</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=192552</guid>
+            <pubDate>Thu, 17 Feb 2022 05:04:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=192552">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220217133714_6cccabda4a41277aee31abb820f85dcc.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192552">한해 "혜리, 태연보다 송은이가 이상형"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220217133714_6cccabda4a41277aee31abb820f85dcc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['개승자' 드디어 파이널 라운드 2차전! 개그맨들의 활약!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=192505</link>
@@ -346,24 +363,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220214101226_9001b2c38dea6e253fc5dca1bdc98fcb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['개승자' 대기실 찾은 의문의 정체!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=191905</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=191905</guid>
-            <pubDate>Mon, 14 Feb 2022 02:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=191905">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220214092204_4b90355b64af83b7b3b5401a80eea6b5.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=191905">'개승자' 대기실 찾은 의문의 정체!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EC%8A%B9%EC%9E%90">개승자</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220214092204_4b90355b64af83b7b3b5401a80eea6b5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
