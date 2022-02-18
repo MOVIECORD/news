@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-18T12:12:57.413Z</updated>
+    <updated>2022-02-18T13:14:03.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국예술기획자협회 오는 19일 출범]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000794176</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000794176"/>
+        <updated>2022-02-18T13:13:10.959Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 국내 예술기획자 및 예술감독 권익을 대변하는 한국예술기획자협회(KADA)가 오는 19일 출범한다. 협회는 미술, 음악, 무용, 영상, 영화, 미디어아트 등에 대한 비평 활동과 전시, 공연, 출판, 공공]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크리스틴 스튜어트 '스펜서' 3월16일 개봉..아름다운 메인포스터]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003532685</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000021441"/>
         <updated>2022-02-18T08:08:48.642Z</updated>
         <content type="html"><![CDATA[Actors Esom, Ong Seong-wu and Shim Eun-kyung will star as leads in upcoming romance movie “Starlight is Falling” (transl]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 배트맨' 로버트 패틴슨, "봉준호 감독과 작업 기대돼"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000133496</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000133496"/>
-        <updated>2022-02-18T08:08:48.644Z</updated>
-        <content type="html"><![CDATA["완벽한 통제에 도달하지 못한 배트맨 연기 주력…한국 가지 못해 아쉬워" 영화 '더 배트맨'으로 돌아온 할리우드 배우 로버트 패틴슨이 봉준호 감독의 신작 출연에 대한 기대감을 드러냈다. 로버트 패틴슨은 18일 서울]]></content>
     </entry>
 </feed>
