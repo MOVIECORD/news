@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-19T11:06:33.836Z</updated>
+    <updated>2022-02-19T12:11:46.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연우진 "깜깜한 극장에서 은밀하지만 솔직한 감정 느껴보시길" [인터뷰M]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000146533</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000146533"/>
+        <updated>2022-02-19T12:10:50.834Z</updated>
+        <content type="html"><![CDATA[‘금기된 사랑과 위험한 유혹’이라는 강렬한 소재와 청소년관람불가의 파격적인 장면으로 2022년 한국영화계의 새로운 시도를 알린 영화 '인민을 위해 복무하라'(장철수 감독)에서 위험한 유혹에 흔들리는 '신무광'을 연기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“내 아들은 괴물이다, 버려야겠다”...아빠는 갓 태어난 자식을 내던졌다 [씨네프레소]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004924164</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0012998691"/>
         <updated>2022-02-19T01:55:13.422Z</updated>
         <content type="html"><![CDATA[자전적 영화 '우리가 사랑이라고 믿는 것'…"내 이야기여서 직접 연출" '글래디에이터'·'레미제라블' 각본가 출신…"빌 나이·아네트 베닝 연기 마법 같아" (서울=연합뉴스) 오보람 기자 = "부모가 이혼하면 아이는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인민을 위해' 연우진X지안, 금기 넘어선 사랑과 파국..2차 예고편 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003029652</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003029652"/>
-        <updated>2022-02-19T01:55:13.423Z</updated>
-        <content type="html"><![CDATA['인민을 위해 복무하라'가 숨 쉴 틈 없이 휘몰아치는 격정적 서사를 담은 2차 예고편을 공개했다. 최근 '인민을 위해 복무하라'가 금지된 사랑을 배경으로 예측불허한 전개를 암시하는 2차 예고편을 전격 공개했다. 영화]]></content>
     </entry>
 </feed>
