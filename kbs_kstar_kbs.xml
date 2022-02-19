@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 22:06:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 23:06:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나인우 '1박 2일' 급속 동화]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=193015</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=193015</guid>
+            <pubDate>Sat, 19 Feb 2022 23:04:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=193015">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220219090856_ba772b765568c4fcb454aa5c12555131.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193015">나인우 '1박 2일' 급속 동화</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220219090856_ba772b765568c4fcb454aa5c12555131.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[개승자] 대새of대세 개승자에 아이키가 왔다! 무명시절부터 이은 아이키와 승윤의 인연]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=193084</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9C%A0%ED%9D%AC%EC%97%B4%EC%9D%98%20%EC%8A%A4%EC%BC%80%EC%B9%98%EB%B6%81">유희열의 스케치북</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220219045727_2dd98b8b3c59433f21a9bada452aaf41.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[신상출시 편스토랑] 요리와 육아 완벽하게 모두 해내는 삼형제 아빠 정상훈]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=192913</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=192913</guid>
-            <pubDate>Fri, 18 Feb 2022 15:04:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=192913">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220218235833_8f93d8dee494b16cec10f83e66d46f47_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192913">[신상출시 편스토랑] 요리와 육아 완벽하게 모두 해내는 삼형제 아빠 정상훈</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%20%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상 출시 편스토랑</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220218235833_8f93d8dee494b16cec10f83e66d46f47_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
