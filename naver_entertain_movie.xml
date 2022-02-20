@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-20T05:05:51.061Z</updated>
+    <updated>2022-02-20T06:08:58.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[실종 美 배우 린지 펄먼, 시신으로 발견…사인 조사 중]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003611534</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003611534"/>
+        <updated>2022-02-20T06:08:07.745Z</updated>
+        <content type="html"><![CDATA[미국 인기 TV시리즈 '제너럴 호스피털' '시카고 저스티스' 등에 출연했던 배우 린지 펄먼이 숨진 채 발견됐다. 19일(현지 시간) 외신들에 따르면 LA경찰은 린지 펄먼(43)의 시신이 18일 오전 8시 30분쯤 할]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[예지원 "영화 '보드랍게' 보고 엉엉 울어…아프지만 힘나는 영화"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004020815</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004560851"/>
         <updated>2022-02-19T23:05:32.504Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 배우 강형석이 한국·싱가포르 합작 영화 ‘아줌마’에 출연을 확정지었다. 영화 '아줌마'(감독 슈밍 히 크리스 옹, 제작 제이웍스미디어 이준한)는 한국과 싱가포르를 배경으로 오가며 각자 가족의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['언차티드', '극장판 주술회전0' 제치고 다시 1위 유지…26만 동원]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004560849</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004560849"/>
-        <updated>2022-02-19T23:05:32.504Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 ‘언차티드’가 박스오피스 1위를 차지했다. 20일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날(19일) ‘언차티드’는 10만 5325명이 관람해 일별 박스오피스 1위에 올랐다]]></content>
     </entry>
 </feed>
