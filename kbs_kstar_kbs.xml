@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 23:06:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 00:29:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘모던허재’, 우리가 몰랐던 농구대통령 허재의 재발견]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=193089</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=193089</guid>
+            <pubDate>Sun, 20 Feb 2022 00:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=193089">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220220085012_c7869fcca634c3b2bd024cb74e09526a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193089">‘모던허재’, 우리가 몰랐던 농구대통령 허재의 재발견</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AA%A8%EB%8D%98%20%ED%97%88%EC%9E%AC">모던 허재</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220220085012_c7869fcca634c3b2bd024cb74e09526a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나인우 '1박 2일' 급속 동화]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=193015</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9C%A0%ED%9D%AC%EC%97%B4%EC%9D%98%20%EC%8A%A4%EC%BC%80%EC%B9%98%EB%B6%81">유희열의 스케치북</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220219050336_c2d49b3acb9e5e8722d7a0009cc895c0_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[유희열의 스케치북] ‘고음 끝판왕’ 바이브&소향의 고음 대폭발 무대 ♬ 사랑하는 척]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=192917</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=192917</guid>
-            <pubDate>Fri, 18 Feb 2022 20:04:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=192917">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220219045727_2dd98b8b3c59433f21a9bada452aaf41.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=192917">[유희열의 스케치북] ‘고음 끝판왕’ 바이브&amp;소향의 고음 대폭발 무대 ♬ 사랑하는 척</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9C%A0%ED%9D%AC%EC%97%B4%EC%9D%98%20%EC%8A%A4%EC%BC%80%EC%B9%98%EB%B6%81">유희열의 스케치북</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220219045727_2dd98b8b3c59433f21a9bada452aaf41.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
