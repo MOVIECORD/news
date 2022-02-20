@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-02-20T19:06:02.056Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 20 Feb 2022 20:06:58 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[욕망은 영혼을 잠식한다.. 델 토로 신작 '나이트메어 앨리']]></title>
+            <link>https://v.daum.net/v/20220221043128027</link>
+            <guid>https://v.daum.net/v/20220221043128027</guid>
+            <pubDate>Sun, 20 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[면면이 화려하다. 감독은 기예르모 델 토로다. 2018년 ‘셰이프 오브 워터: 사랑의 모양’(2017)으로 오스카 작품상과 감독상을 거머쥔 명장이다. 브래들리 쿠퍼와 케이트 블란쳇, 루니 마라, 토니 콜렛, 론 펄먼, 윌럼 더포 등이 출연했다. 혼자만으로도 스크린을 환하게 할 별들이다. 23일 개봉하는 할리우드 영화 ‘나이트메어 앨리’는 인적 조합만으로도]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F21%2Fhankooki%2F20220221043130626xvzg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>

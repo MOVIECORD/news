@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-20T19:06:02.073Z</updated>
+    <updated>2022-02-20T20:06:58.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[욕망은 영혼을 잠식한다… 델 토로 신작 ‘나이트메어 앨리’]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000659343</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000659343"/>
+        <updated>2022-02-20T20:06:13.630Z</updated>
+        <content type="html"><![CDATA[면면이 화려하다. 감독은 기예르모 델 토로다. 2018년 ‘셰이프 오브 워터: 사랑의 모양’(2017)으로 오스카 작품상과 감독상을 거머쥔 명장이다. 브래들리 쿠퍼와 케이트 블란쳇, 루니 마라, 토니 콜렛, 론 펄먼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[실화 바탕 첩보 전쟁 블록버스터 '작전명 민스미트' 5월 개봉]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003611637</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003029805"/>
         <updated>2022-02-20T01:59:42.927Z</updated>
         <content type="html"><![CDATA[배우 지안이 영화 '인민을 위해 복무하라'에서 파격 변신을 예고하며 관객의 관심을 받고 있다. 의 주연 배우 지안이 노출연기가 부담 됐지만 후회는 없다고 말했다. 인민을 위해 복무하라'(감독 장철수) 는 출세를 꿈꾸]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민이 바라는 '대한민국 대통령'은[스크린PICK]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005150265</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005150265"/>
-        <updated>2022-02-20T00:27:33.824Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 박미애 기자] 개봉 영화를 소개합니다. ◇대한민국 대통령 대통령의, 대통령에 의한, 대통령을 위한 지난 대한민국. 2022년 3월 9일, 제20대 대통령 선거가 다시 시작된다. 2022년 3월 9]]></content>
     </entry>
 </feed>
