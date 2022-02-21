@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 23:07:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 00:26:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['크레이지 러브' 정수정, 슈퍼을 비서의 복수]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=193010</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=193010</guid>
+            <pubDate>Mon, 21 Feb 2022 00:24:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=193010">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220219090348_6cf3e183a44edd1dda392a57369190bf.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193010">'크레이지 러브' 정수정, 슈퍼을 비서의 복수</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%81%AC%EB%A0%88%EC%9D%B4%EC%A7%80%20%EB%9F%AC%EB%B8%8C">월화드라마 크레이지 러브</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220219090348_6cf3e183a44edd1dda392a57369190bf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[슈퍼맨이 돌아왔다] 사유리네... 15개월 젠 인생 첫 단독 눈썰매에 도전]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=193181</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EC%8A%B9%EC%9E%90">개승자</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220220004328_472fc5f99753bf2a4829c0d11d3144c1_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[개승자] 이승윤팀 ‘신비한 알고리즘의 세계’...특급 게스트 아이키 등장!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=193080</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=193080</guid>
-            <pubDate>Sat, 19 Feb 2022 16:07:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=193080">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220220003552_b985665f6c9b2620e131d90d53c94a0e_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193080">[개승자] 이승윤팀 ‘신비한 알고리즘의 세계’...특급 게스트 아이키 등장!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EC%8A%B9%EC%9E%90">개승자</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220220003552_b985665f6c9b2620e131d90d53c94a0e_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
