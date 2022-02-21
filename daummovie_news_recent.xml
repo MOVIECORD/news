@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-02-21T19:05:57.988Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 21 Feb 2022 20:06:55 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["'미나리'처럼 오스카 효과 보자".. 후보작들 초봄 극장가 점령]]></title>
+            <link>https://v.daum.net/v/20220222043109065</link>
+            <guid>https://v.daum.net/v/20220222043109065</guid>
+            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 상반기 극장가 최고 화제작은 ‘미나리’였다. 신종 코로나바이러스 감염증(코로나19) 확산으로 관객이 급감한 상황에서 113만 명을 모았다. 코로나19 발생 이전에도 ‘미나리’ 같은 독립ㆍ예술영화가 100만 관객을 넘기는 것은 힘든 일이었다. ‘미나리’ 흥행 원동력은 배우 윤여정이었다. 이 영화로 지난해 미국 아카데미영화상 여우조연상 유력 후보로 거론]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F22%2Fhankooki%2F20220222043112153cdyk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[베스트셀러 작가의 영화 데뷔작 "재밌다, 또 하고 싶다"]]></title>
+            <link>https://v.daum.net/v/20220222040714986</link>
+            <guid>https://v.daum.net/v/20220222040714986</guid>
+            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“작가가 보내온 소설 초고를 하룻저녁에 다 읽고 마지막 장을 덮는 순간 ‘다른 사람을 주면 후회할 것 같다’는 생각이 들었어요.” 소설 ‘고래’ ‘고령화 가족’ 등을 쓴 베스트셀러 작가 천명관은 21일 감독 데뷔작 ‘뜨거운 피’를 연출한 계기를 이같이 밝혔다. 영화는 김언수 작가의 동명 원작 소설을 영화화한 느와르 작품이다. 이날 제작발표회에서 천 감독은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F22%2Fkukminilbo%2F20220222040716270fnmk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
