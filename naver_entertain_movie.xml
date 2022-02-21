@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-21T15:10:13.206Z</updated>
+    <updated>2022-02-21T16:07:19.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오스카 트로피 차지할 작품은… CGV '2022 아카데미 기획전']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003669299</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003669299"/>
+        <updated>2022-02-21T16:06:29.656Z</updated>
+        <content type="html"><![CDATA[다음 달 27일 열리는 제94회 미국 아카데미 시상식을 앞두고 주요 후보작을 상영하는 기획전이 열린다. CGV는 아카데미 시상식 후보작 17편을 상영하는 ‘2022 아카데미 기획전’을 오는23일부터 다음 달 30일까]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['뜨거운 피' 정우 "지승현과 4번째…내가 꽂아준 줄 알아"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000133904</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005921062"/>
         <updated>2022-02-21T08:09:15.386Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 루벤 플레셔 감독이 '언차티드'만의 액션부터 톰 홀랜드와 함께 호흡한 소감을 전했다. 특히 플레셔 감독은 정정훈 촬영감독과의 인연을 밝히며, 한국에 방문하고 싶다고도 전했다. '언차티]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘뜨거운 피’, 날 것의 인간들 이야기[스경X현장]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000794588</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000794588"/>
-        <updated>2022-02-21T08:09:15.388Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 영화 ‘뜨거운 피’는 날생선처럼 파닥파닥거리며 사는 사람들의 이야기다. 느와르 영화를 표방했지만, 검은 양복을 입은 깡패와는 거리가 멀다. 극의 배경은 1993년 부산 변두리 작은 포구 구암. 먹을 것]]></content>
     </entry>
 </feed>
