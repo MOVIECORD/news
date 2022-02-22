@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-22T19:06:10.594Z</updated>
+    <updated>2022-02-22T20:06:53.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화려한 영상미·치밀한 스토리… 어른들을 위한 잔혹동화]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001507284</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001507284"/>
+        <updated>2022-02-22T20:06:07.023Z</updated>
+        <content type="html"><![CDATA[“이건 내가 아냐.” 야수 같은 모습으로 철창에 갇혀 사람들의 구경거리가 된 기인(奇人)이 공포와 분노에 가득 찬 눈빛으로 혼잣말을 한다. 무일푼으로 떠돌아다니다 서커스에 오게 된 스탠턴(브래들리 쿠퍼)은 홀린 듯]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소년심판' 김혜수 "소년범죄에 대해 고민하는 계기 됐으면"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000134144</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011020693"/>
         <updated>2022-02-22T09:04:59.248Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스]유다연 인턴 기자 = 애플 팀 쿡 CEO가 한국의 멋을 알아차렸다. 22일 팀 쿡은 소셜미디어에 "박찬욱의 새로운 작품은 장르를 활용하고 촬영술에 통달한 모습을 보이는 동시에 한국 문화의 아름다움과 힘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팝업★]'소년심판' 김혜수, 이정은과 불꽃 튀는 재회 "폭발 직전의 활화산"(종합)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003533900</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003533900"/>
-        <updated>2022-02-22T09:04:59.249Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] 배우 김혜수가 '소년심판'에서의 이정은과의 케미를 자신했다. 지난 2020년 11월 개봉한 영화 '내가 죽던 날'을 통해 인연을 맺은 바 있는 김혜수, 이정은은 넷플릭스 시리즈 '소년심판]]></content>
     </entry>
 </feed>
