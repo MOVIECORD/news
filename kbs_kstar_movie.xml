@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 17:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 18:07:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서강준, 유령추적자 '그리드' 관리국 김새하]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=194022</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=194022</guid>
+            <pubDate>Thu, 24 Feb 2022 18:04:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=194022">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220224175700_839a43db84710a00c225b5f1400bfb8b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=194022">서강준, 유령추적자 '그리드' 관리국 김새하</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220224175700_839a43db84710a00c225b5f1400bfb8b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[감히 리암 니슨을 건드리다니...통쾌한 액션 담긴 '블랙라이트']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=194007</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193646">강다니엘-채수빈, '너와 나의 심쿵장면'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220223074757_a55d8a334797509cbaf7198c28e5fe5c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SNS 동영상 하나로 인생이 망가진다면? 실화 바탕 '존 덴버 죽이기']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=193570</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=193570</guid>
-            <pubDate>Tue, 22 Feb 2022 09:03:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=193570">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220222154634_00990340ce40f2570b7431b9a86c3d09.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193570">SNS 동영상 하나로 인생이 망가진다면? 실화 바탕 '존 덴버 죽이기'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220222154634_00990340ce40f2570b7431b9a86c3d09.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
