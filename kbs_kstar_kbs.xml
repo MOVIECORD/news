@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 08:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 09:06:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[독립영화관] 인디애니 씨앗전 '7편의 한국독립애니메이션']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=194264</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=194264</guid>
+            <pubDate>Fri, 25 Feb 2022 09:05:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=194264">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220225172745_03ba429037e4072ed3ca1cc698bad7e6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=194264">[독립영화관] 인디애니 씨앗전 '7편의 한국독립애니메이션'</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8F%85%EB%A6%BD%EC%98%81%ED%99%94%EA%B4%80">독립영화관</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220225172745_03ba429037e4072ed3ca1cc698bad7e6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑꾼 류수영, 박하선 위한 특별 호빵 레시피 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=194228</link>
@@ -347,23 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B5%AD%EB%AF%BC%EB%8F%99%EC%9A%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%95%84%EA%B8%B0%EC%8B%B1%EC%96%B4">국민동요 프로젝트 아기싱어</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220224090627_a119082b083b066e758000013779e698_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송민호부터 아이키까지...대세 스타 출연한 '개승자']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=193885</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=193885</guid>
-            <pubDate>Thu, 24 Feb 2022 00:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=193885">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220224084309_26de633c25dae8dcf33dcb096316573c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193885">송민호부터 아이키까지...대세 스타 출연한 '개승자'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220224084309_26de633c25dae8dcf33dcb096316573c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
