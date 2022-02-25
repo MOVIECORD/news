@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-02-25T11:05:58.375Z</updated>
+    <updated>2022-02-25T12:14:14.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이정재, 프랑스도 잡았다..'다만 악' 2월 파리 상영]]></title>
+        <id>https://entertain.v.daum.net/v/20220225202752044</id>
+        <link href="https://entertain.v.daum.net/v/20220225202752044"/>
+        <updated>2022-02-25T12:14:13.503Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 한해선 기자] /사진=publicis cinema SNS 배우 이정재의 글로벌 행보가 계속되고 있다. 파리한국영화제 측은 오는 27일(현지시각) 프랑스 파리의 퓌블리시스 시네마(PublicisCinemas)에서 한국 영화 '다만 악에서 구하소서'가 상영될 예정이라고 밝혔다. '다만 악에서 구하소서'는 지난해 제15회 파리한국영화제에서 상영돼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더 호텔' 이상우X신혜정X명세빈 캐스팅 확정..4월 크랭크인]]></title>
         <id>https://entertain.v.daum.net/v/20220225194100352</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220225152957157"/>
         <updated>2022-02-25T07:06:09.786Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조지영 기자] 미스터리 스릴러 영화 '더 호텔'(김정민 감독, 스튜디오 온새미로 제작)이 배우 이상우, 신혜정, 명세빈 그리고 권혁, 이도연, 유다미 등 캐스팅을 확정 짓고, 완벽한 팀플레이를 예고하는 리딩 현장을 전격 공개했다. 이상우, 신혜정, 명세빈 그리고 권혁, 이도연, 유다미 등 개성 넘치는 매력을 지닌 배우들의 캐스팅]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이상한 나라의 수학자' 김동휘 "상대가 최민식 선배님이라니.."]]></title>
-        <id>https://entertain.v.daum.net/v/20220225151825818</id>
-        <link href="https://entertain.v.daum.net/v/20220225151825818"/>
-        <updated>2022-02-25T07:06:09.786Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 한미희 기자 = "평생 연기하면서 이런 작품을 만날 수 있을까 싶어요. 아직 어린 나이에 주인공을 맡은 첫 작품인데 상대 역할이 최민식 선배님이었으니 여러모로 뜻깊은 작품입니다." 다음 달 9일 개봉하는 영화 '이상한 나라의 수학자'에서 탈북한 천재 수학자 이학성(최민식 분)에게 수학을 배우며 우정을 나누는 고등학생 한지우를 연기한 배우]]></content>
     </entry>
 </feed>
