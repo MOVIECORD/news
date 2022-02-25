@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-25T20:07:30.401Z</updated>
+    <updated>2022-02-25T21:05:42.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아카데미 한 달 전, 수혜작 있을까 [N초점]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005932380</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005932380"/>
+        <updated>2022-02-25T21:04:48.886Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 제94회 미국 아카데미 시상식 개최일이 한 달 앞으로 다가왔다. 칸 영화제 경쟁부문 수상과 더불어 아카데미 수상은 전세계 영화 및 영화인들이 얻을 수 있는 최고의 영예로 여겨진다. 우]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[우크라 침공] 美 스타들, 러시아 규탄…"나치는 지금도 존재"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013014291</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0005050413"/>
         <updated>2022-02-25T09:05:24.199Z</updated>
         <content type="html"><![CDATA["대선배 최민식과 언제 또 호흡을 맞출까 싶었죠. 촬영 초반에는 얼어있었어요. 긴장했는지 모를 만큼 긴장했죠. 하루는 선배가 촬영 없는 날 혼자 차를 몰고 전주에 오셔서 모니터링을 해주셨어요. 시시콜콜한 사적인 이야]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[70∼80년대 활동 영화감독 변장호 폐암으로 별세(종합)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013013873</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013013873"/>
-        <updated>2022-02-25T09:05:24.199Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 한미희 기자 = 1970∼1980년대 영화계에서 활동한 변장호 감독이 별세했다. 향년 83세. 25일 유가족에 따르면 변 감독은 지난 1년 동안 폐암으로 투병하다 이날 오후 병원에서 숨을 거뒀다.]]></content>
     </entry>
 </feed>
