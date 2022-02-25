@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 06:09:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 07:06:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220222090358_110cd3bb62436d250f5c646798b5b36d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사랑꾼 류수영, 박하선 위한 특별 호빵 레시피 공개 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=194228</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=194228</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=194228">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220225155211_dcba65c3cfb32380adc4c00258c0b559.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=194228">사랑꾼 류수영, 박하선 위한 특별 호빵 레시피 공개</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%20%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상 출시 편스토랑</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220225155211_dcba65c3cfb32380adc4c00258c0b559.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['1박 2일' 합류한 나인우...열악한 취침 공간에 경악 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=194192</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=194192</guid>
@@ -1028,24 +1046,6 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220224084309_26de633c25dae8dcf33dcb096316573c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['태종 이방원' 버림받은 왕자, 왕좌를 향한 발걸음 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=193873</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=193873</guid>
-            <pubDate>Thu, 24 Feb 2022 00:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=193873">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220224081027_5b9d400266ac823da8669cb318a4c6ee.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193873">'태종 이방원' 버림받은 왕자, 왕좌를 향한 발걸음</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8C%80%ED%95%98%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%83%9C%EC%A2%85%20%EC%9D%B4%EB%B0%A9%EC%9B%90">대하드라마 태종 이방원</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220224081027_5b9d400266ac823da8669cb318a4c6ee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[KCM "자전적 영화 '리프레쉬', 첫 주연작 연기 힘들었다" [인터뷰M] (MBC 연예 ─ 영화)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/338074</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/338074</guid>
@@ -1108,6 +1108,111 @@
             <pubDate>Sun, 30 Jan 2022 00:21:58 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/336142" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/01/18/73807fc0-fb79-4f13-9e61-95a4cddcdef7.jpg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">'킹메이커' 설경구 "이 <font color="red">영화</font>의 포인트는 빛과 그림자" [인터뷰M]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/01/18/73807fc0-fb79-4f13-9e61-95a4cddcdef7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TV영화 ‘대통령 정약용’, 호평 속 상영회 성료 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001645031</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001645031</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:26 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김승우의 캐스팅으로 관심을 한몸에 받고 있는 ‘대통령 정약용’이 호평 속에서 상영회를 성황리에 마쳤다. TV영화 ‘대통령 정약용’ 측은 2월 25일(오늘) 오전 10시 CGV 청담 씨네시티에서 상영회를 진행했다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['팔마' 러시아 박스오피스 1위…주인공 싱크로율 100% '따뜻한 감동 실화' (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001414376</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001414376</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:26 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '팔마'(감독 알렉산드리아 도모가로프에)가 자국 박스오피스 2주 연속 1위를 기록한 화제작으로 알려져 이목을 집중시키는 가운데, 영화의 모티브가 된 기적 같은 실화가 관심을 더한다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[독거 청년으로 변신한 백지혜...'시나브로' 속 우울한 모습 포착 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000044221</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000044221</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:26 GMT</pubDate>
+            <content:encoded><![CDATA[배우 백지혜가 영화 ‘시나브로’의 주연을 맡았다. 영화 ‘시나브로’는 외로움을 외면하기 위해 스스로를 고립시키며 살아가는 청년들에게 ‘타인 없는 혼자의 삶이 정말 괜찮은가’에 대한 질문을 던지는 영화다. 극 중 백지]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['더 배트맨' 로버트 패틴슨 "전세계 최초 韓개봉 정말 멋진 일" (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003535196</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003535196</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:26 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드POP=이미지 기자] ‘더 배트맨’의 맷 리브스 감독과 배우 로버트 패틴슨, 조이 크라비츠가 한국의 전 세계 최초 개봉에 대해 감사를 표했다. 영화 ‘더 배트맨’은 자비 없는 배트맨과 그를 뒤흔드는 수수께끼]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["정답보다 중요한 건 과정"…'이상한 나라의 수학자' 최민식X김동휘가 증명한 인생 해답 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003836335</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003836335</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:26 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 휴먼 영화 '이상한 나라의 수학자'(박동훈 감독, 조이래빗 제작)가 두 사람의 특별한 호흡을 예고하는 스페셜 포스터를 공개했다. 공개된 스페셜 포스터는 수식이 가득한 낡은 칠판 앞에서 서로]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공식] 이상우→명세빈 '더 호텔'로 스크린 컴백..4월 크랭크 인 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003836327</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003836327</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:26 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 미스터리 스릴러 영화 '더 호텔'(김정민 감독, 스튜디오 온새미로 제작)이 배우 이상우, 신혜정, 명세빈 그리고 권혁, 이도연, 유다미 등 캐스팅을 확정 짓고, 완벽한 팀플레이를 예고하는]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[백지혜, 단편영화 ‘시나브로’ 주인공 파격 변신 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000795641</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000795641</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:26 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 신예 백지혜가 한국예술종합학교 영화과 졸업영화제 출품작이자 2021년 영화진흥위원회 제작지원작인 ‘시나브로’의 주연 ‘신우’ 역을 맡아 파격 변신했다. 영화 ‘시나브로’는 외로움을 외면하기 위해 스스로]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['이상한 나라의 수학자' 김동휘 "상대가 최민식 선배님이라니…" (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013013479</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013013479</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:26 GMT</pubDate>
+            <content:encoded><![CDATA[첫 주연작서 최민식과 호흡…"10대 행동 배우려 모교까지 찾아갔어요" (서울=연합뉴스) 한미희 기자 = "평생 연기하면서 이런 작품을 만날 수 있을까 싶어요. 아직 어린 나이에 주인공을 맡은 첫 작품인데 상대 역할이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[유다미, 영화 '더 호텔' 출연..이상우·명세빈 등과 호흡 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003031530</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003031530</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:26 GMT</pubDate>
+            <content:encoded><![CDATA[배우 유다미가 영화 '더 호텔'에 출연한다. 25일 소속사 티앤아이컬쳐스 측은 "배우 유다미가 영화 '더 호텔'의 '부매니저'역으로 캐스팅됐다"고 밝혔다. '더 호텔'은 각자마다의 복잡한 사연을 지닌 사람들이 더 호]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[영화진흥위원회 신임 사무국장에 서영관씨 임명 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046703</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046703</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:26 GMT</pubDate>
+            <content:encoded><![CDATA[영화진흥위원회가 서영관씨를 신임 사무국장에 선임했다. 서영관 사무국장은 영상물등급위원회 사무국장과 아시아문화기술투자 이사, 유콘텐츠 대표, 아이픽처스 이사 등을 역임하며 영화 투자와 행정 분야에서 경력을 쌓았다. 서]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[티빙, 2500억원 규모의 외부 투자 유치 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046702</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046702</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:26 GMT</pubDate>
+            <content:encoded><![CDATA[티빙이 2500억원 규모의 외부 투자를 유치했다. 공시에 따르면 티빙은 2500억원 규모의 제3자 배정 유상증자를 단행한다. 발행되는 신주 38만2513주 전량은 재무적 투자자인 제이씨지아이가 설립하는 특수목적회사(]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한국영상자료원 신임 원장에 김홍준 한국예술종합학교 영상원 명예교수 선임 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046701</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046701</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:26 GMT</pubDate>
+            <content:encoded><![CDATA[문화체육관광부는 2월24일 김홍준 한국예술종합학교 영상원 영화과 명예교수를 한국영상자료원 원장에 임명했다. 그는 서울대학교 인류학과를 졸업해 미국 템플대학교 대학원에서 영상인류학과 박사과정을 수료했고, 한국영화예술종]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[왓챠, 음악과 웹툰 서비스 추가해 종합 플랫폼으로 확장 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046700</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046700</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:26 GMT</pubDate>
+            <content:encoded><![CDATA[왓챠가 음악과 웹툰 구독 서비스를 추가한 종합 엔터테인먼트 플랫폼으로 확장된다. 지난 2월22일 서울 여의도 글래드호텔에서 미디어데이를 개최한 왓챠는 OTT 서비스의 영역을 넓힌 ‘왓챠 2.0’을 연내 출시하겠다고]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['봉테일' 봉준호 감독의 영화 속 12가지 비밀 코드…'봉준호 코드' 출간 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000532691</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000532691</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:26 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자] 봉준호 감독의 영화를 12가지 테마로 살펴보는 도서 '봉준호 코드'가 출간된다. 봉준호는 영화 '기생충'으로 한국 영화 최초로 칸국제영화제에서 황금종려상을 받았으며 아카데미시상식에서 4개 부]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[백지혜, 단편영화 '시나브로' 주인공..파격 변신 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003031528</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003031528</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:26 GMT</pubDate>
+            <content:encoded><![CDATA[신예 백지혜가 한국예술종합학교 영화과 졸업영화제 출품작이자 2021년 영화진흥위원회 제작지원작인 '시나브로'의 주연 '신우' 역을 맡아 파격 변신했다. 영화 '시나브로'는 외로움을 외면하기 위해 스스로를 고립시키며]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['불도저에 탄 소녀' 김혜윤, 팔에 용 문신까지..놀라운 파격 변신 (네이버TV연예 ─ 영화)]]></title>
@@ -1180,284 +1285,249 @@
             <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 마블 최강의 안티 히어로 영화로 알려진 '모비우스'가 오는 3월 30일 국내 개봉을 확정했다. '모비우스'는 희귀 혈액병을 앓는 생화학자 '모비우스'(자레드 레토)가 흡혈박쥐를 이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마블 안티 히어로 '모비우스' 3월30일 개봉[공식] (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004927173</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004927173</guid>
-            <pubDate>Fri, 25 Feb 2022 05:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[마블 최강 안티 히어로의 탄생을 담은 영화 '모비우스'가 오는 3월 30일 개봉한다. 영화 '모비우스'(감독 다니엘 에스피노사)는 희귀 혈액병을 앓는 생화학자 모비우스(자레드 레토)가 흡혈박쥐를 이용해 치료제를 개발]]></content:encoded>
+            <title><![CDATA[이수만 총괄 프로듀서, KAIST 전산학부 초빙 석학교수 임용 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000546278</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000546278</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:34 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 이수만 SM엔터테인먼트 총괄 프로듀서가 KAIST(총장 이광형) 전산학부 초빙 석학교수로 임명받았다. 2월 25일 SM엔터테인먼트에 따르면 이번 임용은 지난해 6월 SM엔터테인먼트와 KAIST]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[전종서, 디렉터스컷 어워즈 올해의 배우상 “♥이충현 감독 감사” (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000546180</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000546180</guid>
-            <pubDate>Fri, 25 Feb 2022 05:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 전종서가 제20회 디렉터스컷 어워즈 영화 부문 올해의 여자배우상을 수상했다. ‘디렉터스컷 어워즈’는 DGK(한국영화감독조합)에서 주최하는 영화상으로, 한국영화 감독들이 선정하고 시상하는 영화]]></content:encoded>
+            <title><![CDATA[황바울 '♥간미연'에 통큰 선물…"40개월적금 얼마?" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011027953</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011027953</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:34 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]유다연 인턴 기자 = 뮤지컬 배우 황바울이 아내 간미연을 위한 깜짝 선물을 공개했다. 25일 황바울은 인스타그램에 "용돈 50만원씩 받아서 약 40개월 동안 10만원씩 모은 적금이 만기를 달성했다!"는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[구교환, 디렉터스컷 어워즈서 배우 최초 2관왕 “‘신교환’ 되겠다” (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000546177</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000546177</guid>
-            <pubDate>Fri, 25 Feb 2022 05:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 구교환이 스크린과 브라운관을 모두 사로잡았다. 2월 24일 온라인 생중계로 진행된 ‘제 20회 디렉터스컷 어워즈’에서 구교환은 영화 ‘반도’로 영화 부문 ‘올해의 새로운 남자배우상’과 넷플릭스]]></content:encoded>
+            <title><![CDATA['사내맞선' 김세정 "여리여리한 소녀로 돌아왔어요" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013013678</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013013678</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:34 GMT</pubDate>
+            <content:encoded><![CDATA[평범한 직장인과 재벌 3세의 유쾌한 로맨스…SBS 28일 첫 방송 (서울=연합뉴스) 김정진 기자 김우진 인턴기자 = "그동안 강한 모습을 주로 보여드렸는데, 제 안에도 여리여리한 소녀가 있다는 걸 알아주셨으면 좋겠어]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[영화감독들이 뽑은 올해의 감독은 이준익·황동혁 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013013062</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013013062</guid>
-            <pubDate>Fri, 25 Feb 2022 04:06:46 GMT</pubDate>
-            <content:encoded><![CDATA[구교환, 영화·시리즈로 배우상 2관왕 (서울=연합뉴스) 한미희 기자 = 영화 '자산어보'의 이준익 감독과 넷플릭스 시리즈 '오징어 게임'의 황동혁 감독이 영화감독들이 뽑은 올해의 감독에 선정됐다. 25일 한국영화감독]]></content:encoded>
+            <title><![CDATA['두데' 김나진X모태범 "시청률 신경 써...옆 중계석과 신경전" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004927272</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004927272</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:34 GMT</pubDate>
+            <content:encoded><![CDATA[김나진, 모태범이 올림픽 중계 비하인드 스토리를 밝혔다. 25일 방송된 MBC FM4U ‘두시의 데이트 뮤지, 안영미입니다’(이하 '두데')에는 모태범 전 스피드스케이팅 선수와 김나진 아나운서가 출연했다. 시청률에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[숀 펜, 우크라이나 체류 왜?…러시아 침공 다큐 제작한다 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000280459</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000280459</guid>
-            <pubDate>Fri, 25 Feb 2022 04:06:46 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 미국을 대표하는 연기파 배우이자 감독으로도 활동하고 있는 숀 펜이 러시아의 우크라이나 침공을 다룬 다큐멘터리를 만든다. 24일(현지시간) CNN 등에 따르면 숀 펜은 우크라이나 수]]></content:encoded>
+            <title><![CDATA[Show on Korean food to be made available on Thai streaming platform (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=640&amp;aid=0000021674</link>
+            <guid>https://entertain.naver.com/now/read?oid=640&amp;aid=0000021674</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:34 GMT</pubDate>
+            <content:encoded><![CDATA[A show about Korean food, titled "K-Food Good Story," will be made available on Thailand’s popular streaming service Bug]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김동휘 "최민식·조승우 이어 이병헌·박정민 선배와도 만나보고파" [N인터뷰]③ (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005931150</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005931150</guid>
-            <pubDate>Fri, 25 Feb 2022 04:06:46 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 최민식, 조승우와 연기 호흡을 맞추며 주목받은 신인 배우 김동휘가 이병헌, 박정민과도 만나보고 싶다며 포부를 드러냈다. 김동휘는 25일 오전 영화 '이상한 나라의 수학자'(감독 박동훈]]></content:encoded>
+            <title><![CDATA[안예은, '용천동굴'로 컴백 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=018&amp;aid=0005155197</link>
+            <guid>https://entertain.naver.com/now/read?oid=018&amp;aid=0005155197</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:34 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 스타in 김현식 기자] 싱어송라이터 안예은이 ‘용천동굴’로 컴백한다. 25일 소속사 더블엑스엔터테인먼트, 로칼하이레코즈에 따르면 안예은은 오는 27일 오후 6시 각종 온라인 음원사이트를 통해 디지털 싱글]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김동휘 "첫 주연 부담 덜어냈다…250대1 오디션 합격에 母 울어" [N인터뷰]② (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005931149</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005931149</guid>
-            <pubDate>Fri, 25 Feb 2022 04:06:46 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 김동휘가 첫 주연작에 대한 부담감을 덜어내려고 노력했다고 말했다. 김동휘는 25일 오전 영화 '이상한 나라의 수학자'(감독 박동훈) 관련 뉴스1과의 인터뷰에서 "촬영 전날까지도]]></content:encoded>
+            <title><![CDATA[브라톱 서정희, 발레 삼매경…60세 몸매 맞아? (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011027928</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011027928</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:34 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]김현숙 인턴 기자 = 방송인 겸 작가 서정희가 발레에 푹 빠진 일상을 공개했다. 서정희는 25일 자신의 인스타그램을 통해 "라벨 볼레로, 이 세상에는 슬픔, 기쁨, 황홀, 괴로움을 함께 담고 있는 하나]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['이상한 나라의 수학자' 김동휘 "옆집 아저씨 같은 최민식 선배, 많이 배웠죠" [N인터뷰]① (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005931148</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005931148</guid>
-            <pubDate>Fri, 25 Feb 2022 04:06:46 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 신인 배우 김동휘가 영화 '이상한 나라의 수학자'에서 대선배 최민식과 호흡을 맞추며 많은 것을 배웠다고 말했다. 김동휘는 25일 오전 영화 '이상한 나라의 수학자'(감독 박동훈) 관련]]></content:encoded>
+            <title><![CDATA[‘편스토랑’ 류수영, 사랑 담은 ‘구운 호빵’ 비법 공개 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000795652</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000795652</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:34 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 류수영이 아내 박하선의 최애 간식 ‘호빵’을 이용한 특별한 레시피를 공개한다. 25일 방송되는 KBS 2TV ‘신상출시 편스토랑’(이하 ‘편스토랑’)에서는 한국인의 소울푸드 ‘분식’을 주제로 한 메뉴]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[엘리엇 페이지 “청소년 성전환=아동학대? 소름 돋는다” 텍사스 주지사에 항의 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000546158</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000546158</guid>
-            <pubDate>Fri, 25 Feb 2022 04:06:46 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 트랜스젠더 배우 엘리엇 페이지가 텍사스 주지사의 "청소년 성전환 수술은 아동 학대"라는 발언에 대해 "비인간적이고 위험한 선언"이라며 공식 입장을 발표했다. 2월 24일(현지시간) 해외 매체]]></content:encoded>
+            <title><![CDATA[김종국 "백신 미접종 송지효, 코로나19 안 걸린 것 너무 신기해" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000344521</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000344521</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:34 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=장진리 기자] 가수 김종국이 신종 코로나바이러스 감염증(코로나19) 완치 후 속내를 전했다. 김종국은 24일 개인 유튜브 채널 '짐종국'을 통해 "'런닝맨' 멤버들 다 걸렸는데 송지효 안 걸린 게 너무]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이상우·신혜정·명세빈, '더 호텔' 출연…리딩 현장 공개 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000280458</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000280458</guid>
-            <pubDate>Fri, 25 Feb 2022 04:06:46 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 배우 이상우, 신혜정, 명세빈 등이 영화 '더 호텔' 출연을 확정하고 리딩 현장을 공개했다. '더 호텔'은 각자마다의 복잡한 사연을 지닌 사람들이 '더 호텔'에 모이면서 벌어지게]]></content:encoded>
+            <title><![CDATA[윤서령, 3월 2일 컴백 확정…새 싱글 ‘나비소녀’로 날아오를 준비 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001645027</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001645027</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:34 GMT</pubDate>
+            <content:encoded><![CDATA[윤서령이 봄을 닮은 신곡으로 컴백한다. 25일 소속사 제이지스타는 윤서령의 컴백일을 3월 2일로 확정, 신곡명 ‘나비소녀’와 티저 이미지를 공개해 올봄 ‘트롯 아이돌’의 컴백을 알렸다. 공개된 ‘나비소녀’ 티저 이미]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[최민식→조승우‥복 받은 신인 김동휘 “매일 촬영장 가고 싶었다”(종합)[EN:인터뷰] (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000546145</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000546145</guid>
-            <pubDate>Fri, 25 Feb 2022 03:04:51 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 김동휘가 '이상한 나라의 수학자'를 통해 첫 상업영화 주연으로 데뷔한다. 250 대 1의 어마어마한 경쟁률을 뚫은 소감은 물론, 대선배들과 호흡을 맞춘 뒷이야기를 전했다. 오는 3월 9일 개봉]]></content:encoded>
+            <title><![CDATA['태종 이방원', 동물 학대 논란 한 달 만 방송 재개 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=469&amp;aid=0000660398</link>
+            <guid>https://entertain.naver.com/now/read?oid=469&amp;aid=0000660398</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:34 GMT</pubDate>
+            <content:encoded><![CDATA[동물 학대 논란으로 비판받았던 '태종 이방원'이 방송을 재개한다. 결방한지 약 한 달 만이다. KBS 드라마 '태종 이방원'은 오는 26일 13회를 방송한다. 이 작품은 말 사망 사고 이후 결방을 결정지은 바 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 박재범, '샤프한 비주얼' (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=014&amp;aid=0004794233</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=014&amp;aid=0004794233</guid>
-            <pubDate>Fri, 25 Feb 2022 03:04:51 GMT</pubDate>
-            <content:encoded><![CDATA[[FN스타 이승훈 기자] 가수 박재범이 25일 서울 여의도 더 현대 서울에서 진행된 소주 브랜드 출시 기념 팝업스토아 오픈행사에 참석해 포토타임을 갖고 있다. totopurdy_star@fnnews.com fn스타]]></content:encoded>
+            <title><![CDATA[김지석, '어승생악' 오르며 산꾼즈 최약체 등극 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011027921</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011027921</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:34 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]이혜민 인턴 기자 = '산꾼도시여자들'에 '술꾼도시여자들'의 소개팅남, 김지석이 합류해 산꾼즈와 함께 제주 오름 '어승생악' 등반에 나선다. 25일 오후 8시 40분에 방송되는 tvN '산꾼도시여자들']]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘더 호텔’ 이상우X신혜정X명세빈 출연확정, 대본 리딩 현장 공개 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000546113</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000546113</guid>
-            <pubDate>Fri, 25 Feb 2022 03:04:51 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 김명미 기자] 영화 '더 호텔'이 이상우, 신혜정, 명세빈, 권혁, 이도연, 유다미 등 캐스팅을 확정 짓고, 완벽한 팀플레이를 예고했다. '더 호텔'은 각자마다의 복잡한 사연을 지닌 사람들이 ‘더 호텔’에]]></content:encoded>
+            <title><![CDATA[[TD영상] '의리는 여전해' 박재범 소주 브랜드 런칭에 AOMG 총출동! (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=440&amp;aid=0000023644</link>
+            <guid>https://entertain.naver.com/now/read?oid=440&amp;aid=0000023644</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:34 GMT</pubDate>
+            <content:encoded><![CDATA[프로듀서 그레이, 래퍼 사이먼 도미닉, 가수 박재범, 로꼬, DJ 펌킨이 25일 오전 서울 영등포구 여의도 현대백화점 더현대 서울에서 열린 주류 브랜드 런칭 행사에 참석해 포즈를 취하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['더 호텔' 이상우 X 신혜정 X 명세빈, 미스터리 스릴러 선보인다 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000147126</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000147126</guid>
-            <pubDate>Fri, 25 Feb 2022 03:04:51 GMT</pubDate>
-            <content:encoded><![CDATA[비밀을 간직한 이들이 모이는 이곳, '더 호텔'이 이상우, 신혜정, 명세빈 그리고 권혁, 이도연, 유다미 등 캐스팅을 확정 짓고, 완벽한 팀플레이를 예고하는 리딩 현장을 전격 공개했다. [감독: 김정민 | 출연: 이]]></content:encoded>
+            <title><![CDATA[고유리, 개그우먼 군기 문화 폭로…"뺨 때리고 '누구랑 잤다' 소문" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005931759</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005931759</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:34 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 김학진 기자 = 고유리가 개그우먼 사이에 있는 군기 문화에 대해 못마땅해했다. 지난 24일 유튜브 채널 '코믹마트'에는 '현직 개그우먼이 말하는 개그우먼 군기 문화!!'라는 제목의 영상이 게재됐다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이상우X신혜정X명세빈 ‘더 호텔’ 캐스팅 확정 [공식] (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000963412</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000963412</guid>
-            <pubDate>Fri, 25 Feb 2022 03:04:51 GMT</pubDate>
-            <content:encoded><![CDATA[이상우X신혜정X명세빈 ‘더 호텔’ 캐스팅 확정 [공식] 비밀을 간직한 이들이 모이는 이곳, ‘더 호텔’이 이상우, 신혜정, 명세빈 그리고 권혁, 이도연, 유다미 등 캐스팅을 확정 짓고, 완벽한 팀플레이를 예고하는 리]]></content:encoded>
+            <title><![CDATA[니브, 고민과 사색을 노래로…28일 새 싱글 '프로로그?' 발표 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000344519</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000344519</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:34 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=장진리 기자] 가수 니브가 새 싱글을 발표한다. 니브는 28일 오후 6시 싱글 '프로로그?'를 전 세계에 동시 공개한다. 이번 싱글은 한 사람으로 살아가면서 느끼는 고민과 사색을 니브 스스로에게 보내는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[라라말렛 (LaLamallet), 오늘(25일) 동요 곡 ‘마스크 써요’ 발매 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001645015</link>
-            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001645015</guid>
-            <pubDate>Fri, 25 Feb 2022 06:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[로칼하이레코즈를 통해 2주에 한 번씩 생활 습관 송을 선보이고 있는 라라말렛 (LaLamallet)이 또 다른 동요를 선보인다. 25일 정오 각종 음원사이트를 통해 라라말렛 (LaLamallet)의 동요 곡 ‘마스크]]></content:encoded>
+            <title><![CDATA[“뺨 때리고 인격적 모독” 고유리, 개그우먼 군기문화 폭로 (코믹마트) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000605720</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000605720</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:34 GMT</pubDate>
+            <content:encoded><![CDATA[개그우먼 고유리가 군기 문화를 폭로했다. 24일 유튜브 채널 ‘코믹마트’에는 ‘현직 개그우먼이 말하는 개그우먼 군기 문화’라는 제목의 영상이 게재됐다. 이날 영상에서 고유리는 개그우먼들 사이 군기 문화가 있다고 인정]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["아는 맛이 무섭다"…로코 도전한 안효섭·김세정, 유쾌한 '사내맞선' (종합) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005931564</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005931564</guid>
-            <pubDate>Fri, 25 Feb 2022 06:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 윤효정 기자 = "아는 맛이 무섭다." 로맨틱 코미디 '사내맞선'이 익숙하지만 그래서 더 편안한 드라마를 선보인다. SBS 새 월화드라마 '사내맞선'(극본 한설희, 홍보희/연출 박선호) 제작발표회가]]></content:encoded>
+            <title><![CDATA[[공식] 모니카X립제이→엔조이커플 tvn 新관찰 예능 '조립식 가족' 출연..3월 23일 첫방송 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003836337</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003836337</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:34 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 가족 해체 시대에 새로운 대안으로 떠오르고 있는 맞춤형 가족 형태를 보여줄 예능이 찾아온다. 오는 3월 23일 수요일 저녁 7시20분 첫 방송되는 tvN '조립식 가족'은 혼자도, 결혼도]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우크라이나 출신 트롯 가수 레오 "전 세계가 푸틴 막아야" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=018&amp;aid=0005155122</link>
-            <guid>https://entertain.naver.com/now/read?oid=018&amp;aid=0005155122</guid>
-            <pubDate>Fri, 25 Feb 2022 06:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[레오(사진=인스타그램) [이데일리 스타in 윤기백 기자] “우크라이나는 스스로를 방어하고 승리할 것이다.” 우크라이나 출신 트롯 가수 레오(레오니드 두켈스키)가 러시아의 우크라이나 침공에 대해 이같은 목소리를 냈다.]]></content:encoded>
+            <title><![CDATA[한채영, 안방극장 ‘숨멎 주의보’ 유발(스폰서) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001645026</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001645026</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:34 GMT</pubDate>
+            <content:encoded><![CDATA[배우 한채영이 ‘스폰서’를 통해 전무후무한 ‘치명캐’를 구축했다. 지난 23일 IHQ drama 채널과 MBN에서 첫 방송 된 수목드라마 ‘스폰서’는 각기 다른 욕망에 사로잡힌 인물들의 아슬아슬한 관계성을 선보이며]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정가은 "그냥 죽으라는 건가?"…'확진' 영유아 사망에 분노 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005931561</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005931561</guid>
-            <pubDate>Fri, 25 Feb 2022 06:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 김학진 기자 = 방송인 정가은이 코로나19 확진으로 재택 치료 중인 영유아도 병원 진료를 받을 수 있어야 한다며 목소리를 냈다. 지난 24일 정가은은 자신의 인스타그램에 "내 작은 행복에 젖어 다른]]></content:encoded>
+            <title><![CDATA['두데' 김나진 “올림픽 후 번아웃…출근하기 싫었다” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004927265</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004927265</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:34 GMT</pubDate>
+            <content:encoded><![CDATA[김나진이 올림픽 이후 번아웃이 왔다고 한다. 25일 방송된 MBC FM4U ‘두시의 데이트 뮤지, 안영미입니다’(이하 '두데')에는 모태범 전 스피드스케이팅 선수와 김나진 아나운서가 출연했다. 이날 DJ 뮤지, 안영]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['지우학' 이유미, '오징어 게임' 촬영 이후 '○○' 알바를? (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000789134</link>
-            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000789134</guid>
-            <pubDate>Fri, 25 Feb 2022 06:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이유미가 '오징어 게임' 촬영 이후의 배달 알바를 했다고 털어놨다. 25일 밤 11시20분 방송되는 KBS 뮤직 토크쇼 '유희열의 스케치북'(이하 '유스케')에서는 넷플릭스 시리즈 '지금 우리 학교는'의 주역인]]></content:encoded>
+            <title><![CDATA[마마무 솔라, 부모님께 고급 SUV 선물…깜짝 효도 이벤트 ‘플렉스’ (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000546274</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000546274</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:34 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 송오정 기자] 그룹 마마무 솔라가 본인의 생일을 맞이해 부모님에게 깜짝 이벤트를 준비했다. 24일 유튜브 채널 '솔라시도'를 통해 솔라가 생일을 기념해 부모님에게 고급차를 선물했다는 소식을 전했다. 솔라는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정수정, 김재욱 밑에서 온갖 설거지 하다가…'크레이지 러브' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011027741</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011027741</guid>
-            <pubDate>Fri, 25 Feb 2022 06:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]이혜민 인턴 기자 = 정수정이 '크레이지 러브'에서 시크와 걸크러쉬를 덜어내고 다양한 연기 변주를 꾀한다. 3월 7일 오후 9시 30분 첫 방송되는 '크레이지 러브'에서 정수정이 슈퍼보스 노고진(김재욱]]></content:encoded>
+            <title><![CDATA[[단독] AOMG 떠난 박재범, '전참시' 뜬다 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=119&amp;aid=0002579677</link>
+            <guid>https://entertain.naver.com/now/read?oid=119&amp;aid=0002579677</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:34 GMT</pubDate>
+            <content:encoded><![CDATA[[데일리안 = 류지윤 기자] 가수 박재범이 '전지적 참견 시점'에 출연한다. 25일 방송관계자에 따르면 최근 박재범은 매니저와 함께 MBC '전지적 참견 시점' 촬영을 진행했다. 아직 스튜디오 촬영은 진행하지 않았으]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김종국 “‘백신 미접종’ 송지효 안 걸린 게 신기…후각 10% 회복” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000546250</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000546250</guid>
-            <pubDate>Fri, 25 Feb 2022 06:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 송오정 기자] 김종국이 코로나19 확진 후기를 전했다. 24일 유튜브 채널 '김종국 GYMJONGKOOK'을 통해 김종국이 코로나19 확진 당시 상황을 전했다. 김종국은 "'런닝맨' 멤버들 다 걸리지 않았나]]></content:encoded>
+            <title><![CDATA[류수영, ♥박하선 최애 간식 호빵 新메뉴 도전 [편스토랑] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003031534</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003031534</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:34 GMT</pubDate>
+            <content:encoded><![CDATA['편스토랑' 류수영이 아내 박하선의 최애 간식 '호빵'으로 만든 특별한 레시피를 공개한다. 25일 방송되는 KBS 2TV '신상출시 편스토랑'(이하 '편스토랑')에서는 한국인의 소울푸드 '분식'을 주제로 한 메뉴 개]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘트레이서’ 임시완, 터진 분노 “비망록 어떻게 했어” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001645014</link>
-            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001645014</guid>
-            <pubDate>Fri, 25 Feb 2022 06:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[임시완이 오랫동안 숨겨온 분노를 드러낸다. 26일 9~10회가 연속 방송되는 MBC 금토드라마 ‘트레이서’는 4년 전 아버지를 죽음에 이르게 한 이들을 찾아낸 황동주(임시완 분)의 복수극이 본격적으로 시작된다. 9회]]></content:encoded>
+            <title><![CDATA['꽃 피면 달 생각하고' 서예화,'천금' 같은 배우 [O! STAR] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004563895</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004563895</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:34 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김성락 기자] KBS 2TV '꽃 피면 달 생각하고'의 천금 역을 맡은 배우 서예화가 OSEN과 함께 종영 인터뷰를 진행했다. 금주령이 주제인 드라마에서 술을 좋아하는 의녀 천금역을 맡은 서예화는 처음으로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["간식같은 드라마"…'사내맞선', 부담없고 달달한 로코가 온다(종합) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001706631</link>
-            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001706631</guid>
-            <pubDate>Fri, 25 Feb 2022 06:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[시청자들이 가볍고 편안하게 볼 수 있는 로맨틱 코미디물이 온다. 배우 김세정, 안효섭 씨가 첫 로맨틱 코미디 도전작으로 선택한 새 드라마 '사내맞선'이 공개되는 것. 여주인공 김세정 씨는 "간식같이 부담없고, 달콤한]]></content:encoded>
+            <title><![CDATA[모태범 “평소 말 거칠게 하는 편, 생방 해설 사고칠 줄 알았다고”(두데) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000546273</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000546273</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:34 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박은해 기자] 전 스피드스케이팅 국가대표 모태범이 첫 해설 도전 후기를 전했다. 2월 25일 방송된 MBC FM4U '두시의 데이트 뮤지, 안영미입니다'에는 '2022 베이징 동계올림픽' 해설위원으로 호흡을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['사내맞선' 안효섭 "나르시시즘 캐릭터…'난 잘났다' 정신적 세뇌" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000344509</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000344509</guid>
-            <pubDate>Fri, 25 Feb 2022 06:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=장진리 기자] 배우 안효섭이 '얼굴 천재 CEO'를 연기하기 위해 자신을 세뇌했다고 밝혔다. 안효섭은 25일 온라인으로 열린 SBS 새 월화드라마 '사내맞선'(극본 한설희 홍보희, 연출 박선호) 제작발]]></content:encoded>
+            <title><![CDATA[대니 구 "'슈퍼밴드2'로 새로운 길 열린 느낌" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000344517</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000344517</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:34 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=장진리 기자] 바이올리니스트 대니 구가 소년미 넘치는 몽환적 화보를 선보였다. 실내악 연주자-독주자-오케스트라 악장으로 세계 곳곳에서 연주를 진행하며 저명한 이들과 협업해온 '클래식계 아이돌' 바이올리]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘사내맞선’ 안효섭 “김세정 첫인상? 해맑고 사랑스러워” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000795630</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000795630</guid>
-            <pubDate>Fri, 25 Feb 2022 06:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 배우 안효섭이 SBS 새 월화극 ‘사내맞선’ 김세정에게 애정을 표현했다. 안효섭은 25일 오후 온라인생중계된 ‘사내맞선’ 제작발표회에서 김세정에 대해 “상상했던 것보다 더 해맑았다. 항상 웃는 모습으로]]></content:encoded>
+            <title><![CDATA[‘서른아홉’ 이무생 처절한 울부짖음, 전미도 시한부 사실 알았다 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=415&amp;aid=0000008584</link>
+            <guid>https://entertain.naver.com/now/read?oid=415&amp;aid=0000008584</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:41 GMT</pubDate>
+            <content:encoded><![CDATA[[앳스타일 황연도 기자] ‘서른, 아홉’ 이무생의 섬세한 눈물 연기가 안방극장을 눈물바다에 빠트렸다. 지난 23, 24일 방송된 JTBC 수목드라마 ‘서른, 아홉’ 3, 4화에서는 찬영(전미도 분)이 시한부라는 사실]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["최고의 파트너"…'사내맞선' 안효섭X김세정의 재발견 [종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=469&amp;aid=0000660380</link>
-            <guid>https://entertain.naver.com/now/read?oid=469&amp;aid=0000660380</guid>
-            <pubDate>Fri, 25 Feb 2022 06:08:47 GMT</pubDate>
-            <content:encoded><![CDATA['사내맞선' 안효섭과 김세정, 두 청춘 배우가 이번에는 로맨스 코미디 장르로 만났다. 서로를 "최고의 파트너"라고 언급할 만큼 좋은 케미스트리가 예고되며 상반기 SBS의 기대작으로 떠올랐다. 25일 SBS 새 드라마]]></content:encoded>
+            <title><![CDATA["제 안에, 여리여리 소녀도 있답니다"…'로코 요정'을 꿈꾸는 '사내맞선' 김세정 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=416&amp;aid=0000280476</link>
+            <guid>https://entertain.naver.com/now/read?oid=416&amp;aid=0000280476</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:41 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS연예뉴스 | 강선애 기자] 배우 김세정이 '로코 요정'이란 수식어를 듣고 싶은 바람을 전했다. 25일 오후 SBS 새 월화드라마 '사내맞선'(극본 한설희 홍보희, 연출 박선호)의 온라인 제작발표회가 진행됐다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['슛돌이 1기' 지승준, 연기자 준비 중…류승수 스승 자처 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001706629</link>
-            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001706629</guid>
-            <pubDate>Fri, 25 Feb 2022 06:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[KBS2 예능 '날아라 슛돌이' 1기에 출연해 화제를 모은 지승준 씨가 연기자로의 활동을 준비 중이다. 이 같은 사실은 배우 류승수 씨가 인스타그램을 통해 직접 알려 화제를 모았다. 류승수 씨는 지난 24일 자신의]]></content:encoded>
+            <title><![CDATA['사내맞선' 안효섭X김세정, 비주얼+케미 '로코 요정'들이 따로 없네 [종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004563893</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004563893</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:41 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=연휘선 기자] ‘사내맞선’의 안효섭과 김세정이 전에 없언 로맨틱 코미디 요정들로 출사표를 던졌다. 25일 SBS 새 월화드라마 ‘사내맞선’ 온라인 제작발표회가 진행됐다. 이 자리에는 박선호 감독과 주연 배]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['출장 십오야2' YG엔터 특집…제니, 게임 강자 급부상 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=018&amp;aid=0005155111</link>
-            <guid>https://entertain.naver.com/now/read?oid=018&amp;aid=0005155111</guid>
-            <pubDate>Fri, 25 Feb 2022 06:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[‘출장 십오야2’(사진=tvN) [이데일리 스타in 김가영 기자] tvN ‘출장 십오야2’가 YG엔터테인먼트로 출장을 떠난다. 25일 ‘출장 십오야2’(연출 신효정, 조은진)에서 YG패밀리가 출격해 활약을 펼친다.]]></content:encoded>
+            <title><![CDATA['사내맞선', 안효섭X김세정의 자신감.."힐링·간식 같은 드라마 되길"[종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003031532</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003031532</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:41 GMT</pubDate>
+            <content:encoded><![CDATA['사내맞선'이 시청자들에게 힐링, 간식, 캠핑 같은 작품이 될 수 있을까. 25일 오후 SBS 새 월화드라마 '사내맞선'(연출 박선호, 극본 한설희·홍보희)의 제작발표회가 박선호 감독, 안효섭, 김세정, 김민규, 설]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김종국 "백신 미접종 송지효, 코로나 안 걸린 게 신기…후각 10% 돌아와" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=031&amp;aid=0000656230</link>
-            <guid>https://entertain.naver.com/now/read?oid=031&amp;aid=0000656230</guid>
-            <pubDate>Fri, 25 Feb 2022 06:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[최근 코로나19에 걸렸던 가수 김종국이 확진 당시를 떠올렸다. 김종국은 지난 24일 자신의 운영하는 유튜브 채널 '짐종국'에 '근육 싸움꾼..(feat. 김동현)'이라는 제목의 영상을 올렸다. 영상에서 김종국은 촬영]]></content:encoded>
+            <title><![CDATA[[종합] "소년미부터 29금까지"…안효섭♥김세정의 클리셰+유치 로코 '사내맞선' (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000532693</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000532693</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:41 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=태유나 기자] 안효섭, 김세정의 대환장 맞선 프로젝트가 펼쳐진다. 25일 오후 SBS 새 월화드라마 '사내맞선' 제작발표회가 온라인으로 생중계됐다. 행사에는 배우 안효섭, 김세정, 김민규, 설인아와 박선호]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["정신건강 위한 작품"…'사내맞선', 안효섭-김세정의 '힐링 로맨스' [종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000344507</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000344507</guid>
-            <pubDate>Fri, 25 Feb 2022 06:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=장진리 기자] '사내맞선' 안효섭, 김세정이 영혼 힐링 로맨스를 자신했다. 안효섭, 김세정은 25일 온라인으로 열린 SBS 새 월화드라마 '사내맞선'(극본 한설희 홍보희, 연출 박선호) 제작발표회에서]]></content:encoded>
+            <title><![CDATA[김승우, 정약용 연기 위해 모든 스케줄 정리했다 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004563887</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004563887</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:41 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=강서정 기자] 신선한 소재와 배우 김승우의 캐스팅으로 관심을 한몸에 받고 있는 TV영화 ‘대통령 정약용’이 호평 속에서 상영회를 성황리에 마쳤다. TV영화 ‘대통령 정약용’(연출 이홍석, 극본 방봉원) 측]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연우진 “내 신체 중 가장 치명적인 부위는 이것"…'미우새' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011027716</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011027716</guid>
-            <pubDate>Fri, 25 Feb 2022 06:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]이혜민 인턴 기자 = 27일 오후 9시 5분 방송되는 SBS ‘미운 우리 새끼’ 에서는 믿고 보는 ‘로코킹’ 연우진이 출연해 母벤져스의 맘심을 저격한다. 연우진은 '멜로 장인'이라는 수식어와 달리 "실]]></content:encoded>
+            <title><![CDATA[안효섭 "내 정신건강을 위해, 유쾌하고 재밌는 '사내맞선' 선택" (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=416&amp;aid=0000280474</link>
+            <guid>https://entertain.naver.com/now/read?oid=416&amp;aid=0000280474</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:41 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS연예뉴스 | 강선애 기자] 배우 안효섭이 '사내맞선'을 선택한 이유를 밝혔다. 25일 오후 SBS 새 월화드라마 '사내맞선'(극본 한설희 홍보희, 연출 박선호)의 온라인 제작발표회가 진행됐다. 이 자리에는 박]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴 버논, 코로나19 확진…"접촉 멤버 모두 음성"[전문] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000344506</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000344506</guid>
-            <pubDate>Fri, 25 Feb 2022 06:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스-장진리 기자] 그룹 세븐틴의 버논이 신종 코로나바이러스 감염증(코로나19) 확진 판정을 받았다. 소속사 플레디스엔터테인먼트는 25일 "버논이 이날 오전 코로나19 확진 판정을 받았다"라고 밝혔다. 버논]]></content:encoded>
+            <title><![CDATA[이무생, 전미도 시한부 사실에 패닉…처절한 울부짖음 (서른, 아홉) (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001414356</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001414356</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:41 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) '서른, 아홉' 이무생의 섬세한 눈물 연기가 안방극장을 눈물바다에 빠트렸다. 지난 23, 24일 방송된 JTBC 수목드라마 '서른, 아홉' 3, 4화에서는 찬영(전미도 분)이 시한부라는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘국대는 국대다’ 김동현×김민아, 이만기 유연성×氣 살리기 작전 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000795629</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000795629</guid>
-            <pubDate>Fri, 25 Feb 2022 06:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 김동현-김민아가 이만기의 든든한 페이스메이커로 활약한다. 오는26일(토) 밤 9시 20분 방송되는 MBN ‘국대는 국대다’에서는 다섯 페이스메이커 전현무-배성재-홍현희-김동현-김민아가 모두 모인 가운데]]></content:encoded>
+            <title><![CDATA[안효섭, '나르시시즘'에 빠지다…'사내맞선', 대환장 맞선 프로젝트 [종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001414355</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001414355</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:41 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 하지원 기자) ‘사내맞선’ 안효섭, 김세정의 대환장 맞선 프로젝트가 시작된다. 25일 SBS 새 월화드라마 ‘사내맞선’ 온라인 제작발표회가 진행됐다. 이날 제작발표회에는 박선호 감독, 안효섭, 김세정,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[댄서배틀 '쇼다운' 박재범·제이블랙 합류…MC 장성규 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011027708</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011027708</guid>
-            <pubDate>Fri, 25 Feb 2022 06:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]유다연 인턴 기자 = 장성규가 '쇼다운'의 MC로 합류한다. 25일 JTBC는 댄스 서바이벌 프로그램 '쇼다운'에 MC 장성규 합류에 이어 여러 댄스 크루의 참여 사실을 알렸다. 앞서 심사위원 등의 역]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[설인아 “본캐가 배우니 부캐로는 뮤지션 되고 싶다” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001645013</link>
-            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001645013</guid>
-            <pubDate>Fri, 25 Feb 2022 06:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[배우 설인아가 부캐로 뮤지션을 꼽았다. 25일 오후 SBS 월화드라마 ‘사내맞선’ 제작발표회가 코로나19 확산 방지를 위해 온라인으로 개최됐다. 현장에는 박선호 감독-안효섭-김세정-김민규-설인아가 참석해 이야기를 나]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘이재학♥’아키바 리에 “임신선 언제 사라질 거야” 군살 없는 탄탄 몸매 인증 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000546244</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000546244</guid>
-            <pubDate>Fri, 25 Feb 2022 06:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박은해 기자] 모델 겸 배우 아키바 리에가 근황을 공개했다. 2월 25일 아키바 리에는 자신의 인스타그램에 "임신선 언제 사라질 거야. 애들 아프고 할 일 많고 요즘 운동 못 했더니 복근 사라졌네 ㅋ 이 향]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[에픽하이, 타임스퀘어 이어 LA번화가 전광판 장식 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011027675</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011027675</guid>
-            <pubDate>Fri, 25 Feb 2022 06:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]김현숙 인턴 기자 = 그룹 에픽하이가 미국에서도 존재감을 드러냈다. 지난 14일 발매된 에픽하이의 정규 10집 '에픽하이 이즈 히어 하 파트2(EPIKHIGH IS HERE 下(PART 2)'가 미국]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['이규혁♥' 손담비, 어제는 로맨틱하더니 오늘은 치명적…美친 예비신부 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000344502</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000344502</guid>
-            <pubDate>Fri, 25 Feb 2022 06:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=김현록 기자]가수 겸 배우 손담비가 치명적인 매력을 뽐냈다. 손담비는 25일 자신의 SNS에 화장품 브랜드 화보를 공개했다. 잡티 하나 없는 매끄러운 피부와 군살 없는 보디라인이 드러나는 단색 의상을]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['출장 십오야2' 은지원→블랙핑크 제니까지 YG 패밀리 총출동 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001706625</link>
-            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001706625</guid>
-            <pubDate>Fri, 25 Feb 2022 06:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[tvN '출장 십오야2'가 YG엔터테인먼트로 출장을 떠난다. 25일 밤 10시 30분 '출장 십오야2'에서 YG패밀리가 출격해 활약을 펼친다. 은지원(젝스키스), 찬혁(악동뮤지션), 김진우·강승윤·송민호(위너), 김]]></content:encoded>
+            <title><![CDATA[연기는 잘하는 서예지, 사과없이 안방 복수 성공할까? [종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004563874</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004563874</guid>
+            <pubDate>Fri, 25 Feb 2022 07:05:41 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박소영 기자] tvN ‘이브’ 측이 결국 서예지에게 복귀 기회를 줬다. 서예지로서는 ‘사이코지만 괜찮아’ 이후 2년 만의 안방 컴백이다. 무엇보다 가스라이팅 논란으로 비난 받은 후 터뜨린 복귀 신호탄이다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["간식 같은 작품"…안효섭·김세정, '사내맞선' 커플의 자신감 [종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
@@ -1565,76 +1635,6 @@
             <content:encoded><![CDATA['사내맞선' 김세정이 로맨틱코미디 장르에 처음으로 도전하는 소감을 전했다. 25일 오후 SBS 새 월화드라마 '사내맞선'(극본 한설희·연출 박선호)의 제작발표회가 온라인으로 진행됐다. 행사에는 배우 안효섭, 김세정,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘사내맞선’ 김민규 "설인아와 커플 연기, 29금 '으른' 로맨스" (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004563828</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004563828</guid>
-            <pubDate>Fri, 25 Feb 2022 06:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=연휘선 기자] ‘사내맞선’의 배우 김민규와 설인아가 함께 연기한 호흡을 밝혔다. 25일 SBS 새 월화드라마 ‘사내맞선’ 온라인 제작발표회가 진행됐다. 이 자리에는 박선호 감독과 주연 배우 안효섭, 김세정]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘사내맞선’ 안효섭 “김세정 첫인상? 예쁘다…해맑고 긍정적인 사람” (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000850742</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000850742</guid>
-            <pubDate>Fri, 25 Feb 2022 06:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘사내맞선’ 안효섭과 김세정이 첫인상을 이야기했다. 25일 오후 SBS 새 월화드라마 ‘사내맞선’ 제작발표회가 코로나19 확산 방지를 위해 온라인으로 생중계됐다. 이날 박선호 감독을 비롯해 배우 안효섭, 김세정, 김]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['사내맞선' 김세정 "이전 작품과 아예 다르다" (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003031518</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003031518</guid>
-            <pubDate>Fri, 25 Feb 2022 06:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김세정이 '사내맞선'을 통해 전작과 180도 다른 모습을 보여줄 것을 예고했다. 25일 오후 SBS 새 월화드라마 '사내맞선'(연출 박선호, 극본 한설희·홍보희)의 제작발표회가 온라인으로 진행됐다. 이 자리에는]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘사내맞선’ 안효섭 “김세정 첫인상? 러블리 했다” (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000546238</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000546238</guid>
-            <pubDate>Fri, 25 Feb 2022 06:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 안효섭, 김세정이 최고의 케미를 예고했다. 2월 25일 진행된 SBS 새 월화드라마 '사내맞선'(극본 한설희 홍보희/연출 박선호) 온라인 제작발표회에서 안효섭, 김세정이 파트너를 칭찬했다. 안]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['사내맞선' 김세정 "안효섭 첫인상? 기억나지 않아, 걱정 많았다" (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000532682</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000532682</guid>
-            <pubDate>Fri, 25 Feb 2022 06:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=태유나 기자] 배우 김세정이 안효섭의 첫인상에 대해 말했다. 25일 오후 SBS 새 월화드라마 '사내맞선' 제작발표회가 온라인으로 생중계 됐다. '사내맞선'은 얼굴 천재 능력남 CEO와 정체를 속인 맞선녀]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['사내 맞선' 김세정 "'경이로운 소문'과 달라..이번엔 눈빛 집중" (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003836281</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003836281</guid>
-            <pubDate>Fri, 25 Feb 2022 06:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 문지연 기자] 배우 김세정이 '사내 맞선'을 택한 이유를 밝혔다. 25일 오후 SBS는 새 월화드라마 '사내 맞선'(한설희 홍보희 극본, 박선호 연출)의 제작발표회를 신종 코로나바이러스 감염증(코로나19]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박하선, 입덧 가고 먹덧 왔다…빵빵한 볼 귀염뽀짝 ('며느라기2') (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003579951</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003579951</guid>
-            <pubDate>Fri, 25 Feb 2022 06:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 박윤진 기자] 카카오TV 오리지널 '며느라기2...ing'(극본 유송이 연출 이광영)가 민사린(박하선)의 귀여움이 폭발하는 먹방 현장을 포착해 눈길을 사로잡는다. 26일 공개되는 '며느라기2...in]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김세정 “‘사내맞선’ 통해 ‘로코요정’ 수식어 들었으면” (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000850731</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000850731</guid>
-            <pubDate>Fri, 25 Feb 2022 06:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘사내맞선’ 김세정이 사랑스러운 캐릭터 신하리를 위해 노력한 점을 밝혔다. 25일 오후 SBS 새 월화드라마 ‘사내맞선’ 제작발표회가 코로나19 확산 방지를 위해 온라인으로 생중계됐다. 이날 박선호 감독을 비롯해 배]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[안효섭 "정신건강 위해 '사내맞선' 선택, 코미디 도전하고 싶었다" (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000532680</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000532680</guid>
-            <pubDate>Fri, 25 Feb 2022 06:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=태유나 기자] 배우 안효섭이 '사내맞선' 출연을 결심한 이유를 밝혔다. 25일 오후 SBS 새 월화드라마 '사내맞선' 제작발표회가 온라인으로 생중계 됐다. '사내맞선'은 얼굴 천재 능력남 CEO와 정체를]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['사내 맞선' 안효섭 "전작들 무거워 감정 소비..유쾌해 선택" (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003836278</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003836278</guid>
-            <pubDate>Fri, 25 Feb 2022 06:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 문지연 기자] 배우 안효섭이 '사내 맞선'을 택한 이유를 밝혔다. 25일 오후 SBS는 새 월화드라마 '사내 맞선'(한설희 홍보희 극본, 박선호 연출)의 제작발표회를 신종 코로나바이러스 감염증(코로나19]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[류준열, '빚테크'로 챙긴 40억 원에 드러난 두 얼굴[TEN스타필드] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220225070401169</link>
             <guid>https://movie.v.daum.net/v/20220225070401169</guid>
@@ -1675,20 +1675,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F24%2Fmydaily%2F20220224213845979mhhx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['뜨거운 피' 정우·김갑수·최무성·지승현·이홍내, 폭발적인 열연 시너지 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220225091915011</link>
-            <guid>https://movie.v.daum.net/v/20220225091915011</guid>
-            <pubDate>Fri, 25 Feb 2022 02:01:30 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '뜨거운 피'(감독 천명관)가 정우, 김갑수, 최무성, 지승현, 이홍내 등 세대를 아우르는 연기파 배우들의 만남으로 기대를 모으고 있다.&nbsp; '뜨거운 피'는 1993년, 더 나쁜 놈만이 살아남는 곳 부산 변두리 포구 구암의 실세 희수와 그곳에서 살아남기 위한 밑바닥 건달들의 치열한 생존 싸움을 그린 영화다. 공개된 열연]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F25%2Fxportsnews%2F20220225091917325andg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA["송가인 특별출연"..'매미소리' 관전 포인트 3 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220224172955345</link>
             <guid>https://movie.v.daum.net/v/20220224172955345</guid>
             <pubDate>Thu, 24 Feb 2022 12:16:01 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자] '워낭소리' 이충렬 감독이 전하는 화합의 눈부신 감동을 담은 휴먼 드라마 '매미소리'가 오늘(24일) 개봉한&nbsp;가운데 영화를 즐길 수 있는 3가지 관람 포인트가&nbsp;전격 공개됐다. '매미소리'(감독 이충렬, 제작 자유로픽쳐스, 배급 드림팩트엔터테인먼트)는 삶과 죽음을 사이에 두고 20년 만에 비로소 서로를 마주하게 된 부녀의 깊은 갈]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F24%2Fpoctan%2F20220224172955427chje.png" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['뜨거운 피' 정우·김갑수·최무성·지승현·이홍내, 폭발적인 열연 시너지 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220225091915011</link>
+            <guid>https://movie.v.daum.net/v/20220225091915011</guid>
+            <pubDate>Fri, 25 Feb 2022 02:01:30 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '뜨거운 피'(감독 천명관)가 정우, 김갑수, 최무성, 지승현, 이홍내 등 세대를 아우르는 연기파 배우들의 만남으로 기대를 모으고 있다.&nbsp; '뜨거운 피'는 1993년, 더 나쁜 놈만이 살아남는 곳 부산 변두리 포구 구암의 실세 희수와 그곳에서 살아남기 위한 밑바닥 건달들의 치열한 생존 싸움을 그린 영화다. 공개된 열연]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F25%2Fxportsnews%2F20220225091917325andg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[박병은 "'수학자', 흐뭇하게 미소 지으며 볼 수 있는 작품" [일문일답] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1715,20 +1715,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F24%2Filgansports%2F20220224162707187uuzc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[아내의 외도 목격한 남자, 비로소 알게 된 진실 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220224112701406</link>
-            <guid>https://movie.v.daum.net/v/20220224112701406</guid>
-            <pubDate>Thu, 24 Feb 2022 05:05:55 GMT</pubDate>
-            <content:encoded><![CDATA[[김봉건 기자] 배우 겸 연출가 가후쿠(니시지마 히데토시)와 극작가로 활동 중인 그의 아내 오토(키리시마 레이카)가 살아가는 방식은 여느 부부와 다름없다. 밖에서는 일에 몰두하고 가정에 복귀하면 사랑을 나누는 등, 서로를 향한 애정이 남다르다는 점을 빼고선 지극히 평범해 보이는 일상이다. 그러던 어느 날, 가후쿠는 업무차 출장길에 나선다. 하지만 악화된 기]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F24%2Fohmynews%2F20220224112705390apye.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['축복의 집' 오늘(24일) 극장 개봉..사각지대 놓인 가족 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220224144921149</link>
             <guid>https://movie.v.daum.net/v/20220224144921149</guid>
             <pubDate>Fri, 25 Feb 2022 02:01:30 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자] 이전에 없던 가족 영화의 탄생을 알리는 웰메이드 리얼리티 영화 '축복의 집'이 오늘(24일) 개봉하며 극찬이 담긴 리뷰 포스터를 공개했다. '축복의 집'(감독 박희권, 제작 고앤고필름, 배급 필름다빈)은&nbsp;밤에는 공장에서, 낮에는 식당에서, 쉼 없이 일하며 살아가는 해수(안소요 분)가 어느 날 일을 쉬고 수상하고 비밀스러운 계획을]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F24%2Fpoctan%2F20220224144921821akrb.png" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[아내의 외도 목격한 남자, 비로소 알게 된 진실 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220224112701406</link>
+            <guid>https://movie.v.daum.net/v/20220224112701406</guid>
+            <pubDate>Thu, 24 Feb 2022 05:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[[김봉건 기자] 배우 겸 연출가 가후쿠(니시지마 히데토시)와 극작가로 활동 중인 그의 아내 오토(키리시마 레이카)가 살아가는 방식은 여느 부부와 다름없다. 밖에서는 일에 몰두하고 가정에 복귀하면 사랑을 나누는 등, 서로를 향한 애정이 남다르다는 점을 빼고선 지극히 평범해 보이는 일상이다. 그러던 어느 날, 가후쿠는 업무차 출장길에 나선다. 하지만 악화된 기]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F24%2Fohmynews%2F20220224112705390apye.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[61살 숀 펜, "우크라이나서 러시아 침략 다큐멘터리 촬영중"[해외이슈] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1739,6 +1739,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F25%2Fmydaily%2F20220225112619790hrgv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['이상한 나라의 수학자' 무채색 교실→과학관 아지트..볼거리 더한 콘셉트 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220225070450183</link>
+            <guid>https://movie.v.daum.net/v/20220225070450183</guid>
+            <pubDate>Fri, 25 Feb 2022 03:05:28 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '이상한 나라의 수학자'(감독 박동훈)가 각기 다른 콘셉트와 색감으로 완성된 공간별 스틸을 공개했다. '이상한 나라의 수학자'는 신분을 감추고 고등학교 경비원으로 일하는 탈북한 천재 수학자가 수학을 포기한 학생을 만나며 벌어지는 감동 드라마다. '이상한 나라의 수학자'에서 가장 먼저 눈길을 끄는 공간 중 하나는 영화의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F25%2Fxportsnews%2F20220225070452417tdxh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['수학자' 김동휘 "250 대 1 경쟁률 뚫어..父 '사기 아니냐'고"[EN:인터뷰①] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220225104906295</link>
             <guid>https://movie.v.daum.net/v/20220225104906295</guid>
@@ -1747,12 +1755,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F25%2Fnewsen%2F20220225104907378fsrg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['이상한 나라의 수학자' 무채색 교실→과학관 아지트..볼거리 더한 콘셉트 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220225070450183</link>
-            <guid>https://movie.v.daum.net/v/20220225070450183</guid>
-            <pubDate>Fri, 25 Feb 2022 03:05:28 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '이상한 나라의 수학자'(감독 박동훈)가 각기 다른 콘셉트와 색감으로 완성된 공간별 스틸을 공개했다. '이상한 나라의 수학자'는 신분을 감추고 고등학교 경비원으로 일하는 탈북한 천재 수학자가 수학을 포기한 학생을 만나며 벌어지는 감동 드라마다. '이상한 나라의 수학자'에서 가장 먼저 눈길을 끄는 공간 중 하나는 영화의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F25%2Fxportsnews%2F20220225070452417tdxh.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[이상우X신혜정X명세빈 '더 호텔' 캐스팅 확정 [공식] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220225113519049</link>
+            <guid>https://movie.v.daum.net/v/20220225113519049</guid>
+            <pubDate>Fri, 25 Feb 2022 05:05:15 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 이상우X신혜정X명세빈 ‘더 호텔’ 캐스팅 확정 [공식] 비밀을 간직한 이들이 모이는 이곳, ‘더 호텔’이 이상우, 신혜정, 명세빈 그리고 권혁, 이도연, 유다미 등 캐스팅을 확정 짓고, 완벽한 팀플레이를 예고하는 리딩 현장을 전격 공개했다. ‘더 호텔’은 각자마다의 복잡한 사연을 지닌 사람들이 ‘더 호텔’에 모이면서 벌어지게 되는 미스터리 스]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F25%2Fsportsdonga%2F20220225113521014sgtb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['이상한 나라의 수학자' 김동휘 "250대 1 뚫고 합격..父 '사기 아니냐'고" [MD인터뷰①] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220225110548934</link>
+            <guid>https://movie.v.daum.net/v/20220225110548934</guid>
+            <pubDate>Fri, 25 Feb 2022 04:07:12 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 신예 김동휘(27)가 영화 '이상한 나라의 수학자' 출연 소회를 밝혔다. 김동휘는 25일 오전 마이데일리와 화상 온라인 인터뷰를 진행했다. 오는 3월 9일 스크린 데뷔작 '이상한 나라의 수학자'로 관객들과 만남을 앞두고, 다채로운 에피소드들을 들려줬다. '이상한 나라의 수학자'는 신분을 감추고 대한민국 상위 1% 자사고인 동]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F25%2Fmydaily%2F20220225110548071crmh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[조인성 연기 인생은 이 영화 전·후로 나뉜다 (다음영화 뉴스 ─ 인기)]]></title>
@@ -1771,28 +1787,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F24%2Fohmynews%2F20220224145101549zqts.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['이상한 나라의 수학자' 김동휘 "250대 1 뚫고 합격..父 '사기 아니냐'고" [MD인터뷰①] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220225110548934</link>
-            <guid>https://movie.v.daum.net/v/20220225110548934</guid>
-            <pubDate>Fri, 25 Feb 2022 04:07:12 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 신예 김동휘(27)가 영화 '이상한 나라의 수학자' 출연 소회를 밝혔다. 김동휘는 25일 오전 마이데일리와 화상 온라인 인터뷰를 진행했다. 오는 3월 9일 스크린 데뷔작 '이상한 나라의 수학자'로 관객들과 만남을 앞두고, 다채로운 에피소드들을 들려줬다. '이상한 나라의 수학자'는 신분을 감추고 대한민국 상위 1% 자사고인 동]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F25%2Fmydaily%2F20220225110548071crmh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[이상우X신혜정X명세빈 '더 호텔' 캐스팅 확정 [공식] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220225113519049</link>
-            <guid>https://movie.v.daum.net/v/20220225113519049</guid>
-            <pubDate>Fri, 25 Feb 2022 05:05:15 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 이상우X신혜정X명세빈 ‘더 호텔’ 캐스팅 확정 [공식] 비밀을 간직한 이들이 모이는 이곳, ‘더 호텔’이 이상우, 신혜정, 명세빈 그리고 권혁, 이도연, 유다미 등 캐스팅을 확정 짓고, 완벽한 팀플레이를 예고하는 리딩 현장을 전격 공개했다. ‘더 호텔’은 각자마다의 복잡한 사연을 지닌 사람들이 ‘더 호텔’에 모이면서 벌어지게 되는 미스터리 스]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F25%2Fsportsdonga%2F20220225113521014sgtb.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[그녀는 어쩌다 18개의 이름을 갖게 됐을까 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220224162401916</link>
             <guid>https://movie.v.daum.net/v/20220224162401916</guid>
             <pubDate>Thu, 24 Feb 2022 08:11:43 GMT</pubDate>
             <content:encoded><![CDATA[[김상목 기자] 1_'피해자다움'에 대하여 '로자 파크스'라는 이름은 세계인권운동역사에 찬란히 빛난다. 미국 흑인인권운동에서 그녀가 상징하는 '몽고메리 버스 보이콧 운동'은 거대한 전환점이 되었고, 20세기 중요한 100명의 인물 중 일원으로 선정되었으며, 대통령 훈장과 의회 메달을 수여받기도 했다. 버스 안에서 흑인과 백인은 인종별로 좌석이 지정되고, 백]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F24%2Fohmynews%2F20220224162404446gfmc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식] 이상우→명세빈 '더 호텔'로 스크린 컴백..4월 크랭크 인 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220225152957157</link>
+            <guid>https://v.daum.net/v/20220225152957157</guid>
+            <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 미스터리 스릴러 영화 '더 호텔'(김정민 감독, 스튜디오 온새미로 제작)이 배우 이상우, 신혜정, 명세빈 그리고 권혁, 이도연, 유다미 등 캐스팅을 확정 짓고, 완벽한 팀플레이를 예고하는 리딩 현장을 전격 공개했다. 이상우, 신혜정, 명세빈 그리고 권혁, 이도연, 유다미 등 개성 넘치는 매력을 지닌 배우들의 캐스팅]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F25%2FSpoChosun%2F20220225152957846ewbd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['이상한 나라의 수학자' 김동휘 "상대가 최민식 선배님이라니.." (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220225151825818</link>
+            <guid>https://v.daum.net/v/20220225151825818</guid>
+            <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 한미희 기자 = "평생 연기하면서 이런 작품을 만날 수 있을까 싶어요. 아직 어린 나이에 주인공을 맡은 첫 작품인데 상대 역할이 최민식 선배님이었으니 여러모로 뜻깊은 작품입니다." 다음 달 9일 개봉하는 영화 '이상한 나라의 수학자'에서 탈북한 천재 수학자 이학성(최민식 분)에게 수학을 배우며 우정을 나누는 고등학생 한지우를 연기한 배우]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F25%2Fyonhap%2F20220225151825321ktan.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[이상우·AOA 혜정·명세빈, '더 호텔' 출연 "4월 4일 크랭크인"..리딩 현장 공개 [공식] (다음영화 뉴스 ─ 최신)]]></title>
@@ -1939,20 +1955,53 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F25%2Fyonhap%2F20220225111558625epld.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[김동휘 "최민식 선배님, 무섭지 않고 편해..옆집 아저씨 같아" [인터뷰②] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220225111102136</link>
-            <guid>https://v.daum.net/v/20220225111102136</guid>
-            <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 영화 '이상한 나라의 수학자'(감독 박동훈)의 배우 김동휘가 25일 오전 진행된 화상 인터뷰를 위해 포즈를 취하고 있다.  신분을 감추고 고등학교 경비원으로 일하는 탈북한 천재 수학자가 수학을 포기한 학생을 만나며 벌어지는 영화 '이상한 나라의 수학자'는 내달 9일 개봉된다. /사진제공=쇼박스 2022.02.25 /사진=이동훈 기자]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F25%2Fstarnews%2F20220225111104186diyx.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA["제 안에, 여리여리 소녀도 있답니다"..'로코 요정'을 꿈꾸는 '사내맞선' 김세정 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20220225160312317</link>
+            <guid>https://entertain.v.daum.net/v/20220225160312317</guid>
+            <pubDate>Fri, 25 Feb 2022 07:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS연예뉴스 | 강선애 기자] 배우 김세정이 '로코 요정'이란 수식어를 듣고 싶은 바람을 전했다. 25일 오후 SBS 새 월화드라마 '사내맞선'(극본 한설희 홍보희, 연출 박선호)의 온라인 제작발표회가 진행됐다. 이 자리에는 박선호 감독을 비롯해 배우 안효섭, 김세정, 김민규, 설인아가 참석해 새 드라마에 대한 기대를 부탁했다. '사내맞선'은 얼굴 천재]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['이상한나라의 수학자' 김동휘 "부담 컸던 최민식, 옆집 아저씨처럼 편해져" [인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
-            <link>https://v.daum.net/v/20220225110957097</link>
-            <guid>https://v.daum.net/v/20220225110957097</guid>
-            <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박소영 기자] 250대 1의 경쟁률을 뚫고 대선배 최민식의 선택을 받은 김동휘가 영화 ‘이상한 나라의 수학자’ 개봉을 앞두고 벅찬 속내를 내비쳤다. 김동휘는 25일 오전 온라인으로 진행한 인터뷰에서 “당시 오디션장 안에 최민식 대배우가 계셨다. 늘 동경하는 마음이 있어서 팬심으로 봤다. 오디션 당락에 좌우되기보다 선배님께 제 연기를 보여드릴]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F25%2Fpoctan%2F20220225110958587etch.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['사내맞선' 안효섭X김세정, 비주얼+케미 '로코 요정'들이 따로 없네 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20220225153520388</link>
+            <guid>https://entertain.v.daum.net/v/20220225153520388</guid>
+            <pubDate>Fri, 25 Feb 2022 07:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=연휘선 기자] ‘사내맞선’의 안효섭과 김세정이 전에 없언 로맨틱 코미디 요정들로 출사표를 던졌다. 25일 SBS 새 월화드라마 ‘사내맞선’ 온라인 제작발표회가 진행됐다. 이 자리에는 박선호 감독과 주연 배우 안효섭, 김세정, 김민규, 설인아가 참석해 작품에 대한 이야기를 나눴다.&nbsp; ‘사내맞선’은 얼굴 천재 능력남 CEO와 정체를 속인 맞선녀]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['사내맞선', 안효섭X김세정의 자신감.."힐링·간식 같은 드라마 되길" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20220225153141261</link>
+            <guid>https://entertain.v.daum.net/v/20220225153141261</guid>
+            <pubDate>Fri, 25 Feb 2022 07:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 이경호 기자] 배우 안효섭, 김세정, 설인아, 김민규가 25일 오후 온라인 생중계로 진행된 SBS 새 월화드라마 '사내맞선' 제작발표회에 참석해 포즈를 취하고 있다.  얼굴 천재 능력남 CEO와 정체를 속인 맞선녀 직원의 스릴 가득 '퇴사 방지' 오피스 로맨스 '사내맞선'은 오는 28일 첫 방송된다. /사진제공=SBS 2022.02.25 /사진=]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김승우, 정약용 연기 위해 모든 스케줄 정리했다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20220225152602050</link>
+            <guid>https://entertain.v.daum.net/v/20220225152602050</guid>
+            <pubDate>Fri, 25 Feb 2022 07:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=강서정 기자] 신선한 소재와 배우 김승우의 캐스팅으로 관심을 한몸에 받고 있는 TV영화 ‘대통령 정약용’이 호평 속에서 상영회를 성황리에 마쳤다. TV영화 ‘대통령 정약용’(연출 이홍석, 극본 방봉원) 측은 25일&nbsp;오전 10시 CGV 청담 씨네시티에서 상영회를 진행했다. 동명의 장편소설을 원작으로 한 ‘대통령 정약용’은 우리 모두의 스승인 정]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[안효섭 "내 정신건강을 위해, 유쾌하고 재밌는 '사내맞선' 선택" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20220225152405998</link>
+            <guid>https://entertain.v.daum.net/v/20220225152405998</guid>
+            <pubDate>Fri, 25 Feb 2022 07:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS연예뉴스 | 강선애 기자] 배우 안효섭이 '사내맞선'을 선택한 이유를 밝혔다. 25일 오후 SBS 새 월화드라마 '사내맞선'(극본 한설희 홍보희, 연출 박선호)의 온라인 제작발표회가 진행됐다. 이 자리에는 박선호 감독을 비롯해 배우 안효섭, 김세정, 김민규, 설인아가 참석해 새 드라마에 대한 기대를 부탁했다. '사내맞선'은 얼굴 천재 능력남 CEO]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[안효섭, '나르시시즘'에 빠지다..'사내맞선', 대환장 맞선 프로젝트 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20220225152009878</link>
+            <guid>https://entertain.v.daum.net/v/20220225152009878</guid>
+            <pubDate>Fri, 25 Feb 2022 07:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 하지원 기자) ‘사내맞선’ 안효섭, 김세정의 대환장 맞선 프로젝트가 시작된다. 25일 SBS 새 월화드라마 ‘사내맞선’ 온라인 제작발표회가 진행됐다. 이날 제작발표회에는 박선호 감독, 안효섭, 김세정, 김민규, 설인아가 출연해 드라마에 관한 여러 이야기를 나눴다. ‘사내맞선’은 얼굴 천재 능력남 CEO와 정체를 속인 맞선녀 직원의 스릴 가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연기는 잘하는 서예지, 사과없이 안방 복수 성공할까? (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20220225151732767</link>
+            <guid>https://entertain.v.daum.net/v/20220225151732767</guid>
+            <pubDate>Fri, 25 Feb 2022 07:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박소영 기자] tvN ‘이브’ 측이 결국 서예지에게 복귀 기회를 줬다. 서예지로서는 ‘사이코지만 괜찮아’ 이후 2년 만의 안방 컴백이다. 무엇보다 가스라이팅 논란으로 비난 받은 후 터뜨린 복귀 신호탄이다. tvN&nbsp;새 드라마&nbsp;‘이브’(연출 박봉섭/&nbsp;극본 윤영미/&nbsp;제작&nbsp;스튜디오드래곤,&nbsp;씨제스엔터테인먼트) 측은 25일 주연배우들의 첫 대본리딩 단체]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['논란 후 첫 복귀' 서예지, '이브' 2조원 이혼소송 주인공으로 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
@@ -2011,53 +2060,53 @@
             <content:encoded><![CDATA[[뉴스엔 이민지 기자] 김세정, 설인아가 재회했다. 2월 25일 진행된 SBS 새 월화드라마 '사내맞선'(극본 한설희 홍보희/연출 박선호) 온라인 제작발표회에서 김세정, 설인아가 남다른 친분을 자랑했다. 김세정은 설인아를 '자기'라고 부른다며 "볼 때마다 힘이 난다. '학교'에 이어 2번째로 만난건데 그 사이에 시간이 많이 흘렀다. 둘 다 참 잘 어른]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['사내맞선' 김세정 "♥안효섭, 낯 많이 가려 걱정..소년美 있어" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20220225144706607</link>
-            <guid>https://entertain.v.daum.net/v/20220225144706607</guid>
-            <pubDate>Fri, 25 Feb 2022 06:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 하지원 기자) 김세정이 '사내맞선'을 통해 안효섭과 호흡한 소감을 밝혔다. 25일 SBS 새 월화드라마 ‘사내맞선’ 온라인 제작발표회가 진행됐다. 이날 제작발표회에는 박선호 감독, 안효섭, 김세정, 김민규, 설인아가 출연해 드라마에 관한 여러 이야기를 나눴다. ‘사내맞선’은 얼굴 천재 능력남 CEO와 정체를 속인 맞선녀 직원의 스릴 가득]]></content:encoded>
+            <title><![CDATA['부캐전성시대' AVA큰오산이 "다음엔 지구에 가겠다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220225160002181</link>
+            <guid>https://entertain.v.daum.net/v/20220225160002181</guid>
+            <pubDate>Fri, 25 Feb 2022 07:06:05 GMT</pubDate>
+            <content:encoded><![CDATA[큰오산이의 버추얼 아바타가 부르구 오디션 결과에 대한 아쉬운 마음을 전했다. 갤럭시코퍼레이션과 페르소나스페이스는 25일 TV CHOSUN ‘부캐전성시대’ 큰오산이(산이) 버추얼 아바타의 인터뷰를 공개했다. 큰오산이의 버추얼 아바타는 반전 매력을 가진 저승사자 캐릭터. 지난달 30일 밤 10시 30분 방송한 '부캐전성시대' 7회에서 부르구 분파의 버추얼 아바]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['사내 맞선' 안효섭 "나르시즘 강태무 연기..'나는 잘난 사람이다!' 주입" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20220225144448496</link>
-            <guid>https://entertain.v.daum.net/v/20220225144448496</guid>
-            <pubDate>Fri, 25 Feb 2022 06:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠조선 문지연 기자] 배우 안효섭이 나르시즘 재벌3세 강태무를 연기하는 소감을 밝혔다. 25일 오후 SBS는 새 월화드라마 '사내 맞선'(한설희 홍보희 극본, 박선호 연출)의 제작발표회를 신종 코로나바이러스 감염증(코로나19) 확산 방지를 위한 온라인 생중계로 진행했다. 행사에는 안효섭, 김세정, 김민규, 설인아, 박선호 감독이 참석했다]]></content:encoded>
+            <title><![CDATA['랄라 라디오' 안성훈 "송가인 추천으로 '미스터트롯' 출연해" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220225154801800</link>
+            <guid>https://entertain.v.daum.net/v/20220225154801800</guid>
+            <pubDate>Fri, 25 Feb 2022 07:06:05 GMT</pubDate>
+            <content:encoded><![CDATA[가수 안성훈이 스페셜 DJ로 청취자들의 즐거움을 책임졌다. 안성훈은 25일 오전 11시 방송된 국방FM ‘이미엽의 랄라 라디오’에 출연했다. 이날 안성훈은 스페셜 DJ로 출연해 이미엽과 센스 넘치는 진행력을 선보이는가 하면, 스윗한 보이스로 청취자들의 귓가를 사로잡았다. 유쾌한 분위기를 주도한 안성훈은 영화배우 유해진과 래퍼 딘딘의 성대모사에 도전해 웃음]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['사내맞선' 설인아 "솔직하고 진취적인 진영서와 싱크로율? 90%" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20220225144210427</link>
-            <guid>https://entertain.v.daum.net/v/20220225144210427</guid>
-            <pubDate>Fri, 25 Feb 2022 06:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[‘사내맞선’ 설인아가 출연 소감을 전했다. 25일 오후 SBS 새 월화드라마 ‘사내맞선’ 제작발표회가 코로나19 확산 방지를 위해 온라인으로 생중계됐다. 이날 박선호 감독을 비롯해 배우 안효섭, 김세정, 김민규, 설인아가 자리에 참석했다. 설인아는 “원작을 웹툰으로 알고 있었다. 많은 인기를 끌었고, 웹툰에서 제일 좋아하는 캐릭터로 배역이 들어왔다. 머리]]></content:encoded>
+            <title><![CDATA[류수영, ♥박하선 최애 간식 호빵 新메뉴 도전 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220225154511717</link>
+            <guid>https://entertain.v.daum.net/v/20220225154511717</guid>
+            <pubDate>Fri, 25 Feb 2022 07:06:05 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김수진 기자] '편스토랑' 류수영이 아내 박하선의 최애 간식 '호빵'으로 만든 특별한 레시피를 공개한다. 25일 방송되는 KBS 2TV '신상출시 편스토랑'(이하 '편스토랑')에서는 한국인의 소울푸드 '분식'을 주제로 한 메뉴 개발 대결 결과가 공개된다. 그중 어남선생 류수영은 연예계 대표 사랑꾼 남편답게 아내 박하선의 최애 간식 '호빵'으로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['사내맞선' 안효섭 "김세정, 성실하고 주도면밀..최고의 파트너" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20220225144114400</link>
-            <guid>https://entertain.v.daum.net/v/20220225144114400</guid>
-            <pubDate>Fri, 25 Feb 2022 06:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 이경호 기자] 배우 안효섭, 김세정이 25일 오후 온라인 생중계로 진행된 SBS 새 월화드라마 '사내맞선' 제작발표회에 참석해 포즈를 취하고 있다.  얼굴 천재 능력남 CEO와 정체를 속인 맞선녀 직원의 스릴 가득 '퇴사 방지' 오피스 로맨스 '사내맞선'은 오는 28일 첫 방송된다. /사진제공=SBS 2022.02.25 /사진=이동훈 기자 pho]]></content:encoded>
+            <title><![CDATA[이유미 "'오징어 게임' 이후에도 배달 알바 했었다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220225154423692</link>
+            <guid>https://entertain.v.daum.net/v/20220225154423692</guid>
+            <pubDate>Fri, 25 Feb 2022 07:06:05 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 정지현 기자] 배우 이유미가 넷플릭스 오리지널 시리즈 '오징어 게임' 이후에도 배달 아르바이트를 했다고 고백했다. 25일 방송 예정인 KBS 2TV '유희열의 스케치북'에는 이무진, 이유미와 윤찬영, 비투비, 소닉스톤즈출연한다. 이날 '유스케X뮤지션 with you' 126번째 노래의 주인공으로 'MZ세대 음유시인' 이무진이 전격 출연했다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김세정 "'사내 맞선'으로 '로코 요정' 이야기 들었으면" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20220225143934339</link>
-            <guid>https://entertain.v.daum.net/v/20220225143934339</guid>
-            <pubDate>Fri, 25 Feb 2022 06:09:35 GMT</pubDate>
-            <content:encoded><![CDATA['사내맞선' 김세정이 로맨틱코미디 장르에 처음으로 도전하는 소감을 전했다. 25일 오후 SBS 새 월화드라마 '사내맞선'(극본 한설희·연출 박선호)의 제작발표회가 온라인으로 진행됐다. 행사에는 배우 안효섭, 김세정, 김민규, 설인아와 박선호 PD가 참석했다. '사내맞선'은 얼굴 천재 능력남 CEO 강태무(안효섭 분)와 정체를 속인 맞선녀 직원 신하리(]]></content:encoded>
+            <title><![CDATA[심형래 "CF 수입만 아파트 160채 살 수 있는 돈" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220225153945542</link>
+            <guid>https://entertain.v.daum.net/v/20220225153945542</guid>
+            <pubDate>Fri, 25 Feb 2022 07:06:05 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 이승길 기자] 코미디언 겸 영화감독 심형래가 전성기 시절 상상초월 수입을 공개했다. 27일 방송되는 MBN ‘신과 한판’에는 80~90년대 원조 초통령으로 대한민국을 평정했던 영구 캐릭터의 주인공 심형래가 출격, 천국과 지옥을 오가는 리얼 한판 토크를 벌인다. 방송에서는 ‘슬랩스틱 코미디의 정수’ ‘개그계의 레전드 바보’ 영구의 탄생 비화]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['사내맞선' 안효섭 "김세정 첫인상? 예쁘다..해맑고 긍정적인 사람" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20220225143610199</link>
-            <guid>https://entertain.v.daum.net/v/20220225143610199</guid>
-            <pubDate>Fri, 25 Feb 2022 06:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[‘사내맞선’ 안효섭과 김세정이 첫인상을 이야기했다. 25일 오후 SBS 새 월화드라마 ‘사내맞선’ 제작발표회가 코로나19 확산 방지를 위해 온라인으로 생중계됐다. 이날 박선호 감독을 비롯해 배우 안효섭, 김세정, 김민규, 설인아가 자리에 참석했다. 김세정은 “첫인상은 제가 오히려 어려워했었다. 낯도 가린다고 하고 어떻게 다가갈까 고민을 했다. 저만 다가가면]]></content:encoded>
+            <title><![CDATA['방과후설렘' 측 "투표 집계 공정성 확보 위해 시청자위원장 직접 참관" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220225153532395</link>
+            <guid>https://entertain.v.daum.net/v/20220225153532395</guid>
+            <pubDate>Fri, 25 Feb 2022 07:06:05 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박수인 기자] ‘방과후 설렘’ 파이널 멤버 14인의 최종 결과를 생방송으로 공개한다. 2월 27일 MBC와 네이버 NOW.(나우)를 통해 생방송되는 ‘방과후 설렘’에서는 데뷔조 자리를 두고 분투하는 14명의 결승전 무대가 펼쳐진다. 이날 방송에서는 파이널 무대를 앞둔 데뷔조와 도전조의 미묘한 신경전과 함께 ‘방과후 설렘’ 파이널 멤버 14명의 성]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['사내맞선' 김세정 "이전 작품과 아예 다르다" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20220225143607196</link>
-            <guid>https://entertain.v.daum.net/v/20220225143607196</guid>
-            <pubDate>Fri, 25 Feb 2022 06:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 이경호 기자] 배우 김세정이 25일 오후 온라인 생중계로 진행된 SBS 새 월화드라마 '사내맞선' 제작발표회에 참석해 포즈를 취하고 있다.  얼굴 천재 능력남 CEO와 정체를 속인 맞선녀 직원의 스릴 가득 '퇴사 방지' 오피스 로맨스 '사내맞선'은 오는 28일 첫 방송된다. /사진제공=SBS 2022.02.25 /사진=이동훈 기자 photoguy]]></content:encoded>
+            <title><![CDATA['고딩엄빠' 심리상담가 박재연-성교육 강사 이시훈 합류, 황금라인업 완성 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220225152619064</link>
+            <guid>https://entertain.v.daum.net/v/20220225152619064</guid>
+            <pubDate>Fri, 25 Feb 2022 07:06:05 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박수인 기자] '고딩엄빠' 첫 녹화 현장이 공개됐다. 오는 3월 6일 첫 방송되는 MBN 신규 예능 ‘어른들은 모르는 고딩엄빠’(이하 ‘고딩엄빠’)는 10대에 결혼, 출산, 육아를 경험하게 된 고등학생 엄마, 아빠의 일상을 관찰하는 리얼리티 예능이다. 10대의 성에 대해 보수적인 대한민국에서 처음으로 고등학생 엄마, 아빠의 일상을 소재로 한 프로]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['SNL코리아2' 김지석, 강건마 된다..무아지경 콩트 연기 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
@@ -2116,53 +2165,18 @@
             <content:encoded><![CDATA[[뉴스엔 박수인 기자] 최근 공인중개사 시험합격으로 화제를 모은 개그맨 서경석이 매물 찾기에 나선다. 2월 27일 방송되는 MBC ‘구해줘! 홈즈’(연출:이민희,전재욱 /이하 ‘홈즈’)에서는 육아대디&amp;워킹맘 3인 가족이 의뢰인으로 등장한다. 6개월 아들을 둔 의뢰인 아내는 출산 후 3개월 만에 복직했으며, 남편은 다니던 회사를 퇴사하고 현재 아들 육아를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임주환, 허리 통증에 화장실서 눈물?.."변기에 못 앉겠어" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220225142527747</link>
-            <guid>https://entertain.v.daum.net/v/20220225142527747</guid>
-            <pubDate>Fri, 25 Feb 2022 06:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 임주환이 고된 아르바이트에 허리 통증을 호소했다. 2월 24일 방송된 tvN ‘어쩌다 사장2’에서는 차태현, 조인성과 아르바이트생 임주환, 이광수, 김우빈의 영업 1일차 모습이 공개 됐다. 영업 첫 날부터 밀려드는 손님을 응대하느라 정신이 없었던 두 사장과 아르바이트생들은 마트 내에 있는 작은 방에 모여 휴식을 취했다. 방에]]></content:encoded>
+            <title><![CDATA[이상우→명세빈 '더 호텔'로 스크린 컴백..4월 크랭크 인 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+            <link>https://entertain.v.daum.net/v/20220225152957157</link>
+            <guid>https://entertain.v.daum.net/v/20220225152957157</guid>
+            <pubDate>Fri, 25 Feb 2022 07:06:09 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 미스터리 스릴러 영화 '더 호텔'(김정민 감독, 스튜디오 온새미로 제작)이 배우 이상우, 신혜정, 명세빈 그리고 권혁, 이도연, 유다미 등 캐스팅을 확정 짓고, 완벽한 팀플레이를 예고하는 리딩 현장을 전격 공개했다. 이상우, 신혜정, 명세빈 그리고 권혁, 이도연, 유다미 등 개성 넘치는 매력을 지닌 배우들의 캐스팅]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오은영 박사 맘먹고 나왔어도 '써클 하우스' 공감대 적었던 건 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220225141825517</link>
-            <guid>https://entertain.v.daum.net/v/20220225141825517</guid>
-            <pubDate>Fri, 25 Feb 2022 06:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[[엔터미디어=정덕현] "신년특집 10부작. 대한민국 청춘상담 프로젝트. '어른이들'의 특별한 비밀상담소. 2022년 현재 MZ세대가 가진 고민 10가지에 대해서 매주 같은 고민을 가진 어른이들을 초대해서 그 해답을 스스로 찾아보게 하는 것이 저희 &lt;써클 하우스&gt;의 목적입니다." SBS &lt;써클 하우스&gt;에서 메인MC로 나선 이승기는 이 프로그램의 목적에 대해]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['장미의전쟁' 이상민 이은지 양재웅 꿀조합, 시청자 과몰입 유발할까 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220225141111264</link>
-            <guid>https://entertain.v.daum.net/v/20220225141111264</guid>
-            <pubDate>Fri, 25 Feb 2022 06:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박수인 기자] ‘장미의 전쟁’ 2MC 이상민, 이은지와 양재웅이 시너지를 예고했다. 오는 3월 7일 MBC에브리원 신규 예능 프로그램 ‘리얼 커플 스토리-장미의 전쟁’(이하 ‘장미의 전쟁’)이 첫 방송된다. 2022년 가장 핫한 예능 대세 이상민과 이은지가 ‘장미의 전쟁’ MC로 출연, 시청자들의 과몰입을 유발할 전망이다. 여기에 정신건강의학과]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['임신' 김영희 "백신 부작용인줄..눈물도 나고, 걱정도 됐다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220225135559759</link>
-            <guid>https://entertain.v.daum.net/v/20220225135559759</guid>
-            <pubDate>Fri, 25 Feb 2022 05:05:38 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 백민경 인턴기자) 코미디언 김영희가 임신 소식을 전했다. 24일 김영희는 자신의 유튜브 채널에 "임밍아웃 내가 엄마라니???!!"라는 제목의 영상을 게재했다. 김영희는 "남편과 같이 인사드려야 되는데 (남편이) 스프링 캠프에 참석한 상태"라며 "집에 한 달째 혼자 있다"고 말했다.&nbsp;이어 그는 "축하받을 일이 생겼다. 엄마가 됐다"면서 임신]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['1박2일' 해도 너무한 땅박..'새멤버' 나인우도 경악 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220225134535492</link>
-            <guid>https://entertain.v.daum.net/v/20220225134535492</guid>
-            <pubDate>Fri, 25 Feb 2022 05:05:38 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박소영 기자] ‘야생 초짜’ 나인우가 야외 취침 최종 보스 ‘땅박’에 도전한다. 오는 27일(일) 저녁 6시 30분에 방송되는 KBS 2TV ‘1박 2일 시즌4’(이하 1박 2일) ‘혹한기 실전 훈련’ 특집에서는 마지막까지 긴장의 끈을 놓을 수 없는 여섯 남자의 혹독한 야생 그려진다. 지난주 잠자리 복불복 대결에서 패배해 ‘땅박’에 당첨된 ‘]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['1박2일' 라비, 나인우 '땅박' 도전에 "우리에겐 내일 없을 수도" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220225133722263</link>
-            <guid>https://entertain.v.daum.net/v/20220225133722263</guid>
-            <pubDate>Fri, 25 Feb 2022 05:05:38 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박수인 기자] ‘야생 초짜’ 나인우가 야외 취침 최종 보스 ‘땅박’에 도전한다. 2월 27일 방송되는 KBS 2TV ‘1박 2일 시즌4’(이하 1박 2일) ‘혹한기 실전 훈련’ 특집에서는 마지막까지 긴장의 끈을 놓을 수 없는 여섯 남자의 혹독한 야생 그려진다. 지난주 잠자리 복불복 대결에서 패배해 ‘땅박’에 당첨된 ‘YB’팀은 상상을 초월하는 취]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['전참시' 비투비 매니저 "통제 안되는 그룹, 조금이라도 조용해졌으면" 폭로 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220225133416178</link>
-            <guid>https://entertain.v.daum.net/v/20220225133416178</guid>
-            <pubDate>Fri, 25 Feb 2022 05:05:38 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 그룹 비투비가 완전체로 '전참시'에 출격한다. 2월 26일 방송되는 MBC '전지적 참견 시점'(기획 박정규 / 연출 노시용, 윤혜진 / 이하 '전참시') 189회에는 10주년을 맞이한 ‘군필돌’ 비투비가 출연한다. 비투비는 남다른 입담과 예능감으로 연예계 대표 비글돌로 알려져 있다. 이날 매니저는 “정말 통제가 안 되는 그룹이다.]]></content:encoded>
+            <title><![CDATA['이상한 나라의 수학자' 김동휘 "상대가 최민식 선배님이라니.." (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+            <link>https://entertain.v.daum.net/v/20220225151825818</link>
+            <guid>https://entertain.v.daum.net/v/20220225151825818</guid>
+            <pubDate>Fri, 25 Feb 2022 07:06:09 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 한미희 기자 = "평생 연기하면서 이런 작품을 만날 수 있을까 싶어요. 아직 어린 나이에 주인공을 맡은 첫 작품인데 상대 역할이 최민식 선배님이었으니 여러모로 뜻깊은 작품입니다." 다음 달 9일 개봉하는 영화 '이상한 나라의 수학자'에서 탈북한 천재 수학자 이학성(최민식 분)에게 수학을 배우며 우정을 나누는 고등학생 한지우를 연기한 배우]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이상우·AOA 혜정·명세빈, '더 호텔' 출연 "4월 4일 크랭크인"..리딩 현장 공개 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
@@ -2254,20 +2268,6 @@
             <guid>https://entertain.v.daum.net/v/20220225113519049</guid>
             <pubDate>Fri, 25 Feb 2022 03:06:10 GMT</pubDate>
             <content:encoded><![CDATA[[동아닷컴] 이상우X신혜정X명세빈 ‘더 호텔’ 캐스팅 확정 [공식] 비밀을 간직한 이들이 모이는 이곳, ‘더 호텔’이 이상우, 신혜정, 명세빈 그리고 권혁, 이도연, 유다미 등 캐스팅을 확정 짓고, 완벽한 팀플레이를 예고하는 리딩 현장을 전격 공개했다. ‘더 호텔’은 각자마다의 복잡한 사연을 지닌 사람들이 ‘더 호텔’에 모이면서 벌어지게 되는 미스터리 스]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[61살 숀 펜, "우크라이나서 러시아 침략 다큐멘터리 촬영중" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-            <link>https://entertain.v.daum.net/v/20220225112619683</link>
-            <guid>https://entertain.v.daum.net/v/20220225112619683</guid>
-            <pubDate>Fri, 25 Feb 2022 02:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]아카데미 남우주연상 수상자이자 유명 감독인 숀 펜(61)이 우크라이나에서 러시아 침략 다큐멘터리를 촬영 중이다. 버라이어티는 24일(현지시간) “숀 펜이 우크라이나에서 러시아의 침공에 관한 다큐멘터리를 촬영하고 있다”면서 “그는 우크라이나 수도 키예프에서 열린 언론 브리핑에서 정부 관계자들의 위기상황에 대한 설명을 들었다”고]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['이상한 나라의 수학자' 김동휘 "최민식과 호흡..함께 연기하면서도 빠져들었다" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-            <link>https://entertain.v.daum.net/v/20220225112542649</link>
-            <guid>https://entertain.v.daum.net/v/20220225112542649</guid>
-            <pubDate>Fri, 25 Feb 2022 02:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 영화 '이상한 나라의 수학자'(감독 박동훈)의 배우 김동휘가 25일 오전 진행된 화상 인터뷰를 위해 포즈를 취하고 있다.  신분을 감추고 고등학교 경비원으로 일하는 탈북한 천재 수학자가 수학을 포기한 학생을 만나며 벌어지는 영화 '이상한 나라의 수학자'는 내달 9일 개봉된다. /사진제공=쇼박스 2022.02.25 /사진=이동훈 기]]></content:encoded>
         </item>
     </channel>
 </rss>
