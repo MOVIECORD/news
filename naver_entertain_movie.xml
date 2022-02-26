@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-26T21:06:32.142Z</updated>
+    <updated>2022-02-26T22:05:42.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[닥터 스트레인지, “소떼 출몰로 위험에 처한 가족 생명 구했다”[해외이슈]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003580297</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003580297"/>
+        <updated>2022-02-26T22:04:59.269Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘닥터 스트레인지’ ‘파워 오브 도그’의 베네딕트 컴버배치(45)가 소떼 출몰로 위험에 처한 가족을 구했다. 그는 25일(현지시간) 영국 BBC ‘그레이엄 노턴 쇼’에 출연해 들판에서 소]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[극장가 끝없는 침체…'더 배트맨' 구원투수 될까 [N초점]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005933237</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002579808"/>
         <updated>2022-02-26T01:50:37.593Z</updated>
         <content type="html"><![CDATA[[데일리안 = 류지윤 기자] 배우 이정재의 글로벌 행보가 계속되고 있다. 파리한국영화제 측은 오는 27일(현지시각) 프랑스 파리의 퓌블리시스 시네마(PublicisCinemas)에서 한국 영화 ‘다만 악에서 구하소서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['극장판 주술회전 0', 주알못도 빠져버린 프리퀄[스크린PICK]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005155495</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005155495"/>
-        <updated>2022-02-26T01:50:37.593Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 박미애 기자] 개봉 영화를 소개합니다 ◇‘극장판 주술회전 0’ “약속이야, 리카와 유타는 어른이 되면 결혼하는 거야.” 옷코츠 유타는 어릴 적 소꿉친구인 오리모토 리카를 교통사고로 눈앞에서 잃는다]]></content>
     </entry>
 </feed>
