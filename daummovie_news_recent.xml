@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-02-26T20:05:22.089Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 26 Feb 2022 21:06:32 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[극장가 끝없는 침체..'더 배트맨' 구원투수 될까 [N초점]]]></title>
+            <link>https://v.daum.net/v/20220227060028546</link>
+            <guid>https://v.daum.net/v/20220227060028546</guid>
+            <pubDate>Sat, 26 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 신종 코로나바이러스 감염증(코로나19) 변이 바이러스 오미크론의 확산세가 이어지면서 극장가 침체도 지속되고 있다. 지난해 11월 잠시 '위드 코로나'로 방역 체계가 전환되면서 극장 관객수가 회복세로 돌아설 수 있을지 기대하는 분위기가 있었다. 하지만 오미크론이 우세종이 되면서 기회로 여겨졌던 설 연휴 명절 특수도 사실상]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202202%2F27%2FNEWS1%2F20220227060028604slgw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
