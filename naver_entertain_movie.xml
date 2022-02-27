@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-27T05:06:19.230Z</updated>
+    <updated>2022-02-27T06:07:41.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스크린에 옮긴 활자들…소설 원작 영화 전성시대]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000530163</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000530163"/>
+        <updated>2022-02-27T06:06:48.879Z</updated>
+        <content type="html"><![CDATA[[앵커] 소설을 원작으로 한 영화가 잇따라 극장에 개봉합니다. 원작 소설을 아는 관객이라면 이야기가 스크린에 어떻게 구현됐는지를 보거나, 반대로 영화를 본 뒤 소설을 찾아보는 재미도 있겠는데요. 박효정 기자가 보도합]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[D:인터뷰] 박가영이 말하는 '온 세상이 하얗다']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002580010</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002580010"/>
+        <updated>2022-02-27T06:06:48.883Z</updated>
+        <content type="html"><![CDATA[[데일리안 = 류지윤 기자] 제25회 부산국제영화제 한국 영화의 오늘-비전, 제20회 전북독립영화제 국내 경쟁-장편 부문에 진출한 김지석 감독의 데뷔작 '온 세상이 하얗다'는 우연히 만난 한 남자와 한 여자가 죽기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인민을 위해 복무하라' 파격 노출, 수위 높은 베드신..그 이상은? [★날선무비]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003031837</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003671152"/>
         <updated>2022-02-26T05:06:15.703Z</updated>
         <content type="html"><![CDATA[올 2월에도 영화진흥위원회에서 전년도 한국 영화산업 결산 보고서를 발표했다. 거의 매년 보고서 내용을 소개했었는데, 이번에는 옛이야기도 좀 해볼까 한다. 2021년 한국 영화산업 통계를 보며 40여년 전 통계가 떠올]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이상한 나라의 수학자'X멜로망스 컬래버...'하나의 답' 뮤비 티저 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001208281</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001208281"/>
-        <updated>2022-02-26T05:06:15.705Z</updated>
-        <content type="html"><![CDATA[영화 ‘이상한 나라의 수학자’가 감성 뮤지션 멜로망스가 참여한 ‘파이(π) 송’ 프로젝트 ‘하나의 답’ 뮤직비디오 티저 영상을 공개했다. 영화 ‘이상한 나라의 수학자’는 신분을 감추고 고등학교 경비원으로 일하는 탈북]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["최고의 퀸메이커"..'지우학' 진호은의 레벨 업 [★FULL인터뷰]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003031672</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003031672"/>
-        <updated>2022-02-26T04:06:26.436Z</updated>
-        <content type="html"><![CDATA[돋보이지 않아도 충분히 빛났다. '지금 우리 학교는'을 통해 짧지만 강한 임팩트를 남긴 배우 진호은이다. 최근 진호은은 스타뉴스와 직접 만나 지난달 28일 공개된 넷플릭스 시리즈 '지금 우리 학교는'에 대한 다양한]]></content>
     </entry>
 </feed>
