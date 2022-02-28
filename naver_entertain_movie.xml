@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-28T19:06:22.111Z</updated>
+    <updated>2022-02-28T20:08:33.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['탐정'이 된 배트맨, '선배들'과 다른 이야기 펼치다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000660935</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000660935"/>
+        <updated>2022-02-28T20:07:46.977Z</updated>
+        <content type="html"><![CDATA[개봉을 하루 앞두고 12만4,000여 명(2월 28일 오후 기준 영화진흥위원회 집계)이 예매했다. 설날 연휴를 겨냥해 선보였던 ‘해적: 도깨비 깃발’(6만여 명)보다 2배 정도 많은 수치다. 신종 코로나바이러스 감염]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트라우마에 사로잡힌 2년차 배트맨...'더 배트맨'[리뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003131428</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004928220"/>
         <updated>2022-02-28T08:09:50.698Z</updated>
         <content type="html"><![CDATA[가수 겸 배우 혜리가 절친 정호연의 미국 배우조합상 시상식(SAG) 여우주연상 수상을 축하했다. 28일 혜리는 자신의 인스타그램 스토리에 "멋진 호연이 너무 너무 너무 축하해"라는 글과 함께 정호연의 수상 사진을 게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['뜨거운 피' 정우 "마지막 작품이라는 심정으로 임해..배우로서 큰 도전"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003032123</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003032123"/>
-        <updated>2022-02-28T08:09:50.705Z</updated>
-        <content type="html"><![CDATA[배우 정우가 부산을 배경으로 한 영화 '뜨거운 피'에서 다시 한번 인생 열연을 펼칠 예정이다. 영화 '뜨거운 피'는 1993년, 더 나쁜 놈만이 살아남는 곳 부산 변두리 포구 '구암'의 실세 '희수'와 그곳에서 살아]]></content>
     </entry>
 </feed>
