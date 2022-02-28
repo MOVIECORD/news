@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 08:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 09:05:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["더 배트맨을 돌비시네마로 본다면" 압도하는 음향과 영상]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=194705</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=194705</guid>
+            <pubDate>Mon, 28 Feb 2022 09:03:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=194705">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220228162238_1d21263f7f21acb674726d0241726537.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=194705">"더 배트맨을 돌비시네마로 본다면" 압도하는 음향과 영상 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220228162238_1d21263f7f21acb674726d0241726537.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['오징어게임' 정호연, 美 SAG 여우주연상 수상]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=194642</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193964">'킹메이커' 이탈리아 우디네 극동영화제 공식초청</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220224135841_5c71462f475140dd856bca435d5480cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플오리지널 '파친코', 윤여정 이민호의 '미국의 한국인']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=193943</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=193943</guid>
-            <pubDate>Thu, 24 Feb 2022 08:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=193943">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220224121633_c5624054b44383c5c7dbb30083a309ad_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=193943">애플오리지널 '파친코', 윤여정 이민호의 '미국의 한국인'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220224121633_c5624054b44383c5c7dbb30083a309ad_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
