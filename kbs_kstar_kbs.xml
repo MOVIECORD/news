@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 05:06:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 06:07:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 여자를 사랑하는 두 절친의 사연, 서장훈 "의리로 거절한다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=194791</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=194791</guid>
+            <pubDate>Tue, 01 Mar 2022 06:06:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=194791">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220301142911_99b9adfcc2aee59333e0d7293cb43ec4.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=194791">한 여자를 사랑하는 두 절친의 사연, 서장훈 "의리로 거절한다"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%97%B0%EC%95%A0%EC%9D%98%EC%B0%B8%EA%B2%AC3">연애의참견3</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220301142911_99b9adfcc2aee59333e0d7293cb43ec4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서현-나인우의 판타지 로맨스 '징크스의 연인']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=194722</link>
@@ -345,24 +363,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220227231829_546189174257bbb5a007b2e20bc76eea_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[슈퍼맨이 돌아왔다] 신현준, 두 아들과 시골체험... 동물사랑 민준이의 소중한 달걀이 깨졌다]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=194530</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=194530</guid>
-            <pubDate>Sun, 27 Feb 2022 16:07:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=194530">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220227231619_542f5c2357bb39ed7c1a75391225847a_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=194530">[슈퍼맨이 돌아왔다] 신현준, 두 아들과 시골체험... 동물사랑 민준이의 소중한 달걀이 깨졌다</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220227231619_542f5c2357bb39ed7c1a75391225847a_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
