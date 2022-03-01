@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-02-28T23:06:03.044Z</updated>
+    <updated>2022-03-01T00:26:37.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[리뷰] '더 배트맨' 히어로 아닌 인간..범죄, 액션, 추리, 로맨스 다 있네]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003032236</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003032236"/>
+        <updated>2022-03-01T00:25:45.305Z</updated>
+        <content type="html"><![CDATA[DC 히어로 '더 배트맨'이 새로운 모습으로 극장을 찾았다. '혹성탈출' 시리즈 맷 리브스 감독이 연출 한 '더 배트맨'은 우리가 아는 히어로가 아닌 인간 브루스 웨인의 모습을 더 많이 보여주며 이제 2년차, 청년]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노컷 리뷰]'더 배트맨' 우리가 놓쳤던 진짜 배트맨 추리하기]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003615125</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001415445"/>
         <updated>2022-02-28T10:06:46.191Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 정우가 부산을 배경으로 한 영화 '뜨거운 피'(감독 천명관)에서 다시 한번 열연을 펼친다. '뜨거운 피'는 1993년, 더 나쁜 놈만이 살아남는 곳 부산 변두리 포구 구암의 실세 희]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 배트맨', 개봉 하루 전 예매율 72%…극장가 구원투수 될까[공식]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004565333</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004565333"/>
-        <updated>2022-02-28T10:06:46.191Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 내일(3월1일) 개봉을 앞둔 2022년 첫 히어로 블록버스터 ‘더 배트맨’이 상영 하루 전 예매율 70%를 상회했다. 코로나 변이 바이러스 오미크론의 확산세가 이어지면서 침체된 국내 극장가에]]></content>
     </entry>
 </feed>
