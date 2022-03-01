@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-03-01T18:06:18.973Z</updated>
+    <updated>2022-03-01T19:05:36.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배트맨, 영웅 아닌 고뇌에 찬 탐정으로 돌아왔다]]></title>
+        <id>https://entertain.v.daum.net/v/20220302040303344</id>
+        <link href="https://entertain.v.daum.net/v/20220302040303344"/>
+        <updated>2022-03-01T19:05:35.485Z</updated>
+        <content type="html"><![CDATA[“내가 그림자 속에 숨은 것 같지만 내가 바로 그림자다. 나는 복수다(I am vengeance).” 어린 시절의 어두운 기억에 갇혀 사는 브루스 웨인(로버트 패틴슨)이 음침한 고담시의 야경을 바라보며 나직이 읊조린다. 그는 배트맨이다. 가면과 모자, 슈트로 온몸을 가리고 있지만 흔들리는 눈빛, 일그러진 표정을 감추지 못한다. 가면 속엔 부모를 잃은 그]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연애편지를 대신 써준 남자, 편지 덕에 사랑에 빠진 여자.. 진짜 사랑은 무엇일까]]></title>
         <id>https://entertain.v.daum.net/v/20220301181143556</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220301071610567"/>
         <updated>2022-02-28T23:06:02.458Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김미화 기자] /사진='언차티드' 톰 홀랜드 주연의 영화 '언차티드'가 1위를 지켰다. 1일 영진위 영화관 입장권 통합 전산망에 따르면 '언차티드'는 지난 2월 28일 2만 6883명의 관객을 동원했다. 누적관객수는 61만 4847명으로 60만 명을 돌파했다. 2위는 '극장판 주술회전0'으로 1만 5316명이 봤다. 누적관객수 30만 6827]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 배트맨' 가장 완벽한 리셋 "이제는 조커와 헤어져도 될 시간"]]></title>
-        <id>https://entertain.v.daum.net/v/20220301070005322</id>
-        <link href="https://entertain.v.daum.net/v/20220301070005322"/>
-        <updated>2022-02-28T22:05:21.663Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 허민녕 기자] 모든 시리즈를 통틀어 가장 완벽한 ‘리셋’(Reset). ‘조커’는 이제 보내줘도 될 것 같다. 영화 ‘더 배트맨’이다. 이런 생각도 든다. 개봉을 지난 해 말로 조금 더 서둘렀더라면 히어로 시리즈 사상 유례없는 수상 퍼레이드를 펼쳤던 ‘조커’에 필적할 만한 성과를 거두지 않았을 지. 예컨대 ‘기생충’ 신드롬 속에서 오스카 10개]]></content>
     </entry>
 </feed>

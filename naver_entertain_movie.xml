@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-01T18:06:18.972Z</updated>
+    <updated>2022-03-01T19:05:36.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배트맨, 영웅 아닌 고뇌에 찬 탐정으로 돌아왔다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001508875</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001508875"/>
+        <updated>2022-03-01T19:04:49.030Z</updated>
+        <content type="html"><![CDATA[“내가 그림자 속에 숨은 것 같지만 내가 바로 그림자다. 나는 복수다(I am vengeance).” 어린 시절의 어두운 기억에 갇혀 사는 브루스 웨인(로버트 패틴슨)이 음침한 고담시의 야경을 바라보며 나직이 읊조린]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[우크라 침공] 칸영화제, 올해 5월 행사에 러시아 대표단 초청 않기로]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013021542</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000044326"/>
         <updated>2022-02-28T23:05:19.601Z</updated>
         <content type="html"><![CDATA[온라인 동영상 스트리밍 서비스 왓챠가 제작한 왓챠 오리지널 미식 여행 리얼리티 &lt;조인 마이 테이블&gt;이 공개됐다. 28일(월)부터 왓챠에서 만날 수 있는 왓챠 오리지널 미식 여행 리얼리티 &lt;조인 마이 테이블&gt;은 우리나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['언차티드', 박스오피스 1위..누적 60만 돌파 [★무비차트]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003032223</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003032223"/>
-        <updated>2022-02-28T23:05:19.606Z</updated>
-        <content type="html"><![CDATA[톰 홀랜드 주연의 영화 '언차티드'가 1위를 지켰다. 1일 영진위 영화관 입장권 통합 전산망에 따르면 '언차티드'는 지난 2월 28일 2만 6883명의 관객을 동원했다. 누적관객수는 61만 4847명으로 60만 명을]]></content>
     </entry>
 </feed>
