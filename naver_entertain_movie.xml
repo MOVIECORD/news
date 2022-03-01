@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-01T19:05:36.112Z</updated>
+    <updated>2022-03-01T20:06:53.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["따끈따끈한 신작 왔어요"…넷플릭스 최신 공개 작품들 [TF프리즘]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000135350</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000135350"/>
+        <updated>2022-03-01T20:06:12.549Z</updated>
+        <content type="html"><![CDATA[범죄·로맨스·드라마·액션까지…취향대로 골라보자 3월 들어 보릿고개를 겪고 있는 극장가와 달리 OTT를 통한 네티즌 관객 소통은 오히려 활발해졌다. 시간을 '순삭'(순간 삭제)하게 할 최근 넷플릭스 신작 리스트가 조명]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배트맨, 영웅 아닌 고뇌에 찬 탐정으로 돌아왔다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001508875</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005937902"/>
         <updated>2022-02-28T23:05:19.601Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = DC코믹스의 배트맨이 새로운 스타와 함께 돌아왔다. 할리우드 배우 로버트 패틴슨이 주연을 맡은 '더 배트맨'이 극장가를 찾아온 것. 새로운 캐스팅의 '더 배트맨'은 176분이라는 긴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왓챠 미식 여행 리얼리티 '조인 마이 테이블']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000044326</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000044326"/>
-        <updated>2022-02-28T23:05:19.601Z</updated>
-        <content type="html"><![CDATA[온라인 동영상 스트리밍 서비스 왓챠가 제작한 왓챠 오리지널 미식 여행 리얼리티 &lt;조인 마이 테이블&gt;이 공개됐다. 28일(월)부터 왓챠에서 만날 수 있는 왓챠 오리지널 미식 여행 리얼리티 &lt;조인 마이 테이블&gt;은 우리나]]></content>
     </entry>
 </feed>
