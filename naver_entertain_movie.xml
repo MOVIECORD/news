@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-02T14:06:18.358Z</updated>
+    <updated>2022-03-02T15:07:49.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[평창국제평화영화제 장편영화 기획개발 공모]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=654&amp;aid=0000003959</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=654&amp;aid=0000003959"/>
+        <updated>2022-03-02T15:07:07.575Z</updated>
+        <content type="html"><![CDATA[2022 평창국제평화영화제가 영화창작기반 플랫폼인 '피칭 프로젝트' 지원작을 공모한다. 영화제 정체성에 맞는 장편영화 기획개발 공모전으로 오는 28일부터 4월 6일까지 접수한다. 평화와 공존을 모토로 한 작품을 찾는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KCM "영화 주연 발탁…힘들다"…최환희, 귀가 쫑긋]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011037404</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000135570"/>
         <updated>2022-03-02T09:05:39.562Z</updated>
         <content type="html"><![CDATA[반정부 시위 벌이는 러시아 국적 영화인에게는 경의 세계 3대 영화제 중 하나로 꼽히는 프랑스 칸 영화제가 러시아 영화에 대한 전면 보이콧을 선언했다. 칸 영화제 조직위원회는 1일(현지시간) 러시아가 우크라이나에 대한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그리드' 서강준-김아중, 따로 또 같이 공조 시작]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000044368</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000044368"/>
-        <updated>2022-03-02T09:05:39.565Z</updated>
-        <content type="html"><![CDATA[디즈니+의 첫 UHD 오리지널 시리즈 &lt;그리드&gt; 서강준과 김아중이 진실을 찾기 위해 '따로 또 같이' 공조를 시작한다. 디즈니+의 오리지널 시리즈 &lt;그리드&gt; 지난 2회에서 김새하(서강준)는 부국장 최선울(장소연)의]]></content>
     </entry>
 </feed>
