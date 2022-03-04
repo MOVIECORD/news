@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-04T21:06:23.255Z</updated>
+    <updated>2022-03-04T22:06:23.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SNL코리아 "모니카, 립제이, 아이키, 가비, 그리고 허경영"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000044448</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000044448"/>
+        <updated>2022-03-04T22:05:39.932Z</updated>
+        <content type="html"><![CDATA[쿠팡플레이의 오리지널 코미디쇼 'SNL 코리아 시즌2'(제작 에이스토리)가 5일(토) 방송되는 9회 호스트 모니카, 립제이, 아이키, 가비의 뜨거운 활약을 예고해 기대를 모은다. 지난해 대한민국을 댄스 열풍에 빠트린]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주말의 OTT]음식으로 들여다본 이주민의 삶]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011043521</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003537575"/>
         <updated>2022-03-04T08:07:58.441Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=이미지 기자] 윤여정이 제94회 아카데미 시상식에 시상자로 참석한다. 4일 오전 미국 영화예술과학아카데미의 공식 SNS에 따르면 배우 윤여정이 시상자로 올해 시상식 무대에 선다. 공개된 시상자 명단에는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['월클' 박서준 "한국에 보석 같은 작품 많아" 英 가디언 단독 인터뷰]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001208769</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001208769"/>
-        <updated>2022-03-04T08:07:58.445Z</updated>
-        <content type="html"><![CDATA[배우 박서준이 영국의 유력 일간지 가디언지(THE GUARDIAN)과 단독 인터뷰를 가졌다. 3일(현지시간) 영국 가디언지는 박서준을 MCU에 합류한 한국 배우라고 소개하며 그의 연기 인생과 작품 세계를 심도 있게]]></content>
     </entry>
 </feed>
