@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-04T20:06:28.061Z</updated>
+    <updated>2022-03-04T21:06:23.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주말의 OTT]음식으로 들여다본 이주민의 삶]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011043521</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011043521"/>
+        <updated>2022-03-04T21:05:33.699Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 손정빈 기자 = 이번 주말 넷플릭스와 왓챠에서 볼 만한 영화·드라마·예능을 추렸다. 소설가 박상영과 방송인 이금희가 함께 나와 이주민들의 음식을 맛보는 '조인 마이 테이블'을 왓챠에서 볼 수 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임시완, 우크라에 2천만원 기부…현지숙소 '착한 노쇼' 동참]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011043123</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001208769"/>
         <updated>2022-03-04T08:07:58.445Z</updated>
         <content type="html"><![CDATA[배우 박서준이 영국의 유력 일간지 가디언지(THE GUARDIAN)과 단독 인터뷰를 가졌다. 3일(현지시간) 영국 가디언지는 박서준을 MCU에 합류한 한국 배우라고 소개하며 그의 연기 인생과 작품 세계를 심도 있게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김혜수 "소년범죄에 대한 관심, 편협하고 감정적이었다"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000280669</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000280669"/>
-        <updated>2022-03-04T08:07:58.448Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 배우 김혜수가 넷플릭스 드라마 '소년심판'을 촬영하면서 느꼈던 감정에게 대해 솔직하게 털어놓았다. 4일 오후 언론 매체들과 온라인 인터뷰를 가진 김혜수는 "소년범들이 저지르는 성인]]></content>
     </entry>
 </feed>
