@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-05T14:05:42.880Z</updated>
+    <updated>2022-03-05T15:06:19.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] '이나수' 조윤서, "영화 엔딩 크레딧 이름 뜰 때 눈물"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000136122</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000136122"/>
+        <updated>2022-03-05T15:05:28.758Z</updated>
+        <content type="html"><![CDATA["데뷔 10년 만에 첫 주연…너무 행복하고 벅차" 데뷔 10년 차 배우가 엔딩 크레딧에서 자신의 이름을 보고 눈물을 흘렸다. 이 배역을 따내기 위해 오디션 당시 피아노 연주가 서툴러도 잘 할 수 있다며 '하얀 거짓말]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김혜수 “소년범죄 근본적인 문제 생각해야” (소년심판)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000964576</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003033393"/>
         <updated>2022-03-05T00:26:16.905Z</updated>
         <content type="html"><![CDATA[관록의 대배우 김영옥이 65년 연기 인생 첫 주연을 맡았다. 대한민국 현역 최고령 여성 배우인 김영옥은 이 작품으로 스크린 현역 최고령 주연 배우로 등극했다. 김영옥 배우는 '미나리'로 한국배우 최초 미국 아카데미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아카데미 6개 후보..윌 스미스 '킹 리차드', 3월 24일 개봉 [무비타이밍]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003033392</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003033392"/>
-        <updated>2022-03-05T00:26:16.905Z</updated>
-        <content type="html"><![CDATA[제94회 아카데미 시상식 작품상과 윌 스미스의 남우주연상을 비롯해 주요 6개 부문 후보에 오른 영화 '킹 리차드'가 3월 24일 개봉을 확정했다. '킹 리차드'는 무려 20여 년간 세계 최강의 테니스 제왕으로 군림한]]></content>
     </entry>
 </feed>
