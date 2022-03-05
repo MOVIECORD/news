@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 00:27:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 02:03:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SNL코리아 "모니카, 립제이, 아이키, 가비, 그리고 허경영"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=195381</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=195381</guid>
+            <pubDate>Sat, 05 Mar 2022 02:00:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=195381">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220304164955_da4a983062da870df2e42cc8d3328770.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=195381">SNL코리아 "모니카, 립제이, 아이키, 가비, 그리고 허경영"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220304164955_da4a983062da870df2e42cc8d3328770.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[seezn(시즌), 스포츠 전용관 선보여]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=195367</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=194886">기예르모 델 토로의 '나이트메어 앨리', "황홀한 영상미학"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220302081439_2414bd0035fb1f2b8fc20cc75a4230dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강다니엘-채수빈, '너와 나의 바다여행']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=194877</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=194877</guid>
-            <pubDate>Wed, 02 Mar 2022 02:04:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=194877">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220302080729_69a28245656068995fcb35ba4c99b05d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=194877">강다니엘-채수빈, '너와 나의 바다여행'  </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220302080729_69a28245656068995fcb35ba4c99b05d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
