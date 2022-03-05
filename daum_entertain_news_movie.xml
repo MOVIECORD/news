@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-03-05T21:06:38.879Z</updated>
+    <updated>2022-03-05T22:06:12.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['문나이트', 마블 판도 뒤바꿀 히어로..케빈 파이기 "기존 작품과 달라"]]></title>
+        <id>https://entertain.v.daum.net/v/20220306070003744</id>
+        <link href="https://entertain.v.daum.net/v/20220306070003744"/>
+        <updated>2022-03-05T22:06:11.939Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 문나이트 / 사진=디즈니플러스디즈니+가 선보이는 마블 오리지널 시리즈 '문나이트'가 마블의 수장 '케빈 파이기'의 제작 코멘터리를 공개했다. '문나이트'는 악몽과 불면증에 시달리는 '스티븐'이 또다른 자아인 무자비한 용병 '마크 스펙터'의 존재를 깨닫고, 어둠이 깨운 초월적 히어로 '문나이트'로 거듭나게 되는 과정을 그린 마블]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이나수' 조윤서, "영화 엔딩 크레딧 이름 뜰 때 눈물"]]></title>
         <id>https://entertain.v.daum.net/v/20220306000037766</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220305090245182"/>
         <updated>2022-03-05T00:27:11.782Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 안태현 기자 = 영화 '더 배트맨'이 4일 연속 박스오피스 1위를 지켰다. 5일 영화진흥위원회 영화관 입장권 통합전산망 집계에 따르면 '더 배트맨'은 지난 4일 3만9236명의 관객을 동원하며 박스오피스 1위에 올랐다. 누적관객수는 30만7153명이다. '더 배트맨'은 지난 1일 개봉하자마자 박스오피스 정상을 차지한 후, 이를 4일 연속]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 배트맨', 불완전한 영웅의 성장통]]></title>
-        <id>https://entertain.v.daum.net/v/20220305090009108</id>
-        <link href="https://entertain.v.daum.net/v/20220305090009108"/>
-        <updated>2022-03-05T00:27:11.784Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 박미애 기자] 개봉 영화를 소개합니다. ◇더 배트맨 어린 시절 겪은 부모의 죽음으로 인해 배트맨으로서 고담시의 범법자들을 응징하며 살아온지 2년째. 브루스 웨인(로버트 패틴슨 분)은, 시장 선거를 앞두고 엘리트 집단을 상대로 잔악한 연쇄살인을 저지르는 수수께끼 킬러 리들러(폴 다노 분)의 출현에 고든 경위를 도와 수사를 나선다. 그가]]></content>
     </entry>
 </feed>

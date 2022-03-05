@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-05T21:06:38.800Z</updated>
+    <updated>2022-03-05T22:06:12.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['문나이트', 마블 판도 뒤바꿀 히어로..케빈 파이기 "기존 작품과 달라"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003033538</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003033538"/>
+        <updated>2022-03-05T22:05:14.010Z</updated>
+        <content type="html"><![CDATA[디즈니+가 선보이는 마블 오리지널 시리즈 '문나이트'가 마블의 수장 '케빈 파이기'의 제작 코멘터리를 공개했다. '문나이트'는 악몽과 불면증에 시달리는 '스티븐'이 또다른 자아인 무자비한 용병 '마크 스펙터'의 존재]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[집중 인터뷰]김혜수의 진심, 김혜수의 책임감]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011044652</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005948979"/>
         <updated>2022-03-05T00:26:16.871Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 안태현 기자 = 영화 '더 배트맨'이 4일 연속 박스오피스 1위를 지켰다. 5일 영화진흥위원회 영화관 입장권 통합전산망 집계에 따르면 '더 배트맨'은 지난 4일 3만9236명의 관객을 동원하며 박스오]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 배트맨', 불완전한 영웅의 성장통 [스크린PICK]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005160499</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005160499"/>
-        <updated>2022-03-05T00:26:16.904Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 박미애 기자] 개봉 영화를 소개합니다. ◇더 배트맨 어린 시절 겪은 부모의 죽음으로 인해 배트맨으로서 고담시의 범법자들을 응징하며 살아온지 2년째. 브루스 웨인(로버트 패틴슨 분)은, 시장 선거를]]></content>
     </entry>
 </feed>
