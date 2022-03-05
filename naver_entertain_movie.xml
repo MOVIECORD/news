@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-05T20:05:41.623Z</updated>
+    <updated>2022-03-05T21:06:38.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[집중 인터뷰]김혜수의 진심, 김혜수의 책임감]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011044652</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011044652"/>
+        <updated>2022-03-05T21:05:53.786Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 넷플릭스 '소년심판'서 판사 심은석 역 소년범 혐오 동시에 범죄 이면 고뇌해 "메시지에 최대한의 진정성 담아냈다" "무거운 책임 어떤 때보다 준비 철저" "소년범죄 단순한 논리로 해결 안 돼" "어른]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] '이나수' 조윤서, "영화 엔딩 크레딧 이름 뜰 때 눈물"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000136122</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005160499"/>
         <updated>2022-03-05T00:26:16.904Z</updated>
         <content type="html"><![CDATA[[이데일리 스타in 박미애 기자] 개봉 영화를 소개합니다. ◇더 배트맨 어린 시절 겪은 부모의 죽음으로 인해 배트맨으로서 고담시의 범법자들을 응징하며 살아온지 2년째. 브루스 웨인(로버트 패틴슨 분)은, 시장 선거를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엄마를 부탁해' 김영옥, 현역 최고령 주연..이순재·윤여정 기록 깼다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003033393</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003033393"/>
-        <updated>2022-03-05T00:26:16.905Z</updated>
-        <content type="html"><![CDATA[관록의 대배우 김영옥이 65년 연기 인생 첫 주연을 맡았다. 대한민국 현역 최고령 여성 배우인 김영옥은 이 작품으로 스크린 현역 최고령 주연 배우로 등극했다. 김영옥 배우는 '미나리'로 한국배우 최초 미국 아카데미]]></content>
     </entry>
 </feed>
