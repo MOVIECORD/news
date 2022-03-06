@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-03-06T18:06:13.223Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 06 Mar 2022 19:06:50 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[깊은 내면 연기에 외모 재현도 완벽.. 다시 빛난 '다이애나']]></title>
+            <link>https://v.daum.net/v/20220307040517862</link>
+            <guid>https://v.daum.net/v/20220307040517862</guid>
+            <pubDate>Sun, 06 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고 다이애나 왕세자비의 비극적인 삶을 소재로 한 영화 ‘스펜서’가 오는 16일 국내 개봉한다. 주인공 다이애나를 연기한 크리스틴 스튜어트는 이 영화로 할리우드 비평가협회상 등 27개 여우주연상을 석권했다. 27일 열리는 제94회 아카데미상 여우주연상 후보에도 올랐다. 다이애나의 외모를 완벽히 재현했을 뿐만 아니라 섬세한 캐릭터 분석을 통해 깊은 내면 연기]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2Fkukminilbo%2F20220307040518339azml.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>

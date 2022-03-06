@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-06T18:06:13.271Z</updated>
+    <updated>2022-03-06T19:06:50.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[깊은 내면 연기에 외모 재현도 완벽… 다시 빛난 ‘다이애나’]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001509979</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001509979"/>
+        <updated>2022-03-06T19:05:54.458Z</updated>
+        <content type="html"><![CDATA[고 다이애나 왕세자비의 비극적인 삶을 소재로 한 영화 ‘스펜서’가 오는 16일 국내 개봉한다. 주인공 다이애나를 연기한 크리스틴 스튜어트는 이 영화로 할리우드 비평가협회상 등 27개 여우주연상을 석권했다. 27일 열]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오징어 게임' 채경선 미술감독, 美 미술감독조합상 수상]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003033682</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004568103"/>
         <updated>2022-03-06T02:02:12.447Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 활주로를 접수한 9살 소년과 떠돌이견의 기적 같은 우정을 그린 감동 실화 영화 '팔마'가 보도스틸을 공개했다. 올 봄 순수한 두 영혼 콜리아와 팔마의 특별한 우정으로 극장가에 따뜻한 온기를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소년심판', 그다음의 이야기..김혜수 "역할·책임에 대한 담론 던지는 작품"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003033581</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003033581"/>
-        <updated>2022-03-06T02:02:12.448Z</updated>
-        <content type="html"><![CDATA[넷플릭스 '소년심판'이 작품의 의미를 확장시키는 라이브 토크를 진행했다. 김지윤 박사의 진행으로 문을 연 트위터 블루룸 라이브에는 김혜수와 김민석 작가, 정재민 전 판사 겸 작가, 박지선 교수, 다니엘 린데만이 참석]]></content>
     </entry>
 </feed>
