@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-06T14:06:08.237Z</updated>
+    <updated>2022-03-06T15:06:35.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오징어 게임' 채경선 미술감독, 美 미술감독조합상 수상]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003033682</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003033682"/>
+        <updated>2022-03-06T15:05:44.503Z</updated>
+        <content type="html"><![CDATA[넷플릭스 오리지널 드라마 '오징어 게임'의 채경선 미술감독이 제26회 미국 미술감독조합상'(Art Directors Guild, ADG)을 수상했다. 5일(현지시간) 미국 로스앤젤레스(LA) 다운타운 호텔에서 열린]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘오겜’ 채경선 미술감독, 美미술감독조합상]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003673490</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003033581"/>
         <updated>2022-03-06T02:02:12.448Z</updated>
         <content type="html"><![CDATA[넷플릭스 '소년심판'이 작품의 의미를 확장시키는 라이브 토크를 진행했다. 김지윤 박사의 진행으로 문을 연 트위터 블루룸 라이브에는 김혜수와 김민석 작가, 정재민 전 판사 겸 작가, 박지선 교수, 다니엘 린데만이 참석]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천명관 감독 데뷔작 '뜨거운 피'…밑바닥 인생들의 치열한 전쟁]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004568086</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004568086"/>
-        <updated>2022-03-06T00:25:29.953Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 캐릭터들의 강렬한 케미스트리와 리얼한 이야기로 기대를 모으는 영화 '뜨거운 피'가 2차 예고편을 공개했다. '뜨거운 피'(감독 천명관, 제작 고래픽처스, 제공 키다리스튜디오, 배급 스튜디오]]></content>
     </entry>
 </feed>
