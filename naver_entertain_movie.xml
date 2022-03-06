@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-06T12:16:01.169Z</updated>
+    <updated>2022-03-06T13:13:39.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘오겜’ 채경선 미술감독, 美미술감독조합상]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003673490</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003673490"/>
+        <updated>2022-03-06T13:12:41.641Z</updated>
+        <content type="html"><![CDATA[‘기생충’ 이하준 감독 이어 두 번째 넷플릭스 오리지널 드라마 ‘오징어 게임’의 채경선(사진) 미술감독이 미국미술감독조합(ADG)이 주는 상을 받았다. 2년 전 영화 ‘기생충’ 이하준 미술감독의 수상에 이어 두 번째]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘배니싱: 미제사건’, 긴장감+몰아치는 서스펜스 티저 예고 공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000852307</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004568086"/>
         <updated>2022-03-06T00:25:29.953Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 캐릭터들의 강렬한 케미스트리와 리얼한 이야기로 기대를 모으는 영화 '뜨거운 피'가 2차 예고편을 공개했다. '뜨거운 피'(감독 천명관, 제작 고래픽처스, 제공 키다리스튜디오, 배급 스튜디오]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산국제단편영화제 포스터, 몽크 'EXPANDING CINEMA']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011044782</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011044782"/>
-        <updated>2022-03-06T00:25:29.953Z</updated>
-        <content type="html"><![CDATA[[부산=뉴시스]권태완 기자 = 부산국제단편영화제 조직위는 공식 포스터로 활용될 메인포스터를 6일 공개했다. 올해 부산국제단편영화제의 주제는 '영화의 확장'으로, 영화제 측은 해당주제에 맞는 포스터 제작을 위해 디자인]]></content>
     </entry>
 </feed>
