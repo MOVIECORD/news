@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-07T20:06:57.288Z</updated>
+    <updated>2022-03-07T21:06:38.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[클로즈업 필름]여성의 몸은 여성의 것이라고요…'레벤느망']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011048960</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011048960"/>
+        <updated>2022-03-07T21:05:25.527Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 손정빈 기자 = '레벤느망'(감독 오드리 디완)은 임신 중지에 관한 영화다. 원치 않는 임신을 한 대학생이 임신을 멈추기로 한다는 얘기다. 이렇게 간단히 요약되는 이야기가 어떻게 영화가 될 수 있느냐]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[극장가, 연출 거장들의 웰메이드 무비 행렬 [TF프리즘]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000136444</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003839223"/>
         <updated>2022-03-07T07:06:37.061Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조지영 기자] 범죄 스릴러 영화 'B컷'(김진영 감독, 영화사 필·TCO더콘텐츠온 제작)이 지난달 개봉을 연기하고 오는 30일 개봉을 확정, 캐릭터 포스터를 공개했다. 'B컷'이 김동완, 전세현, 김병옥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“슬픈 전쟁 멈추길”..애니메이션 창작자들 성명 발표]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004931313</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004931313"/>
-        <updated>2022-03-07T07:06:37.062Z</updated>
-        <content type="html"><![CDATA[러시아의 우크라이나 침공을 규탄하는 문화계의 목소리가 거센 가운데 이번엔 애니메이션 창작자들이 나섰다. 7일 한국독립애니메이션협회와 인디애니페스트 집행위원회는 성명을 통해 “우크라이나와 러시아에 사는 애니메이션 친구]]></content>
     </entry>
 </feed>
