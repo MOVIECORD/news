@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-07T10:06:25.942Z</updated>
+    <updated>2022-03-07T11:06:33.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한소희, 母와 천륜은 못 끊어도 손절…단호한 결정은 잘한 일(종합)[Oh!쎈 초점]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004568763</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004568763"/>
+        <updated>2022-03-07T11:05:32.372Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 배우 한소희가 그동안 친어머니의 빚을 대신 갚아야하는 상황에 여러 차례 놓였지만, 앞으로는 단호하게 대처해 나가겠다는 입장을 밝혔다. 어떠한 이유로든 어머니의 빚을 나서서 갚아주지 않겠다고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영상자료원 노조, 문체부 출신 인사 사무국장 임명 시도에 반발]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000797716</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001208956"/>
         <updated>2022-03-07T07:06:37.066Z</updated>
         <content type="html"><![CDATA[유력 대선후보의 B컷을 둘러싼 충격 스캔들을 다루고 있는 디지털 범죄 스릴러 ‘B컷’이 3월 30일 개봉 확정과 함께 캐릭터 포스터 3종을 공개했다. 일명 탐정까기로 한탕을 꿈꾸던 스마트폰 사설수리업자 승현이 유력]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유연석 ‘베니싱’, 3월30일 개봉 확정]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000797647</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000797647"/>
-        <updated>2022-03-07T07:06:37.067Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 배우 유연석의 새 영화 ‘베니싱: 미제사건’(감독 드니 데르쿠르)이 관객을 맞이한다. 공동배급사 제이앤씨미디어그룹 측은 7일 “‘베니싱: 미제사건’이 오는 30일 개봉한다”며 1차 메인 포스터를 공개했]]></content>
     </entry>
 </feed>
