@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-07T14:06:22.433Z</updated>
+    <updated>2022-03-07T15:05:32.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["푸틴, 꺼져라"…크리스틴 스튜어트, 시상식서 '손가락 욕']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011048893</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011048893"/>
+        <updated>2022-03-07T15:04:29.370Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 영화 '트와일라잇' 시리즈, '리지'로 유명한 할리우드 배우 크리스틴 스튜어트(32)가 영화 시상식 도중 우크라이나를 침공한 블라디미르 푸틴 러시아 대통령을 향해 손가락 욕설을 했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['문폴' 메가박스 빵원티켓 이벤트, 오픈 1분 만에 초고속 매진 "폭발적 흥행예고"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003582524</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013035844"/>
         <updated>2022-03-07T07:06:37.064Z</updated>
         <content type="html"><![CDATA[다큐 '고양이들의 아파트'…재건축으로 터전 떠나는 길고양이 여정 담아 (서울=연합뉴스) 오보람 기자 = 깡마른 눈과 겁에 질린 눈빛, 주춤주춤 사람을 피해 도망가는 걸음걸이. 대개 길에서 마주치는 고양이들의 모습은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['시그널' 日리메이크 영화, 3월 31일 개봉..BTS 주제가 참여]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003033862</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003033862"/>
-        <updated>2022-03-07T07:06:37.065Z</updated>
-        <content type="html"><![CDATA[김은희 작가의 '시그널'을 리메이크한 일본 영화가 3월 31일 한국에서 개봉한다. '극장판 시그널'은 어느 날 고장 난 무전기로부터 시작된 간절한 신호로 연결된 2021년의 '사에구사 켄토'와 2009년 '오야마 타]]></content>
     </entry>
 </feed>
