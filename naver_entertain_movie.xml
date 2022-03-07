@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-07T19:07:02.221Z</updated>
+    <updated>2022-03-07T20:06:57.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[극장가, 연출 거장들의 웰메이드 무비 행렬 [TF프리즘]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000136444</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000136444"/>
+        <updated>2022-03-07T20:06:00.926Z</updated>
+        <content type="html"><![CDATA[제94회 아카데미 작품상 후보작들 줄지어 개봉 거장들의 작품이 릴레이로 스크린에 걸리며 극장가를 풍성하게 하고 있다. 오는 27일 개최되는 제94회 아카데미 시상식의 최우수 작품상 후보에 오른 작품이자 거장들의 신작]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["푸틴, 꺼져라"…크리스틴 스튜어트, 시상식서 '손가락 욕']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011048893</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004931313"/>
         <updated>2022-03-07T07:06:37.062Z</updated>
         <content type="html"><![CDATA[러시아의 우크라이나 침공을 규탄하는 문화계의 목소리가 거센 가운데 이번엔 애니메이션 창작자들이 나섰다. 7일 한국독립애니메이션협회와 인디애니페스트 집행위원회는 성명을 통해 “우크라이나와 러시아에 사는 애니메이션 친구]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고양이 천국' 아파트가 헐린다…250마리 길냥이 피난의 기록]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013035844</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013035844"/>
-        <updated>2022-03-07T07:06:37.064Z</updated>
-        <content type="html"><![CDATA[다큐 '고양이들의 아파트'…재건축으로 터전 떠나는 길고양이 여정 담아 (서울=연합뉴스) 오보람 기자 = 깡마른 눈과 겁에 질린 눈빛, 주춤주춤 사람을 피해 도망가는 걸음걸이. 대개 길에서 마주치는 고양이들의 모습은]]></content>
     </entry>
 </feed>
