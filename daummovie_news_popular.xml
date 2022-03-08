@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 22:06:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 23:06:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F08%2Fohmynews%2F20220308104203794atlu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['인민을 위해 복무하라' 6만명 겨우 넘기고 VOD행]]></title>
-            <link>https://movie.v.daum.net/v/20220309000411308</link>
-            <guid>https://movie.v.daum.net/v/20220309000411308</guid>
-            <pubDate>Tue, 08 Mar 2022 16:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 황혜정 인턴기자] 7일 기준, 누적관객수 6만8,639명을 기록한 영화 ‘인민을 위해 복무하라’가 온라인 및 모바일 VOD 서비스를 개시한다. 영화는 출세를 꿈꾸는 모범병사 ‘무광’(연우진)이 사단장의 젊은 아내 ‘수련’(지안)과의 만남으로 인해 넘어서는 안 될 신분의 벽과 빠져보고 싶은 위험한 유혹 사이에서 갈등하며 벌어지]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F09%2FSPORTSSEOUL%2F20220309000414075awbd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[제23회 전주국제영화제 공식 포스터 공개.."영사기 빛 형상화"]]></title>
             <link>https://movie.v.daum.net/v/20220308132139939</link>
             <guid>https://movie.v.daum.net/v/20220308132139939</guid>
@@ -104,20 +96,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F09%2Fhankooki%2F20220309043125860samu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['이상한 나라의 수학자' 韓 영화 예매율 1위..흥행 시작[공식]]]></title>
+            <link>https://movie.v.daum.net/v/20220309074153154</link>
+            <guid>https://movie.v.daum.net/v/20220309074153154</guid>
+            <pubDate>Tue, 08 Mar 2022 23:06:25 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 '이상한 나라의 수학자'가 오늘(9일) 개봉한 가운데, 동시기 개봉작 예매율 1위에 등극하며 본격적인 흥행 행보의 시작을 알렸다. 대배우 최민식의 스크린 귀환으로 기대를 높이는 영화 '이상한 나라의 수학자'(감독 박동훈, 제공배급 쇼박스, 제작 조이래빗)가 개봉과 동시에 동시기 개봉 영화 예매율 1위(영화관입장권 통합전산망]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F09%2Fpoctan%2F20220309074153681hign.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['인민을 위해 복무하라' 6만명 겨우 넘기고 VOD행]]></title>
+            <link>https://movie.v.daum.net/v/20220309000411308</link>
+            <guid>https://movie.v.daum.net/v/20220309000411308</guid>
+            <pubDate>Tue, 08 Mar 2022 16:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 황혜정 인턴기자] 7일 기준, 누적관객수 6만8,639명을 기록한 영화 ‘인민을 위해 복무하라’가 온라인 및 모바일 VOD 서비스를 개시한다. 영화는 출세를 꿈꾸는 모범병사 ‘무광’(연우진)이 사단장의 젊은 아내 ‘수련’(지안)과의 만남으로 인해 넘어서는 안 될 신분의 벽과 빠져보고 싶은 위험한 유혹 사이에서 갈등하며 벌어지]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F09%2FSPORTSSEOUL%2F20220309000414075awbd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[유연석 "올가 쿠릴렌코, 드레스 입은 모습에 아우라" (배니싱)[종합]]]></title>
             <link>https://movie.v.daum.net/v/20220308145022071</link>
             <guid>https://movie.v.daum.net/v/20220308145022071</guid>
             <pubDate>Tue, 08 Mar 2022 21:05:51 GMT</pubDate>
             <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 유연석이 올가 쿠릴렌코를 자신의 공연에 초대한 뒤 놀랐던 사연을 고백했다. 8일 오전 온라인 생중계를 통해 영화 '배니싱: 미제사건' 라이브 컨퍼런스가 진행됐다. 이 자리에는 배우 유연석, 올가 쿠릴렌코, 예지원, 최무성, 박소이와 &nbsp;화상으로 참석한 드니 데르쿠르 감독이 함께 했다. '배니싱: 미제사건'은 대한민국을 발칵 뒤]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F08%2Fxportsnews%2F20220308145024465ovir.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[색계·화양연화 빗댄 '인민을 위해 복무하라'의 자신감은 어디에? 처참한 관객수[SS무비]]]></title>
-            <link>https://movie.v.daum.net/v/20220307175513001</link>
-            <guid>https://movie.v.daum.net/v/20220307175513001</guid>
-            <pubDate>Tue, 08 Mar 2022 00:26:03 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 황혜정 인턴기자] 지난달 23일 개봉한 영화 ‘인민을 위해 복무하라’는 개봉 12일 차인 지난 6일 기준, 누적 관객수 6만7709명을 기록 중이다. 지난 1일 개봉한 영화 ‘더 배트맨’은 개봉 6일 만에 누적 관객수 50만명을 넘었다. 팬층이 두터운 할리우드 블록버스터와 비교하는 것은 무리가 있으니 어린이용으로 나온 애니메이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2FSPORTSSEOUL%2F20220307175516197ymim.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[전 세계가 사랑했던 그녀, 다이애나 스펜서의 비극]]></title>
@@ -128,12 +128,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F08%2Fohmynews%2F20220308093603464viyr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['이상한 나라의 수학자', 위로와 진심을 올곧게 증명하니 [TF씨네리뷰]]]></title>
-            <link>https://movie.v.daum.net/v/20220309000046224</link>
-            <guid>https://movie.v.daum.net/v/20220309000046224</guid>
-            <pubDate>Tue, 08 Mar 2022 19:06:14 GMT</pubDate>
-            <content:encoded><![CDATA[9일 개봉 힐링 영화…최민식표 '굿 윌 헌팅' [더팩트ㅣ이한림 기자] 어른과 청년이 서로에게 위로와 진심을 전한다. 방법은 올곧고 우직하다. 증명의 학문으로 불리는 수학이 매개체로 등장해 서사를 연결한다. 2년 만에 스크린에 복귀해 '탈북인 수학자'로 변신한 톱배우 최민식과 극 중 '수포자'(수학 포기자) 고등학생을 연기하는 신예배우 김동휘의 브로맨스]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F09%2FTHEFACT%2F20220309000048062yskz.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[이 시국 위로되는 따뜻한 문과 감성 '이상한 나라의 수학자'[개봉작 리뷰]]]></title>
+            <link>https://movie.v.daum.net/v/20220309073013945</link>
+            <guid>https://movie.v.daum.net/v/20220309073013945</guid>
+            <pubDate>Tue, 08 Mar 2022 23:06:25 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 오일러 공식, 원주율, 리만 가설..그러나 따뜻한 문과 감성으로 가득찬 힐링영화 '이상한 나라의 수학자'가 개봉한다. 3월 9일 개봉하는 영화 '이상한 나라의 수학자'(감독 박동훈)는 신분을 감추고 고등학교 경비원으로 일하는 탈북한 천재 수학자가 수학을 포기한 학생을 만나며 벌어지는 감동 드라마다. 최민식이 연기하는 '이학성'은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F09%2Fnewsen%2F20220309073018162kczn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['스펜서', 故 다이애나비의 재해석..족쇄를 풀고 나아갈 용기 [시네마 프리뷰]]]></title>
+            <link>https://movie.v.daum.net/v/20220309080006435</link>
+            <guid>https://movie.v.daum.net/v/20220309080006435</guid>
+            <pubDate>Tue, 08 Mar 2022 23:06:25 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = *영화의 주요 내용을 포함한 스포일러가 있을 수 있습니다. 영화 '스펜서'(감독 파블로 라라인)는 1990년대 초, 왕실 가족이 샌드링엄 별장에 모여서 보내는 크리스마스 연휴 3일간 이뤄지는 다이애나 왕세자비의 감정 변화에 집중한 영화다. '재키'와 '네루다' 등의 영화로 실존 인물들의 새로운 얼굴을 담아내 호평을 받았]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F09%2FNEWS1%2F20220309080007967avxj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[색계·화양연화 빗댄 '인민을 위해 복무하라'의 자신감은 어디에? 처참한 관객수[SS무비]]]></title>
+            <link>https://movie.v.daum.net/v/20220307175513001</link>
+            <guid>https://movie.v.daum.net/v/20220307175513001</guid>
+            <pubDate>Tue, 08 Mar 2022 00:26:03 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 황혜정 인턴기자] 지난달 23일 개봉한 영화 ‘인민을 위해 복무하라’는 개봉 12일 차인 지난 6일 기준, 누적 관객수 6만7709명을 기록 중이다. 지난 1일 개봉한 영화 ‘더 배트맨’은 개봉 6일 만에 누적 관객수 50만명을 넘었다. 팬층이 두터운 할리우드 블록버스터와 비교하는 것은 무리가 있으니 어린이용으로 나온 애니메이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F07%2FSPORTSSEOUL%2F20220307175516197ymim.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["영화라는 공통 언어로 '배니싱' 제작진 소통은 완벽했죠"]]></title>
@@ -144,28 +160,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F09%2Fkukminilbo%2F20220309040410302ahwn.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] 김동휘,  최민식에도 밀리지 않는 괴물신인]]></title>
-            <link>https://movie.v.daum.net/v/20220308080638589</link>
-            <guid>https://movie.v.daum.net/v/20220308080638589</guid>
-            <pubDate>Tue, 08 Mar 2022 02:04:42 GMT</pubDate>
-            <content:encoded><![CDATA[아이즈 ize 최재욱기자"어디서 이런 배우를 찾아냈을까" 하는 궁금증이&nbsp;들 만큼 더할 나위 없는 적역 캐스팅이었다. 영화 '이상한 나라의 수학자'(감독 박동훈, 제작 ㈜조이래빗)로 화려하게 등장한 신인배우 김동휘는 영화를 보고 나면 마치 영재들만 다닌다는 자사고에 직접. 가서 캐스팅한 게 아닐까&nbsp;하는 생각이 들 정도로 주인공 한지우 그 자체였다. &nbsp;공부만]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F08%2FIZE%2F20220308080640016sybc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["13년만의 귀환, '아바타2'는 관객을 놀라게 할 것이다" 걸작 탄생 예감[해외이슈]]]></title>
-            <link>https://movie.v.daum.net/v/20220308062143135</link>
-            <guid>https://movie.v.daum.net/v/20220308062143135</guid>
-            <pubDate>Mon, 07 Mar 2022 22:06:02 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]2009년 개봉한 ‘아바타’는 역대 최고 흥행작 반열에 올랐다. 전 세계에서 28억 달러를 벌어들여 부동의 1위를 지키고 있다. ‘어벤져스:엔드게임’은 27억 달러로 2위에 머무르고 있다. 13년 만인 올해 12월 드디어 ‘아바타2’가 개봉하는 가운데 20세기 스튜디오의 스티브 애스벨 사장은 “아바타2가 관객에게 감명을 줄 것]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F08%2Fmydaily%2F20220308062143439rllr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[페넬로페 크루즈 주연 '패러렐 마더스' 메인 예고편 공개]]></title>
-            <link>https://movie.v.daum.net/v/20220308234020029</link>
-            <guid>https://movie.v.daum.net/v/20220308234020029</guid>
+            <title><![CDATA['이상한 나라의 수학자', 위로와 진심을 올곧게 증명하니 [TF씨네리뷰]]]></title>
+            <link>https://movie.v.daum.net/v/20220309000046224</link>
+            <guid>https://movie.v.daum.net/v/20220309000046224</guid>
             <pubDate>Tue, 08 Mar 2022 19:06:14 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠서울 | 황혜정 인턴기자] 멜로 스릴러 영화 ‘패러렐 마더스’가 메인 예고편을 공개했다. ‘패러렐 마더스’ 메인 예고편에선 야니스(페넬로페 크루즈)와 아나(밀레나 스밋)가 같은 날 아이를 낳을 준비를 하게 되면서 시작된 인연을 담고 있다. 서로를 위로하며 가까워진 두 사람의 관계는 아나가 야니스의 집에 보모로 들어오게 되면서 더욱]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F08%2FSPORTSSEOUL%2F20220308234025230ddeb.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[9일 개봉 힐링 영화…최민식표 '굿 윌 헌팅' [더팩트ㅣ이한림 기자] 어른과 청년이 서로에게 위로와 진심을 전한다. 방법은 올곧고 우직하다. 증명의 학문으로 불리는 수학이 매개체로 등장해 서사를 연결한다. 2년 만에 스크린에 복귀해 '탈북인 수학자'로 변신한 톱배우 최민식과 극 중 '수포자'(수학 포기자) 고등학생을 연기하는 신예배우 김동휘의 브로맨스]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F09%2FTHEFACT%2F20220309000048062yskz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
