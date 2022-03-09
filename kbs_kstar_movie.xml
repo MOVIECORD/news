@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 22:06:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 23:06:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['사운드트랙 #1' 한소희, 러블리 No.1]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=196224</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196224</guid>
+            <pubDate>Wed, 09 Mar 2022 23:02:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196224">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220310074941_6060fb9b4620893a3f4e8aee7655d473.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196224">'사운드트랙 #1' 한소희, 러블리 No.1</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220310074941_6060fb9b4620893a3f4e8aee7655d473.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['그리드 함수'  서강준-김아중-김무열의 관계]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=196161</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=195344">[리뷰] 그 남자는 타이타닉을 보고 싶지 않았다 “안녕하세요 하나님” (테무 니키 감독, 2021, 핀란드)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220304140554_b34b0c875a308c0d3e80088dba3d734b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["고양이를 위한 아파트는 없다"  정재은 감독 다큐 '고양이들의 아파트']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=195293</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=195293</guid>
-            <pubDate>Fri, 04 Mar 2022 18:04:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=195293">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220304101831_4522520bb10667c9e3a7f5a59d0ef073.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=195293">"고양이를 위한 아파트는 없다"  정재은 감독 다큐 '고양이들의 아파트'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220304101831_4522520bb10667c9e3a7f5a59d0ef073.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
