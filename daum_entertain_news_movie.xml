@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-03-09T11:06:09.504Z</updated>
+    <updated>2022-03-09T12:13:32.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이상한 나라의 수학자', 탈북 수학자와 고교생의 만남..인생엔 정답이 없다]]></title>
+        <id>https://entertain.v.daum.net/v/20220309210318890</id>
+        <link href="https://entertain.v.daum.net/v/20220309210318890"/>
+        <updated>2022-03-09T12:13:31.219Z</updated>
+        <content type="html"><![CDATA[꼭짓점 A를 직각으로 하는 이등변삼각형을 상상해보자. 빗변 B 길이는 10, A에서 B 중앙까지의 직선 길이는 6이다. 이때 삼각형 넓이는 몇일까. 흔한 풀이법대로 빗변(10)과 높이(6)를 곱한 면적(60)을 절반으로 나누면 정답은 '30'이지만 배우 최민식은 "자세히 들여다보면 이 문제의 답은 '답을 구할 수 없음'이다"고 말한다. 빗변 B의 중앙을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[감독 데뷔작·차기작 지원할 '무비 인큐베이터', 이달 24일 공모 시작]]></title>
         <id>https://entertain.v.daum.net/v/20220309173139510</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220309084929283"/>
         <updated>2022-03-09T00:27:06.568Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;(인터뷰②에 이어)&nbsp;‘이상한 나라의 수학자’를 연출한 박동훈 감독이 주인공 한지우에 신예 김동휘를 캐스팅한 것에 대해 “위축되어 있지만 그 안에 당당한 모습이 있더라. 그 부분이 마음에 들었다”라고 칭찬했다. 박동훈 감독은 OSEN과 진행한 화상 인터뷰에서 “주변에서 신인배우를 쓰는 게 너무 위험한 모험이 아니냐는 얘기를 하더라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이상한 나라의 수학자' 감독 "OTT 공개 논의 無..극장 개봉하길 바랐다"]]></title>
-        <id>https://entertain.v.daum.net/v/20220309084750255</id>
-        <link href="https://entertain.v.daum.net/v/20220309084750255"/>
-        <updated>2022-03-09T00:27:06.569Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘이상한 나라의 수학자’를 연출한 박동훈 감독이 코로나 및 OTT로 인해 극장 상황이 어려워진 것과 관련, “아쉽지만 받아들여야 할 현재”라고 말했다. 박동훈 감독은 OSEN과 진행된 화상 인터뷰에서 “현재 상황이 좋진 않아서 우울하고 힘들다. 하지만 저희 영화가 불쾌하고 답답한 마음을 덜어드릴 수 있었으면 좋겠다. 그걸]]></content>
     </entry>
 </feed>

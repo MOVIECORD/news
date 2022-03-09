@@ -4,9 +4,17 @@
         <title>다음영화 뉴스 ─ 최신</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 11:06:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 12:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영화 리뷰] '이상한 나라의 수학자', 탈북 수학자와 고교생의 만남..인생엔 정답이 없다]]></title>
+            <link>https://v.daum.net/v/20220309210318890</link>
+            <guid>https://v.daum.net/v/20220309210318890</guid>
+            <pubDate>Wed, 09 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[꼭짓점 A를 직각으로 하는 이등변삼각형을 상상해보자. 빗변 B 길이는 10, A에서 B 중앙까지의 직선 길이는 6이다. 이때 삼각형 넓이는 몇일까. 흔한 풀이법대로 빗변(10)과 높이(6)를 곱한 면적(60)을 절반으로 나누면 정답은 '30'이지만 배우 최민식은 "자세히 들여다보면 이 문제의 답은 '답을 구할 수 없음'이다"고 말한다. 빗변 B의 중앙을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F09%2Fmk%2F20220309210319945vxuo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
         <item>
             <title><![CDATA[감독 데뷔작·차기작 지원할 '무비 인큐베이터', 이달 24일 공모 시작]]></title>
             <link>https://v.daum.net/v/20220309173139510</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 08 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = *영화의 주요 내용을 포함한 스포일러가 있을 수 있습니다. 영화 '스펜서'(감독 파블로 라라인)는 1990년대 초, 왕실 가족이 샌드링엄 별장에 모여서 보내는 크리스마스 연휴 3일간 이뤄지는 다이애나 왕세자비의 감정 변화에 집중한 영화다. '재키'와 '네루다' 등의 영화로 실존 인물들의 새로운 얼굴을 담아내 호평을 받았]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F09%2FNEWS1%2F20220309080007967avxj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['이상한 나라의 수학자' 韓 영화 예매율 1위..흥행 시작[공식]]]></title>
-            <link>https://v.daum.net/v/20220309074153154</link>
-            <guid>https://v.daum.net/v/20220309074153154</guid>
-            <pubDate>Tue, 08 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 '이상한 나라의 수학자'가 오늘(9일) 개봉한 가운데, 동시기 개봉작 예매율 1위에 등극하며 본격적인 흥행 행보의 시작을 알렸다. 대배우 최민식의 스크린 귀환으로 기대를 높이는 영화 '이상한 나라의 수학자'(감독 박동훈, 제공배급 쇼박스, 제작 조이래빗)가 개봉과 동시에 동시기 개봉 영화 예매율 1위(영화관입장권 통합전산망]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F09%2Fpoctan%2F20220309074153681hign.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
