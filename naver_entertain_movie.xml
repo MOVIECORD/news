@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-09T15:06:41.538Z</updated>
+    <updated>2022-03-09T17:12:46.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고씨네 단편기획전 ‘안전제일 건강제일']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000885915</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000885915"/>
+        <updated>2022-03-09T17:11:42.099Z</updated>
+        <content type="html"><![CDATA[원주의 독립영화 상영 플랫폼 고씨네가 단편기획전 ‘안전제일 건강제일'을 다음달 2일까지 진행한다. 김수량 감독이 메가폰을 잡은 ‘바다의 무게'는 결혼을 앞둔 남자가 신부와 함께 수중 웨딩사진을 찍으러 바다를 찾아가며]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[영화 리뷰] '이상한 나라의 수학자', 탈북 수학자와 고교생의 만남…인생엔 정답이 없다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004932337</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004569501"/>
         <updated>2022-03-09T05:07:16.474Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 순수한 학문 추구를 이유로 북한을 벗어나 남한으로 넘어온 수학 천재 이학성(최민식 분). 그는 상위 1% 학생들만 입학할 수 있는 자사고의 경비원으로 취업해 근근이 살아가는데, 어느 날 학생]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재난 영화에 등장한 소방관, 아쉬운 한 가지]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002345262</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002345262"/>
-        <updated>2022-03-09T04:08:28.218Z</updated>
-        <content type="html"><![CDATA[[소방관이 본, 영화 속 소방 이야기 3] 영화 &lt;감기&gt; 이 영화가 개봉됐던 2013년만 해도 고작 감기 하나 때문에 도시 전체를 봉쇄한다는 설정이 크게 설득력을 갖기는 어려웠다. 하지만 코로나와 함께 보낸 지난 2]]></content>
     </entry>
 </feed>
