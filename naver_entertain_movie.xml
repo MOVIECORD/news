@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-09T03:10:17.348Z</updated>
+    <updated>2022-03-09T04:09:25.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[재난 영화에 등장한 소방관, 아쉬운 한 가지]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002345262</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002345262"/>
+        <updated>2022-03-09T04:08:27.112Z</updated>
+        <content type="html"><![CDATA[[소방관이 본, 영화 속 소방 이야기 3] 영화 &lt;감기&gt; 이 영화가 개봉됐던 2013년만 해도 고작 감기 하나 때문에 도시 전체를 봉쇄한다는 설정이 크게 설득력을 갖기는 어려웠다. 하지만 코로나와 함께 보낸 지난 2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팝업★]김혜수, '소년심판' 심은석 판사님 맞나요..김무열 볼 쓰담쓰담 스윗 매력]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003539045</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003034310"/>
         <updated>2022-03-08T23:05:54.517Z</updated>
         <content type="html"><![CDATA['사운드트랙 #1' 박형식이 '남사친'(남자 사람 친구)의 정석을 보여준다. 23일 공개되는 디즈니+의 오리지널 시리즈 '사운드트랙 #1'(극본 안새봄·연출 김희원)은 20년 지기 절친인 두 남녀가 2주 동안 한 집]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스펜서', 故 다이애나비의 재해석…족쇄를 풀고 나아갈 용기 [시네마 프리뷰]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005958038</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005958038"/>
-        <updated>2022-03-08T23:05:54.518Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = *영화의 주요 내용을 포함한 스포일러가 있을 수 있습니다. 영화 '스펜서'(감독 파블로 라라인)는 1990년대 초, 왕실 가족이 샌드링엄 별장에 모여서 보내는 크리스마스 연휴 3일간]]></content>
     </entry>
 </feed>
