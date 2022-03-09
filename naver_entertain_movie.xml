@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-09T09:06:46.220Z</updated>
+    <updated>2022-03-09T10:06:31.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이정재 으뜸]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000798196</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000798196"/>
+        <updated>2022-03-09T10:05:48.000Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 영화배우 브랜드평판 2022년 3월 빅데이터 분석결과, 1위 이정재 2위 김혜수 3위 정호연 순으로 분석됐다. 한국기업평판연구소는 2022년 2월 9일부터 2022년 3월 9일까지 대한민국 소비자들이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[페넬로페 크루즈×페드로 알모도바르 '패러렐 마더스' 3월 개봉]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003618679</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004569444"/>
         <updated>2022-03-09T02:07:36.989Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] '로맨스 장인' 조 라이트 감독이 그리는 아름답고 황홀한 타임리스 뮤지컬 로맨스 영화 '시라노'가 진한 여운을 남기는 명대사를 공개했다. '시라노'(수입배급 유니버설 픽쳐스)는 사랑을 대신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘블랙위도우’ 플로렌스 퓨, 티모시 샬라메 ‘듄2’ 합류[해외이슈]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003582986</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003582986"/>
-        <updated>2022-03-09T02:07:36.994Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]‘블랙위도우’ 플로렌스 퓨가 티모시 샬라메 주연의 ‘듄2’에 출연할 예정이다. 할리우드 리포터는 8일(현지시간) 플로렌스 퓨가 데니스 빌뇌브 감독의 ‘듄2’ 출연을 논의 중이라고 밝혔다.]]></content>
     </entry>
 </feed>
