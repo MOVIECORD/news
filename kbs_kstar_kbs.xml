@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 08:10:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 09:09:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KBS 웹예능 '매점 터는 아이돌' 스테이씨 퀴즈대결]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=196337</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196337</guid>
+            <pubDate>Thu, 10 Mar 2022 09:07:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196337">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220310162842_52a85f92ceec7856774ccde613ce3895_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196337">KBS 웹예능 '매점 터는 아이돌' 스테이씨 퀴즈대결 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220310162842_52a85f92ceec7856774ccde613ce3895_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[젠틀 대디 심지호, 일일극 황태자의 아내 사랑]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=196318</link>
@@ -347,24 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%20%EC%8B%9C%EC%A6%8C3">박원숙의 같이 삽시다 시즌3</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220310003645_aa557220b828ef326d174d9fd0328755_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['갓파더' 우혜림, 강주은과 산부인과 방문]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=196142</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196142</guid>
-            <pubDate>Wed, 09 Mar 2022 00:25:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196142">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220309085851_0b055a56ecf77e6a31b8dba7d769c324.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196142">'갓파더' 우혜림, 강주은과 산부인과 방문</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220309085851_0b055a56ecf77e6a31b8dba7d769c324.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
