@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-10T15:09:05.469Z</updated>
+    <updated>2022-03-10T16:08:22.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[새영화]액션영화 그 자체 ‘리암 니슨'이 돌아왔다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000886177</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000886177"/>
+        <updated>2022-03-10T16:07:36.690Z</updated>
+        <content type="html"><![CDATA[봄이 왔다. 극장에도 따뜻한 작품들이 걸렸다. 정답만을 찾는 세상에서 인생의 올바른 풀이 과정을 찾아가는 시나리오부터 시대의 금기로 여겨지던 일을 솔직하게 고백한 이야기가 자리한다. 춘곤증을 달랠 액션 영화는 덤이다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이정은, '소년심판' 히든카드 등극..대체 불가 존재감]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003034711</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004028181"/>
         <updated>2022-03-10T08:09:22.623Z</updated>
         <content type="html"><![CDATA[[서울경제] 이제 막 시작하는 신인 배우들은 어두운 통로를 걷는 것 같은 기분에 빠지기 쉽다. 선택받아야 하는 입장에서, 수도 없이 많은 오디션에서 떨어지면서 '진정 내 길이 맞는가'에 대한 고민도 함께다. 배우 김]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현실판 '스토브리그'? '한화이글스' 다큐, 24일 왓챠 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005962570</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005962570"/>
-        <updated>2022-03-10T08:09:22.623Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 왓챠 오리지널 다큐멘터리 '한화이글스: 클럽하우스'(감독 박경원)가 호평을 받았던 야구 드라마 '스토브리그'의 현실판으로 기대를 높인다. 24일 첫 공개를 확정한 왓챠 오리지널 다큐멘]]></content>
     </entry>
 </feed>
