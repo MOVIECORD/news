@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 07:06:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 08:10:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷+리뷰] ‘누가 총통을 쏘았나’ 대만 대통령선거 총격사건의 재구성 (티빙)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=196331</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196331</guid>
+            <pubDate>Thu, 10 Mar 2022 08:06:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196331">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220310153947_d33fab3f635dcf7ec45d84efd3cf1185.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196331">[넷+리뷰] ‘누가 총통을 쏘았나’ 대만 대통령선거 총격사건의 재구성 (티빙)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220310153947_d33fab3f635dcf7ec45d84efd3cf1185.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사이다 며느리, '며느라기'에는 어쩔 수 없었나...사직서 제출]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=196278</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=195492">"소년심판'을 심판하다"  전문가 라이브 토크</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220305202239_49468b0fb798021ac93517f5e87086f5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SNL코리아 "모니카, 립제이, 아이키, 가비, 그리고 허경영"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=195381</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=195381</guid>
-            <pubDate>Sat, 05 Mar 2022 02:00:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=195381">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220304164955_da4a983062da870df2e42cc8d3328770.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=195381">SNL코리아 "모니카, 립제이, 아이키, 가비, 그리고 허경영"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220304164955_da4a983062da870df2e42cc8d3328770.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
