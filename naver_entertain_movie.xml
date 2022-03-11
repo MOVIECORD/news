@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-11T12:12:48.581Z</updated>
+    <updated>2022-03-11T13:16:04.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CGV, 日애니 '하늘의 푸르름을 아는 사람이여' 단독 개봉(공식)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003540056</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003540056"/>
+        <updated>2022-03-11T13:14:32.641Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] CGV가 ‘하늘의 푸르름을 아는 사람이여’를 단독 개봉한다. 영화 ‘하늘의 푸르름을 아는 사람이여’는 첫사랑의 과거와 현재를 기적처럼 마주한 이들의 신비로운 두 번째 사랑 이야기로, 제4]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팝업★]'오겜' 이정재·정호연·박해수, 美크리틱스 초이스 시상자 참석(종합)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003540024</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000550655"/>
         <updated>2022-03-11T07:06:16.634Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 넷플릭스의 스파이 첩보 액션 '야차'가 4월 8일 공개된다. 영화 '야차'(감독 나현)는 스파이들의 최대 접전지 중국 선양에서 일명 ‘야차’가 이끄는 국정원 비밀공작 전담 블랙팀과 특별감찰 검]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SC초점] "NO WAR"…넷플릭스 이어 디즈니, '우크라이나 침공' 러시아 보이콧 동참..사업 전면 중단]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003840519</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003840519"/>
-        <updated>2022-03-11T07:06:16.637Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조지영 기자] '우크라이나 침공'으로 전 세계의 비난을 받고 있는 러시아. 디즈니 역시 '러시아 보이콧'을 선언, 러시아내 영화 개봉 중단에 이어 사업까지 전면 중단하기로 결정했다. 월트디즈니는 10일(]]></content>
     </entry>
 </feed>
