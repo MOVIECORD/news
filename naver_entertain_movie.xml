@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-12T05:06:24.900Z</updated>
+    <updated>2022-03-12T06:08:58.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[B103호 ‘수학적 용기’가 가능한 이상한 나라]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002582584</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002582584"/>
+        <updated>2022-03-12T06:08:04.369Z</updated>
+        <content type="html"><![CDATA[[한겨레S] 손희정의 영화담(談) 이상한 나라의 수학자 ☞한겨레 뉴스레터 구독하기 https://bit.ly/319DiiE 누가 어른인가? 어른의 역할은 무엇인가? 요즘 나를 사로잡고 있는 화두다. 여기서 ‘어른’은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[송영애의 영화이야기] 선거에 영향 줄까 봐?… 1992년 3월 영화 ‘JFK’ 개봉 연기설]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003675354</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004933474"/>
         <updated>2022-03-11T09:05:43.900Z</updated>
         <content type="html"><![CDATA[박스 1위에도 관객수 1만대..최민식, 흥행 고전ing ‘국민 배우’ 최민식 주연 영화 '이상한 나라의 수학자'가 박스오피스 1위에도 저조한 관객수에 울상을 짓고 있다. 과연 개봉주 주말 특수로 반등할 수 있을까.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[리뷰&인터뷰] 독립영화관 - 무협은 이제 관뒀어 (감독: 장형윤)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000044650</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000044650"/>
-        <updated>2022-03-11T09:05:43.904Z</updated>
-        <content type="html"><![CDATA[오늘 밤 KBS 1TV [독립영화관]은 예측할 수 없는 기발하고 엉뚱한 이야기를 다룬 ‘무협은 이제 관뒀어’(감독: 장형윤), ‘소망어린이집 근무안내서’(감독: 김민지), ‘구조원들’(감독: 심현석) 등 3편의 단편]]></content>
     </entry>
 </feed>
