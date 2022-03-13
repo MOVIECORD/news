@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-13T20:07:20.388Z</updated>
+    <updated>2022-03-13T21:05:45.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[영화평 300]고통스러워도 눈을 떼선 안 되는 영화]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011059772</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011059772"/>
+        <updated>2022-03-13T21:04:46.340Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 손정빈 기자 = 3월 2주차 개봉 영화 및 최신 영화에 대한 간단평을 300자 분량으로 정리했다. 눈 돌리지마, 이게 여성의 현실이야…레벤느망 오드리 디완 감독은 빠르고 효율적으로 그리고 아주 날카롭]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[왕비가 되길 거부한 그녀, 영국 왕실의 ‘노라’였을까]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000663246</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003035244"/>
         <updated>2022-03-13T02:29:38.645Z</updated>
         <content type="html"><![CDATA[그간 BL(Boys Love) 드라마는 '그들만의 세상'인 느낌이 강했다. 마니아층은 있지만 그 한계가 명확해 보였고, 벽이 존재하는 듯 보이기도 했다. 그러나 '시맨틱 에러'가 BL 팬들뿐만 아니라 처음 접해본 시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베트남, 남중국해 중국 영해 표시 할리우드 영화 상영 금지]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013047765</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013047765"/>
-        <updated>2022-03-13T02:29:38.649Z</updated>
-        <content type="html"><![CDATA[남중국해 영유권 갈등 첨예…넷플릭스도 드라마 방영 중단 (방콕=연합뉴스) 김남권 특파원 = 베트남이 영유권 분쟁이 있는 남중국해에 중국이 임의로 그어 놓은 영해선을 그대로 표기한 할리우드 영화의 상영을 금지했다. 1]]></content>
     </entry>
 </feed>
