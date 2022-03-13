@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-03-13T19:06:21.304Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 13 Mar 2022 20:07:20 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[왕비가 되길 거부한 그녀, 영국 왕실의 '노라'였을까]]></title>
+            <link>https://v.daum.net/v/20220314043101112</link>
+            <guid>https://v.daum.net/v/20220314043101112</guid>
+            <pubDate>Sun, 13 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[카메라가 고급스포츠카 한 대를 내려다본다. 차는 한적한 교외 길을 달리는 중이다. 운전자는 다이애나 영국 왕세자빈(크리스틴 스튜어트)이다. 그는 어느 작은 휴게소에 차를 멈춘다. 사람들 시선에는 아랑곳 않고 식당 주인에게 묻는다. “길을 잃었어요. 제가 어디에 있는 건가요?” 영화 ‘스펜서’의 도입부 대사는 의미심장하다. 영화는 1991년 크리스마스 전후]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F14%2Fhankooki%2F20220314043103245rvib.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
