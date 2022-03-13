@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-03-13T14:06:23.934Z</updated>
+    <updated>2022-03-13T15:06:45.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애니메이션계 아카데미 '제49회 애니 어워드' 승자는 '넷플릭스']]></title>
+        <id>https://entertain.v.daum.net/v/20220313232110693</id>
+        <link href="https://entertain.v.daum.net/v/20220313232110693"/>
+        <updated>2022-03-13T15:06:45.325Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 황혜정 인턴기자] 지난 12일(현지시간) 미국에서 열린 ‘제49회 연례 애니 어워드(annual Annie Awards)’의 승자는 ‘넷플릭스’(Netflix)였다. ‘제49회 애니 어워드’에서는 소니 픽쳐스의 ‘미첼 가족과 기계전쟁(The Mitchells vs. Machines)’, 인기 게임 ‘리그오브레전드(LOL)’을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['수학자' 박동훈 감독 "최민식 존재의 부피감으로 영화의 밀도 꽉 채워"]]></title>
         <id>https://entertain.v.daum.net/v/20220313180117469</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220313091350060"/>
         <updated>2022-03-13T00:27:33.187Z</updated>
         <content type="html"><![CDATA[[스포츠경향] OTT플랫폼 넷플릭스 오리지널 ‘소년심판’이 묵직한 메시지와 날카로운 화두를 던지며 작품성을 인정받았다. 소년범죄를 다각도로 살피며 ‘아이들을 지키기 위한 좋은 어른은 어떤 사람인가’란 질문을 남긴 이 작품은 주연을 맡은 배우 김혜수에게도 여러모로 영향을 끼쳤다. ‘좋은 어른’이란 화두를 가슴에 지니게 된 것도 그 중 하나다. “실제 김]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스펜서'-'도어맨'-'아이돌레시피']]></title>
-        <id>https://entertain.v.daum.net/v/20220313090035879</id>
-        <link href="https://entertain.v.daum.net/v/20220313090035879"/>
-        <updated>2022-03-13T00:27:33.188Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 사진=각 영화 포스터할리우드 블록버스터 '더 배트맨'이 북미 박스오피스에서 1억 3400만 달러라는 수익을 올리고, 세계 73개국 박스오피스 1위를 달성해 흥행 돌풍을 일으키고 있는 가운데, 국내에서는 개봉 10일째 62만 3704명의 관객을 동원하며 다소 주춤하고 있다. 이러한 상황 속 최민식 주연의 영화 '이상한 나라의 수학]]></content>
     </entry>
 </feed>
