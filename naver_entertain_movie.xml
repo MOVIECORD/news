@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-13T06:13:57.366Z</updated>
+    <updated>2022-03-13T07:06:39.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신화→배우 김동완, 영화 ‘B컷’이라는 무대]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000607087</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000607087"/>
+        <updated>2022-03-13T07:05:22.748Z</updated>
+        <content type="html"><![CDATA[그룹 신화 출신 배우 김동완이 디지털 범죄 스릴러 ‘B컷’이라는 무대에 오른다. 영화 ‘B컷’(김진영 감독)은 일명 ‘탐정까기’(휴대전화에서 은밀한 정보를 빼내는 행위)로 한탕을 꿈꾸던 스마트폰 사설수리업자 승현이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['수학자' 박동훈 감독 "파이송, 칠판 뒤 앵글로 관객의 동참 끌어냈다" [인터뷰M]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000148442</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004933718"/>
         <updated>2022-03-12T23:05:18.079Z</updated>
         <content type="html"><![CDATA[3월 30일 전 세계 동시 공개 마블의 새로운 히어로가 온다. 바로 ‘문나이트’다. 마블 오리지널 시리즈 ‘문나이트’가 오는 30일 디즈니+를 통해 전 세계에 동시 공개된다. 영화는 현실과 꿈을 구분하지 못하며 혼란]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화관서도 雨中 방탄소년단·아미와 일심동체]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011058975</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011058975"/>
-        <updated>2022-03-12T23:05:18.083Z</updated>
-        <content type="html"><![CDATA[기사내용 요약 방탄소년단 콘서트 라이브 뷰잉 실황 중계 12일 전국 90개 영화관서 진행 [서울=뉴시스]이재훈 기자 = "비가 와 어떡해!" 12일 오후 8시께 스크린 속에서 굵은 빗방울이 보이기 시작하자, 롯데시네]]></content>
     </entry>
 </feed>
