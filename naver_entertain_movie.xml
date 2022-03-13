@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-13T07:06:39.276Z</updated>
+    <updated>2022-03-13T08:09:24.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파워 오브 도그·듄·스펜서…오스카상 거머쥘 영화는]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004673335</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004673335"/>
+        <updated>2022-03-13T08:08:07.460Z</updated>
+        <content type="html"><![CDATA[봉준호 감독의 ‘기생충’과 ‘미나리’의 윤여정 배우에게 수상의 영광을 선사했던 미국 아카데미 시상식이 이달 개최된다. 올해로 94회를 맞은 아카데미 시상식은 27일(현지시간) 미국 로스앤젤레스 돌비극장에서 열린다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신화→배우 김동완, 영화 ‘B컷’이라는 무대]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000607087</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001419950"/>
         <updated>2022-03-13T00:26:07.340Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '이상한 나라의 수학자'(감독 박동훈)가 배우들이 직접 꼽은 영화 속 명장면과 명대사를 공개했다. '이상한 나라의 수학자'는 신분을 감추고 고등학교 경비원으로 일하는 탈북한 천재 수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘문나이트’, 마블값 할까[MK무비]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004933718</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004933718"/>
-        <updated>2022-03-12T23:05:18.079Z</updated>
-        <content type="html"><![CDATA[3월 30일 전 세계 동시 공개 마블의 새로운 히어로가 온다. 바로 ‘문나이트’다. 마블 오리지널 시리즈 ‘문나이트’가 오는 30일 디즈니+를 통해 전 세계에 동시 공개된다. 영화는 현실과 꿈을 구분하지 못하며 혼란]]></content>
     </entry>
 </feed>
