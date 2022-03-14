@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-14T19:06:06.582Z</updated>
+    <updated>2022-03-14T20:06:43.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어느날 달이 지구로 떨어진다면]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001511966</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001511966"/>
+        <updated>2022-03-14T20:05:56.018Z</updated>
+        <content type="html"><![CDATA[우주에서 위성 수리 임무를 수행하던 미 항공우주국(NASA·나사) 우주비행사 브라이언(패트릭 윌슨)과 파울러(할리 베리)는 정체를 알 수 없는 유기체의 공격을 받고 동료를 잃는다. 나사는 유기체의 존재를 비밀에 부치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김동욱·김성규·채정안 열연→원작 넘어설 파격 (돼지의 왕)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000966359</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004934327"/>
         <updated>2022-03-14T08:10:23.932Z</updated>
         <content type="html"><![CDATA[산드라 오 주연·샘 레이미 제작 영화 ’엄마’가 4월 말 국내 개봉을 확정했다. ‘엄마’는 교외의 농장에서 딸과 단 둘이 평온하게 살아오던 ‘아만다’(산드라 오)가 한국에서 온 엄마의 유골을 받게 되면서 일어나는 정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나로 철수했던 부산 영화인 숙소 17일 해운대에 다시 문 연다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005968125</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0005968125"/>
-        <updated>2022-03-14T08:10:23.933Z</updated>
-        <content type="html"><![CDATA[(부산=뉴스1) 이유진 기자 = 부산을 방문하는 영화인들을 위한 전용 숙소가 다시 문을 연다. 부산영상위원회는 17일 오후 부산 해운대구 우동에 위치한 아르피나 1층에서 ‘시네마하우스 부산 in 아르피나’ 개소식을]]></content>
     </entry>
 </feed>
