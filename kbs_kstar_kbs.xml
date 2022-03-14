@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 08:11:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 09:07:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['스우파' 하드캐리 댄서 가비, 첫 관찰 예능 '갓파더' 도전!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=197021</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=197021</guid>
+            <pubDate>Mon, 14 Mar 2022 09:05:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197021">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220314171116_2f49ad34b8c211cf2812f7ab242cb703.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197021">'스우파' 하드캐리 댄서 가비, 첫 관찰 예능 '갓파더' 도전!</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220314171116_2f49ad34b8c211cf2812f7ab242cb703.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사라진 오빠...홀로 조카 셋 키우고 있는 동생의 사연]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=196990</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220313171250_1fec60bde112de2793a18c4c74a607cb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이성계, “널 살리고 싶어서 이러는 거다” (KBS 태종 이방원)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=196808</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196808</guid>
-            <pubDate>Sun, 13 Mar 2022 09:05:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196808">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220313170426_9e32dee5000d3e73768bab9263bd6c31.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196808">이성계, “널 살리고 싶어서 이러는 거다” (KBS 태종 이방원)</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8C%80%ED%95%98%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%83%9C%EC%A2%85%20%EC%9D%B4%EB%B0%A9%EC%9B%90">대하드라마 태종 이방원</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220313170426_9e32dee5000d3e73768bab9263bd6c31.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
