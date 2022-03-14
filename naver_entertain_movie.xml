@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-14T14:06:14.352Z</updated>
+    <updated>2022-03-14T15:06:34.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['리디밍 러브', 로맨스 소설 원작 영화 흥행 이어갈까 [TF프리즘]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000137558</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000137558"/>
+        <updated>2022-03-14T15:05:51.589Z</updated>
+        <content type="html"><![CDATA['노트북'·'미 비포 유'에 이어 스크린에 피어나는 로맨스 '완성형 로맨스' 영화 '리디밍 러브'가 개봉을 앞둔 가운데 전 세계 독자들의 가슴을 적신 감동적인 로맨스 소설을 원작으로 하는 영화의 흥행 계보를 이을 수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팝업★]황동혁 감독 "스필버그, '오겜' 3일만 정주행..내 뇌 훔치고 싶다더라"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003540845</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000280944"/>
         <updated>2022-03-14T08:10:23.976Z</updated>
         <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 배우 이정재가 크리틱스 초이스 어워즈에서 한국 배우 최초로 남우주연상의 영예를 안았다. 이정재는 14일(현지시각) 진행된 제27회 미국 크리틱스 초이스 어워즈(Critics' Ch]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소재는 바뀌었지만 익숙한 재난 블록버스터…영화 '문폴']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013050375</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013050375"/>
-        <updated>2022-03-14T07:06:15.805Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 오보람 기자 = 인간의 DNA에 지구 멸망에 대한 공포감이 새겨져 있기라도 한 걸까. 잊힐 만하면 나오는 게 할리우드 재난 블록버스터다. 소행성의 지구 충돌부터 외계 생물체·괴수 침공, 기후 위기]]></content>
     </entry>
 </feed>
