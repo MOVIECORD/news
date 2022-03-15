@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-15T11:06:58.430Z</updated>
+    <updated>2022-03-15T12:13:43.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['美 수상 릴레이' 중인 이정재, 현지 언론은 어떻게 평가할까]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000281018</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000281018"/>
+        <updated>2022-03-15T12:12:59.738Z</updated>
+        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 배우 이정재가 미국 대중 문화 시상식에서 한국 남자 배우 최초의 수상 역사를 써내려가고 있는 가운데 현지 언론의 평가 또한 관심이 모아진다. 이정재는 지난 13일(현지시각) 미국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오징어게임' 정호연, 美시상식 비하인드.."Never ending" [스타IN★]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003035888</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001420943"/>
         <updated>2022-03-15T07:07:41.404Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '수퍼 소닉2'(감독 제프 파울러)가 더 커진 스케일과 스토리의 메인 예고편을 공개했다. '수퍼 소닉2'는 초특급 히어로 소닉과 새로운 파트너 테일즈, 수퍼 빌런 너클즈와 천재 악당]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이상한 나라의 수학자' '소년심판'…촬영 메카로 부상한 전북]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013052476</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013052476"/>
-        <updated>2022-03-15T07:07:41.404Z</updated>
-        <content type="html"><![CDATA[한옥마을·전주대 등 인기…세트 촬영은 '전주영화종합촬영소' 전주영상위원회 "도심·시골 분위기 공존하는 전북 선호 경향" (전주=연합뉴스) 임채두 기자 = 영화 '기생충' 촬영지로 이름난 전북 전주가 최근 화제를 모은]]></content>
     </entry>
 </feed>
