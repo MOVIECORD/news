@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-15T12:13:43.179Z</updated>
+    <updated>2022-03-15T13:17:43.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[밥 아이거 전 디즈니 CEO, 메타버스 업체 지니스에 투자]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000799519</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000799519"/>
+        <updated>2022-03-15T13:16:26.479Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 밥 아이거 디즈니 전 최고경영자(CEO)가 메타버스 스타트업 지니스에 투자를 하고 이사진으로 합류했다고 14일(현지시간) 현지 언론이 전했다. 2017년 설립된 지니스는 메타버스 가상공간에서 활동하는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['美 수상 릴레이' 중인 이정재, 현지 언론은 어떻게 평가할까]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000281018</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005167342"/>
         <updated>2022-03-15T07:07:41.403Z</updated>
         <content type="html"><![CDATA[톰 크루즈(사진=스타in) [이데일리 스타in 박미애 기자] 톰 크루즈 주연의 ‘탑건:매버릭’이 칸에서 첫 공개된다. 14일(현지시간) 데드라인 등 외신에 따르면 ‘탑건:매버릭’(감독 조셉 코신스키)이 오는 5월17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['수퍼 소닉2' 메인 예고편…히어로 소닉 vs 최강 빌런, 지구 운명 건 대결]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001420943</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001420943"/>
-        <updated>2022-03-15T07:07:41.404Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '수퍼 소닉2'(감독 제프 파울러)가 더 커진 스케일과 스토리의 메인 예고편을 공개했다. '수퍼 소닉2'는 초특급 히어로 소닉과 새로운 파트너 테일즈, 수퍼 빌런 너클즈와 천재 악당]]></content>
     </entry>
 </feed>
