@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-15T03:10:40.676Z</updated>
+    <updated>2022-03-15T04:11:46.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세븐틴 파워 오브 러브 : 더 무비', 파워풀한 퍼포먼스·사랑스럽고 청량한 무대 "원더풀"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003584716</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003584716"/>
+        <updated>2022-03-15T04:11:02.336Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]글로벌 아티스트 세븐틴(SEVENTEEN)의 첫 번째 영화 '세븐틴 파워 오브 러브 : 더 무비'가 오는 4월 20일 한국을 시작으로 전 세계 개봉을 확정한 가운데, 보도스틸과 스크린X]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['야차' 설경구·박해수, '극과 극' 매력의 두 남자 스틸 공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000137643</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002345849"/>
         <updated>2022-03-15T02:10:55.991Z</updated>
         <content type="html"><![CDATA[[리뷰] 영화 &lt;문폴&gt; 히어로 이전 할리우드 블록버스터를 떠올리게 만든다 ▲ &lt;문폴&gt; 포스터 ⓒ 누리픽쳐스 1990년대와 2000년대 할리우드 블록버스터의 전성기를 함께했던 롤랜드 에머리히는 '파괴의 왕'이라는 별명]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브라질리아서 '2022 한국영화제' 개최…10편 상영]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013051314</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013051314"/>
-        <updated>2022-03-15T02:10:55.997Z</updated>
-        <content type="html"><![CDATA[(상파울루=연합뉴스) 브라질 주재 한국대사관과 한국문화원이 오는 25일부터 다음 달 3일(현지시간)까지 브라질리아에서 '2022 한국영화제'를 개최한다고 15일 밝혔다. 유명 영화관인 '씨네 브라질리아'에서 열리는]]></content>
     </entry>
 </feed>
