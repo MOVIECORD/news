@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-16T12:13:07.426Z</updated>
+    <updated>2022-03-16T13:17:20.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일본서 ‘ONLINE CINEMA@오사카한국영화제’ 개최…‘오징어 게임’ 황동혁 감독 작품도 소개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000799821</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000799821"/>
+        <updated>2022-03-16T13:16:34.591Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 일본 오사카한국문화원은 일본 미개봉작과 특별상영작 6편을 소개하는 ‘ONLINE CINEMA@오사카한국영화제’를 개최한다고 16일 밝혔다. 한국 문화 접근성이 낮은 지역에서도 손쉽게 한국 영화를 관람할]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스펜서' 리뷰 포스터 공개…크리스틴 스튜어트에 홀리는 마성의 117분]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000854224</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000148809"/>
         <updated>2022-03-16T08:11:07.510Z</updated>
         <content type="html"><![CDATA[▶ 줄거리 부산 변두리 작은 포구 '구암'의 절대적인 주인 '손영감’(김갑수), 그의 밑에서 수년간 수족으로 일해온 '희수'(정우)는 무엇 하나 이뤄낸 것 없이, 큰돈 한 번 만져보지 못한 채 반복되는 건달 짓이 지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['문나이트' 빌런 에단 호크, 오스카 아이삭과 압도적 연기 빅매치 예고]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003585153</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003585153"/>
-        <updated>2022-03-16T08:11:07.519Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]디즈니+가 선보이는 마블 오리지널 시리즈 '문나이트'에 합류한 할리우드의 명배우 ‘에단 호크’가 필모그래피 사상 제대로 된 첫 악역 변신을 예고해 기대를 모은다. '비포' 시리즈, '토탈]]></content>
     </entry>
 </feed>

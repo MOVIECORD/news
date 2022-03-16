@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 12:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 13:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[채수빈, 너와 나의 고은강 (KBS연예 ─ 영화)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=197486</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=197486</guid>
+            <pubDate>Wed, 16 Mar 2022 13:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197486">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220316175927_cb3143e0177793bb2bf543621755ebdf.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197486">채수빈, 너와 나의 고은강</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220316175927_cb3143e0177793bb2bf543621755ebdf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] 안테벨룸 “컬러퍼플 원더랜드” (KBS연예 ─ 영화)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=197409</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196936">박해준, '아직 최선을 다하지 않은..'  7회와 8회</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220314085220_15b09176673c00d3f2d03028ef659551.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 '돼지의 왕', "폭력의 기억, 괴물의 탄생" (KBS연예 ─ 영화)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=196928</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196928</guid>
-            <pubDate>Mon, 14 Mar 2022 03:07:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196928">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220314081741_cabd5d8e459a9a55837d6e3e4bc8dde8.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196928">티빙 '돼지의 왕', "폭력의 기억, 괴물의 탄생"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220314081741_cabd5d8e459a9a55837d6e3e4bc8dde8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다크비의 신개념 리얼리티 프로그램 '다크비 유나이티드' (KBS연예 ─ TVs)]]></title>
@@ -1111,6 +1111,13 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/02/10/710cbc0e-d853-4b2a-990e-dc490080d128.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본서 ‘ONLINE CINEMA@오사카한국영화제’ 개최…‘오징어 게임’ 황동혁 감독 작품도 소개 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000799821</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000799821</guid>
+            <pubDate>Wed, 16 Mar 2022 13:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 일본 오사카한국문화원은 일본 미개봉작과 특별상영작 6편을 소개하는 ‘ONLINE CINEMA@오사카한국영화제’를 개최한다고 16일 밝혔다. 한국 문화 접근성이 낮은 지역에서도 손쉽게 한국 영화를 관람할]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['스펜서' 리뷰 포스터 공개…크리스틴 스튜어트에 홀리는 마성의 117분 (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000854224</link>
             <guid>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000854224</guid>
@@ -1279,186 +1286,200 @@
             <content:encoded><![CDATA[▶ 줄거리 부산 변두리 작은 포구 '구암'의 절대적인 주인 '손영감’(김갑수), 그의 밑에서 수년간 수족으로 일해온 '희수'(정우)는 무엇 하나 이뤄낸 것 없이, 큰돈 한 번 만져보지 못한 채 반복되는 건달 짓이 지]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['문나이트' 빌런 에단 호크, 오스카 아이삭과 압도적 연기 빅매치 예고 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003585153</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003585153</guid>
-            <pubDate>Wed, 16 Mar 2022 08:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]디즈니+가 선보이는 마블 오리지널 시리즈 '문나이트'에 합류한 할리우드의 명배우 ‘에단 호크’가 필모그래피 사상 제대로 된 첫 악역 변신을 예고해 기대를 모은다. '비포' 시리즈, '토탈]]></content:encoded>
+            <title><![CDATA['유퀴즈' 정은표 "子 정지웅, 어린시절 학원 가면 영재 검사 권해" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004935784</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004935784</guid>
+            <pubDate>Wed, 16 Mar 2022 13:16:41 GMT</pubDate>
+            <content:encoded><![CDATA['유퀴즈' 정은표 아들 정지웅이 출연했다. 16일 방송된 tvN 예능프로그램 '유 퀴즈 온 더 블럭'(이하 '유퀴즈')에서는 '살짝 놀랐어' 특집을 꾸며진 가운데 배우 정은표의 아들 정지웅 군이 출연했다. 이날 정은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임재혁 "'지우학' 촬영 위해 32kg 증량…짜장면 두 그릇 밥 비벼먹어" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005973064</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005973064</guid>
-            <pubDate>Wed, 16 Mar 2022 12:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 안은재 기자 = 배우 임재혁이 '지금 우리 학교는'에 출연하기 위해 32㎏을 증량했다고 밝혔다. 16일 오후 방송된 tvN 예능 프로그램 '유 퀴즈 온 더 블럭'에서는 넷플릭스 오리지널 '지금 우리]]></content:encoded>
+            <title><![CDATA[‘킬힐’ 김하늘, 이혜영X김재철 등에 업고 흑화 시작? [M+TV컷] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001649531</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001649531</guid>
+            <pubDate>Wed, 16 Mar 2022 13:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[‘킬힐’ 김하늘이 홈쇼핑 무대로 돌아온다. tvN 수목드라마 ‘킬힐’ 측은 16일, 우현(김하늘 분)의 달라진 분위기를 공개했다. 이와 함께 준범(정의제 분)과 성우(문지인 분)를 소환한 모란(이혜영 분)의 모습도]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['같이삽시다' 이창훈, 초콜릿 복근..곧 60세 맞아? "바디 프로필 찍고 죽을 뻔" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003036210</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003036210</guid>
-            <pubDate>Wed, 16 Mar 2022 12:12:13 GMT</pubDate>
-            <content:encoded><![CDATA['박원숙의 같이 삽시다'에서 배우 이창훈이 바디 프로필을 찍고 난 후기를 공개했다. 16일 오후 방송된 KBS 2TV 예능 프로그램 '박원숙의 같이 삽시다'에서는 1980년대 청춘스타 이창훈이 사 선녀를 찾았다. 이]]></content:encoded>
+            <title><![CDATA['서프비방' 권은비 "솔로 활동 많이 외롭지만…수익은 덜 외로워" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001210046</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001210046</guid>
+            <pubDate>Wed, 16 Mar 2022 13:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[권은비가 솔로 활동에 대한 솔직한 마음을 밝혔다. 16일 오후 방송된 MBC ‘서프라이즈: 비밀의 방’에는 MZ세대 판정 요원으로 그룹 아이즈원 출신 가수 권은비가 출연했다. 이날 권은비는 "솔로활동이 외롭지 않냐?]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘신랑수업’ 영탁, 미래의 신부 위해 ‘플라워 클래스’ 도전 [M+TV컷] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001649522</link>
-            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001649522</guid>
-            <pubDate>Wed, 16 Mar 2022 12:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[‘신랑수업’ 영탁이 미래의 신부를 위한 ‘플라워 클래스’에 도전하던 중 ‘감성 파괴왕’에 등극한다. 16일(오늘) 방송하는 채널A ‘요즘 남자 라이프-신랑수업’(이하 ‘신랑수업’) 7회에서는 ‘국민 예비 사위’ 영탁]]></content:encoded>
+            <title><![CDATA[‘신랑수업’ 영탁 “내 외모에서 부족한 점? 안면 비대칭” 솔직고백 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001210045</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001210045</guid>
+            <pubDate>Wed, 16 Mar 2022 13:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[가수 영탁이 스스로 생각하는 외모 결점으로 ‘안면 비대칭’을 꼽았다. 16일 방송된 채널A ‘신랑수업’에선 영탁 김찬우 김준수의 싱글라이프가 공개됐다. 이날 영탁은 “자신의 외모 중 어느 부분이 부족하다고 느끼나?”]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[배우 김갑수 '갓파더' 출연 적극 권한 인물 등장에… (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011066520</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011066520</guid>
-            <pubDate>Wed, 16 Mar 2022 12:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]유다연 인턴 기자 = 트로트 가수 장민호가 배우 김갑수의 수행원으로 활동한다. 16일 오후 10시40분 방송되는 KBS 2TV '新가족관계증명서 갓파더'에서 김갑수가 영화 '뜨거운 피' 제작보고회 현장]]></content:encoded>
+            <title><![CDATA[[TV 엿보기] '갓파더' 장민호, 김갑수 응원 위해 '뜨거운 피' 현장 찾는다 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=119&amp;aid=0002585735</link>
+            <guid>https://entertain.naver.com/now/read?oid=119&amp;aid=0002585735</guid>
+            <pubDate>Wed, 16 Mar 2022 13:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[[데일리안 = 류지윤 기자] 영화 '뜨거운 피'의 정우, 김갑수, 천명관 감독이 '갓파더'에 출연한다. 16일 오후 방송하는 KBS2 '新가족관계증명서 갓파더'에서는 김갑수와 장민호의 특별한 동행을 그린다. 아들 장]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['유퀴즈' 임재혁 "'지우학' 이후? 인스타 팔로워 600명→60만" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004935772</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004935772</guid>
-            <pubDate>Wed, 16 Mar 2022 12:12:13 GMT</pubDate>
-            <content:encoded><![CDATA['유퀴즈' 배우 임재혁이 출연했다. 16일 방송된 tvN 예능프로그램 '유 퀴즈 온 더 블럭'(이하 '유퀴즈')에서는 '살짝 놀랐어' 특집을 꾸며진 가운데 '지금 우리 학교는'에 출연했던 배우 임재혁이 출연했다. 이]]></content:encoded>
+            <title><![CDATA[장예원 "퇴직금 주식에 투자…수익률은 마이너스" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011066581</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011066581</guid>
+            <pubDate>Wed, 16 Mar 2022 13:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]전재경 기자 = 아나운서 출신 방송인 장예원이 주식 투자 경험담을 전한다. 장예원은 16일 오후 10시30분 방송되는 MBC 예능프로그램 '라디오스타'에 출연한다. 장예원은 8년간 몸담은 SBS를 퇴사]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘유퀴즈’ 임재혁 “‘지우학’ 이후 팔로워 6백 명→68만 명으로 늘어” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000799816</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000799816</guid>
-            <pubDate>Wed, 16 Mar 2022 12:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] ‘유 퀴즈 온 더 블럭’ 임재혁이 입담을 뽐냈다. 16일 오후 방송된 tvN 예능프로그램 ‘유 퀴즈 온 더 블럭’에서는 ‘지금 우리 학교는’ 배우 임재혁이 게스트로 출연했다. 이날 K-고딩 좀비로 세상]]></content:encoded>
+            <title><![CDATA['유퀴즈' 팀 킴 "前 지도자 갑질 폭로 후 죄인 된 기분" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003036216</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003036216</guid>
+            <pubDate>Wed, 16 Mar 2022 13:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[한국 컬링 여자 국가대표 '팀 킴'이 소속팀 관련 폭로 후 힘들었던 시간에 대해 이야기했다. 16일 오후 방송된 tvN 예능 프로그램 '유 퀴즈 온 더 블럭'는 '살짝 놀랐어' 특집으로 꾸며진 가운데 '지금 우리 학]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘유퀴즈’ 이민정, 현빈♥손예진 결혼 발표→이병헌 향한 댓글 비하인드 공개 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001649516</link>
-            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001649516</guid>
-            <pubDate>Wed, 16 Mar 2022 12:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[‘유퀴즈’에 팀 킴과 이민정 등이 출격한다. 16일 오후 방송되는 tvN 예능프로그램 ‘유 퀴즈 온 더 블럭’(이하 ‘유퀴즈’) 145회에서는 우리에게 놀라움을 준 자기님들과 토크 릴레이를 이어간다. 배우 임재혁,]]></content:encoded>
+            <title><![CDATA['골때녀' 배성재, '진라탄' 최여진에 감탄 "네이마르처럼 양발 잘 써" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004935780</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004935780</guid>
+            <pubDate>Wed, 16 Mar 2022 13:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[배성재가 최여진의 양발 슈팅력에 감탄했다. 16일 방송된 SBS '골 때리는 그녀들'에서는 3연승으로 무서운 기세를 보이는 FC액셔니스타와, 1승 2패를 기록한 FC탑걸의 경기가 그려졌다. 탑걸은 3위 안에 들어가려]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[넷플릭스 "SKB가 통행료 요구" vs SKB "타사는 이용대가 낸다"(종합) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013055482</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013055482</guid>
-            <pubDate>Wed, 16 Mar 2022 12:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[망 사용료 항소심 구술 변론서 양사 기존 입장 되풀이 (서울=연합뉴스) 정윤주 기자 = 넷플릭스와 SK브로드밴드가 망 사용료 지급을 둘러싼 법정 공방에서 기존 입장을 고수하며 평행선을 달렸다. 넷플릭스는 SKB가 콘]]></content:encoded>
+            <title><![CDATA[‘주접이 풍년’, 임영웅 이은 팬덤 랭킹 2위 박서진 출격[채널예약] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000799823</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000799823</guid>
+            <pubDate>Wed, 16 Mar 2022 13:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 가수 박서진과 그의 주접단의 이야기가 공개된다. 오는 17일 오후 방송될 KBS2 예능프로그램 ‘팬심자랑대회 주접이 풍년 (이하 ‘주접이 풍년’) 7회에서는 가수 박서진과 공식 팬카페 닻별이 주접단으로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘골때녀’, FC액셔니스타 VS FC탑걸 슈퍼리그 진출 운명 결정전 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001649512</link>
-            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001649512</guid>
-            <pubDate>Wed, 16 Mar 2022 12:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[‘골(Goal) 때리는 그녀들’에서는 ‘FC탑걸’과 ‘FC액셔니스타’의 운명적 대결이 펼쳐진다. 이번 경기는 부상 회복과 동시에 체력까지 업그레이드한 ‘FC탑걸’과 부상자 발생으로 위기를 맞은 ‘FC액셔니스타’의 대]]></content:encoded>
+            <title><![CDATA['대한외국인' 지숙♥이두희→트루디♥이대은, 스타와 팬→男 적극 구애로 결혼 골인 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001210044</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001210044</guid>
+            <pubDate>Wed, 16 Mar 2022 13:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[두 부부가 첫 만남부터 결혼 골인하기까지 러브스토리를 전했다. 16일 오후 방송된 MBC에브리원 ‘대한외국인’은 ‘우리 결혼했어요’ 특집으로 지숙♥이두희, 트루디♥이대은 부부가 함께했다. 이날 두 부부는 "스타와 팬]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘사랑의 꽈배기’ 함은정, 김진엽 딸 혈액형에 의문...진실 알까?[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000799812</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000799812</guid>
-            <pubDate>Wed, 16 Mar 2022 12:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] ‘사랑의 꽈배기’ 함은정이 손성윤 딸 혈액형에 의문을 품었다. 16일 오후 방송된 KBS2 일일드라마 ‘사랑의 꽈배기’에서는 김진엽과 손성윤 딸의 혈액형에 의심하는 함은정의 모습이 전파를 탔다. 이날]]></content:encoded>
+            <title><![CDATA[이창훈, "아토피 앓는 딸 위해 2년 간 180평 땅에서 농사만 지어"('박원숙의 같이삽니다') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000535890</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000535890</guid>
+            <pubDate>Wed, 16 Mar 2022 13:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=신지원 기자] '박원숙의 같이 삽시다' 배우 이창훈이 180평 땅에 농사를 짓게 된 비하인드를 밝혔다. 16일 오후 방송된 KBS 2TV 예능 프로그램 '박원숙의 같이 삽시다'에서는 배우 이창훈이 결혼 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘사랑의 꽈배기’ 함은정, 김진엽X손성윤 딸 출생의 비밀 의심... 진실 찾을까?[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001210040</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001210040</guid>
-            <pubDate>Wed, 16 Mar 2022 12:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[함은정이 김진엽의 딸이 친딸이 아닐 가능성을 떠올리고 경악했다. 16일 방송된 KBS 2TV ‘사랑의 꽈배기’에선 하루(김진엽 분)와 윤아(손성윤 분)의 딸 샛별의 출생의 비밀에 의문을 품는 소리(함은정 분)의 모습]]></content:encoded>
+            <title><![CDATA['골때녀' 응원 간 솔라, 문별에 "냅다 꽂아버려" 응원 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004935779</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004935779</guid>
+            <pubDate>Wed, 16 Mar 2022 13:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[마마무 솔라가 문별의 경기를 응원했다. 16일 방송된 SBS '골 때리는 그녀들'에서는 3연승으로 무서운 기세를 보이는 FC액셔니스타와, 1승 2패를 기록한 FC탑걸의 경기가 그려졌다. 탑걸은 3위 안에 들어가려면]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['사랑의 꽈배기' 함은정, 김진엽 딸 혈액형 알고 충격…"그럴 리 없잖아"(종합) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005973049</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005973049</guid>
-            <pubDate>Wed, 16 Mar 2022 12:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 박하나 기자 = '사랑의 꽈배기' 함은정이 김진엽 딸의 혈액형을 알고 충격에 휩싸였다. 16일 오후 7시 50분에 방송된 KBS 2TV 일일드라마 '사랑의 꽈배기'(극본 이은주/연출 김원용)에서는 조]]></content:encoded>
+            <title><![CDATA['같이삽시다' 이창훈, 17세 연하 아내와 신혼 초 이혼 고민한 이유[★밤TView] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003036215</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003036215</guid>
+            <pubDate>Wed, 16 Mar 2022 13:16:41 GMT</pubDate>
+            <content:encoded><![CDATA['박원숙의 같이 삽시다'에서 배우 이창훈이 신혼 초 이혼을 생각했다고 털어놨다. 16일 오후 방송된 KBS 2TV 예능 프로그램 '박원숙의 같이 삽시다'에서는 1980년대 청춘스타 이창훈이 사선녀에 신혼 초임에도 불]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[튀김족발 한 상, 고소하고 쫄긱한 튀김 족발과 쫄면 등 8가지 사이드 디쉬의 푸짐함('생방송 투데이') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000535885</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000535885</guid>
-            <pubDate>Wed, 16 Mar 2022 12:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=신지원 기자] 72cm 초대형 튀김 족발 플래터가 눈길을 끈다. 16일 방송된 SBS ‘생방송투데이’ 속 코너 ‘수요맛전’에서는 8가지 사이드 디시와 바삭하고 부드러운 튀김 족발 플래터가 소개됐다. 서울시]]></content:encoded>
+            <title><![CDATA['골 때리는 그녀들' 액셔니스타, 멤버들의 잇따른 부상..'위기' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003036214</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003036214</guid>
+            <pubDate>Wed, 16 Mar 2022 13:16:41 GMT</pubDate>
+            <content:encoded><![CDATA['골 때리는 그녀들'에서 'FC 액셔니스타'가 멤버들의 잇따른 부상으로 위기를 맞았다. 16일 오후 방송된 SBS 예능프로그램 '골때리는 그녀들'에서는 멤버들의 연이은 부상으로 전술을 바꿔야 할 상황에 놓인 'FC]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이소라, 나이를 어디로 먹었나…54세 거짓말 같네 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000535884</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000535884</guid>
-            <pubDate>Wed, 16 Mar 2022 12:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=차혜영 기자] 모델 이소라가 근황을 전했다. 이소라는 16일 자신의 인스타그램을 통해 "벌써 봄. #심쿵하잖아 #귯걸 #귯보이"라는 글과 함께 여러 장의 사진을 게재했다. 공개된]]></content:encoded>
+            <title><![CDATA['유퀴즈' 팀킴, 소속팀 불화 "죄인 된 기분 들 때도... 서로 의지 많이 돼" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004935776</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004935776</guid>
+            <pubDate>Wed, 16 Mar 2022 13:16:41 GMT</pubDate>
+            <content:encoded><![CDATA['유퀴즈' 컬링 국가대표 팀킴이 출연했다. 16일 방송된 tvN 예능프로그램 '유 퀴즈 온 더 블럭'(이하 '유퀴즈')에서는 '살짝 놀랐어' 특집을 꾸며진 가운데 한국 컬링 여자 국가대표 '팀 킴' 김은정 김경애 김]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘우이혼2’ 지연수 “일라이와의 결혼 생활, 나에게는 지옥 같았다” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000607480</link>
-            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000607480</guid>
-            <pubDate>Wed, 16 Mar 2022 12:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[‘우리 이혼했어요2’ 1호 커플 일라이와 지연수가 이혼 후 2년 만에 재회한다. 오는 4월 8일 첫 방송되는 TV조선 리얼 타임 드라마 ‘우리 이혼했어요2’(이하 ‘우이혼2’)에서는 1호 부부로 전격 합류를 알린 아]]></content:encoded>
+            <title><![CDATA[‘라디오스타’ 장예원, 퇴직금의 향방은? “마음의 고향 사라지는 느낌”[M+TV컷] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001649527</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001649527</guid>
+            <pubDate>Wed, 16 Mar 2022 13:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[‘라디오스타’ 장예원이 퇴사 후 받은 퇴직금의 향방에 대해 고백한다. 16일 오후 방송되는 MBC 예능프로그램 ‘라디오스타’(이하 ‘라스’)는 안지환, 정선희, 윤민수, 장예원과 함께하는 ‘들리는 TV! 오디오 스타]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘사랑의 꽈배기’ 함은정, 친부 김진엽에 “5년 전 아이 때문에 산 것” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000799809</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000799809</guid>
-            <pubDate>Wed, 16 Mar 2022 11:06:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] ‘사랑의 꽈배기’ 함은정이 장세현과 이혼하지 않는다 말했다. 16일 오후 방송된 KBS2 일일드라마 ‘사랑의 꽈배기’에서는 김진엽 아들때문에 장세현과 이혼하지 못한다는 함은정의 모습이 전파를 탔다. 이]]></content:encoded>
+            <title><![CDATA['팀 킴' 김영미, 前지도자 갑질 피해 폭로 후"사비 내서 운동…서로 의지해" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005973070</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005973070</guid>
+            <pubDate>Wed, 16 Mar 2022 13:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 안은재 기자 = '팀 킴'이 소속팀 없이 개인 훈련을 이어간 과거를 떠올렸다. 16일 오후 방송된 tvN 예능 프로그램 '유 퀴즈 온 더 블럭'에서는 2022 베이징 동계올림픽 한국 컬링 여자 국가대]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[종합] '괴물 신인→첫사랑돌'…위아이, 한층 단단해진 청춘으로 컴백 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000535882</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000535882</guid>
-            <pubDate>Wed, 16 Mar 2022 11:06:22 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=윤준호 기자] ‘4세대 청춘 아이콘’ 그룹 위아이(WEi)가 돌아왔다. 16일 오후 4시 위아이(대현, 동한, 용하, 요한, 석화, 준서)는 네 번째 미니앨범 ‘러브 파트 원 : 퍼스트 러브(Love Pt]]></content:encoded>
+            <title><![CDATA[넷플릭스·SKB, 망 사용료 항소심서 기존 입장 확인 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000799820</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000799820</guid>
+            <pubDate>Wed, 16 Mar 2022 13:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] OTT넷플릭스와 SK브로드밴드가 망 사용료 지급을 둘러싼 법정 공방에서 기존 입장을 고수했다. 넷플릭스는 SKB가 콘텐츠 전송 의무를 전가하고 있으며, 자사 데이터 임시 서버와 회선으로 구성된 솔루션인]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[불안한 세상의 거울…범죄예능, 대세가 되다[스경연예연구소] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000799808</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000799808</guid>
-            <pubDate>Wed, 16 Mar 2022 11:06:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠경향] 최근 방송가에서 가장 각광받고 있는 전문가는 바로 권일용 동국대 겸임교수다. 1990년대 말 국내에서 최초로 강력 범죄자들의 심리를 분석하는 ‘프로파일링’ 수사기법을 도입해 ‘1호 프로파일러’라는 별칭]]></content:encoded>
+            <title><![CDATA[‘같이 삽시다’ 이창훈 “17살 연하 아내와 결혼 후 5년간 방황... 이혼 고민하기도”[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001210043</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001210043</guid>
+            <pubDate>Wed, 16 Mar 2022 13:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이창훈이 17살 연하 아내와 이혼을 고민한 적이 있다며 관련사연을 공개했다. 16일 방송된 KBS 2TV ‘같이 삽시다’에선 이창훈이 게스트로 출연해 평창살이를 함께했다. 원조 청춘스타 이창훈의 등장에 자매들은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신민철 어머니 "기가 찬다" 무슨 일?…'갓파더' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011066448</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011066448</guid>
-            <pubDate>Wed, 16 Mar 2022 11:06:22 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스]김현숙 인턴 기자 = 강주은과 그룹 '원더걸스' 출신 우혜림이 난이도 높은 보양식 요리에 도전한다. 16일 오후 10시 40분에 방송하는 KBS2 '新가족관계증명서 갓파더'(이하 '갓파더')에서는 강주]]></content:encoded>
+            <title><![CDATA[권혁수 “과거 연예인병 걸려 명품 쇼핑…지금은 구제 옷” (국민영수증) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=396&amp;aid=0000607484</link>
+            <guid>https://entertain.naver.com/now/read?oid=396&amp;aid=0000607484</guid>
+            <pubDate>Wed, 16 Mar 2022 13:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[배우 권혁수가 과거와 달라진 소비 습관을 공개했다. 16일 방송된 KBS Joy ‘국민 영수증’에는 권혁수가 게스트로 출연했다. 이날 권혁수는 “펀드, 적금, 주식은 하나도 없다. 그나마 청약을 3만원씩 넣고 있다”]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['사랑의 꽈배기' 김진엽 "장세현, 없는 게 나아"…함은정에 이혼 설득 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005973041</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005973041</guid>
-            <pubDate>Wed, 16 Mar 2022 11:06:22 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 박하나 기자 = '사랑의 꽈배기' 김진엽이 함은정에게 이혼을 권유했지만, 함은정이 이를 거부했다. 16일 오후 7시 50분에 방송된 KBS 2TV 일일드라마 '사랑의 꽈배기'(극본 이은주/연출 김원용]]></content:encoded>
+            <title><![CDATA['당혹사3', 아인슈타인보다 뛰어났다는 이휘소 박사 재조명 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011066562</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011066562</guid>
+            <pubDate>Wed, 16 Mar 2022 13:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스]황지향 인턴 기자 = '천재 물리학자 이휘소는 CIA에 의해 암살당했다?' 16일 오후 10시40분에 방송되는 '당신이 혹하는 사이3'가 대선으로 인한 2주간의 공백을 깨고 물리학자 이휘소(1935~1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[위아이(WEi) ‘Love Pt.1 : First Love’ 발매 기념 쇼케이스 현장 풀 영상 [뉴스엔TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000552464</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000552464</guid>
-            <pubDate>Wed, 16 Mar 2022 11:06:22 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 오찬우 기자] 그룹 위아이가 3월 16일 오후 네 번째 미니 앨범 'Love Pt.1 : First Love(러브 파트.1 : 퍼스트 러브)' 발매기념 온라인 쇼케이스를 열였다. 이날 장대현은 “단체 컴백이]]></content:encoded>
+            <title><![CDATA[마마무 문별, 솔라 깜짝 등장에 눈물샘 폭발…'골때녀' 경기 응원 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0005973069</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0005973069</guid>
+            <pubDate>Wed, 16 Mar 2022 13:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 박하나 기자 = 마마무 문별이 '골 때리는 그녀들' 응원을 위해 깜짝 등장한 마마무 리더 솔라에 눈물을 보였다. 16일 오후에 방송된 SBS 예능 프로그램 '골 때리는 그녀들'(이하 '골때녀')에서는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[TV 엿보기] ‘유퀴즈’ 이민정, 남편 이병헌에 남긴 촌철살인 댓글 비하인드 밝힌다 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=119&amp;aid=0002585725</link>
-            <guid>https://entertain.naver.com/now/read?oid=119&amp;aid=0002585725</guid>
-            <pubDate>Wed, 16 Mar 2022 11:06:22 GMT</pubDate>
-            <content:encoded><![CDATA[[데일리안 = 박정선 기자] 16일 방송되는 tvN ‘유 퀴즈 온 더 블럭’ 145회에서는 우리에게 놀라움을 준 자기님들과 토크 릴레이를 이어간다. 배우 임재혁, 한국 컬링 여자 국가대표 ‘팀 킴’, 22학번 새내기]]></content:encoded>
+            <title><![CDATA[‘유퀴즈’ 팀 킴 “소속팀 불화, 죄인 된 기분 들 때 있었다” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000799819</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000799819</guid>
+            <pubDate>Wed, 16 Mar 2022 13:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] ‘유 퀴즈 온 더 블럭’ 팀 킴이 소속팀 불화를 언급했다. 16일 오후 방송된 tvN 예능프로그램 ‘유 퀴즈 온 더 블럭’에서는 컬링 팀 킴이 게스트로 출연했다. 이날 2018 평창 동계올림픽 컬링 사]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[넷플릭스 "SKB, 무상 솔루션 거부하고 '돈 달라' 입장 고수" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013055432</link>
-            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013055432</guid>
-            <pubDate>Wed, 16 Mar 2022 11:06:22 GMT</pubDate>
-            <content:encoded><![CDATA[망 사용료 항소심 구술 변론…"독점적 지위로 통행세 받겠다는 것" (서울=연합뉴스) 정윤주 기자 = 넷플릭스가 망 사용료 문제로 소송 중인 SK브로드밴드에 대해 "콘텐츠를 전송할 의무가 있는 인터넷서비스제공업체(IS]]></content:encoded>
+            <title><![CDATA[김숙, 권혁수의 극과 극 플렉스에 쓴소리 폭격..."차라리 명품백 사라"('국민영수증') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000535888</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000535888</guid>
+            <pubDate>Wed, 16 Mar 2022 13:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=신지원 기자] 김숙이 권혁수의 극과 극 소비에 쓴소리를 던졌다. 16일 방송된 KBS Joy 예능 프로그램 '국민 영수증'에서는 배우 권혁수가 게스트로 출연했다. 이날 권혁수의 달라진 소비패턴에 송은이는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김재우, ♥조유리와 커플요가 중 끔찍한 사고? "거기 아냐!" [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000535880</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000535880</guid>
-            <pubDate>Wed, 16 Mar 2022 11:06:22 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=이준현 기자] 방송인 김재우가 아내 조유리와 커플 요가 중 사고를 당했다. 김재우는 16일 자신의 인스타그램을 통해 "사랑이 돈독해지는 커플요가. 유리야 발 다 집어넣을 거니?.."라는 글과 함께 짧은 영]]></content:encoded>
+            <title><![CDATA['퍼펙트라이프' 선우용여 "뇌경색 후 내 건강 돌봐…다음 생엔 평범한 주부로 살고파" [종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001210042</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001210042</guid>
+            <pubDate>Wed, 16 Mar 2022 13:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[선우용여가 뇌경색 후 달라진 삶에 대해 이야기했다. 16일 오후 방송된 TV조선 '퍼펙트라이프'에는 배우 선우용여(78)가 출연했다. 선우용녀는 만 19세로 데뷔한 뒤 현재까지 탤런트 생활을 이어오고 있다. 1975]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['이병헌♥' 이민정, 알고 보니 홍보 요정이었네…"사실 친오빠 브랜드라" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000347494</link>
-            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000347494</guid>
-            <pubDate>Wed, 16 Mar 2022 11:06:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=정서희 기자] 배우 이민정이 이정현의 임신을 축하하며, 홍보요정을 자처했다. 이민정은 15일 자신의 인스타그램에 "정현 언니 순산 기원 선물. 예쁜 딸 낳아요"라는 글과 함께 사진 여러 장을 게재했다.]]></content:encoded>
+            <title><![CDATA[오유나X심지호, 가족 간 오해 풀고 부부의 연 맺어...엄수정 사죄('국가대표 와이프') (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000535892</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000535892</guid>
+            <pubDate>Wed, 16 Mar 2022 13:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=신지원 기자] '국가대표 와이프' 심지호와 오유나가 부부의 연을 맺었다. 16일 밤 방송된 KBS1 일일드라마 '국가대표 와이프'에서는 사기꾼 딸이라는 누명을 벗은 최선해(오유나 분)과 서강림(심지호 분)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['골때녀' FC탑걸 채리나, "기존팀 한 번도 못 이긴 신생팀…우리가 넘사벽 넘어보자" (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=416&amp;aid=0000281067</link>
+            <guid>https://entertain.naver.com/now/read?oid=416&amp;aid=0000281067</guid>
+            <pubDate>Wed, 16 Mar 2022 13:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS연예뉴스 | 김효정 에디터] FC탑걸이 남다른 각오로 경기에 나섰다. 16일 방송된 SBS '골 때리는 그녀들'(이하 '골때녀')에서는 FC액셔니스타와 FC탑걸의 리그전이 진행됐다. 현재 5위인 탑걸은 이 경]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['국대와이프' 윤다영, 심지호 결혼식장에서 헛구역질..'혼전임신' 의심 [별별TV] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003036212</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003036212</guid>
+            <pubDate>Wed, 16 Mar 2022 13:16:49 GMT</pubDate>
+            <content:encoded><![CDATA['국가대표 와이프' 윤다영이 헛구역질을 하며 몸에 이상을 느꼈다. 16일 오후 방송된 KBS 1TV 일일드라마 '국가대표 와이프'에서는 서보리(윤다영 분)가 서강림(심지호 분)과 최선해(오유나 분)의 결혼식장에서 헛]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정성모, "누가 네 아빠냐?"...오승아 친딸 아니라는 사실에 분노 ('두 번째 남편') (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
@@ -1552,7 +1573,7 @@
             <content:encoded><![CDATA['킬힐' 김하늘이 홈쇼핑 무대로 돌아온다. tvN 수목드라마 '킬힐'(연출 노도철, 극본 신광호·이춘우, 제작 유비컬쳐·메이퀸픽쳐스) 측은 16일 우현(김하늘 분)의 달라진 분위기가 담긴 스틸을 공개했다. 이와 함께]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘사내맞선’ 김민규X설인아, 거리두기 실패…선 넘은 키스 로맨스 시작 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <title><![CDATA[김민규X설인아, 거리두기 실패…선 넘은 키스 로맨스 시작 ‘사내맞선’ (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
             <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000552455</link>
             <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000552455</guid>
             <pubDate>Wed, 16 Mar 2022 09:07:08 GMT</pubDate>
@@ -1615,27 +1636,6 @@
             <content:encoded><![CDATA[[텐아시아=서예진 기자] ‘군검사 도베르만’ 조보아가 다채로운 얼굴로 호평을 이끌어내고 있다. 조보아가 tvN ‘군검사 도베르만’을 통해 지금까지 보지 못했던 신선한 매력을 선보이고 있다. 이전 작품에서 보여줬던 모]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['군검사 도베르만' 류성록, 안보현에 분노X복수심..디테일한 안면연기 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004573075</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004573075</guid>
-            <pubDate>Wed, 16 Mar 2022 08:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최나영 기자] 배우 류성록이 결이 다른 분노를 눈빛으로 표현해 내며 안방극장의 감탄을 유발했다. 지난 15일 방송된 tvN 월화드라마 ‘군검사 도베르만’에서는 국군 교도소에서 수감 생활 중인 수호(류성록]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전미도, ♥이무생과 끔찍한 교통사고 ('서른, 아홉') (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004573073</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004573073</guid>
-            <pubDate>Wed, 16 Mar 2022 08:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=장우영 기자] 전미도가 배우 오디션 현장에 참가자로 등장한다. 16일 밤 10시 30분 방송되는 JTBC 수목드라마 ‘서른, 아홉’(극본 유영아, 연출 김상호, JTBC스튜디오, 롯데컬처웍스) 7회에서는]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전수경♥문성호X박주미♥부배, 나도 모르게 광대 승천…로맨스 포인트 셋 ('결사곡3') (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000535849</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000535849</guid>
-            <pubDate>Wed, 16 Mar 2022 08:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=차혜영 기자] 3주 연속 고공행진 중인 ‘결혼작사 이혼작곡3’가 시청자들이 열광하는 전수경과 문성호, 박주미와 부배의 ‘로맨스 포인트’를 공개했다. 지난 2월 26일(토) 첫 방송을 시작한 TV CHOSU]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA["왜 또 부산 조폭 영화인가?"..'뜨거운 피' 천명관 감독의 확신 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220316163904553</link>
             <guid>https://movie.v.daum.net/v/20220316163904553</guid>
@@ -1668,22 +1668,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F16%2FSBSfunE%2F20220316110302881ssdr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[지구와 충돌까지 남은 시간은 단 30일..'달의 추락'을 막아라 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220316102018754</link>
-            <guid>https://movie.v.daum.net/v/20220316102018754</guid>
-            <pubDate>Wed, 16 Mar 2022 02:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[■ 리뷰톡 - 문 폴 궤도를 이탈한 달이 지구를 향해 떨어지기 시작하면서 지구의 중력과 모든 물리적인 법칙이 붕괴된다. 거대한 해일과 지진, 화산 폭발, 쓰나미와 이상기후까지 상상조차 불가능했던 재난으로 전 세계는 공포와 혼란에 빠진다. 달과 충돌까지 남은 시간은 단 30일. 나사(미 항공우주국) 연구원 파울러(핼리 베리)는 전직 우주 비행사 브라이언(]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F16%2Fmunhwa%2F20220316102019271tcyc.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['둔촌냥이'들에게 주거권을 허하라 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220316140301283</link>
-            <guid>https://movie.v.daum.net/v/20220316140301283</guid>
-            <pubDate>Wed, 16 Mar 2022 07:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[[김상목 기자] 1_건축 아카이브 연대기의 장대한 궤적 # &lt;고양이를 부탁해&gt;에서 건축 다큐멘터리로의 여정 2001년, 데뷔 장편 &lt;고양이를 부탁해&gt;로 21세기의 '달콤 쌉싸름'한 시작을 열었던 정재은 감독은 후속 작품 &lt;태풍태양&gt;(2005) 이후 한동안 소식이 뜸해 적지 않은 이들을 궁금하게 했다. &lt;고양이를 부탁해&gt;는 개봉 당시 3만여 관객 동원에 그치]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F16%2Fohmynews%2F20220316140304934qdfh.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[[애프터스크리닝] 정우와 천명관 감독이 그려낸 서정적 누아르 '뜨거운 피' ★★★ (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220316170959673</link>
             <guid>https://movie.v.daum.net/v/20220316170959673</guid>
@@ -1692,12 +1676,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F16%2FiMBC%2F20220316171004294suvt.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[지구와 충돌까지 남은 시간은 단 30일..'달의 추락'을 막아라 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220316102018754</link>
+            <guid>https://movie.v.daum.net/v/20220316102018754</guid>
+            <pubDate>Wed, 16 Mar 2022 02:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[■ 리뷰톡 - 문 폴 궤도를 이탈한 달이 지구를 향해 떨어지기 시작하면서 지구의 중력과 모든 물리적인 법칙이 붕괴된다. 거대한 해일과 지진, 화산 폭발, 쓰나미와 이상기후까지 상상조차 불가능했던 재난으로 전 세계는 공포와 혼란에 빠진다. 달과 충돌까지 남은 시간은 단 30일. 나사(미 항공우주국) 연구원 파울러(핼리 베리)는 전직 우주 비행사 브라이언(]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F16%2Fmunhwa%2F20220316102019271tcyc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[밥값 못하는, '도어맨'[한현정의 직구리뷰] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220316170013338</link>
             <guid>https://movie.v.daum.net/v/20220316170013338</guid>
             <pubDate>Wed, 16 Mar 2022 09:07:14 GMT</pubDate>
             <content:encoded><![CDATA[해도 너무하는 진부함이다. 무적 주인공의 철 지난 액션이 난무하는, 97분간의 민망함을 견뎌내야 하는, 미션 영화, ‘도어맨’이다. 영화는 천문학적 가치를 지닌 미술품을 노린 무장 괴한들에 맞서 홀로 반격에 나선 전직 해병대 출신 도어맨 ‘알리’의 원톱 액션 무비. '레지던트 이블' '존 윅-리로드' 등으로 주목 받고 있는 새로운 할리우드의 액션스타 루]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F16%2Fstartoday%2F20220316170016059bjkd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['둔촌냥이'들에게 주거권을 허하라 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220316140301283</link>
+            <guid>https://movie.v.daum.net/v/20220316140301283</guid>
+            <pubDate>Wed, 16 Mar 2022 07:08:54 GMT</pubDate>
+            <content:encoded><![CDATA[[김상목 기자] 1_건축 아카이브 연대기의 장대한 궤적 # &lt;고양이를 부탁해&gt;에서 건축 다큐멘터리로의 여정 2001년, 데뷔 장편 &lt;고양이를 부탁해&gt;로 21세기의 '달콤 쌉싸름'한 시작을 열었던 정재은 감독은 후속 작품 &lt;태풍태양&gt;(2005) 이후 한동안 소식이 뜸해 적지 않은 이들을 궁금하게 했다. &lt;고양이를 부탁해&gt;는 개봉 당시 3만여 관객 동원에 그치]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F16%2Fohmynews%2F20220316140304934qdfh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["아버지는 다 계획이 있었구나".. 테니스 자매 여제 탄생시킨 가난뱅이 흑인 (다음영화 뉴스 ─ 인기)]]></title>
@@ -1764,6 +1764,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F16%2Fmydaily%2F20220316100952116mzmh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[정우 "'응사' 손호준·유연석과 동시기 개봉..다 잘 되길" (뜨거운피)[종합] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220316193002843</link>
+            <guid>https://movie.v.daum.net/v/20220316193002843</guid>
+            <pubDate>Wed, 16 Mar 2022 13:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 정우가 '뜨거운 피'와 비슷한 시기에 영화 개봉을 앞두고 있는 드라마 '응답하라' 시리즈 동생들을 응원했다. 16일 서울 용산구 CGV 용산아이파크몰에서 영화 '뜨거운 피'(감독 천명관) 언론시사회가 열렸다. 이 자리에는 천명관 감독과 배우 정우, 김갑수, 지승현, 이홍내가 참석했다. '뜨거운 피'는 1993년, 더 나쁜 놈]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F16%2Fxportsnews%2F20220316193005080dqen.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["재밌다"..정우표 신선한 건달 영화, '뜨거운 피'[종합] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220316170004329</link>
+            <guid>https://movie.v.daum.net/v/20220316170004329</guid>
+            <pubDate>Wed, 16 Mar 2022 10:06:35 GMT</pubDate>
+            <content:encoded><![CDATA[배우 정우가 돌아왔다. 신선한 누아르 ‘뜨거운 피’(감독 천명관)를 통해서다. 정우는 16일 오후 서울 용산구 CGV 용산아이파크몰에서 열린 영화 '뜨거운 피' 시사회 및 기자간담회에서 "어린 시절부터 부산과 함께 자랐다. 여러 작품에서 부산 배경으로 사투리 쓰는 역할을 맡을 땐 항상 반갑고 감사하다"고 운을 뗐다. 그는 "바닷가 근처에서 많이 촬영했다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F16%2Fstartoday%2F20220316170007774gfty.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['뜨거운 피' 정우 "고향 부산, 사투리 쓰는 역 맡을 땐 항상 반가워"[Oh!쎈 현장] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220316163411367</link>
             <guid>https://movie.v.daum.net/v/20220316163411367</guid>
@@ -1778,22 +1794,6 @@
             <pubDate>Tue, 15 Mar 2022 06:10:23 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자] '트랜스포머' 시리즈, '6언더그라운드' 등 전세계를 사로잡은 수많은 흥행작을 탄생시키며 할리우드 레전드 액션 마스터로 손꼽히는 마이클 베이 감독의 신작 '앰뷸런스'가 각기 다른 개성과 매력으로 중무장한 3인의 캐릭터 포스터를 공개했다. '앰뷸런스'(감독 마이클 베이,&nbsp;수입배급 유니버설 픽쳐스)는 인생 역전을 위해 완전 범죄를]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F15%2Fpoctan%2F20220315134731448stwf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['보드랍게' 펀딩 목표 금액 초과 달성..박문칠 감독 "힘 모으고 싶었다" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220315165535642</link>
-            <guid>https://movie.v.daum.net/v/20220315165535642</guid>
-            <pubDate>Wed, 16 Mar 2022 02:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] 영화 '보드랍게'가 한 달간 진행한 펀딩 목표 금액을 달성했다. '보드랍게' 측은 15일 "메모리얼 키트 제작을 위해 지난달 10일부터 이달 13일까지 한 달간 진행된 모금에서, 188명의 따뜻한 후원의 손길 속에 총 980여만 원의 후원액을 모으며 기존 목표 금액을 초과 달성했다"고 밝혔다. '보드랍게'(감독 박문칠, 제작 박]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F15%2Fpoctan%2F20220315165536957gqpu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["재밌다"..정우표 신선한 건달 영화, '뜨거운 피'[종합] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220316170004329</link>
-            <guid>https://movie.v.daum.net/v/20220316170004329</guid>
-            <pubDate>Wed, 16 Mar 2022 10:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[배우 정우가 돌아왔다. 신선한 누아르 ‘뜨거운 피’(감독 천명관)를 통해서다. 정우는 16일 오후 서울 용산구 CGV 용산아이파크몰에서 열린 영화 '뜨거운 피' 시사회 및 기자간담회에서 "어린 시절부터 부산과 함께 자랐다. 여러 작품에서 부산 배경으로 사투리 쓰는 역할을 맡을 땐 항상 반갑고 감사하다"고 운을 뗐다. 그는 "바닷가 근처에서 많이 촬영했다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F16%2Fstartoday%2F20220316170007774gfty.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["똥밭 인생"..'뜨거운 피' 정우→김갑수, 밑바닥 건달의 생존 누아르(종합)[현장의 재구성] (다음영화 뉴스 ─ 최신)]]></title>
@@ -1956,6 +1956,13 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F16%2Fmunhwa%2F20220316170013100lfkl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['국대와이프' 윤다영, 심지호 결혼식장에서 헛구역질..'혼전임신' 의심 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20220316211419434</link>
+            <guid>https://entertain.v.daum.net/v/20220316211419434</guid>
+            <pubDate>Wed, 16 Mar 2022 13:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 박수민 기자] /사진='국가대표와이프' 방송화면 '국가대표 와이프' 윤다영이 헛구역질을 하며 몸에 이상을 느꼈다. 16일 오후 방송된 KBS 1TV 일일드라마 '국가대표 와이프'에서는 서보리(윤다영 분)가 서강림(심지호 분)과 최선해(오유나 분)의 결혼식장에서 헛구역질을 하는 모습이 그려졌다. 서보리는 몸에 이상을 느낀 나머지 화장실에서 줄]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['사랑의꽈배기' 함은정, 김진엽 딸-김진엽 친자 아냐.."손성윤이 속였나" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
             <link>https://entertain.v.daum.net/v/20220316203912963</link>
             <guid>https://entertain.v.daum.net/v/20220316203912963</guid>
@@ -1998,7 +2005,7 @@
             <content:encoded><![CDATA[[스타뉴스 공미나 기자] /사진제공=tvN '킬힐''킬힐' 김하늘이 홈쇼핑 무대로 돌아온다. tvN 수목드라마 '킬힐'(연출 노도철, 극본 신광호·이춘우, 제작 유비컬쳐·메이퀸픽쳐스) 측은 16일 우현(김하늘 분)의 달라진 분위기가 담긴 스틸을 공개했다. 이와 함께 준범(정의제 분)과 성우(문지인 분)를 소환한 모란(이혜영 분)의 모습도 포착, 그의 새로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['사내맞선' 김민규X설인아, 거리두기 실패..선 넘은 키스 로맨스 시작 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <title><![CDATA[김민규X설인아, 거리두기 실패..선 넘은 키스 로맨스 시작 '사내맞선' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
             <link>https://entertain.v.daum.net/v/20220316174702774</link>
             <guid>https://entertain.v.daum.net/v/20220316174702774</guid>
             <pubDate>Wed, 16 Mar 2022 09:07:26 GMT</pubDate>
@@ -2054,116 +2061,109 @@
             <content:encoded><![CDATA[[스타뉴스 김수진 기자] 배우 류성록이 결이 다른 분노를 눈빛으로 표현해 내며 안방극장의 감탄을 유발했다. 지난 15일 방송된 tvN 월화 드라마 '군검사 도베르만'에서는 국군 교도소에서 수감 생활 중인 수호(류성록 분)가 복수심에 들끓는 모습이 그려졌다. 이날 수호는 배만(안보현 분)이 파놓은 황제 복무라는 함정에 빠져 수감생활을 하게 된데 주체할]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이광수 버라이어티 표정 퍼레이드 심드렁→경악 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20220316153345112</link>
-            <guid>https://entertain.v.daum.net/v/20220316153345112</guid>
-            <pubDate>Wed, 16 Mar 2022 07:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김수진 기자] tvN 새 드라마 '살인자의 쇼핑목록'의 레거시 티저 영상이 첫 공개됐다. tvN 새 드라마 '살인자의 쇼핑목록'(연출 이언희/극본 한지완/기획 스튜디오 드래곤/제작 비욘드제이) 제작진은 16일 이광수(안대성 역)의 비명을 유발하는 쇼핑 물품이 담긴 레거시 티저 영상을 공개해 눈길을 끈다. '살인자의 쇼핑목록'은 평범한 동네]]></content:encoded>
+            <title><![CDATA[영탁 "외모 중 부족한 점? 얼굴 비대칭..왼쪽 근육 무뎌져" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220316221541240</link>
+            <guid>https://entertain.v.daum.net/v/20220316221541240</guid>
+            <pubDate>Wed, 16 Mar 2022 13:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 영탁이 자신의 외모에서 부족한 점을 비대칭으로 꼽았다. 3월 16일 방송된 채널A ‘요즘 남자 라이프-신랑 수업’에서는 탈모 때문에 고민하는 김찬우의 모습이 그려졌다. 김찬우는 나이가 들수록 줄어드는 머리숱 때문에 탈모 전문 병원을 방문해 상다을 진행했다. 김원희는 “연예인들도 중년 되신 분들은 다 머리 신경을 쓴다. 흑채를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[채리나 "'골때녀' 신생팀이 기존팀 이긴 적 한 번도 없어" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220316211209397</link>
-            <guid>https://entertain.v.daum.net/v/20220316211209397</guid>
-            <pubDate>Wed, 16 Mar 2022 12:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[FC탑걸 주장 채리나가 넘사벽에 도전했다. 3월 16일 방송된 SBS ‘골 때리는 그녀들’에서는 FC액셔니스타와 FC탑걸의 대결이 펼쳐졌다. 신생팀 FC탑걸은 기존팀 FC액셔니스타와 경기를 앞뒀고, 현재 6팀 중에서 5위로 패하면 사실상 슈퍼리그 진출이 어려운 상황. FC탑걸 채리나는 팀원들을 모아놓고 “언니가 고민을 많이 했다. 지금 기점으로 신생]]></content:encoded>
+            <title><![CDATA["물의일으켜 죄송" 양준혁, 19세 연하 ♥박현선 야구 경기 중 격렬 포옹 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220316221509234</link>
+            <guid>https://entertain.v.daum.net/v/20220316221509234</guid>
+            <pubDate>Wed, 16 Mar 2022 13:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 양준혁이 19세 어린 아내 박현선을 향한 불타는 사랑을 드러냈다. 3월 16일 방송된 KBS 2TV '우리끼리 작전타임'에서는 양준혁의 19세 연하 아내 박현선이 수원시 여자 야구단 소속 선수임을 밝히는 모습이 담겼다. 강백호의 아버지 강창열 감독이 이끄는 팀이라고. 이에 양준혁과 강백호가 연습 중인 경기장에 깜짝 등장했고, 즉석에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[전소미, 11자 복근 가졌으면서.."하루만에 6kg 찔 만큼 폭식" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220316210704323</link>
-            <guid>https://entertain.v.daum.net/v/20220316210704323</guid>
-            <pubDate>Wed, 16 Mar 2022 12:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 대식가 전소미가 복근을 유지하는 비법은? 3월 16일 방송된 Mnet 'TMI SHOW'에서는 전소미의 11자 복근 비결이 공개돼 시선을 사로잡았다. 이날 전소미는 '나를 표현하는 키워드'로 '11자 복근'을 꼽았다. 태권도 유단자인 전소미는 운동을 그 비결이라고 밝혔고, 이에 트위스트 플랭크 등을 직접 선보여 눈길을 끌었다. 그]]></content:encoded>
+            <title><![CDATA[박현선, 남편 양준혁 대신 강백호 선택 "집에서 맨날 봐 필요없다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220316220843155</link>
+            <guid>https://entertain.v.daum.net/v/20220316220843155</guid>
+            <pubDate>Wed, 16 Mar 2022 13:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 양준혁이 박현선에게 심하게 삐친 이유는? 3월 16일 방송된 KBS 2TV '우리끼리 작전타임'에서는 양준혁의 19세 연하 아내 박현선이 수원시 여자 야구단 소속 선수임을 밝혔다. 강백호의 아버지 강창열 감독이 이끄는 팀이다. 이에 강백호가 깜짝 출연, 수원시 여자 야구단을 방문하는 모습이 담겼다. 박현선의 남편 양준혁도 빠질 수]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['같이삽시다' 이창훈, 초콜릿 복근..곧 60세 맞아? "바디 프로필 찍고 죽을 뻔" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220316210639317</link>
-            <guid>https://entertain.v.daum.net/v/20220316210639317</guid>
-            <pubDate>Wed, 16 Mar 2022 12:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 오진주 기자] /사진=KBS 2TV '박원숙의 같이 삽시다' 방송화면'박원숙의 같이 삽시다'에서 배우 이창훈이 바디 프로필을 찍고 난 후기를 공개했다. 16일 오후 방송된 KBS 2TV 예능 프로그램 '박원숙의 같이 삽시다'에서는 1980년대 청춘스타 이창훈이 사 선녀를 찾았다. 이날 방송에서 이창훈의 등장에 사 선녀가 반갑게 맞이했다. 이창]]></content:encoded>
+            <title><![CDATA['팀 킴' 김선영 "갑질 폭로 후 죄인 된 기분"→김은정 "베이징 올림픽, 내가 잘했다면.." (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220316220806148</link>
+            <guid>https://entertain.v.daum.net/v/20220316220806148</guid>
+            <pubDate>Wed, 16 Mar 2022 13:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 강다윤 기자] 컬링 여자 국가대표 '팀 킴'이 지도자 관련 폭로 후 힘들었던 시간을 회상했다. 16일 방송된 케이블채널 tvN '유 퀴즈 온 더 블럭'에서는 '살짝 놀랐어' 특집으로 꾸며진 가운데 컬링 여자 국가대표 '팀 킴' 김은정, 김영미, 김선영, 김경애, 김초희가 출연했다. 이날 유재석은 "다들 아시겠지만 팀 킴 선수들이 평창올]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임재혁 "'지우학' 잘됐지만 통장 사정 똑같아, 母 막노동 기사에 눈물" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220316210549301</link>
-            <guid>https://entertain.v.daum.net/v/20220316210549301</guid>
-            <pubDate>Wed, 16 Mar 2022 12:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 임재혁이 여전히 알바를 통해 생계를 꾸려나가고 있는 사정을 전했다. 3월 16일 방송된 tvN '유 퀴즈 온 더 블럭'(이하 '유퀴즈') 145회에서는 우리에게 놀라움을 준 자기님들을 만나는 '살짝 놀랐어' 특집을 맞아 넷플릭스 오리지널 시리즈 '지금 우리 학교는'(이하 '지우학')의 양대수 역 배우 임재혁이 출연했다. 이날 임]]></content:encoded>
+            <title><![CDATA[김찬우, 14살 연하 여친과 결혼 위해 몸 관리? 원형 탈모에 충격 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220316220708131</link>
+            <guid>https://entertain.v.daum.net/v/20220316220708131</guid>
+            <pubDate>Wed, 16 Mar 2022 13:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 김찬우가 탈모 방지를 위해 노력하는 일상을 공개했다. 3월 16일 방송된 채널A ‘요즘 남자 라이프-신랑 수업’에서는 김찬우의 탈모 방지를 위한 비법이 공개 됐다. 김찬우는 아침부터 밸런스 보드에 올라 허리 운동을 했다. 김찬우가 “몸매 좀 가꾸려고 준비하고 있다”라고 말하자, 이승철은 “결혼식 준비하는 것 같다”라고 의심했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['유퀴즈' 임재혁, '지우학' 이후 팔로워 6백→68만, 32kg 증량 후 촬영" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220316210510293</link>
-            <guid>https://entertain.v.daum.net/v/20220316210510293</guid>
-            <pubDate>Wed, 16 Mar 2022 12:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김예솔 기자] 배우 임재혁이 '유퀴즈'에 출연했다.&nbsp; 16일에 방송된 tvN '유 퀴즈 온 더 블럭'에서는 '지금 우리 학교는'의 배우 임재혁이 등장했다.&nbsp; 임재혁은 '유퀴즈'에 섭외를 받았던 경험에 대해 "전화를 받고 '유퀴즈요?'라고 했다. 전화를 끊고 엄마한테 전화해서 엄마 유퀴즈야라고 했다"라고 말해 웃음을 자아냈다.&nbsp; 임재혁은 인기를]]></content:encoded>
+            <title><![CDATA[정은표 "IQ167 子 정지웅, 무슨 학원 가든 영재 검사 권하는 전화 와" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220316215106904</link>
+            <guid>https://entertain.v.daum.net/v/20220316215106904</guid>
+            <pubDate>Wed, 16 Mar 2022 13:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 배우 정은표가 어린시절부터 남달랐던 아들 정지웅과 그로 인한 교육법을 전했다. 3월 16일 방송된 tvN '유 퀴즈 온 더 블럭'(이하 '유퀴즈') 145회에서는 우리에게 놀라움을 준 자기님들을 만나는 '살짝 놀랐어' 특집을 맞아 최근 서울대 합격 소식을 전한 배우 정은표의 장남 정지웅이 게스트로 출연했다. 이날 스스로를 서울대]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["연예인병"..명품 좋아하던 권혁수, 2만원 구제옷 쇼핑 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220316210422288</link>
-            <guid>https://entertain.v.daum.net/v/20220316210422288</guid>
-            <pubDate>Wed, 16 Mar 2022 12:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 명품옷을 입던 권혁수가 구제옷에 빠졌다고 밝혔다. 16일 방송된 KBS Joy '국민 영수증'에는 배우 권혁수가 출연했다.&nbsp; 권혁수는 '국민 영수증' 최다 출연자. 이에 MC들은&nbsp;현재 재테크 현황을 궁금해 했다. 권혁수는 "요즘 뭐 펀드, 적금, 주식 아직 하고 있는 게 없다"고 고백해 한숨을 내쉬게 만들었다.&nbsp;]]></content:encoded>
+            <title><![CDATA['신랑수업' 영탁 "플라워 수업 참여? 미리 부케 만들어보고 싶었다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220316215100900</link>
+            <guid>https://entertain.v.daum.net/v/20220316215100900</guid>
+            <pubDate>Wed, 16 Mar 2022 13:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[‘신랑수업’ 영탁이 플라워 수업에 참여한 이유를 밝혔다. 16일 오후 방송된 채널A ‘요즘 남자 라이프-신랑수업’(이하 ‘신랑수업’)에는 영탁이 ‘플라워 클래스’에 참여한 모습이 그려졌다. 이날 영탁은 꽃집을 방문한 모습을 보였다. 플라워 수업을 받기 위해 찾아간 것. 그는 플라워 수업을 받는 이유에 대해 “이래저래 축가를 하면서 많은 결혼식을 가봤는데]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[전소미 "21살에 4억원대 B사 외제차..나한테 잘 맞아" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220316205602172</link>
-            <guid>https://entertain.v.daum.net/v/20220316205602172</guid>
-            <pubDate>Wed, 16 Mar 2022 12:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 전소미가 자신을 표현하는 키워드로 '영앤리치'를 꼽았다. 3월 16일 방송된 Mnet 'TMI SHOW'에서는 전소미가 직접 꼽은 '나를 표현하는 키워드 BEST 6'가 공개됐다. 이날 전소미는 BEST 6으로 '영앤리치'를 꼽았다. 올해 22살인 전소미는 21살 첫 차로 B사의 4억원 대 외제차를 구매한 바 있다. 전소미는 "저]]></content:encoded>
+            <title><![CDATA['갓파더' 장민호, 김갑수 응원 위해 '뜨거운 피' 현장 찾는다 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220316215033888</link>
+            <guid>https://entertain.v.daum.net/v/20220316215033888</guid>
+            <pubDate>Wed, 16 Mar 2022 13:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '뜨거운 피'의 정우, 김갑수, 천명관 감독이 '갓파더'에 출연한다. 16일 오후 방송하는 KBS2 '新가족관계증명서 갓파더'에서는 김갑수와 장민호의 특별한 동행을 그린다. 아들 장민호는 아버지 김갑수의 영화 '뜨거운 피' 제작보고회 현장에 직접 찾아가 1일 수행원을 자처했다. 장민호는 김갑수를 위해 파이팅 넘치는 응원을 전하는가 하면, 아버지를 잘]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["연예인병 인정" 권혁수, 얼마나 돈 많이 썼길래? 과거 명품사랑 '눈길' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220316205549170</link>
-            <guid>https://entertain.v.daum.net/v/20220316205549170</guid>
-            <pubDate>Wed, 16 Mar 2022 12:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김수형 기자] ‘국민영수증’에서 권혁수가 출연해 연예인병에 걸린 것을 인정했다.&nbsp; 16일 방송된 KBS 조이 예능 ‘국민영수증’에서 권혁수가 출연했다.&nbsp; 이날 의뢰인으로 국민 재주꾼 권혁수가 출연했다. 송은이는 “너무 의미있는 출연자 최다 출연자라고 소개,&nbsp;저축은 하는지 묻자 그는 “펀드와 적금, 주식 아직 하나도 없다.&nbsp; 그나마 청약을 유일]]></content:encoded>
+            <title><![CDATA['유퀴즈' 팀 킴 "前 지도자 갑질 폭로 후 죄인 된 기분" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220316214930871</link>
+            <guid>https://entertain.v.daum.net/v/20220316214930871</guid>
+            <pubDate>Wed, 16 Mar 2022 13:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 공미나 기자] /사진=tvN '유 퀴즈 온 더 블럭' 방송화면한국 컬링 여자 국가대표 '팀 킴'이 소속팀 관련 폭로 후 힘들었던 시간에 대해 이야기했다. 16일 오후 방송된 tvN 예능 프로그램 '유 퀴즈 온 더 블럭'는 '살짝 놀랐어' 특집으로 꾸며진 가운데 '지금 우리 학교는' 씬스틸러 임재혁, 한국 컬링 여자 국가대표 팀 킴(김은정 김영미]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임재혁 "'지금 우리 학교는' 위해 32kg 증량" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220316205224133</link>
-            <guid>https://entertain.v.daum.net/v/20220316205224133</guid>
-            <pubDate>Wed, 16 Mar 2022 12:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이이진 기자) 배우 임재혁이 근황을 전했다. 16일 방송된 tvN '유 퀴즈 온 더 블럭'에서는 '살짝 놀랐어' 특집으로 꾸며진 가운데 임재혁이 게스트로 출연한 장면이 전파를 탔다. 이날 유재석은 "'지우학' 이후 번화가 나가보셨냐"라며 물었고, "최근에 얼마 전에 장례식장에 갈 일이 있었다. 거기서 5~60대 아버님들이 사인을 해달라고 했다]]></content:encoded>
+            <title><![CDATA[임재혁 "'지우학' 위해 32kg 증량..아직 아르바이트한다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220316214633835</link>
+            <guid>https://entertain.v.daum.net/v/20220316214633835</guid>
+            <pubDate>Wed, 16 Mar 2022 13:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 강다윤 기자] 배우 임재혁이 넷플릭스 오리지널 '지금 우리 학교는'(이하 '지우학') 관련 비하인드를 전했다. 16일 방송된 케이블채널 tvN '유 퀴즈 온 더 블럭'에서는 '지우학'에 출연한 임재혁과 함께 '살짝 놀랐어' 특집이 펼쳐졌다. 이날 임재혁은 "인기를 실감하느냐"라는 질문에 "사실 잘 모르겠다. 딱 실감할 수 있는 건 인스타]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[지숙 "♥이두희에 악플 수집하려 연락..처음엔 부담스러웠다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220316204546040</link>
-            <guid>https://entertain.v.daum.net/v/20220316204546040</guid>
-            <pubDate>Wed, 16 Mar 2022 12:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김수정 인턴기자) '대한외국인' 지숙이 이두희와의 첫 만남을 회상했다. 16일 방송된 MBC 에브리원 예능프로그램 '대한외국인'에서는 '우리 결혼했어요' 특집을 맞아 이두희♥지숙, 이대은♥트루디 부부가 출연했다. 이날 김용만이 "어떻게 만나게 된 거냐"라고 묻자 이두희는 "중간에 친구가 한 명 있었다. 저희 둘 다 홍진호와 친해서 소개를]]></content:encoded>
+            <title><![CDATA['같이삽시다' 이창훈, 17세 연하 아내와 신혼 초 이혼 고민한 이유 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220316214036776</link>
+            <guid>https://entertain.v.daum.net/v/20220316214036776</guid>
+            <pubDate>Wed, 16 Mar 2022 13:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 오진주 기자] /사진=KBS 2TV '박원숙의 같이 삽시다' 방송화면'박원숙의 같이 삽시다'에서 배우 이창훈이 신혼 초 이혼을 생각했다고 털어놨다. 16일 오후 방송된 KBS 2TV 예능 프로그램 '박원숙의 같이 삽시다'에서는 1980년대 청춘스타 이창훈이 사선녀에 신혼 초임에도 불구하고 이혼을 생각했던 상황을 이야기하는 모습이 담겼다. 이날]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[리정 "美유학 보내준 부모님..母에겐 차·父에겐 명품 코트 효도 플렉스" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220316204155006</link>
-            <guid>https://entertain.v.daum.net/v/20220316204155006</guid>
-            <pubDate>Wed, 16 Mar 2022 12:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '영보스' 리정의 남다른 리더십은 부모님 덕분이었다. 3월 16일 방송된 Mnet 'TMI SHOW'에서 밝혀진 '리정의 이유있는 자신감' 2위는 바로 '부모님'이었다. 리정은 그 이유로 부모님의 '방목형 양육'을 꼽았다. 13살, 초등학교 때 홀로 미국으로 유학을 떠났던 리정은 "어렸을 때부터 독립적으로 생활했다. 제가 쟁취해야]]></content:encoded>
+            <title><![CDATA['팀킴' 김은정 선수 "베이징 올림픽, 내가 잘했다면 이기지 않았을까" 눈물 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220316214002772</link>
+            <guid>https://entertain.v.daum.net/v/20220316214002772</guid>
+            <pubDate>Wed, 16 Mar 2022 13:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이이진 기자) 컬링 선수 김은정, 김경애, 김선영, 김영미의 인터뷰가 공개됐다. 16일 방송된 tvN '유 퀴즈 온 더 블럭'에서는 '살짝 놀랐어' 특집으로 꾸며진 가운데 김은정, 김경애, 김선영, 김영미가 게스트로 출연한 장면이 전파를 탔다. 이날 유재석은 "다들 아시겠지만 팀킴 선수들이 평창 올림픽 이후에 마음고생이 많으셨다. 그러니까 소]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[선우용여 딸 최연제 근황 공개 "美서 난임 치료 전문 한의사 활동" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220316203615917</link>
-            <guid>https://entertain.v.daum.net/v/20220316203615917</guid>
-            <pubDate>Wed, 16 Mar 2022 12:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 선우용여 딸이자 가수 최연제의 근황이 공개됐다. 3월 16일 방송된 TV조선 '퍼펙트 라이프' 87회에서는 선우용여가 미국에 거주 중인 딸의 식구들과 영상통화를 했다. 이날 선우용여는 미국에 살고 있는 7살 손주 이튼과 영상통화를 하며 무료한 시간을 달랬다. 선우용여는 "할머니 사랑해요 이래 봐", "할머니 뽀뽀'라며 이튼의 애교]]></content:encoded>
+            <title><![CDATA[지숙 "♥이두희와 첫만남, 이상한 사람인줄" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220316213911761</link>
+            <guid>https://entertain.v.daum.net/v/20220316213911761</guid>
+            <pubDate>Wed, 16 Mar 2022 13:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김나연 기자] '대한 외국인'에 이두희-지숙, 이대은-트루디 부부가 떴다. 16일 방송된 MBC 에브리원 '대한 외국인'에서는 '우리 결혼했어요' 특집으로 이두희♥지숙 부부와 이대은♥트루디 부부가 등장해 함께 퀴즈 대결을 펼쳤다. 이날 이두희-지숙 부부는 "1년 4개월 정도 됐다"고 말했고,&nbsp;이대은-트루디 부부는 "저희는 2개월 됐다"고 말해]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[선우용여 "방송 녹화중 발음 어눌한 증상→뇌경색으로 응급실행" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220316202202657</link>
-            <guid>https://entertain.v.daum.net/v/20220316202202657</guid>
-            <pubDate>Wed, 16 Mar 2022 12:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 선우용여가 과거 방송 녹화 중 뇌경색 증상을 보인 뒤 응급실에 간 일화를 전했다. 3월 16일 방송된 TV조선 '퍼펙트 라이프' 87회에서는 데뷔 58년차 배우 선우용여가 출연했다. 이날 선우용여는 '퍼펙트 라이프'를 찾은 이유에 대해 "내가 사실 6년 전 뇌경색이 왔었다. 내가 건강에 굉장히 자만했다. 남편이 5년간 누워있을]]></content:encoded>
+            <title><![CDATA['골 때리는 그녀들' 액셔니스타, 멤버들의 잇따른 부상..'위기' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220316213854754</link>
+            <guid>https://entertain.v.daum.net/v/20220316213854754</guid>
+            <pubDate>Wed, 16 Mar 2022 13:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 박수민 기자] /사진='골때리는그녀들' 방송화면 '골 때리는 그녀들'에서 'FC 액셔니스타'가 멤버들의 잇따른 부상으로 위기를 맞았다. 16일 오후 방송된 SBS 예능프로그램 '골때리는 그녀들'에서는 멤버들의 연이은 부상으로 전술을 바꿔야 할 상황에 놓인 'FC 액셔니스타'의 모습이 그려졌다. 손가락 부상을 입은 장진희를 비롯해 타박상으로 몸]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['아이큐 156' 리정 "美 유학 성적표 올A→전교 1등하며 부모님 설득" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220316202134653</link>
-            <guid>https://entertain.v.daum.net/v/20220316202134653</guid>
-            <pubDate>Wed, 16 Mar 2022 12:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 리정의 매력은 춤뿐만 아니라 '똑똑한 두뇌'에도 있었다. 3월 16일 방송된 Mnet 'TMI SHOW'에서는 '리정의 이유있는 자신감' 차트 BEST 6가 공개됐다. 이날 리정의 매력으로 '똑똑한 두뇌'가 꼽혔다. 리정은 "어렸을 때 아이큐 검사를 했는데 156이 나왔다. 공간지각능력이 좋아 건축을 시키면 좋다는 말을 들었다. 그]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[권혁수 "한때 연예인병 걸려 명품쇼핑, 동묘 가면 0 하나 빠져" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220316201824611</link>
-            <guid>https://entertain.v.daum.net/v/20220316201824611</guid>
-            <pubDate>Wed, 16 Mar 2022 12:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[권혁수가 한때 명품을 많이 샀다고 인정했다. 3월 16일 방송된 KBS Joy ‘국민영수증’에서는 권혁수가 출연했다. 이날 방송에서 권혁수는 니트 한 벌을 2만원에 구입한 영수증으로 송은이의 칭찬을 받았다. 송은이는 “예전에 명품을 쳐 바르고 있어서 왜 자꾸 명품을 사냐고 한 적이 있었다”고 과거사를 언급했다. 권혁수는 “그 때는 그게 잘 어울린다고]]></content:encoded>
+            <title><![CDATA[정혜인 뼈 멍, 골키퍼 장진희도 손가락 부상 '위기' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220316212352571</link>
+            <guid>https://entertain.v.daum.net/v/20220316212352571</guid>
+            <pubDate>Wed, 16 Mar 2022 13:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[FC액셔니스타 멤버들이 부상 투혼을 보였다. 3월 16일 방송된 SBS ‘골 때리는 그녀들’에서는 FC액셔니스타 멤버들이 부상을 호소했다. FC액셔니스타는 FC탑걸과 경기를 앞두고 부상으로 위기를 맞았다. 이영표 감독은 “다들 진단서를 끊어왔다는데 어디가 어떻게 아프냐”고 질문했고, 정혜인은 “뼈 멍이다. 뼈 표면 골막이 염증이 너무 심하다고 한다”고]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["똥밭 인생"..'뜨거운 피' 정우→김갑수, 밑바닥 건달의 생존 누아르 (다음 연예 ─ 뉴스 ─ 영화)]]></title>

@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 12:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 13:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[채수빈, 너와 나의 고은강]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=197486</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=197486</guid>
+            <pubDate>Wed, 16 Mar 2022 13:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197486">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220316175927_cb3143e0177793bb2bf543621755ebdf.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197486">채수빈, 너와 나의 고은강</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220316175927_cb3143e0177793bb2bf543621755ebdf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] 안테벨룸 “컬러퍼플 원더랜드”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=197409</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196936">박해준, '아직 최선을 다하지 않은..'  7회와 8회</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220314085220_15b09176673c00d3f2d03028ef659551.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 '돼지의 왕', "폭력의 기억, 괴물의 탄생"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=196928</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=196928</guid>
-            <pubDate>Mon, 14 Mar 2022 03:07:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=196928">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220314081741_cabd5d8e459a9a55837d6e3e4bc8dde8.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=196928">티빙 '돼지의 왕', "폭력의 기억, 괴물의 탄생"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220314081741_cabd5d8e459a9a55837d6e3e4bc8dde8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
