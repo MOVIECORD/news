@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 03:10:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 04:09:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우 박솔미, 누아르 영화 뺨치는 뼈 해체쇼]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=197610</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=197610</guid>
+            <pubDate>Thu, 17 Mar 2022 04:07:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197610">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220317123427_f79d4109c9e7193968c54c85ca50ff27.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197610">배우 박솔미, 누아르 영화 뺨치는 뼈 해체쇼</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%20%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상 출시 편스토랑</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220317123427_f79d4109c9e7193968c54c85ca50ff27.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이준-강한나-장혁, 로맨스 정치사극 <붉은 단심>]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=197595</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%98%84%EC%9E%AC%EB%8A%94%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%8C">주말드라마 현재는 아름다워</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220315180127_9cdf263af3f726b701e05b4207ae80a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[옥탑방의 문제아들] “의자왕과 삼천 궁녀 이야기는 거짓” 심용환의 역사 속 진실 파헤치기]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=197338</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=197338</guid>
-            <pubDate>Tue, 15 Mar 2022 21:04:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197338">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220316015624_30608d192b78a7b34223d4f1907a836e_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197338">[옥탑방의 문제아들] “의자왕과 삼천 궁녀 이야기는 거짓” 심용환의 역사 속 진실 파헤치기</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220316015624_30608d192b78a7b34223d4f1907a836e_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
