@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 06:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 07:06:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이시강, KBS일일극 '으라차차 내 인생' 캐스팅]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=197551</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=197551</guid>
+            <pubDate>Thu, 17 Mar 2022 07:05:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197551">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220317074241_4ef1b2060c8b778afd0ef955ad8840fd.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197551">이시강, KBS일일극 '으라차차 내 인생' 캐스팅</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EC%9C%BC%EB%9D%BC%EC%B0%A8%EC%B0%A8%20%EB%82%B4%20%EC%9D%B8%EC%83%9D">일일연속극 으라차차 내 인생</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220317074241_4ef1b2060c8b778afd0ef955ad8840fd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 박솔미, 누아르 영화 뺨치는 뼈 해체쇼]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=197610</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A0%84%EA%B5%AD%EB%AF%BC%20%EB%AF%BC%EC%9B%90%ED%95%B4%EA%B2%B0%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%9D%BC%EA%BE%BC%EC%9D%98%20%ED%83%84%EC%83%9D">전국민 민원해결 프로젝트 일꾼의 탄생</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220315174308_55392fa157670daa5fa2dd0e0d8dd183.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤시윤 배다빈의 주말책임 '현재는 아름다워']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=197272</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=197272</guid>
-            <pubDate>Tue, 15 Mar 2022 21:04:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=197272">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220315180127_9cdf263af3f726b701e05b4207ae80a0.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197272">윤시윤 배다빈의 주말책임 '현재는 아름다워'</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%98%84%EC%9E%AC%EB%8A%94%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%8C">주말드라마 현재는 아름다워</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220315180127_9cdf263af3f726b701e05b4207ae80a0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
