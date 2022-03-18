@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-18T17:12:51.774Z</updated>
+    <updated>2022-03-18T18:10:21.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마블 커플' 톰 히들스턴·자웨 애슈턴 약혼]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013059989</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013059989"/>
+        <updated>2022-03-18T18:09:33.903Z</updated>
+        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 정윤섭 특파원 = 마블 작품에서 악당 '로키'를 연기한 톰 히들스턴과 마블 영화 '더 마블스'에 캐스팅된 자웨 애슈턴이 약혼했다고 18일(현지시간) CNN 방송이 보도했다. 미들스턴과 애슈턴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[허카인, 아 아니고…허성태, 미친 존재감 (스텔라)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000967422</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004936765"/>
         <updated>2022-03-18T08:09:01.307Z</updated>
         <content type="html"><![CDATA[“그 어느 때보다 무거운 책임감으로 임한 작품이에요. 이렇게 미디어가 순기능을 할 수 있는, 다채롭고도 균형 있는 시각으로 방향성을 제시하는 작품이 나오기 쉽지 않잖아요. 소중한 만큼 정말 제대로 잘 해야겠다는 마음]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이정재, 또 해냈다…미국 시상식 평정]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000149046</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000149046"/>
-        <updated>2022-03-18T08:09:01.310Z</updated>
-        <content type="html"><![CDATA[배우 이정재가 또 한번 트로피를 안았다. 이정재는 17일(현지시각) 제2회 크리틱스 초이스 슈퍼 어워즈(Critics Choice Super Awards)에서 액션 시리즈 부문 남자 연기상을 수상했다. 크리틱스 초이]]></content>
     </entry>
 </feed>
