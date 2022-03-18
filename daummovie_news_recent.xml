@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-03-18T21:08:23.949Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 18 Mar 2022 22:07:56 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유태오→박유림·김민하, 해외서 먼저 발굴한 韓 배우들 [N초점]]]></title>
+            <link>https://v.daum.net/v/20220319070000011</link>
+            <guid>https://v.daum.net/v/20220319070000011</guid>
+            <pubDate>Fri, 18 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '기생충'(감독 봉준호)에 이어 드라마 '오징어 게임'(감독 황동혁)까지. 전세계적으로 '대박'을 치는 한국 콘텐츠들이 많아지면서 해외에서 인지도를 높이는 한국 배우들도 더욱 많아지고 있다. 특히 과거에는 주로 국내 유명 배우들이 한류에 힘입어 해외에서 인기를 얻었다면, 요즘은 국내에서 인지도가 낮았던 배우들도 글로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F19%2FNEWS1%2F20220319070001902vtwa.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
