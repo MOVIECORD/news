@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-19T14:06:31.627Z</updated>
+    <updated>2022-03-19T15:06:01.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 '광대: 소리꾼'...조선팔도 상영회 '열기']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000800477</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000800477"/>
+        <updated>2022-03-19T15:05:21.588Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] |'혼탁한 시대, 마음 감싸 안는 힐링 영화'(김보경 작가), |'온 국민이 가족이 함께 볼 만한 감동적인 수작'(양승언 작가) 관객들의 호평을 받고 평점 8.71을 기록한 영화 ‘광대: 소리꾼’이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[픽사, 디즈니+ 신작 애니메이션 '메이의 새빨간 비밀']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046878</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003036867"/>
         <updated>2022-03-19T00:24:45.090Z</updated>
         <content type="html"><![CDATA['문폴'이 3일 연속 박스오피스 1위를 지켰다. 19일 영화진흥위원회 영화관입장권 통합전산망에 따르면 전날 영화 '문폴'은 1만 7750명의 관객을 동원해 3일 연속 박스오피스 1위를 차지했다. 누적 관객 수는 5만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잘린 손가락도 돈 낸 만큼 접합…스릴러 같은 다큐, 의료민영화]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002583441</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002583441"/>
-        <updated>2022-03-19T00:24:45.091Z</updated>
-        <content type="html"><![CDATA[☞한겨레S 뉴스레터 구독하기 https://bit.ly/319DiiE 당신에게 다음과 같은 일이 일어났다고 가정해보자. 당신의 가족이 갑작스러운 질환으로 가장 가까운 병원의 응급실로 실려 가게 되었다. 그런데 그 병]]></content>
     </entry>
 </feed>
