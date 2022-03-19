@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-19T03:07:18.752Z</updated>
+    <updated>2022-03-19T04:09:04.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[밑바닥 조폭들의 비릿한 생존 경쟁, '뜨거운 피' [마데핫리뷰]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003585938</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003585938"/>
+        <updated>2022-03-19T04:08:19.089Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 통상 조폭 영화는 숱한 조직원을 거느린 거대 조직폭력을 다룬다. 천명관 감독은 오직 생계를 위해 분투하는 소규모 조폭의 밑바닥으로 방향을 틀었다. '뜨거운 피'는 부산 변두리 작은 포구]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['극장판 시그널', 韓日 싱크로율 완벽 캐스팅]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003036906</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000967422"/>
         <updated>2022-03-18T14:05:31.890Z</updated>
         <content type="html"><![CDATA[허카인, 아 아니고…허성태, 미친 존재감 (스텔라) 배우 허성태가 버라이어티 추격 코미디 ‘스텔라’에서 자비 없는 ‘서사장’ 역을 맡아 독보적 카리스마와 존재감을 선보일 예정이다. 배우 허성태가 영화 ‘스텔라’에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CGV, 장국영 추모 19주기 기념 특별전 개최..대표작 상영(공식)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003542605</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003542605"/>
-        <updated>2022-03-18T13:17:24.758Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] 장국영 추모 19주기 기념 특별전이 열린다. CGV가 장국영 사망 19주기를 맞아 그의 작품 5편을 모아 오는 23일부터 4월 5일까지 2주간 'THE 장국영 특별전'을 개최한다고 18일]]></content>
     </entry>
 </feed>
