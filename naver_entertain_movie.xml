@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-19T07:06:54.435Z</updated>
+    <updated>2022-03-19T08:07:54.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“마블 로스장군에게 폭행·성학대 당했다”, 연이어 폭로 나와[해외이슈]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003585989</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003585989"/>
+        <updated>2022-03-19T08:07:02.126Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]MCU에서 로스장군 역으로 유명한 윌리엄 허트(71)가 최근 사망한 가운데 그에게 학대 및 성폭행을 당했다는 두 번째 증언이 나왔다. 작가 도나 카즈는 18일(현지시간) 미국 유력 엔터테]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[천명관 감독 '뜨거운 피' 예매율 1위 등극, "흥행몰이 예고"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003585982</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004574730"/>
         <updated>2022-03-18T23:06:13.055Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 ‘문폴’이 박스오피스 1위를 유지하고 있다. 19일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 전날(18일) ‘문폴’은 1만 7750명이 관람해 일별 박스오피스 1위를 차지했다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산 남자 정우의 '뜨거운 피'[MK무비]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004936958</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004936958"/>
-        <updated>2022-03-18T23:06:13.056Z</updated>
-        <content type="html"><![CDATA[배우 정우의 치열한 싸움을 담은 ‘뜨거운 피’가 온다. 영화 ‘뜨거운 피’(감독 천명관)는 1993년 더 나쁜 놈만이 살아남는 곳 부산 변두리 포구 구암의 실세 희수와 그곳에서 살아남기 위한 밑바닥 건달들의 치열한]]></content>
     </entry>
 </feed>
