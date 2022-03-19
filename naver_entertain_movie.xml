@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-19T09:06:15.032Z</updated>
+    <updated>2022-03-19T10:07:33.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[픽사, 디즈니+ 신작 애니메이션 '메이의 새빨간 비밀']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046878</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000046878"/>
+        <updated>2022-03-19T10:06:45.319Z</updated>
+        <content type="html"><![CDATA[지난 3월11일, 픽사 애니메이션 스튜디오의 신작 &lt;메이의 새빨간 비밀&gt;이 디즈니+를 통해 공개됐다. 집에서는 착한 딸, 학교에서는 자신감 넘치는 학생인 메이가 감정 기복이 심해지면 갑자기 너구리 판다로 변하는 이야]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“마블 로스장군에게 폭행·성학대 당했다”, 연이어 폭로 나와[해외이슈]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003585989</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002583441"/>
         <updated>2022-03-19T00:24:45.091Z</updated>
         <content type="html"><![CDATA[☞한겨레S 뉴스레터 구독하기 https://bit.ly/319DiiE 당신에게 다음과 같은 일이 일어났다고 가정해보자. 당신의 가족이 갑작스러운 질환으로 가장 가까운 병원의 응급실로 실려 가게 되었다. 그런데 그 병]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['문폴' 3일 연속 박스오피스 1위…누적 관객 5만↑]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004574730</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004574730"/>
-        <updated>2022-03-18T23:06:13.055Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 ‘문폴’이 박스오피스 1위를 유지하고 있다. 19일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 전날(18일) ‘문폴’은 1만 7750명이 관람해 일별 박스오피스 1위를 차지했다]]></content>
     </entry>
 </feed>
