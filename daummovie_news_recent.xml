@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-03-19T21:06:12.209Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 19 Mar 2022 22:06:03 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["지금까지 입은 옷 중에 최고", 39살 '애둘맘' 앤 해서웨이 절개 드레스 극찬[해외이슈]]]></title>
+            <link>https://v.daum.net/v/20220320061706698</link>
+            <guid>https://v.daum.net/v/20220320061706698</guid>
+            <pubDate>Sat, 19 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]할리우드 스타 앤 해서웨이(39)가 과감한 노출 패션으로 시선을 끌었다. 그는 지난 17일(현지시간) 미국 로스앤젤레스에서 열린 애플TV+ '우린 폭망했다 (위크래시드)' 글로벌 프리미어에 자레드 레토와 참석했다. 앤 해서웨이는 하늘색 드레스에 검은색 속옷을 입고 포토월에서 포즈를 취했다. 그는 아쿠아주라 힐과 블랙 클러치]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F20%2Fmydaily%2F20220320061707077zwfm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
