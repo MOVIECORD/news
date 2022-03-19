@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-19T15:06:01.847Z</updated>
+    <updated>2022-03-19T16:08:35.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마블 커플' 톰 히들스턴·자웨 애슈턴, 3년 열애 끝에 약혼]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011071394</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011071394"/>
+        <updated>2022-03-19T16:07:50.071Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = '마블 커플'로 통하는 영국 배우 톰 히들스턴(41)과 영국 배우 겸 감독 자웨 애슈턴(38)이 약혼했다. 18일(현지시간) CNN과 피플 등에 외신들은 히들스턴과 애슈턴이 최근 결혼식]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 '광대: 소리꾼'...조선팔도 상영회 '열기']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000800477</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004574750"/>
         <updated>2022-03-19T00:24:45.087Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 배우 베네딕트 컴버배치가 천재 고양이 화가로 분한 영화 '루이스 웨인: 사랑을 그린 고양이 화가'에 할리우드를 대표하는 연기파 배우들이 한자리에 모여 기대를 모은다. 올 봄 모두를 끌어안을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['문폴', 3일 연속 1위..'이상한 나라의 수학자' 30만 돌파[★무비차트]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003036867</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003036867"/>
-        <updated>2022-03-19T00:24:45.090Z</updated>
-        <content type="html"><![CDATA['문폴'이 3일 연속 박스오피스 1위를 지켰다. 19일 영화진흥위원회 영화관입장권 통합전산망에 따르면 전날 영화 '문폴'은 1만 7750명의 관객을 동원해 3일 연속 박스오피스 1위를 차지했다. 누적 관객 수는 5만]]></content>
     </entry>
 </feed>
