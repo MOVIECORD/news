@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-20T04:10:15.964Z</updated>
+    <updated>2022-03-20T05:07:14.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시청률 64%, 천만 배우 이정재..세계를 휩쓸다 [김미화의 날선무비]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003037084</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003037084"/>
+        <updated>2022-03-20T05:06:32.757Z</updated>
+        <content type="html"><![CDATA[청춘스타, 톱스타를 지나 이제 이정재에게 '국민배우'라는 호칭을 붙여도 될 듯 하다. 지난해 넷플릭스 '오징어 게임'으로 전세계적으로 사랑 받았던 배우 이정재가 올해 연초부터 미국 시상식을 휩쓸고 있다. 어디에서든]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[‘스마트폰 영화’ 표류기②] ‘지속 가능성을 위해’ 영화제, 편리성 제작 가성비 강조]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002586601</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000800440"/>
         <updated>2022-03-19T07:05:55.064Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 영화 ‘뜨거운 피’가 오는 23일(수) 개봉을 앞두고 예매율 1위에 등극했다. 영화 ‘뜨거운 피’는 1993년, 더 나쁜 놈만이 살아남는 곳 부산 변두리 포구 ‘구암’의 실세 ‘희수’와 그곳에서 살아남]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['로키' 톰 히틀스턴, ♥자웨 애쉬튼과 열애 3년만 약혼]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003036928</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003036928"/>
-        <updated>2022-03-19T07:05:55.065Z</updated>
-        <content type="html"><![CDATA[배우 톰 히들스턴과 배우 자웨 애쉬튼이 약혼했다. 18일(현지시간) CNN 등 다수의 현지 매체에 따르면 톰 히들스턴과 자웨 애쉬튼이 약혼했다고 보도했다. 최근 두 사람은 영국 아카데미 영화상(BAFTA)에 나란히]]></content>
     </entry>
 </feed>
