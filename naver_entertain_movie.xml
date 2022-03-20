@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-20T06:08:46.412Z</updated>
+    <updated>2022-03-20T07:07:42.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[‘스마트폰 영화’ 표류기③] “본격적인 시작은 이제부터” VS "굳이?"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002586629</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002586629"/>
+        <updated>2022-03-20T07:06:07.179Z</updated>
+        <content type="html"><![CDATA[[데일리안 = 류지윤 기자] 스마트폰으로 영화를 촬영할 때 최대 장점은 가볍고 작동이 편리하다는 점이다. 또 이를 활용해 현장에 신선함을 가져다준다. '일장춘몽'의 김옥빈은 “‘아이폰으로 촬영을 하는 게 과연 될까']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시청률 64%, 천만 배우 이정재..세계를 휩쓸다 [김미화의 날선무비]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003037084</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003585982"/>
         <updated>2022-03-19T07:05:55.061Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]강렬한 이야기와 날 것의 느와르로 극장가를 뜨겁게 달굴 영화 '뜨거운 피'가 오는 3월 23일(수) 개봉을 앞두고 예매율 1위에 등극했다. 영화 '뜨거운 피'는 1993년, 더 나쁜 놈만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘뜨거운 피’, 개봉 4일 앞두고 전체 예매율 1위]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000800440</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000800440"/>
-        <updated>2022-03-19T07:05:55.064Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 영화 ‘뜨거운 피’가 오는 23일(수) 개봉을 앞두고 예매율 1위에 등극했다. 영화 ‘뜨거운 피’는 1993년, 더 나쁜 놈만이 살아남는 곳 부산 변두리 포구 ‘구암’의 실세 ‘희수’와 그곳에서 살아남]]></content>
     </entry>
 </feed>
