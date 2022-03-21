@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-21T19:06:55.743Z</updated>
+    <updated>2022-03-21T20:08:04.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부모 반듯한 헌신, 두 딸 ‘테니스 여제’ 만들었다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001513529</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001513529"/>
+        <updated>2022-03-21T20:07:12.118Z</updated>
+        <content type="html"><![CDATA[그랜드슬램 단식 우승 30회, 올림픽 금메달 6개는 흑인 자매가 테니스 종목에서 이루기엔 불가능한 성과였다. 비너스와 세레나 윌리엄스 자매가 역사에 등장하기 전까지는 말이다. 테니스는 부유한 백인의 스포츠였고, 윌리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황동혁 감독 "'오징어 게임2' 정호연, 쌍둥이 설정이라면?" [DA:할리우드]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000967954</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004576293"/>
         <updated>2022-03-21T10:06:22.722Z</updated>
         <content type="html"><![CDATA[[OSEN=박준형 기자] 21일 오후 서울 용산구 CGV용산에서 영화 '하로동선'(감독 김시우) 언론시사회가 진행됐다. 김시우 감독이 소감을 말하고 있다. 2022.03.21 / soul1014@osen.co.kr]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진모 '하로동선, 기대하세요'[★포토]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003037417</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003037417"/>
-        <updated>2022-03-21T10:06:22.723Z</updated>
-        <content type="html"><![CDATA[배우 진모가 21일 오후 서울 CGV용산아이파크몰에서 진행된 영화 '하로동선'(감독 김시우) 언론시사회에 참석해 인사말을 하고 있다. 고(故) 노무현 대통령이 제15대 총선에서 낙선한 후 음식점을 운영했던 이야기를]]></content>
     </entry>
 </feed>
