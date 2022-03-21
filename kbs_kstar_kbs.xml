@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 08:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 09:08:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[복수의 화신 정수정, "오늘은 백화점에서 복수!"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=198393</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=198393</guid>
+            <pubDate>Mon, 21 Mar 2022 09:06:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=198393">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220321174341_e261a9aaa87a2f2a867130812c34069b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=198393">복수의 화신 정수정, "오늘은 백화점에서 복수!"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%81%AC%EB%A0%88%EC%9D%B4%EC%A7%80%20%EB%9F%AC%EB%B8%8C">월화드라마 크레이지 러브</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220321174341_e261a9aaa87a2f2a867130812c34069b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KBS 일일극 '으라차차 내 인생'  "같이 읽어봅시다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=198274</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220320210528_f57f3c8619cec2caefbed490ecc6e11c_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[1박2일] 나인우, 딘딘-라비에 “형들 생각보다 활약 저조...팀 바꿔야 제 진가 발휘될 거 같아요”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=198104</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=198104</guid>
-            <pubDate>Sun, 20 Mar 2022 12:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=198104">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220320205559_e50a8e99be7e59147d3b7780bb7f397d_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=198104">[1박2일] 나인우, 딘딘-라비에 “형들 생각보다 활약 저조...팀 바꿔야 제 진가 발휘될 거 같아요”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220320205559_e50a8e99be7e59147d3b7780bb7f397d_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
