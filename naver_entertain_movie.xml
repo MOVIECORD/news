@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-22T19:05:47.400Z</updated>
+    <updated>2022-03-22T20:07:45.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[양동근·이엘·송재림·박진영, 심상치 않은 해외 비밀공작 전담팀 (‘야차’)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000968263</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000968263"/>
+        <updated>2022-03-22T20:06:33.174Z</updated>
+        <content type="html"><![CDATA[넷플릭스(Netflix) 스파이 첩보 액션 '야차'가 블랙팀의 개성 넘치는 팀원 양동근, 이엘, 송재림, 박진영의 캐릭터 스틸을 공개했다. '야차'는 스파이들의 최대 접전지 중국 선양에서 일명 ‘야차’가 이끄는 국정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['뜨거운 피', 이토록 짠내 나는 건달 영화가 [TF씨네리뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000139000</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013065864"/>
         <updated>2022-03-22T08:10:24.569Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 한미희 기자 = 서울독립영화제 수상작과 화제작을 상영하는 '인디피크닉 2022 in 서울'이 다음 달 독립영화전용관 인디스페이스에서 열린다. 올해 인디피크닉에서는 단편 23편과 특별상영작인 장편 9]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["유령은 왜 마녹을 도와줄까?" '그리드'의 미스터리]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000044989</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000044989"/>
-        <updated>2022-03-22T08:10:24.571Z</updated>
-        <content type="html"><![CDATA[디즈니+의 오리지널 시리즈 &lt;그리드&gt;가 반환점을 돌았다. 제작진은 “수면 아래 잠식된 비밀이 하나, 둘 드러난다”고 밝히며, 후반부도 놓쳐서는 안 되는 관전 포인트를 전했다. &lt;그리드&gt;(연출 리건, 박철환 극본 이수]]></content>
     </entry>
 </feed>
