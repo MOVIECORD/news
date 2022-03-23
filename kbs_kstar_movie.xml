@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 12:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 13:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 정우 ‘뜨거운 피’  "구암의 건달은 펜션을 꿈꾼다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=198803</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=198803</guid>
+            <pubDate>Wed, 23 Mar 2022 13:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=198803">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220323172833_a79f5d1d883134daa86ce506a0eabbf2.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=198803">[인터뷰] 정우 ‘뜨거운 피’  "구암의 건달은 펜션을 꿈꾼다"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220323172833_a79f5d1d883134daa86ce506a0eabbf2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[seezn '소년비행',  10대 느와르 드라마]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=198731</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=197924">정동길 서울아트시네마에서 '아키 카우리스마키'를 만난다</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220319090446_32b3651c395c3559c9d2b9d9f20e897a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["박형식, 한소희의 매력에 빠질 시간" 디즈니+ '사운드트랙 #1']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=198073</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=198073</guid>
-            <pubDate>Sun, 20 Mar 2022 04:07:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=198073">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220320081723_1e9b3ec9d30e08e55537e98cf5ff6003.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=198073">"박형식, 한소희의 매력에 빠질 시간" 디즈니+ '사운드트랙 #1'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220320081723_1e9b3ec9d30e08e55537e98cf5ff6003.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
