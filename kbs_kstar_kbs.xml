@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 04:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 05:06:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나훈아, KBS '버추얼 가요톱텐' 출연]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=198773</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=198773</guid>
+            <pubDate>Wed, 23 Mar 2022 05:04:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=198773">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220323133941_37ac84021aaa9828609be73e0a39a828.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=198773">나훈아, KBS '버추얼 가요톱텐' 출연 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220323133941_37ac84021aaa9828609be73e0a39a828.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['너에게 가는 속도 493km' 명품 배우들 총출동]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=198738</link>
@@ -345,24 +362,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=198482">모델 아이린, '연애의 참견3' 스페셜 MC "최악의 남친 썰"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220322081354_1a532da8a7aee529ffa505fe8072cf66.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[개는 훌륭하다] 하고 싶은 대로 막 살았던 현식이에게 닥친 강형욱이라는 고난]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=198453</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=198453</guid>
-            <pubDate>Mon, 21 Mar 2022 16:06:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=198453">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220322003047_85baf6551d84cf08a06dab1c46fec180.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=198453">[개는 훌륭하다] 하고 싶은 대로 막 살았던 현식이에게 닥친 강형욱이라는 고난</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">개는 훌륭하다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220322003047_85baf6551d84cf08a06dab1c46fec180.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
