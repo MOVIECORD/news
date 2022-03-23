@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-23T11:05:53.395Z</updated>
+    <updated>2022-03-23T12:12:46.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사랑스러운 가족영화 '벨파스트' 관람포인트, #전세계호평 #공감스토리 #낭만적무드]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003587209</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003587209"/>
+        <updated>2022-03-23T12:12:01.764Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]전 세계가 응답한 가장 사랑스러운 가족 영화 '벨파스트'가 국내 관객들의 뜨거운 기대감 속에 오늘 개봉했다. '벨파스트'는 벨파스트의 골목과 짝사랑하는 소녀와 가족이 세상의 전부였던 소년]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['한화이글스: 클럽하우스', 야구 미생들을 위한 영화]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003587196</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002583935"/>
         <updated>2022-03-23T08:11:01.245Z</updated>
         <content type="html"><![CDATA[“겸손하라. 네게 주어진 모든 것들은 다 너의 것이 아니다. 감사하라. 세상은 감사하는 자의 것이다. 삶을 멀리 봐라. 욕심을 버리고 마음을 비워라.” 아버지는 아들에게 말했다. 막노동꾼, 헬스트레이너, 시설관리인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어디서 봤더라?…'뜨거운 피'에서도 튀는 이홍내]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000281308</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000281308"/>
-        <updated>2022-03-23T08:11:01.246Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 신예 이홍내가 영화 '뜨거운 피'에서 열혈 청춘의 에너지를 자신만의 개성으로 표현해냈다. '뜨거운 피'는 1993년, 더 나쁜 놈만이 살아남는 곳 부산 변두리 포구 구암의 실세 희]]></content>
     </entry>
 </feed>
