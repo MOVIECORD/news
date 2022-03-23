@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-03-23T15:05:33.811Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 23 Mar 2022 16:09:25 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이원 기자의 Ent 프리즘] 잘나가는 OTT 작품들..오스카도 품을까]]></title>
+            <link>https://v.daum.net/v/20220324004248488</link>
+            <guid>https://v.daum.net/v/20220324004248488</guid>
+            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계 영화인의 축제인 아카데미 시상식이 성큼 다가왔다. 2020년과 2021년 만해도 각각 봉준호 감독의 ‘기생충’과 윤여정의 ‘미나리’가 주요 부문 후보에 올라 한국 관객의 주목을 받았는데, 올해는 한국 영화가 후보에 오르지 못해 열기가 시들한 느낌이다. 하지만 아카데미는 여전히 세계에서 가장 유명하고 화려한 영화 시상식이기에 어떤 작품이 주요 부문에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F24%2Fkookje%2F20220324004249245zaii.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
