@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-24T20:10:15.714Z</updated>
+    <updated>2022-03-24T21:06:00.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[K-누아르 ‘뜨거운 피’ 이틀 연속 1위[박스오피스]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000555222</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000555222"/>
+        <updated>2022-03-24T21:05:17.225Z</updated>
+        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 천명관 작가의 감독 데뷔작 '뜨거운 피'가 이틀 연속 박스오피스 1위를 차지했다. 3월 25일 영화진흥위원회 통합전산망 집계에 따르면 24일 영화 '뜨거운 피'(감독 천명관)가 2만4,698명]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴욕한국문화원, 배우 이정재 특별전 개최]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004677966</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003845071"/>
         <updated>2022-03-24T08:10:24.743Z</updated>
         <content type="html"><![CDATA[[스포츠조선 고재완 기자] TV CHOSUN이 오는 28일 오전 8시 50분(한국 시각) 미국 최고 권위의 영화 시상식 '제94회 아카데미 시상식'을 독점 생중계한다. TV CHOSUN은 2019년 제91회부터 4년]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백지혜, '그림자 미녀'에서 '물이 지나간 자리'까지]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000045044</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000045044"/>
-        <updated>2022-03-24T08:10:24.770Z</updated>
-        <content type="html"><![CDATA[배우 백지혜가 한국예술종합학교 영화과 졸업영화제 출품작 ‘물이 지나간 자리’로 한계없는 연기력을 입증했다. 영화 ‘물이 지나간 자리’는 무엇인가를 바라면서 춤을 연습하는 여자들이 있는 집 안, 납득할 수 없는 일들이]]></content>
     </entry>
 </feed>
