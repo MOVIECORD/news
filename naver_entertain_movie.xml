@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-24T15:07:28.976Z</updated>
+    <updated>2022-03-24T16:07:35.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[새영화]조용했던 부산 변두리…밑바닥 건달들의 뜨거운 생존싸움]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000888371</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000888371"/>
+        <updated>2022-03-24T16:06:44.861Z</updated>
+        <content type="html"><![CDATA[뜨거운 피 김언수 동명소설 원작 누아르 범죄와의 전쟁 이후 배경 그려 ■ 뜨거운 피 =김언수의 동명소설을 원작으로 한 작품으로 누아르 장르다. 천명관 소설가가 영화감독으로 데뷔하는 영화라 더욱 눈길을 끈다. 부산 변]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤여정 시상자로 서는 아카데미, 올해 관전 포인트는?]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000534117</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011081881"/>
         <updated>2022-03-24T08:10:24.770Z</updated>
         <content type="html"><![CDATA[기사내용 요약 이리스 크노블로흐 전 워너미디어 CEO [서울=뉴시스] 손정빈 기자 = 칸국제영화제 역사상 최초로 여성 조직위원장이 탄생했다. 칸영화제 사무국은 23일(현지 시각) 프랑스국제영화제협회가 이사회를 열어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[새영화] 드라이·극장판 시그널]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013070837</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013070837"/>
-        <updated>2022-03-24T08:10:24.772Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 한미희 기자 = ▲ 호주 미스터리 스릴러 '드라이' = 최악의 가뭄이 덮친 호주 남부의 한 마을. 20년 전 고향을 떠났던 에런 포크(에릭 바나 분)가 메마른 땅에 모래 먼지를 일으키며 들어선다.]]></content>
     </entry>
 </feed>
