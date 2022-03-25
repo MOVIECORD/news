@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-25T18:11:51.285Z</updated>
+    <updated>2022-03-25T19:07:02.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“어린 시절 강렬한 감정 겪고도 하지 못한 말, 누구나 있죠”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001514561</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001514561"/>
+        <updated>2022-03-25T19:06:19.150Z</updated>
+        <content type="html"><![CDATA[영화감독 윤가은(40)은 영화 말고도 좋아하는 게 많다. 오래된 문방구에서 찾을 수 있는 옛 문구와 완구, 걷기, 일요일 아침에 하는 청소, 꽃, 생일, 노래방, 만화책, 빵, 여름, 별자리 운세, 조카…. 이렇게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘2022 평택국제영화제’ 방송인 서동주 MC 선정]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000801921</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000555503"/>
         <updated>2022-03-25T08:10:04.557Z</updated>
         <content type="html"><![CDATA[[뉴스엔 정유진 기자] 2022년 아카데미 시상식 2개 부문 후보에 빛나는 화제작 '패러렐 마더스'가 아카데미 시상식을 앞두고 개봉 전 프리미어 상영 및 씨네 토크 이벤트를 준비해 기대를 모으고 있다. 3월 27일(]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]김다미-이종석 ‘마녀2’ 6월에 온다 상반기 최고 화제작 예약]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000555501</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000555501"/>
-        <updated>2022-03-25T08:10:04.557Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 허민녕 기자] 개봉 일자를 두고 보도 해프닝이 일 만큼 이 영화 올해 최고 화제작 가운데 하나임은 분명한 것 같다. 제목 자체가 장르가 된 ‘마녀’ 후속작 ‘마녀:The Other One’이 6월 개봉된다.]]></content>
     </entry>
 </feed>
