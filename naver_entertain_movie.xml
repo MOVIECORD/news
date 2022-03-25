@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-25T14:06:21.879Z</updated>
+    <updated>2022-03-25T15:06:35.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘2022 평택국제영화제’ 방송인 서동주 MC 선정]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000801921</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000801921"/>
+        <updated>2022-03-25T15:05:38.148Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 방송인 서동주가 ‘2022 평택국제영화제’ 전담 MC로 선정됐다. 평택국제영화제는 2020년 추진위원회가 출범된 후 코로나 19로 인해 2년여 미뤄져 오다가 올해 2월, 출품작 선정 과정에 돌입하고,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[무비차트TEN] 정우 '뜨거운 피' 흥행, 산 넘어 산…마블 안티 히어로 '모비우스' 출격 대기]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000537697</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000555501"/>
         <updated>2022-03-25T08:10:04.557Z</updated>
         <content type="html"><![CDATA[[뉴스엔 허민녕 기자] 개봉 일자를 두고 보도 해프닝이 일 만큼 이 영화 올해 최고 화제작 가운데 하나임은 분명한 것 같다. 제목 자체가 장르가 된 ‘마녀’ 후속작 ‘마녀:The Other One’이 6월 개봉된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[리뷰&인터뷰] 독립영화관 ‘마지막 손님’ (이제한 감독,2020)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000045077</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000045077"/>
-        <updated>2022-03-25T08:10:04.558Z</updated>
-        <content type="html"><![CDATA[오늘밤 KBS 1TV [독립영화관]에서는 이제한 감독의 &lt;마지막 손님&gt;(2020)과 문재웅 감독의 &lt;김녕회관&gt; 등 두 편의 단편영화가 시청자를 찾는다. &lt;마지막 손님&gt;은 최근 개봉한 &lt;소피의 세계&gt;의 이제한 감독의]]></content>
     </entry>
 </feed>
