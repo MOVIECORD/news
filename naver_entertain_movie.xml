@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-25T13:44:50.603Z</updated>
+    <updated>2022-03-25T14:06:21.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[무비차트TEN] 정우 '뜨거운 피' 흥행, 산 넘어 산…마블 안티 히어로 '모비우스' 출격 대기]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000537697</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000537697"/>
+        <updated>2022-03-25T14:05:35.392Z</updated>
+        <content type="html"><![CDATA[[텐아시아=노규민 기자] 코로나19 확진자 폭증으로 극장을 향한 관객들의 발길이 끊긴 지 오래다. 50만을 돌파하기도 힘겨운 상황이다. 이런 가운데 최민식에 이어 정우가 한국영화 구원투수로 등장했다. 신작 '뜨거운]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘마녀2’ 측 “6월 개봉? 검토 중”[공식]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004940380</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000045077"/>
         <updated>2022-03-25T08:10:04.558Z</updated>
         <content type="html"><![CDATA[오늘밤 KBS 1TV [독립영화관]에서는 이제한 감독의 &lt;마지막 손님&gt;(2020)과 문재웅 감독의 &lt;김녕회관&gt; 등 두 편의 단편영화가 시청자를 찾는다. &lt;마지막 손님&gt;은 최근 개봉한 &lt;소피의 세계&gt;의 이제한 감독의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CGV, 영화 관람료 또 올라…1000원 이상 인상]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000801843</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000801843"/>
-        <updated>2022-03-25T07:06:03.970Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 멀티플렉스 극장 CGV가 영화 관람료를 올린다. 코로나19 팬데믹 이후 세 번째다. CGV는 다음 달 4일부터 영화 관람료를 1000원∼5000원 인상한다고 25일 밝혔다. 이로 인해 성인 2D 영화]]></content>
     </entry>
 </feed>
