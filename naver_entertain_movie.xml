@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-25T20:07:24.386Z</updated>
+    <updated>2022-03-25T21:06:24.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주말의 OTT]한소희·박형식, 이 로코 통할까]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011084628</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011084628"/>
+        <updated>2022-03-25T21:05:42.752Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 손정빈 기자 = 3월 4주차 주말 디즈니+·넷플릭스·왓챠에서 볼만한 작품을 추렸다. 디즈니+는 배우 한소희와 박형식이 주연한 로맨틱 코미디 '사운드트랙#1'을 내놨다. 넷플릭스는 전 세계에서 흥행에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“어린 시절 강렬한 감정 겪고도 하지 못한 말, 누구나 있죠”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001514561</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013073340"/>
         <updated>2022-03-25T08:10:04.557Z</updated>
         <content type="html"><![CDATA[(공주=연합뉴스) 25일 충남 공주시 반죽동에서 열린 '옛 아카데미극장 이별식'에서 김정섭 시장이 인사말을 하고 있다. 이날 행사는 공주 원도심 문화의 산실인 아카데미극장이 역사의 뒤안길로 사라지기 전 주민과 함께]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 ‘패러렐 마더스’ 개봉 전 한예리와 함께하는 씨네토크 이벤트 개최]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000555503</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000555503"/>
-        <updated>2022-03-25T08:10:04.557Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 정유진 기자] 2022년 아카데미 시상식 2개 부문 후보에 빛나는 화제작 '패러렐 마더스'가 아카데미 시상식을 앞두고 개봉 전 프리미어 상영 및 씨네 토크 이벤트를 준비해 기대를 모으고 있다. 3월 27일(]]></content>
     </entry>
 </feed>
