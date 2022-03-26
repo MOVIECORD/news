@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-03-26T20:07:27.132Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 26 Mar 2022 21:06:52 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[볼 영화 없는 4월? 천우희vs손현주vs김영옥, 연기파들 흥행 도전 [N초점]]]></title>
+            <link>https://v.daum.net/v/20220327060048490</link>
+            <guid>https://v.daum.net/v/20220327060048490</guid>
+            <pubDate>Sat, 26 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 지난해 개봉한 '모가디슈' 이후 이렇다할 흥행작이 나오지 않고 있는 가운데, 한국 영화의 도전이 계속되고 있다. 전통적인 비수기인 4월은 관객 기근이 더 심해질 것으로 예상된다. 신종 코로나바이러스 감염증(코로나19) 감염자는 계속 증가하고 있으며, 국내 최대 극장 체인 CGV가 영화관람료를 인상하며 극장이 직면한 어려움]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F27%2FNEWS1%2F20220327060049650spgf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
