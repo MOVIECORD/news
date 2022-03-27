@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-03-27T21:06:08.648Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 27 Mar 2022 22:06:44 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤여정, 美아카데미 시상자로..新어록 남길까[MK무비]]]></title>
+            <link>https://v.daum.net/v/20220328070332225</link>
+            <guid>https://v.daum.net/v/20220328070332225</guid>
+            <pubDate>Sun, 27 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 윤여정이 시상자로 참석하는 제94회 미국 아카데미(오스카) 시상식이 TV조선을 통해 생중계 된다. 오늘(27일, 현지시간) 미국 캘리포니아주 LA 돌비극장에서 ‘2022 아카데미 시상식’이 진행된다. 이번 시상식에는 지난해 영화 '미나리'로 한국 최초 여우조연상을 거머쥔 윤여정이 시상자로 참석해 전 세계 영화인들과 함께 한다. 앞서 윤여정은 '미나]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F28%2Fstartoday%2F20220328070334419nurp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
