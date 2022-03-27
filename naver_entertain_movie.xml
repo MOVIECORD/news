@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-27T14:06:43.184Z</updated>
+    <updated>2022-03-27T15:06:19.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["파워오브도그, 아카데미 작품상 유력…여우주연상 예측불가"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011086080</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011086080"/>
+        <updated>2022-03-27T15:04:54.227Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 최지윤 기자 = 영화평론가 이동진이 아카데미 시상식을 예측했다. 이동진과 통역사 안현모는 28일 오전 8시50분(한국시간)부터 미국 캘리포니아주 LA 돌비극장에서 열리는 제94회 아카데미 시상식을 생]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뻔한 소재를 연대의 역사로 풀어낸 ‘페러렐 마더스’]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001514740</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000537807"/>
         <updated>2022-03-27T02:18:44.114Z</updated>
         <content type="html"><![CDATA[[텐아시아=김지원 기자] 방준석 음악감독 겸 프로듀서가 별세했다. 향년 52세. 26일 영화계와 음악계에 따르면 방 음악감독은 이날 오전 7시께 병환으로 세상을 떠났다. 고인은 몇 년 전 위암 파정을 받고 치료 후]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어느 나라 영화야?…한국 찾는 외국 감독들]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000534433</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000534433"/>
-        <updated>2022-03-27T02:18:44.114Z</updated>
-        <content type="html"><![CDATA[[앵커] K-콘텐츠가 세계적으로 주목받는 가운데, 외국의 쟁쟁한 감독들이 한국에서 한국 배우들과 영화를 만들고 있습니다. 영화의 국적은 불분명하지만, 확실한 건 우리 영화가 높이 평가받고 있다는 건데요. 박효정 기자]]></content>
     </entry>
 </feed>
