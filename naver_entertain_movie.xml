@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-27T06:07:52.155Z</updated>
+    <updated>2022-03-27T07:06:34.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플? 넷플릭스?... 올해 오스카는 누구 품에]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000665865</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000665865"/>
+        <updated>2022-03-27T07:05:05.231Z</updated>
+        <content type="html"><![CDATA["오스카 수상은…(The Oscar Goes to…)" 뒤에 올해는 어떤 이름들이 호명될까. 제94회 미국 아카데미영화상 시상식이 27일 오후(현지시간) 로스앤젤레스 돌비극장에서 열린다. 오스카 트로피가 어느 작품,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방준석 음악감독, 위암으로 별세…유작은 '모가디슈']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000281406</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003624726"/>
         <updated>2022-03-26T23:05:39.013Z</updated>
         <content type="html"><![CDATA[제94회 미국 아카데미 시상식을 하루 앞두고 전 세계 영화계가 어떤 감독과 작품, 배우가 오스카 트로피를 가져갈지 집중하고 있다. 올해 오스카에서 가장 주목하고 있는 것은 여성 감독 최초로 오스카 감독상에 두 번째로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["노동운동 혐오 시선 여전…'내 아버지' 모습이라 느꼈으면"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013074567</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013074567"/>
-        <updated>2022-03-26T23:05:39.013Z</updated>
-        <content type="html"><![CDATA[다큐 '재춘언니' 이수정 감독…콜트·콜텍 해고노동자 투쟁 그려 "예술 하는 노동자 보여주며 고정관념 탈피…스스로 치유도" (서울=연합뉴스) 오보람 기자 = 4464일. 해가 열두 번 바뀌고 계절이 마흔 번은 바뀌었을]]></content>
     </entry>
 </feed>
