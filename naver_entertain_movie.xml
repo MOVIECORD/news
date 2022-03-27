@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-27T07:06:34.551Z</updated>
+    <updated>2022-03-27T08:08:31.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이동진 평론가가 짚은 올해 오스카 관전 포인트 3가지]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003624813</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003624813"/>
+        <updated>2022-03-27T08:07:46.377Z</updated>
+        <content type="html"><![CDATA[이동진 영화평론가가 제94회 미국 아카데미 시상식을 하루 앞두고 관전 포인트를 전했다. 오는 28일 오전 9시(한국 시간)부터 미국 캘리포니아주 LA 돌비 극장에서 제94회 아카데미 시상식이 열리는 가운데, 이동진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애플? 넷플릭스?... 올해 오스카는 누구 품에]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000665865</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011085254"/>
         <updated>2022-03-27T00:32:09.289Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스] 최지윤 기자 = 정우 주연 영화 '뜨거운 피'(감독 천명관)가 박스오피스 정상을 지켰다. 27일 영화관입장권통합전산망에 따르면, 뜨거운 피는 전날 6만7783명이 봤다. 누적관객수는 15만8139명이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 오스카는 #제인 캠피온 #여성 최초 #넷플릭스 #코다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003624726</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003624726"/>
-        <updated>2022-03-26T23:05:39.013Z</updated>
-        <content type="html"><![CDATA[제94회 미국 아카데미 시상식을 하루 앞두고 전 세계 영화계가 어떤 감독과 작품, 배우가 오스카 트로피를 가져갈지 집중하고 있다. 올해 오스카에서 가장 주목하고 있는 것은 여성 감독 최초로 오스카 감독상에 두 번째로]]></content>
     </entry>
 </feed>
