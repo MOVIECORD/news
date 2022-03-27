@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-27T15:06:19.278Z</updated>
+    <updated>2022-03-27T16:08:56.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[8월 5일 정동진독립영화제 개막]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=654&amp;aid=0000006134</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=654&amp;aid=0000006134"/>
+        <updated>2022-03-27T16:08:13.575Z</updated>
+        <content type="html"><![CDATA[올해 제24회를 맞는 정동진독립영화제가 올해 영화제 일정을 확정했다. 올해 영화제는 오는 8월 5∼7일 사흘간 강릉 정동초등학교 운동장에서 열린다. 코로나19 확산 이후 입장객 수를 제한하고 및 유료 입장 방식으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["파워오브도그, 아카데미 작품상 유력…여우주연상 예측불가"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011086080</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003039040"/>
         <updated>2022-03-27T02:18:44.108Z</updated>
         <content type="html"><![CDATA[시작은 무모했지만, 과정은 모험 그 자체였다. 그러나 '무모한 도전'은 많은 사람들에게 울림을 줄 준비를 마쳤다. '파친코'의 제작진은 한국 이민자 가족의 이야기를 전 세계가 공감할 거라고 자신했다. 최근 애플TV+]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신과함께'·'모가디슈' 음악감독 방준석, 위암으로 별세…향년 52세]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000537807</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000537807"/>
-        <updated>2022-03-27T02:18:44.114Z</updated>
-        <content type="html"><![CDATA[[텐아시아=김지원 기자] 방준석 음악감독 겸 프로듀서가 별세했다. 향년 52세. 26일 영화계와 음악계에 따르면 방 음악감독은 이날 오전 7시께 병환으로 세상을 떠났다. 고인은 몇 년 전 위암 파정을 받고 치료 후]]></content>
     </entry>
 </feed>
