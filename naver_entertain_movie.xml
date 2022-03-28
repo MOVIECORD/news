@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-28T11:08:22.208Z</updated>
+    <updated>2022-03-28T12:13:26.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍석천X안내상 출연 웹드라마 ‘공짜’ 영화화, OTT로 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000802314</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000802314"/>
+        <updated>2022-03-28T12:12:39.841Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 제작사 미스터리프랜즈스튜디오 측은 28일 “웹드라마로 제작한 ‘공짜(공기타짜)’가 영화로 공개되어 31일부터 OTT 서비스를 통해 만나볼 수 있다”고 밝혔다. ‘공짜’는 소희(김서윤 분)에게 잘 보이기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['앵커' 천우희 "전문직女 캐릭터 처음…하루 5시간씩 연습해" [종합]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001426403</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013077827"/>
         <updated>2022-03-28T10:05:54.741Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 아카데미상 시상식에서 미국 할리우드 스타 윌 스미스가 아내의 탈모를 놀린 시상자의 뺨을 때리는 험악한 상황이 벌어졌습니다. 코미디언 크리스 록은 27일(현지시간) 미국 로스앤젤레스(LA) 돌비극장에서 열린 제94회 시상식에서 다큐멘터리상 발표자로 무대에 올랐고 윌 스미스의 부인 제이다 핑킷 스미스의 헤어...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐틴 영화 메인 예고편 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000969474</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000969474"/>
-        <updated>2022-03-28T10:05:54.743Z</updated>
-        <content type="html"><![CDATA[세븐틴 영화 메인 예고편 공개 세븐틴(SEVENTEEN)의 첫 번째 영화 ‘세븐틴 파워 오브 러브 : 더 무비’ 메인 예고편이 공개됐다. ‘세븐틴 파워 오브 러브 : 더 무비’는 세븐틴의 콘서트 실황 무대와 어디서도]]></content>
     </entry>
 </feed>
