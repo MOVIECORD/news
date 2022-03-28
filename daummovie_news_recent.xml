@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-03-28T15:06:18.954Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 28 Mar 2022 16:08:35 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["영화계 신구 갈등 해결? 지금 구조로는 불가능"]]></title>
+            <link>https://v.daum.net/v/20220329002047625</link>
+            <guid>https://v.daum.net/v/20220329002047625</guid>
+            <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이선필 기자] '충무로' 대 '남산' 구도. 한국 영화 원로들의 주요 계파 및 대결 양상을 표현하는 말이다. 지역 토호 세력도 아닌 일부 오랜 경력의 영화인들의 이런 모습은 1990년 이후 한국영화 르네상스를 이끌어 온 신진 영화인들 입장에선 그리 달가운 모습이 아니었다. 그래서 원로 영화인들이 주축이 돼 만들어진 한국영화인총연합회(아래 영협)는 언젠가부]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202203%2F29%2Fohmynews%2F20220329002051587xwjp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
