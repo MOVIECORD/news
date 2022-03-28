@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-28T18:10:55.571Z</updated>
+    <updated>2022-03-28T19:04:57.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오스카 폭행' 윌 스미스, 뒤풀이 행사서 춤…"아름다운 밤"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013078129</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013078129"/>
+        <updated>2022-03-28T19:04:13.862Z</updated>
+        <content type="html"><![CDATA[남우주연상 트로피 들고 '의기양양'…외신 "폭행 후회 않는 듯" (로스앤젤레스=연합뉴스) 정윤섭 특파원 = 미국 아카데미상 시상식에서 초유의 폭행 사건을 일으킨 윌 스미스가 오스카 뒤풀이 행사에 참석해 춤을 추면서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하마구치 류스케 감독 '드라이브 마이 카', 국제장편영화상 수상!]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000045165</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005176463"/>
         <updated>2022-03-28T10:05:54.726Z</updated>
         <content type="html"><![CDATA[제94회 아카데미 시상식 작품상을 수상한 ‘코다’ 팀(사진=REUTERS) [이데일리 스타in 박미애 기자] 션 헤이더 감독의 ‘코다’가 강력한 후보로 꼽혔던 ‘파워 오브 도그’를 제치고 아카데미 최고 영예인 작품상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["韓 드라마, 2021년 동남아시아서 가장 많이 소비"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003039433</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003039433"/>
-        <updated>2022-03-28T10:05:54.726Z</updated>
-        <content type="html"><![CDATA[2021년 동남아시아에서 가장 많이 소비된 온라인 동영상 콘텐츠는 한국 드라마였다. 28일(현지시간) 버라이어티는 동남아시아 온라인 비디오 소비자를 분석한 MPA 보고서를 인용해 한국 드라마가 가장 인기 있었다. 현]]></content>
     </entry>
 </feed>
