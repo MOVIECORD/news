@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-30T13:22:01.319Z</updated>
+    <updated>2022-03-30T14:07:08.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[TEN인터뷰] 'B컷' 김동완 "연기 20년, 베드신·액션신·새로운 캐릭터…욕 안 먹으면 다행이죠"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000538583</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000538583"/>
+        <updated>2022-03-30T14:06:26.853Z</updated>
+        <content type="html"><![CDATA[[텐아시아=노규민 기자] "제 연기요? 욕만 안 먹으면 좋겠습니다. 이제는 옛날 연예인이잖아요. 제가 옛날 연기를 하는 것은 아닌가, 틀에 박히지 않았나 늘 걱정하고 고민하고 있습니다." 영화 'B컷'으로 돌아온 그]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘앵커’ 천우희, 실제 앵커 출신 김민정도 인정]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000970107</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000969966"/>
         <updated>2022-03-30T09:06:46.976Z</updated>
         <content type="html"><![CDATA[배우 손현주와 박소진이 30일 오전 온라인으로 진행된 영화 ‘봄날’ 제작보고회에서 포즈를 취하고 있다. ‘봄날’은 한때 잘나갔지만 현재는 집안의 애물단지인 철부지 형님 ‘호성’(손현주)이 아는 인맥 모두 끌어 모은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이돈구 감독 “최선을 다해 만든 영화” (봄날) [DA포토]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000969965</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000969965"/>
-        <updated>2022-03-30T09:06:46.977Z</updated>
-        <content type="html"><![CDATA[이돈구 감독이 30일 오전 온라인으로 진행된 영화 ‘봄날’ 제작보고회에서 포즈를 취하고 있다. ‘봄날’은 한때 잘나갔지만 현재는 집안의 애물단지인 철부지 형님 ‘호성’(손현주)이 아는 인맥 모두 끌어 모은 아버지의]]></content>
     </entry>
 </feed>
