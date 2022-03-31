@@ -4,7 +4,7 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 21:06:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 22:06:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,6 +23,23 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=200466">정준하 부캐, 정과장 소환...'내일' 신 스틸러로 활약</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220331170035_fbed1667879b9a99bc532acab5d8fd4d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["여섯 퀸들의 대결" Mnet '퀸덤2' 오늘밤 글로벌 생중계]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=200330</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=200330</guid>
+            <pubDate>Thu, 31 Mar 2022 22:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=200330">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220331105332_a223757c65d04278203f702c1830dcc6_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=200330">"여섯 퀸들의 대결" Mnet '퀸덤2' 오늘밤 글로벌 생중계</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220331105332_a223757c65d04278203f702c1830dcc6_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시한부 전미도에게 찾아온 최고의 하루 '서른, 아홉']]></title>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=199701">더보이즈 뉴, '사내맞선' 감성테마송 "봄바람처럼 날 찾아와"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220329074525_d52ee88b885f0f23453ff7c362b22ccc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["김희선이랑 똑 닮았네~" 라마 작가 '내일' 포스터 공개!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=199767</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=199767</guid>
-            <pubDate>Tue, 29 Mar 2022 02:26:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=199767">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220329091420_fb7ed13a0e328e358609c8406cf56073.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=199767">"김희선이랑 똑 닮았네~" 라마 작가 '내일' 포스터 공개!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220329091420_fb7ed13a0e328e358609c8406cf56073.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
