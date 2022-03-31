@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-31T19:05:38.111Z</updated>
+    <updated>2022-03-31T20:07:50.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘다이하드’ 브루스 윌리스, 실어증으로 은퇴]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001515990</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001515990"/>
+        <updated>2022-03-31T20:07:08.069Z</updated>
+        <content type="html"><![CDATA[영화 ‘다이하드’의 주인공이자 할리우드 유명 액션스타 브루스 윌리스(67· 사진 )가 30일(현지시간) 은퇴를 선언했다. 이유는 갑작스레 찾아온 실어증 때문이다. AP통신 등은 윌리스의 가족들이 인스타그램을 통해 발]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[TEN인터뷰] '스텔라' 손호준 "결혼, 경제력·마음가짐 준비된 후…父, 내가 꿈꾸는 아버지상"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000538795</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013085967"/>
         <updated>2022-03-31T10:07:08.222Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 진연수 기자 = 전주국제영화제 올해의 프로그래머로 선정된 연상호 감독이 31일 오후 서울 용산구 CGV용산아이파크몰점에서 열린 제23회 전주국제영화제 개최 및 상영작 발표 기자회견에서 인사말을 하고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전주국제영화제의 특징과 변화는?]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013085966</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013085966"/>
-        <updated>2022-03-31T10:07:08.228Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 진연수 기자 = 31일 오후 서울 용산구 CGV용산아이파크몰점에서 열린 제23회 전주국제영화제 개최 및 상영작 발표 기자회견에서 문성경 프로그래머가 영화제 소개를 하고 있다. 2022.3.31 ji]]></content>
     </entry>
 </feed>
