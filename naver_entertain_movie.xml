@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-03-31T18:10:52.551Z</updated>
+    <updated>2022-03-31T19:05:38.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[TEN인터뷰] '스텔라' 손호준 "결혼, 경제력·마음가짐 준비된 후…父, 내가 꿈꾸는 아버지상"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000538795</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000538795"/>
+        <updated>2022-03-31T19:04:25.028Z</updated>
+        <content type="html"><![CDATA[[텐아시아=김지원 기자] 유쾌하고 수더분한 생활 연기에 일가견 있는 배우 손호준이 추격 코미디 영화 '스텔라'로 힐링과 웃음을 선사한다. 심장을 요동치게 하는 엔진소리, 화려한 드리프트와 고속 질주 없이도 유쾌하고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[새영화]코로나 불황 뚫을 대작 두 편…극장가 기대감]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000889408</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013085966"/>
         <updated>2022-03-31T10:07:08.228Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 진연수 기자 = 31일 오후 서울 용산구 CGV용산아이파크몰점에서 열린 제23회 전주국제영화제 개최 및 상영작 발표 기자회견에서 문성경 프로그래머가 영화제 소개를 하고 있다. 2022.3.31 ji]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제23회 전주국제영화제 상영작 발표]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013085965</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013085965"/>
-        <updated>2022-03-31T10:07:08.228Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 진연수 기자 = 31일 오후 서울 용산구 CGV용산아이파크몰점에서 열린 제23회 전주국제영화제 개최 및 상영작 발표 기자회견에서 전진수 프로그래머가 상영작을 발표하고 있다. 2022.3.31 jin]]></content>
     </entry>
 </feed>

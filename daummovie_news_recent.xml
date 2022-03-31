@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-03-31T18:10:52.538Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 31 Mar 2022 19:05:38 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[TEN인터뷰] '스텔라' 손호준 "결혼, 경제력·마음가짐 준비된 후..父, 내가 꿈꾸는 아버지상"]]></title>
+            <link>https://v.daum.net/v/20220401040101424</link>
+            <guid>https://v.daum.net/v/20220401040101424</guid>
+            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자] 유쾌하고 수더분한 생활 연기에 일가견 있는 배우 손호준이 추격 코미디 영화 '스텔라'로 힐링과 웃음을 선사한다. 심장을 요동치게 하는 엔진소리, 화려한 드리프트와 고속 질주 없이도 유쾌하고 뜨듯하다. '스텔라'는 차량담보업체 직원 영배(손호준 분)가 빚에 허덕이던 절친이 훔쳐 팔아넘긴 3억짜리 슈퍼카를 찾기 위해 분투하는 이야기]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F01%2F10asia%2F20220401040106012klzw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
