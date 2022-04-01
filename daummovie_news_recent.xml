@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-04-01T21:06:07.304Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 01 Apr 2022 22:06:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰②] 'B컷' 김동완 "신화 24주년 완전체? 준비 중"]]></title>
+            <link>https://v.daum.net/v/20220402070310260</link>
+            <guid>https://v.daum.net/v/20220402070310260</guid>
+            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(인터뷰①에 이어) 김동완은 1998년 그룹 신화로 연예계에 데뷔했다. 장수 아이돌 신화는 올해 데뷔 24주년을 맞이했다. 그는 신화 완전체 활동에 대해 “생각하고 있다. 그런데 이게 여러 가지 일들이 섞여 있다 보니 쉽사리 현실화되지 않는다. 완전체 활동을 할 수 있는 때가 되면 하려고 준비하고 있다. 저희는 늘 데뷔 때부터 준비하고 있었다”고 말했다]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F02%2Fstartoday%2F20220402070311691kkug.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
