@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-01T20:07:24.338Z</updated>
+    <updated>2022-04-01T21:06:07.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주말의 OTT]셀럽파이브 이번 넷플릭스로]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011098918</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011098918"/>
+        <updated>2022-04-01T21:05:18.576Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 손정빈 기자 = 4월 1주차 주말 넷플릭스·디즈니+·왓챠에서 볼만한 작품을 추렸다. 넷플릭스에선 송은이·김신영·안영미·신봉선이 만든 걸그룹 '셀럽파이브' 멤버들이 출연하는 코미디 쇼 '셀럽은 회의 중]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양조위, 거짓말처럼 떠난 故 장국영 19주기 추모 '애틋']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003040796</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000047002"/>
         <updated>2022-04-01T10:08:13.844Z</updated>
         <content type="html"><![CDATA[&lt;패러렐 마더스&gt;에는 페드로 알모도바르가 친애하는, 남편 없는 여자들, 폭력과 강간으로부터 살아남은 여자들, 여자를 사랑하는 여자들이 또다시 나온다. 그들은 이번에도 천연덕스럽게 용맹한 얼굴로 경계 없는 유대가 빚어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['세븐틴 파워 오브 러브: 더 무비', 제페토 CGV월드 특별 프로모션]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003040752</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003040752"/>
-        <updated>2022-04-01T10:08:13.853Z</updated>
-        <content type="html"><![CDATA[세븐틴(SEVENTEEN)의 첫 번째 영화 '세븐틴 파워 오브 러브 : 더 무비'가 메타버스 플랫폼 제페토를 통해 'CGV월드'에서 특별한 프로모션 이벤트를 진행한다. 영화 '세븐틴 파워 오브 러브 : 더 무비'가]]></content>
     </entry>
 </feed>
