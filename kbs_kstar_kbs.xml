@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 03:40:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 04:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘으라차차 내 인생’ 남상지, “어느 날 엄마가 되었다”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=200508</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=200508</guid>
+            <pubDate>Fri, 01 Apr 2022 04:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=200508">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220401064614_588769fcdbccab0c3ed767d693a6e7b6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=200508">‘으라차차 내 인생’ 남상지, “어느 날 엄마가 되었다”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EC%9C%BC%EB%9D%BC%EC%B0%A8%EC%B0%A8%20%EB%82%B4%20%EC%9D%B8%EC%83%9D">일일연속극 으라차차 내 인생</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220401064614_588769fcdbccab0c3ed767d693a6e7b6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이준-강한나, '붉은 단심, 붉은 포스터']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=200513</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220331055356_15d63a05592d94abe6cfdd4e77a450f7_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[갓파더] 딸 가비에게 생애 첫 속옷 선물을 받게 된 강주은의 반응은?!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=200235</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=200235</guid>
-            <pubDate>Wed, 30 Mar 2022 21:06:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=200235">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220331054336_6cf4b0ce0d9050685a12b26de1e80160.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=200235">[갓파더] 딸 가비에게 생애 첫 속옷 선물을 받게 된 강주은의 반응은?!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220331054336_6cf4b0ce0d9050685a12b26de1e80160.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
