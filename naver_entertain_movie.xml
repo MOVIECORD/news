@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-01T12:13:27.589Z</updated>
+    <updated>2022-04-01T13:28:13.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘캔따개’ 인간이 떠나고 고양이는 집을 잃었네]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002585166</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002585166"/>
+        <updated>2022-04-01T13:27:31.077Z</updated>
+        <content type="html"><![CDATA[[한겨레S] 강유가람의 처음 만난 다큐 고양이들의 아파트 ☞한겨레S 뉴스레터 구독하기 https://bit.ly/319DiiE 서울 강동구 둔촌주공아파트는 단군 이래 최대 재건축 단지로 불렸다. 현재는 올림픽파크포레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인사하는 이선호 울주세계산악영화제 이사장]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013088080</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000022871"/>
         <updated>2022-04-01T09:06:18.601Z</updated>
         <content type="html"><![CDATA[“Hommage,” a film by director Shin Su-won, will have a special screening at the 23rd Jeonju International Film Festival]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마동석 '범죄도시2', 컴백 임박…만우절 포스터 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003589840</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003589840"/>
-        <updated>2022-04-01T09:06:18.606Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 김나라 기자] 대한민국 대표 범죄 액션 프랜차이즈 영화 '범죄도시'의 후속작 '범죄도시2'가 만우절 포스터를 공개, 재치 있는 컴백을 알렸다. '범죄도시2'는 4월 1일, 본격적인 컴백을 알리며 시선]]></content>
     </entry>
 </feed>
