@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-02T21:05:49.217Z</updated>
+    <updated>2022-04-02T22:06:06.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤여정, '파친코'로 제2의 '미나리' 이룰까 [N초점]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006005291</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006005291"/>
+        <updated>2022-04-02T22:05:24.789Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '미나리'(감독 정이삭)로 배우 윤여정은 새 역사를 썼다. 지난해 열린 제93회 아카데미 아카데미 시상식에서 그가 영화 '미나리'로 받은 여우조연상은 '한국 배우'가 최초로 받은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수위 낮추고 드라마 입었다…양지로 나온 게이 로맨스]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000535510</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003040870"/>
         <updated>2022-04-02T03:23:25.593Z</updated>
         <content type="html"><![CDATA[할리우드 스타 윌 스미스가 미국 영화예술과학아카데미(Academy of Motion Pictures Arts and Sciences) 회원 자격을 자진해서 사임했다. 아카데미 시상식에서 크리스 록의 뺨을 때린 일과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불도저에 탄 소녀', 불도저가 된 김혜윤 [마데핫리뷰]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003589978</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003589978"/>
-        <updated>2022-04-02T02:23:26.104Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] '불도저에 탄 소녀'는 처음부터 끝까지 불도저처럼 밀고 나가는 영화다. 거침없이 치고받으면서도 적당한 때에 멈춰 서는 강약 조절까지 갖췄다. 그 중심엔 배우 김혜윤이 있다. 불도저 바퀴]]></content>
     </entry>
 </feed>
