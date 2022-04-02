@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-02T10:06:24.784Z</updated>
+    <updated>2022-04-02T11:05:47.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마블 안티 히어로 '모비우스' 3일째 1위[MK박스오피스]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004943959</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004943959"/>
+        <updated>2022-04-02T11:04:29.184Z</updated>
+        <content type="html"><![CDATA[마블 안티 히어로 '모비우스'가 3일 연속 박스오피스 1위를 지켰다. 1일 영화진흥위원회 영화관입장권 통합전산망에 따르면 '모비우스'는 전날 4만492명의 관객을 끌어모아 박스오피스 정상을 차지했다. 누적관객수는 1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['개막 이틀째' 울주세계산악영화제서 14편 상영…행사도 다채(종합)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013088722</id>
@@ -150,7 +157,7 @@
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003589978</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003589978"/>
         <updated>2022-04-02T02:23:26.104Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] '불도저를 탄 소녀'는 처음부터 끝까지 불도저처럼 밀고 나가는 영화다. 거침없이 치고받으면서도 적당한 때에 멈춰 서는 강약 조절까지 갖췄다. 그 중심엔 배우 김혜윤이 있다. 불도저 바퀴]]></content>
+        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] '불도저에 탄 소녀'는 처음부터 끝까지 불도저처럼 밀고 나가는 영화다. 거침없이 치고받으면서도 적당한 때에 멈춰 서는 강약 조절까지 갖췄다. 그 중심엔 배우 김혜윤이 있다. 불도저 바퀴]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['시상식 폭행' 윌 스미스, 아카데미 회원 자진 반납…"변명 여지 없다"]]></title>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000535423"/>
         <updated>2022-04-02T02:23:26.112Z</updated>
         <content type="html"><![CDATA[[앵커] 아카데미 시상식에서 남우조연상을 수상한 트로이 코처, 청각장애 배우로서 수어로 감동적인 소감을 남겼는데요. 영화에 나오는 장애인을 실제 장애인 배우가 연기 하는 것, 어쩌면 당연한 건데, 최근에서야 주목받고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘폭행 논란’ 윌 스미스, 아카데미 회원 사퇴 “책임지겠다”]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000803344</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000803344"/>
-        <updated>2022-04-02T02:23:26.122Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 제94회 미국 아카데미시상식서 폭행 사건으로 물의를 빚은 할리우드 배우 윌 스미스가 아카데미상을 주관하는 미국 영화예술과학아카데미(AMPAS) 회원직에서 사퇴했다. 1일(현지시각) 현지 매체에 따르면]]></content>
     </entry>
 </feed>
