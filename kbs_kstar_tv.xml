@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 00:28:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 02:24:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['내일' 1회 리뷰 “스스로 삶을 포기하려는 사람들 살려”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=200760</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=200760</guid>
+            <pubDate>Sat, 02 Apr 2022 02:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=200760">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220402091148_86e456eed17cbec83e9b7218ad5964ee.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=200760">'내일' 1회 리뷰 “스스로 삶을 포기하려는 사람들 살려”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220402091148_86e456eed17cbec83e9b7218ad5964ee.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SBS '궁금한 이야기Y' 원룸에선 무슨 일이, 산 정상석은 누가?]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=200681</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=200024">'어게인 마이 라이프' 원작자 이해날 작가 "드라마화, 현실이 돼"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220330085317_e97d9fb436e995a77ee9ff61a18b7ce7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박군, ‘강철부대’ 스페셜 MC 깜짝 등장]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=200005</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=200005</guid>
-            <pubDate>Wed, 30 Mar 2022 00:25:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=200005">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220330082024_94b21f6b08e52bb8222f7b09082b1e1a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=200005">박군, ‘강철부대’ 스페셜 MC 깜짝 등장</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220330082024_94b21f6b08e52bb8222f7b09082b1e1a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
