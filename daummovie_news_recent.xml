@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-04-02T22:06:06.765Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 02 Apr 2022 23:06:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['배니싱' 유연석 "외국 감독, 글로벌 배우와의 호흡 호기심에서 시작한 작업" [인터뷰M]]]></title>
+            <link>https://v.daum.net/v/20220403080115138</link>
+            <guid>https://v.daum.net/v/20220403080115138</guid>
+            <pubDate>Sat, 02 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '배니싱: 미제사건'에서 전대미문 사건의 진실을 쫓는 엘리트 형사 ‘진호’를 맡아 한국어 뿐 아니라 영어, 불어 대사까지 소화해낸 유연석을 만났다. 영화 '배니싱: 미제사건'은 국내외 대표 필름메이커들이 총출동하여 공동 제작한 글로벌 프로젝트다. 칸 국제 영화제에서 ‘주목할 만한 시선’에 두 차례 노미네이트 되며 독보적인 연출력을 인정받은 드니 데]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F03%2FiMBC%2F20220403080117681xqno.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
