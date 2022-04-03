@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 21:06:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 22:06:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KBS 저녁 일일드라마 ‘으라차차 내 인생’ 환상의 조연들]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=200897</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=200897</guid>
+            <pubDate>Sun, 03 Apr 2022 22:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=200897">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220403113604_2192c91d612aab18813c4593ff158e59.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=200897">KBS 저녁 일일드라마 ‘으라차차 내 인생’ 환상의 조연들</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EC%9C%BC%EB%9D%BC%EC%B0%A8%EC%B0%A8%20%EB%82%B4%20%EC%9D%B8%EC%83%9D">일일연속극 으라차차 내 인생</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220403113604_2192c91d612aab18813c4593ff158e59.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[태종 이방원] 사상 초유 부자 간 전쟁... “태상왕 전하는 어디 계시냐!” 전장에서 마주한 이성계와 이방원]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=200961</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220403110606_00ca3eee16a0faaf24aeeaae2606372e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[태종 이방원] “나도 멈출 테니 부인도 제발 멈추시오” 눈물을 보이는 민씨에게 부탁하는 이방원]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=200869</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=200869</guid>
-            <pubDate>Sat, 02 Apr 2022 17:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=200869">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220403010838_bd0435151a01aef0a6f560c7b041080b_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=200869">[태종 이방원] “나도 멈출 테니 부인도 제발 멈추시오” 눈물을 보이는 민씨에게 부탁하는 이방원</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8C%80%ED%95%98%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%83%9C%EC%A2%85%20%EC%9D%B4%EB%B0%A9%EC%9B%90">대하드라마 태종 이방원</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220403010838_bd0435151a01aef0a6f560c7b041080b_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
