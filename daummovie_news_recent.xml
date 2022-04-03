@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-04-03T20:10:27.254Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 03 Apr 2022 21:06:14 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브루스 윌리스·짐 캐리 은퇴작도? 할리우드 톱배우들 영화 잇따라 개봉[SS무비]]]></title>
+            <link>https://v.daum.net/v/20220404060108575</link>
+            <guid>https://v.daum.net/v/20220404060108575</guid>
+            <pubDate>Sun, 03 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 황혜정기자] 베네딕트 컴버배치, 브루스 윌리스, 주드 로, 산드라 블록 등 내로라 하는 할리우드 톱배우들이 주연을 맡은 외화가 잇달아 극장가를 찾아온다. 가장 먼저 오는 6일 영화 ‘앰뷸런스’가 개봉한다. ‘트랜스포머’ 감독으로 유명한 할리우드 액션 영화의 거장 마이클 베이가 연출을 맡아 화제다. 배우 제이크 질렌할이 주연을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F04%2FSPORTSSEOUL%2F20220404060110019uqkb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['스텔라' 권수경 감독 "가족愛 이야기할 때 가장 기뻐"[SS인터뷰]]]></title>
+            <link>https://v.daum.net/v/20220404060104569</link>
+            <guid>https://v.daum.net/v/20220404060104569</guid>
+            <pubDate>Sun, 03 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 황혜정기자] “경상도 산골 집성촌에 대가족 사이에서 자라다 보니 알게 모르게 가족애를 섭취했다. 가족의 가치가 소중한 걸 배워 그 이야기를 할 때 가장 기쁜 것 같다.” 2006년 영화 ‘맨발의 기봉이’로 데뷔한 권수경 감독은 그간 가족애와 형제애를 주로 다뤘다. 배우 신현준, 김수미 주연의 ‘맨발의 기봉이’는 8살 지능에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F04%2FSPORTSSEOUL%2F20220404060106423ormu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
