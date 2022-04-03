@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-03T04:08:41.368Z</updated>
+    <updated>2022-04-03T05:06:55.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[송영애의 영화이야기] 방준석 음악감독을 보내며]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003682431</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003682431"/>
+        <updated>2022-04-03T05:06:13.483Z</updated>
+        <content type="html"><![CDATA[지난 3월26일 방준석 음악감독이 우리 곁을 떠났다. 방준석 감독이 남긴 영화 음악을 살펴보며, 추모의 마음을 전하고 싶다. KMDb(한국영화데이터베이스)에서 검색해보면 방준석 감독이 음악감독, 음악팀, 사운드팀 등]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위로 올라가기만 하던 삶이 옆으로 확장되었다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002347966</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011099514"/>
         <updated>2022-04-02T21:04:56.976Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스] 손정빈 기자 = 할리우드 슈퍼스타 브루스 윌리스(Bruce Willis·67)가 은퇴했다. 윌리스의 딸 루머 윌리스는 지난달 30일 소셜미디어를 통해 아버지 윌리스가 실어증 문제로 더이상 연기 활동을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우마 서먼·사무엘 잭슨, '펄프 픽션' 이후 28년 만에 재회…'더 킬 룸' 출연[Oh!llywood]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004583959</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004583959"/>
-        <updated>2022-04-02T15:05:29.621Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 배우 우마 서먼과 사무엘 L. 잭슨이 영화로 재회한다. 쿠엔틴 타란티노 감독의 ‘펄프 픽션’(1994) 이후 28년 만이다. 1일(현지 시간) 우마 서먼과 사무엘 L. 잭슨이 최신 프로젝트를]]></content>
     </entry>
 </feed>
