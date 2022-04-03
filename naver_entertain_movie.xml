@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-03T03:23:13.348Z</updated>
+    <updated>2022-04-03T04:08:41.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위로 올라가기만 하던 삶이 옆으로 확장되었다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002347966</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002347966"/>
+        <updated>2022-04-03T04:07:45.207Z</updated>
+        <content type="html"><![CDATA[[애플티비] &lt;파친코&gt; ▲ 애플티비 &lt;파친코&gt;포스터 ⓒ 애플티비 삶은 순간이라고, 종종 과거는 잊고 오늘을 살라고 하지만 그리 간단한 문제가 아니다. 원작 소설은 "역사가 우리를 망쳐 놨지만 그래도 상관없다"고 시작]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연쇄 방화가 만든 비극... 진짜 불잡이들의 분노]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002347963</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004583959"/>
         <updated>2022-04-02T15:05:29.621Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 배우 우마 서먼과 사무엘 L. 잭슨이 영화로 재회한다. 쿠엔틴 타란티노 감독의 ‘펄프 픽션’(1994) 이후 28년 만이다. 1일(현지 시간) 우마 서먼과 사무엘 L. 잭슨이 최신 프로젝트를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마블 안티 히어로 '모비우스' 3일째 1위[MK박스오피스]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004943959</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004943959"/>
-        <updated>2022-04-02T11:04:29.184Z</updated>
-        <content type="html"><![CDATA[마블 안티 히어로 '모비우스'가 3일 연속 박스오피스 1위를 지켰다. 1일 영화진흥위원회 영화관입장권 통합전산망에 따르면 '모비우스'는 전날 4만492명의 관객을 끌어모아 박스오피스 정상을 차지했다. 누적관객수는 1]]></content>
     </entry>
 </feed>
