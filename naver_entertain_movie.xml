@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-03T05:06:55.212Z</updated>
+    <updated>2022-04-03T06:10:51.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[D:인터뷰] 정우, 거칠게 끓어오른 '뜨거운 피']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002590864</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002590864"/>
+        <updated>2022-04-03T06:09:51.598Z</updated>
+        <content type="html"><![CDATA[[데일리안 = 류지윤 기자] 정우는 매번 작품 속 캐릭터를 치열하게 고민한다. 그 결과 실제 있을 법한 착각을 주며 러닝타임 안에 인물 안에 빠져들게 만든다. 그런 정우가 '뜨거운 피'를 자신만의 화법으로 '정우표]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[송영애의 영화이야기] 방준석 음악감독을 보내며]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003682431</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000535510"/>
         <updated>2022-04-02T21:04:56.974Z</updated>
         <content type="html"><![CDATA[[앵커] 남성 간의 로맨스를 다룬 이야기는 주로 웹소설 분야에서 인기였는데 이제는 드라마로 만들어져 인기를 얻고 있습니다. 음지를 벗어나 대중문화의 중심으로 올라선 비결이 뭘까요? 박효정 기자가 보도합니다. [기자]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[클로즈업 필름]땡큐, 브루스 윌리스…그를 추억하는 5편의 영화]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011099514</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011099514"/>
-        <updated>2022-04-02T21:04:56.976Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스] 손정빈 기자 = 할리우드 슈퍼스타 브루스 윌리스(Bruce Willis·67)가 은퇴했다. 윌리스의 딸 루머 윌리스는 지난달 30일 소셜미디어를 통해 아버지 윌리스가 실어증 문제로 더이상 연기 활동을]]></content>
     </entry>
 </feed>
