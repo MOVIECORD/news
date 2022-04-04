@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-04-04T17:15:58.901Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 04 Apr 2022 18:11:09 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["결말 보고 나도 '찡찡'.. 바꾸고 싶었지만 견뎌야 성장하죠"]]></title>
+            <link>https://v.daum.net/v/20220405030041734</link>
+            <guid>https://v.daum.net/v/20220405030041734</guid>
+            <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘씩씩하다’는 단어가 눈앞에 살아 숨 쉬고 있었다. 3일 종영한 tvN 토일 드라마 ‘스물다섯 스물하나’에서 주인공 나희도 역을 맡아 수많은 시청자를 ‘과몰입’하게 만든 배우 김태리(32)는 드라마 바깥에서도 여전히 생동감을 잃지 않고 있었다. 그의 말을 빌리면, “(이번 드라마는) 판타지 만화처럼 반짝반짝 빛나고 예쁘게 보이기만 했던 어린 시절을 지나 깨]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F05%2Fchosun%2F20220405030045296hdxs.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
