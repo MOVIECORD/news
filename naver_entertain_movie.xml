@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-04T15:10:28.537Z</updated>
+    <updated>2022-04-04T16:08:52.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[르완다 항소법원, '호텔 르완다' 주인공 25년형 유지]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013092380</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013092380"/>
+        <updated>2022-04-04T16:07:49.335Z</updated>
+        <content type="html"><![CDATA[(요하네스버그=연합뉴스) 김성진 특파원 = 르완다 항소법원이 4일(현지시간) 할리우드 영화 '호텔 르완다'의 실제 주인공인 폴 루세사바기나에게 25년 실형 선고를 그대로 유지했다고 로이터, AFP통신이 보도했다. 루]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러시아 ‘비운의 감독’ 재조명…원작·리메이크작 비교 섹션도]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000006103</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000281718"/>
         <updated>2022-04-04T08:11:40.050Z</updated>
         <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 할리우드 스타 브래드 피트가 영화 '로스트 시티'(감독 아론 니, 애덤 니)로 3년 만에 스크린에 컴백한다. '로스트 시티'는 전설의 트레저에 관한 유일한 단서를 알고 있는 베스트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공포의 멀티버스가 펼쳐진다…'닥터 스트레인지 2' 1차 스틸 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003627847</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003627847"/>
-        <updated>2022-04-04T08:11:40.051Z</updated>
-        <content type="html"><![CDATA[MCU(마블시네마틱유니버스)의 모든 것을 새롭게 정립할 영화 '닥터 스트레인지: 대혼돈의 멀티버스'가 강력한 캐릭터들의 매력과 마블의 극한 상상력으로 완성된 압도적 비주얼을 확인할 수 있는 1차 보도스틸을 공개했다.]]></content>
     </entry>
 </feed>
