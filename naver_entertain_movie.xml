@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-04T19:06:52.960Z</updated>
+    <updated>2022-04-04T20:07:27.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“밖에서 보면 처절한 농성장, 들어가 보니 놀라운 공동체”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002585436</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002585436"/>
+        <updated>2022-04-04T20:06:36.501Z</updated>
+        <content type="html"><![CDATA[“콜트·콜텍 해고노동자인 임재춘씨는 촛불문화제 때 ‘시 읽어주는 남자’를 맡았고, 이들이 출연한 연극 &lt;햄릿&gt;에서 오필리어 역할로 사람들의 웃음을 자아냈어요. 농성장에서 재춘씨는 인기가 많았어요. ‘기승전임재춘이다’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[르완다 항소법원, '호텔 르완다' 주인공 25년형 유지]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013092380</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013092087"/>
         <updated>2022-04-04T08:11:40.048Z</updated>
         <content type="html"><![CDATA[(울산=연합뉴스) 제7회 울주세계산악영화제 국제경쟁에 출품된 클로딘 보리스, 파트리스 샤냐르 감독의 '브데트'(Vedette) 한 장면. 2022.4.4 [울주세계산악영화제 제공. 재판매 및 DB 금지 hkm@yna.co.kr]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브래드 피트, 3년만에 스크린 컴백…'로스트 시티' 신스틸러로 활약]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000281718</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000281718"/>
-        <updated>2022-04-04T08:11:40.050Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 할리우드 스타 브래드 피트가 영화 '로스트 시티'(감독 아론 니, 애덤 니)로 3년 만에 스크린에 컴백한다. '로스트 시티'는 전설의 트레저에 관한 유일한 단서를 알고 있는 베스트]]></content>
     </entry>
 </feed>
