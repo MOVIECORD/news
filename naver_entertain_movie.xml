@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-05T12:12:43.587Z</updated>
+    <updated>2022-04-05T13:20:31.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘봄날’ 스크린, 손숙의 향기]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000804076</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000804076"/>
+        <updated>2022-04-05T13:19:48.454Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 배우 손숙이 영화 &lt;봄날&gt;에서 철부지 아들을 둔 엄마 ‘정님’ 역을 맡아 깊이 있는 모성 연기의 정수를 보여줄 것으로 기대를 모은다. 연기 경력만큼이나 깊은 연륜이 묻어나는 연기로 사랑받는 명배우 손숙]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황동혁 감독 "차기작 준비 중… '오징어 게임'보다 폭력적"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003683325</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006010747"/>
         <updated>2022-04-05T08:10:31.493Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 애니메이션 '수퍼 소닉2'(감독 제프 파울러)가 전 세계 11개국 박스오피스 1위를 기록했다. 5일 배급사 롯데엔터테인먼트에 따르면 '수퍼 소닉2'은 지난 주말 독일, 뉴질랜드, 노르]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['공기살인' 4월 22일 개봉 확정…코로나19 시국 맞춤 금요일 선택]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001430017</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001430017"/>
-        <updated>2022-04-05T08:10:31.494Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '공기살인'(감독 조용선)이 4월 22일 개봉을 확정했다. '공기살인'은 봄이 되면 나타났다 여름이 되면 사라지는 죽음의 병, 공기를 타고 대한민국에 죽음을 몰고 온 살인무기의 실체]]></content>
     </entry>
 </feed>
