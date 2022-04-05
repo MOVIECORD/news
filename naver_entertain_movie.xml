@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-05T15:06:45.296Z</updated>
+    <updated>2022-04-05T16:09:23.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이원 기자의 영화 人 a view] ‘뜨거운 피’ 천명관 감독]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000006226</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000006226"/>
+        <updated>2022-04-05T16:08:26.023Z</updated>
+        <content type="html"><![CDATA[- 젊은 시절 영화 연출 도전 위해 - 직장 관두고 충무로서 잡일도 - 이후 ‘고래’로 입상해 작가의 길 - “원작 영화화하게 된 김언수 작가 - 내게 연출 제안해 오랜 꿈 이뤄” - 부산 밑바닥 건달들 생존기 그려]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대쪽 검사와 불도저 공작원의 공조…영화 '야차']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013095160</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000047021"/>
         <updated>2022-04-05T09:06:07.453Z</updated>
         <content type="html"><![CDATA[초심자의 감흥이란 그 자체로 얼마나 귀한지. 일본영화에서 수화와 외국어, 영화와 희곡 사이를 오가는 독특한 꿈의 실험을 마친 한국의 신인배우 3인에게 지난 2년간 들이닥친 새로운 경험을 전부 다 소화시키기도 전에,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해외로 향한 한국 배우들의 다이어리]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000047020</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000047020"/>
-        <updated>2022-04-05T09:06:07.456Z</updated>
-        <content type="html"><![CDATA[요즘 한국 배우들은 그 어느 때보다도 글로벌 무대를 가깝게 체감하고 있다. &lt;기생충&gt;이 1밀리미터쯤 낮춘 1인치의 장벽을 타넘고 K콘텐츠에 친밀도를 높여가는 글로벌 관객이 증가하는 이때, 대세를 발빠르게 캐치한 할리]]></content>
     </entry>
 </feed>
