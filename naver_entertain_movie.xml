@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-05T14:06:13.198Z</updated>
+    <updated>2022-04-05T15:06:45.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대쪽 검사와 불도저 공작원의 공조…영화 '야차']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013095160</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013095160"/>
+        <updated>2022-04-05T15:06:04.934Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 오보람 기자 = '개천 용' 지훈(박해수 분)은 법과 원칙을 지키는 게 정의라고 믿는 검사다. 제아무리 대단한 권력가라도 불법을 저지르면 곧바로 소환해 수사하고 마는 대쪽 같은 성품을 지녔다. 반면]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘행복의 하나로’ 제20회 피렌체 한국영화제 개막작 [공식]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000971484</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000047020"/>
         <updated>2022-04-05T09:06:07.456Z</updated>
         <content type="html"><![CDATA[요즘 한국 배우들은 그 어느 때보다도 글로벌 무대를 가깝게 체감하고 있다. &lt;기생충&gt;이 1밀리미터쯤 낮춘 1인치의 장벽을 타넘고 K콘텐츠에 친밀도를 높여가는 글로벌 관객이 증가하는 이때, 대세를 발빠르게 캐치한 할리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日 영화감독 소노 시온, 작품 출연 빌미로 성폭력 [DA:재팬]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000971356</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000971356"/>
-        <updated>2022-04-05T09:06:07.457Z</updated>
-        <content type="html"><![CDATA[일본의 유명 영화감독 소노 시온(61)이 여배우들에게 성폭력을 가했다는 논란이 불거졌다. 지난 4일 일본 매체 주간여성 프라임 측은 소노 시온이 그동안 여배우들에게 자신의 영화에 출연을 빌미로 성행위를 강요해왔다고]]></content>
     </entry>
 </feed>
