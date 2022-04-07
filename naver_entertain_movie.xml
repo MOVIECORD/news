@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-07T19:06:16.583Z</updated>
+    <updated>2022-04-07T20:06:19.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[폭탄 맞은 오프라인 콘텐츠…영화관 매출 3년새 75%↓]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011110320</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011110320"/>
+        <updated>2022-04-07T20:05:26.533Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 한국문화관광연구원, '콘텐츠 소비 동향' 분석 [서울=뉴시스] 박주연 기자 = 코로나19 펜데믹으로 영화상영관·음반 테이프·서적·노래연습장·비디오감상실·전자오락실·PC게임방 등 오프라인 소비가 급감했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[새영화]질주 액션·히어로물 보며 스트레스 ‘훌훌']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000890405</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000281865"/>
         <updated>2022-04-07T10:06:18.405Z</updated>
         <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 할리우드 배우 에즈라 밀러가 최근 잇단 구설로 데뷔 이래 최고의 위기를 맞았다. 워너브라더스와 DC 필름즈는 최근 에즈라 밀러 주연의 DC 확장 유니버스(DCEU) 영화 '더 플래]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5년 만에 개봉하는 '니 부모'... 학폭 가해자 입장 그린다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002348567</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002348567"/>
-        <updated>2022-04-07T10:06:18.406Z</updated>
-        <content type="html"><![CDATA[[현장] 영화 &lt;니 부모 얼굴이 보고 싶다&gt; 온라인 제작보고회 학교폭력 가해자의 시선으로 그려낸 설경구, 천우희, 고창석 주연의 영화 &lt;니 부모 얼굴이 보고 싶다&gt;가 오는 27일 개봉한다. 7일 오전 영화 &lt;니 부모]]></content>
     </entry>
 </feed>
