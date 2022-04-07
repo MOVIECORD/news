@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-07T10:06:58.991Z</updated>
+    <updated>2022-04-07T11:05:23.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전도연, '길복순' 촬영 중 부상 "진단 결과 이상 無"[공식입장]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003042723</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003042723"/>
+        <updated>2022-04-07T11:04:10.861Z</updated>
+        <content type="html"><![CDATA[배우 전도연이 영화 '길복순' 촬영 중 부상을 당했다. 7일 전도연 소속사 매니지먼트 숲은 스타뉴스에 "전도연 배우는 현장 응급조치와 더불어 사고 직후 바로 병원으로 이동해 치료와 정밀 진단을 받았고 이상 소견은 없]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Y리뷰] '신비한 동물들과 덤블도어의 비밀' 최고의 대타, 아쉬운 전개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=052&amp;aid=0001723436</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003548921"/>
         <updated>2022-04-07T08:10:38.225Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=이미지 기자] '범죄도시2'가 베일에 싸여있던 최강 빌런의 실체를 드디어 공개했다. 영화 '범죄도시2'는 괴물형사 ‘마석도’(마동석)와 금천서 강력반이 베트남 일대를 장악한 최강 빌런 ‘강해상’(손석구]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["코미디 대가 컴백"…정준호 '어부바', 5월 극장 개봉[공식]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004587095</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004587095"/>
-        <updated>2022-04-07T08:10:38.225Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 유쾌한 혈육 코미디 '어부바'가 가정의 달 5월 극장 개봉을 앞두고 캐릭터 예고편을 공개했다. '어부바'(감독 최종학, 제작 글로빅엔터테인먼트, 공동제작 HAK프로덕션, 배급 트리플픽쳐스)는]]></content>
     </entry>
 </feed>
