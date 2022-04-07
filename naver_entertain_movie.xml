@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-07T20:06:19.046Z</updated>
+    <updated>2022-04-07T21:05:43.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[클로즈업 OTT]내 안의 야수성과 위대한 연기]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011110350</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011110350"/>
+        <updated>2022-04-07T21:05:01.466Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 손정빈 기자 = 뉴시스는 넷플릭스·왓챠·웨이브·디즈니+·티빙 등 온라인 스트리밍 플랫폼에서 절대 놓쳐서는 안 될 수준 높은 드라마·영화·다큐멘터리 등을 매주 2편씩 소개한다. 4월 두 번째 주엔 디즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폭탄 맞은 오프라인 콘텐츠…영화관 매출 3년새 75%↓]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011110320</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000560272"/>
         <updated>2022-04-07T10:06:18.398Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 영화 '신비한 동물들과 덤블도어의 비밀'의 개봉을 기념해 ‘해리 포터’의 그래픽디자인 및 콘셉트 아트를 담당한 스튜디오 미나리마와 워너브러더스 컨슈머 프로덕트가 새로운 그래픽아트를 전시한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['술집 난동' 에즈라 밀러, 워너 퇴출각?…"모든 프로젝트 전면 중단"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000281865</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000281865"/>
-        <updated>2022-04-07T10:06:18.405Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 할리우드 배우 에즈라 밀러가 최근 잇단 구설로 데뷔 이래 최고의 위기를 맞았다. 워너브라더스와 DC 필름즈는 최근 에즈라 밀러 주연의 DC 확장 유니버스(DCEU) 영화 '더 플래]]></content>
     </entry>
 </feed>
