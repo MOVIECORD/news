@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-07T15:06:31.880Z</updated>
+    <updated>2022-04-07T16:10:34.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[새영화]질주 액션·히어로물 보며 스트레스 ‘훌훌']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000890405</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000890405"/>
+        <updated>2022-04-07T16:09:38.033Z</updated>
+        <content type="html"><![CDATA[불도저에 탄 소녀 유일한 삶의 터전 남에게 빼앗겨 모든 일 의문 품고 사건 되짚어 앰뷸런스 인생역전 위한 범죄 설계 불구 뜻하지 않게 경찰과 함께 질주 수퍼 소닉2 천재악당 신비의 에메랄드 차지 세상 지배 야망 꿈꾸]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 정우 "한여름에 겨울 신 촬영, 해내야겠다는 생각뿐"②]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000142246</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002348567"/>
         <updated>2022-04-07T10:06:18.406Z</updated>
         <content type="html"><![CDATA[[현장] 영화 &lt;니 부모 얼굴이 보고 싶다&gt; 온라인 제작보고회 학교폭력 가해자의 시선으로 그려낸 설경구, 천우희, 고창석 주연의 영화 &lt;니 부모 얼굴이 보고 싶다&gt;가 오는 27일 개봉한다. 7일 오전 영화 &lt;니 부모]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현장EN:]학교폭력의 뻔뻔한 민낯 '니 부모 얼굴이 보고 싶다']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003629404</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003629404"/>
-        <updated>2022-04-07T10:06:18.411Z</updated>
-        <content type="html"><![CDATA[2012년부터 지금까지 꾸준한 관심을 받으며 학교 폭력 문제에 경종을 울린 동명 연극을 바탕으로 한 영화 '니 부모 얼굴이 보고 싶다'가 5년 만에 관객들과 만난다. 오는 27일 개봉하는 영화 '니 부모 얼굴이 보고]]></content>
     </entry>
 </feed>
