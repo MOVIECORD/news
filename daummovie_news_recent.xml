@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-04-09T20:07:45.969Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 09 Apr 2022 21:06:12 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[칸영화제 14일 초청작 발표..박찬욱→'감독' 이정재 이름 올릴까 [N초점]]]></title>
+            <link>https://v.daum.net/v/20220410060016892</link>
+            <guid>https://v.daum.net/v/20220410060016892</guid>
+            <pubDate>Sat, 09 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 약 한달 앞으로 다가온 제75회 칸 국제영화제에서 또 한 번 한국영화가 낭보를 전할 수 있을지 벌써부터 많은 관심이 쏠리고 있다. 칸 영화제는 오는 14일(현지시간) 공식 초청작을 발표한다. 이에 어떤 작품이 칸 영화제의 부름을 받을 수 있을지도 영화계 안팎의 관심이 집중되고 있다. 제75회 칸 국제영화제는 오는 5월1]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2FNEWS1%2F20220410060018027uqql.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[김동휘·남현우·이홍내·최현욱, 눈여겨볼 라이징 스타[Oh!쎈 레터]]]></title>
+            <link>https://v.daum.net/v/20220410055637836</link>
+            <guid>https://v.daum.net/v/20220410055637836</guid>
+            <pubDate>Sat, 09 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자] 매년 스크린과 브라운관에서 새로운 작품들이 쏟아져 나온다. 과거에도 그랬고 앞으로도 그럴 것이다. 이제는 OTT 플랫폼도 추가됐다. 작품의 참신함과 신선도를 유지할 수 있는 일등공신은 역시나 자신만의 색깔로 중무장한 신인 배우들이다. 여기 ‘꽃길’을 기대해도 좋을, 잠재력이 많은, 라이징 스타들이 대중의 눈길을 사로잡고 있다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2Fpoctan%2F20220410055638190iitu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
