@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-09T22:09:08.653Z</updated>
+    <updated>2022-04-09T23:07:35.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스텔라' 권수경 감독 "전국을 수배해 구한 2대의 차량, 잘 버텨줘서 고마워" [인터뷰M]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000151202</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000151202"/>
+        <updated>2022-04-09T23:06:45.294Z</updated>
+        <content type="html"><![CDATA['맨발의 기봉이'부터 '형'까지 유쾌함과 따뜻함을 모두 갖춘 코미디 영화들을 선보여온 권수경 감독이 신작을 내놨다. '형' 이후 6년 만에 내놓는 '스텔라'에서 권수경 감독은 막다른 인생 제대로 한 번 달려본 적 없]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[집중 인터뷰]"한화이글스 리빌딩 그 속에 인간군상 담았죠"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011112755</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006018233"/>
         <updated>2022-04-09T02:17:46.798Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 황미현 기자 = 영화 '앰뷸런스'가 사흘째 박스오피스 1위를 수성했다. 9일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 '앰뷸런스'는 지난 8일 1만2338명의 관객을 동원, 누적 관객수 4]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봄 한국영화 쏟아지지만, 기대작은 여전히 실종]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000536547</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000536547"/>
-        <updated>2022-04-09T02:17:46.799Z</updated>
-        <content type="html"><![CDATA[[앵커] 봄을 맞은 극장가엔 한국영화 개봉소식이 들리는데요, 영화 관람 심리를 살려낼 대작 한국영화는 여전히 소식이 없어 중소형 영화들이 할리우드 블록버스터에 맞서야 하는 상황입니다. 박효정 기자가 보도합니다. [기]]></content>
     </entry>
 </feed>
