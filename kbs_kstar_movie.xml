@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 03:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 04:07:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초자연 스릴러  '괴이'  아비규환의 드라마]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=201988</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=201988</guid>
+            <pubDate>Sun, 10 Apr 2022 04:04:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=201988">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220410090059_81b791f60e4b93fd19dcae719d8c3172_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201988">초자연 스릴러  '괴이'  아비규환의 드라마 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220410090059_81b791f60e4b93fd19dcae719d8c3172_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] '신동사' 압도하는 매즈 미켈슨의 매력 (신비한 동물들과 덤블도어의 비밀)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=201768</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201195">'파친코' 윤여정의 오열 '선자, 그곳으로 돌아오다'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220405081608_fbcdc6c97aa243672bee6a64996bad25_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울에서 만나는 베니스영화제 걸작들 '2022 베니스 인 서울' 오늘 개막]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=201190</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=201190</guid>
-            <pubDate>Tue, 05 Apr 2022 06:08:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=201190">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220405080956_b3fcceb715402b67e16d42baaf652da5.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201190">서울에서 만나는 베니스영화제 걸작들 '2022 베니스 인 서울' 오늘 개막</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220405080956_b3fcceb715402b67e16d42baaf652da5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
