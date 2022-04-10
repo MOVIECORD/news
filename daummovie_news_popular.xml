@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 05:06:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 06:10:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2FiMBC%2F20220410080154864jrlf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[흥행 실패에도 재조명, '8가지 규칙'에 답 있다]]></title>
+            <link>https://movie.v.daum.net/v/20220410090900465</link>
+            <guid>https://movie.v.daum.net/v/20220410090900465</guid>
+            <pubDate>Sun, 10 Apr 2022 03:24:38 GMT</pubDate>
+            <content:encoded><![CDATA[[양형석 기자] 복싱이나 입식격투기에서는 상대가 쓰러지면 더 이상 공격을 하면 안 되지만 종합격투기에서는 심판이 말릴 때까지 쓰러진 상대에게도 공격을 할 수 있다. 그래서 가끔은 이미 스탠딩 타격으로 의식을 잃고 쓰러진 상대에게 '확인사살'에 가까운 추가타격이 들어가면서 보기 아찔한 잔인한 장면이 연출되기도 한다. 심판이 말리기 전까진 최선을 다하는 것이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2Fohmynews%2F20220410090901868pjgh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[겉만 번지르르한 복지체계에 직면한 장애인의 애환]]></title>
             <link>https://movie.v.daum.net/v/20220410111812663</link>
             <guid>https://movie.v.daum.net/v/20220410111812663</guid>
@@ -56,14 +64,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2FNEWS1%2F20220410060018027uqql.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['수퍼 소닉2' 첫 1위 등극..'모비우스' 40만 돌파 [Nbox]]]></title>
-            <link>https://movie.v.daum.net/v/20220410091138499</link>
-            <guid>https://movie.v.daum.net/v/20220410091138499</guid>
-            <pubDate>Sun, 10 Apr 2022 00:28:06 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 영화 '수퍼 소닉2'가 박스오피스 1위로 올라섰다. 10일 영화진흥위원회 영화관 입장권 통합전산망 집계에 따르면 '수퍼 소닉2'는 지난 9일 하루동안 5만3824명의 관객을 동원해 박스오피스 1위를 차지했다. 누적관객수는 8만1802명이다. 지난 6일 개봉한 '수퍼 소닉2'는 개봉 첫날 2위로 시작한 가운데, 이날 5만명]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2FNEWS1%2F20220410091140072cljj.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[끝나지 않은 대규모 비극의 기억을 위하여..영화 '공기살인']]></title>
             <link>https://movie.v.daum.net/v/20220410132006953</link>
             <guid>https://movie.v.daum.net/v/20220410132006953</guid>
@@ -72,12 +72,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2Fyonhap%2F20220410132006475bmdi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[흥행 실패에도 재조명, '8가지 규칙'에 답 있다]]></title>
-            <link>https://movie.v.daum.net/v/20220410090900465</link>
-            <guid>https://movie.v.daum.net/v/20220410090900465</guid>
+            <title><![CDATA['수퍼 소닉2' 첫 1위 등극..'모비우스' 40만 돌파 [Nbox]]]></title>
+            <link>https://movie.v.daum.net/v/20220410091138499</link>
+            <guid>https://movie.v.daum.net/v/20220410091138499</guid>
+            <pubDate>Sun, 10 Apr 2022 00:28:06 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 영화 '수퍼 소닉2'가 박스오피스 1위로 올라섰다. 10일 영화진흥위원회 영화관 입장권 통합전산망 집계에 따르면 '수퍼 소닉2'는 지난 9일 하루동안 5만3824명의 관객을 동원해 박스오피스 1위를 차지했다. 누적관객수는 8만1802명이다. 지난 6일 개봉한 '수퍼 소닉2'는 개봉 첫날 2위로 시작한 가운데, 이날 5만명]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2FNEWS1%2F20220410091140072cljj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[역사에 기록되지 못한 흑인들의 축제, 놀라운 점은]]></title>
+            <link>https://movie.v.daum.net/v/20220410095400172</link>
+            <guid>https://movie.v.daum.net/v/20220410095400172</guid>
             <pubDate>Sun, 10 Apr 2022 03:24:38 GMT</pubDate>
-            <content:encoded><![CDATA[[양형석 기자] 복싱이나 입식격투기에서는 상대가 쓰러지면 더 이상 공격을 하면 안 되지만 종합격투기에서는 심판이 말릴 때까지 쓰러진 상대에게도 공격을 할 수 있다. 그래서 가끔은 이미 스탠딩 타격으로 의식을 잃고 쓰러진 상대에게 '확인사살'에 가까운 추가타격이 들어가면서 보기 아찔한 잔인한 장면이 연출되기도 한다. 심판이 말리기 전까진 최선을 다하는 것이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2Fohmynews%2F20220410090901868pjgh.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[김준모 기자] &nbsp;        ▲ &nbsp;&lt;축제의 여름&gt; 포스터    ⓒ 디즈니플러스  &nbsp; 문화가 지닌 파급력은 상당하다. 최근 미국 문화계에서는 블랙무비가 유행하고 있는데, 백인이 기록한 역사에 가려진 흑인의 역사를 재발견하자는 움직임이 그것이다. 제94회 아카데미 시상식 다큐멘터리상을 수상한 &lt;축제의 여름&gt;은 인류 최초의 달 착륙과 우드스탁 페스티벌 개최로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2Fohmynews%2F20220410095405511vpjz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['스텔라' 권수경 감독 "코미디에도 메시지 담아야 해, 항상 감동 주려 한다" [인터뷰M]]]></title>
@@ -88,12 +96,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2FiMBC%2F20220410120155083rstd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[역사에 기록되지 못한 흑인들의 축제, 놀라운 점은]]></title>
-            <link>https://movie.v.daum.net/v/20220410095400172</link>
-            <guid>https://movie.v.daum.net/v/20220410095400172</guid>
-            <pubDate>Sun, 10 Apr 2022 03:24:38 GMT</pubDate>
-            <content:encoded><![CDATA[[김준모 기자] &nbsp;        ▲ &nbsp;&lt;축제의 여름&gt; 포스터    ⓒ 디즈니플러스  &nbsp; 문화가 지닌 파급력은 상당하다. 최근 미국 문화계에서는 블랙무비가 유행하고 있는데, 백인이 기록한 역사에 가려진 흑인의 역사를 재발견하자는 움직임이 그것이다. 제94회 아카데미 시상식 다큐멘터리상을 수상한 &lt;축제의 여름&gt;은 인류 최초의 달 착륙과 우드스탁 페스티벌 개최로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2Fohmynews%2F20220410095405511vpjz.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['수퍼 소닉2' 주말 맞이 첫 1위[박스오피스]]]></title>
+            <link>https://movie.v.daum.net/v/20220410081623772</link>
+            <guid>https://movie.v.daum.net/v/20220410081623772</guid>
+            <pubDate>Sun, 10 Apr 2022 00:28:06 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '수퍼 소닉2'가 주말을 맞아 박스오피스 1위에 올랐다. 4월 10일 영화진흥위원회 통합전산망 집계에 따르면 9일 영화 '수퍼 소닉2'가 5만3,824명을 모아 박스오피스 정상을 차지했다. 누적 관객 8만1,802명이다. 같은 날 2위는 '모비우스'로 2만6,955명을 모아 누적 40만1,927명을 기록했고, 3위는 '앰뷸런스'로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2Fnewsen%2F20220410081624013geep.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['신비한 동물들과 덤블도어의 비밀'-'말임씨를 부탁해' [강추비추]]]></title>
@@ -112,36 +120,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2Fpoctan%2F20220410055638190iitu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['수퍼 소닉2' 주말 맞이 첫 1위[박스오피스]]]></title>
-            <link>https://movie.v.daum.net/v/20220410081623772</link>
-            <guid>https://movie.v.daum.net/v/20220410081623772</guid>
-            <pubDate>Sun, 10 Apr 2022 00:28:06 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '수퍼 소닉2'가 주말을 맞아 박스오피스 1위에 올랐다. 4월 10일 영화진흥위원회 통합전산망 집계에 따르면 9일 영화 '수퍼 소닉2'가 5만3,824명을 모아 박스오피스 정상을 차지했다. 누적 관객 8만1,802명이다. 같은 날 2위는 '모비우스'로 2만6,955명을 모아 누적 40만1,927명을 기록했고, 3위는 '앰뷸런스'로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2Fnewsen%2F20220410081624013geep.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['공기살인' 서영희 눈물.."피해자 흉내만 낸 것 같아 죄송"]]></title>
             <link>https://movie.v.daum.net/v/20220409060003953</link>
             <guid>https://movie.v.daum.net/v/20220409060003953</guid>
             <pubDate>Sun, 10 Apr 2022 03:24:38 GMT</pubDate>
             <content:encoded><![CDATA[조용선 감독 "다시는 이런 영화가 나오지 않기를" [더팩트ㅣ이한림 기자] 배우 서영희가 영화 '공기살인' 시사회 현장에서 눈물을 보였다. 서영희는 8일 오후 서울 용산구 CGV용산아이파크몰에서 열린 영화 '공기살인' 언론배급 시사회 및 기자간담회에 참석해 영화를 본 소감과 연기에 대한 진심을 전했다. '공기살인'은 봄이 되면 나타났다가 여름이 되면 사]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F09%2FTHEFACT%2F20220409060007030gkqx.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[더보이즈 주학년, '서울괴담'으로 첫 스크린 데뷔..27일 개봉]]></title>
-            <link>https://movie.v.daum.net/v/20220409095023313</link>
-            <guid>https://movie.v.daum.net/v/20220409095023313</guid>
-            <pubDate>Sat, 09 Apr 2022 02:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 더보이즈(THE BOYZ) 멤버 주학년이 영화 ‘서울괴담’에 출연한다. 지난 8일 ‘서울괴담’ 측은 오는 27일 개봉을 앞두고 메인 예고편을 최초 공개했다. 서울에서 벌어지는 괴이하고 기이한 이야기를 다룬 ‘서울괴담’은 복수, 욕망, 저주에서 시작된 죽음보다 더한 공포를 선사하는 괴이한 이야기들을 다루고 있는 영화로 기대를 모으고 있는 신작이다. 메인]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F09%2Fdailian%2F20220409095026250jaty.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA["사이코패스의 평범성"..영화 '추격자' 슈퍼 아줌마, 민폐 캐릭터 아닌 이유]]></title>
-            <link>https://movie.v.daum.net/v/20220408171630006</link>
-            <guid>https://movie.v.daum.net/v/20220408171630006</guid>
-            <pubDate>Sat, 09 Apr 2022 20:07:21 GMT</pubDate>
-            <content:encoded><![CDATA[유튜브 캡처  &nbsp; 영화 ‘추격자’에서 살인자에 피해자의 위치를 알려주는 민폐 캐릭터로 등장한 슈퍼 아주머니와 관련 범죄 심리학자 박지선 교수가 새로운 해석을 내놨다. 지난 6일 유튜브 채널 ‘그것이 알고싶다‘에 공개된 ‘지선씨네마인드’ 첫 회에서는 2008년 개봉한 영화 ‘추격자’에 대해 다뤘다. ‘추격자’는 성매매 여성들만 골라 목숨을 해치는 사이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F08%2Fsegye%2F20220408171630723yohu.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[K첩보물 '야차', '베를린'·'강철비'와 어떻게 다를까]]></title>
@@ -152,6 +136,22 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F09%2Fhankooki%2F20220409102602609npxr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA["사이코패스의 평범성"..영화 '추격자' 슈퍼 아줌마, 민폐 캐릭터 아닌 이유]]></title>
+            <link>https://movie.v.daum.net/v/20220408171630006</link>
+            <guid>https://movie.v.daum.net/v/20220408171630006</guid>
+            <pubDate>Sat, 09 Apr 2022 20:07:21 GMT</pubDate>
+            <content:encoded><![CDATA[유튜브 캡처  &nbsp; 영화 ‘추격자’에서 살인자에 피해자의 위치를 알려주는 민폐 캐릭터로 등장한 슈퍼 아주머니와 관련 범죄 심리학자 박지선 교수가 새로운 해석을 내놨다. 지난 6일 유튜브 채널 ‘그것이 알고싶다‘에 공개된 ‘지선씨네마인드’ 첫 회에서는 2008년 개봉한 영화 ‘추격자’에 대해 다뤘다. ‘추격자’는 성매매 여성들만 골라 목숨을 해치는 사이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F08%2Fsegye%2F20220408171630723yohu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[더보이즈 주학년, '서울괴담'으로 첫 스크린 데뷔..27일 개봉]]></title>
+            <link>https://movie.v.daum.net/v/20220409095023313</link>
+            <guid>https://movie.v.daum.net/v/20220409095023313</guid>
+            <pubDate>Sat, 09 Apr 2022 02:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 더보이즈(THE BOYZ) 멤버 주학년이 영화 ‘서울괴담’에 출연한다. 지난 8일 ‘서울괴담’ 측은 오는 27일 개봉을 앞두고 메인 예고편을 최초 공개했다. 서울에서 벌어지는 괴이하고 기이한 이야기를 다룬 ‘서울괴담’은 복수, 욕망, 저주에서 시작된 죽음보다 더한 공포를 선사하는 괴이한 이야기들을 다루고 있는 영화로 기대를 모으고 있는 신작이다. 메인]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F09%2Fdailian%2F20220409095026250jaty.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[김선호, 태국서 영화 촬영 근황..전도연, 촬영 중 부상 [위클리무비]]]></title>
             <link>https://movie.v.daum.net/v/20220409100000418</link>
             <guid>https://movie.v.daum.net/v/20220409100000418</guid>
@@ -160,12 +160,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F09%2Fstarnews%2F20220409100002057ghoe.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['배니싱' 유연석X박소이, 사랑스러운 삼촌과 조카..짝꿍 케미]]></title>
-            <link>https://movie.v.daum.net/v/20220410090201369</link>
-            <guid>https://movie.v.daum.net/v/20220410090201369</guid>
-            <pubDate>Sun, 10 Apr 2022 05:06:01 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='배니싱 : 미제사건' 영화 '배니싱: 미제사건'이 대세 배우 유연석과 박소이의 사랑스러운 매력을 담은 짝꿍 케미 스틸을 공개했다. '배니싱 : 미제사건'은 대한민국을 발칵 뒤집은 신원 미상의 변사체가 발견되고, 사건을 담당하게 된 형사 '진호'(유연석 분)와 국제 법의학자 '알리스'(올가 쿠릴렌코 분)의 공조 수사로 충]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2Fstarnews%2F20220410090202838isbl.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA["이정재 왔다" 伊 피렌체가 들썩들썩]]></title>
+            <link>https://movie.v.daum.net/v/20220410081541765</link>
+            <guid>https://movie.v.daum.net/v/20220410081541765</guid>
+            <pubDate>Sun, 10 Apr 2022 06:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 배우 이정재가 유럽까지 사로잡았다. 이정재는 7일(현지시각) 개막한 제20회 피렌체 한국 영화제에 특별 게스트로 참석했다. 피렌체 한국영화제는 다양한 한국 영화를 이탈리아에 소개하는 영화제로, 한국과 이탈리아의 문화 교류 장을 만들어 온 의미 있는 영화제다. 8일 이정재는 현지 매체들과 기자회견을 진행했다. 현지 매체들은 이탈리]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F10%2Fsportskhan%2F20220410081543376csww.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>

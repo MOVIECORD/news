@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-10T05:06:22.742Z</updated>
+    <updated>2022-04-10T06:10:11.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['캡틴 마블' 브리 라슨, '분노의 질주10' 합류...빈 디젤 "환영해"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=052&amp;aid=0001724448</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=052&amp;aid=0001724448"/>
+        <updated>2022-04-10T06:09:31.326Z</updated>
+        <content type="html"><![CDATA[할리우드 배우 브리 라슨이 '분노의 질주' 시리즈에 합류한다. 9일(현지 시각) '분노의 질주' 시리즈의 주연 배우 빈 디젤은 자신의 SNS 계정에 브리 라슨과의 다정한 모습을 찍은 사진을 게재하며 "내 어깨에서 웃]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[끝나지 않은 대규모 비극의 기억을 위하여…영화 '공기살인']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013103639</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003549449"/>
         <updated>2022-04-09T13:17:16.843Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=이미지 기자] '소설가의 영화'의 메인 예고편이 공개됐다. 홍상수 감독의 27번째 장편 영화 '소설가의 영화'는 흑백 영화로 소설가 ‘준희’ 역을 맡은 이혜영이 잠적한 후배의 책방으로 먼 길을 찾아가고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['앵커' 천우희X이혜영, 엄마와 딸로 조우..긴장감 팽팽 모녀 갈등 스틸]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003549447</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003549447"/>
-        <updated>2022-04-09T13:17:16.844Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] '앵커' 천우희, 이혜영의 모녀 갈등 스틸이 공개됐다. 영화 '앵커'는 방송국 간판 앵커 세라에게 누군가 자신을 죽일 것이라며 직접 취재해 달라는 제보 전화가 걸려온 후, 그녀에게 벌어지]]></content>
     </entry>
 </feed>
