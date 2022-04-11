@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 04:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 05:06:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[친구와 손절할 타이밍은 언제일까...이수근 "그렇게 행동하는 게 친구냐"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=202154</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202154</guid>
+            <pubDate>Mon, 11 Apr 2022 05:05:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202154">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411133023_d7b3ca6cab8989174a6b1efb834812c6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202154">친구와 손절할 타이밍은 언제일까...이수근 "그렇게 행동하는 게 친구냐"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AC%B4%EC%97%87%EC%9D%B4%EB%93%A0%20%EB%AC%BC%EC%96%B4%EB%B3%B4%EC%82%B4">무엇이든 물어보살</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411133023_d7b3ca6cab8989174a6b1efb834812c6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 대세 라이징스타 채종협 "'너가속' 박태준, 진지하고 때로는 귀여운 구석도 많다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=202135</link>
@@ -348,23 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8C%80%ED%95%98%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%83%9C%EC%A2%85%20%EC%9D%B4%EB%B0%A9%EC%9B%90">대하드라마 태종 이방원</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220410124818_bb9fd1883c4f0f3699077b6144c68bd2_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘우리들의 블루스’ 제주 감성 품은 힐링 드라마]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=201983</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=201983</guid>
-            <pubDate>Sun, 10 Apr 2022 00:27:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=201983">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220410085318_4899139d51d681f007846e21d052afc5.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201983"> ‘우리들의 블루스’ 제주 감성 품은 힐링 드라마  </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220410085318_4899139d51d681f007846e21d052afc5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
