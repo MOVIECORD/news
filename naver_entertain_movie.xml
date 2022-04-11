@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-11T15:07:03.941Z</updated>
+    <updated>2022-04-11T16:10:24.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부산 아시아영화학교 아카데미교육생 모집]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000006723</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000006723"/>
+        <updated>2022-04-11T16:09:27.603Z</updated>
+        <content type="html"><![CDATA[부산영상위원회가 운영하는 부산아시아영화학교(AFiS)가 올해 부산영상아카데미 교육생을 모집한다. 이달 ‘맞춤형 영화·영상 전문인력 양성 교육’ 프로그램 중 ‘기획·제작’과 ‘영화음악’ 과정부터 진행한다. 기획·제작]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['앵커' 천우희 "9년차 앵커로 변신…압박감 심했다"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000142831</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000151383"/>
         <updated>2022-04-11T09:08:19.950Z</updated>
         <content type="html"><![CDATA[▶ 줄거리 생방송 5분 전, 방송국 간판 앵커 ‘세라’(천우희)에게 자신이 살해될 것이라며 죽음을 예고하는 제보 전화가 걸려온다. 장난전화로 치부하기에는 찝찝한 마음을 감출 수 없는 ‘세라’. 진짜 앵커가 될 기회라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['앵커' 감독 "천우희, 모든 것 쏟아 부어..신하균은 이중적 모습"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003043632</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003043632"/>
-        <updated>2022-04-11T09:08:19.952Z</updated>
-        <content type="html"><![CDATA[영화 '앵커' 감독이 배우들에 대한 칭찬과 함께 감사를 전했다. 11일 오후 서울 광진구 롯데시네마 건대입구에서 영화 '앵커'(감독 정지연) 언론배급시사회가 열렸다. 이날 행사에는 배우 천우희, 신하균 그리고 정지연]]></content>
     </entry>
 </feed>
