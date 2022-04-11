@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 23:07:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 02:41:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] 일본이 침몰하는데 막을 방법이 없다 '일본침몰']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=202130</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202130</guid>
+            <pubDate>Mon, 11 Apr 2022 02:38:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202130">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411102800_b87f8e34420d44f92a08124558f33011.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202130">[리뷰] 일본이 침몰하는데 막을 방법이 없다 '일본침몰'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220411102800_b87f8e34420d44f92a08124558f33011.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[초자연 스릴러  '괴이'  아비규환의 드라마]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=201988</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201265">[뉴스타뷰] 배우 윤도건, 뚜렛 증후군 극복한 연기의 힘과 단단한 의지</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220405110652_480950288ec3372b882fa664019fbd01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['파친코' 윤여정의 오열 '선자, 그곳으로 돌아오다']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=201195</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=201195</guid>
-            <pubDate>Tue, 05 Apr 2022 06:08:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=201195">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220405081608_fbcdc6c97aa243672bee6a64996bad25_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201195">'파친코' 윤여정의 오열 '선자, 그곳으로 돌아오다'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220405081608_fbcdc6c97aa243672bee6a64996bad25_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
