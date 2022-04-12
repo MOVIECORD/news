@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 06:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 07:06:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[외신] 생방송 중 주먹 휘두른 윌 스미스... 중징계 처분 "아카데미는 폭력 용납 NO"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=202308</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202308</guid>
+            <pubDate>Tue, 12 Apr 2022 07:04:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202308">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220412141741_2f8efa026eec45c9df16a2783a3975c2_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202308">[외신] 생방송 중 주먹 휘두른 윌 스미스... 중징계 처분 "아카데미는 폭력 용납 NO"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220412141741_2f8efa026eec45c9df16a2783a3975c2_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제2의 프리지아-김현중 탄생하나...넷플릭스 '솔로지옥' 시즌2 제작 확정]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=202286</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201299">채정안, '돼지의 왕' 강진아 형사 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220405141237_453ad4fb8417d79b1e045d783658c090.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콜린 퍼스,  2차대전 실화영화 '민스미트 작전']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=201294</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=201294</guid>
-            <pubDate>Tue, 05 Apr 2022 06:08:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=201294">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220405140851_c9f9969d31b3d4a8ac4117cd734f7f65.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201294">콜린 퍼스,  2차대전 실화영화 '민스미트 작전'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220405140851_c9f9969d31b3d4a8ac4117cd734f7f65.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
