@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-12T12:12:18.137Z</updated>
+    <updated>2022-04-12T13:22:05.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘장군의 아들’ 태흥영화사 20년 한눈에]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003685616</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003685616"/>
+        <updated>2022-04-12T13:21:13.085Z</updated>
+        <content type="html"><![CDATA[영상자료원, 14일 이태원 추모展 임권택作 자료 등 총 85점 공개 한국영상자료원은 오는 14일부터 한국영화박물관 신규 기획전시 ‘위대한 유산:태흥영화 1984∼2004’를 개최한다고 12일 밝혔다. 지난해 10월]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[TEN피플] 전종서, '홍상수♥' 김민희처럼 '연인'의 뮤즈로]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000540854</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003550157"/>
         <updated>2022-04-12T08:10:03.837Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=이미지 기자] '소설가의 영화' 현장 스틸이 공개됐다. 홍상수 감독의 27번째 장편 영화 '소설가의 영화'는 지난 2021년 3월에 2주간 촬영한 흑백 영화. 이번에 공개된 촬영 스틸에는 지난해 3월의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘신비한 동물들과 덤블도어의 비밀’ 60% 압도적 예매율]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004948595</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004948595"/>
-        <updated>2022-04-12T08:10:03.840Z</updated>
-        <content type="html"><![CDATA[굶주린 극장가가 부활한다. 영화 ‘신비한 동물들과 덤블도어의 비밀’이 개봉을 하루 앞두고 무려 60%(12일 영화관입장권통합전산망 16시 기준)의 압도적인 예매율을 기록하며 흥행 돌풍을 예고하고 있다. 예매 관객 수]]></content>
     </entry>
 </feed>
