@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 23:06:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 00:30:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이세희 '진검승부' “이번에는 검사로 변신합니다!”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=202478</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202478</guid>
+            <pubDate>Wed, 13 Apr 2022 00:29:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202478">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220413090847_84f1d0e80a181041f6cfc9506bd14f9c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202478">이세희 '진검승부' “이번에는 검사로 변신합니다!”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220413090847_84f1d0e80a181041f6cfc9506bd14f9c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["파이터의 부성애" 김동현 가족, 슈돌 합류]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=202438</link>
@@ -347,24 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%81%AC%EB%A0%88%EC%9D%B4%EC%A7%80%20%EB%9F%AC%EB%B8%8C">월화드라마 크레이지 러브</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220412090241_7742e7e8e7a86240a73d9a084b55fb44.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["이럴 거면 왜 연애해?" 데이트할 때만 피곤해하는 남자친구]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=202252</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202252</guid>
-            <pubDate>Tue, 12 Apr 2022 02:29:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202252">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220412085620_e1a8e37fb51d453b92d5f3b2319dfe99.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202252">"이럴 거면 왜 연애해?" 데이트할 때만 피곤해하는 남자친구</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%97%B0%EC%95%A0%EC%9D%98%EC%B0%B8%EA%B2%AC3">연애의참견3</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220412085620_e1a8e37fb51d453b92d5f3b2319dfe99.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
