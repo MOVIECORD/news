@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-13T15:06:59.724Z</updated>
+    <updated>2022-04-13T16:08:36.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강릉 촬영 영화 '말임씨를 부탁해' 개봉]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=654&amp;aid=0000007494</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=654&amp;aid=0000007494"/>
+        <updated>2022-04-13T16:07:38.633Z</updated>
+        <content type="html"><![CDATA[노인 돌봄 문제를 유쾌하게 풀어낸 영화 '말임씨를 부탁해'가 13일 개봉했다. 강원영상위원회의 '2020년 강원배우 인센티브 지원사업' 참여작으로 강릉 동호해변 등에서 촬영된 작품이다. 박경목 감독이 연출한 '말임씨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 워너브라더스, 중국 당국 요청에 ‘신비한 동물사전 3편’ 검열]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000805932</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006027331"/>
         <updated>2022-04-13T09:05:48.078Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 제23회 전주국제영화제 개막작 '애프터 양'(감독 코고나다)이 영화제 예매 오픈 3분 만에 전석을 매진시켰다. 13일 영화의 수입, 배급사 (주)왓챠에 따르면 '애프터 양'은 영화제 예매]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팝인터뷰]'앵커' 천우희 "앵커 되고자 연습 또 연습..극적인 내면과 융합 쉽지 않았다"(종합)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003550469</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003550469"/>
-        <updated>2022-04-13T09:05:48.079Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] 배우 천우희가 '앵커'로 또 한 번 인생 열연을 펼쳤다. 영화 '써니', '한공주', '곡성' 등을 통해 강렬한 존재감을 발산해온 천우희가 JTBC 드라마 '멜로가 체질', '비와 당신의]]></content>
     </entry>
 </feed>
