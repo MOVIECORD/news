@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-13T12:13:02.203Z</updated>
+    <updated>2022-04-13T13:22:05.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[TEN인터뷰] 설경구 "'야차' 캐릭터 아쉬워, 속편 확신 無…♥송윤아 해준 말 없다"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000541070</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000541070"/>
+        <updated>2022-04-13T13:21:21.068Z</updated>
+        <content type="html"><![CDATA[[텐아시아=태유나 기자] "어디로 튈지 모르는 인물이라 그다음 행보가 궁금하고, 무슨 짓을 할까 불안한 럭비공 같은 캐릭터로 보였으면 했죠. 그런데 완성된 지강인은 거친 모습은 있지만, 너무 정직한 사람처럼 보이더라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정인기, 영화 ‘거미집’ 출연 확정[공식]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000805905</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000023285"/>
         <updated>2022-04-13T09:05:48.079Z</updated>
         <content type="html"><![CDATA[“Awoke” is a film that lies in the middle ground: It refuses to take on the conventional storytelling of a protagonist w]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[빅픽처] '파친코' 정인지, 쌀밥 한 그릇에 담아낸 모성…눈물이 흐른다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000282061</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000282061"/>
-        <updated>2022-04-13T09:05:48.080Z</updated>
-        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 1915년 일제 강점기 조선, 한 여인은 점쟁이를 찾아가 자신의 어머니대에서부터 자신까지 이어진 박복한 운명에 대해 이야기한다. 그러면서 아들 셋을 낳았으나 모두 돌이 안돼 잃었다]]></content>
     </entry>
 </feed>
