@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-13T11:06:57.812Z</updated>
+    <updated>2022-04-13T12:13:02.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정인기, 영화 ‘거미집’ 출연 확정[공식]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000805905</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000805905"/>
+        <updated>2022-04-13T12:12:16.042Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 배우 정인기가 김지운 감독의 신작 ‘거미집’(감독 김지운, 제작 앤솔로지 스튜디오(주), (주)바른손 스튜디오)에 출연한다. 영화 ‘거미집’은 1970년대, 다 찍은 영화 ‘거미집’의 결말을 다시 찍으면 더]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“40년 전 그대로” 추억의 명랑만화 주인공들 ‘리-턴즈’]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002586694</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000282061"/>
         <updated>2022-04-13T09:05:48.080Z</updated>
         <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 1915년 일제 강점기 조선, 한 여인은 점쟁이를 찾아가 자신의 어머니대에서부터 자신까지 이어진 박복한 운명에 대해 이야기한다. 그러면서 아들 셋을 낳았으나 모두 돌이 안돼 잃었다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조니 뎁·앰버 허드 명예훼손 재판, 미국서 2라운드 돌입]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013112043</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013112043"/>
-        <updated>2022-04-13T09:05:48.097Z</updated>
-        <content type="html"><![CDATA[허드 측 "뎁의 성폭력으로 고통" 주장…재판 TV중계도 (서울=연합뉴스) 강종훈 기자 = 할리우드 스타 부부였던 조니 뎁(59)과 앰버 허드(36)의 명예훼손 재판의 두 번째 라운드가 시작됐다. 이혼 후 영국에서 진]]></content>
     </entry>
 </feed>
