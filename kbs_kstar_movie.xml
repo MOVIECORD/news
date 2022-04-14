@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 11:05:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 12:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[충무로의 전설, 이태원의 위대한 유산 - 영상자료원 ‘태흥영화’ 기획전시회]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=202741</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202741</guid>
+            <pubDate>Thu, 14 Apr 2022 12:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202741">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220414143514_2031b5e866e50eca48d307c2d5d2b148.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202741">충무로의 전설, 이태원의 위대한 유산 - 영상자료원 ‘태흥영화’ 기획전시회</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220414143514_2031b5e866e50eca48d307c2d5d2b148.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 김욱, 쿠팡플레이 오리지널 시트콤 '유니콘'으로 비상한다]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=202707</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201543">[리뷰] 세계 최초 멀미 유발 블록버스터의 탄생 '앰뷸런스'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220406164124_d0af2ab4fd0961aabbcec37187c0d0eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['그리드' 8회 예고  '서강준이 되돌린 2021년']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=201522</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=201522</guid>
-            <pubDate>Wed, 06 Apr 2022 11:02:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=201522">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220406144545_f09060a4ed4fe4f3a50031421edc9efe.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=201522">'그리드' 8회 예고  '서강준이 되돌린 2021년'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220406144545_f09060a4ed4fe4f3a50031421edc9efe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
