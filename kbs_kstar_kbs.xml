@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 09:07:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 10:09:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] 독립영화관 - 프랑스여자 (김희정 감독,2019)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=202993</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202993</guid>
+            <pubDate>Fri, 15 Apr 2022 10:08:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202993">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220415173644_05af01b5fbe2b2cb3a1fc519ea7121e2.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202993">[리뷰] 독립영화관 - 프랑스여자 (김희정 감독,2019)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8F%85%EB%A6%BD%EC%98%81%ED%99%94%EA%B4%80">독립영화관</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220415173644_05af01b5fbe2b2cb3a1fc519ea7121e2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박하나-이세희, '편스토랑'에서 친자매 케미 발산]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=202910</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9A%B0%EB%A6%AC%EB%81%BC%EB%A6%AC%20%EC%9E%91%EC%A0%84%ED%83%80%EC%9E%84">우리끼리 작전타임</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220414081502_3b84df54224db051d6ff91518a57c711.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장혁-박지연 "기구한 운명, 핏빛 정치 싸움"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=202644</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202644</guid>
-            <pubDate>Thu, 14 Apr 2022 02:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202644">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220414081059_2c28156df76da427384b72f9f603c197.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202644">장혁-박지연 "기구한 운명, 핏빛 정치 싸움"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B6%89%EC%9D%80%20%EB%8B%A8%EC%8B%AC">월화드라마 붉은 단심</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220414081059_2c28156df76da427384b72f9f603c197.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
