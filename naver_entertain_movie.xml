@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-15T12:13:19.318Z</updated>
+    <updated>2022-04-15T13:20:20.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘제19회 서울국제환경영화제’ 올해 포스터 & 슬로건 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000806441</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000806441"/>
+        <updated>2022-04-15T13:19:25.064Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 서울환경영화제가 19회차를 맞이하여 명칭을 ‘서울국제환경영화제’로 변경했다. 영문 명칭도 기존 ‘SEOUL ECO FILM FESTIVAL(SEFF)’에서 ‘SEOUL INTERNATIONAL ECO]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이정재 ‘헌트’ 칸 온다, 외신도 주목]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000806425</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013117111"/>
         <updated>2022-04-15T09:06:54.240Z</updated>
         <content type="html"><![CDATA[띄어앉기·운영시간 단축도 해제…영화·가요·공연계 '반색'서울 시내 한 영화관 [연합뉴스 자료사진] (서울=연합뉴스) 임동근 한미희 이태수 김예나 기자 = 신종 코로나바이러스 감염증(코로나19) 장기화로 침체한 문화계는 2년여 만에 사회적 거리두기가 전면 해제되면서 숨통을 트게 됐다. 고사 위기에 빠져 있던 영화관은 상반기...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이정재 첫 연출작 ‘헌트’, 칸 영화제 초청에 외신도 주목 “칸 최고의 볼거리”]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=415&amp;aid=0000009804</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=415&amp;aid=0000009804"/>
-        <updated>2022-04-15T09:06:54.240Z</updated>
-        <content type="html"><![CDATA[[앳스타일 박승현 기자] 이정재 감독의 첫 연출작 ‘헌트’의 칸 영화제 진출에 외신도 주목하고 있다. 지난 14일(현지시각) 제75회 칸 영화제 집행위원회 측은 ‘헌트’를 미드나잇 스크리닝 부문에 공식 초청했다. 미]]></content>
     </entry>
 </feed>
