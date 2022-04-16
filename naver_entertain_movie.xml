@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-16T21:06:35.827Z</updated>
+    <updated>2022-04-16T22:06:20.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코미디 어드벤처에 로맨스 한 스푼…영화 '로스트 시티']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013118106</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013118106"/>
+        <updated>2022-04-16T22:05:21.414Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 오보람 기자 = 로맨스 소설가 로레타(샌드라 불럭 분)는 몇 년 전 남편이 죽은 뒤 힘겨운 시간을 보내고 있는 중년 여성이다. 집에 틀어박혀 글만 써오던 그는 출판사 측의 성화에 못 이겨 어쩔 수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['야차' 박해수 "아시아계가 아닌 한국 배우, 한국 콘텐츠를 찾는 세상" [인터뷰M]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000151944</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000045742"/>
         <updated>2022-04-15T23:07:45.963Z</updated>
         <content type="html"><![CDATA[우리 시대의 음유시인 정태춘의 음악 세상을 담은 다큐멘터리 &lt;아치의 노래, 정태춘&gt;(감독: 고영재)이 5월 18일(수) 개봉을 확정지었다. &lt;아치의 노래, 정태춘&gt;은 한국적 포크의 전설이 된 정태춘의 데뷔 40주년을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쇼박스, 글로벌 파트너십 1400억 투자유치 "K콘텐츠, 글로벌 협업에 큰 기대"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000045741</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000045741"/>
-        <updated>2022-04-15T22:04:47.821Z</updated>
-        <content type="html"><![CDATA[쇼박스가 MCG(Maum Capital Group, 이하 MCG)와 약 1,400억 규모의 투자 유치 계약을 체결했다. 쇼박스는 15일, 유상 증자 방식으로 MCG로부터 약 1,400억원의 대규모 투자 유치 계약을]]></content>
     </entry>
 </feed>

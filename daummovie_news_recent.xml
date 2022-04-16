@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-04-16T21:06:35.823Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 16 Apr 2022 22:06:20 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코미디 어드벤처에 로맨스 한 스푼..영화 '로스트 시티']]></title>
+            <link>https://v.daum.net/v/20220417070013570</link>
+            <guid>https://v.daum.net/v/20220417070013570</guid>
+            <pubDate>Sat, 16 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 오보람 기자 = 로맨스 소설가 로레타(샌드라 불럭 분)는 몇 년 전 남편이 죽은 뒤 힘겨운 시간을 보내고 있는 중년 여성이다. 집에 틀어박혀 글만 써오던 그는 출판사 측의 성화에 못 이겨 어쩔 수 없이 북 투어를 시작한다. 그러나 소설 속 남자 주인공이자 표지 모델로도 활동하는 앨런(채닝 테이텀)이 투어에 합류한다는 소식에 기분은 더 언]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F17%2Fyonhap%2F20220417070013237mfhq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
