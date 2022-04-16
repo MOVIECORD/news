@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-16T09:07:40.489Z</updated>
+    <updated>2022-04-16T10:05:52.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[야구영화 만든 감독 3인의 야구 토크: '한화이글스: 클럽하우스' 박경원 감독, '1984 최동원' 조은성 감독, '낫아웃' 이정곤 감독]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000047114</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000047114"/>
+        <updated>2022-04-16T10:05:08.266Z</updated>
+        <content type="html"><![CDATA[2021년, 한화 이글스가 변화를 선언했다. 한화의 심장이라 불렸던 베테랑 김태균 선수의 은퇴식을 시작으로 20대 초중반의 젊은 선수들로 팀을 꾸리고 메이저리그에서 활동한 카를로스 수베로 감독을 새롭게 영입했다. 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유엔난민기구, 20일 온라인 영화제 개막…자체 제작 다큐 6편 무료 상영]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=021&amp;aid=0002510137</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004042879"/>
         <updated>2022-04-15T22:04:47.824Z</updated>
         <content type="html"><![CDATA[[서울경제] 직접 맛보고 추천하는 향긋한 작품 한 잔! 세상의 OTT 다 보고 싶은 'OTT다방' 나에게 일어나지 않을 것만 같은 금융 사기. 검은 그림자는 도처에 존재하고, 나도 모르는 사이에 내 금고를 열 수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['공기살인', 결말을 알고 봐도 실화의 힘이 막강하니 [TF씨네리뷰]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000143843</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000143843"/>
-        <updated>2022-04-15T22:04:47.826Z</updated>
-        <content type="html"><![CDATA[정공법 택한 감독의 뚝심…배우들의 호연도 볼거리 한국을 충격과 공포로 몰아 넣은 '가습기 살균제 사건'을 모티브로 한 영화가 나왔다. 실화의 힘이 막강하니 결말을 알고 봐도 몰입도가 상당하다. 영화적 감동과 재미보다]]></content>
     </entry>
 </feed>
