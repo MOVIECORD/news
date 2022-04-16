@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-16T04:09:49.042Z</updated>
+    <updated>2022-04-16T05:07:08.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[송영애의 영화이야기] 태흥영화사로 보는 한국 영화 역사의 단면]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003686940</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003686940"/>
+        <updated>2022-04-16T05:05:24.449Z</updated>
+        <content type="html"><![CDATA[한국영상자료원. 오랜만에 퀴즈로 시작해 보겠다. 임권택 감독의 ‘장군의 아들’(1990)과 ‘서편제’(1993), 제임스 카메룬 감독의 ‘터미네이터’(1984), 존 맥티어난 감독의 ‘다이하드’(1988)의 공통점은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['야차' 나현 감독 "본 적 없던 韓 첩보 영화, 차별화 위해 노력"[★FULL인터뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003045016</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000806441"/>
         <updated>2022-04-15T13:19:24.528Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 서울환경영화제가 19회차를 맞이하여 명칭을 ‘서울국제환경영화제’로 변경했다. 영문 명칭도 기존 ‘SEOUL ECO FILM FESTIVAL(SEFF)’에서 ‘SEOUL INTERNATIONAL ECO]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이정재 ‘헌트’ 칸 온다, 외신도 주목]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000806425</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000806425"/>
-        <updated>2022-04-15T11:05:27.976Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 이정재 감독의 첫 연출작 ‘헌트’의 칸 영화제 진출에 외신도 주목하고 있다. 지난 14일(현지시각) 제75회 칸 영화제 집행위원회 측은 ‘헌트’를 미드나잇 스크리닝 부문에 공식 초청했다. 미드나잇 스크]]></content>
     </entry>
 </feed>
