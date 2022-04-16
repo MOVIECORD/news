@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-16T06:10:54.911Z</updated>
+    <updated>2022-04-16T07:06:40.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쇼박스, 미국 MCG의 자회사 Maum Studio로 약 1400억 투자 유치]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000610435</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000610435"/>
+        <updated>2022-04-16T07:05:42.836Z</updated>
+        <content type="html"><![CDATA[쇼박스가 MCG(Maum Capital Group, 이하 MCG)와 약 1,400억 규모의 투자 유치 계약을 체결했다. 쇼박스는 오늘(15일) 유상 증자 방식으로 MCG로부터 약 1,400억원의 대규모 투자 유치 계]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쇼박스, MCG와 1400억 규모 투자 유치 계약 체결]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006032816</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006032486"/>
         <updated>2022-04-15T22:04:47.832Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 배우 천우희, 이선빈, 김민희가 4월 극장가를 다양하게 채운다. 스릴러, 사회고발 등 장르물과 홍상수 감독의 신작까지 다채로운 라인업들이 이달 관객들을 기다리면서, 배우들이 어떤 모습]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주말의 OTT]오바마가 소개하는 지구 최고의 자연]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011126350</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011126350"/>
-        <updated>2022-04-15T22:04:47.834Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스] 손정빈 기자 = 오바마가 소개합니다 '지구상의 위대한 국립공원'(넷플릭스) 4월22일 지구의 날을 맞아 버락 오바마 전 미국 대통령이 지구상에 존재하는 가장 신비로운 세계로 시청자를 초대한다. '지구]]></content>
     </entry>
 </feed>
