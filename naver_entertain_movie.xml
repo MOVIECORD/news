@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-17T19:07:26.537Z</updated>
+    <updated>2022-04-17T20:06:38.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박해수 “몸 단련되고… 액션 연기 언제든 좋아요”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000670045</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000670045"/>
+        <updated>2022-04-17T20:05:06.918Z</updated>
+        <content type="html"><![CDATA[대기만성. 배우 박해수에게 어울릴 표현이다. 2017년 tvN 드라마 ‘슬기로운 감방 생활’로 주목받았다. 36세 때였다. 첫 주연 영화 ‘양자물리학’(2019)이 개봉했고, ‘사냥의 시간’(2020) 공개가 이어졌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리동네시네마 #추억소환 사업]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000007204</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004594046"/>
         <updated>2022-04-16T23:06:02.681Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 ‘신비한 동물들과 덤블도어의 비밀’이 박스오피스 1위를 유지하고 있다. 17일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 어제(16일) ‘신비한 동물들과 덤블도어의 비밀’은 15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[111분 순삭...유쾌한 롤러코스터, ‘로스트 시티’[MK무비]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004950640</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004950640"/>
-        <updated>2022-04-16T23:06:02.684Z</updated>
-        <content type="html"><![CDATA[믿고 보는 산드라 블록표 로코 어드벤처 믿고 보는 로코 장인들의 만남이다. 산드라 블록·채닝 테이텀의 신선한 케미가 버무려진 초호화 로코 어드벤처, ‘로스트 시티’(감독 애덤 니)가 관객과 만난다. 재벌 페어팩스(다]]></content>
     </entry>
 </feed>

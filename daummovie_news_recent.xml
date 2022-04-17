@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-04-17T19:07:26.523Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 17 Apr 2022 20:06:38 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박해수 "몸 단련되고.. 액션 연기 언제든 좋아요"]]></title>
+            <link>https://v.daum.net/v/20220418043130163</link>
+            <guid>https://v.daum.net/v/20220418043130163</guid>
+            <pubDate>Sun, 17 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대기만성. 배우 박해수에게 어울릴 표현이다. 2017년 tvN 드라마 ‘슬기로운 감방 생활’로 주목받았다. 36세 때였다. 첫 주연 영화 ‘양자물리학’(2019)이 개봉했고, ‘사냥의 시간’(2020) 공개가 이어졌다. 지난해 넷플릭스 드라마 ‘오징어 게임’으로 세계인이 알아볼 배우가 됐다. 지난 8일 새 영화 ‘야차’가 넷플릭스를 통해 190여 개국에서]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F18%2Fhankooki%2F20220418043132857pezw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
