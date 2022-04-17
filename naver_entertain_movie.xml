@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-17T15:05:09.437Z</updated>
+    <updated>2022-04-17T16:08:04.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리동네시네마 #추억소환 사업]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000007204</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000007204"/>
+        <updated>2022-04-17T16:07:22.834Z</updated>
+        <content type="html"><![CDATA[영화의전당은 올해 ‘유네스코 영화 창의도시 부산’ 사업으로 ‘우리동네시네마’와 ‘#추억소환 디지털 변환 프로젝트’(이하 추억소환) 참여자를 모집한다. 올해 3회째를 맞는 우리동네시네마는 부산에서 활동하는 영화 관련]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['복지식당' 정재익-서태수 감독 "개봉했지만 여전히 장애인에게 극장에서 영화보기는 어려운 과제" [인터뷰M]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000152002</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004950640"/>
         <updated>2022-04-16T23:06:02.684Z</updated>
         <content type="html"><![CDATA[믿고 보는 산드라 블록표 로코 어드벤처 믿고 보는 로코 장인들의 만남이다. 산드라 블록·채닝 테이텀의 신선한 케미가 버무려진 초호화 로코 어드벤처, ‘로스트 시티’(감독 애덤 니)가 관객과 만난다. 재벌 페어팩스(다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코미디 어드벤처에 로맨스 한 스푼…영화 '로스트 시티']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013118106</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013118106"/>
-        <updated>2022-04-16T22:05:21.414Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 오보람 기자 = 로맨스 소설가 로레타(샌드라 불럭 분)는 몇 년 전 남편이 죽은 뒤 힘겨운 시간을 보내고 있는 중년 여성이다. 집에 틀어박혀 글만 써오던 그는 출판사 측의 성화에 못 이겨 어쩔 수]]></content>
     </entry>
 </feed>
