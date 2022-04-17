@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 11:06:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 12:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[1박2일] 도발도 스웩(?) 넘치게~♪ 찢어버린 ‘펀치라인 퀸’ 한가인, 지드래곤 노래로 딘딘 도발]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=203256</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=203256</guid>
+            <pubDate>Sun, 17 Apr 2022 12:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=203256">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220417210345_77d10b09f07b0f8dbe27b5402dcbb68d_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203256">[1박2일] 도발도 스웩(?) 넘치게~♪ 찢어버린 ‘펀치라인 퀸’ 한가인, 지드래곤 노래로 딘딘 도발</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220417210345_77d10b09f07b0f8dbe27b5402dcbb68d_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['메디치에서 이건희까지' 기증 미술품, 어떻게 볼 것인가?]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=202932</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220416220046_be288719b5e30015e73d946f272d1584_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[불후의 명곡] 춤까지 접수한 로커...서문탁 - I Wanna Dance With Somebody]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=203139</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=203139</guid>
-            <pubDate>Sat, 16 Apr 2022 13:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=203139">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220416214453_32ddaaf0e3afe0fbb32d755f572cd4ac_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203139">[불후의 명곡] 춤까지 접수한 로커...서문탁 - I Wanna Dance With Somebody</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220416214453_32ddaaf0e3afe0fbb32d755f572cd4ac_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
