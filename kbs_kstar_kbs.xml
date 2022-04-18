@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 11:05:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 12:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KBS,‘장애인의 날’ 맞아 다채로운 특집 프로그램 편성]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=203519</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=203519</guid>
+            <pubDate>Mon, 18 Apr 2022 12:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=203519">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220418205801_f7441b74caf0ba29e4bc7124b2b6ba41.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203519">KBS,‘장애인의 날’ 맞아 다채로운 특집 프로그램 편성</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220418205801_f7441b74caf0ba29e4bc7124b2b6ba41.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['으라차차 남상지', 결국 아기 안고 고모집으로~]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=203454</link>
@@ -348,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%98%84%EC%9E%AC%EB%8A%94%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%8C">주말드라마 현재는 아름다워</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220417223103_a973f7e9927d20061066e523f66482f3_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[현재는 아름다워]  어릴적 입양된 박상원, 친아버지 편지 읽고 오열]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=203276</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=203276</guid>
-            <pubDate>Sun, 17 Apr 2022 14:04:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=203276">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220417222404_56643be09e1d3248322d23d6d41e2a9f.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203276">[현재는 아름다워]  어릴적 입양된 박상원, 친아버지 편지 읽고 오열</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%98%84%EC%9E%AC%EB%8A%94%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%8C">주말드라마 현재는 아름다워</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220417222404_56643be09e1d3248322d23d6d41e2a9f.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
