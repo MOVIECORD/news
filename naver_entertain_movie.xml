@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-18T17:16:57.281Z</updated>
+    <updated>2022-04-18T18:09:40.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['신과 함께' 김용화 감독, 美 할리우드 에이전시 UTA와 계약]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013121770</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013121770"/>
+        <updated>2022-04-18T18:08:50.136Z</updated>
+        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 정윤섭 특파원 = 영화 '신과 함께' 시리즈를 연출한 김용화 감독이 미국 할리우드의 대형 연예 기획사인 '유나이티드 탤런트 에이전시'(UTA)와 계약을 체결했다고 18일(현지시간) 연예 매체]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[방호정의 컬쳐 쇼크 & 조크] <64> JTBC 드라마 ‘나의 해방일지’]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000007327</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000974227"/>
         <updated>2022-04-18T12:13:21.245Z</updated>
         <content type="html"><![CDATA[18일 오후 서울 용산구 CGV용산아이파크몰점에서 열린 영화 ‘공기살인’ VIP시사회에 참석한 소재원과 육진수가 포즈를 취하고 있다. 김민성 기자 marineboy@donga.com]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송창의 ‘2년 만의 VIP 시사회~’ [포토]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000974226</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000974226"/>
-        <updated>2022-04-18T12:13:21.252Z</updated>
-        <content type="html"><![CDATA[18일 오후 서울 용산구 CGV용산아이파크몰점에서 열린 영화 ‘공기살인’ VIP시사회에 참석한 송창의가 포즈를 취하고 있다. 김민성 기자 marineboy@donga.com]]></content>
     </entry>
 </feed>
