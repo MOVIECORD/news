@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 07:08:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 08:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["룰루랄라, K콘텐츠 파워업“ 크리에이티브 스튜디오 'SLL' 출범]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=203693</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=203693</guid>
+            <pubDate>Tue, 19 Apr 2022 08:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=203693">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220419170330_acce9a6f2e5e469d3789f34924524cd5.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203693">"룰루랄라, K콘텐츠 파워업“ 크리에이티브 스튜디오 'SLL' 출범</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220419170330_acce9a6f2e5e469d3789f34924524cd5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] 제목만큼 끔찍한 학교폭력 피해자의 고통 '니 부모 얼굴이 보고 싶다']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=203686</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203000">오나라, 오늘밤 오감만족 코미디쇼 'SNL' </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220415175141_cabf67067e6dca5bb37010c0af828dd8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왓챠 ‘좋좋소’ 다시 뭉친 6人 ‘기묘한 회식’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=202966</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=202966</guid>
-            <pubDate>Fri, 15 Apr 2022 13:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=202966">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220415155659_3a1b16642b57f927742a15a001f2cfb7.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=202966">왓챠 ‘좋좋소’ 다시 뭉친 6人 ‘기묘한 회식’</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220415155659_3a1b16642b57f927742a15a001f2cfb7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
