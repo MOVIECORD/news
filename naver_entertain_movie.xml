@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-19T14:06:58.160Z</updated>
+    <updated>2022-04-19T15:08:29.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[드라마·영화 모두 웃었다…K콘텐츠가 칸을 매료시킨 비결]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005195095</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005195095"/>
+        <updated>2022-04-19T15:07:42.743Z</updated>
+        <content type="html"><![CDATA[(왼쪽부터) 박찬욱 감독, 고레에다 히로카즈 감독. [이데일리 스타in 김보영 기자] 영화와 드라마를 포함한 K콘텐츠가 미국을 넘어 유럽을 대표하는 프랑스 칸에서도 괄목할 성과들을 내며 세계인의 마음을 훔치고 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고레에다 히로카즈 감독 “송강호=‘브로커’ 출발점” 극찬]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000974500</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000564513"/>
         <updated>2022-04-19T09:07:09.363Z</updated>
         <content type="html"><![CDATA[[뉴스엔 허민녕 기자] ‘웡’의 굳건한 팬덤을 넘어설 수 있을까. 장안의 화제작 ‘닥터 스트레인지:대혼돈의 멀티버스’가 치트키 웡에 필적할 뉴 캐릭터 아메리카 차베즈 면면을 일부 공개했다. 아메리카 차베즈에 대한 디]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['봄날' 손현주, 열연 한도초과]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004595625</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004595625"/>
-        <updated>2022-04-19T09:07:09.369Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '봄날'이 배우들의 연기 내공과 앙상블을 예고하는 열연 한도초과 제작기 영상을 공개했다. 한때 잘나갔지만 현재는 집안의 애물단지인 철부지 형님 호성(손현주 분)이 아는 인맥을 모두 끌어]]></content>
     </entry>
 </feed>
