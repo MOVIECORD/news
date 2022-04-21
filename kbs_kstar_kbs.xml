@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 04:34:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 05:31:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[집밥 여왕 김가연의 선물...16종 집반찬 선물 세트!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=204166</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204166</guid>
+            <pubDate>Thu, 21 Apr 2022 05:30:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204166">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220421140758_39b8d1280440eb61574a86e032382e2e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204166">집밥 여왕 김가연의 선물...16종 집반찬 선물 세트!</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%20%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상 출시 편스토랑</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220421140758_39b8d1280440eb61574a86e032382e2e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아모르 파티~ 김연자의 히트곡 퍼레이드, 팬덤 모아나 열광!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=204102</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220420004641_6ce0e3aee78d71dd6355b346721f1ec9_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[갓파더] 상다리 휘어지는 30첩 남도 한정식에 포식하는 사슴부자]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=203749</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=203749</guid>
-            <pubDate>Tue, 19 Apr 2022 16:08:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=203749">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220420004450_d34546376c4bdfabefbe972b70026ce2_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203749">[갓파더] 상다리 휘어지는 30첩 남도 한정식에 포식하는 사슴부자</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220420004450_d34546376c4bdfabefbe972b70026ce2_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
