@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-04-21T19:06:18.532Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 21 Apr 2022 20:11:57 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['신비한 동물들과 덤블도어의 비밀' 신작 제치고 9일째 1위[박스오피스]]]></title>
+            <link>https://v.daum.net/v/20220422051054427</link>
+            <guid>https://v.daum.net/v/20220422051054427</guid>
+            <pubDate>Thu, 21 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '신비한 동물들과 덤블도어의 비밀'이 신작 개봉에도 불구하고 9일 연속 박스오피스 정상을 차지했다. 4월 22일 영화진흥위원회 통합전산망 집계에 따르면 21일 영화 '신비한 동물들과 덤블도어의 비밀'이 2만3,378명을 동원, 전체 박스오피스 1위를 차지했다. 지난 13일 개봉한 후 9일 연속 1위 중인 '신비한 동물들과 덤블도어의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F22%2Fnewsen%2F20220422051055798vsym.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
