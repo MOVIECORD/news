@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 03:56:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 04:34:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아모르 파티~ 김연자의 히트곡 퍼레이드, 팬덤 모아나 열광!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=204102</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204102</guid>
+            <pubDate>Thu, 21 Apr 2022 04:33:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204102">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220421095313_1b8808b4a92a0096c5550d8c419705e2.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204102">아모르 파티~ 김연자의 히트곡 퍼레이드, 팬덤 모아나 열광!</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EC%A0%91%EC%9D%B4%20%ED%92%8D%EB%85%84">주접이 풍년</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220421095313_1b8808b4a92a0096c5550d8c419705e2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['붉은 단심' 애틋한 로맨스, 그리고 고독한 킹메이커]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=204060</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220420004450_d34546376c4bdfabefbe972b70026ce2_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[크레이지 러브] “넌 내 동생을 죽였어! 이 살인자!” 김재욱에 충격 안긴 하준의 폭로]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=203744</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=203744</guid>
-            <pubDate>Tue, 19 Apr 2022 16:08:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=203744">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220419234634_a671e6e66365dd2730525a75758f7427_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203744">[크레이지 러브] “넌 내 동생을 죽였어! 이 살인자!” 김재욱에 충격 안긴 하준의 폭로</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%81%AC%EB%A0%88%EC%9D%B4%EC%A7%80%20%EB%9F%AC%EB%B8%8C">월화드라마 크레이지 러브</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220419234634_a671e6e66365dd2730525a75758f7427_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
