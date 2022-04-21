@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-21T15:10:44.399Z</updated>
+    <updated>2022-04-21T16:07:23.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[새영화]팝콘·콜라 먹는다…극장가도 일상회복]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000892288</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000892288"/>
+        <updated>2022-04-21T16:06:35.740Z</updated>
+        <content type="html"><![CDATA[정부의 새 거리두기 방침에 따라 오는 25일부터 영화관 내에서 팝콘, 콜라 등 음식물 섭취가 가능해진다. 영화관에서 자체적으로 시행해 온 좌석 간 띄어 앉기 조치도 순차적으로 없어질 전망이다. 기지개를 켜고 있는 극]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마동석-손석구 ‘범죄도시2’ 메인 예고편 공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000975101</id>
@@ -34,7 +41,7 @@
         <content type="html"><![CDATA[‘지구의 날 풀무원 29초영화제’에는 개성 넘치는 작품이 여럿 출품됐다. 개그맨 지상렬 등 연예인이 나오는 작품도 수상작 명단에 올랐다. 일반부 특별상을 받은 박준영 감독의 ‘동방예의지구’는 조선시대로 떠난다. 한]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이효율 풀무원 CEO, "지구 건강까지 생각하는 게 풀무원 경영철학"]]></title>
+        <title type="html"><![CDATA[이효율 풀무원 총괄 CEO "지구 건강까지 생각하는 게 풀무원 경영철학"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004689041</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004689041"/>
         <updated>2022-04-21T12:12:11.750Z</updated>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004597433"/>
         <updated>2022-04-21T08:14:59.173Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자] 제26회 부천국제판타스틱영화제(BIFAN)는 올해 칸 국제영화제 판타스틱7에 소개할 작품으로 김현진 감독의 '서울의 공포'(Seoul Horror Story)를 선정했다고 21일 밝혔다. 판]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[충북국제무예액션영화제 집행위 출범…위원장에 오기환 감독]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006044579</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006044579"/>
-        <updated>2022-04-21T08:14:59.182Z</updated>
-        <content type="html"><![CDATA[(청주=뉴스1) 김용빈 기자 = 충북문화재단은 21일 4회 충북국제무예액션영화제 집행위원회 위촉식을 열고 오기환 감독을 신임 집행위원장으로 임명했다. 오 감독은 영화 '선물'과 '작업의 정석' 등을 연출하고, 지난해]]></content>
     </entry>
 </feed>
