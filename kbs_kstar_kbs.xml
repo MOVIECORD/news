@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 10:08:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 11:06:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[채종협 따라다니는 박주현, 파트너 구하기 프로젝트!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=204179</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204179</guid>
+            <pubDate>Thu, 21 Apr 2022 11:05:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204179">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220421173205_8e2b7613974235b297607b9b2fe52937.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204179">채종협 따라다니는 박주현, 파트너 구하기 프로젝트!</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%84%88%EC%97%90%EA%B2%8C%20%EA%B0%80%EB%8A%94%20%EC%86%8D%EB%8F%84%20493km">수목드라마 너에게 가는 속도 493km</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220421173205_8e2b7613974235b297607b9b2fe52937.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[집밥 여왕 김가연의 선물...16종 집반찬 선물 세트!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=204166</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220420005125_a347669e4189899d3fb3d01f69d0e636_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[갓파더] 생일 맞은 김갑수 위해 장민호와 두 아들이 준비한 리마인드 돌잔치]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=203754</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=203754</guid>
-            <pubDate>Tue, 19 Apr 2022 16:08:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=203754">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220420004641_6ce0e3aee78d71dd6355b346721f1ec9_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203754">[갓파더] 생일 맞은 김갑수 위해 장민호와 두 아들이 준비한 리마인드 돌잔치</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220420004641_6ce0e3aee78d71dd6355b346721f1ec9_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
