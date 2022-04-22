@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-22T19:06:56.269Z</updated>
+    <updated>2022-04-22T20:11:06.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['범죄도시2', 괴물형사 마석도의 귀환…"3편까지 달린다"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000145287</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000145287"/>
+        <updated>2022-04-22T20:09:10.074Z</updated>
+        <content type="html"><![CDATA["장첸이 호랑이라면 강해상은 사자…통쾌한 영화로 스트레스 풀기를" 청소년 관람불가 등급에도 누적 관객 수 688만 명을 넘긴 영화 '범죄도시'가 5년 만에 후속편으로 돌아왔다. '괴물형사' 마동석부터 1편에서 신스틸]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[무비차트TEN] '신동사3' 이어 '닥터 스트레인지2' 흥행 정조준…개봉 2주전, 압도적인 예매율]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000542846</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000047169"/>
         <updated>2022-04-22T07:05:56.400Z</updated>
         <content type="html"><![CDATA[영화진흥위원회(이하 영진위)가 4월19일 발표한 ‘3월 한국 영화산업 결산’에 따르면 2022년 1~3월 전체 누적 매출액은 1135억원으로 지난해 같은 기간 대비 52%(389억원)가 증가했다. 관객수 역시 같은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['30살 연하 日아내♥' 니콜라스 케이지, 셋째 성별 공개 "인생 큰 모험"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003047019</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003047019"/>
-        <updated>2022-04-22T07:05:56.403Z</updated>
-        <content type="html"><![CDATA[배우 니콜라스 케이지가 셋째의 성별을 공개했다. 22일(현지시간) 피플지에 따르면 니콜라스 케이지는 켈리 클락슨 쇼에 출연해 영화 '참을 수 없는 무게의 미친능력'을 홍보하며 "모두를 위한 빅뉴스를 발표할 것"이라고]]></content>
     </entry>
 </feed>
