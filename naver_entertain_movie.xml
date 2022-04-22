@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-22T11:06:40.300Z</updated>
+    <updated>2022-04-22T12:13:37.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[일어설 수 없던 재기의 삶, 감히 안다고 말하지 말자]]></title>
+        <title type="html"><![CDATA['민스미트 작전' 2차 예고편 대공개, "인류 역사를 바꾼 단 한 번의 작전"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003597095</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003597095"/>
+        <updated>2022-04-22T12:12:42.933Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]연일 이어지는 국내외 호평으로 기대를 모으는 웰메이드 첩보 전쟁 블록버스터 '민스미트 작전'이 숨 막히는 긴장감으로 눈을 뗄 수 없게 만드는 2차 예고편을 전격 공개했다. '1917''이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재기의 삶, 박경석의 용기…감히 ‘안다고’ 말하지 말자]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002587935</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002587935"/>
         <updated>2022-04-22T11:05:48.638Z</updated>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000611093"/>
         <updated>2022-04-22T06:11:19.515Z</updated>
         <content type="html"><![CDATA[드디어 마블리가 돌아왔다. ‘범죄도시2’로 마동석이 악당과 코로나를 동시에 물리칠까. 원래대로라면 2020년 제작 개봉이었다. 하지만 코로나 19로 인해 2년 만에 빛을 보게 됐다. 22일 영화 ‘범죄도시2’는 화상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['닥터 스트레인지'·완다비전' 체험한다…'마블: 더 리플렉션' 판업 전시]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006046770</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006046770"/>
-        <updated>2022-04-22T06:11:19.515Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '닥터 스트레인지: 대혼돈의 멀티버스'를 비롯해 다양한 마블 작품들을 직접 경험할 수 있는 체험형 문화공간 '마블 : 더 리플렉션'(MARVEL : the Reflection)]]></content>
     </entry>
 </feed>
