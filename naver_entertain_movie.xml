@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-22T13:31:13.734Z</updated>
+    <updated>2022-04-22T14:06:12.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[무비차트TEN] '신동사3' 이어 '닥터 스트레인지2' 흥행 정조준…개봉 2주전, 압도적인 예매율]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000542846</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000542846"/>
+        <updated>2022-04-22T14:04:41.625Z</updated>
+        <content type="html"><![CDATA[[텐아시아=노규민 기자] '신비한 동물들과 덤블도어의 비밀'에 이어 '닥터 스트레인지: 대혼돈의 멀티버스'가 박스오피스를 점령할 조짐을 보이고 있다. 지난 4월 14일(목)부터 4월 21일(목)까지 영화관 입장권 통]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['민스미트 작전' 2차 예고편 대공개, "인류 역사를 바꾼 단 한 번의 작전"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003597095</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003047019"/>
         <updated>2022-04-22T07:05:56.403Z</updated>
         <content type="html"><![CDATA[배우 니콜라스 케이지가 셋째의 성별을 공개했다. 22일(현지시간) 피플지에 따르면 니콜라스 케이지는 켈리 클락슨 쇼에 출연해 영화 '참을 수 없는 무게의 미친능력'을 홍보하며 "모두를 위한 빅뉴스를 발표할 것"이라고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돌아온 마블리…‘범죄도시2’ 전작 넘어설까 [현장]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000611093</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000611093"/>
-        <updated>2022-04-22T06:11:19.515Z</updated>
-        <content type="html"><![CDATA[드디어 마블리가 돌아왔다. ‘범죄도시2’로 마동석이 악당과 코로나를 동시에 물리칠까. 원래대로라면 2020년 제작 개봉이었다. 하지만 코로나 19로 인해 2년 만에 빛을 보게 됐다. 22일 영화 ‘범죄도시2’는 화상]]></content>
     </entry>
 </feed>

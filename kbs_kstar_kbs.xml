@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 13:31:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 14:06:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뮤직뱅크] 정모, 떠나간 사랑을 다시 꿈꾸는 용기 ♪네가 아니면 안돼(Make it Right)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=204443</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204443</guid>
+            <pubDate>Fri, 22 Apr 2022 14:04:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204443">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220422211851_a71995e95d680ce81685a995cf5288e1_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204443">[뮤직뱅크] 정모, 떠나간 사랑을 다시 꿈꾸는 용기 ♪네가 아니면 안돼(Make it Right)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220422211851_a71995e95d680ce81685a995cf5288e1_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[뮤직뱅크] 경서, 감미로운 보컬로 전하는 X를 향한 떨리는 고백 ♪나의 X에게]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=204439</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EC%A0%91%EC%9D%B4%20%ED%92%8D%EB%85%84">주접이 풍년</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220422062332_444942dfd5f18de25d93a05e158bf33f_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[주접이 풍년] 김연자X모아나의 첫 파티에 여러분을 초대합니다!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=204191</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204191</guid>
-            <pubDate>Thu, 21 Apr 2022 22:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204191">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220422061609_47166902bb4613f59d248ed651966eea_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204191">[주접이 풍년] 김연자X모아나의 첫 파티에 여러분을 초대합니다!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EC%A0%91%EC%9D%B4%20%ED%92%8D%EB%85%84">주접이 풍년</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220422061609_47166902bb4613f59d248ed651966eea_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
