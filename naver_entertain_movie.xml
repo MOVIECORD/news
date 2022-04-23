@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-23T06:09:10.990Z</updated>
+    <updated>2022-04-23T07:07:00.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이조로 변호사의 작품 속 법률산책 - ‘앵커’의 불가벌적 수반행위]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=014&amp;aid=0004824750</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=014&amp;aid=0004824750"/>
+        <updated>2022-04-23T07:06:09.497Z</updated>
+        <content type="html"><![CDATA[영화 ‘앵커’(감독 정지연)는 살인 사건과 해리성 인격장애 등을 소재로 한 미스터리 스릴러입니다. 대비되는 인물과 공간을 통해서 섬세하고 몽환적으로 표현하는 묘한 전개가 인상적입니다. ‘해리성 인격장애’는 주로 유아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지창욱 '안나라수마나라', 메인 예고편 공개..위로 메시지+미스터리]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003047220</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=052&amp;aid=0001730369"/>
         <updated>2022-04-22T23:06:41.484Z</updated>
         <content type="html"><![CDATA[일본 희곡을 한국적으로 재탄생시킨 영화 '니 부모 얼굴이 보고 싶다'가 크랭크업 한 지 5년 만에 관객들을 만났다. 출연 배우들의 사생활 문제, 코로나19 팬데믹까지 겹쳐 거듭 개봉이 미뤄졌지만 김지훈 감독이 전하고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Y터뷰②] '야차' 박해수 "美시상식, 사명감으로 참석...책임감 느낀다"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=052&amp;aid=0001730367</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=052&amp;aid=0001730367"/>
-        <updated>2022-04-22T23:06:41.488Z</updated>
-        <content type="html"><![CDATA[지난해 공개된 넷플릭스 한국 시리즈 '오징어 게임'이 전세계적인 신드롬을 일으킨 후, 박해수 씨에게 잊지 못할 2022년이 펼쳐지고 있다. '오징어 게임'이 미국 배우조합상, 크리틱스 초이스를 비롯한 미국의 다양한]]></content>
     </entry>
 </feed>
