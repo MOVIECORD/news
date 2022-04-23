@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 04:07:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 05:06:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['돼지의 왕' 김성규, "의미 있는 작품에 함께하게 돼 감사"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=204515</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204515</guid>
+            <pubDate>Sat, 23 Apr 2022 05:03:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204515">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220423072447_f1e7fe78857a17b62546bf3b01287530.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204515">'돼지의 왕' 김성규, "의미 있는 작품에 함께하게 돼 감사" </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220423072447_f1e7fe78857a17b62546bf3b01287530.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[브레이브걸스, "용감하게, SNL 출격!"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=204396</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203631">'괴이' 구교환X신현빈, "행복했던 두사람, 재앙 속으로"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220419084707_09e5f55470c728853a52f1d8af38f51d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송강호과 고레에다 히로카즈 감독의 만남, 영화 '브로커']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=203612</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=203612</guid>
-            <pubDate>Tue, 19 Apr 2022 03:48:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=203612">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220419080949_d2e4fa47562d6601ae5d3cf14ebcc8e4.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203612">송강호과 고레에다 히로카즈 감독의 만남, 영화 '브로커'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220419080949_d2e4fa47562d6601ae5d3cf14ebcc8e4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
