@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 10:09:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 11:06:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이태리-김민기, 왕좌를 둘러싼 형제의 신경전]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=204543</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204543</guid>
+            <pubDate>Sat, 23 Apr 2022 11:04:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204543">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220423193220_7cfae6f4ce4cf979a57ed708d7b69161.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204543">이태리-김민기, 왕좌를 둘러싼 형제의 신경전</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8C%80%ED%95%98%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%83%9C%EC%A2%85%20%EC%9D%B4%EB%B0%A9%EC%9B%90">대하드라마 태종 이방원</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220423193220_7cfae6f4ce4cf979a57ed708d7b69161.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[유희열의 스케치북] 딘딘, 범준이 형 보고 있죠? 함께해요! 딘딘 ♬ 벚꽃 엔딩]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=204537</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220422211124_3439a0732ce3040bc44299f049bf5efa_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[뮤직뱅크] YOUNITE, 당신과 하나가 될 아홉 소년의 첫 시작 ♪1 of 9]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=204435</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204435</guid>
-            <pubDate>Fri, 22 Apr 2022 12:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204435">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220422203808_f8421c9f5d15ab0673df917698ffc535.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204435">[뮤직뱅크] YOUNITE, 당신과 하나가 될 아홉 소년의 첫 시작 ♪1 of 9</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220422203808_f8421c9f5d15ab0673df917698ffc535.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
