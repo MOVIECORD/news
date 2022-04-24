@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 09:06:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 10:08:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F24%2Fstarnews%2F20220424081033108yhpk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['25일부터 상영관서 취식 가능해요']]></title>
+            <link>https://movie.v.daum.net/v/20220424154740712</link>
+            <guid>https://movie.v.daum.net/v/20220424154740712</guid>
+            <pubDate>Sun, 24 Apr 2022 09:05:41 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스] 고승민 기자 = 중앙재난안전대책본부에 따르면 25일부터 영화관, 공연장 등 실내 다중이용시설에서 취식이 가능해진다. 하루 전인 24일 서울의 한 영화관에 익일부터 취식 가능 안내문이 게시돼 있다. 2022.04.24. kkssmm99@newsis.com]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F24%2Fnewsis%2F20220424154740594jbbk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['니 부모 얼굴이 보고 싶다'-'서울괴담'-'봄날' [강추비추]]]></title>
             <link>https://movie.v.daum.net/v/20220424100010989</link>
             <guid>https://movie.v.daum.net/v/20220424100010989</guid>
@@ -144,14 +152,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F24%2Fnewsis%2F20220424154751961hbop.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[이정현, 결혼 3년 만에 득녀 "산모·아이 모두 건강"[공식][전문]]]></title>
-            <link>https://movie.v.daum.net/v/20220423101923736</link>
-            <guid>https://movie.v.daum.net/v/20220423101923736</guid>
-            <pubDate>Sat, 23 Apr 2022 02:27:58 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 배우 이정현이 22일 오후 온라인 생중계로 진행된 영화 '죽지않는 인간들의 밤' 라이브 컨퍼런스에 참석해 포즈를 취하고 있다.]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F23%2Fstarnews%2F20220423101924362potw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[월트디즈니 컴퍼니 코리아, '마블 : 더 리플렉션' 팝업 전시 진행]]></title>
             <link>https://movie.v.daum.net/v/20220424120542393</link>
             <guid>https://movie.v.daum.net/v/20220424120542393</guid>
@@ -161,11 +161,11 @@
         </item>
         <item>
             <title><![CDATA['25일부터 상영관서 취식 가능해요']]></title>
-            <link>https://movie.v.daum.net/v/20220424154740712</link>
-            <guid>https://movie.v.daum.net/v/20220424154740712</guid>
-            <pubDate>Sun, 24 Apr 2022 09:05:41 GMT</pubDate>
+            <link>https://movie.v.daum.net/v/20220424154738711</link>
+            <guid>https://movie.v.daum.net/v/20220424154738711</guid>
+            <pubDate>Sun, 24 Apr 2022 10:08:03 GMT</pubDate>
             <content:encoded><![CDATA[[서울=뉴시스] 고승민 기자 = 중앙재난안전대책본부에 따르면 25일부터 영화관, 공연장 등 실내 다중이용시설에서 취식이 가능해진다. 하루 전인 24일 서울의 한 영화관에 익일부터 취식 가능 안내문이 게시돼 있다. 2022.04.24. kkssmm99@newsis.com]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F24%2Fnewsis%2F20220424154740594jbbk.jpg" length="0" type="image//thumb/S384x240/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F24%2Fnewsis%2F20220424154738384vsiv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
