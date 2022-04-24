@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 22:06:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 23:07:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,14 +144,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F24%2Fnewsis%2F20220424154740594jbbk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[돌아온 마동석 '범죄도시2', 전작 넘을까[MK무비]]]></title>
-            <link>https://movie.v.daum.net/v/20220423080302209</link>
-            <guid>https://movie.v.daum.net/v/20220423080302209</guid>
-            <pubDate>Sun, 24 Apr 2022 14:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[“전편보다 스케일은 커졌고, 살아 숨 쉬는 캐릭터들의 향연에 매운맛까지 첨가됐어요. 업그레이드 된 통쾌한 액션에 주인공들의 연기를 보시는 맛도 솔솔하실 거에요. 여러분은 그냥 즐기시면 됩니다. &lt;마동석 ‘범죄도시2’ 제작보고회 中&gt;” 괴물형사 마동석의 귀환이다. 기대작 ‘범죄도시2’ 개봉 초읽기에 들어가면서 팬들은 물론 출연 배우들의 기대감도 치솟고 있다]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F23%2Fstartoday%2F20220423080304573eudd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['영화와 팝콘, 내일부터 가능']]></title>
             <link>https://movie.v.daum.net/v/20220424154751716</link>
             <guid>https://movie.v.daum.net/v/20220424154751716</guid>
@@ -166,6 +158,14 @@
             <pubDate>Sun, 24 Apr 2022 10:08:03 GMT</pubDate>
             <content:encoded><![CDATA[[서울=뉴시스] 고승민 기자 = 중앙재난안전대책본부에 따르면 25일부터 영화관, 공연장 등 실내 다중이용시설에서 취식이 가능해진다. 하루 전인 24일 서울의 한 영화관에 익일부터 취식 가능 안내문이 게시돼 있다. 2022.04.24. kkssmm99@newsis.com]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F24%2Fnewsis%2F20220424154738384vsiv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['25일부터 상영관서 취식 가능해요']]></title>
+            <link>https://movie.v.daum.net/v/20220424154754719</link>
+            <guid>https://movie.v.daum.net/v/20220424154754719</guid>
+            <pubDate>Sun, 24 Apr 2022 23:06:57 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스] 고승민 기자 = 중앙재난안전대책본부에 따르면 25일부터 영화관, 공연장 등 실내 다중이용시설에서 취식이 가능해진다. 하루 전인 24일 서울의 한 영화관에 익일부터 취식 가능 안내문이 게시돼 있다. 2022.04.24. kkssmm99@newsis.com]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F24%2Fnewsis%2F20220424154754677pnsw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
