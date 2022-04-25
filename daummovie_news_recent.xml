@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-04-25T19:07:17.083Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 25 Apr 2022 21:06:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애니메이션과 함께하는 랜선 여행.."라틴아메리카로 떠나요" [TF프리즘]]]></title>
+            <link>https://v.daum.net/v/20220426050014506</link>
+            <guid>https://v.daum.net/v/20220426050014506</guid>
+            <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['몬스터 아카데미'·'코코'·'엔칸토', 스크린 통해 떠나는 특별한 여행 [더팩트｜원세나 기자] 판타지 액션 어드벤처 '몬스터 아카데미'가 개봉을 앞둔 가운데 스크린을 통해 떠나는 라틴아메리카 여행을 즐길 수 있는 애니메이션이 주목받고 있다. 27일 개봉 예정인 '몬스터 아카데미'는 상위 1% 천재들의 학교에 전학해 온 괴짜 소년 대니가 실수로 차원이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F26%2FTHEFACT%2F20220426050017995yxwg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[칸 황금종려상 감독 오디아르 "흑백 파리 배경 젊은 사랑 그리고 싶었다"]]></title>
+            <link>https://v.daum.net/v/20220426043057275</link>
+            <guid>https://v.daum.net/v/20220426043057275</guid>
+            <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[자크 오디아르(70)는 브루노 뒤몽, 프랑수아 오종 등과 함께 현대 프랑스 영화를 대표하는 감독이다. 장르 영화의 규칙을 지렛대 삼아 프랑스 사회 이면을 들춰 왔다. 폭력에 노출된 이민자와 빈민 등의 삶을 그려내며 긴장감을 빚어냈던 ‘내 심장이 건너뛴 박동’(2005)과 ‘예언자’(2009), ‘러스트 앤 본’(2012) 등이 대표작이다. 스리랑카 출신 불]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F26%2Fhankooki%2F20220426043059998ujhy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
