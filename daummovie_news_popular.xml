@@ -4,7 +4,7 @@
         <title>다음영화 뉴스 ─ 인기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 23:07:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 02:48:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,14 +112,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F24%2Fpoctan%2F20220424112602389vizs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["'닥터 스트레인지2' 게이 캐릭터 등장", 사우디서 개봉 금지[해외이슈]]]></title>
-            <link>https://movie.v.daum.net/v/20220423092615999</link>
-            <guid>https://movie.v.daum.net/v/20220423092615999</guid>
-            <pubDate>Sun, 24 Apr 2022 15:06:07 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]마블 히어로 무비 ‘닥터 스트레인지:대혼돈의 멀티버스’가 게이 캐릭터가 등장한다는 이유로 사우디 아라비아에서 개봉이 금지됐다. 할리우드 리포터는 22일(현지시간) “‘닥터 스트레인지:대혼돈의 멀티버스’에는 동성애자 캐릭터인 아메리카 차베스(소치틀 고메즈)가 등장한다”면서 “아랍권에서 동성애가 공식적으로 불법이기 때문에 성소수]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F23%2Fmydaily%2F20220423092616019xhlo.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['25일부터 영화보면서 팝콘 가능해요']]></title>
             <link>https://movie.v.daum.net/v/20220424154816726</link>
             <guid>https://movie.v.daum.net/v/20220424154816726</guid>
@@ -166,6 +158,14 @@
             <pubDate>Sun, 24 Apr 2022 23:06:57 GMT</pubDate>
             <content:encoded><![CDATA[[서울=뉴시스] 고승민 기자 = 중앙재난안전대책본부에 따르면 25일부터 영화관, 공연장 등 실내 다중이용시설에서 취식이 가능해진다. 하루 전인 24일 서울의 한 영화관에 익일부터 취식 가능 안내문이 게시돼 있다. 2022.04.24. kkssmm99@newsis.com]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F24%2Fnewsis%2F20220424154754677pnsw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['25일부터 상영관서 취식 가능해요']]></title>
+            <link>https://movie.v.daum.net/v/20220424154807723</link>
+            <guid>https://movie.v.daum.net/v/20220424154807723</guid>
+            <pubDate>Mon, 25 Apr 2022 02:47:59 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스] 고승민 기자 = 중앙재난안전대책본부에 따르면 25일부터 영화관, 공연장 등 실내 다중이용시설에서 취식이 가능해진다. 하루 전인 24일 서울의 한 영화관에 익일부터 취식 가능 안내문이 게시돼 있다. 2022.04.24. kkssmm99@newsis.com]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F24%2Fnewsis%2F20220424154807444lbdy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
     </channel>
 </rss>
