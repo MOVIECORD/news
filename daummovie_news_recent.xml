@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-04-26T16:10:06.929Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 26 Apr 2022 17:18:03 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["할리우드 감독들과 가까이 소통하며 '제2 봉준호의 꿈' 키워요"]]></title>
+            <link>https://v.daum.net/v/20220427011604309</link>
+            <guid>https://v.daum.net/v/20220427011604309</guid>
+            <pubDate>Tue, 26 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“지난해 마동석 배우의 할리우드 진출작으로 앤절리나 졸리와 주연을 맡아 화제리에 개봉한 마블의 &lt;이터널스&gt;가 저한테도 첫 작품인 셈입니다. 뉴욕에서 스쿨 오브 비주얼아트(SVA)를 졸업한 뒤 2019년 10월 엘에이(LA)의 한 제작사에서 했던 첫 작업이거든요.” 엘에이의 디지털 비주얼 제작사인 헤일론(Halon) 엔터테인먼트에서 일하고 있는 안승원(31·]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F27%2Fhani%2F20220427014603975mzmy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
