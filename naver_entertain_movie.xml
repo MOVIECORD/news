@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-26T20:08:40.140Z</updated>
+    <updated>2022-04-26T21:07:51.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[클로즈업 필름]소설가의 영화와 홍상수의 실화 사이]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011147870</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011147870"/>
+        <updated>2022-04-26T21:07:01.546Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 손정빈 기자 = 다 제쳐두고 일단 마지막 장면으로 가자. 홍상수 감독의 새 흑백영화 '소설가의 영화'는 제목처럼 극 중 소설가 준희(이혜영)가 만든 영화의 한 대목으로 추측되는 영상을 보여주며 끝난다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디지털 전환기 맞은 K-콘텐츠…"메타버스 만들 시장 집중해야"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011147845</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004046959"/>
         <updated>2022-04-26T10:07:38.039Z</updated>
         <content type="html"><![CDATA[[서울경제] 영화관 안에서 음식을 먹을 수 있게 된 지난 25일, 서울 용산구 CGV용산아이파크몰 매점에 사람들이 조금씩 모이기 시작했다. CJ CGV 측은 이날 매점 매출이 전주 대비 2배 가까이 늘었다고 전했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 '아치의 노래,정태춘' 언론 시사회[경향포토]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003143042</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003143042"/>
-        <updated>2022-04-26T10:07:38.042Z</updated>
-        <content type="html"><![CDATA[[경향신문] 고영재 감독(왼쪽부터)과 가수 박은옥, 정태춘이 26일 서울 CGV용산아이파크몰에서 진행된 영화 '아치의 노래, 정태춘'(감독 고영재) 언론 시사회에 참석해 포즈를 취하고 있다. 이 시대의 음유시인, 정]]></content>
     </entry>
 </feed>
