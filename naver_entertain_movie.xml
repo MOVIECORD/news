@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-26T15:08:02.452Z</updated>
+    <updated>2022-04-26T16:10:06.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘콘매소’, 콘텐츠 구인·구직 커뮤니티 플랫폼으로 리뉴얼]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000808903</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000808903"/>
+        <updated>2022-04-26T16:09:20.268Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] 콘텐츠 구인·구직 플랫폼으로 지난해 설립된 ‘콘텐츠 매칭소(이하, 콘매소)’가 최근 1주년을 맞아 콘텐츠 커뮤니티 플랫폼으로써 세계관을 확장해, 리뉴얼을 마쳤다고 26일 밝혔다. 기존에는 콘텐츠 전반적]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부산시-영진위, 先부산촬영소 後후반작업시설 건립 합의]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000008086</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003143040"/>
         <updated>2022-04-26T10:07:38.048Z</updated>
         <content type="html"><![CDATA[[경향신문] 가수 정태춘이 26일 서울 CGV용산아이파크몰에서 진행된 영화 '아치의 노래, 정태춘'(감독 고영재) 언론 시사회에 참석해 취재진 질문을 듣고 있다. 이 시대의 음유시인, 정태춘의 데뷔 40주년을 기념해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['브로커' 송강호 "인간이 가진 고귀한 감정 담아"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0005080186</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0005080186"/>
-        <updated>2022-04-26T10:07:38.057Z</updated>
-        <content type="html"><![CDATA["'브로커'는 인간이 가지고 있는 고귀한 감정들을 이야기하는 영화다." 배우 송강호는 26일 영화 '브로커'(감독 고레에다 히로카즈) 측이 공개한 '브로커의 시작' 인트로 영상에서 이같이 말했다. 75회 칸 국제영화]]></content>
     </entry>
 </feed>
