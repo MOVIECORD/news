@@ -4,15 +4,33 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 03:45:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 04:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차예련 드라마 복귀, 현실판 신데렐라 ‘유수연’ KBS 일일드라마 '황금가면']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=205058</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=205058</guid>
+            <pubDate>Tue, 26 Apr 2022 04:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=205058">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220426095821_aa0e94afab6b80fba98eb3ea49f975d2.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=205058">차예련 드라마 복귀, 현실판 신데렐라 ‘유수연’ KBS 일일드라마 '황금가면'</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%99%A9%EA%B8%88%EA%B0%80%EB%A9%B4">일일드라마 황금가면</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220426095821_aa0e94afab6b80fba98eb3ea49f975d2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여자친구와 동거 문제 고민하고 있는 30대 중반 남성의 고민...'무엇이든 물어보살']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=205040</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=205040</guid>
             <pubDate>Tue, 26 Apr 2022 00:29:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=205040">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=205040">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220426092121_076850c825d46ffccb257be7124ed13e.jpg" alt="대체 텍스트">
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8C%80%ED%95%98%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%83%9C%EC%A2%85%20%EC%9D%B4%EB%B0%A9%EC%9B%90">대하드라마 태종 이방원</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220425000444_35fda7e5e2b67c5963d23759ea9bdc0c_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[태종 이방원] 왕위를 둘러싼 경쟁... 자신의 영향력을 키워나가는 충녕대군과 달리 실망스러운 세자]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=204719</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204719</guid>
-            <pubDate>Sun, 24 Apr 2022 15:05:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204719">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220424235856_01beea621aca6c42343c9dc518956e7a_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204719">[태종 이방원] 왕위를 둘러싼 경쟁... 자신의 영향력을 키워나가는 충녕대군과 달리 실망스러운 세자</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8C%80%ED%95%98%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%83%9C%EC%A2%85%20%EC%9D%B4%EB%B0%A9%EC%9B%90">대하드라마 태종 이방원</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220424235856_01beea621aca6c42343c9dc518956e7a_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
