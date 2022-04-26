@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-26T19:04:37.543Z</updated>
+    <updated>2022-04-26T20:08:40.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디지털 전환기 맞은 K-콘텐츠…"메타버스 만들 시장 집중해야"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011147845</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011147845"/>
+        <updated>2022-04-26T20:07:50.154Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 문체부-콘진원 온라인 '콘텐츠산업포럼' 개최 김범주 유니티코리아 본부장 "메타버스는 게임의 일상화" 27일 음악·이야기, 28일 게임·방송 분야 발표 [서울=뉴시스] 박주연 기자 = 디지털 전환기 속]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“할리우드 감독들과 가까이 소통하며 ‘제2 봉준호의 꿈’ 키워요”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002588349</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003143042"/>
         <updated>2022-04-26T10:07:38.042Z</updated>
         <content type="html"><![CDATA[[경향신문] 고영재 감독(왼쪽부터)과 가수 박은옥, 정태춘이 26일 서울 CGV용산아이파크몰에서 진행된 영화 '아치의 노래, 정태춘'(감독 고영재) 언론 시사회에 참석해 포즈를 취하고 있다. 이 시대의 음유시인, 정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 '아치의 노래,정태춘' 언론 시사회[경향포토]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003143041</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003143041"/>
-        <updated>2022-04-26T10:07:38.045Z</updated>
-        <content type="html"><![CDATA[[경향신문] 가수 박은옥이 26일 서울 CGV용산아이파크몰에서 진행된 영화 '아치의 노래, 정태춘'(감독 고영재) 언론 시사회에 참석해 취재진 질문에 답하고 있다. 이 시대의 음유시인, 정태춘의 데뷔 40주년을 기념]]></content>
     </entry>
 </feed>
