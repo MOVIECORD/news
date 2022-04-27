@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-04-27T15:09:34.441Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 27 Apr 2022 16:10:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["너무 야한데.." 윤은혜, 공유와 진했던 '키스신' 입틀막→김종국과 'Love' 라인까지 ('라스') [종합]]]></title>
+            <link>https://v.daum.net/v/20220428005131582</link>
+            <guid>https://v.daum.net/v/20220428005131582</guid>
+            <pubDate>Wed, 27 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김수형 기자] ‘라디오스타’에서 윤은혜가 '커피프린스1호점'과 'X맨'&nbsp;시절을 재소환했다.&nbsp; 27일 방송된 MBC 예능 ‘라디오스타’에서 첫사랑 특집에 명세빈, 윤은혜, 허경환, 보나가 출연했다. 윤은혜는 2년 전 ‘라디오스타’ 출연 후 많은 일들이 있었다며 “멈춰있던 통장도 열렸다”며 기쁜 소식을 전했다. 김국진은 “혹시 통장이 멈췄냐”고]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202204%2F28%2Fpoctan%2F20220428005132455xtwc.png" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
