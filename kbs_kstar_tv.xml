@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 00:35:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 03:07:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드라마 ‘살인자의 쇼핑목록’,  이광수-김설현의  '슈퍼마켓 히어로']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=205343</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=205343</guid>
+            <pubDate>Wed, 27 Apr 2022 03:04:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=205343">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220427102650_0a0a18badd72dbb7b249780065b260d9.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=205343">드라마 ‘살인자의 쇼핑목록’,  이광수-김설현의  '슈퍼마켓 히어로'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220427102650_0a0a18badd72dbb7b249780065b260d9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장] 이광수와 김설현의 슈퍼마켓 추리극,  '살인자의 쇼핑목록' 제작발표회]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=204863</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203906">'결혼작사 이혼작곡3' 직진남 부배, 비하인드 컷 공개!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220420110032_6e40ed3d08598105bd156ce61ec3bc28.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[머리 피 흘리는 김희선...그의 비밀은 무엇인가]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=203843</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=203843</guid>
-            <pubDate>Wed, 20 Apr 2022 04:46:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=203843">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220420090332_bf5afc3fa0320fa45cc3bff7d050961f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=203843">머리 피 흘리는 김희선...그의 비밀은 무엇인가</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220420090332_bf5afc3fa0320fa45cc3bff7d050961f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
