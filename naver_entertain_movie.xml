@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-27T14:10:35.503Z</updated>
+    <updated>2022-04-27T15:09:34.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[조재휘의 시네필] ‘스펜서’ 왕실이란 감옥에 갇힌, 신경쇠약 직전 여자의 삶]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000008183</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000008183"/>
+        <updated>2022-04-27T15:08:38.169Z</updated>
+        <content type="html"><![CDATA[‘스펜서’(2021)는 다이애나 왕세자비에 대한 영화가 아니다. 여기에는 실화를 다룬다는 명목을 내세운 영화들이 흔히 빠지는 선정주의, 소재의 유명세에 기대어 허술한 만듦새의 변명으로 삼으려는 안이함이 없다. 영화는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['영웅본색' 증강, 홍콩 호텔서 격리 중 사망.."의식 잃은 상태로 발견"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003048575</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004602164"/>
         <updated>2022-04-27T11:05:18.093Z</updated>
         <content type="html"><![CDATA[[OSEN=이대선 기자] 27일 오후 서울 강남구 메가박스 코엑스에서 영화 ‘서울괴담’ 무대인사가 진행됐다. 가수 서지수와 배우 이영진이 미소를 짓고 있다. 2022.04.27 /sunday@osen.co.kr]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]우주소녀 엑시,'살아있는 인형']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004602158</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004602158"/>
-        <updated>2022-04-27T11:05:18.096Z</updated>
-        <content type="html"><![CDATA[[OSEN=이대선 기자] 27일 오후 서울 강남구 메가박스 코엑스에서 영화 ‘서울괴담’ 무대인사가 진행됐다. 우주소녀 엑시가 머리카락을 넘기고 있다. 2022.04.27 /sunday@osen.co.kr]]></content>
     </entry>
 </feed>
