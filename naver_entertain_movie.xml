@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-27T20:08:42.542Z</updated>
+    <updated>2022-04-27T21:08:39.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[클로즈업 필름]수어(手語)는 새로운 영화 언어일까]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011150594</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011150594"/>
+        <updated>2022-04-27T21:07:48.300Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 홍상수 신작 '소설가의 영화' 수어 장면 '드라이브 마이 카' 수어 연기와 겹쳐져 홍상수·하마구치 류스케 수어에 주목해 소수자 주목 경향 수어 예술성 관심으로 시각 언어, 시각 예술 영화와 궁합 맞아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍콩배우 증강 별세, '영웅본색' 택시회사 사장…향년 87세]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011150524</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004602183"/>
         <updated>2022-04-27T11:05:18.082Z</updated>
         <content type="html"><![CDATA[[OSEN=이대선 기자] 27일 오후 서울 강남구 메가박스 코엑스에서 영화 ‘서울괴담’ 무대인사가 진행됐다. 배우 이호원이 객석을 바라보고 있다. 2022.04.27 /sunday@osen.co.kr]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]이수민,'서울괴담 많이 사랑해주세요']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004602177</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004602177"/>
-        <updated>2022-04-27T11:05:18.083Z</updated>
-        <content type="html"><![CDATA[[OSEN=이대선 기자] 27일 오후 서울 강남구 메가박스 코엑스에서 영화 ‘서울괴담’ 무대인사가 진행됐다. 배우 이수민이 박수를 치고 있다. 2022.04.27 /sunday@osen.co.kr]]></content>
     </entry>
 </feed>
