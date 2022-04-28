@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-28T19:05:54.023Z</updated>
+    <updated>2022-04-28T20:07:18.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔데믹 시대 첫 축제… 전주영화제 막이 올랐다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000672281</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000672281"/>
+        <updated>2022-04-28T20:06:39.316Z</updated>
+        <content type="html"><![CDATA["객석을 꽉 채운 이 모습, 우리가 얼마나 그리워했습니까."(개막식 사회자 배우 장현성) 좌석 사이 간격 두기는 없었다. 관객 2,300여 명이 특설 극장에 모여 한 방향을 같이 바라봤다. 대형 스크린이 있었다. 작]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로봇을 통해 본 이방인의 정체성과 고민···전주국제영화제 개막작 '애프터 양']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004692136</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000809438"/>
         <updated>2022-04-28T12:13:08.166Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 어린이날 100주년을 맞아 ‘부산국제어린이청소년영화제’ 진흥에 대한 관심이 뜨겁다. 부산 국제어린이청소년영화제(BIKY, 2022.7.8~17)의 개막을 앞두고 지난 27일 경쟁부문 본선진출작 40편이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[활짝 웃는 장현성ㆍ유인나]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013145662</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013145662"/>
-        <updated>2022-04-28T12:13:08.170Z</updated>
-        <content type="html"><![CDATA[(전주=연합뉴스) 나보배 기자 = 배우 장현성, 유인나가 28일 전북 전주시 완산구 고사동 옥토주차장 부지에 마련된 '전주돔'에서 제23회 전주국제영화제 개막식 사회를 보며 활짝 웃고 있다. 2022.4.28 war]]></content>
     </entry>
 </feed>
