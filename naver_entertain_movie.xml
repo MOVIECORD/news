@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-28T20:07:18.712Z</updated>
+    <updated>2022-04-28T21:05:13.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[클로즈업 OTT]위대한 야심과 슈퍼히어로의 비밀]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011153216</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011153216"/>
+        <updated>2022-04-28T21:04:34.271Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 손정빈 기자 = 뉴시스는 넷플릭스·왓챠·웨이브·디즈니+·티빙 등 온라인 스트리밍 플랫폼에서 절대 놓쳐서는 안 될 수준 높은 드라마·영화·다큐멘터리 등을 매주 2편씩 소개한다. 실패가 만든 야망…리턴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔데믹 시대 첫 축제… 전주영화제 막이 올랐다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000672281</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006060528"/>
         <updated>2022-04-28T12:13:08.163Z</updated>
         <content type="html"><![CDATA[(전주=뉴스1) 정유진 기자 = 제23회 전주국제영화제가 개막식으로 포문을 열었다. 28일 오후 7시 제23회 전주국제영화제 개막식이 전주 시내 옥토주차장 터에 마련된 '전주돔'(dome)에서 열렸다. 이날 개막식]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김의겸 의원, 어린이날 100주년 맞아 ‘어린이·청소년영’ 진흥 입법 노력]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000809438</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000809438"/>
-        <updated>2022-04-28T12:13:08.166Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 어린이날 100주년을 맞아 ‘부산국제어린이청소년영화제’ 진흥에 대한 관심이 뜨겁다. 부산 국제어린이청소년영화제(BIKY, 2022.7.8~17)의 개막을 앞두고 지난 27일 경쟁부문 본선진출작 40편이]]></content>
     </entry>
 </feed>
