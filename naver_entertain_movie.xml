@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-28T13:32:15.728Z</updated>
+    <updated>2022-04-28T14:07:23.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사진]전주국제영화제,'기대감 부푼 관객']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004603348</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004603348"/>
+        <updated>2022-04-28T14:06:36.743Z</updated>
+        <content type="html"><![CDATA[[OSEN=전주, 김성락 기자] 28일 오후 전라북도 전주시 전주돔에서 ‘제 23회 전주국제영화제(2022)’ 개막식 레드카펫 행사가 열렸다. 이번 전주국제영화제는 28일 개막식을 시작으로 다음 달 7일까지 진행된다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김상경, 29일 '공기살인' 국회특별시사회 참석]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004956811</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003690872"/>
         <updated>2022-04-28T12:13:08.193Z</updated>
         <content type="html"><![CDATA[칸 영화제 경쟁부문 초청작 ‘파리, 13구’ 프랑스 영화 거장 자크 오디아르(70) 감독은 ‘예언자’(2009) ‘디판’(2015) 등으로 칸영화제 심사위원대상·황금종려상을 잇달아 받았다. ‘칸의 남자’로도 불리는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레드카펫 걷는 배우 박하선]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013145645</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013145645"/>
-        <updated>2022-04-28T12:13:08.196Z</updated>
-        <content type="html"><![CDATA[(전주=연합뉴스) 임채두 기자 = 28일 오후 전북 전주시 완산구 전주 영화의 거리 내 전주돔에서 열린 '제23회 전주국제영화제 개막식'에 앞서 배우 박하선이 레드카펫을 걷고 있다. 2022.4.28 doo@yna.]]></content>
     </entry>
 </feed>
