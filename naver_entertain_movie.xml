@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-29T10:07:39.483Z</updated>
+    <updated>2022-04-29T11:06:31.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리 함께 의사당을 무너트리자!]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002588816</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002588816"/>
+        <updated>2022-04-29T11:05:35.174Z</updated>
+        <content type="html"><![CDATA[☞한겨레S 뉴스레터 구독하기 https://bit.ly/319DiiE 미국의 국회의원 80퍼센트 이상이 백인, 남성, 법조인, 백만장자라고 한다. 이런 상황을 바꿔내기 위해서 2018년 이례적으로 많은 여성, 유색인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CIX 배진영, 태국·싱가포르 합작 영화로 스크린 데뷔..6월 개봉[공식]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003049192</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000809629"/>
         <updated>2022-04-29T07:07:22.412Z</updated>
         <content type="html"><![CDATA[[스포츠경향] 배우 저스틴 민이 한국인으로서, 아시안-아메리칸으로서 정체성에 대한 고민을 털어놨다. 저스틴 민은 29일 오후 진행된 ‘스포츠경향’과 인터뷰에서 “‘애프터 양’에서 주인공이 ‘아시안-아메리칸에 대한 정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘애프터 양’ 저스틴 민 “전주영화제 개막작 선정, 관객들과 함께 봐 뜻깊어”(23th JIFF)[인터뷰①]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000809628</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000809628"/>
-        <updated>2022-04-29T07:07:22.416Z</updated>
-        <content type="html"><![CDATA[[스포츠경향] 배우 저스틴 민이 제23회 전주국제영화제 개막작으로 출연작 ‘애프터 양’(감독 코고나다)이 선정된 것에 영광스러운 마음을 공개했다. 저스틴 민은 29일 오후 진행된 ‘스포츠경향’과 인터뷰에서 “전주국제]]></content>
     </entry>
 </feed>
