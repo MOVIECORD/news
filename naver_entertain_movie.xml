@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-30T22:10:08.200Z</updated>
+    <updated>2022-04-30T23:05:42.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[극강의 힐링·삶의 경이로움, ‘나를 만나는 길’[MK무비]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004957620</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004957620"/>
+        <updated>2022-04-30T23:04:50.448Z</updated>
+        <content type="html"><![CDATA[베네딕트 컴버배치 내레이션..큰 스님의 마지막 발자취 “강아지가 죽었는데...어떻게 하면 슬플지 않을까요?” 단상 위에 오른 어린 소녀는 마이크를 쥔 채 숨을 크게 몰아쉬며 이 같이 말한다. 소녀의 진솔한 고백에 틱]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[탈 마스크 시대③]물꼬 튼 콘서트·영화관]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011156208</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003049286"/>
         <updated>2022-04-30T00:35:10.736Z</updated>
         <content type="html"><![CDATA[Apple TV+(애플TV플러스)가 전 세계적으로 호평받고 있는 '파친코'의 시즌 2 제작을 확정했다. 거대한 스케일의 서사를 따뜻하게 담아낸 '파친코'는 금지된 사랑에서 시작되는 이야기로 한국과 일본, 그리고 미국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["팝콘 사니까 뭔가 설레네요"..극장 취식 허용에 즐거운 관객들 ②]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003049285</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003049285"/>
-        <updated>2022-04-30T00:35:10.744Z</updated>
-        <content type="html"><![CDATA["영화를 보기 전에 팝콘, 콜라를 사니까 뭔가 더 설레는 감정이 있어요. 재미가 한층 더 사는 것 같아요." 지난 25일부터 영화관 등 다중이용시설에서 취식이 가능해지면서 영화관이 찾는 관객들도 극장에서 먹는 즐거움]]></content>
     </entry>
 </feed>
