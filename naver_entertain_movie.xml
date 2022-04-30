@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-04-30T08:12:08.811Z</updated>
+    <updated>2022-04-30T09:06:55.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[시스루 in JIFF] '경아의 딸' 가깝고 먼 모녀관계, 그래도 결국 연대한다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004048614</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004048614"/>
+        <updated>2022-04-30T09:06:02.169Z</updated>
+        <content type="html"><![CDATA[[서울경제] '현혜선의 시스루'를 연재하는 서울경제스타 현혜선 기자가 제23회 전주국제영화제의 속살을 낱낱이 들여다 봅니다. 영화 '경아의 딸'이 디지털 성범죄라는 사회적 이슈를 애증의 모녀 관계에 녹였다. 피해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오프라 윈프리 "코로나19 대유행 이후 322일 동안 집 안 떠나"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003049341</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006062868"/>
         <updated>2022-04-30T00:35:10.753Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '신비한 동물들과 덤블도어의 비밀'이 박스오피스 1위를 재탈환했다. 30일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '신비한 동물들과 덤블도어의 비밀'은 지난 29일 하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신동덤', 박스오피스 1위 탈환..'니 부모' 10만 돌파[★무비차트]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003049276</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003049276"/>
-        <updated>2022-04-30T00:35:10.756Z</updated>
-        <content type="html"><![CDATA['신비한 동물들과 덤블도어의 비밀'이 박스오피스 1위를 탈환했다. 30일 영화진흥위원회 영화관입장권 통합전산망에 따르면 '신비한 동물들과 덤블도어의 비밀'은 3만 9981명의 관객을 모아 박스오피스 1위를 차지했다.]]></content>
     </entry>
 </feed>

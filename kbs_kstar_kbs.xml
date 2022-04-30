@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 08:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 09:06:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['태종 이방원'  주상욱, 가문과 국가 위한 중대한 결정]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=206038</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=206038</guid>
+            <pubDate>Sat, 30 Apr 2022 09:05:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=206038">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220430163053_5848d629627065641ddd32bfc899dd1d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=206038">'태종 이방원'  주상욱, 가문과 국가 위한 중대한 결정 </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8C%80%ED%95%98%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%83%9C%EC%A2%85%20%EC%9D%B4%EB%B0%A9%EC%9B%90">대하드라마 태종 이방원</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220430163053_5848d629627065641ddd32bfc899dd1d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['동물극장 단짝' 홍천강 방울 아빠, 흐르는 강물처럼]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=205870</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9E%90%EC%97%B0%EC%9D%98%20%EC%B2%A0%ED%95%99%EC%9E%90%EB%93%A4">자연의 철학자들</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220429101048_9586018c76f1999a317b5e952e50ed3d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[너에게 가는 속도 493km] 박주현X채종협, 처음으로 참여한 대회에서 ‘강렬한 인상’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=205854</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=205854</guid>
-            <pubDate>Fri, 29 Apr 2022 06:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=205854">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220429092244_27ec0cfa92dd103d2b2d13929b212a5d.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=205854">[너에게 가는 속도 493km] 박주현X채종협, 처음으로 참여한 대회에서 ‘강렬한 인상’</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%84%88%EC%97%90%EA%B2%8C%20%EA%B0%80%EB%8A%94%20%EC%86%8D%EB%8F%84%20493km">수목드라마 너에게 가는 속도 493km</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220429092244_27ec0cfa92dd103d2b2d13929b212a5d.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
