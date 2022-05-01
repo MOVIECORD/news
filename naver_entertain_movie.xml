@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-05-01T20:07:23.405Z</updated>
+    <updated>2022-05-01T21:08:15.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[팝콘 허용에 관객이 돌아왔다…영화관 관객수 37.5%↑]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011157313</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011157313"/>
+        <updated>2022-05-01T21:07:22.358Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 25일~5월1일 총 관객수 96만8722명 전주 70만4440명보다 37.5% 급증해 '거리 두기 해제+음식물 허용' 영향줘 대작 영화 줄줄이 개봉 관객 더 늘듯 [서울=뉴시스] 손정빈 기자 = 사회적]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조국 "나를 견제할 정치후보로 보고 싹을 짤라 유배"…다큐 '그대가 조국']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006064973</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013149411"/>
         <updated>2022-05-01T06:10:25.192Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 오보람 기자 = 판타지 블록버스터 '신비한 동물들과 덤블도어의 비밀'(이하 '신비한 동물사전 3')이 올해 개봉한 영화 가운데 두 번째로 관객 수 100만 명을 돌파했다. 1일 영화진흥위원회 영화관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[23th JIFF] 연상호 감독 "좋아하고 영감 받은 영화로 프로그래밍 했다"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002599805</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002599805"/>
-        <updated>2022-05-01T05:16:52.250Z</updated>
-        <content type="html"><![CDATA[[데일리안= 류지윤 기자] 연상호 감독이 자신이 좋아하는 영화를 함께 관람하고 관객들과 생각을 공유한다. 5월 1일 오후 전주 완산구 고사동에 위치한 중부비전센터에서는 제23회 전주국제영화제 'J 스페셜: 올해의 프]]></content>
     </entry>
 </feed>
