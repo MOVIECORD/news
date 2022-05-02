@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 22:08:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 23:05:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[JIFF] 신수원 감독, 홍은원 감독에 대한 '오마쥬']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=206452</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=206452</guid>
+            <pubDate>Mon, 02 May 2022 23:02:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=206452">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220503075517_201205f95832772ee2d046c85256ce63.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=206452">[JIFF] 신수원 감독, 홍은원 감독에 대한 '오마쥬'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220503075517_201205f95832772ee2d046c85256ce63.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[화상 인터뷰] 베네딕트 컴버배치  "그동안 닥터 스트레인지로 바빴다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=206338</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=205619">"크리스 프랫입니다. 한국 사랑해요" '쥬라기 월드: 도미니언' 6월 1일 개봉 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220428105805_7c08f69520f829a7132bbdc2ceb300d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 '장미맨션' 임지연, 언니를 찾는 집념의 동생]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=205599</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=205599</guid>
-            <pubDate>Thu, 28 Apr 2022 08:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=205599">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220428094305_b93cdfcaf5bf9ca67fbed303273dc09c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=205599">티빙 '장미맨션' 임지연, 언니를 찾는 집념의 동생</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220428094305_b93cdfcaf5bf9ca67fbed303273dc09c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
