@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 00:33:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 02:56:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[제작발표회] 마술사 지창욱이 초대하는 꿈과 환상의 세계, '안나라수마나라' (종합)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=206545</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=206545</guid>
+            <pubDate>Tue, 03 May 2022 02:53:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=206545">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220503111804_14c2c0d0bc05c14ba84dde4480c0ba1c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=206545">[제작발표회] 마술사 지창욱이 초대하는 꿈과 환상의 세계, '안나라수마나라' (종합)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220503111804_14c2c0d0bc05c14ba84dde4480c0ba1c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[JIFF인터뷰] 강길우, 폐막식 사회자로서의 포부 "전주는 나에게 친정"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=206487</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=205696">[JIFF현장] '파친코' 코고나다 감독의 '애프터 양'...우리의 인간성에게 던지는 질문</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220428173251_80f915b522a87746f1739c17dc119268.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[JIFF현장] '애프터 양' 주연 저스틴 민, "한국, 집 같은 기분"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=205690</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=205690</guid>
-            <pubDate>Thu, 28 Apr 2022 11:03:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=205690">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220428172048_3fcebdd0fbef460a48b3aeb0cdf05e2b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=205690">[JIFF현장] '애프터 양' 주연 저스틴 민, "한국, 집 같은 기분" </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220428172048_3fcebdd0fbef460a48b3aeb0cdf05e2b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
