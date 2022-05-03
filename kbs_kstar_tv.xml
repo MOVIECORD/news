@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 11:09:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 12:13:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘벌거벗은 세계사’  독일의 분단과 통일]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=206579</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=206579</guid>
+            <pubDate>Tue, 03 May 2022 12:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=206579">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220503170001_576128835ff39f3b6fd6013962a9b0cb.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=206579">‘벌거벗은 세계사’  독일의 분단과 통일 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220503170001_576128835ff39f3b6fd6013962a9b0cb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코미디 대부 이경규...어머니 생각에 눈물 울컥]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=206537</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204572"> ‘우리들의 블루스’ 김혜자X이병헌 모자의 갈등</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220423195720_eb53d3ecc036c68c9637512fdc44cb7b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이광수X설현 환상의 팀플레이 '놀라운 토요일']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=204564</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=204564</guid>
-            <pubDate>Sat, 23 Apr 2022 12:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=204564">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220423195247_58fafaf5e543ad9b047455c636b6984a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=204564">이광수X설현 환상의 팀플레이 '놀라운 토요일'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220423195247_58fafaf5e543ad9b047455c636b6984a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
