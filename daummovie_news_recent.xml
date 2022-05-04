@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-05-04T21:07:52.653Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 04 May 2022 22:07:02 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['배드 가이즈', 범죄·오락·액션 명작들 오마주로 눈길 [TF프리즘]]]></title>
+            <link>https://v.daum.net/v/20220505070003868</link>
+            <guid>https://v.daum.net/v/20220505070003868</guid>
+            <pubDate>Wed, 04 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[드림웍스의 신작, '미션 임파서블'부터 '분노의 질주'까지 오마주&nbsp; [더팩트｜원세나 기자] 영화 '배드 가이즈'가 범죄오락액션 명작들을 오마주(영화에서 존경의 표시로 다른 작품의 주요 장면이나 대사를 인용하는 것)해 화제를 모으고 있다. '배드 가이즈'는 드림웍스 최초의 범죄오락액션 블록버스터 애니메이션으로 드림웍스가 5년 만에 야심 차게 선보이는 신]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F05%2FTHEFACT%2F20220505070007370dyip.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
