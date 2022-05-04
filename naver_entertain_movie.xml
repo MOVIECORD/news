@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-05-04T20:12:01.602Z</updated>
+    <updated>2022-05-04T21:07:52.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[영화평 300]그 영화, 추앙합니다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011165966</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011165966"/>
+        <updated>2022-05-04T21:07:02.710Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 손정빈 기자 = 5월 첫 주차 개봉 영화와 최근 개봉 영화 간단평을 정리했다. 이게 다 뭔 소리야…닥터 스트레인지:대혼돈의 멀티버스 이 영화의 가장 큰 문제는 디즈니+ 드라마 시리즈 '완다비전'을 보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이원 기자의 Ent 프리즘] 신작 애니 풍성…어린이날, 극장 나들이 어때요]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000008799</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004959442"/>
         <updated>2022-05-04T09:06:04.156Z</updated>
         <content type="html"><![CDATA[메가박스가 극장가 성수기로 꼽히는 여름 흥행 대전의 서막을 열어줄 돌비 시네마의 5월 개봉 영화로 ‘닥터 스트레인지: 대혼돈의 멀티버스’를 선정했다. 4일 개봉한 ‘닥터 스트레인지: 대혼돈의 멀티버스’(감독 샘 레이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['브로커' 고레에다 히로카즈 감독 "'나의 아저씨' 보고 아이유에 푹 빠졌다"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003555989</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003555989"/>
-        <updated>2022-05-04T09:06:04.161Z</updated>
-        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] '브로커' 고레에다 히로카즈 감독의 캐스팅 비화가 공개됐다. 영화 '브로커'는 베이비 박스를 둘러싸고 관계를 맺게 된 이들의 예기치 못한 특별한 여정을 그린 작품. 가장 먼저 베이비 박스]]></content>
     </entry>
 </feed>
