@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-05-05T06:12:26.797Z</updated>
+    <updated>2022-05-05T07:06:30.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[송길영의 디스토피아로부터] 새로운 봄이 시작되고 있음을]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000047308</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000047308"/>
+        <updated>2022-05-05T07:04:44.149Z</updated>
+        <content type="html"><![CDATA[2년 넘게 쓰고 있는 마스크는 이제 내 몸의 일부가 된 듯하다. 4월18일부터 모이는 사람의 수도, 업장에 있을 수 있는 시간제한도 없어진다 했지만 너무 오랜만의 자유라 도통 실감이 나지 않는다. 기쁜 마음에 오랜만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['닥터 스트레인지2', 개봉 2일째 132만 돌파…코로나 이후 최단 기록]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001444475</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000802339"/>
         <updated>2022-05-05T02:43:28.427Z</updated>
         <content type="html"><![CDATA[[스포츠서울 | 황혜정기자] 영화 ‘닥터 스트레인지: 대혼돈의 멀티버스’가 개봉 첫날 흥행 신기록을 세웠다. 이는 코로나19 펜데믹 이후 최고 기록이다. ‘닥터 스트레인지: 대혼돈의 멀티버스’(이하 ‘닥터 스트레인지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공식] '스파이더맨3'보다 빠르다..'닥스2' 개봉 2일차 132만 관객 돌파]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003863443</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003863443"/>
-        <updated>2022-05-05T02:43:28.465Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 문지연 기자] '닥터 스트레인지2'가 새 역사를 써내려가고 있다. 2020-2022년 개봉작 중 최고 오프닝 스코어를 기록하며 폭발적 흥행 열풍을 예고하는 '닥터 스트레인지: 대혼돈의 멀티버스'가 개봉]]></content>
     </entry>
 </feed>
