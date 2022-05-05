@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-05-05T20:06:37.319Z</updated>
+    <updated>2022-05-05T21:06:20.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美항공모함서 '탑건' 레드카펫 행사…톰 크루즈, 헬기 타고 등장]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013160147</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013160147"/>
+        <updated>2022-05-05T21:05:20.405Z</updated>
+        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 정윤섭 특파원 = 미국 할리우드의 기대작 중 하나인 영화 '탑건 2' 시사회를 위한 레드카펫 행사가 퇴역 항공모함인 미드웨이호에서 열렸다. 5일(현지시간) CNN 방송과 연예 매체 페이지식스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[100% 부산표 영화 ‘정순’의 쾌거…지역콘텐츠 자생력 쑥쑥]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000008893</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006074418"/>
         <updated>2022-05-05T12:13:49.432Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 윤효정 기자,김정현 기자 = 영화배우 강수연(56)가 심정지 상태로 병원에 이송된 소식이 갑작스럽게 전해진 가운데 동료들과 팬들이 아무 일 없기를 바랐다. 5일 경찰과 소방당국에 따르면 이날 오후 5]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 강수연, 심정지 상태로 병원 이송]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000978148</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000978148"/>
-        <updated>2022-05-05T12:13:49.438Z</updated>
-        <content type="html"><![CDATA[배우 강수연, 심정지 상태로 병원 이송 배우 강수연(55)이 심정지 상태로 병원으로 이송됐다. 5일 소방당국과 경찰에 따르면 강수연은 이날 오후 5시께 서울 강남구 압구정동 자택에서 심정지 상태로 발견됐으며 심폐소생]]></content>
     </entry>
 </feed>
