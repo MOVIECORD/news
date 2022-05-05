@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-05-05T15:07:38.076Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 05 May 2022 16:09:42 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국영화 세계 알린 강수연..영화계·팬들 쾌유 기원 한마음]]></title>
+            <link>https://v.daum.net/v/20220506005406408</link>
+            <guid>https://v.daum.net/v/20220506005406408</guid>
+            <pubDate>Thu, 05 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 김계연 강애란 기자 = 배우 강수연(55)이 지난 5일 심정지 상태로 병원에 옮겨져 치료받고 있는 사실이 알려지면서 영화계 인사들과 팬들은 놀라움 속에 한마음으로 그의 쾌유를 기원했다. 배우 강수연은 '씨받이', '아제 아제 바라아제' 등으로 한국 영화를 세계에 알린 원조 한류스타로 올해 공개 예정인 넷플릭스 영화 '정이'로 복귀를 앞두]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F06%2Fyonhap%2F20220506005406283prlp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
