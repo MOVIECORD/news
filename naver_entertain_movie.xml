@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-05-06T19:06:18.793Z</updated>
+    <updated>2022-05-06T20:13:06.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[TEN인터뷰] 신현준에 기름값만 받은 정준호 "♥이하정 눈물, 과하다 생각했는데…"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000545455</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000545455"/>
+        <updated>2022-05-06T20:11:26.679Z</updated>
+        <content type="html"><![CDATA[[텐아시아=강민경 기자] "시사회 때 와이프(이하정)와 와이프 친구들, 아나운서 동료들이 와서 '어부바'를 봤다. 제가 출연해서 그런지 모르겠는데 울었다고 하더라. 과하게 생각하는 게 아닌가 싶었는데 자기들만 운 게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오징어게임'-류승완 감독, 백상 대상…"강수연 쾌유 기원" [58회 백상](종합)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006076341</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004960466"/>
         <updated>2022-05-06T13:28:18.883Z</updated>
         <content type="html"><![CDATA[‘킹메이커’ 변성현 감독이 올해 감독상의 영예를 안았다. 변성현 감독은 6일 오후 경기 고양시 일산 킨텍스 제1전시장 4홀에서 열린 제58회 백상예술대상에서 영화 부문 감독상의 주인공으로 선정됐다. 이날 변성현 감독]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['백상' 박소담, 갑상선 유두암 수술 후 첫 공식석상 "열심히 회복 중"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003051353</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003051353"/>
-        <updated>2022-05-06T13:28:18.883Z</updated>
-        <content type="html"><![CDATA[배우 박소담이 감상선 유두암 수술 후 첫 공식석상에 섰다. 6일 제58회 백상예술대상이 방송인 신동엽과 배우 수지, 박보검이 MC를 맡은 가운데 일산 킨텍스에서 개최됐다. 젊은 연극인상 시상자로 박소담이 등장했다.]]></content>
     </entry>
 </feed>
