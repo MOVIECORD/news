@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-05-07T18:09:07.299Z</updated>
+    <updated>2022-05-07T19:06:14.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강수연 조문 오늘부터…김동호·임권택 전날부터 빈소 찾아]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011169445</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011169445"/>
+        <updated>2022-05-07T19:05:26.474Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]이재훈 기자 = 배우 강수연(56)의 장례가 영화인장으로 치러진다. 조문은 8일 오전 10시부터 10일 오후 10시까지 받는다. 그러나 '첫 월드스타'의 사망 소식에 빈소에는 본격적인 조문이 시작되기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“명연기 평생 기억”…안철수, 故강수연 추모]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004960678</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013162659"/>
         <updated>2022-05-07T11:05:44.954Z</updated>
         <content type="html"><![CDATA[(전주=연합뉴스) 임채두 기자 = '독립 영화인의 축제' 제23회 전주국제영화제가 열흘 간의 여정을 마치고 7일 폐막했다. 폐막식은 이날 오후 7시 전주돔에서 열렸다. 폐막식 사회자로 선정된 배우 강길우, 이상희를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘원조 월드스타’ 강수연 유작 ‘정이’ 언제 볼 수 있나]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004960651</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004960651"/>
-        <updated>2022-05-07T11:05:44.955Z</updated>
-        <content type="html"><![CDATA[“올해 라인업...공개 시기 미정” 영화배우 강수연(55)이 7일 별세했다. 기다렸던 고인의 모습은 그의 유작이 된 영화 ‘정이’(가제, 감독 연상호)을 통해서만 볼 수 있게 됐다. 고(故) 강수연은 지난해 연상호]]></content>
     </entry>
 </feed>
