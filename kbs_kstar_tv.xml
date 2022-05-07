@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 11:06:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 12:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주우재-주현영-미노이 "놀라운 토요일"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=207291</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=207291</guid>
+            <pubDate>Sat, 07 May 2022 12:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=207291">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220507201657_c092925d2e169b5f48c0b91149ca8c8b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=207291">주우재-주현영-미노이 "놀라운 토요일"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220507201657_c092925d2e169b5f48c0b91149ca8c8b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['이브' 서예지-박병은-유선-이상엽의 서로 다른 욕망]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=207007</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=205471">"재미 있는 제목, 의미 있는 드라마"  tvN오프닝  'XX+XY'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220427171139_98bb457ec26d1e770708f0914394612c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["제주의 아버지, 그리고 아들 딸" 박지환X최영준  '티격태격 포스터']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=205479</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=205479</guid>
-            <pubDate>Thu, 28 Apr 2022 17:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=205479">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220427171900_76840d632cb960d919b33714f56f4f91.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=205479">"제주의 아버지, 그리고 아들 딸" 박지환X최영준  '티격태격 포스터' </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220427171900_76840d632cb960d919b33714f56f4f91.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
