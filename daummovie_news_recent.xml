@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-05-09T20:08:27.177Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 09 May 2022 21:06:23 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[SS무비] 포스트 오미크론 시대, 첫 천만 영화 주인공은?]]></title>
+            <link>https://v.daum.net/v/20220510060117356</link>
+            <guid>https://v.daum.net/v/20220510060117356</guid>
+            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2년 여 동안 이어진 팬데믹으로 얼어붙었던 영화계가 해빙기를 맞았다. 부활의 신호탄을 쏜 주인공은 외과의사 출신 마술사 ‘닥터 스트레인지’. 마블스튜디오의 슈퍼히어로물인 ‘닥터 스트레인지:대혼돈의 멀티버스’(이하 ‘닥터 스트레인지2’)가 징검다리 연휴 누적관객 350만명을 돌파하]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F10%2FSPORTSSEOUL%2F20220510060118590lfgo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['파로호' 이중옥 "풍파와 결핍 있던 인생, 요즘들어 재미 느끼는 중이다"[SS인터뷰]]]></title>
+            <link>https://v.daum.net/v/20220510060103343</link>
+            <guid>https://v.daum.net/v/20220510060103343</guid>
+            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 황혜정기자] “살아오면서 풍파와 결핍이 있었다. 그런 것들이 내 연기에 많은 영향을 미치지 않았나 한다. 내 인생이 재미없는 사람이라고 생각했는데 요즘들어 즐길 여유가 생겼다. 재미를 느끼는 중이다.” 영화 ‘마약왕’, ‘극한직업’, 드라마 ‘타인은 지옥이다’, ‘마인’, ‘구경이’, 최근에는 영화 ‘스텔라’까지. 안방극장과]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F10%2FSPORTSSEOUL%2F20220510060107480qdlp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
