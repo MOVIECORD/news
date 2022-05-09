@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-05-09T14:06:38.628Z</updated>
+    <updated>2022-05-09T15:11:13.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“베이비 박스, 예기치 못한 거래”…‘브로커’ 메인 예고편 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000866497</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000866497"/>
+        <updated>2022-05-09T15:10:16.825Z</updated>
+        <content type="html"><![CDATA[제75회 칸 국제영화제 경쟁 부문 공식 초청작 ‘브로커’(감독/각본 고레에다 히로카즈)가 메인 예고편을 최초 공개했다. ‘브로커’는 베이비 박스를 둘러싸고 관계를 맺게 된 이들의 예기치 못한 특별한 여정을 그린 영화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘쥬라기 월드: 도미니언’ 스틸 9종 공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000978954</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003602260"/>
         <updated>2022-05-09T09:06:53.466Z</updated>
         <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]5월 18일(수) 스트레스를 날려버릴 대한민국 대표 범죄 액션 '범죄도시2'가 한방이 있는 이벤트로 예비 관객들과 센스 넘치는 소통을 진행 중이다. 대한민국 대표 범죄 액션 시리즈 &lt;범죄]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["홍혜걸 어그로 찬물, 오열로 씻어낸 영화인들" 유해진·정유미→김보성 등, 故 강수연 조문 [종합]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003602258</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003602258"/>
-        <updated>2022-05-09T09:06:53.475Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 김나라 기자] 의사 겸 방송인 홍혜걸(55)이 배우 故 강수연의 죽음을 두고 '어그로'(aggro)를 끌며 추모 분위기에 찬물을 끼얹었으나, 영화인들이 뜨거운 눈물로 고인의 영면을 기원했다. 한국영화]]></content>
     </entry>
 </feed>
