@@ -1,8 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-05-09T06:13:22.058Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 09 May 2022 07:08:55 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[직접 헬기 몰고 '탑건' 출정식에 등장한 톰 크루즈의 넘사벽 기세]]></title>
+            <link>https://v.daum.net/v/20220509154726357</link>
+            <guid>https://v.daum.net/v/20220509154726357</guid>
+            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] 톰 크루즈니까 가능한 일. 퇴역 항모 위에서 제작보고회 격의 대규모 이벤트를, 그것도 직접 헬기를 몰고 등장하는 역대급 퍼포먼스가 펼쳐졌다. 상반기 최고 화제작 가운데 하나인 ‘탑건:매버릭’이 최근 미국 현지에서 전무후무한 월드 프리미어를 진행했다. 장소는 퇴역 항모이기도 한 USS미드웨이 박물관이었으며, ‘탑건’의 심장 톰 크루]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F09%2Fnewsen%2F20220509154727088sgko.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['뉴욕포착' 김민희, 언제까지 남친 ♥홍상수 영화에만 출연할까 [Oh!쎈 이슈]]]></title>
+            <link>https://v.daum.net/v/20220509154228105</link>
+            <guid>https://v.daum.net/v/20220509154228105</guid>
+            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자] 홍상수 감독과 배우 김민희의 근황이 화제다.&nbsp;한국에서는 좀처럼 찾기 힘들지만 해외에서는 영화제 등에서 종종 발견되는 두 사람의 투샷이다. 미국 뉴욕 종합예술센터 필름앳링컨센터 측은 지난 6일 공식 SNS를 통해 “월터 리드 극장 앞 홍상수와 김민희”라는 글과 함께 두 사람의 사진을 업로드했다.&nbsp;두 사람이 함께 모습을 드러낸 것은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F09%2Fpoctan%2F20220509154229764jhuh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[20억 후원금 모인 '그대가 조국', 10일 언론시사회]]></title>
+            <link>https://v.daum.net/v/20220509152701211</link>
+            <guid>https://v.daum.net/v/20220509152701211</guid>
+            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[성하훈 기자] &nbsp;        ▲ &nbsp;&lt;그대가 조국&gt; 한 장면    ⓒ 켈빈클레인프로젝트  &nbsp; 전주영화제에서 상영하며 관심을 받은 다큐멘터리&nbsp;영화&nbsp;&lt;그대가&nbsp;조국&gt;이 10일 언론배급 시사회를 예정하고 있다. 공교롭게도 이날은 윤석열 대통령 취임식이 열리는 날이다. &lt;그대가&nbsp;조국&gt; 개봉일은 25일. 일반적으로 일반적으로&nbsp;개봉&nbsp;2주&nbsp;전&nbsp;시사회를&nbsp;열기&nbsp;때문에&nbsp;우연]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F09%2Fohmynews%2F20220509152703006plwh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["조커보다 더한 조카"..호아킨 피닉스 '컴온 컴온', 6월 국내 개봉[공식]]]></title>
+            <link>https://v.daum.net/v/20220509151457704</link>
+            <guid>https://v.daum.net/v/20220509151457704</guid>
+            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;‘조커’로 남우주연상을 휩쓴 배우 호아킨 피닉스가 출연하는 새 영화 ‘컴온 컴온’이 6월 국내 개봉을 확정했다. 개봉 확정과 함께 ‘조커 VS 조카’ 티저 3종 포스터가 공개되어 시선을 사로잡는다. ‘컴온 컴온’(감독 마이크 밀스, 제작 A24, 수입&nbsp;찬란, 배급 스튜디오 디에이치엘)은 조커보다 독한 조카와의 서툰 동행을 통해,]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F09%2Fpoctan%2F20220509151457920jpvh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[홍혜걸, 故 강수연 유튜브 영상 뭇매→사과 "무례했다" [이슈&톡]]]></title>
+            <link>https://v.daum.net/v/20220509150606349</link>
+            <guid>https://v.daum.net/v/20220509150606349</guid>
+            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 의학 전문기자 출신 방송인 홍혜걸이 故 강수연 관련 영상의 부적절했던 제목에 대해 사과했다. 홍혜걸은 지난 8일 자신의 유튜브 채널 '의학채널 비온뒤'에 '강수연은 왜 숨졌나'라는 제목으로 강수연 관련 콘텐츠를 게재했다. 해당 영상을 통해 홍혜걸은 지난 7일 별세한 강수연의 사망 원인에 대해 추측했다. 홍혜걸은 "전문가들이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F09%2Ftvdaily%2F20220509150609678mbpu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["새카만 후배도 챙겨주셔"..故 강수연, 지인들이 밝힌 감동의 미담들(종합)]]></title>
+            <link>https://v.daum.net/v/20220509145445924</link>
+            <guid>https://v.daum.net/v/20220509145445924</guid>
+            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 강수연이 향년 56세로 세상을 떠난 가운데, 고인과 관련한 지인들의 미담이 쏟아지고 있다. 평소 영화계 및 연예계 동료들에게 든든한 선후배 역할을 했던 강수연의 존재감을 확인할 수 있는 대목이다. 방송인 홍석천은 지난 8일 자신의 사회관계망서비스(SNS) 계정에 "참 행운이었다, 연예계에 발을 들여놓은 지 얼마 안]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F09%2FNEWS1%2F20220509145446106efsn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 정지환이 '봄날'을 통해 경험한 특별한 순간]]></title>
+            <link>https://v.daum.net/v/20220509143311266</link>
+            <guid>https://v.daum.net/v/20220509143311266</guid>
+            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] 배우 정지환에게 영화 '봄날'은 배움의 기회였다. 수많은 선배들과 함께 연기하면서 연기적으로 성장했고, 현장을 몸소 느끼며 작품에 임하는 자세도 달라졌다. '봄날'을 발판 삼은 정지환의 앞으로가 기대되는 이유다. '봄날'(감독 이돈구)은 한때 잘 나갔지만 현재는 집안의 애물단지인 철부지 형님 호성(손현주)이 아는 인맥 모두 끌어모은 아버지의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F09%2Fseouleconomy%2F20220509143317335qgpe.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[최대철 "첫 주연 뭉클..원동력? 애들 밥 먹여야죠" [인터뷰 종합]]]></title>
+            <link>https://v.daum.net/v/20220509143003156</link>
+            <guid>https://v.daum.net/v/20220509143003156</guid>
+            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 최대철이 스크린 첫 주연작 '어부바'에 대한 남다른 애정을 전하며 함께 호흡을 맞춘 정준호를 향한 존경의 마음을 드러냈다. 최대철은 9일 오전 온라인으로 진행된 영화 '어부바'(감독 최종학) 인터뷰에서 영화와 함께 다양한 이야기를 전했다. '어부바'는 늦둥이 아들과 철없는 동생, 그리고 자신의 분신 어부바호를 지키기 위]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F09%2Fxportsnews%2F20220509143007514xoon.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독] 설경구·장동건, '더 디너'서 뭉친다(종합)]]></title>
+            <link>https://v.daum.net/v/20220509142439944</link>
+            <guid>https://v.daum.net/v/20220509142439944</guid>
+            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 배우 설경구와 장동건이 허진호 감독의 신작 ‘더 디너’(가제)로 뭉친다. 9일 ‘스포츠경향’ 취재 결과 설경구와 장동건은 최근 차기작으로 ‘더 디너’를 선택했다. ‘더 디너’는 ‘내부자들’ ‘남산의 부장들’ 등을 제작한 하이브미디어코프 작품으로, ‘덕혜옹주’ ‘천문: 하늘에 묻는다’ ‘봄날은 간다’ ‘외출’ ‘8월의 크리스마스’ 등을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F09%2Fsportskhan%2F20220509142440588xrhx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['어부바' 최대철, 무용→영화 첫 주연.."평생 연기하는 게 꿈"(인터뷰)[종합]]]></title>
+            <link>https://v.daum.net/v/20220509142211847</link>
+            <guid>https://v.daum.net/v/20220509142211847</guid>
+            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;“이제 개봉이 며칠 안 남았지만 긴장되기보다 멍하다. 왜냐하면 제 이름을 걸고 나오는 영화가 처음이라서 그렇다. 그래서 기도를 열심히 하고 있다.(웃음)” 이달 11일 개봉을 앞둔 한국영화 ‘어부바’(감독 최종학, 제작 글로빅엔터테인먼트 HAK프로덕션, 배급 트리플픽쳐스)는 늦둥이 아들과 철없는 동생, 그리고 자신의 분신 어부바]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F09%2Fpoctan%2F20220509142212648rgwo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[설경구, 허진호 감독 '더 디너' 주연[단독①]]]></title>
+            <link>https://v.daum.net/v/20220509140229183</link>
+            <guid>https://v.daum.net/v/20220509140229183</guid>
+            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠경향] 배우 설경구가 허진호 감독과 신작 ‘더 디너’(가제)로 손잡는다. 9일 ‘스포츠경향’ 취재 결과 설경구는 최근 허진호 감독의 차기작 ‘더 디너’에 출연하기로 결정했다. ‘더 디너’는 ‘내부자들’ ‘남산의 부장들’ 등을 제작한 하이브미디어코프 작품으로, ‘덕혜옹주’ ‘천문: 하늘에 묻는다’ ‘봄날은 간다’ ‘외출’ ‘8월의 크리스마스’]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F09%2Fsportskhan%2F20220509140230582emih.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['호적메이트' 이경규, 가족에 진심 사과 "하고 싶은 거 다 해서 미안"]]></title>
+            <link>https://v.daum.net/v/20220509135752024</link>
+            <guid>https://v.daum.net/v/20220509135752024</guid>
+            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박판석 기자]&nbsp;'호적메이트' 이경규의 솔직한 진심이 공개된다. 오는 10일 방송되는 MBC 예능프로그램 '호적메이트’ (기획 최윤정, 연출 이경원, 정겨운) 17회에는 가정의 달을 맞아 딸 예림이와 사위 김영찬의 창원 집에 방문하는 이경규의 모습이 그려진다. 이날 이경규는 모처럼 딸 예림이와 김영찬의 집을 찾아가 의미 있는 하루를 함께 한다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F09%2Fpoctan%2F20220509135753188lwuo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['어부바' 최대철 "나의 원동력..연기로 아이들 밥 먹이고 키우는 것" [인터뷰②]]]></title>
+            <link>https://v.daum.net/v/20220509134801778</link>
+            <guid>https://v.daum.net/v/20220509134801778</guid>
+            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 영화 '어부바'(감독 최종학)의 주연배우 최대철이 9일 오전 진행된 화상 인터뷰를 위해 포즈를 취하고 있다.  늦둥이 아들과 철없는 동생, 그리고 자신의 분신 어부바호를 지키기 위해 고군분투하는 종범(정준호 분)의 찡하고 유쾌한 혈육 코미디 '어부바'는 오는 11일 개봉한다. /사진제공=목요일아침 2022.05.09 /사진=이동훈]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F09%2Fstarnews%2F20220509134802208hfco.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['쥬라기 월드:도미니언' 압도적 피날레..최후의 사투 담은 스틸 공개]]></title>
+            <link>https://v.daum.net/v/20220509131502898</link>
+            <guid>https://v.daum.net/v/20220509131502898</guid>
+            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '쥬라기 월드: 도미니언'의 압도적 피날레를 확인할 수 있는 공식 스틸이 공개됐다. 6월 1일 개봉하는 영화 '쥬라기 월드: 도미니언'은 마침내 세상 밖으로 나온 공룡들로 인해 인류는 이제껏 경험하지 못한 사상 최악의 위기를 맞이하고, 지구 최상위 포식자 자리를 걸고 인간과 공룡이 최후의 사투를 펼치는 지상 최대의 블록버스터. 5월]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F09%2Fnewsen%2F20220509131503045sazc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['어부바' 최대철 "첫 스크린 주연.."아내가 연기에 더 신경쓰라고" [인터뷰①]]]></title>
+            <link>https://v.daum.net/v/20220509130746778</link>
+            <guid>https://v.daum.net/v/20220509130746778</guid>
+            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 영화 '어부바'(감독 최종학)의 주연배우 최대철이 9일 오전 진행된 화상 인터뷰를 위해 포즈를 취하고 있다.  늦둥이 아들과 철없는 동생, 그리고 자신의 분신 어부바호를 지키기 위해 고군분투하는 종범(정준호 분)의 찡하고 유쾌한 혈육 코미디 '어부바'는 오는 11일 개봉한다. /사진제공=목요일아침 2022.05.09 /사진=이동훈]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F09%2Fstarnews%2F20220509130747414lkyd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['안나라수마나라' 지창욱 "홀어머니 밑에서 자란 어린시절..母사랑으로 우울감 극복" [인터뷰③]]]></title>
+            <link>https://v.daum.net/v/20220509125925616</link>
+            <guid>https://v.daum.net/v/20220509125925616</guid>
+            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 넷플릭스 오리지널 드라마 '안나라수마나라'의 배우 지창욱이 9일 오전 화상으로 진행된 인터뷰를 위해 포즈를 취하고 있다.  '안나라수마나라'는 꿈을 잃어버린 소녀 윤아이와 꿈을 강요받는 소년 나일등 앞에 어느 날 갑자기 미스터리한 마술사 리을이 나타나 겪게 되는 이야기를 담은 판타지 뮤직 드라마다. /사진제공=넷플릭스 2022.05]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F09%2Fstarnews%2F20220509125928032bdwm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[SC이슈] "고인에 대한 무례"..홍혜걸, 故강수연 이용한 선 넘은 콘텐츠팔이]]></title>
+            <link>https://v.daum.net/v/20220509125757591</link>
+            <guid>https://v.daum.net/v/20220509125757591</guid>
+            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 의학 전문 기자 출신 방송인 홍혜걸이 영화계 충격을 안긴 고(故) 강수연의 비보를 이용한 콘텐츠를 제작, 대중의 비난을 받았다. 홍혜걸은 지난 8일 자신의 유튜브 채널을 통해 '강수연은 왜 숨졌나'라는 제목의 영상을 게재했다. 홍혜걸이 공개한 영상은 보도 내용을 기반으로 강수연의 사망 원인을 분석하고 이를 예방할 수]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F09%2FSpoChosun%2F20220509125757334ohca.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['외계+인' 벌써 뜨겁다..예고편 공개 6일만 누적 426만뷰[공식]]]></title>
+            <link>https://v.daum.net/v/20220509125423532</link>
+            <guid>https://v.daum.net/v/20220509125423532</guid>
+            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 최동훈 감독 신작 '외계+인' 1부가 예고편 공개 하루 만에 200만 뷰를 기록했다. 영화 '외계+인'(감독 최동훈)은 고려 말 소문 속의 신검을 차지하려는 도사들과 2022년 인간의 몸 속에 수감된 외계인 죄수를 쫓는 이들 사이에 시간의 문이 열리며 펼쳐지는 이야기를 그린 작품이다. 최동훈 감독의 7년 만의 스크린 복귀작이자 대한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F09%2Fnewsen%2F20220509125424026hxnp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['컴온 컴온' 6월 개봉확정, '조커 VS 조카' 티저포스터 3종 공개]]></title>
+            <link>https://v.daum.net/v/20220509124130327</link>
+            <guid>https://v.daum.net/v/20220509124130327</guid>
+            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘조커’ 호아킨 피닉스 주연, ‘미나리’, ‘그린 나이트’의 할리우드 제작 명가 A24의 만남으로 화제를 모으는 영화 ‘컴온 컴온’이 6월 개봉을 확정했다. 개봉 확정과 함께 ‘조커 VS 조카’ 티저 3종 포스터가 공개되어 시선을 사로잡는다. ‘컴온 컴온’은 ‘조커’보다 독한 ‘조카’와의 서툰 동행을 통해, 떠나 보내고 받아들]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F09%2Fmydaily%2F20220509124130218tppa.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['브로커' 특별한 여정 빛나는 앙상블]]></title>
+            <link>https://v.daum.net/v/20220509123123167</link>
+            <guid>https://v.daum.net/v/20220509123123167</guid>
+            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '브로커' 배우들의 앙상블이 빛나는 스틸이 공개됐다. 6월 8일 개봉하는 영화 '브로커'(감독 고레에다 히로카즈)는 베이비 박스를 둘러싸고 관계를 맺게 된 이들의 예기치 못한 특별한 여정을 그린 영화다. 5월 9일 공개된 보도스틸은 베이비 박스를 중심으로 한 브로커들과 형사들의 각기 다른 여정을 고스란히 담고 있어 눈길을 끈다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F09%2Fnewsen%2F20220509123126015bmpy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
