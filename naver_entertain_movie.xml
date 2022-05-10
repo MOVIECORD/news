@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-05-10T16:10:34.564Z</updated>
+    <updated>2022-05-10T17:23:41.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전주국제영화제, 'J 매거진' 잡지 등 출판물 주목]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011176389</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011176389"/>
+        <updated>2022-05-10T17:22:53.136Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스]신재우 기자 = 23회 전주국제영화제가 지난 7일 성공적으로 폐막했다. 코로나19 거리두기가 해제되며 열흘간 5만여 명이 모일 정도로 흥행했지만 또 하나 주목할 것은 출판물들이다. 영화제 개막을 맞아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[故 강수연 발인, 오전 10시 영결식 유튜브 생중계 (종합) [DA:투데이]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000979258</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003052448"/>
         <updated>2022-05-10T10:05:46.856Z</updated>
         <content type="html"><![CDATA[흥행작마다 빠지지 않는 감초가 있다. 배우 최영준의 이야기다. 배우 최영준이 '안나라수마나라' 속 열연으로 다시 주목받고 있다. 넷플릭스 시리즈 '안나라수마나라'는 하일권 작가 동명의 웹툰을 원작으로, 꿈을 잃어버린]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이순재 "故강수연 초등학생때 같이 연기…예상대로 대성했는데" 빈소 찾아 애도]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006083624</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006083624"/>
-        <updated>2022-05-10T10:05:46.860Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 안은재 기자 = 배우 이순재가 고(故) 강수연의 죽음을 애도했다. 10일 오후 5시께 이순재와 정준호는 삼성서울병원 장례식장에 마련된 고 강수연의 빈소를 찾았다. 이날 이순재는 빈소를 방문한 뒤 취재]]></content>
     </entry>
 </feed>
