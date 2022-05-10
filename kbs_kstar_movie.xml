@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 02:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 03:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["전체 5부작 중 두 번 째" 제임스 카메론 '아바타: 물의 길' 압도적 비주얼 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=207725</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=207725</guid>
+            <pubDate>Tue, 10 May 2022 03:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=207725">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220510100427_d9e6f8773dc25b064da782349e7511eb.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=207725">"전체 5부작 중 두 번 째" 제임스 카메론 '아바타: 물의 길' 압도적 비주얼 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220510100427_d9e6f8773dc25b064da782349e7511eb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티빙 '유미의 세포들' 김고은-박진영 "시즌2!"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=206955</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=206833">'구필수는 없다' 곽도원-한고은-정동원, "인생 반전의 기회"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220505080943_0c4f724cfb6e545884461c8242c60774_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["마블의 힘, 닥터 스트레인지의 마법" 개봉 첫날 71만 관객]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=206825</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=206825</guid>
-            <pubDate>Wed, 04 May 2022 23:07:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=206825">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220505080150_0a3c614221fdffd74715db9b5c8922a6_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=206825">"마블의 힘, 닥터 스트레인지의 마법" 개봉 첫날 71만 관객</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220505080150_0a3c614221fdffd74715db9b5c8922a6_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
