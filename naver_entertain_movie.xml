@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-05-10T12:16:24.448Z</updated>
+    <updated>2022-05-10T13:42:41.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조국 “윤석열 찍은 분들, ‘그대가 조국’ 많이 보았으면 좋겠다”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000812007</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000812007"/>
+        <updated>2022-05-10T13:41:51.176Z</updated>
+        <content type="html"><![CDATA[[스포츠경향] “윤석열 대통령 당선인을 찍은 분들이 많이 보았으면 좋겠습니다. 그걸 통해서 당시의 진실이 온전히 복구되기를 원합니다” 조국 전 법무부 장관이 10일 자신의 장관 취임과 검찰 수사, 부인 정경심 전 동]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제천국제음악영화제, 영화음악가 데뷔 돕는다…총 2억 5천만 원 지원]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000283111</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006083621"/>
         <updated>2022-05-10T10:05:46.862Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 조국 전 법무부장관을 주인공으로 내세운 다큐멘터리가 제작됐다. 다큐멘터리계 유명 제작진이 만든 '그대가 조국'(감독 이승준)은 다양한 관객들에는 과연 어떤 반응을 얻을까. 10일 오후]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[발인 하루 앞둔 故강수연 빈소…이순재·설경구·정준호·박소담 등 조문 행렬 [종합]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003602539</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003602539"/>
-        <updated>2022-05-10T10:05:46.865Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 양유진 기자] 배우 이순재, 설경구, 정준호, 박소담, 김보연, 최명길, 차태현, 임권택 감독 등이 고(故) 강수연의 빈소가 마련된 서울 강남구 삼성서울병원 장례식장을 찾아 고인을 애도했다. 발인을]]></content>
     </entry>
 </feed>
