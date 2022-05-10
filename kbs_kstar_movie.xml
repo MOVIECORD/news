@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 22:08:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 23:06:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다큐 '봉명주공' 시사회, “베어지는 나무들, 동네의 마지막 기록”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=207893</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=207893</guid>
+            <pubDate>Tue, 10 May 2022 23:03:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=207893">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220511080023_f9d7263a52f65179260f9a1fa895dc89.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=207893">다큐 '봉명주공' 시사회, “베어지는 나무들, 동네의 마지막 기록”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220511080023_f9d7263a52f65179260f9a1fa895dc89.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티빙 ‘장미맨션’ 제작발표회  "탐욕과 비밀의 아파트, 그리고 사라진 언니"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=207779</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=206939">[JIFF]  ‘경아의 딸’, ‘비밀의 언덕’ 전주국제영화제 CGV아트하우스상 수상</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220506092021_0bb9758100cde30d86c445c294d50e40.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다큐멘터리 '아치의 노래, 정태춘'  메인예고편 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=206935</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=206935</guid>
-            <pubDate>Fri, 06 May 2022 00:27:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=206935">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220506091537_9c3ba3c121826768603c65eaad9e8254.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=206935">다큐멘터리 '아치의 노래, 정태춘'  메인예고편 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220506091537_9c3ba3c121826768603c65eaad9e8254.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
