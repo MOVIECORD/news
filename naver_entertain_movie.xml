@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-05-11T13:34:22.628Z</updated>
+    <updated>2022-05-11T14:06:34.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[리뷰] 영화 '리코리쉬 피자', 캘리포니아 청춘의 뜨거운 여름]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004697652</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004697652"/>
+        <updated>2022-05-11T14:05:48.863Z</updated>
+        <content type="html"><![CDATA[청춘의 색깔은 오렌지와 블루 그 애매한 어딘가쯤일까. 한물 간 아역배우이면서 허황 된 꿈을 꾸는 15살 소년 개리. 다 큰 성인이지만 꿈과 목표 없이 졸업사진 촬영 도우미로 일하는 25살 알라나. 전혀 어울릴 것 같]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더보이즈, 영화 '서울괴담' 단체 관람.. 주학년 첫 스크린 데뷔 응원]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003052839</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002352690"/>
         <updated>2022-05-11T10:07:52.346Z</updated>
         <content type="html"><![CDATA[[넷플릭스 오리지널 리뷰] &lt;버블&gt; ▲ 넷플릭스 오리지널 애니메이션 영화 &lt;버블&gt; 포스터. ⓒ 넷플릭스 어느 날 갑자기 하늘에서 거품이 쏟아져 전 세계에 큰 혼란이 초래된다. 얼마 후 일본 도쿄 중심부에 원인 불명의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이정현, 故 강수연 추모 "출산 탓 배웅 못해 죄송..편히 잠드시길"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003052788</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003052788"/>
-        <updated>2022-05-11T10:07:52.346Z</updated>
-        <content type="html"><![CDATA[배우 이정현이 고(故) 강수연을 추모했다. 이정현은 11일 자신의 인스타그램에 "배우로 데뷔해 가수로 활동하다가 다시 배우로 돌아왔을 때 누구보다 기뻐해 주셨던 강수연 선배님. 따뜻하고 멋지셨던 우리 대장부 언니.]]></content>
     </entry>
 </feed>
