@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-05-11T14:06:34.832Z</updated>
+    <updated>2022-05-11T15:11:34.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더 능글맞고 통쾌하다'…'범죄도시2' 마동석 "결과물 좋아 기대"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000148795</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000148795"/>
+        <updated>2022-05-11T15:09:50.512Z</updated>
+        <content type="html"><![CDATA['범죄도시2', 11일 메가박스 코엑스서 베일 벗어…50여 개국 생중계도 더 능글맞고 통쾌하다. 코로나19 펜데믹으로 침체된 한국영화의 흥행 부진을 '괴물형사 마석도'의 핵펀치로 한 방에 날려버릴 기대작 '범죄도시2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[리뷰] 영화 '리코리쉬 피자', 캘리포니아 청춘의 뜨거운 여름]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004697652</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003557668"/>
         <updated>2022-05-11T10:07:52.346Z</updated>
         <content type="html"><![CDATA[[헤럴드POP=이미지 기자] 배우 최성은이 커진 롤 만큼 많은 걸 배울 수 있었다고 돌아봤다. 최성은은 넷플릭스 시리즈 '안나라수마나라'를 통해 연기도, 노래도 완벽히 소화해내 호평을 받고 있다. 더욱이 '안나라수마]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도쿄 둘러싼 거대한 거품, 불법 체류 소년의 운명은]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002352690</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002352690"/>
-        <updated>2022-05-11T10:07:52.346Z</updated>
-        <content type="html"><![CDATA[[넷플릭스 오리지널 리뷰] &lt;버블&gt; ▲ 넷플릭스 오리지널 애니메이션 영화 &lt;버블&gt; 포스터. ⓒ 넷플릭스 어느 날 갑자기 하늘에서 거품이 쏟아져 전 세계에 큰 혼란이 초래된다. 얼마 후 일본 도쿄 중심부에 원인 불명의]]></content>
     </entry>
 </feed>
