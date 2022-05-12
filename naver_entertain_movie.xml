@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-05-12T15:08:21.159Z</updated>
+    <updated>2022-05-12T16:11:08.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[새영화]전쟁·스릴러·액션…취향 따라 기분 따라 ‘3色 힐링']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000895111</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000895111"/>
+        <updated>2022-05-12T16:10:19.096Z</updated>
+        <content type="html"><![CDATA[극장가 관객 수가 껑충 뛰고 있다. 사회적 거리두기가 전면 해제되면서 극장가가 들떴다. 마블영화 ‘닥터 스트레인지: 대혼돈의 멀티버스'가 독보적인 흥행을 끌고 있는 가운데 전쟁 실화를 다룬 ‘민스미트 작전'과 한국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[D:현장] 신수원·이정은 '오마주', 1세대 여성 영화인을 향한 경의]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002603429</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013175195</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013175195"/>
         <updated>2022-05-12T10:08:12.696Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 진연수 기자 = 12일 오후 서울 마포구 시네마테크KOFA에서 열린 '위대한 유산: 태흥영화 1984~2004' 특별상영전 개막식에서 참석자가 전시된 포스터를 살펴보고 있다. 2022.5.12 ji]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['위대한 유산' 태흥영화 특별상영전 개막]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013175194</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013175194"/>
-        <updated>2022-05-12T10:08:12.702Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 진연수 기자 = 12일 오후 서울 마포구 시네마테크KOFA에서 열린 '위대한 유산: 태흥영화 1984~2004' 특별상영전 개막식에서 참석자가 전시된 포스터를 살펴보고 있다. 2022.5.12 ji]]></content>
     </entry>
 </feed>
