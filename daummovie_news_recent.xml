@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-05-12T20:11:20.681Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 12 May 2022 21:07:09 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['범죄도시2', 알고 보면 더 재미있는 3가지 [SS무비]]]></title>
+            <link>https://v.daum.net/v/20220513060105297</link>
+            <guid>https://v.daum.net/v/20220513060105297</guid>
+            <pubDate>Thu, 12 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울| 조은별기자]호쾌한 한방의 남자, 마석도 형사가 돌아왔다. 유도기술까지 습득해 핵주먹의 위력이 더욱 강해졌다. 금천경찰서 강력반의 반가운 얼굴들도 그대로다. 18일 개봉하는 영화 ‘범죄도시2’(이상용 감독)는 금천서 강력반 소속 괴물형사 마석도(마동석 분)를 중심으로 범죄를 소탕하는 과정을 유쾌하게 그린 K범죄액션물이다. 시즌1]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F13%2FSPORTSSEOUL%2F20220513060107083djkf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>

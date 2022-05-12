@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-05-12T20:11:20.691Z</updated>
+    <updated>2022-05-12T21:07:09.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘범죄도시2’, 알고 보면 더 재미있는 3가지 [SS무비]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000805270</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000805270"/>
+        <updated>2022-05-12T21:06:11.172Z</updated>
+        <content type="html"><![CDATA[[스포츠서울| 조은별기자]호쾌한 한방의 남자, 마석도 형사가 돌아왔다. 유도기술까지 습득해 핵주먹의 위력이 더욱 강해졌다. 금천경찰서 강력반의 반가운 얼굴들도 그대로다. 18일 개봉하는 영화 ‘범죄도시2’(이상용 감]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘춘향뎐’ 있었기에 ‘기생충’ 있었다… 태흥영화사 특별상영전]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001525700</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003866987"/>
         <updated>2022-05-12T10:08:12.685Z</updated>
         <content type="html"><![CDATA[[스포츠조선 고재완 기자] 문제적 감독 신수원 감독의 신작 '오마주'가 26일 개봉한다. 신 감독은 그동안 '명왕성' '마돈나' 등의 작품을 통해 파격적인 연출을 선보이며 관심을 모은 바 있다. 그리고 그가 신작에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서편제·춘향뎐…태흥영화 특별상영전]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013175198</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013175198"/>
-        <updated>2022-05-12T10:08:12.688Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 진연수 기자 = 12일 오후 서울 마포구 시네마테크KOFA에서 열린 '위대한 유산: 태흥영화 1984~2004' 특별상영전 개막식에서 참석자가 전시된 포스터를 살펴보고 있다. 2022.5.12 ji]]></content>
     </entry>
 </feed>
