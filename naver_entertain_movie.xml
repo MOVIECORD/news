@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-05-24T16:17:26.181Z</updated>
+    <updated>2022-05-24T17:17:24.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[지금 칸에선] '헤어질 결심' 탕웨이 "사랑은 타이밍…나도 준비돼 있어야"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000283596</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000283596"/>
+        <updated>2022-05-24T17:16:31.151Z</updated>
+        <content type="html"><![CDATA[[SBS 연예뉴스 | (칸=프랑스) 김지혜 기자] 박찬욱 감독의 첫 멜로 영화 '헤어질 결심'의 주인공 탕웨이가 사랑에 대한 견해를 밝혔다. 24일 오후 3시 30분 (현지시간) 칸에서 열린 영화 '헤어질 결심' 매]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[지금 칸에선] 박찬욱 감독 "'헤어질 결심', 정사·액션 없는 이유는…"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000283595</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006114787"/>
         <updated>2022-05-24T13:32:07.781Z</updated>
         <content type="html"><![CDATA[(칸=뉴스1) 이준성 프리랜서기자 = 영화감독 박찬욱과(왼쪽부터) 배우 탕웨이・박해일이 22일 오후(현지시간) 제75회 칸 국제영화제가 열리고 있는 프랑스 남부 칸 ‘팔레 데 페스티벌’(Palais de]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탕웨이의 매력 속으로]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006114786</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006114786"/>
-        <updated>2022-05-24T13:32:07.782Z</updated>
-        <content type="html"><![CDATA[(칸=뉴스1) 이준성 프리랜서기자 = 배우 탕웨이가 22일 오후(현지시간) 제75회 칸 국제영화제가 열리고 있는 프랑스 남부 칸 ‘팔레 데 페스티벌’(Palais des Festivals) 영화진흥위원회(KOFIC)]]></content>
     </entry>
 </feed>
