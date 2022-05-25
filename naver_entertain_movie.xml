@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-05-25T12:13:00.777Z</updated>
+    <updated>2022-05-25T13:33:36.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["강력한 황금종려상 후보!"…박찬욱 '헤어질 결심', 칸 '최고 평점'→로튼토마토 신선도 만점 '100%' [여기는 칸](종합)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003607506</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003607506"/>
+        <updated>2022-05-25T13:32:39.937Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 칸(프랑스) 김나라 기자] 박찬욱 감독 '헤어질 결심'의 기세가 심상찮다. 제75회 칸 국제영화제(2022)에서 현재까지 공개된 경쟁 부문 초청작 중 최고점을 기록, '황금종려상' 주인공으로 유력하게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['칸 입성' 아이유 "잘 도착했어요" 사과하트 뿅]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004969085</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000982276"/>
         <updated>2022-05-25T11:05:31.622Z</updated>
         <content type="html"><![CDATA[배우 이주영이 25일 서울 광진구 자양동 롯데시네마 건대입구점에서 열린 영화 ‘윤시내가 사라졌다’ 언론시사회에서 포즈를 취하고 있다. 주현희 기자 teth1147@donga.com]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["스크린 찢을 존재감"…'헌트' 이정재X정우성, 극강의 카리스마 담은 스틸 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003872853</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003872853"/>
-        <updated>2022-05-25T11:05:31.623Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 조지영 기자] 제75회 칸국제영화제 미드나잇 스크리닝 부문에 공식 초청된 첩보 영화 '헌트'(이정재 감독, 아티스트스튜디오·사나이픽처스 제작)가 칸에서 최초 공개돼 국내를 넘어 전 세계를 달구고 있는 가]]></content>
     </entry>
 </feed>
