@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-05-26T17:18:24.790Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 26 May 2022 18:12:35 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['브로커', 칸 영화제서 최초 공개..호평 받을까 [MK★이슈]]]></title>
+            <link>https://v.daum.net/v/20220527030301700</link>
+            <guid>https://v.daum.net/v/20220527030301700</guid>
+            <pubDate>Thu, 26 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[일본 거장 고레에다 히로카즈 감독이 연출하고 송강호, 강동원 등 한국 톱스타가 출연한 영화 ‘브로커’가 칸 국제영화제에서 처음 공개된다. 영화 ‘브로커’ 팀은 26일(현지시간) 오후 7시 칸 뤼미에르 대극장에서 월드 프리미어를 갖고 영화를 첫 공개한다. 이에 앞서 고레에다 히로카즈 감독과 송강호, 강동원, 배두나, 아이유 등 출연 뱅들이 레드카펫에 서서 포]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F27%2Fmksports%2F20220527030303986takc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
