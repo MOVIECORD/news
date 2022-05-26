@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-05-26T19:06:36.973Z</updated>
+    <updated>2022-05-26T20:09:28.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[매력 잃은 고레에다표 가족 이야기…영화 '브로커']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013208093</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013208093"/>
+        <updated>2022-05-26T20:08:42.828Z</updated>
+        <content type="html"><![CDATA[칸영화제 경쟁작…송강호·이지은·배두나·강동원 주연 (칸[프랑스]=연합뉴스) 오보람 기자 = 일본의 거장 고레에다 히로카즈 감독은 그동안 가족을 전면에 내세운 영화를 여러 차례 선보였다. '걸어도 걸어도', '그렇게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘브로커’, 칸 영화제서 최초 공개…호평 받을까 [MK★이슈]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000870725</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006120484"/>
         <updated>2022-05-26T13:30:59.983Z</updated>
         <content type="html"><![CDATA[(칸=뉴스1) 이준성 프리랜서기자 = 배우 올리비아 데종이 26일(현지시간) 제 75회 칸 국제영화제가 열리고 있는 프랑스 남부 칸 ‘팔레 데 페스티벌’(Palais des Festival)에서 비경쟁 부문에 공식]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오스틴 버틀러, '로큰롤'의 대명사를 연기하다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006120483</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006120483"/>
-        <updated>2022-05-26T13:30:59.983Z</updated>
-        <content type="html"><![CDATA[(칸=뉴스1) 이준성 프리랜서기자 = 배우 오스틴 버틀러가 26일(현지시간) 제 75회 칸 국제영화제가 열리고 있는 프랑스 남부 칸 ‘팔레 데 페스티벌’(Palais des Festival)에서 비경쟁 부문에 공식]]></content>
     </entry>
 </feed>
