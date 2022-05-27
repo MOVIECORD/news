@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-05-27T19:03:52.010Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 27 May 2022 20:09:04 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마블 흥행 마블리가 이었다..'범죄도시2'의 신기록들 [N초점]]]></title>
+            <link>https://v.daum.net/v/20220528050015719</link>
+            <guid>https://v.daum.net/v/20220528050015719</guid>
+            <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 마블의 흥행을 '마블리'가 이었다. 영화 '범죄도시2'(감독 이상용)가 시원한 흥행을 이어가고 있다. 신종 코로나바이러스 감염증(코로나19)으로 인해 위축된 극장가는 단비 같은 흥행으로 인해 한숨을 돌렸다. 지난 26일 오후5시30분 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '범죄도시2'는 같은 날 500만 관]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F28%2FNEWS1%2F20220528050015878kptb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
