@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-05-28T15:06:56.653Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 28 May 2022 16:08:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엑's in 칸] "다이아몬드 100개"..칸 영화제 황금종려상 트로피 보니]]></title>
+            <link>https://v.daum.net/v/20220529004831861</link>
+            <guid>https://v.daum.net/v/20220529004831861</guid>
+            <pubDate>Sat, 28 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 칸(프랑스), 김예은 기자) 칸 영화제가 폐막을 앞둔 가운데, 이번 황금종려상 트로피가 초호화 다이아몬드로 제작된 것으로 알려졌다.&nbsp; 프랑스 현지 매체 프랑스3은 지난 25일(현지시간) 제75회 칸 국제영화제 트로피에 대해 소개했다. 이 매체는 "이번 황금종려상 트로피가 평소보다 훨씬 화려하다"면서 "핑크 쿼츠 보석에 100개의 다이아몬드]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202205%2F29%2Fxportsnews%2F20220529004834772wder.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
