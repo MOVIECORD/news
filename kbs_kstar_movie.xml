@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 03:01:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 03:49:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고레에다 히로카즈 감독 '브로커' 칸 공식 기자회견]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=211044</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=211044</guid>
+            <pubDate>Sun, 29 May 2022 03:47:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=211044">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220529083355_2c04f6c59393bc1905cb2ab041af138c.JPG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=211044">고레에다 히로카즈 감독 '브로커' 칸 공식 기자회견  </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220529083355_2c04f6c59393bc1905cb2ab041af138c.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[다큐멘터리 '그대가 조국'  극장 개봉]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=210933</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=210011">"오감과 육감" 디즈니 로코 ''키스 식스 센스'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220524081113_214df97a66daae112cc83a807bd26f46.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[류덕환 감독, 티빙 단편 '불침번' “내일이 휴가인데 내일이 안 와”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=209997</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=209997</guid>
-            <pubDate>Tue, 24 May 2022 02:39:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=209997">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220524075328_96376998b6955c6c2a449dfbfa404fcd.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=209997">류덕환 감독, 티빙 단편 '불침번' “내일이 휴가인데 내일이 안 와”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220524075328_96376998b6955c6c2a449dfbfa404fcd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
