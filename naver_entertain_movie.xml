@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-05-29T16:07:30.581Z</updated>
+    <updated>2022-05-29T17:13:31.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기념 촬영하는 박찬욱 감독과 배우 송강호]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013213108</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013213108"/>
+        <updated>2022-05-29T17:12:40.821Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 28일(현지시간) 프랑스 칸에서 열린 제75회 칸국제영화제에서 '헤어질 결심'으로 감독상을 받은 박찬욱 감독(왼쪽)과 고레에다 히로카즈 감독의 한국 영화 '브로커'로 한국 배우 최초로 남우주연상을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동해바다 담은 한국영화 2편 칸 국제영화제 '2관왕']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=654&amp;aid=0000011327</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004059360"/>
         <updated>2022-05-29T09:06:49.097Z</updated>
         <content type="html"><![CDATA[[서울경제] 28일(현지 시간) 폐막한 제75회 칸영화제에서 ‘헤어질 결심’과 ‘브로커’가 나란히 상을 받으며 한국 영화 역사상 최초로 두 작품이 칸영화제에서 함께 수상하는 기염을 토했다. 박찬욱 감독은 ‘헤어질 결]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이미경 '통큰 지원' 이번에도 통했다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004059359</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004059359"/>
-        <updated>2022-05-29T09:06:49.099Z</updated>
-        <content type="html"><![CDATA[[서울경제] “영화를 만드는 데 모든 지원을 아끼지 않은 CJ와 미키 리(Miky Lee), 정서경 작가를 비롯한 많은 분들에게 감사를 띄웁니다.” 28일(현지 시간) 제75회 칸영화제 시상식이 열린 뤼미에르 대극장]]></content>
     </entry>
 </feed>
