@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-05-29T15:08:52.478Z</updated>
+    <updated>2022-05-29T16:07:30.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[동해바다 담은 한국영화 2편 칸 국제영화제 '2관왕']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=654&amp;aid=0000011327</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=654&amp;aid=0000011327"/>
+        <updated>2022-05-29T16:06:42.810Z</updated>
+        <content type="html"><![CDATA[속보=강원의 동해바다를 배경으로 촬영한 두 편의 한국영화(본지 5월 18일자 26면 등)가 세계 최고 권위의 칸국제영화제에서 두 개의 본상 트로피를 나란히 들어올렸다. 지난 28일(현지시간) 프랑스 칸 뤼미에르 대극]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓 역사 최초 쌍끌이 수상…K무비, 폐막까지 빛냈다 [칸리포트]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005228802</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004059359"/>
         <updated>2022-05-29T09:06:49.099Z</updated>
         <content type="html"><![CDATA[[서울경제] “영화를 만드는 데 모든 지원을 아끼지 않은 CJ와 미키 리(Miky Lee), 정서경 작가를 비롯한 많은 분들에게 감사를 띄웁니다.” 28일(현지 시간) 제75회 칸영화제 시상식이 열린 뤼미에르 대극장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엑's in 칸] 동반 수상 '헤어질 결심'·'브로커', 6월 개봉에 쏠리는 기대감 [종합]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001454745</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001454745"/>
-        <updated>2022-05-29T09:06:49.100Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 칸(프랑스), 김예은 기자) 칸 영화제 트로피를 들어올린 '헤어질 결심'과 '브로커'가 6월, 베일을 벗는다. 제75회 칸국제영화제 폐막식이 28일(현지시간) 오후 프랑스 칸 팔레 드 페스티발의 뤼미에]]></content>
     </entry>
 </feed>
