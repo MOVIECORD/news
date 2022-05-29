@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-05-29T12:12:50.422Z</updated>
+    <updated>2022-05-29T13:22:45.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘올드보이’→‘헤어질결심’ 박찬욱, 찬란한 칸의 기록]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001217865</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001217865"/>
+        <updated>2022-05-29T13:21:53.261Z</updated>
+        <content type="html"><![CDATA[영화 '헤어질 결심'의 박찬욱 감독이 제75회 칸 국제영화제에서 감독상을 품에 안았다. 한국영화가 칸 국제영화제에서 감독상을 수상한 것은 2002년 '취화선'의 임권택 감독에 이어 두 번째 영광이다. 박찬욱 감독이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘칸’을 거머쥔 두 남자]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003149921</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002592527"/>
         <updated>2022-05-29T09:06:49.158Z</updated>
         <content type="html"><![CDATA[28일(이하 현지시각) 폐막한 제75회 칸국제영화제의 최고 영예인 황금종려상은 루벤 외스틀룬드 감독의 &lt;슬픔의 삼각형&gt;(Triangle of Sadness)에 돌아갔다. &lt;헤어질 결심&gt;으로 칸을 네번째 찾은 박찬욱]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박찬욱 감독상·송강호 남우주연상…칸영화제 2관왕]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000544206</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000544206"/>
-        <updated>2022-05-29T09:06:49.161Z</updated>
-        <content type="html"><![CDATA[[앵커] 박찬욱 감독과 배우 송강호가 칸국제영화제에서 각각 감독상과 남우주연상을 수상했습니다. 한국 영화 역사상 처음으로 2관왕을 달성한 건데요. 프랑스 칸 연결하겠습니다. 박효정 기자. [기자] 네, 프랑스 칸입니]]></content>
     </entry>
 </feed>
