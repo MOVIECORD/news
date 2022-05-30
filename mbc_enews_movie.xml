@@ -1,8 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://enews.imbc.com/Search?searchText=%EC%98%81%ED%99%94</id>
-    <title>MBC 연예 ─ 영화</title>
-    <updated>2022-05-30T13:37:44.832Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://enews.imbc.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>MBC 연예 ─ 영화</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 30 May 2022 14:11:55 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화배우 강수연 별세, 향년 55세]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/346721</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/346721</guid>
+            <pubDate>Mon, 30 May 2022 14:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/346721" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/07/03f67838-bc65-4c7c-af70-ec205ed1e720.jpg" alt="">        <div class="text-box">            <span class="label"> 이슈</span>            <p class="summary"><font color="red">영화</font>배우 강수연 별세, 향년 55세</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/07/03f67838-bc65-4c7c-af70-ec205ed1e720.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['니 부모 얼굴이 보고 싶다' 개봉 첫 주말 한국 영화 박스오피스 1위!]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/346052</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/346052</guid>
+            <pubDate>Mon, 30 May 2022 14:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/346052" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/02/778946df-678d-4edf-9ddb-550d6eb2cb54.jpg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">'니 부모 얼굴이 보고 싶다' 개봉 첫 주말 한국 <font color="red">영화</font> 박스오피스 1위!</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/02/778946df-678d-4edf-9ddb-550d6eb2cb54.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["짧지만 강렬하다"…여덟 영화의 평행 세계 어떨까, '전체관람가+' [종합]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/345412</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/345412</guid>
+            <pubDate>Mon, 30 May 2022 14:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/345412" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/26/17e07010-0e01-4f10-9504-2129b30c495f.JPG" alt="">        <div class="text-box">            <span class="label"> 웹예능</span>            <p class="summary">"짧지만 강렬하다"…여덟 <font color="red">영화</font>의 평행 세계 어떨까, '전체관람가+' [종합]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/26/17e07010-0e01-4f10-9504-2129b30c495f.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA['앵커' 정지연 감독 "아이 대신 영화를 낳았다." [인터뷰M]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/344786</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/344786</guid>
+            <pubDate>Mon, 30 May 2022 14:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/344786" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/20/85b35243-fcf1-4a33-afac-6950fa0db3e9.jpg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">'앵커' 정지연 감독 "아이 대신 <font color="red">영화</font>를 낳았다." [인터뷰M]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/20/85b35243-fcf1-4a33-afac-6950fa0db3e9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['뜨거운 피' 천명관 감독 "영화게 입문 28년 만의 연출, 인생 참 재미있다" [인터뷰M]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/341460</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/341460</guid>
+            <pubDate>Mon, 30 May 2022 14:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/341460" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/20/bd6322f1-c9c5-44c1-bea3-c1528919e1ad.jpg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">'뜨거운 피' 천명관 감독 "<font color="red">영화</font>게 입문 28년 만의 연출, 인생 참 재미있다" [인터뷰M]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/20/bd6322f1-c9c5-44c1-bea3-c1528919e1ad.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['뜨거운 피' 천명관 감독 "밑바닥 인생의 비극, 허무함을 문학적으로 느낄수 있는 영화" [인터뷰M]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/341459</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/341459</guid>
+            <pubDate>Mon, 30 May 2022 14:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/341459" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/20/a9eeec5e-3c7b-448b-a00f-5769059cc234.jpg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">'뜨거운 피' 천명관 감독 "밑바닥 인생의 비극, 허무함을 문학적으로 느낄수 있는 <font color="red">영화</font>" [인터뷰M]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/20/a9eeec5e-3c7b-448b-a00f-5769059cc234.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김동휘 "제 이름보다 캐릭터 기억, 노력이 통한 것 같다" [인터뷰M]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/339990</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/339990</guid>
+            <pubDate>Mon, 30 May 2022 14:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/339990" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/07/03d274fc-3ffa-4767-95a5-00d484eeb9fe.jpeg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">김동휘 "제 이름보다 캐릭터 기억, 노력이 통한 것 같다" [인터뷰M]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/07/03d274fc-3ffa-4767-95a5-00d484eeb9fe.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[오종혁, 하드보일드 액션영화 '늑대들' 출연]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/339922</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/339922</guid>
+            <pubDate>Mon, 30 May 2022 14:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/339922" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/04/e5d93d19-c886-4a09-bfbd-e699d05e0625.jpg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">오종혁, 하드보일드 액션<font color="red">영화</font> '늑대들' 출연</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/04/e5d93d19-c886-4a09-bfbd-e699d05e0625.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

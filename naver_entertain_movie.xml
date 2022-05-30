@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-05-30T13:37:44.829Z</updated>
+    <updated>2022-05-30T14:11:55.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제26회 부천국제판타스틱영화제, 올해 NAFF 프로젝트 마켓 18개국 32편 선정]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000816437</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000816437"/>
+        <updated>2022-05-30T14:11:00.151Z</updated>
+        <content type="html"><![CDATA[제26회 부천국제판타스틱영화제(BIFAN, 집행위원장 신철)는 올해 ‘아시아 판타스틱 제작 네트워크’ 프로젝트 마켓 공식 선정작 18개국 32편을 30일 발표했다. 13편(잇 프로젝트), 10편(프로젝트 스포트라이트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[칸의 주역 박찬욱·송강호, 트로피 들고 '금의환향']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000544393</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006128332"/>
         <updated>2022-05-30T10:05:47.459Z</updated>
         <content type="html"><![CDATA[(인천공항=뉴스1) 권현진 기자 = ‘헤어질 결심’의 박찬욱 감독과 '브로커'의 송강호가 ‘제75회 칸 국제영화제’를 마치고 30일 인천국제공항을 통해 귀국해 포즈를 취하고 있다. 박찬욱 감독은 '헤어질 결심'으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박찬욱 금의환향…"제 영화는 대중을 위한 상업영화"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013215388</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013215388"/>
-        <updated>2022-05-30T10:05:47.460Z</updated>
-        <content type="html"><![CDATA["남녀주연상 받고 싶었는데"…'헤어질 결심' 주연 박해일과 나란히 입국 "송강호 함께 일하고 싶은 첫 번째 배우…나한테 차례 돌아올지 모르겠다" (영종도=연합뉴스) 김정진 기자 = 지난 28일(현지시간) 폐막한 제7]]></content>
     </entry>
 </feed>
