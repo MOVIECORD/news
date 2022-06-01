@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-01T16:11:15.981Z</updated>
+    <updated>2022-06-01T17:29:27.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[리뷰] ‘브로커’ 송강호의 두 말 할 수 없는 연기력]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003126601</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003126601"/>
+        <updated>2022-06-01T17:28:37.431Z</updated>
+        <content type="html"><![CDATA[[일간스포츠 정진영] 역시 칸영화제 남우주연상 수상자다. 배우 송강호의 연기는 늘 그랬듯 영화 ‘브로커’에서도 빛을 발한다. 일본 고레에다 히로카즈 감독의 첫 한국 영화 연출작인 ‘브로커’는 가족에 대한 이야기다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5월 영화관객 수, 코로나 이전 수준 회복]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003701410</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000544655"/>
         <updated>2022-06-01T07:11:56.200Z</updated>
         <content type="html"><![CDATA[마동석·손석구 주연의 범죄액션 영화 '범죄도시 2'가 관객 700만 명을 돌파했습니다. 영화진흥위원회에 따르면 '범죄도시 2'는 누적 관객 수 701만3천여 명을 기록하며, 전편의 688만 명을 넘어섰습니다. 이는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대놓고 中 도발…톰 크루즈, 영화 탑건서 대만 국기 재킷 입어]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006132744</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006132744"/>
-        <updated>2022-06-01T07:11:56.205Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 원태성 기자 = 톰 크루즈가 탑건의 새로운 시리즈 '탑건 매브릭'에서 대만 국기가 그려진 항공 점퍼를 입은 모습이 그대로 노출돼 화제다. 이 영화는 대만에서 큰 환호를 보낸 받은 반면 중국에서는 개봉]]></content>
     </entry>
 </feed>
