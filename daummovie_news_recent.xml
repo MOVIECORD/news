@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-06-01T19:06:58.056Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 01 Jun 2022 20:08:48 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벨기에 거장 다르덴 형제 "영화는 약자의 편에서 다른 세상 보여줘야"]]></title>
+            <link>https://v.daum.net/v/20220602043058343</link>
+            <guid>https://v.daum.net/v/20220602043058343</guid>
+            <pubDate>Wed, 01 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[칸영화제 경쟁 부문에만 8번 이름을 올렸다. 최고상인 황금종려상을 2차례(‘로제타’ ‘더 차일드’) 수상했다, 심사위원대상(‘자전거 탄 소년’)과 감독상(‘소년 아메드’), 각본상(‘로나의 침묵’)을 각각 한 차례씩 받았다. 올해도 예외는 아니었다. 벨기에를 대표하는 감독인 장 피에르ㆍ뤽 다르덴 형제는 ‘토리와 로키타’로 제75회 칸영화제 경쟁 부문에 초청]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Fhankooki%2F20220602043101291chjs.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['웅장하고 스릴있게' 쥬라기 시리즈의 마지막 여정]]></title>
+            <link>https://v.daum.net/v/20220602040814145</link>
+            <guid>https://v.daum.net/v/20220602040814145</guid>
+            <pubDate>Wed, 01 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[어떤 이야기는 쌓이고 쌓여 거대한 역사가 된다. 공룡 마니아들의 가슴을 설레게 했던 스티븐 스필버그의 1993년 영화 ‘쥬라기 공원’은 하나의 문화를 만들어냈다. 시리즈 여섯 번째이자 마지막 여정인 ‘쥬라기 월드: 도미니언’이 전 세계 최초로 1일 국내 개봉했다. 인류는 세상 밖으로 나온 공룡들로 인해 이제껏 경험하지 못한 위기를 맞닥뜨린다. 전편 ‘쥬라]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F02%2Fkukminilbo%2F20220602040815615ltkz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
