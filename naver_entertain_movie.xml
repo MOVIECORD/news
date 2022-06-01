@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-01T09:12:12.191Z</updated>
+    <updated>2022-06-01T10:11:21.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제주 4·3 영화제, 광주 5·18과 만난다…4일 개막]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000816861</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000816861"/>
+        <updated>2022-06-01T10:10:34.114Z</updated>
+        <content type="html"><![CDATA[제주4·3을 알리는 영화제가 5·18 민주화운동 관련된 다양한 문화제가 열리는 광주에서 열린다. 제주4·3범국민위원회는 4∼5일 양일간 광주에 소재한 국립문화아시아전당 및 광주독립영화관에서 ‘제주4·3과 만난 광주5]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘닥스2’ 끌고 ‘범죄도시2’ 밀었다…5월 극장 관객 1455만명]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003126565</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013219473</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013219473"/>
         <updated>2022-06-01T06:16:54.014Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 진연수 기자 = '마동석 표' 액션 영화 '범죄도시2'가 관객 700만 명을 돌파하며 전편을 뛰어넘는 흥행 성적을 거뒀다. 1일 영화진흥위원회 영화권입장망 통합전산망에 따르면 '범죄도시 2'는 개봉]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['범죄도시2' 누적 관객수 700만 돌파]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013219472</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013219472"/>
-        <updated>2022-06-01T06:16:54.019Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 진연수 기자 = '마동석 표' 액션 영화 '범죄도시2'가 관객 700만 명을 돌파하며 전편을 뛰어넘는 흥행 성적을 거뒀다. 1일 영화진흥위원회 영화권입장망 통합전산망에 따르면 '범죄도시 2'는 개봉]]></content>
     </entry>
 </feed>
