@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-02T17:20:49.170Z</updated>
+    <updated>2022-06-02T18:11:34.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크리스 프랫도 놀란 '쥬라기 월드'의 한국 흥행 "언제나 감사해"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000283918</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000283918"/>
+        <updated>2022-06-02T18:10:41.725Z</updated>
+        <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 할리우드 스타 크리스 프랫이 '쥬라기 월드:도미니언'의 한국 흥행에 대한 감사 인사를 전했다. 영화 '쥬라기 월드: 도미니언'이 한국에서 팬데믹 이후 최고 흥행 신기록을 수립하며]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[TEN 포토] 아누팜-김민재 '브로커 파이팅']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000550597</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004707079"/>
         <updated>2022-06-02T13:37:34.744Z</updated>
         <content type="html"><![CDATA[배우 정유진이 2일 오후 서울 용산 CGV아이파크몰에서 열린 영화 '브로커'(감독 고레에다 히로카즈, 제작 영화사 집) VIP시사회에 참석해 포토타임을 갖고 있다. 송강호, 강동원, 배두나, 이지은, 이주영 등이 출]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 이레, '정변의 좋은 예']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004707077</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004707077"/>
-        <updated>2022-06-02T13:37:34.744Z</updated>
-        <content type="html"><![CDATA[배우 이레가 2일 오후 서울 용산 CGV아이파크몰에서 열린 영화 '브로커'(감독 고레에다 히로카즈, 제작 영화사 집) VIP시사회에 참석해 포토타임을 갖고 있다. 송강호, 강동원, 배두나, 이지은, 이주영 등이 출연]]></content>
     </entry>
 </feed>
