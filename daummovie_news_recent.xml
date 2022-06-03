@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-06-03T19:04:58.246Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 03 Jun 2022 20:05:58 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['브로커', 여배우 아이유의 진화 [N초점]]]></title>
+            <link>https://v.daum.net/v/20220604050037688</link>
+            <guid>https://v.daum.net/v/20220604050037688</guid>
+            <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 또 한 번의 진화다. 일본 고레에다 히로카즈 감독의 작품으로 장편 영화에 데뷔한 여배우 아이유(이지은)가 안정적인 연기력으로 호평을 얻고 있다. 아이유가 주연을 맡은 영화 '브로커'는 베이비 박스를 둘러싸고 관계를 맺게 된 이들이 예기치 못한 특별한 여정을 가게 되며 벌어지는 일을 그렸다. '그렇게 아버지가 된다' '어느]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F04%2FNEWS1%2F20220604050038463pkyn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>

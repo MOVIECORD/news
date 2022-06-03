@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-03T19:04:58.265Z</updated>
+    <updated>2022-06-03T20:05:58.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['브로커', 여배우 아이유의 진화 [N초점]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006139189</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006139189"/>
+        <updated>2022-06-03T20:05:01.525Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 또 한 번의 진화다. 일본 고레에다 히로카즈 감독의 작품으로 장편 영화에 데뷔한 여배우 아이유(이지은)가 안정적인 연기력으로 호평을 얻고 있다. 아이유가 주연을 맡은 영화 '브로커'는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['브로커' 아이유, 송강호X강동원 옆 '배우 포스' 폭발 [화보]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003610587</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003127492"/>
         <updated>2022-06-03T09:07:03.357Z</updated>
         <content type="html"><![CDATA[[일간스포츠 김선우] 대체불가 '모어'가 온다. 장르를 규정할 수 없는 독보적인 드래그 아티스트 ‘모어’(MORE 毛魚)를 감각적인 음악과 영상으로 스토리텔링한 영화 '모어'가 23일 개봉을 확정하고 메인 포스터를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무비가이드] 아이유 아들 브로커된 송강호·강동원…10호실 감방 간 전소민]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000550752</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000550752"/>
-        <updated>2022-06-03T09:07:03.357Z</updated>
-        <content type="html"><![CDATA[[텐아시아=강민경 기자] 800만 관객 돌파를 향해 순항 중인 영화 '범죄도시2'와 '쥬라기 공원' 피날레 시리즈 '쥬라기 월드: 도미니언'이 쌍끌이 흥행 중이다. 다른 장르의 한국 영화 세 편이 같은 날 개봉해 관]]></content>
     </entry>
 </feed>
