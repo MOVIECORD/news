@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-04T10:08:06.334Z</updated>
+    <updated>2022-06-04T11:05:41.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['종이의 집' 한국판, 한반도서 다시 펼쳐지는 범죄 이상의 범죄]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003563442</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003563442"/>
+        <updated>2022-06-04T11:04:57.097Z</updated>
+        <content type="html"><![CDATA[[헤럴드POP=이미지 기자] '종이의 집: 공동경제구역'의 메인 예고편이 공개됐다. 넷플릭스 시리즈 '종이의 집: 공동경제구역'은 통일을 앞둔 한반도를 배경으로 천재적 전략가와 각기 다른 개성 및 능력을 지닌 강도들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘범죄도시2’ 손석구, 감사 SNS “800만 사랑합니다”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000817494</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000615054"/>
         <updated>2022-06-04T03:33:53.359Z</updated>
         <content type="html"><![CDATA[팬데믹 이후 최초 800만 돌파 작품이 나왔다. 주인공은 ‘범죄도시2’다. ‘범죄도시2’는 영진위 통합전산망 기준, 개봉 18일째인 4일 오전 9시 800만 관객을 돌파했다. 이로써 팬데믹 이후 최초의 800만 관객]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['범죄도시2' 개봉 18일만에 800만 돌파, 천만영화 '베테랑'과 동일 흥행속도]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003610639</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003610639"/>
-        <updated>2022-06-04T03:33:53.361Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]대한민국 대표 범죄 액션 시리즈 영화 '범죄도시2'가 영진위 통합전산망 기준, 개봉 18일째인 6월 4일(토) 오전 9시 800만 관객을 돌파하며 팬데믹 이후 최초의 800만 관객 돌파]]></content>
     </entry>
 </feed>
