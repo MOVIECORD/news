@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-05T17:06:41.523Z</updated>
+    <updated>2022-06-05T18:09:58.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['애프터 양' 개봉 4일만에 1만 돌파, 자이언티와 스페설 GV 예고]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003610957</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003610957"/>
+        <updated>2022-06-05T18:09:12.427Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]개봉과 동시에 “올해의 영화”, “인생 영화” 등 찬사를 이끌고 있는 영화 '애프터 양'이 개봉 4일 만에 누적 관객 1만 명을 동원한 가운데, 1만 관객 돌파 기념 리뷰 포스터를 공개했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이슈현장] '칸의 남자' 송강호 입담, 빵 터진 강동원 아이유 '폭소'(영상)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000153526</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013227523"/>
         <updated>2022-06-05T05:04:29.790Z</updated>
         <content type="html"><![CDATA[경쟁작 '쥬라기월드3' 엇갈린 평가에 관객몰이 계속 줄어든 폭력 묘사·'대세 배우' 손석구 캐스팅도 한몫 (서울=연합뉴스) 김계연 기자 = 마동석이 주연한 범죄액션 영화 '범죄도시 2'의 흥행세가 좀처럼 꺾이지 않고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정익진의 무비셰프 <34> 탕웨이(湯唯)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000011388</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000011388"/>
-        <updated>2022-06-05T05:04:29.792Z</updated>
-        <content type="html"><![CDATA[배우 탕웨이가 왜 이제 생각났을까. 그녀가 출연한 영화를 많이 본 것 같다. 마지막으로 본 영화가 뭐였을까. ‘황금시대’(허안화 감독· 2014)였을까. 부산 영상위원회가 내는 ‘영화부산’이란 영화 잡지에 원고 청탁]]></content>
     </entry>
 </feed>
