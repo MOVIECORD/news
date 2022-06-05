@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 00:36:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 02:44:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['마녀 프로젝트'는 살아있다! 영화 '마녀2', ‘마녀의 기원’ 영상 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=212114</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=212114</guid>
+            <pubDate>Sun, 05 Jun 2022 02:43:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=212114">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220605073844_9e69e65a04aade7282de218f22476ba3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=212114">'마녀 프로젝트'는 살아있다! 영화 '마녀2', ‘마녀의 기원’ 영상 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220605073844_9e69e65a04aade7282de218f22476ba3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마블 신상 '미즈 마블'을 '디즈니+에서 만난다]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=211988</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=211252">배우 이주연, 디즈니 플러스 오리지널 '키스 식스 센스' 출연!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220530104429_dc9a54db8c656ec4f1da4ac172a106f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우버 스토리 '슈퍼 펌프드: 우버 전쟁' ,티빙 '파라마운트+' 브랜드관 론칭]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=211167</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=211167</guid>
-            <pubDate>Mon, 30 May 2022 00:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=211167">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220530081033_6c52e0a84186e4b1da11aabf13a401af.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=211167">우버 스토리 '슈퍼 펌프드: 우버 전쟁' ,티빙 '파라마운트+' 브랜드관 론칭</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220530081033_6c52e0a84186e4b1da11aabf13a401af.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
