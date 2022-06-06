@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-06-06T19:03:44.201Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 06 Jun 2022 20:06:03 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우크라 거장 감독 "바보 같은 침공이지만, 러시아 문화 보이콧은 반대"]]></title>
+            <link>https://v.daum.net/v/20220607043010084</link>
+            <guid>https://v.daum.net/v/20220607043010084</guid>
+            <pubDate>Mon, 06 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“우크라이나 침공은 푸틴이 취할 수 있는 결정 중 가장 바보 같은 것입니다.” 최근 프랑스 칸에서 만난 우크라이나 유명 감독 세르게이 로즈니차(58)는 내내 굳은 표정이었다. 질문에 답할 때 가끔 한숨을 섞기도 했다. 러시아의 우크라이나 침공 때문이었다. 그는 “아주 바보 같고  정의롭지 못한 일에 우울하다”고 했다. 이렇듯 러시아의 우크라이나 침공을 비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F07%2Fhankooki%2F20220607043013622ctkc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
