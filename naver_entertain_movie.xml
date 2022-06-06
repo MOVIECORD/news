@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-06T17:14:43.218Z</updated>
+    <updated>2022-06-06T18:06:42.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화의전당 8일부터 야외상영회…“진짜 여름 왔나봐”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000011470</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000011470"/>
+        <updated>2022-06-06T18:05:52.306Z</updated>
+        <content type="html"><![CDATA[- 첫 상영작은 ‘블라인드 멜로디’ - 로맨스부터 오페라 실황까지 - 다양한 장르 수준높은 작품 상영 - 거리두기 해제로 더 활기 띨 듯 코로나 엔데믹이 가시화되면서 영화의전당 대표 프로그램인 ‘야외 상영회’도 올해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[천우희, 이토록 강렬한 [화보]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000984296</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011231045</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011231045"/>
         <updated>2022-06-06T07:06:05.833Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스] 조성우 기자 = 영화 '범죄도시2'가 개봉 20일 만에 누적관객 수 900만 관객을 넘긴 6일 오후 서울 시내 영화관을 찾은 시민들이 영화를 보기 위해 이동하고 있다. 2022.06.06. xconf]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['범죄도시2' 개봉 20일 만에 900만 관객 돌파]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011231044</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011231044"/>
-        <updated>2022-06-06T07:06:05.836Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스] 조성우 기자 = 영화 '범죄도시2'가 개봉 20일 만에 누적관객 수 900만 관객을 넘긴 6일 오후 서울 시내 영화관을 찾은 시민들이 영화를 보기 위해 이동하고 있다. 2022.06.06. xconf]]></content>
     </entry>
 </feed>
