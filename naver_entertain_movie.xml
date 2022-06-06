@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-06T14:05:18.346Z</updated>
+    <updated>2022-06-06T15:06:16.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[천우희, 이토록 강렬한 [화보]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000984296</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000984296"/>
+        <updated>2022-06-06T15:05:29.106Z</updated>
+        <content type="html"><![CDATA[천우희, 이토록 강렬한 [화보] 배우 천우희의 화보가 공개됐다. ‘천 개의 방’이라는 콘셉트로 진행된 이번 화보에서 천우희는 폭넓은 콘셉트 소화력을 보여줬다. 자연스러운 분위기가 고스란히 묻어나는 흑백 화보부터 색다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘범죄도시2’ 20일만에 관객 900만 돌파]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003702617</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011231044</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011231044"/>
         <updated>2022-06-06T07:06:05.836Z</updated>
-        <content type="html"><![CDATA[[서울=뉴시스] 조성우 기자 = 영화 '범죄도시2'가 개봉 20일 만에 누적관객 수 900만 관객을 넘긴 6일 오후 서울 시내 영화관을 찾은 시민들이 영화를 보기 위해 이동하고 있다. 2022.06.06. xconf]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['범죄도시2' 개봉 20일 만에 900만 관객 돌파]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011231043</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011231043"/>
-        <updated>2022-06-06T07:06:05.838Z</updated>
         <content type="html"><![CDATA[[서울=뉴시스] 조성우 기자 = 영화 '범죄도시2'가 개봉 20일 만에 누적관객 수 900만 관객을 넘긴 6일 오후 서울 시내 영화관을 찾은 시민들이 영화를 보기 위해 이동하고 있다. 2022.06.06. xconf]]></content>
     </entry>
 </feed>
