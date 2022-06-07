@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-07T16:09:38.907Z</updated>
+    <updated>2022-06-07T17:14:11.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['한산' '자백' '인생은 아름다워', 롯데엔터테인먼트 하반기 극장 장악한다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003611466</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003611466"/>
+        <updated>2022-06-07T17:13:26.844Z</updated>
+        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]팬데믹 기간 동안 다수의 한국영화 개봉을 통해 극장가 버팀목 역할을 한 롯데엔터테인먼트는 올해하반기 '한산: 용의 출현' '인생은 아름다워' '자백' 등 기대작을 개봉하겠다고 7일(화)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 ‘아부쟁이' 시사회…다큐 ‘정태춘' 씨네토크]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000898389</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000284050"/>
         <updated>2022-06-07T11:03:29.839Z</updated>
         <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 전 남편 조니 뎁과의 소송에서 패소한 앰버 허드가 연기 활동에도 적신호가 켜졌다. 6일 미국 버라이어티는 영화 '아쿠아맨과 로스트 킹덤'(이하 '아쿠아맨2') 측이 앰버 허드의 출]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오마이포토] '마녀 2' 진구, 진한 감초]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002355945</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002355945"/>
-        <updated>2022-06-07T11:03:29.843Z</updated>
-        <content type="html"><![CDATA[▲ [오마이포토] '마녀 2' 진구 ⓒ 이정민 진구 배우가 7일 오후 서울 용산구의 한 상영관에서 열린 영화 &lt;마녀 2&gt; 시사회에서 포토타임을 갖고 있다. &lt;마녀 2&gt;는 초토화된 비밀연구소에서 홀로 살아남아 세상 밖]]></content>
     </entry>
 </feed>
