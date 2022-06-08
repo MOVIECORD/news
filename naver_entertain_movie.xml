@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-08T17:11:18.534Z</updated>
+    <updated>2022-06-08T18:06:11.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[조재휘의 시네필] ‘쥬라기월드:도미니언’ 추억팔이·억지설정…흥행공식 매몰된 블록버스터]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000011670</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000011670"/>
+        <updated>2022-06-08T18:05:28.694Z</updated>
+        <content type="html"><![CDATA[‘쥬라기 월드 : 폴른 킹덤’(2018)’에서 우리는 갇혀있던 공룡들이 야생으로 뛰쳐나오는 결말을 보았다. ‘쥬라기 공원’(1993) 이래 지속되고 반복되어 왔던, 시리즈의 틀을 부수는 대담한 아이디어였을 것이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['탑건:매버릭' 마일즈 텔러&글렌 포웰, 최종 내한 멤버 합류 확정[공식]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003611857</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001458949"/>
         <updated>2022-06-08T09:07:46.335Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 조민수가 두 편 연속으로 참여하게 된 '마녀' 시리즈에 대한 아낌없는 애정을 전했다. 조민수는 8일 오전 서울 종로구 삼청동의 한 카페에서 열린 영화 '마녀 Part2. The Ot]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그대가 조국', 개봉 14일만에 30만 관객 돌파]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003611727</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003611727"/>
-        <updated>2022-06-08T09:07:46.338Z</updated>
-        <content type="html"><![CDATA[[마이데일리 = 곽명동 기자]조국 법무부장관 임명을 둘러싼 갈등과 저항에 대한 성찰적 다큐멘터리 영화 ‘그대가 조국’이 30만 관객을 돌파했다. 25일 개봉 이후 14일만의 기록이다. 8일 오후, 영화관입장권 통합전]]></content>
     </entry>
 </feed>
