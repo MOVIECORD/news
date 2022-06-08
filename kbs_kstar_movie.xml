@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 05:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 06:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] '기묘한 이야기' 시즌4, 호킨스를 재방문한 기묘한 존재들]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=212614</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=212614</guid>
+            <pubDate>Wed, 08 Jun 2022 06:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=212614">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220608141230_fead160c584c091adf78a34a7095ca60.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=212614">[리뷰] '기묘한 이야기' 시즌4, 호킨스를 재방문한 기묘한 존재들</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220608141230_fead160c584c091adf78a34a7095ca60.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[제작보고회] 액션 장인 장혁, 여고생을 지켜라! '더 킬러: 죽어도 되는 아이' (종합)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=212607</link>
@@ -330,23 +347,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8F%85%EB%A6%BD%EC%98%81%ED%99%94%EA%B4%80">독립영화관</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220603192313_119d4550f4d595c546d6a8b4a11a4623.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["환영합니다" 톰 크루즈, 또 한국 온다 영화 '탑건: 매버릭' 홍보차]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=211855</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=211855</guid>
-            <pubDate>Fri, 03 Jun 2022 03:36:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=211855">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220603105944_c35d7004714fc751980e5e696fb7dd69.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=211855">"환영합니다" 톰 크루즈, 또 한국 온다 영화 '탑건: 매버릭' 홍보차</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220603105944_c35d7004714fc751980e5e696fb7dd69.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
