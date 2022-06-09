@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 23:05:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 00:35:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티빙 ‘파라마운트+ 브랜드관’ 16일 론칭, "스타트랙, 미션임파서블,트랜스포머,워커홀릭스..."]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=212697</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=212697</guid>
+            <pubDate>Thu, 09 Jun 2022 00:32:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=212697">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220609080654_bb38d42754db2d2d5ed7fa9218db7726.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=212697">티빙 ‘파라마운트+ 브랜드관’ 16일 론칭, "스타트랙, 미션임파서블,트랜스포머,워커홀릭스..."</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220609080654_bb38d42754db2d2d5ed7fa9218db7726.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] '기묘한 이야기' 시즌4, 호킨스를 재방문한 기묘한 존재들]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=212614</link>
@@ -329,24 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=211918">장혁, 킬러 되다 영화 '더 킬러: 죽어도 되는 아이' 7월 개봉</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220604062843_4387cf72e94872b17a3e339f9b18084d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[독립영화관] 십개월의 미래  (남궁선 감독, 최성은 주연)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=211866</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=211866</guid>
-            <pubDate>Fri, 03 Jun 2022 15:02:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=211866">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220603192313_119d4550f4d595c546d6a8b4a11a4623.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=211866">[독립영화관] 십개월의 미래  (남궁선 감독, 최성은 주연)</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8F%85%EB%A6%BD%EC%98%81%ED%99%94%EA%B4%80">독립영화관</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220603192313_119d4550f4d595c546d6a8b4a11a4623.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
