@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 00:35:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 02:54:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘 KBS 연중라이브, '별이 된 국민MC 송해, 소집해제 김호중 소식 등']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=212794</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=212794</guid>
+            <pubDate>Thu, 09 Jun 2022 02:53:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=212794">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220609104950_171dbc5af1031871390e4af9838b816d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=212794">오늘 KBS 연중라이브, '별이 된 국민MC 송해, 소집해제 김호중 소식 등'</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%97%B0%EC%A4%91%20%EB%9D%BC%EC%9D%B4%EB%B8%8C">연중 라이브</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220609104950_171dbc5af1031871390e4af9838b816d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['징크스의 연인' 나인우, 불운의 아이콘?]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=212684</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B6%89%EC%9D%80%20%EB%8B%A8%EC%8B%AC">월화드라마 붉은 단심</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220607234510_cc99a072c0eff6b531a8d0cbc32f0304.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[붉은 단심] 반발하는 공신들 무력으로 찍어 누르는 박지연 “이것이 나의 명분이다!”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=212473</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=212473</guid>
-            <pubDate>Tue, 07 Jun 2022 16:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=212473">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220607234040_7f245cfec2bfe6b843eb54f78fd8d92a.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=212473">[붉은 단심] 반발하는 공신들 무력으로 찍어 누르는 박지연 “이것이 나의 명분이다!”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B6%89%EC%9D%80%20%EB%8B%A8%EC%8B%AC">월화드라마 붉은 단심</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220607234040_7f245cfec2bfe6b843eb54f78fd8d92a.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
