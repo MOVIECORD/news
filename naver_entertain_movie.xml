@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-10T20:07:02.561Z</updated>
+    <updated>2022-06-10T21:05:06.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주말의 OTT]마블의 미래를 소개합니다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011241355</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011241355"/>
+        <updated>2022-06-10T21:04:15.452Z</updated>
+        <content type="html"><![CDATA[6월 2주차 디즈니+·넷플릭스·왓챠에서 선보이는 신작 중 볼 만한 작품을 골라봤다. 미즈 마블 '미즈 마블'은 어벤져스와 캡틴마블의 열렬한 팬이자 히어로를 꿈꾸는 16살 '카말라'가 숨겨져 있던 폭발적인 힘을 얻게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['니얼굴' 정은혜 신드롬, "숨길 수 없는 은혜씨 매력에 푹 빠지다"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003612709</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013238557"/>
         <updated>2022-06-10T07:06:34.179Z</updated>
         <content type="html"><![CDATA[CJ ENM이 지난 9일 사우디아라비아 문화부와 문화적 교류 및 협업을 강화하는 업무협약(MOU)을 체결했다고 10일 밝혔다. 왼쪽부터 하메드 빈 모함마드 파예즈 사우디아라비아 문화부 차관, 바데르 빈 압둘라 빈 파]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 ‘빈센트 리버’, 7월 재연…이주승 보러 가자]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000615664</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000615664"/>
-        <updated>2022-06-10T07:06:34.226Z</updated>
-        <content type="html"><![CDATA[지난해 4월 국내 초연으로 관객들을 만나 깊은 울림을 전했던 연극 '빈센트 리버'가 오는 7월 재연을 확정지었다. 연극 '빈센트 리버'는 영국 동부를 바탕으로 진행된다. 극중 영국 동부 베스날 그린에 사는 중년 여성]]></content>
     </entry>
 </feed>
