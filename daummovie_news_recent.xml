@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-06-10T21:05:06.443Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 10 Jun 2022 22:07:40 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰②] '브로커' 고레에다 감독 "아이유 '나의 아저씨' 보고 홀딱 반해"]]></title>
+            <link>https://v.daum.net/v/20220611070307340</link>
+            <guid>https://v.daum.net/v/20220611070307340</guid>
+            <pubDate>Fri, 10 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(인터뷰①에 이어) 고레에다 히로카즈 감독은 ‘브로커’에서 호흡을 맞춘 배우 송강호 강동원 아이유 등에 대한 애정을 드러냈다. 그는 ‘브로커’에서 상현 역을 맡은 송강호에 대해 “작품을 함께 하기 전에도 영화제에서 몇 번 뵙고 이야기도 나누고 식사도 함께한 적이 있다. 그때 느낀 인상은 주변을 즐겁게 해주는 밝은 분이라는 거였다. 그건 이번 현장을 함께]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F11%2Fstartoday%2F20220611070308807hutd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰①] '브로커' 고레에다 감독 "송강호 칸 남우주연상 최고의 상"]]></title>
+            <link>https://v.daum.net/v/20220611070301335</link>
+            <guid>https://v.daum.net/v/20220611070301335</guid>
+            <pubDate>Fri, 10 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘어느 가족’(2018)으로 칸 국제영화제 황금종려상을 탄 일본 거장 고레에다 히로카즈 감독(60)이 영화 ‘브로커’로 첫 한국 영화를 연출했다. 지난달 열린 제75회 칸국제영화제 경쟁 진출작이기도 한 영화 ‘브로커’는 베이비 박스를 둘러싸고 관계를 맺게 된 이들의 예기치 못한 특별한 여정을 그린다. 칸에서 남우주연상을 거머쥔 송강호를 비롯해 강동원]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F11%2Fstartoday%2F20220611070304349vdqs.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['윤시내가 사라졌다', 짝퉁이 뭐 어때서[곽명동의 씨네톡]]]></title>
+            <link>https://v.daum.net/v/20220611060905882</link>
+            <guid>https://v.daum.net/v/20220611060905882</guid>
+            <pubDate>Fri, 10 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]존재는 부재를 통해 선명함을 드러낸다. 윤시내는 70~80년대 한국 가요계의 대표적 디바였다. 무대를 휘어잡는 카리스마, 매력적인 허스키 보이스, 고음에서 절정을 이루는 감정의 폭발에 이르기까지 당대 최고의 보컬로 불렸다. 만약 그가 공연을 앞두고 흔적도 없이 사라진다면 어떤 일이 벌어질 것인가. 김진화 감독은 유명 가수가 갑]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F11%2Fmydaily%2F20220611060905755vszr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
