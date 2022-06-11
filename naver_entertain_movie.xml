@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-11T21:05:35.135Z</updated>
+    <updated>2022-06-11T22:06:13.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['범죄도시2' 이어 '마녀2', 한국영화 프랜차이즈 대박 잇나 [N초점]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006152092</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006152092"/>
+        <updated>2022-06-11T22:05:24.985Z</updated>
+        <content type="html"><![CDATA[또 다른 MCU(?) 영화가 관객들을 찾는다. 마블 시네마틱 유니버스에 이어 마동석 시네마틱 유니버스, 그 뒤를 잇는 '마녀 시네마틱 유니버스'다. '범죄도시2'가 천만 관객을 돌파하면서 뒤이어 개봉하는 한국 영화들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['범죄도시2' 마동석→최귀화, 천만 감사 큰절 "관객분들 덕분"(종합)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006152035</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004976335"/>
         <updated>2022-06-11T07:05:12.736Z</updated>
         <content type="html"><![CDATA[배우 하준이 영화 '범죄도시2' 천만 돌파를 자축했다. 하준은 11일 자신의 SNS에 "오늘을 기점으로 저희 '범죄도시2'를 천만 관객분들께서 봐주셨습니다. 관객분들의 뜨거운 응원과 애정 덕분입니다"라고 적었다. 하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘범죄도시2’ 극장에서만 ‘천억’ 벌었다 매출 역대 톱10 눈앞]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000587353</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000587353"/>
-        <updated>2022-06-11T07:05:12.742Z</updated>
-        <content type="html"><![CDATA[28번째 천만 영화의 탄생. 그러나 극장수익으로 따지면 역대 톱10 진입이 가시권이다. 입장권으로만 무려 1,000억원을 벌었다. 개봉 25일째, 그러니까 하루 평균 40억원씩 돈을 끌어 모은 셈. ‘K-MCU’로]]></content>
     </entry>
 </feed>
