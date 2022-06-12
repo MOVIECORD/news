@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 22:05:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 23:03:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['환혼' 이재욱-정소민, "이런 사제 로맨스를 보았나~"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=213237</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=213237</guid>
+            <pubDate>Sun, 12 Jun 2022 23:02:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213237">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220612082126_50fb90f1a17d09bcd8f694e7c6cef02c.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=213237">'환혼' 이재욱-정소민, "이런 사제 로맨스를 보았나~"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220612082126_50fb90f1a17d09bcd8f694e7c6cef02c.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[왜 오수재인가 4회] 서현진, 한밤중 피습 "누구도 믿을 수 없다!"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=213219</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=211994">월간 커넥트2, ‘태양의 서커스’ 홍연진 단원과 소설가 요시모토 바나나를 만나다</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220604075941_3bd063b5f8e65e2aa5ff25b39599774c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최유리 "좋아하는 배우들이 출연하는 드라마 '별똥별' OST 참여 영광"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=211841</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=211841</guid>
-            <pubDate>Fri, 03 Jun 2022 02:43:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=211841">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220603102122_73d17d3b3ff0be15e9134b778704f9a3.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=211841">최유리 "좋아하는 배우들이 출연하는 드라마 '별똥별' OST 참여 영광"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220603102122_73d17d3b3ff0be15e9134b778704f9a3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
