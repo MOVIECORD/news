@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-13T17:14:47.074Z</updated>
+    <updated>2022-06-13T18:08:46.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[방호정의 컬쳐 쇼크 & 조크] <75> 드라마 ‘우리들의 블루스’]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000012056</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000012056"/>
+        <updated>2022-06-13T18:07:58.288Z</updated>
+        <content type="html"><![CDATA[‘어떻게 이 사람들이 한 화면에 나오지?’라는 생각이 들 정도로 아카데미, 칸에서 연기상을 줄줄이 하나씩 타온다고 해도 별로 놀라울 것 없는 이병헌 차승원 고두심 김혜자 이정은 등등 연기장인들이 총출동해, 일찍이 국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“대안영상예술을 함께 즐길관객평론단모집해요”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000819332</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004636420"/>
         <updated>2022-06-13T11:03:54.058Z</updated>
         <content type="html"><![CDATA[13일 오후 서울 자양동 롯데시네마 건대입구에서 영화 '감동주의보' VIP 시사회 포토월 행사가 열렸다. 배우 홍수아가 포토타임을 하고 있다. 2022.06.13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍수아, 몰라보게 예뻐졌네]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006155519</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006155519"/>
-        <updated>2022-06-13T11:03:54.062Z</updated>
-        <content type="html"><![CDATA[배우 홍수아가 13일 오후 서울 롯데시네마 건대입구에서 열린 영화 ‘감동주의보’ VIP시사회에서 미소를 짓고 있다. ‘감동주의보’는 큰 감동을 받으면 생명이 위험해지는 감동병을 앓고 있는 보영(홍수아 분)이 착한 시]]></content>
     </entry>
 </feed>
