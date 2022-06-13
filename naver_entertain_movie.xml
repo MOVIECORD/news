@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-13T15:11:38.498Z</updated>
+    <updated>2022-06-13T16:10:00.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“대안영상예술을 함께 즐길관객평론단모집해요”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000819332</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000819332"/>
+        <updated>2022-06-13T16:09:11.448Z</updated>
+        <content type="html"><![CDATA[“대안영상예술을 함께 즐길관객평론단모집해요” 오는 8월 18일~26일 개최되는제22회 서울국제대안영상예술페스티벌(네마프)이 관객평론단을 6월 21일까지 모집한다. 영화와 전시를 동시에 즐기는 국내유일의 탈장르 영상예]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 송강호 "관객에게 늘 좋은 모습으로 인사하는 게 꿈"②]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000154879</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006155519"/>
         <updated>2022-06-13T11:03:54.062Z</updated>
         <content type="html"><![CDATA[배우 홍수아가 13일 오후 서울 롯데시네마 건대입구에서 열린 영화 ‘감동주의보’ VIP시사회에서 미소를 짓고 있다. ‘감동주의보’는 큰 감동을 받으면 생명이 위험해지는 감동병을 앓고 있는 보영(홍수아 분)이 착한 시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍수아, 사랑스러운 단발 요정]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006155518</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006155518"/>
-        <updated>2022-06-13T11:03:54.062Z</updated>
-        <content type="html"><![CDATA[배우 홍수아가 13일 오후 서울 롯데시네마 건대입구에서 열린 영화 ‘감동주의보’ VIP시사회에 참석하고 있다. ‘감동주의보’는 큰 감동을 받으면 생명이 위험해지는 감동병을 앓고 있는 보영(홍수아 분)이 착한 시골청년]]></content>
     </entry>
 </feed>
