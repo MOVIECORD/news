@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 00:38:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 03:04:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조나단 사기 당하다? '갓파더']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=213559</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=213559</guid>
+            <pubDate>Tue, 14 Jun 2022 03:03:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213559">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220614113040_fd090d64aa429678768c438cf050b2bc.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=213559">조나단 사기 당하다? '갓파더'</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220614113040_fd090d64aa429678768c438cf050b2bc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[개는 훌륭하다] 강형욱 찐당황…? 인터뷰 중 번개처럼 담 넘어 사라진 도담이와 마루]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=213499</link>
@@ -346,24 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9E%90%EB%B3%B8%EC%A3%BC%EC%9D%98%20%ED%95%99%EA%B5%90">자본주의 학교</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220612235147_d17ec41806fa15b106271adee9acb5af.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[자본주의학교]  서경석, 최준석 월세 계약 체결 성공...병아리중개사 첫 도장 찍었다]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=213298</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=213298</guid>
-            <pubDate>Sun, 12 Jun 2022 15:03:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213298">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220612234516_74a23c84f31ae4de74b26261d55228eb.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=213298">[자본주의학교]  서경석, 최준석 월세 계약 체결 성공...병아리중개사 첫 도장 찍었다</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9E%90%EB%B3%B8%EC%A3%BC%EC%9D%98%20%ED%95%99%EA%B5%90">자본주의 학교</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220612234516_74a23c84f31ae4de74b26261d55228eb.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
