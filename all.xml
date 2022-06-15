@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 22:06:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 23:08:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,23 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220607155031_a82b8d08b1ff753e36730e9ecb3f3070.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[연중 예고] '아포방포' 방탄소년단, '민간인' 김호중, '새신랑' 윤계상, 그리고 권해효 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=213885</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=213885</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213885">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220616070627_a0096a17500b376ae8de1a3e3cc9c1c8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=213885">[연중 예고] '아포방포' 방탄소년단, '민간인' 김호중, '새신랑' 윤계상, 그리고 권해효</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220616070627_a0096a17500b376ae8de1a3e3cc9c1c8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[징크스의 연인] 윤유선과 함께 집으로 가던 중 갑자기 교통사고를 당하게 된 나인우 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=213867</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=213867</guid>
@@ -1030,24 +1047,6 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220614233631_7acd1cbf20c4d406c6f27d10199a6154_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[붉은 단심] 대비에게 반기 들고 옥에 갇힌 장혁 “대비마마를 폐위 시킬 것입니다!” (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=213623</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=213623</guid>
-            <pubDate>Tue, 14 Jun 2022 15:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213623">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220614233412_5164f145c56c8deca71ec3b43b4c1b53_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=213623">[붉은 단심] 대비에게 반기 들고 옥에 갇힌 장혁 “대비마마를 폐위 시킬 것입니다!”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B6%89%EC%9D%80%20%EB%8B%A8%EC%8B%AC">월화드라마 붉은 단심</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220614233412_5164f145c56c8deca71ec3b43b4c1b53_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[박찬욱 감독, 2002년 임권택 감독에 이어 20년 만의 감독상 수상 기록! (MBC 연예 ─ 영화)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/349271</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/349271</guid>
@@ -1110,6 +1109,76 @@
             <pubDate>Mon, 30 May 2022 14:10:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/341459" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/20/a9eeec5e-3c7b-448b-a00f-5769059cc234.jpg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">'뜨거운 피' 천명관 감독 "밑바닥 인생의 비극, 허무함을 문학적으로 느낄수 있는 <font color="red">영화</font>" [인터뷰M]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/20/a9eeec5e-3c7b-448b-a00f-5769059cc234.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['탑건:매버릭' 포맷별 시사회 반응 터졌다, "온라인 폭발적 입소문" (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003614345</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003614345</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:22 GMT</pubDate>
+            <content:encoded><![CDATA[6월 22일(수) 대한민국 개봉을 앞두고 특별관 포맷 시사회를 진행한 영화 '탑건: 매버릭'이 폭발적인 온라인 반응과 함께 흥행 최강자로 주목받고 있다. 톰 크루즈 필모그래피 사상 최고 북미 성적을 기록하고 있는 ']]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[신시아의 ‘마녀2’, 전편 2배 넘는 오프닝 스코어로 박스오피스 1위 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=021&amp;aid=0002517907</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=021&amp;aid=0002517907</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:22 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘마녀 Part2. The Other One’(감독 박훈정·마녀 2)가 개봉 첫날 박스오피스 정상에 올랐다. 영화진흥위원회 통합전산망에 따르면 15일 개봉한 ‘마녀2’는 전국 관객 26만6514명을 동원했다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['마녀 2', 개봉 첫날 전편의 2배 관객 동원 1위…26만명↑[Nbox] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006160631</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006160631</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:22 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '마녀 2'(감독 박훈정)가 개봉 첫날 박스오피스 1위를 차지했다. 16일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '마녀 2'는 지난 15일 하루 26만 6526명의 관객을 동원해 '범죄도시2'를 꺾]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마동석 밀어낸 마녀…'마녀2' 박스오피스 1위 출발 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011250029</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011250029</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:22 GMT</pubDate>
+            <content:encoded><![CDATA[기사내용 요약 같은 날 개봉 '버즈 라이트이어' 4위 영화 '마녀 Part2. The Other One'('마녀2')이 개봉 첫 날을 박스오피스 1위로 출발했다. 같은 날 공개된 디즈니·픽사 애니메이션 영화 '버즈]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[리뷰] ‘오마주’ 황윤석 판사, 홍은원 감독, 신수원 감독, 이정은 배우, 그리고 여성의 그림자 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000047512</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000047512</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:22 GMT</pubDate>
+            <content:encoded><![CDATA[신수원 감독의 영화 [오마주]는 ‘여성’영화이다. 1950년대, 1960년대, 그리고 2020년대를 살아가는 한국 여성의 이야기를 꾹꾹 눌러 담고 있다. 예단하지 마라! 가부장적 남성사회에서 억압받는 불행한 여성의]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['마녀2' 개봉 첫날 26만 동원 1위..'마녀' 오프닝 스코어보다 2배 이상(공식) (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003566117</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003566117</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:22 GMT</pubDate>
+            <content:encoded><![CDATA['마녀 Part2. The Other One'이 개봉 첫날 박스오피스 정상에 올랐다. '마녀 Part2. The Other One'('이하 '마녀2')은 초토화된 비밀연구소에서 홀로 살아남아 세상 밖으로 나오게 된]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['마녀2' 개봉 첫날 26만 관객 동원하며 박스오피스 1위 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000158482</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000158482</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:22 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 전부터 실시간 예매율 1위를 기록하며 올여름 최고의 기대작으로 주목받은 영화 '마녀 Part2. The Other One'('이하 '마녀 2')가 개봉 첫날 26만 관객을 동원하며 박스오피스 정상에 올랐다. []]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘브로커’ 이지은, 첫 영화로 칸까지…“‘대박’이라고 생각” [MK★인터뷰] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000875275</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000875275</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:22 GMT</pubDate>
+            <content:encoded><![CDATA[첫 상업 영화 신고식을 치른 가수 겸 배우 이지은(아이유)이 소감을 전했다. 이지은은 2008년 아이유로 데뷔해 믿고 듣는 가수로 자리매김했다. 이후 연기를 병행하면서 본명 이지은으로 드라마 ‘프로듀사’ ‘달의 연인]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[SC초점] "거리두기 해제→韓화제작 개봉"…지옥에서 탈출한 극장가, 다시 맞이한 충무로 르네상스 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003881400</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003881400</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:22 GMT</pubDate>
+            <content:encoded><![CDATA[단절과 상실의 팬데믹을 이겨낸 극장가가 3년 만의 거리두기 해제와 오랫동안 개봉을 기다려온 블록버스터의 개봉으로 다시 르네상스를 맞았다. 여기에 칸국제영화제의 수상 효과는 물론 멀티플렉스의 차별화된 특수관 론칭까지]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘룸 쉐어링’ 매물 보류[편파적인 씨네리뷰] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000819849</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000819849</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:22 GMT</pubDate>
+            <content:encoded><![CDATA[■편파적인 한줄평 : 좋은 소재인데, 깊이가 영. 잠시만, 이 매물은 보류다. 좋은 소재에 착한 메시지를 갖췄지만 깊이감이 영 없다. 나문희·최우성이 호흡을 맞춘 영화 ‘룸 쉐어링’(감독 이순성)이다. ‘룸 쉐어링’]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰] '버즈 라이트이어' 전성욱·이채연 애니메이터 "신나고 얼떨떨했죠" (네이버TV연예 ─ 영화)]]></title>
@@ -1217,249 +1286,242 @@
             <content:encoded><![CDATA[‘토르: 러브 앤 썬더’ 캐릭터 포스터 공개 마블의 코스믹 엔터테이닝 블록버스터 ‘토르: 러브 앤 썬더’의 캐릭터 포스터가 공개됐다. ‘토르: 러브 앤 썬더’는 천둥의 신 ‘토르’가 ‘킹 발키리’, ‘코르그’, 그리]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘제 10회 서울국제어린이영화제’ 개막…22일까지 이어져 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000819831</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000819831</guid>
-            <pubDate>Wed, 15 Jun 2022 13:28:56 GMT</pubDate>
-            <content:encoded><![CDATA[‘제 10회 서울국제어린이영화제’가 15일 개막했다. 어린이영화제 10주년과 어린이날 100주년을 맞이하는 기념비적인 해인이번 영화제는 그 어느 때보다도 풍성한축제의 장이 될 예정이다. 언택트로 진행된 개막식은 조직]]></content:encoded>
+            <title><![CDATA[‘악카펠라’ 동요도 장송곡 만든 충격의 하모니 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589127</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589127</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[야산에서 포착되었던 ‘악카펠라’가 이번엔 핑크빛 키즈카페를 접수했다. 6월 16일 방송되는 MBC ‘악카펠라’(기획 박정규 연출 채현석 이신지 박동빈 장우성 이주원)가 키즈카페 접수 현장을 공개했다. 이호철의 주도로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["조·단역 모두 오디션 거쳐"... 마동석이 전한 '진심' (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000680945</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000680945</guid>
-            <pubDate>Wed, 15 Jun 2022 13:28:56 GMT</pubDate>
-            <content:encoded><![CDATA[배우 마동석이 '범죄도시2' 배우들과 관객들을 향해 깊은 고마움을 표했다. 15일 오후 서울 강남구 메가박스 코엑스에서 천만 영화 '범죄도시2'의 흥행 감사 GV가 개최됐다. 이날 행사는 네이버 NOW를 통해 생중계]]></content:encoded>
+            <title><![CDATA[[종합] 허재, 두 아들에 아버지 노릇…허훈 "1분 1초 금 같은 시간, 父에 투자 맞나?"('허섬세월') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000552861</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000552861</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[허재, 허웅, 허훈 '허삼부자'가 섬 생활을 시작했다. 그 중 허훈은 입대를 앞두고 1분 1초가 아깝다고 밝혔다. 지난 15일 첫 방송 된 JTBC 예능 '허섬세월 - 허삼부자 섬집일기(이하 허섬세월)'에서는 허재,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[손석구, '제2의 마동석' 꿈꾸는 이유 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000680944</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000680944</guid>
-            <pubDate>Wed, 15 Jun 2022 13:28:56 GMT</pubDate>
-            <content:encoded><![CDATA[배우 손석구가 마동석에게 감사 인사를 전해 눈길을 모았다. 15일 오후 서울 강남구 메가박스 코엑스에서 천만 영화 '범죄도시2'의 흥행 감사 GV가 개최됐다. 이날 행사는 네이버 NOW를 통해 생중계됐다. 기획자이자]]></content:encoded>
+            <title><![CDATA[이찬원 "친동생, 나보다 잘생기고 노래 잘해" (도장깨기) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001462057</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001462057</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[‘장윤정의 도장깨기’에서 이찬원이 꿀이 뚝뚝 떨어지는 미소로 동생 칭찬을 쏟아내며 ‘동생 바보’ 면모를 드러낸다. LG헬로비전, TRA Media, 스포츠서울 엔터TV 예능프로그램 ‘장윤정의 도장깨기-전 국민 가수]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘미니언즈2’ 7월 20일 개봉 [공식] (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000986312</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000986312</guid>
-            <pubDate>Wed, 15 Jun 2022 12:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[‘미니언즈2’ 7월 20일 개봉 [공식] ‘미니언즈’의 두 번째 이야기 ‘미니언즈2’가 2022년 7월 20일 개봉을 확정했다. ‘슈퍼배드’ 시리즈의 스핀오프이자 원작을 뛰어넘는 압도적 흥행으로 애니메이션 명가 일루]]></content:encoded>
+            <title><![CDATA[‘유퀴즈’ 유지태 “김효진 잡고자 뉴욕까지 날아가... 3년 만나고 결혼하자고”[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001219679</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001219679</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[배우 유지태가 아내 김효진과의 러브스토리를 공개했다. 결혼 전 유지태는 김효진의 마음을 사로잡고자 미국 뉴욕까지 날아가 그에게 사랑을 고백했다. 15일 방송된 tvN ‘유 퀴즈 온 더 블럭’에선 유지태가 게스트로 출]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[현장EN:]'범죄도시 2' 속 '전양심' 탄생 비화·마지막 회식 신의 진실 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003654236</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003654236</guid>
-            <pubDate>Wed, 15 Jun 2022 12:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19 팬데믹(감염병의 세계적 대유행) 시대 첫 천만 관객 돌파라는 신기록을 쓴 '범죄도시 2'가 영화를 찾아준 모든 관객에게 무한 감사를 전했다. 지난 5월 18일 개봉한 '범죄도시 2'는 연일 신기록을 세우더]]></content:encoded>
+            <title><![CDATA[‘나혼산’ 밥차 뽑은 이장우, 고기 80kg 준비해 100인분 도전 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589126</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589126</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[이장우가 100인분 밥차에 도전한다. 6월 17일 방송되는 MBC ‘나 혼자 산다’에서는 '나 홀로 밥차'에 도전한 이장우의 모습이 공개된다. 이장우가 “얼마 전에 제 생일이었다. 획기적인 역대급 이벤트를 벌일 작정]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['룸 쉐어링' 최우성x나문희, 할머니와 대학생의 가슴 따뜻한 동거(종합)[현장의 재구성] (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004637752</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004637752</guid>
-            <pubDate>Wed, 15 Jun 2022 11:05:21 GMT</pubDate>
-            <content:encoded><![CDATA[사람들과 단절된 채 홀로 살아가다 아무도 모르게 생을 마감하는 고독사 시대. 과거에는 주로 노년층을 대상으로 이 같은 일이 벌어졌었지만, 이제는 중장년층에서 청년층까지 점차 세대가 낮아지며 그에 대한 대책 마련이 요]]></content:encoded>
+            <title><![CDATA[예비부모 홍현희♥제이쓴, 사유리 子 만남에 멘붕한 이유(슈돌) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589125</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589125</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[젠과 곧 출산을 앞둔 예비 부모 홍현희 제이쓴 부부가 만난다. 6월 17일 방송되는 KBS 2TV '슈퍼맨이 돌아왔다'(이하 '슈돌') 435회는 ‘우리의 만남은 모두 기적이야’ 편으로 꾸며진다. 이중 젠은 홍현희]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["송강호X이지은만 있나?"…'브로커' 송새벽→이동휘가 완성한 대체불가 '신스틸러' 존재감 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003881240</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003881240</guid>
-            <pubDate>Wed, 15 Jun 2022 11:05:21 GMT</pubDate>
-            <content:encoded><![CDATA[제75회 칸국제영화제 경쟁 부문 공삭 초청작이자 남우주연상(송강호)을 수상한 휴먼 영화 '브로커'(고레에다 히로카즈 감독, 영화사 집 제작)가 시선을 강탈하는 다채로운 신 스틸러들의 활약으로 화제를 모으고 있다. 전]]></content:encoded>
+            <title><![CDATA[유빈, 원더걸스 히트곡 퍼레이드 감상에 '쑥스' ('골 때리는 외박') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000552860</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000552860</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[유빈이 규현, 문별과 아무 말 대잔치를 하며 예능감을 뽐냈다. 유빈은 지난 15일 방송된 SBS '골 때리는 외박'에서 '골 때리는 그녀들'의 FC탑걸 멤버들과 함께 특별한 여행에 나섰다. 이날 유빈은 MC들이 준비]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['범죄도시2' 마동석→하준 "천만 안 믿겨…명장면? 누가 5야·전양심" [종합] (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001461867</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001461867</guid>
-            <pubDate>Wed, 15 Jun 2022 10:04:44 GMT</pubDate>
-            <content:encoded><![CDATA['범죄도시2' 주역들이 천만 관객 돌파 소감을 전했다. 15일 서울 강남구 삼성동 메가박스 코엑스에서 영화 '범죄도시2'(감독 이상용) 흥행 감사 GV(관객과의 대화)가 열렸다. 이 자리에는 이상용 감독과 배우 마동]]></content:encoded>
+            <title><![CDATA[레드벨벳 슬기X아이린 민낯 근황, 만화 찢고 나온 요정 비주얼 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589124</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589124</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[레드벨벳 슬기가 아이린과 근황을 전했다. 슬기는 6월 16일 자신의 SNS에 "패트와 매트"라는 글과 함께 사진을 게재했다. 공개된 사진 속 슬기는 아이린과 다양한 포즈를 취하고 있다. 만화 패트와 매트 속 캐릭터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[오마이포토] '범죄도시2' 마동석-손석구, 강한 남자들의 감사인사 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002356755</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002356755</guid>
-            <pubDate>Wed, 15 Jun 2022 10:04:44 GMT</pubDate>
-            <content:encoded><![CDATA[▲ [오마이포토] '범죄도시2' 마동석-손석구, 강한 남자들 ⓒ 이정민 마동석과 손석구 배우가 15일 오후 서울 강남구의 한 상영관에서 열린 영화 &lt;범죄도시2&gt; 흥행 감사 GV에서 포토타임을 갖고 있다. &lt;범죄도시2]]></content:encoded>
+            <title><![CDATA[[종합] 나문희 "♥남편과 중매로 만나…등산 가잘 때 남자로 보여"('옥문아들') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000552858</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000552858</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[나문희와 최정훈이 50살 나이 차이를 뛰어넘는 사제 케미를 자랑했다. 지난 15일 방송된 KBS2 예능 '옥탑방의 문제아들'(이하 '옥문아들')에는 배우 나문희와 잔나비의 최정훈이 게스트로 출연했다. 나문희와 최정훈]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['범죄도시2' 정재광 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006160209</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006160209</guid>
-            <pubDate>Wed, 15 Jun 2022 10:04:44 GMT</pubDate>
-            <content:encoded><![CDATA[배우 정재광이 15일 오후 서울 강남구 코엑스 메가박스에서 열린 영화 ‘범죄도시2’(감독 이상용) GV에서 인사말을 하고 있다. ‘범죄도시2’는 괴물형사 마석도(마동석 분)와 금천서 강력반이 베트남 일대를 장악한 최]]></content:encoded>
+            <title><![CDATA[김이나 "BTS 뷔x박효신, 만나면 노래 부르면서 놀아" (라스) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001462054</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001462054</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[작사가 김이나가 박효신과 방탄소년단 뷔의 친분을 언급했다. 15일 방송된 MBC 예능프로그램 ‘라디오스타’에는 ‘부럽지가 않어~’ 특집으로 꾸며져 김이나, 이지혜, 김민규, 양세형이 출연했다. '별밤' 라디오 DJ로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[첫방 "늦었지만 父 노릇하고 파"…허재, 子 허훈·허웅과 녹도行 (허섬세월)[전일야화] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001462031</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001462031</guid>
-            <pubDate>Wed, 15 Jun 2022 22:05:48 GMT</pubDate>
-            <content:encoded><![CDATA['허섬세월' 허재가 허웅, 허훈 형제에 대한 애정을 드러냈다. 15일 첫 방송된 JTBC 예능 프로그램 "허섬세월-허섬부자 섬집일기'(이하 '허섬세월')에서 허재, 허웅, 허훈의 섬 생활이 그려졌다. 허훈이 군 입대]]></content:encoded>
+            <title><![CDATA[첫방 ‘징크스의 연인’ 서현, 예지력 때문에 감금생활... 나인우 위해 탈출[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001219678</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001219678</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[서현이 나인우를 통해 ‘바깥세상’으로 나왔다. 예지력을 갖춘 무녀 서현은 전광렬에 의해 감금 생활을 하고 있었다. 15일 방송된 KBS 2TV ‘징크스의 연인’에선 슬비(서현 분)와 수광(나인우 분)의 첫 만남이 그]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[OTT다방] 랜선 이모·삼촌 모여라, '윌벤져스'의 무공해 꿈 여행 예능 '해밍턴家 꿈의 옷장' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=011&amp;aid=0004065511</link>
-            <guid>https://entertain.naver.com/now/read?oid=011&amp;aid=0004065511</guid>
-            <pubDate>Wed, 15 Jun 2022 22:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[직접 맛보고 추천하는 향긋한 작품 한 잔! 세상의 OTT 다 보고 싶은 ‘OTT다방’ "오늘 입어볼 꿈은?" ENA 새 예능 프로그램 '해밍턴家 꿈의 옷장'은 방송인 샘 해밍턴과 그의 아들 윌리엄, 벤틀리가 일명 ']]></content:encoded>
+            <title><![CDATA[[단독] '6월의 신부' 장나라, 청첩장 입수…26일 'VIP' 촬영감독과 야외웨딩 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001752184</link>
+            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001752184</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[가수 겸 배우 장나라 씨가 6월 26일 품절녀가 된다. YTN Star는 오늘(16일) 장나라 씨의 결혼식 청첩장을 단독 입수했다. 장나라 씨는 오는 26일 오후 6시 서울 서초구 내곡동에 위치한 보넬리 가든에서 6]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정국 "방탄소년단 활동 중단 아냐, 해체 생각 없다" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=018&amp;aid=0005242754</link>
-            <guid>https://entertain.naver.com/now/read?oid=018&amp;aid=0005242754</guid>
-            <pubDate>Wed, 15 Jun 2022 22:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[“아직 단체로 할 게 많다.” 그룹 방탄소년단(BTS) 멤버 정국은 15일 밤 네이버 브이라이브 라이브 방송을 켜고 이 같이 말하며 방탄소년단이 팀 활동을 중단하는 게 아니라고 해명했다. 이날 방송에서 정국은 “자고]]></content:encoded>
+            <title><![CDATA[완판 요정 채정안, 연하남 찾아요 “사랑해요 누나는 없니” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589122</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589122</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[배우 채정안이 귀여운 불만으로 시선을 끌었다. 채정안은 6월 15일 자신의 SNS에 "테크노요정에서 완판요정이 되다"라는 글과 함께 사진을 게재했다. 공개된 사진 속 채정안은 꽃다발을 안고 은은한 미소를 짓고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["슈퍼모델 출신 40대 피습 여배우, 정체 알아…예상 밖 인물" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=018&amp;aid=0005242752</link>
-            <guid>https://entertain.naver.com/now/read?oid=018&amp;aid=0005242752</guid>
-            <pubDate>Wed, 15 Jun 2022 22:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[남편으로부터 피습 당한 슈퍼모델 출신 40대 여배우의 정체에 대한 관심이 높아지고 있는 가운데 유튜버 이진호가 “2차 피해가 우려된다”면서도 A씨의 정체와 관련된 주장을 내놨다. 15일 이진호는 자신이 운영 중인 유]]></content:encoded>
+            <title><![CDATA[‘신랑수업’ 영탁, 필기·기능 합격…도로만 남았다[간밤TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000819855</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000819855</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[‘신랑수업’ 모태범이 소개팅녀 임사랑과 설레는 두 번째 데이트에서 남녀 간의 ‘찐 케미’를 폭발시키며 ‘美친 몰입’을 자아냈다. 15일 방송한 채널A ‘요즘 남자 라이프-신랑수업(이하 ‘신랑수업’)’ 19회는 2.4]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['사랑꾼' 유지태 "김효진 소개해주려다 급고백, 3년만 결혼" (유퀴즈) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000841576</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000841576</guid>
-            <pubDate>Wed, 15 Jun 2022 22:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[tvN ‘유퀴즈’ 출처 | tvN 한국판 ‘종이의 집’에서 역대급 스케일의 절도를 기획한 설계자 ‘교수’ 역으로 출연하는 배우 유지태가 모처럼의 예능 출연에서 입담을 자랑했다. 유지태는 15일 방송된 tvN ‘유 퀴]]></content:encoded>
+            <title><![CDATA['국가부' 박창근, 산울림st 보이스..'꼬마야' 열창 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003062615</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003062615</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:33 GMT</pubDate>
+            <content:encoded><![CDATA['국가가 부른다'가 10대 가수들과 함께한 명품 컬래버 무대를 선보인다. 16일 방송되는 TV CHOSUN '국가가 부른다'(이하 '국가부')에서는 10대 가수 황민우, 전유진, 이소원, 류영채, 김다현, 임도형,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[둘째 임신 소율, 이제야 D라인 보이네…마른 몸매 “나혼자” 근황 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589112</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589112</guid>
-            <pubDate>Wed, 15 Jun 2022 22:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 크레용팝 출신 소율이 일상을 공유했다. 소율은 6월 15일 자신의 SNS에 "나 혼자 세차장에 나 혼자 스파에 혼자는 넘 심심"이라는 글과 함께 사진 여러 장을 게재했다. 공개된 사진 속 소율은 홀로 외출에 나]]></content:encoded>
+            <title><![CDATA['7월 12일 컴백' 슈퍼주니어, 정규 11집 첫 단체 티저 공개…농익은 9人 분위기 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000552857</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000552857</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:33 GMT</pubDate>
+            <content:encoded><![CDATA['K-POP 레전드' 슈퍼주니어가 독보적인 분위기로 정규 11집의 스케일을 예고했다. 슈퍼주니어는 지난 15일 공식 SNS를 통해 정규 11집 Vol.1 앨범 'The Road : Keep on Going (더 로드]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[6기 영철♥영숙 결혼·임신 겹경사→영호, 정숙·옥순 다 놓치고 '어장 비난' (나는 SOLO)[전일야화] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001462027</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001462027</guid>
-            <pubDate>Wed, 15 Jun 2022 22:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[6기 영철과 영숙이 결혼과 함께 2세 소식을 전했다 15일 방송된 ENA PLAY·SBS Plus '나는 SOLO'에서는 최종선택을 앞두고 혼란에 빠진 8기 출연자들의 모습이 그려졌다. 이날 3:1 데이트를 다녀온]]></content:encoded>
+            <title><![CDATA[오메가엑스 ‘엠카운트다운’ 출격 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000819854</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000819854</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[보이그룹 오메가엑스(OMEGA X)가 전매특허 청량함으로 열일 활동 신호탄을 울렸다. 오메가엑스(재한, 휘찬, 세빈, 한겸, 태동, XEN, 제현, KEVIN, 정훈, 혁, 예찬)는 지난 15일 발매한 첫 정규앨범]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘나는 솔로’ 6기 영숙♥영철 “축복 찾아왔다” 혼전 임신→결혼 결정 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589111</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589111</guid>
-            <pubDate>Wed, 15 Jun 2022 22:05:48 GMT</pubDate>
-            <content:encoded><![CDATA['나는 솔로' 6기 영숙이 영철과의 결혼을 발표했다. 영숙은 6월 15일 자신의 SNS에 "많이 놀라셨죠.....ㅎㅎㅎㅎ 영철&amp;영숙, 정두&amp;한샘 결혼합니다"라는 글과 함께 사진을 게재했다. 공개된 사진은 영숙과 영철]]></content:encoded>
+            <title><![CDATA['라디오스타' 김이나 "저작권 효자곡, 요즘 최고는 임영웅" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=629&amp;aid=0000155381</link>
+            <guid>https://entertain.naver.com/now/read?oid=629&amp;aid=0000155381</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[최고 히트 작사가가 꼽은 저작권료 최고 효자곡 김이나 작사가가 최근 저작권료 최고 효자곡으로 임영웅을 꼽았다. 김이나는 15일 방송된 MBC '라디오스타'에 출연했다. 히트 작사가인 만큼 MC 김구라는 "저작권료 효]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["고백 위해 뉴욕行" …유지태♥김효진, 영화 같은 러브스토리 (유퀴즈) [전일야화] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001462026</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001462026</guid>
-            <pubDate>Wed, 15 Jun 2022 22:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[배우 유지태와 김효진의 러브스토리가 공개됐다. 15일 방송된 tvN '유 퀴즈 온 더 블럭'에서는 '똑바로 살기' 특집으로 꾸며진 가운데 유지태가 김효진과 러브스토리를 밝힌 장면이 전파를 탔다. 이날 유재석은 "20]]></content:encoded>
+            <title><![CDATA[‘9살 연상연하’ 한민채, 피습 여배우 추측에 “저 아닙니다‥둘째 임신 중” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589120</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589120</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:33 GMT</pubDate>
+            <content:encoded><![CDATA['애로부부'에 9살 차이 연상연하 부부로 출연했던 배우 한민채가 '피습 여배우' 추측에 "저 아니다"고 밝혔다. 한민채는 6월 15일 자신의 인스타그램을 통해 "당황스러운 연락들이 와서 대수롭지 않게 넘기려다 저를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘마이큐♥’ 김나영 수영복을 일상처럼…제주 여름 살이 제대로 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589110</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589110</guid>
-            <pubDate>Wed, 15 Jun 2022 22:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 김나영이 제주 일상을 공유했다. 김나영은 6월 15일 자신의 SNS 스토리에 별 다른 글 없이 사진을 게재했다. 공개된 사진에서 김나영은 줄무늬 원피스 수영복을 입고 포즈를 취하고 있다. 제주로 떠난 후 꾸준]]></content:encoded>
+            <title><![CDATA['나는 솔로' 6기 영숙·영철 결혼…2세까지 임신 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=018&amp;aid=0005242764</link>
+            <guid>https://entertain.naver.com/now/read?oid=018&amp;aid=0005242764</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[‘나는 솔로’에서 결혼에 골인한 5번째 커플이 나왔다. 15일 방송한 ENA PLAY, SBS PLUS 리얼 데이팅 프로그램 ‘나는 솔로’에서 진행자 데프콘은 “또 한 번의 결혼 소식을 전한다”며 6기 출연자였던 영]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[홍현희, 만삭에 탄생한 인생사진‥D라인 요정 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589109</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589109</guid>
-            <pubDate>Wed, 15 Jun 2022 22:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[홍현희가 사랑스러운 D라인을 공개했다. 홍현희는 6월 15일 자신의 인스타그램을 통해 "의상 협찬사진도 이젠 똥벼리와 함께"라는 글과 더불어 D라인이 돋보이는 사진 여러 장을 공개했다. 배에 손을 올리고 미소를 짓는]]></content:encoded>
+            <title><![CDATA[간미연, 20년 전과 변함없는 방부제 미모…S.E.S. 바다도 '깜짝' (골때박) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001462049</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001462049</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:33 GMT</pubDate>
+            <content:encoded><![CDATA['골때박' 간미연이 방부제 외모를 자랑했다. 15일 방송된 SBS 예능프로그램 ‘골 때리는 외박’(이하 '골때박')에서는 석모도로 여행을 떠난 FC탑걸의 모습이 그려졌다. FC탑걸은 민박집 방 내부에 붙여진 90년대]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신시아, 목동에 뜬 ‘청순마녀’ [포토엔HD 화보] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589108</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589108</guid>
-            <pubDate>Wed, 15 Jun 2022 22:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[배우 신시아가 6월 15일 오전 SBS 파워FM ‘박하선의 씨네타운’ 참석을 위해 서울 양천구 SBS 목동 사옥으로 들어서고 있다.]]></content:encoded>
+            <title><![CDATA[[종합] "그냥 오빠랑 사귀자"…유지태, '♥김효진' 첫 만남에 좋은 느낌 ('유퀴즈') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000552855</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000552855</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[유지태가 가정적인 면모를 보였다. 15일 방송된 tvN '유 퀴즈 온 더 블럭’(이하 ‘유퀴즈’)은 ‘똑바로 살기’ 주제로 진행된 가운데 유지태가 게스트로 출연했다. 이날 유재석은 “유지태 씨 하면 바른 생활하기로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오메가엑스 제현, 상큼한 미소로 윙크 [포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589107</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589107</guid>
-            <pubDate>Wed, 15 Jun 2022 22:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 오메가엑스 제현이 6월 15일 오후 서울 광진구 예스24라이브홀에서 열린 정규 1집 ‘낙서’ 쇼케이스에서 포토타임을 가지고 있다.]]></content:encoded>
+            <title><![CDATA['나는 솔로' 6기 영숙♥영철 결혼&2세 소식까지…역대 다섯 번째 결혼 커플 탄생 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000552854</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000552854</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[‘나는 SOLO(나는 솔로)’에서 역대 다섯 번째 결혼 커플이 탄생해 안방을 뒤흔들었다. 15일 방송한 ENA PLAY(이엔에이플레이)와 SBS PLUS의 리얼 데이팅 프로그램 ‘나는 SOLO’에서는 6기 영숙과 영]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오메가엑스 예찬-제현, 어린왕자들의 하트 [포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589106</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589106</guid>
-            <pubDate>Wed, 15 Jun 2022 22:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 오메가엑스 예찬 제현이 6월 15일 오후 서울 광진구 예스24라이브홀에서 열린 정규 1집 ‘낙서’ 쇼케이스에서 포토타임을 가지고 있다.]]></content:encoded>
+            <title><![CDATA[김빈우, 이유 있는 당당한 속옷 자태 공개 “배불리는 금지” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589119</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589119</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김빈우가 늘씬한 몸매를 자랑했다. 김빈우는 6월 15일 자신의 SNS에 "매일 눈바디 몸무게 체크체크하면서 여름을 준비 해 봅니다"라는 글과 함께 사진을 게재했다. 공개된 사진에는 빈우는 상의는 속옷차림으로 섹]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오메가엑스 한겸-혁-재한, 별빛이 내리는 하트 [포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589105</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589105</guid>
-            <pubDate>Wed, 15 Jun 2022 22:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 오메가엑스 한겸, 혁, 재한이 6월 15일 오후 서울 광진구 예스24라이브홀에서 열린 정규 1집 ‘낙서’ 쇼케이스에서 포토타임을 가지고 있다.]]></content:encoded>
+            <title><![CDATA[‘나는 솔로’ 영숙♥영철 결혼&2세까지, 안방 흔들었다[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000819851</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000819851</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[‘나는 SOLO(나는 솔로)’에서 역대 다섯 번째 결혼 커플이 탄생해 안방을 뒤흔들었다. 15일 방송한 ENA PLAY(이엔에이플레이)와 SBS PLUS의 리얼 데이팅 프로그램 ‘나는 SOLO’에서는 6기 영숙과 영]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오메가엑스 젠-휘찬, 청량돌을 넘어 개그돌 [포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589104</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589104</guid>
-            <pubDate>Wed, 15 Jun 2022 22:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 오메가엑스 젠, 휘찬이 6월 15일 오후 서울 광진구 예스24라이브홀에서 열린 정규 1집 ‘낙서’ 쇼케이스에서 포토타임을 가지고 있다.]]></content:encoded>
+            <title><![CDATA['징크스의 연인' 서현X나인우, 로맨스 첫장 열었다..수목극 1위[종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003062617</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003062617</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:41 GMT</pubDate>
+            <content:encoded><![CDATA['징크스의 연인'이 현실과 판타지의 간극을 넘나드는 아찔한 스토리로 시청자들의 눈과 귀를 사로잡았다. 지난 15일 방송된 KBS 2TV 새 수목드라마 '징크스의 연인'(극본 장윤미, 연출 윤상호) 1회는 시청률 4.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신시아, 상큼하게 인사~ [포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589103</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589103</guid>
-            <pubDate>Wed, 15 Jun 2022 22:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[배우 신시아가 6월 15일 오전 SBS 파워FM ‘박하선의 씨네타운’ 참석을 위해 서울 양천구 SBS 목동 사옥으로 들어서고 있다.]]></content:encoded>
+            <title><![CDATA['징크스의 연인' 서현, 첫 등장부터 싱크로율 100%! 러블리 끝판왕 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004638117</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004638117</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[배우 서현이 러블리한 매력을 발산했다. KBS2 새 수목드라마 ‘징크스의 연인’(극본 장윤미, 연출 윤상호)이 15일 베일을 벗은 가운데, 행운의 여신 ‘슬비’ 역의 서현이 첫 등장부터 원작 웹툰을 그대로 찢고 나온]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신시아, 뒤돌아보며 심쿵 미모 [포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589102</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589102</guid>
-            <pubDate>Wed, 15 Jun 2022 22:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[배우 신시아가 6월 15일 오전 SBS 파워FM ‘박하선의 씨네타운’ 참석을 위해 서울 양천구 SBS 목동 사옥으로 들어서고 있다.]]></content:encoded>
+            <title><![CDATA[이연희 "'결혼백서'로 2년만 복귀…감사한 선물" [일문일답] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001462051</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001462051</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[이연희가 ‘결혼백서’ 로 맞춤 캐릭터를 만나 유종의 미를 거뒀다. 이연희는 지난 15일 종영한 카카오TV 오리지널 ‘결혼백서’에서 똑 부러진 실속파 예비신부 김나은 역으로 변신, 독보적인 사랑스러움으로 시청자들을 매]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신시아, 거부할 수 없는 눈빛으로 하트 [포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589101</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589101</guid>
-            <pubDate>Wed, 15 Jun 2022 22:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[배우 신시아가 6월 15일 오전 SBS 파워FM ‘박하선의 씨네타운’ 참석을 위해 서울 양천구 SBS 목동 사옥으로 들어서고 있다.]]></content:encoded>
+            <title><![CDATA[[종합] 서예지, 박병은과 욕조→침실 19금 정사신 "날 원하면 기어와"…유선 오열 ('아브') (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000552856</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000552856</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[서예지가 박병은과 동침했다. 유선은 생일날 남편에게 버림받고 오열했다. 지난 15일 방송된 tvN 수목드라마 '이브' 5회에서는 이라엘(서예지 분)가 자신을 밀어내는 강윤겸(박병은 분)을 유혹하는데 성공하는 모습이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신시아, 독보적인 미모 [포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589100</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589100</guid>
-            <pubDate>Wed, 15 Jun 2022 22:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[배우 신시아가 6월 15일 오전 SBS 파워FM ‘박하선의 씨네타운’ 참석을 위해 서울 양천구 SBS 목동 사옥으로 들어서고 있다.]]></content:encoded>
+            <title><![CDATA['쇼타임' 박서연 "롤모델=하지원, 스펙트럼 넓은 배우 되고파" [인터뷰M] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000158479</link>
+            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000158479</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:41 GMT</pubDate>
+            <content:encoded><![CDATA['지금부터, 쇼타임!' 배우 박서연이 롤모델로 하지원을 꼽았다. 최근 박서연은 서울 마포구 상암동 MBC 사옥에서 iMBC연예와 만나 MBC 금토드라마 '지금부터, 쇼타임!'(극본 하윤아·연출 이형민, 이하 '쇼타임]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[성유빈, 쑥스럽게 인사 [포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589099</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589099</guid>
-            <pubDate>Wed, 15 Jun 2022 22:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[배우 성유빈이 6월 15일 오전 SBS 파워FM ‘박하선의 씨네타운’ 참석을 위해 서울 양천구 SBS 목동 사옥으로 들어서고 있다.]]></content:encoded>
+            <title><![CDATA[서현, 순수 결정체 '슬비' 완벽 변신…러블리 끝판왕 면모 ('징크스의 연인') (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003614334</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003614334</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[배우 서현이 러블리한 매력을 발산했다. KBS 2TV 새 수목드라마 ‘징크스의 연인’(극본 장윤미 연출 윤상호)이 15일 베일을 벗은 가운데, 행운의 여신 ‘슬비’ 역의 서현이 첫 등장부터 원작 웹툰을 그대로 찢고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[성유빈, 천진난만한 미소가 매력 [포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589098</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589098</guid>
-            <pubDate>Wed, 15 Jun 2022 22:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[배우 성유빈이 6월 15일 오전 SBS 파워FM ‘박하선의 씨네타운’ 참석을 위해 서울 양천구 SBS 목동 사옥으로 들어서고 있다.]]></content:encoded>
+            <title><![CDATA['이브' 서예지, 욕조서 박병은과 격렬한 정사..매회 19금 열연? (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=241&amp;aid=0003129845</link>
+            <guid>https://entertain.naver.com/now/read?oid=241&amp;aid=0003129845</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[서예지가 이번에도 아찔한 정사신을 선보였다. 15일 방송된 tvN 수목드라마 '이브'(극본 윤영미, 연출 박봉섭) 5회에서는 이라엘(서예지)이 자신을 밀어내려 하는 강윤겸(박병은)을 완벽하게 유혹해 관계를 갖는 모습]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[성유빈, 그냥 서 있어도 스윗함 [포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589097</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589097</guid>
-            <pubDate>Wed, 15 Jun 2022 22:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[배우 성유빈이 6월 15일 오전 SBS 파워FM ‘박하선의 씨네타운’ 참석을 위해 서울 양천구 SBS 목동 사옥으로 들어서고 있다.]]></content:encoded>
+            <title><![CDATA['조은정과 결혼→복귀' 소지섭, '독서실에서 배운 연기'로 하락세[TEN스타필드] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000552853</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000552853</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[《김지원의 까까오톡》 '까놓고, 까칠하게 하는 오늘의 이야기'. 김지원 텐아시아 기자가 연예·방송계 이슈를 까다로운 시선으로 신랄하게 비판합니다.복귀까지 4년이 걸린 데 비해 성과는 미미하다. 결혼 후 첫 작품 '닥]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오메가엑스 제현, 톡 터지는 미소 [포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589096</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589096</guid>
-            <pubDate>Wed, 15 Jun 2022 22:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 오메가엑스 제현이 6월 15일 오후 서울 광진구 예스24라이브홀에서 열린 정규 1집 ‘낙서’ 쇼케이스에서 포토타임을 가지고 있다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[조수연, 완벽한 비율 [포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589095</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589095</guid>
-            <pubDate>Wed, 15 Jun 2022 22:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[조수연 기상캐스터가 6월 15일 오후 서울 광진구 예스24라이브홀에서 열린 오메가엑스 정규 1집 ‘낙서’ 쇼케이스에서 진행을 맡고 있다.]]></content:encoded>
+            <title><![CDATA['징크스의 연인' 서현, 화려한 비주얼 변신…‘슬비다움’ 완성 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001462033</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001462033</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[배우 서현이 러블리한 매력을 발산했다. KBS 2TV 새 수목드라마 ‘징크스의 연인’이 15일 베일을 벗은 가운데, 행운의 여신 슬비 역의 서현이 첫 등장부터 원작 웹툰을 그대로 찢고 나온 듯한 높은 싱크로율을 선보]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['이브' 서예지, "날 원하면 기어와" 박병은에 도발→유선 버리고 동침 [어저께TV] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
@@ -1574,69 +1636,6 @@
             <content:encoded><![CDATA[박병은과 서예지가 동침했다. 15일에 방송된 tvN수목드라마 '이브'에서는 강윤겸(박병은)이 한소라(유선)의 생일 대신 이라엘(서예지)을 선택했다. 이날 강윤겸은 파티에서 강치겸과 함께 있는 이라엘을 보고 분노해 이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박병은, 아내 유선 생일에 서예지와 동침 ('이브')[종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003614286</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003614286</guid>
-            <pubDate>Wed, 15 Jun 2022 16:07:19 GMT</pubDate>
-            <content:encoded><![CDATA[박병은, 아내 유선 생일에 서예지와 동침 ('이브')[종합] 강윤겸(박병은)이 아내 한소라(유선)가 아닌 이라엘(서예지)를 택했다. 15일 방송된 케이블채널 tvN 수목드라마 '이브'(극본 윤영미 연출 박봉섭)에서는]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['인사이더' 강하늘, 첫 목표 강영석과 운명적 만남…위기의 연속 [종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001462009</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001462009</guid>
-            <pubDate>Wed, 15 Jun 2022 16:07:19 GMT</pubDate>
-            <content:encoded><![CDATA['인사이더' 강하늘과 강영석의 운명적인 만남이 시작됐다. 15일 방송된 JTBC 수목드라마 '인사이더' 3회에서는 김요한(강하늘 분)이 앞전으로 올라간 모습이 그려졌다. 이날 김요한은 독방에 갇혀 지내는 동안 옆방에]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[첫방 '징크스의 연인' 서현, 전광렬 집에서 탈출→나인우 재회[★밤TView] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003062586</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003062586</guid>
-            <pubDate>Wed, 15 Jun 2022 16:07:19 GMT</pubDate>
-            <content:encoded><![CDATA['징크스의 연인' 서현이 전광렬의 집에서 탈출하는 데 성공했다. 15일 오후 첫 방송된 KBS 2TV 새 수목드라마 '징크스의 연인'에서는 슬비(서현 분) 집안의 내력이 공개됐다. 이날 슬비의 모친 미수(윤지혜 분)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박병은, 아내 생일에 서예지와 동침→유선, 울분 폭발 (이브)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001462008</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001462008</guid>
-            <pubDate>Wed, 15 Jun 2022 16:07:19 GMT</pubDate>
-            <content:encoded><![CDATA['이브' 박병은이 아내 유선 대신 서예지를 선택했다. 15일 방송된 tvN 수목드라마 '이브' 5화에서 강윤겸(박병은 분)과 이라엘(서예지)의 동침이 그려졌다. 강윤겸은 이라엘과 격렬한 키스를 나누던 중 그를 내쳤다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['이브' 서예지, 박병은 향한 치명적 유혹 "날 좋아한다고 사정해"[★밤TView] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003062583</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003062583</guid>
-            <pubDate>Wed, 15 Jun 2022 15:06:32 GMT</pubDate>
-            <content:encoded><![CDATA[드라마 '이브'에서 박병은이 아내 유선이 아닌 서예지를 택하고 진한 밀회를 나눴다. 서예지는 치명적인 유혹으로 박병은에게서 주도권을 가져오는 데 성공했다. 15일 방송된 tvN 수목드라마 '이브'에서는 이라엘(서예지]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['징크스의 연인' 서현, 나인우와 재회...전광렬 감옥 탈출하나 [종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004638007</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004638007</guid>
-            <pubDate>Wed, 15 Jun 2022 15:06:32 GMT</pubDate>
-            <content:encoded><![CDATA[‘징크스의 연인’에서 행운의 여신 서현과 징크스의 사나이 나인우가 만났다. 15일 방송된 KBS 2TV 새 수목드라마 ‘징크스의 연인’ 1회에서는 이슬비(서현 분)와 공수광(나인우 분)의 운명적인 첫 만남이 그려졌다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박병은, 아내 유선 생일에 서예지와 밀회 동침 ‘이브’(종합) (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589058</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000589058</guid>
-            <pubDate>Wed, 15 Jun 2022 15:06:32 GMT</pubDate>
-            <content:encoded><![CDATA[박병은이 아내 유선이 아닌 서예지를 택했다. 6월 15일 방송된 tvN 수목드라마 '이브'(극본 윤영미, 연출 박봉섭) 5회에서는 이라엘(서예지 분)이 밀어내는 강윤겸(박병은 분)을 자극하고 도발하며 유혹을 이어갔다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이라엘, 박병은에 도발 "하룻밤 상대 될 생각 없어져" ('이브') (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003614285</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003614285</guid>
-            <pubDate>Wed, 15 Jun 2022 15:06:32 GMT</pubDate>
-            <content:encoded><![CDATA[이라엘(서예지)이 강윤겸(박병은)을 유혹하며 도발했다. 15일 방송된 케이블채널 tvN 수목드라마 '이브'(극본 윤영미 연출 박봉섭)에서는 이라엘이 강윤겸을 도발하는 모습이 그려졌다. 이날 강윤겸은 아내 한소라(유선]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서예지, 다가서는 박병은 거부 "날 좋아한다고 사정해" (이브)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001461999</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001461999</guid>
-            <pubDate>Wed, 15 Jun 2022 15:06:32 GMT</pubDate>
-            <content:encoded><![CDATA['이브' 서예지가 박병은을 도발했다. 15일 방송된 tvN 수목드라마 '이브' 5화에서는 이라엘(서예지 분)에게 질투심을 느끼는 강윤겸(박병은)의 모습이 그려졌다. 이라엘은 강윤겸과 격렬한 키스를 나누던 중 내동댕이]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA['더 킬러: 죽어도 되는 아이' 감독 "장혁, 대역 없이 액션 90% 이상 소화" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220614171625992</link>
             <guid>https://movie.v.daum.net/v/20220614171625992</guid>
@@ -1645,20 +1644,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2Fpoctan%2F20220614171626358xfak.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA[청불 등급 벗고 '보상 관람' 효과까지.. 2년만에 돌아온 '1000만 관객' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220615091016311</link>
-            <guid>https://movie.v.daum.net/v/20220615091016311</guid>
-            <pubDate>Wed, 15 Jun 2022 08:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[■ What  - 팬데믹뒤 첫 돌파 ‘범죄도시2’ 거리두기 해제·취식 허용된 후 극장 방문 많아지는 시기 개봉 매출 1098억, 제작비 8배 수익 ‘한산’‘비상선언’등 여름 공개 코로나에 묵혀둔 영화 쏟아지면 극장 독과점 구태 반복될 수도 영화 ‘범죄도시2’(감독 이상용)가 개봉 25일 만에 1000만 고지를 밟았다. 2004년 2월,]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F15%2Fmunhwa%2F20220615091018106qcrr.jpg" length="0" type="image//thumb/S732x228/"/>
-        </item>
-        <item>
             <title><![CDATA['범죄도시2', 봉준호 '기생충' 꺾고 강우석 '실미도' 넘는다[종합] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220615095049888</link>
             <guid>https://movie.v.daum.net/v/20220615095049888</guid>
             <pubDate>Wed, 15 Jun 2022 08:09:06 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘범죄도시2’가 봉준호 감독의 ‘기생충’이 세운 누적 관객수를 꺾고 ‘실미도’(감독 강우석)까지 넘볼 기세를 자랑하고 있다. 15일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 어제(14일) ‘범죄도시2’는 10만 7124명을 동원해 일별 박스오피스 1위를 차지했다. 지난달 18일 극장 개봉해 이달 1일과 8일 이틀을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F15%2Fpoctan%2F20220615095049681xbbj.jpg" length="0" type="image//thumb/S384x240/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F15%2Fpoctan%2F20220615095049681xbbj.jpg" length="0" type="image//thumb/S732x228/"/>
+        </item>
+        <item>
+            <title><![CDATA[청불 등급 벗고 '보상 관람' 효과까지.. 2년만에 돌아온 '1000만 관객' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220615091016311</link>
+            <guid>https://movie.v.daum.net/v/20220615091016311</guid>
+            <pubDate>Wed, 15 Jun 2022 08:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[■ What  - 팬데믹뒤 첫 돌파 ‘범죄도시2’ 거리두기 해제·취식 허용된 후 극장 방문 많아지는 시기 개봉 매출 1098억, 제작비 8배 수익 ‘한산’‘비상선언’등 여름 공개 코로나에 묵혀둔 영화 쏟아지면 극장 독과점 구태 반복될 수도 영화 ‘범죄도시2’(감독 이상용)가 개봉 25일 만에 1000만 고지를 밟았다. 2004년 2월,]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F15%2Fmunhwa%2F20220615091018106qcrr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['브로커' 이지은, 계속될 꿈같은 나날 [인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1669,20 +1668,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F14%2Fsportstoday%2F20220614153210577djeb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[단독] '기생충' 정지소, 日 리메이크 '태양의 노래' 여주인공 낙점 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220615160101806</link>
-            <guid>https://movie.v.daum.net/v/20220615160101806</guid>
-            <pubDate>Wed, 15 Jun 2022 08:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 정지소가 일본 영화 '태양의 노래'를 리메이크한 한국 영화의 여주인공으로 낙점됐다. 15일 뉴스1 취재 결과 정지소가 제작 준비 중인 영화 '태양의 노래'의 여주인공에 캐스팅 됐다. '태양의 노래'는 2006년 개봉한 일본 영화로 텐카와 아야 작가의 동명 소설을 원작으로 한 작품. 버스킹을 하는 소녀 카오루(유이]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F15%2FNEWS1%2F20220615160103163sqvs.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['마녀2' 신시아→조민수, 자신감 넘친 촬영장..제작기 공개 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220615110417194</link>
             <guid>https://movie.v.daum.net/v/20220615110417194</guid>
             <pubDate>Wed, 15 Jun 2022 08:09:06 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;전체 예매율 1위를 차지하며 흥행 돌풍을 예고하고 있는 한국영화 '마녀2'가 제작기 영상을 공개했다. 영화 '마녀 Part2. The Other One'(이하 '마녀 2')가 ‘마녀 유니버스’의 탄생 비하인드를 확인할 수 있는 제작기 영상을 15일 전격 공개했다. '마녀2'(감독 박훈정, 제공배급 NEW, 제작 영화사 금월 스튜]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F15%2Fpoctan%2F20220615110419080tngc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[어장관리도 안 했는데.. '연애 기술' 제대로 보여준 배우 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220615095401984</link>
+            <guid>https://movie.v.daum.net/v/20220615095401984</guid>
+            <pubDate>Wed, 15 Jun 2022 03:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[[양형석 기자] 중학생 시절이던 1999년 잡지모델로 데뷔한 김효진은 2000년 원빈, 김민희와 함께 PCS 광고에 출연하면서 밀레니엄 시대를 대표하는 'N세대 스타'로 급부상했다. 김효진은 2000년부터 2001년까지 2년 동안 드라마 및 시트콤 출연작만 8편이었을 정도로 누구보다 바쁘게 활동했다. 하지만 지난 2011년 동료배우 유지태와 결혼한 김효진은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F15%2Fohmynews%2F20220615095402471bmcm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['토르: 러브 앤 썬더', 크리스 헴스워스→나탈리 포트만 포스터 7종 [N컷] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1709,28 +1708,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F15%2Fsportsdonga%2F20220615115155436gkia.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[어장관리도 안 했는데.. '연애 기술' 제대로 보여준 배우 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220615095401984</link>
-            <guid>https://movie.v.daum.net/v/20220615095401984</guid>
-            <pubDate>Wed, 15 Jun 2022 03:03:58 GMT</pubDate>
-            <content:encoded><![CDATA[[양형석 기자] 중학생 시절이던 1999년 잡지모델로 데뷔한 김효진은 2000년 원빈, 김민희와 함께 PCS 광고에 출연하면서 밀레니엄 시대를 대표하는 'N세대 스타'로 급부상했다. 김효진은 2000년부터 2001년까지 2년 동안 드라마 및 시트콤 출연작만 8편이었을 정도로 누구보다 바쁘게 활동했다. 하지만 지난 2011년 동료배우 유지태와 결혼한 김효진은]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F15%2Fohmynews%2F20220615095402471bmcm.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['외계+인' 최동훈 감독, 7년만 스크린 컴백.."새로운 재미 그리고 싶었다" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220615110543262</link>
             <guid>https://movie.v.daum.net/v/20220615110543262</guid>
             <pubDate>Wed, 15 Jun 2022 09:07:50 GMT</pubDate>
             <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 최동훈 감독의 신작 '외계+인' 1부가 최동훈 감독의 독창적인 연출 세계로 관객들을 다시 한번 사로잡을 예정이다. '외계+인' &nbsp;1부는 고려 말 소문 속의 신검을 차지하려는 도사들과 2022년 인간의 몸 속에 수감된 외계인 죄수를 쫓는 이들 사이에 시간의 문이 열리며 펼쳐지는 이야기를 그린 영화다. 2004년 '범죄의 재구성]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F15%2Fxportsnews%2F20220615110547706dbvu.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[4년 만의 귀환..무한 확장 세계관, 스케일 더한 액션 (리뷰)['마녀2' 개봉③] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220615105017475</link>
-            <guid>https://movie.v.daum.net/v/20220615105017475</guid>
-            <pubDate>Wed, 15 Jun 2022 09:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '마녀2'(감독 박훈정)가 더 확장된 세계관, 더 커진 액션 스케일로 4년 만의 시리즈 귀환을 알렸다. 15일 개봉한 '마녀2'는 2018년 개봉한 '마녀' 1편의 후속작으로, 1편의 주인공 구자윤(김다미 분)이 사라진 후의 이야기를 담았다. 1편보다 더욱 다양해진 캐릭터와 화려해진 액션으로 무장한 '마녀2'는 '마녀']]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F15%2Fxportsnews%2F20220615105018510limi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['브로커' 송새벽→박해준이 신스틸러? 등장만으로 든든하다 (다음영화 뉴스 ─ 인기)]]></title>
@@ -1741,20 +1724,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F15%2Fnewsen%2F20220615104030610hrgp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[4년 만의 귀환..무한 확장 세계관, 스케일 더한 액션 (리뷰)['마녀2' 개봉③] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220615105017475</link>
+            <guid>https://movie.v.daum.net/v/20220615105017475</guid>
+            <pubDate>Wed, 15 Jun 2022 09:07:50 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '마녀2'(감독 박훈정)가 더 확장된 세계관, 더 커진 액션 스케일로 4년 만의 시리즈 귀환을 알렸다. 15일 개봉한 '마녀2'는 2018년 개봉한 '마녀' 1편의 후속작으로, 1편의 주인공 구자윤(김다미 분)이 사라진 후의 이야기를 담았다. 1편보다 더욱 다양해진 캐릭터와 화려해진 액션으로 무장한 '마녀2'는 '마녀']]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F15%2Fxportsnews%2F20220615105018510limi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독] '기생충' 정지소, 日 리메이크 '태양의 노래' 여주인공 낙점 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220615160101806</link>
+            <guid>https://movie.v.daum.net/v/20220615160101806</guid>
+            <pubDate>Wed, 15 Jun 2022 08:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 배우 정지소가 일본 영화 '태양의 노래'를 리메이크한 한국 영화의 여주인공으로 낙점됐다. 15일 뉴스1 취재 결과 정지소가 제작 준비 중인 영화 '태양의 노래'의 여주인공에 캐스팅 됐다. '태양의 노래'는 2006년 개봉한 일본 영화로 텐카와 아야 작가의 동명 소설을 원작으로 한 작품. 버스킹을 하는 소녀 카오루(유이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F15%2FNEWS1%2F20220615160103163sqvs.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['헤어질 결심' 박찬욱 감독 "낯설고 특이한 공간 보여주고자 했다" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220615141144105</link>
             <guid>https://movie.v.daum.net/v/20220615141144105</guid>
             <pubDate>Wed, 15 Jun 2022 10:05:14 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠한국 조은애 기자] '헤어질 결심' 박찬욱 감독이 감각적인 미장센을 선보인다. 15일 영화 '헤어질 결심' 측이 세계적인 제작진이 함께 한 완성도 높은 프로덕션 비하인드 스토리를 공개했다. 먼저 영화 속 산과 바다를 아우르는 광활한 자연 풍광이 담긴 장면들은 제작진의 로케이션 헌팅을 거쳐 탄생했다. 특히 주요 공간인 산과 바다를 동시]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F15%2FSpoHankook%2F20220615141145712jevg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[화려한 비행씬·굉음, 스크린 강습..팬데믹 뚫고 영화의 묘미 보여준 '탑건:매버릭' (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220615141856406</link>
-            <guid>https://movie.v.daum.net/v/20220615141856406</guid>
-            <pubDate>Wed, 15 Jun 2022 08:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[톰 크루즈가 36년 만에 ‘탑건’ 시리즈의 2편 &lt;탑건: 매버릭&gt;으로 귀환한다. 1986년 &lt;탑건&gt;에서 보여줬던 20대의 풋풋함과 열정적인 모습은 아니지만, 다시 한번 오토바이를 타고 활주로를 달리는 그는 여전히 매력적이다. 영화 후반부에 펼쳐지는 비행 장면은 기대하지 않던 관객에게도 감탄사를 자아내게 할 만큼 완성도가 높다. 전편을 보지 않은 관객이라도]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F15%2Fkhan%2F20220615141857309zpin.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[혼자가 아닌 함께..'토이스토리' 스핀오프 '버즈 라이트이어' [시네마 프리뷰] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1773,20 +1764,28 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F15%2FiMBC%2F20220615160435946msou.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[[스한초점] '마녀2''헤어질 결심''탑건:매버릭''버즈라이트이어', 6월 흥행 바통 터치 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220616064242040</link>
-            <guid>https://movie.v.daum.net/v/20220616064242040</guid>
-            <pubDate>Wed, 15 Jun 2022 22:06:05 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠한국 조은애 기자] 기나긴 팬데믹 침체를 견뎌낸 극장가에 일상 회복 훈풍이 불고 있다. 마동석, 손석구 주연의 '범죄도시2'가 불가능해보였던 천만 영화 시대를 다시 한번 열었고, '브로커', '쥬라기 월드: 도미니언' 등 굵직한 국내외 신작들이 관객들의 발길을 붙잡는 데 성공했다. 6월 후반부에도 기대작들이 몰려 있다. '마녀2', '헤어질]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F16%2FSpoHankook%2F20220616064245228kgdx.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA[화려한 비행씬·굉음, 스크린 강습..팬데믹 뚫고 영화의 묘미 보여준 '탑건:매버릭' (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220615141856406</link>
+            <guid>https://movie.v.daum.net/v/20220615141856406</guid>
+            <pubDate>Wed, 15 Jun 2022 08:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[톰 크루즈가 36년 만에 ‘탑건’ 시리즈의 2편 &lt;탑건: 매버릭&gt;으로 귀환한다. 1986년 &lt;탑건&gt;에서 보여줬던 20대의 풋풋함과 열정적인 모습은 아니지만, 다시 한번 오토바이를 타고 활주로를 달리는 그는 여전히 매력적이다. 영화 후반부에 펼쳐지는 비행 장면은 기대하지 않던 관객에게도 감탄사를 자아내게 할 만큼 완성도가 높다. 전편을 보지 않은 관객이라도]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F15%2Fkhan%2F20220615141857309zpin.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[이지은, "이제 서른살..엄마役이 하고플때 찾아와 준 영화" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220615172220064</link>
-            <guid>https://movie.v.daum.net/v/20220615172220064</guid>
-            <pubDate>Wed, 15 Jun 2022 09:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드경제 = 서병기 선임기자]지난 8일 개봉한 영화 ‘브로커’의 여주인공 이지은을 만났다. 처음 도전한 장편 상업영화다. 이지은이 중학교 3학년때 학교를 갔다 왔다며 교복을 입고 헤럴드경제 편집국에서 첫 인터뷰를 하며 인연을 맺었던 기자는 이지은의 나이가 서른살이라는 말에 감짝 놀랐다. ‘브로커’는 얼마전 열린 제 75회 칸국제영화제에서 송강호를 대한민]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F15%2Fned%2F20220615172222716jtga.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['브로커' 이지은, 첫 영화로 칸까지.."'대박'이라고 생각" [MK★인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220616072702610</link>
+            <guid>https://movie.v.daum.net/v/20220616072702610</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:52 GMT</pubDate>
+            <content:encoded><![CDATA[첫 상업 영화 신고식을 치른 가수 겸 배우 이지은(아이유)이 소감을 전했다. 이지은은 2008년 아이유로 데뷔해 믿고 듣는 가수로 자리매김했다. 이후 연기를 병행하면서 본명 이지은으로 드라마 ‘프로듀사’ ‘달의 연인- 보보경심 려’ ‘나의 아저씨’ ‘호텔 델루나’ 등에 출연하며 필모그래피를 쌓아왔다. 이지은은 최근 일본 거장 고레에다 히로카즈 감독과 손을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F16%2Fmksports%2F20220616072704831yhtc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[새로운 여성 캐릭터들 'OTT' 점령 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220616065718198</link>
+            <guid>https://movie.v.daum.net/v/20220616065718198</guid>
+            <pubDate>Wed, 15 Jun 2022 23:07:52 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김고은과 수지(왼쪽부터)가 각각 티빙 ‘유미의 세포들2’와 쿠팡플레이 ‘안나’를 내놓으며 OTT(온라인 동영상 서비스) 무대에서 힘을 발휘하고 있다. 사진제공｜티빙·쿠팡플레이 새로운 여성 캐릭터들이 OTT(온라인 동영상 서비스) 오리지널 시리즈를 장악했다. 시즌2로 돌아온 로맨스 드라마 ‘유미의 세포들’ 속 김고은부터 첫 단독 주연에 나서는 수지까지]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F16%2Fsportsdonga%2F20220616065719642cnkh.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['마녀2' 서은수 "여성이 진취적이고 주체적인 캐릭터, 더 잘해내고 싶었다"[SS인터뷰] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1795,6 +1794,30 @@
             <pubDate>Wed, 15 Jun 2022 22:06:05 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠서울 | 황혜정기자] “‘조현’이라는 너무 좋은 캐릭터를 맡게 돼 잘 해내고 싶었다. 여성이 진취적이고 주체적으로 이끌어가는 캐릭터를 맡고 싶었는데 능력과 액션을 겸비한 캐릭터라 이런 좋은 캐릭터를 맡는다는 게 복이라 생각했다. ” 이번 작품으로 배우 서은수(29)의 여성 팬이 대거 늘어날 것이 분명하다. 2시간이 넘는 러닝타임 내내]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F16%2FSPORTSSEOUL%2F20220616060110948karh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['브로커' 이지은, 첫 영화로 칸까지.."'대박'이라고 생각" [MK★인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220616072702610</link>
+            <guid>https://v.daum.net/v/20220616072702610</guid>
+            <pubDate>Wed, 15 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[첫 상업 영화 신고식을 치른 가수 겸 배우 이지은(아이유)이 소감을 전했다. 이지은은 2008년 아이유로 데뷔해 믿고 듣는 가수로 자리매김했다. 이후 연기를 병행하면서 본명 이지은으로 드라마 ‘프로듀사’ ‘달의 연인- 보보경심 려’ ‘나의 아저씨’ ‘호텔 델루나’ 등에 출연하며 필모그래피를 쌓아왔다. 이지은은 최근 일본 거장 고레에다 히로카즈 감독과 손을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F16%2Fmksports%2F20220616072704831yhtc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[SC초점] "거리두기 해제→韓화제작 개봉"..지옥에서 탈출한 극장가, 다시 맞이한 충무로 르네상스 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220616072529598</link>
+            <guid>https://v.daum.net/v/20220616072529598</guid>
+            <pubDate>Wed, 15 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 단절과 상실의 팬데믹을 이겨낸 극장가가 3년 만의 거리두기 해제와 오랫동안 개봉을 기다려온 블록버스터의 개봉으로 다시 르네상스를 맞았다. 여기에 칸국제영화제의 수상 효과는 물론 멀티플렉스의 차별화된 특수관 론칭까지 더해지면서 3년 전 활기를 띠었던 극장가로 완벽히 돌아왔다. 사회적 거리두기 해제 이후 극장가도 신작들]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F16%2FSpoChosun%2F20220616072529874nuhl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['룸 쉐어링' 매물 보류[편파적인 씨네리뷰] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220616072205561</link>
+            <guid>https://v.daum.net/v/20220616072205561</guid>
+            <pubDate>Wed, 15 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[■편파적인 한줄평 : 좋은 소재인데, 깊이가 영. 잠시만, 이 매물은 보류다. 좋은 소재에 착한 메시지를 갖췄지만 깊이감이 영 없다. 나문희·최우성이 호흡을 맞춘 영화 ‘룸 쉐어링’(감독 이순성)이다. ‘룸 쉐어링’은 월세를 아끼려 룸 쉐어링을 신청한 대학생 ‘지웅’(최우성)과 까다롭고 예민한 집주인 할머니 ‘금분’(나문희)이 티격태격 끝에 새로운]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F16%2Fsportskhan%2F20220616072206829dxxs.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] '버즈 라이트이어' 전성욱·이채연 애니메이터 "신나고 얼떨떨했죠" (다음영화 뉴스 ─ 최신)]]></title>
@@ -1861,6 +1884,62 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F16%2FTHEFACT%2F20220616000122382mwbc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA['징크스의 연인' 서현X나인우, 로맨스 첫장 열었다..수목극 1위 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20220616080616328</link>
+            <guid>https://entertain.v.daum.net/v/20220616080616328</guid>
+            <pubDate>Wed, 15 Jun 2022 23:08:07 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 안윤지 기자] /사진=KBS 2TV '징크스의 연인' 방송 캡처'징크스의 연인'이 현실과 판타지의 간극을 넘나드는 아찔한 스토리로 시청자들의 눈과 귀를 사로잡았다. 지난 15일 방송된 KBS 2TV 새 수목드라마 '징크스의 연인'(극본 장윤미, 연출 윤상호) 1회는 시청률 4.1%(닐슨코리아 제공, 수도권 기준)를 기록, 수목극 1위를 차지하며]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[첫방 '징크스의 연인' 서현, 예지력 때문에 감금생활.. 나인우 위해 탈출 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20220616080030215</link>
+            <guid>https://entertain.v.daum.net/v/20220616080030215</guid>
+            <pubDate>Wed, 15 Jun 2022 23:08:07 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=이혜미 기자] 서현이 나인우를 통해 ‘바깥세상’으로 나왔다. 예지력을 갖춘 무녀 서현은 전광렬에 의해 감금 생활을 하고 있었다. 15일 방송된 KBS 2TV ‘징크스의 연인’에선 슬비(서현 분)와 수광(나인우 분)의 첫 만남이 그려졌다. 어머니 미수(윤지혜 분)에 의해 무녀가 된 슬비는 삼중의 호텔에 갇혀 단절된 삶을 살게 된 바. 슬비 모녀의]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['징크스의 연인' 서현, 첫 등장부터 싱크로율 100%! 러블리 끝판왕 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20220616075721126</link>
+            <guid>https://entertain.v.daum.net/v/20220616075721126</guid>
+            <pubDate>Wed, 15 Jun 2022 23:08:07 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=장우영 기자] 배우 서현이 러블리한 매력을 발산했다. KBS2 새 수목드라마 ‘징크스의 연인’(극본 장윤미, 연출 윤상호)이 15일 베일을 벗은 가운데, 행운의 여신 ‘슬비’ 역의 서현이 첫 등장부터 원작 웹툰을 그대로 찢고 나온 듯한 높은 싱크로율을 선보이며 시선을 사로잡았다. ‘징크스의 연인’ 1회에서 서현은 순수의 결정체 ‘슬비’를 사랑]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이연희 "'결혼백서'로 2년만 복귀..감사한 선물" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20220616074504894</link>
+            <guid>https://entertain.v.daum.net/v/20220616074504894</guid>
+            <pubDate>Wed, 15 Jun 2022 23:08:07 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 하지원 기자) 이연희가 ‘결혼백서’ 로 맞춤 캐릭터를 만나 유종의 미를 거뒀다. 이연희는 지난 15일 종영한 카카오TV 오리지널 ‘결혼백서’에서 똑 부러진 실속파 예비신부 김나은 역으로 변신, 독보적인 사랑스러움으로 시청자들을 매료시켰다. 특히 이연희는 맞춤 옷을 입은 듯 캐릭터와 완벽한 싱크로율을 보여주었음은 물론, 결혼 준비 과정에서의]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이연희 "이진욱과 함께 해 영광..'결혼백서'=행복한 선물" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20220616074353873</link>
+            <guid>https://entertain.v.daum.net/v/20220616074353873</guid>
+            <pubDate>Wed, 15 Jun 2022 23:08:07 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박소영 기자] 이연희가&nbsp;‘결혼백서’&nbsp;로 맞춤 캐릭터를 만나 유종의 미를 거뒀다. 이연희는 지난&nbsp;15일 종영한 카카오TV&nbsp;오리지널&nbsp;‘결혼백서’ (연출 송제영 서주완,&nbsp;극본 최이랑,&nbsp;기획 카카오엔터테인먼트,&nbsp;제작 메이스엔터테인먼트)에서 똑 부러진 실속파 예비신부&nbsp;‘김나은’&nbsp;역으로 변신,&nbsp;독보적인 사랑스러움으로 시청자들&nbsp;매료시켰다. 특히 이연희는]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[서현, 순수 결정체 '슬비' 완벽 변신..러블리 끝판왕 면모 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20220616072551600</link>
+            <guid>https://entertain.v.daum.net/v/20220616072551600</guid>
+            <pubDate>Wed, 15 Jun 2022 23:08:07 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 정지현 기자] 배우 서현이 러블리한 매력을 발산했다. KBS 2TV 새 수목드라마 ‘징크스의 연인’(극본 장윤미 연출 윤상호)이 15일 베일을 벗은 가운데, 행운의 여신 ‘슬비’ 역의 서현이 첫 등장부터 원작 웹툰을 그대로 찢고 나온 듯한 높은 싱크로율을 선보이며 시선을 사로잡았다. ‘징크스의 연인’ 1회에서 서현은 순수의 결정체 ‘슬비’]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['조은정과 결혼→복귀' 소지섭, '독서실에서 배운 연기'로 하락세 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20220616071904529</link>
+            <guid>https://entertain.v.daum.net/v/20220616071904529</guid>
+            <pubDate>Wed, 15 Jun 2022 23:08:07 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자] 《김지원의 까까오톡》 '까놓고, 까칠하게 하는 오늘의 이야기'. 김지원 텐아시아 기자가 연예·방송계 이슈를 까다로운 시선으로 신랄하게 비판합니다.복귀까지 4년이 걸린 데 비해 성과는 미미하다. 결혼 후 첫 작품 '닥터로이드'로 돌아온 소지섭의 이야기다. '소간지'라고 불릴 만큼 멋진 스타일과 신비로운 분위기로 시청자들을 몰고다녔던]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['징크스의 연인' 서현, 화려한 비주얼 변신..'슬비다움' 완성 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20220616070810406</link>
+            <guid>https://entertain.v.daum.net/v/20220616070810406</guid>
+            <pubDate>Wed, 15 Jun 2022 23:08:07 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 하지원 기자) 배우 서현이 러블리한 매력을 발산했다. KBS 2TV 새 수목드라마 ‘징크스의 연인’이 15일 베일을 벗은 가운데, 행운의 여신 슬비 역의 서현이 첫 등장부터 원작 웹툰을 그대로 찢고 나온 듯한 높은 싱크로율을 선보이며 시선을 사로잡았다. ‘징크스의 연인’ 1회에서 서현은 순수의 결정체 슬비를 사랑스럽게 그려내며 몰입도 있게]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['이브' 서예지, "날 원하면 기어와" 박병은에 도발→유선 버리고 동침 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
             <link>https://entertain.v.daum.net/v/20220616065847225</link>
             <guid>https://entertain.v.daum.net/v/20220616065847225</guid>
@@ -1910,165 +1989,130 @@
             <content:encoded><![CDATA[[뉴스엔 서유나 기자] 서예지가 수준급의 이탈리아어 실력을 보여줬다. 6월 15일 방송된 tvN 수목드라마 '이브'(극본 윤영미, 연출 박봉섭) 5회에서는 출중한 이탈리아어 실력으로 한소라(유선 분) 등의 마음을 사로잡는 이라엘(서예지 분)의 모습이 그려졌다. 이날 이라엘은 한소라를 위해 서은평(이상엽 분)을 한 브랜드 행사장에 불러냈다. 한소라와]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["아내 생일에" 서예지, 박병은 유혹해 동침 '이브' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20220616061315734</link>
-            <guid>https://entertain.v.daum.net/v/20220616061315734</guid>
-            <pubDate>Wed, 15 Jun 2022 22:06:20 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 서예지가 드디어 박병은을 유혹하는데 성공, 아내 유선의 생일날 동침을 했다. 6월 15일 방송된 tvN 수목드라마 '이브'(극본 윤영미, 연출 박봉섭) 5회에서는 자신을 밀어내는 강윤겸(박병은 분)에게 승부수를 던지는 이라엘(서예지 분)의 모습이 그려졌다. 이날 이라엘의 유혹에 넘어간 듯 격정적으로 키스를 해오던 강윤겸은 이내]]></content:encoded>
+            <title><![CDATA["한지민도 쓴다는데" 수 많은 연예인 속눈썹 관리 비법 공개 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220616080720351</link>
+            <guid>https://entertain.v.daum.net/v/20220616080720351</guid>
+            <pubDate>Wed, 15 Jun 2022 23:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이슬기 기자] 연예 버라이어티 채널 K-STAR(케이스타)의 신개념 언택트 뷰티 바이블 ‘랜선뷰티’가 ‘미리 썸머 트렌드’를 주제로 뷰티 트렌드를 파헤치며 어느새 성큼 다가온 여름 대비에 나섰다. 6월 15일 방송된 ‘랜선뷰티’에서는 MC 박은혜, 수경, 이수정이 ‘K-뷰티 설계자’라 불리는 EXID 혜린을 게스트로 초대해 뷰티 팁을 알아봤다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[서예지, 박병은 재차 유혹.."아내 생일날 내가 원하는 곳으로 와" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20220616060202589</link>
-            <guid>https://entertain.v.daum.net/v/20220616060202589</guid>
-            <pubDate>Wed, 15 Jun 2022 21:05:18 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=신지원 기자]서예지가 박병은을 도발했다. 15일 방송된 tvN 수목드라마 '이브'에서는 이라엘(서예지 분)이 강윤겸(박병은 분)의 질투심을 자극하며 재차 유혹했다. 이날 강윤겸은 한소라(유선 분)의 통역을 돕는다는 핑계로 브랜드 행사장에 참여해 장진욱(이하율 분), 서은평(이상엽 분), 강윤겸의 형 강치겸(박명훈 분)의 시선을 한눈에 받았]]></content:encoded>
+            <title><![CDATA[허재, 두 아들에 아버지 노릇..허훈 "1분 1초 금 같은 시간,  父에 투자 맞나?" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220616080701346</link>
+            <guid>https://entertain.v.daum.net/v/20220616080701346</guid>
+            <pubDate>Wed, 15 Jun 2022 23:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=강민경 기자] 허재, 허웅, 허훈 '허삼부자'가 섬 생활을 시작했다. 그&nbsp;중&nbsp;허훈은 입대를 앞두고 1분 1초가 아깝다고 밝혔다. 지난 15일 첫 방송 된 JTBC 예능 '허섬세월 - 허삼부자 섬집일기(이하 허섬세월)'에서는 허재, 허웅, 허훈 부자가 녹도에 입도하는 모습이 그려졌다. 이날 방송에서 입대를 앞둔 허훈은 삭발에 나섰다. 허훈은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[강미나 "'미남당'은 국밥" 사이다 매력 예고 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20220616060017450</link>
-            <guid>https://entertain.v.daum.net/v/20220616060017450</guid>
-            <pubDate>Wed, 15 Jun 2022 21:05:18 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 사진 제공: 피플스토리컴퍼니KBS2 새 월화드라마 '미남당' 강미나가 시원한 한 방을 날린다. ‘미남당’(연출 고재현/ 극본 박혜진)에서 강미나는 통통 튀는 에너지로 ‘발광 머리 앤’ 남혜준으로 분한다. 남혜준은 비상한 두뇌를 소유한 국정원 출신 천재 해커로 당돌하고 무모한 면모를 지닌 자유 영혼의 소유자다. 친오빠인 박수무당 남한준(서인국]]></content:encoded>
+            <title><![CDATA['악카펠라' 동요도 장송곡 만든 충격의 하모니 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220616080627335</link>
+            <guid>https://entertain.v.daum.net/v/20220616080627335</guid>
+            <pubDate>Wed, 15 Jun 2022 23:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 야산에서 포착되었던 ‘악카펠라’가 이번엔 핑크빛 키즈카페를 접수했다. 6월 16일 방송되는 MBC ‘악카펠라’(기획 박정규 연출 채현석 이신지 박동빈 장우성 이주원)가 키즈카페 접수 현장을 공개했다. 이호철의 주도로 인적 드문 야산에서 목소리를 가다듬고 하산한 ‘악카펠라’가 이번엔 키즈카페에서 발견됐다. 접점이라고는 없어 보이는 장]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[서예지, 절정 치달은 밀회..박병은과 욕조 동침 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20220616060010437</link>
-            <guid>https://entertain.v.daum.net/v/20220616060010437</guid>
-            <pubDate>Wed, 15 Jun 2022 21:05:18 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 강다윤 기자] 이라엘(서예지)과 강윤겸(박병은)이 한소라(유선)의 생일날 밀회를 즐겼다. 15일 방송된 케이블채널 tvN 수목드라마 '이브'(극본 윤영미 연출 박봉섭)에서는 이라엘이 강윤겸을 유혹하는 데 성공하는 모습이 그려졌다. 이날 이라엘은 강윤겸과 격정적인 키스를 나눴지만 이내 바닥에 내동댕이쳤다. 그런 이라엘을 싸늘하게 내려다보며]]></content:encoded>
+            <title><![CDATA['나혼산' 밥차 뽑은 이장우, 고기 80kg 준비해 100인분 도전 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220616080500296</link>
+            <guid>https://entertain.v.daum.net/v/20220616080500296</guid>
+            <pubDate>Wed, 15 Jun 2022 23:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 이장우가 100인분 밥차에 도전한다. 6월 17일 방송되는 MBC ‘나 혼자 산다’에서는 '나 홀로 밥차'에 도전한 이장우의 모습이 공개된다. 이장우가 “얼마 전에 제 생일이었다. 획기적인 역대급 이벤트를 벌일 작정이다”라고 예고해 호기심을 유발한다. 그는 축하를 받는 대신 땀을 뻘뻘 흘리며 좁은 트럭 안에 갇혀 있어 의아함을 자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[첫방 '징크스의 연인' 나인우, 母 잃고 2회차 인생..서현과 운명적 재회 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20220616053702271</link>
-            <guid>https://entertain.v.daum.net/v/20220616053702271</guid>
-            <pubDate>Wed, 15 Jun 2022 21:05:18 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 박수민 기자] /사진='징크스의 연인' 방송화면 '징크스의 연인' 나인우가 모든 것을 잃고 2회차 인생을 시작했다. 지난 15일 첫 방송된 KBS 2TV 새 수목드라마 '징크스의 연인'에서는 선삼중(전광렬 분)으로 인해 목숨을 잃을 뻔한 공수광(나인우 분)의 모습이 그려졌다. 이날 공수광은 의도치 않게 선삼중의 집에서 평생을 갇혀 지내던 슬]]></content:encoded>
+            <title><![CDATA[예비부모 홍현희♥제이쓴, 사유리 子 만남에 멘붕한 이유 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220616080346284</link>
+            <guid>https://entertain.v.daum.net/v/20220616080346284</guid>
+            <pubDate>Wed, 15 Jun 2022 23:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 젠과 곧 출산을 앞둔 예비 부모 홍현희 제이쓴 부부가 만난다. 6월 17일 방송되는 KBS 2TV '슈퍼맨이 돌아왔다'(이하 '슈돌') 435회는 ‘우리의 만남은 모두 기적이야’ 편으로 꾸며진다. 이중 젠은 홍현희 제이쓴 부부를 만나 육아의 매운맛부터 달콤함까지 올팩키지로 선사한다. 특히, 젠은 못말리는 싱크대 앓이로 홍쓴부부를 멘]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['이브' 박병은, 서예지와 마침내 동침..생일 날 유선 버렸다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20220616010327690</link>
-            <guid>https://entertain.v.daum.net/v/20220616010327690</guid>
-            <pubDate>Wed, 15 Jun 2022 16:07:40 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김예솔 기자] 박병은과 서예지가 동침했다. 15일에 방송된 tvN수목드라마 '이브'에서는 강윤겸(박병은)이 한소라(유선)의 생일 대신 이라엘(서예지)을 선택했다. &nbsp; 이날 강윤겸은 파티에서 강치겸과 함께 있는 이라엘을 보고 분노해 이라엘을 끌고 나갔다. 이라엘은 한소라의 생일날 자신에게 오면 온전히 가질 수 있지만 오지 않는다면 영원히 끝이라]]></content:encoded>
+            <title><![CDATA[나문희 "♥남편과 중매로 만나..등산 가잘 때 남자로 보여" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220616080201246</link>
+            <guid>https://entertain.v.daum.net/v/20220616080201246</guid>
+            <pubDate>Wed, 15 Jun 2022 23:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자] 나문희와 최정훈이 50살 나이 차이를 뛰어넘는 사제 케미를 자랑했다. 지난 15일 방송된 KBS2 예능 '옥탑방의 문제아들'(이하 '옥문아들')에는 배우 나문희와 잔나비의 최정훈이 게스트로 출연했다. 나문희와 최정훈이 인연을 맺은 건 JTBC 예능 '뜨거운 싱어즈'에 출연하면서다. 두 사람은 '뜨거운 싱어즈' 합창단 사제지간으]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['이브' 박병은, 아내 유선 생일에 서예지에 달려가 진한 스킨십..유선 오열 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20220616005303646</link>
-            <guid>https://entertain.v.daum.net/v/20220616005303646</guid>
-            <pubDate>Wed, 15 Jun 2022 16:07:40 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠한국 조은애 기자]&nbsp; '이브' 박병은이 아내 유선의 생일에 서예지에게 달려가 하룻밤을 보냈다.&nbsp; 15일 방송된 tvN 수목드라마 '이브'에서는 강윤겸(박병은)이 아내 한소라(유선)의 생일파티를 취소하고 이라엘(서예지)에게 달려가 진한 스킨십을 나누는 장면이 그려졌다.&nbsp; 이날 강윤겸은 이라엘의 유혹에 넘어가 격렬한 키스를 나누다 뭔가를 떠]]></content:encoded>
+            <title><![CDATA[박태환 어머니 "원하는 며느리는 '우리들의 블루스' 이정은" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220616075929168</link>
+            <guid>https://entertain.v.daum.net/v/20220616075929168</guid>
+            <pubDate>Wed, 15 Jun 2022 23:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 이승길 기자] 박태환의 어머니가 원하는 며느리상을 고백했다. 15일 방송된 채널A '요즘 남자 라이프-신랑수업'에서는 어머니 유성미 씨와 ‘모자 데이트’에 나선 박태환의 깜짝 이벤트 성공기를 비롯해 지난 방송에서 소개팅 ‘애프터’에 성공한 모태범&amp;임사랑의 두 번째 데이트, 6개월 장기 프로젝트로 진행 중인 영탁의 운전면허 취득기가 연이어]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박병은, 아내 유선 생일에 서예지와 동침 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20220616003800604</link>
-            <guid>https://entertain.v.daum.net/v/20220616003800604</guid>
-            <pubDate>Wed, 15 Jun 2022 16:07:40 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 강다윤 기자] 박병은, 아내 유선 생일에 서예지와 동침 ('이브')[종합] 강윤겸(박병은)이 아내 한소라(유선)가 아닌 이라엘(서예지)를 택했다. 15일 방송된 케이블채널 tvN 수목드라마 '이브'(극본 윤영미 연출 박봉섭)에서는 이라엘과 강윤겸이 한소라의 생일에 동침하는 모습이 그려졌다. 이날 강윤겸은 뜨거운 키스를 나누던 중 이라엘을]]></content:encoded>
+            <title><![CDATA[김구라, 강호동 디스? "난 그렇게 안 해" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220616075805150</link>
+            <guid>https://entertain.v.daum.net/v/20220616075805150</guid>
+            <pubDate>Wed, 15 Jun 2022 23:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 박윤진 기자] MC 김구라와 걸그룹 시그니처가 라떼 시절 독특했던 오디션 일화를 소개하며 시청자들의 눈과 귀를 즐겁게 만들었다. 15일 채널S와 더라이프에서 방송된 ‘김구라의 라떼9’ 9회에서 MC 김구라와 스페셜 게스트 시그니처 채솔과 지원은 ‘그 시절을 풍미했던 힙한 오디션’ 주제를 놓고 흥미진진한 라떼 토크를 선보였다. 우선 9위로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김이나 "BTS '뷔'와 남다른 인연.. 라디오에 노래 직접 신청" 깜짝 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220616070219334</link>
-            <guid>https://entertain.v.daum.net/v/20220616070219334</guid>
-            <pubDate>Wed, 15 Jun 2022 22:06:25 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박근희 기자] '라디오스타’ 김이나가 방탄소년단 뷔와의 인연을 언급했다. 15일 오후 방송된 MBC '라디오스타'에는 김이나, 이지혜, 김민규, 양세형이 출연하는 '부럽지가 않어~' 특집으로 꾸며졌다. 윤종신 고별방송 이후 오랜만에 방문한 김이나는 유세윤의 합류에 대해 “윤종신이 부재인 것은 후추가 빠진 느낌이다. 없어서 큰 일은 아니지만 있]]></content:encoded>
+            <title><![CDATA[김구라 "난 아무리 힘 남아 돌아도 강호동처럼 안해" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220616075455071</link>
+            <guid>https://entertain.v.daum.net/v/20220616075455071</guid>
+            <pubDate>Wed, 15 Jun 2022 23:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=강서정 기자] MC&nbsp;김구라와 걸그룹 시그니처가 라떼 시절 독특했던 오디션 일화를 소개하며 시청자들의 눈과 귀를 즐겁게 만들었다. 15일 채널S와 더라이프에서 방송된&nbsp;‘김구라의 라떼9’ 9회에서&nbsp;MC&nbsp;김구라와 스페셜 게스트 시그니처 채솔과 지원은&nbsp;‘그 시절을 풍미했던 힙한 오디션’&nbsp;주제를 놓고 흥미진진한 라떼 토크를 선보였다. 우선&nbsp;9위로&nbsp;‘미]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[랜선 이모·삼촌 모여라, '윌벤져스'의 무공해 꿈 여행 예능 '해밍턴家 꿈의 옷장' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220616070051302</link>
-            <guid>https://entertain.v.daum.net/v/20220616070051302</guid>
-            <pubDate>Wed, 15 Jun 2022 22:06:25 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제] 직접 맛보고 추천하는 향긋한 작품 한 잔! 세상의 OTT 다 보고 싶은 ‘OTT다방’  "오늘 입어볼 꿈은?" ENA 새 예능 프로그램 '해밍턴家 꿈의 옷장'은 방송인 샘 해밍턴과 그의 아들 윌리엄, 벤틀리가 일명 '꿈의 옷장' 속 준비된 의상으로 갈아입은 후 갖가지 직업을 직접 체험해보는 특별한 모험기를 그린다. KBS2 예능 프로그램 ']]></content:encoded>
+            <title><![CDATA['국가부' 박창근, 산울림st 보이스..'꼬마야' 열창 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220616075429065</link>
+            <guid>https://entertain.v.daum.net/v/20220616075429065</guid>
+            <pubDate>Wed, 15 Jun 2022 23:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 한해선 기자] /사진=TV조선 '국가가 부른다'가 10대 가수들과 함께한 명품 컬래버 무대를 선보인다. 16일 방송되는 TV CHOSUN '국가가 부른다'(이하 '국가부')에서는 10대 가수 황민우, 전유진, 이소원, 류영채, 김다현, 임도형, 안율, 김태연이 국가부 요원들과 함께 하는 단체 컬래버레이션 무대가 시청자들을 찾아간다. 이날]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[첫방 "늦었지만 父 노릇하고 파"..허재, 子 허훈·허웅과 녹도行 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220616070035289</link>
-            <guid>https://entertain.v.daum.net/v/20220616070035289</guid>
-            <pubDate>Wed, 15 Jun 2022 22:06:25 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 백민경 인턴기자) '허섬세월' 허재가 허웅, 허훈 형제에 대한 애정을 드러냈다. 15일 첫 방송된 JTBC 예능 프로그램 "허섬세월-허섬부자 섬집일기'(이하 '허섬세월')에서 허재, 허웅, 허훈의 섬 생활이 그려졌다. 허훈이 군 입대를 앞두고 미용실을 찾았다. 그는 "이게 아닌데. 이게 뭐야. 내 머리 어디갔어"라며 우는 소리를 냈다. 머]]></content:encoded>
+            <title><![CDATA[간미연, 20년 전과 변함없는 방부제 미모..S.E.S. 바다도 '깜짝' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220616073933809</link>
+            <guid>https://entertain.v.daum.net/v/20220616073933809</guid>
+            <pubDate>Wed, 15 Jun 2022 23:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 하지원 기자) '골때박' 간미연이 방부제 외모를 자랑했다. 15일 방송된 SBS 예능프로그램 ‘골 때리는 외박’(이하 '골때박')에서는 석모도로 여행을 떠난 FC탑걸의 모습이 그려졌다. FC탑걸은 민박집 방 내부에 붙여진 90년대 포스터를 보고 깜짝 놀랐다. 채리나, 아유미, 간미연은 20년 전 자신의 모습에 "너무 싫다"라며 경악하는 모]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['옥문아들' 나문희X잔나비 최정훈, 진정한 사제 케미 돋보여 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220616065836223</link>
-            <guid>https://entertain.v.daum.net/v/20220616065836223</guid>
-            <pubDate>Wed, 15 Jun 2022 22:06:25 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=오세진 기자] ‘옥탑방의 문제아들’ 나문희가 지치지 않는 열정을 선보여 감동을 안겼다. 15일 방영된 KBS2TV 예능 ‘옥탑방의 문제아들’(이하 ‘옥문아들’)에서는 배우 나문희와 잔나비의 최정훈이 등장했다. 두 사람의 의외의 조합은 이미 유명했다. 바로 JTBC 예능 '뜨거운 싱어즈'에서 합창단의 사제 지간으로 만난 두 사람은 감동의 무대를]]></content:encoded>
+            <title><![CDATA['나는 솔로' 6기 영숙♥영철 결혼&2세 소식까지..역대 다섯 번째 결혼 커플 탄생 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220616073802770</link>
+            <guid>https://entertain.v.daum.net/v/20220616073802770</guid>
+            <pubDate>Wed, 15 Jun 2022 23:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=차혜영 기자] ‘나는 SOLO(나는 솔로)’에서 역대 다섯 번째 결혼 커플이 탄생해 안방을 뒤흔들었다. 15일 방송한 ENA PLAY(이엔에이플레이)와 SBS PLUS의 리얼 데이팅 프로그램 ‘나는 SOLO’에서는 6기 영숙과 영철의 결혼 소식이 발표돼 3MC와 시청자들을 충격에 빠트리는 한편, ‘솔로나라 8번지’의 폭풍 같은 로맨스 판도가 공개]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[6기 영숙♥영철 2세 소식..8기 영호, '어장치기' 오해 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220616065732208</link>
-            <guid>https://entertain.v.daum.net/v/20220616065732208</guid>
-            <pubDate>Wed, 15 Jun 2022 22:06:25 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=오세진 기자] ‘나는 Solo’ 8기 영호의 인연은 과연 솔로나라에 없는 것일까. 15일 방영된 SBS 예능 ‘나는 Solo’(이하 ‘나는솔로’)에서는 6기의 결혼 소식과 함께 한 회 차를 남기고 8기 여성과 남성 출연자들의 혼란스러운 모습이 섞여 흥미진진함을 더했다. 데프콘은 6기의 결혼 소식으로 "영숙과 영철이 결혼한다"라면서 "더 기쁜]]></content:encoded>
+            <title><![CDATA['나는 SOLO',  6기 영숙♥영철 결혼&2세 까지 '겹경사' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220616073744758</link>
+            <guid>https://entertain.v.daum.net/v/20220616073744758</guid>
+            <pubDate>Wed, 15 Jun 2022 23:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[‘나는 SOLO(나는 솔로)’에서 역대 다섯 번째 결혼 커플이 탄생해 안방을 뒤흔들었다. 15일 방송한 ENA PLAY(이엔에이플레이)와 SBS PLUS의 리얼 데이팅 프로그램 ‘나는 SOLO’에서는 6기 영숙과 영철의 결혼 소식이 발표돼 3MC와 시청자들을 충격에 빠트리는 한편, ‘솔로나라 8번지’의 폭풍 같은 로맨스 판도가 공개돼 쫄깃한 흥미를 선사]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[허웅X허훈, "父허재와 보낸 섬생활? 힘들다".. 찐가족 바이브 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220616065510170</link>
-            <guid>https://entertain.v.daum.net/v/20220616065510170</guid>
-            <pubDate>Wed, 15 Jun 2022 22:06:25 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박근희 기자] '허삼부자 섬집일기-허섬세월’ 허웅, 허훈 형제가 아버지 허재를 향한 솔직한 심정을 밝혔다. 15일 오후 JTBC 예능프로그램 ‘허삼부자 섬집일기-허섬세월’(이하 ‘허섬세월’)에서 농구대통령 허재와 그의 두 아들 농구선수 허웅과 허훈이 녹도에 입성하는 모습이 첫 방송됐다. 섬에 도착한 허웅, 허훈 형재는 아버지 허재를 만났다.]]></content:encoded>
+            <title><![CDATA[6기 영철♥영숙, 결혼·임신 겹경사..8기 대혼돈 사태 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220616073419714</link>
+            <guid>https://entertain.v.daum.net/v/20220616073419714</guid>
+            <pubDate>Wed, 15 Jun 2022 23:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 박윤진 기자] ENA PLAY·SBS PLUS‘나는 SOLO(나는 솔로)’에서 역대 다섯 번째 결혼 커플이 탄생해 안방을 뒤흔들었다. 15일 방송된 ‘나는 SOLO’에서는 6기 영숙과 영철의 결혼 소식이 발표돼 3MC와 시청자들을 충격에 빠트리는 한편, ‘솔로나라 8번지’의 폭풍 같은 로맨스 판도가 공개돼 쫄깃한 흥미를 선사했다. 이날 ‘]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[모태범, 애프터에 스킨십까지..발레리나와 진짜 사랑에 빠지겠네 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220616065358161</link>
-            <guid>https://entertain.v.daum.net/v/20220616065358161</guid>
-            <pubDate>Wed, 15 Jun 2022 22:06:25 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김수형 기자] ‘신랑수업’에서 모태범이 소개팅녀와 그린라이트를 보였다. 스킨십까지 성공해 대리설렘을 안겼다.&nbsp; 15일 방송된&nbsp; 채널A예능 ’신랑수업’이 전파를 탔다. 신랑감 1등으로 떠오른 박태환이 모친과 함께 데이트에 나섰다. 라탄공방에 방문한 두 사람. 연인과 공유할 수 있는 취미생활을 알려주기 위해서였다. 모친은 박태환의 동갑친구 모태범]]></content:encoded>
+            <title><![CDATA['소집해제' 김호중, '연중 라이브'서 활동 계획 최초 공개 "단독 콘서트는.." (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220616072739625</link>
+            <guid>https://entertain.v.daum.net/v/20220616072739625</guid>
+            <pubDate>Wed, 15 Jun 2022 23:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 명희숙 기자] 가수 김호중이 자신의 향후 활동 계획을 최초로 공개한다. 16일 밤 11시 방송되는 KBS 2TV '연중 라이브'에서는 혼인신고 10개월 만의 뒤늦은 결혼식을 올린 배우 윤계상과 새 앨범으로 또 한 번 전 세계의 아미들을 사로잡은 방탄소년단의 소식을 ‘연예가 헤드라인’에서 전한다. 이어서, 간만의 예능 나들이에 나선 배우 권]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[6기 영철♥영숙 결혼·임신 겹경사→영호, 정숙·옥순 다 놓치고 '어장 비난' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220616065003118</link>
-            <guid>https://entertain.v.daum.net/v/20220616065003118</guid>
-            <pubDate>Wed, 15 Jun 2022 22:06:25 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 황수연 기자) 6기 영철과 영숙이 결혼과 함께 2세 소식을 전했다&nbsp; 15일 방송된 ENA PLAY·SBS Plus '나는 SOLO'에서는 최종선택을 앞두고 혼란에 빠진 8기 출연자들의 모습이 그려졌다.&nbsp; 이날 3:1 데이트를 다녀온 옥순은 "데이트 전에는 영식님이 었는데 이번 데이트에서 영호님에게 흔들렸다"며 혼란스러워했다.&nbsp; 옥순은 가장]]></content:encoded>
+            <title><![CDATA['브로커' 이지은, 첫 영화로 칸까지.."'대박'이라고 생각" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+            <link>https://entertain.v.daum.net/v/20220616072702610</link>
+            <guid>https://entertain.v.daum.net/v/20220616072702610</guid>
+            <pubDate>Wed, 15 Jun 2022 23:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[첫 상업 영화 신고식을 치른 가수 겸 배우 이지은(아이유)이 소감을 전했다. 이지은은 2008년 아이유로 데뷔해 믿고 듣는 가수로 자리매김했다. 이후 연기를 병행하면서 본명 이지은으로 드라마 ‘프로듀사’ ‘달의 연인- 보보경심 려’ ‘나의 아저씨’ ‘호텔 델루나’ 등에 출연하며 필모그래피를 쌓아왔다. 이지은은 최근 일본 거장 고레에다 히로카즈 감독과 손을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["고백 위해 뉴욕行" ..유지태♥김효진, 영화 같은 러브스토리 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220616064504064</link>
-            <guid>https://entertain.v.daum.net/v/20220616064504064</guid>
-            <pubDate>Wed, 15 Jun 2022 22:06:25 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이이진 기자) 배우 유지태와 김효진의 러브스토리가 공개됐다. 15일 방송된 tvN '유 퀴즈 온 더 블럭'에서는 '똑바로 살기' 특집으로 꾸며진 가운데 유지태가 김효진과 러브스토리를 밝힌 장면이 전파를 탔다. 이날 유재석은 "2000년대 한국 영화는 한국 영화의 르네상스 시대라고 할 정도다. '그 시기를 이끌던 배우 중 한 분이 유지태 씨 아]]></content:encoded>
+            <title><![CDATA["거리두기 해제→韓화제작 개봉"..지옥에서 탈출한 극장가, 다시 맞이한 충무로 르네상스 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+            <link>https://entertain.v.daum.net/v/20220616072529598</link>
+            <guid>https://entertain.v.daum.net/v/20220616072529598</guid>
+            <pubDate>Wed, 15 Jun 2022 23:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 단절과 상실의 팬데믹을 이겨낸 극장가가 3년 만의 거리두기 해제와 오랫동안 개봉을 기다려온 블록버스터의 개봉으로 다시 르네상스를 맞았다. 여기에 칸국제영화제의 수상 효과는 물론 멀티플렉스의 차별화된 특수관 론칭까지 더해지면서 3년 전 활기를 띠었던 극장가로 완벽히 돌아왔다. 사회적 거리두기 해제 이후 극장가도 신작들]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이지혜 해명 "심장질환, 지병 하나 추가됐을뿐..SNS 자제하게 되더라" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220616064418052</link>
-            <guid>https://entertain.v.daum.net/v/20220616064418052</guid>
-            <pubDate>Wed, 15 Jun 2022 22:06:25 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 이승록 기자] 가수 이지혜가 자신의 심장 질환에 대해 상세하게 해명하며 일부 오해를 바로잡았다. 15일 MBC '라디오스타'에서 이지혜는 심장 질환 기사가 부담스럽지 않느냐는 질문에 수긍하며 "지병 하나가 추가됐을 뿐"이라고 답했다. 이지혜는 "어떻게 보면 약 하나 먹는 건데, 기사가 '심장병 투병', '완치 불가' 이렇게 나더라"며 "제]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[찬미, AOA 괴롭힘 논란에 "은퇴 고민, 母에 힘 얻어" 눈물 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220616062018801</link>
-            <guid>https://entertain.v.daum.net/v/20220616062018801</guid>
-            <pubDate>Wed, 15 Jun 2022 22:06:25 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 찬미가 연예계 은퇴까지 고민했던 심경을 밝혔다. 6월 15일 방송된 tvN '유 퀴즈 온 더 블럭'(이하 '유퀴즈') 157회 '똑바로 살기' 특집에는 그룹 AOA 출신 찬미와 그의 엄마 임천숙 자기님이 게스트로 출연했다. 이날 찬미는 "저는 돈 벌 생각을 일찍 했다. '벌어서 집에 보탬이 되어야지'라는 생각이었다. 작은 빌라에]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나문희 "할머니도 멈추지 않아" 열정..정형돈 母 생각에 눈물 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220616061930796</link>
-            <guid>https://entertain.v.daum.net/v/20220616061930796</guid>
-            <pubDate>Wed, 15 Jun 2022 22:06:25 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 배우 나문희가 62년간 변함없는 연기 열정을 불태우고 있다. 6월 15일 방송된 KBS 2TV ‘옥탑방의 문제아들’에서는 배우 나문희와 잔나비 최정훈이 출연했다. 1941년생 나문희와 1992년생 최정훈은 ‘뜨거운 씽어즈’에서 제자와 음악 선생님으로 인연을 맺었다. ‘뜨거운 씽어즈’에서 불러 화제를 모았던 ‘나의 옛날이야기’가]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[모태범♥임사랑, 진짜 사귀려나? 혀까지 짧아졌다 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220616061905792</link>
-            <guid>https://entertain.v.daum.net/v/20220616061905792</guid>
-            <pubDate>Wed, 15 Jun 2022 22:06:25 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 김명미 기자] 모태범과 임사랑이 달달한 두 번째 만남을 가졌다. 특히 모태범은 숨겨왔던 애교를 대방출해 눈길을 끌었다. 6월 15일 방송된 채널A 예능프로그램 '요즘 남자 라이프-신랑수업'(이하 신랑수업)에서는 모태범과 소개팅녀 임사랑의 두 번째 데이트가 공개됐다. 이날 모태범과 임사랑은 두 번째 데이트에서 우연하게도 같은 노란색 의상을 입고 등]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[잔나비 최정훈 "이상형=날 휘두르는 사람" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220616061842789</link>
-            <guid>https://entertain.v.daum.net/v/20220616061842789</guid>
-            <pubDate>Wed, 15 Jun 2022 22:06:25 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 잔나비 최정훈이 자신의 이상형을 공개했다. 6월 15일 방송된 KBS 2TV ‘옥탑방의 문제아들’에서는 잔나비 최정훈이 배우 나문희와 출연했다. 이날 방송에서 나문희가 중매로 만난 영어 교사 출신 남편의 절약 정신에 대해 말하자, 최정훈은 “결혼이라는 걸 하고 싶다는 생각을 못 해봤다. 최근에 목욕탕을 갔는데 아들이랑 아버지가]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['대한외국인' 장발남 서남용, 여친 만들고 머리 자를까 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220616061812787</link>
-            <guid>https://entertain.v.daum.net/v/20220616061812787</guid>
-            <pubDate>Wed, 15 Jun 2022 22:06:25 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 김명미 기자] 서남용이 의외의 숙맥 면모를 드러냈다. 6월 15일 방송된 MBC에브리원 예능프로그램 '대한외국인'에는 대한민국 대표 긴머리 김경호 서남용과 민머리 홍석천 박효준이 출연했다. 이날 홍석천은 "이 특집에 불만이 있다. 민머리에도 레벨이 있다"고 말하더니, 박효준을 가리키며 "얘는 민머리 패밀리에서 쳐주지도 않는 족보다"고 밝혀 웃음을]]></content:encoded>
+            <title><![CDATA['룸 쉐어링' 매물 보류 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+            <link>https://entertain.v.daum.net/v/20220616072205561</link>
+            <guid>https://entertain.v.daum.net/v/20220616072205561</guid>
+            <pubDate>Wed, 15 Jun 2022 23:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[■편파적인 한줄평 : 좋은 소재인데, 깊이가 영. 잠시만, 이 매물은 보류다. 좋은 소재에 착한 메시지를 갖췄지만 깊이감이 영 없다. 나문희·최우성이 호흡을 맞춘 영화 ‘룸 쉐어링’(감독 이순성)이다. ‘룸 쉐어링’은 월세를 아끼려 룸 쉐어링을 신청한 대학생 ‘지웅’(최우성)과 까다롭고 예민한 집주인 할머니 ‘금분’(나문희)이 티격태격 끝에 새로운]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['버즈 라이트이어' 전성욱·이채연 애니메이터 "신나고 얼떨떨했죠" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
@@ -2153,27 +2197,6 @@
             <guid>https://entertain.v.daum.net/v/20220615190129135</guid>
             <pubDate>Wed, 15 Jun 2022 10:05:44 GMT</pubDate>
             <content:encoded><![CDATA[[티브이데일리 황서연 기자] 배우 마동석 손석구가 '범죄도시2'를 관람한 1000만 관객에게 감사 인사를 전했다. 15일 오후 '범죄도시2'(감독 이상용·제작 에이비오엔터테인먼트) 흥행 감사 GV가 서울 강남구 메가박스 코엑스에서 진행됐다. 현장에는 배우 마동석 손석구 최귀화 허동원 하준 정재광을 비롯해 이상용 감독이 참석해 팬들과 소통을 나눴다. '범죄도]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['범죄도시2' 마동석→하준 "천만 안 믿겨..명장면? 누가 5야·전양심" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-            <link>https://entertain.v.daum.net/v/20220615190008088</link>
-            <guid>https://entertain.v.daum.net/v/20220615190008088</guid>
-            <pubDate>Wed, 15 Jun 2022 10:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) '범죄도시2' 주역들이 천만 관객 돌파 소감을 전했다. 15일 서울 강남구 삼성동 메가박스 코엑스에서 영화 '범죄도시2'(감독 이상용)&nbsp;흥행 감사 GV(관객과의 대화)가 열렸다. 이 자리에는 이상용 감독과 배우 마동석, 손석구, 최귀화, 허동원, 하준, 정재광이 참석했다. 지난 5월 18일 개봉한 '범죄도시2'는 개봉 첫날]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['82세' 나문희 "치매를 연구해야 할 것 같다"..왜? (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-            <link>https://entertain.v.daum.net/v/20220615185011870</link>
-            <guid>https://entertain.v.daum.net/v/20220615185011870</guid>
-            <pubDate>Wed, 15 Jun 2022 10:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 나문희가 오랜 기간 꾸준히 연기 활동을 이어갈 수 있는 원동력을 전했다. 15일 서울 강남구 메가박스 코엑스에서 영화 '룸 쉐어링'(감독 이순성) 언론시사회가 열렸다. 이 자리에는 이순성 감독과 배우 나문희, 최우성이 참석했다. '룸 쉐어링'은 까다롭고 별난 할머니 금분(나문희 분)과 흙수저 대학생 지웅(최우성)의 한집살이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["더 큰 재미로 보답"..팬데믹 최초 천만 '범죄도시2'의 다짐 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-            <link>https://entertain.v.daum.net/v/20220615184805835</link>
-            <guid>https://entertain.v.daum.net/v/20220615184805835</guid>
-            <pubDate>Wed, 15 Jun 2022 10:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[팬데믹 이후 첫 천만 영화 '범죄도시2'의 주역들이 모였다. 이들은 관객들에게 공을 돌리는 한편 작품과 동료들에 대한 진한 애정을 드러내며 훈훈한 팀워크를 뽐냈다. 영화 '범죄도시2' 흥행 감사 GV가 15일 서울 메가박스 코엑스에서 열렸다. 이상용 감독과 배우 마동석, 손석구, 최귀화, 허동원, 하준, 정재광이 참석한 가운데 이날 행사는 네이버 나우를]]></content:encoded>
         </item>
     </channel>
 </rss>
