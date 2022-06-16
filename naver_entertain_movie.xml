@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-16T19:03:27.782Z</updated>
+    <updated>2022-06-16T20:07:04.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[5월 영화산업 매출액 4배 급증… 팬데믹 이전 수준 회복]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001533769</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001533769"/>
+        <updated>2022-06-16T20:06:09.112Z</updated>
+        <content type="html"><![CDATA[지난달 영화산업 매출액이 전월 대비 4배 가까이 늘어 팬데믹 이전 수준을 회복했다. 거리두기 해제와 극장 내 취식 허용, 화제작 개봉이 맞물리며 매출액과 관객 수가 폭발적으로 증가한 것으로 분석된다. 16일 영화진흥]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[새영화]1천만 관객시대 다시 활짝…기대작 3편 연이어 개봉]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000899727</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000025534"/>
         <updated>2022-06-16T09:04:47.057Z</updated>
         <content type="html"><![CDATA[Tom Cruise will arrive in Korea on Friday, a day earlier than planned, to promote his new film “Top Gun: Maverick.” Acco]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베트남, 외국 영화 현지 제작도 검열 강화…“각본 제출해야”]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000820065</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000820065"/>
-        <updated>2022-06-16T09:04:47.058Z</updated>
-        <content type="html"><![CDATA[베트남이 내년부터 외국업체가 현지에서 영화를 제작할 경우 사전에 각본을 제출토록 하는 등 검열을 강화한다. 16일 현지매체 VN익스프레스에 따르면 베트남 국회는 이틀전 영화법 개정안을 통과시켰다. 개정안에 따르면 베]]></content>
     </entry>
 </feed>
