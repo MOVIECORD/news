@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 06:09:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 07:04:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[행운의 여신(서현)과 불운의 사나이(나인우), 아슬아슬한 만남]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=213958</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=213958</guid>
+            <pubDate>Thu, 16 Jun 2022 07:03:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213958">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220616152452_0993fd82f9e257450820d9573aa9218d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=213958">행운의 여신(서현)과 불운의 사나이(나인우), 아슬아슬한 만남</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%95%ED%81%AC%EC%8A%A4%EC%9D%98%20%EC%97%B0%EC%9D%B8">수목드라마 징크스의 연인</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220616152452_0993fd82f9e257450820d9573aa9218d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[연중 예고] '아포방포' 방탄소년단, '민간인' 김호중, '새신랑' 윤계상, 그리고 권해효]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=213885</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B6%89%EC%9D%80%20%EB%8B%A8%EC%8B%AC">월화드라마 붉은 단심</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220614233918_75f89b69888d4853ac6d4337aec1521a_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[붉은 단심] “법도는 내가 정합니다!” 권력 휘두르는 박지연에 으름장 놓는 장혁 “끌려 내려오기 전에 퇴진 하세요”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=213628</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=213628</guid>
-            <pubDate>Tue, 14 Jun 2022 15:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=213628">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220614233631_7acd1cbf20c4d406c6f27d10199a6154_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=213628">[붉은 단심] “법도는 내가 정합니다!” 권력 휘두르는 박지연에 으름장 놓는 장혁 “끌려 내려오기 전에 퇴진 하세요”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B6%89%EC%9D%80%20%EB%8B%A8%EC%8B%AC">월화드라마 붉은 단심</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220614233631_7acd1cbf20c4d406c6f27d10199a6154_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
