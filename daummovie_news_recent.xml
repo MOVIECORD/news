@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-06-17T20:08:14.165Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 17 Jun 2022 21:05:21 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['10번째 방한' 톰 크루즈, 주말엔 뭐할까]]></title>
+            <link>https://v.daum.net/v/20220618060009976</link>
+            <guid>https://v.daum.net/v/20220618060009976</guid>
+            <pubDate>Fri, 17 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 할리우드 스타 톰 크루즈가 10번째 방한해 관심을 모으고 있는 가운데, 그의 입국 후 일정에 많은 관심이 집중되고 있다. 톰 크루즈는 지난 17일 전용기를 타고 김포공항을 통해 입국했다. 톰 크루즈는 오는 22일 주연을 맡은 영화 '탑건: 매버릭' 국내 개봉을 앞두고 이를 홍보하기 위해 한국을 찾았다. '탑건: 매버릭]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F18%2FNEWS1%2F20220618060010086zvuz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
