@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-17T13:32:50.084Z</updated>
+    <updated>2022-06-17T14:05:27.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[TEN인터뷰] '30대' 박은빈 "내년부터 나이 깎아줘 기뻐…더 늦기 전에 로맨스 하고파"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000553277</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000553277"/>
+        <updated>2022-06-17T14:04:36.444Z</updated>
+        <content type="html"><![CDATA["내년부터 나이를 깎아준다고 해서 기뻐요. 30대라고 달라질 게 있을까 생각을 해봤어요. 고맙게도 29살에 드라마 '브람스를 좋아하세요?'를 통해 동나이의 캐릭터를 연기했거든요. 30대가 된 1월 1일에 '어제와 같]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[영상] '탑건2' 톰 크루즈, 10번째 방한…팬들에 6분간 '손가락 하트']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013253363</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000553245"/>
         <updated>2022-06-17T11:05:03.124Z</updated>
         <content type="html"><![CDATA[배우 신시아가 17일 오후 서울 성동구 CGV 왕십리에서 열린 영화 '마녀2' 서울 무대인사에 참석하고 있다. 박훈정 감독의 영화 '마녀 2'는 초토화된 비밀연구소에서 홀로 살아남아 세상 밖으로 나오게 된 ‘소녀’]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘탑건:매버릭’ 톰 크루즈 10번째 내한, “59살에도 엄청난 근육질·팬에겐 손하트”(종합)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003614997</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003614997"/>
-        <updated>2022-06-17T11:05:03.124Z</updated>
-        <content type="html"><![CDATA[할리우드 스타 톰 크루즈가 영화 '탑건:매버릭' 홍보를 위해 10번째 한국을 찾았다. 지난 2018년 '미션 임파서블: 폴아웃'으로 한국을 찾은 이후 4년 만이다. 톰 크루즈는 17일 오후 전용기를 타고 서울 김포공]]></content>
     </entry>
 </feed>
