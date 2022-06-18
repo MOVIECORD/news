@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-18T17:06:51.715Z</updated>
+    <updated>2022-06-18T18:10:40.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[TEN리뷰]톰 크루즈 아드레날린 폭발 '탑건: 매버릭', 마하 10처럼 한계 없는 만족]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000553452</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000553452"/>
+        <updated>2022-06-18T18:09:51.532Z</updated>
+        <content type="html"><![CDATA[36년 만에 속편이 나온 영화 '탑건: 매버릭'은 아드레날린 폭발 그 자체다. 마하 10 한계에 도달하며 눈과 귀를 동시에 만족시킨다. 그 중심에는 할리우드 배우 톰 크루즈가 있다. 영화 '탑건: 매버릭'은 교관으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘마녀 2’ 4일 만에 100만, 전편보다 이틀 빨랐다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000820627</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=021&amp;aid=0002518282"/>
         <updated>2022-06-18T02:53:19.319Z</updated>
         <content type="html"><![CDATA[고레에다 히로카즈 감독의 영화 ‘브로커’가 개봉 11일째 관객 100만 명을 넘겼다. 18일 영화진흥위원회 통합전산망에 따르면, 지난 8일 개봉한 ‘브로커’는 이날 오전 8시 30분 기준 누적 관객 101만7000여]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['범죄도시2' 1100만 돌파…코로나19 속 흥행 가도]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000155802</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000155802"/>
-        <updated>2022-06-18T02:53:19.323Z</updated>
-        <content type="html"><![CDATA['1000만 돌파' 이후에도 흥행세 지속…'마녀2' 박스오피스 1위 마동석 주연 범죄·액션 영화 '범죄도시 2'가 개봉 31일 만에 1100만 관객을 돌파하며 흥행세를 이어갔다. 18일 영화진흥위원회 영화관입장권 통]]></content>
     </entry>
 </feed>
