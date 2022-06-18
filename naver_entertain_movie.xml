@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-18T06:10:09.395Z</updated>
+    <updated>2022-06-18T07:04:23.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['브로커' 100만 관객 돌파, 전 세대 마음 움직인 특별한 감동!]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000158691</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000158691"/>
+        <updated>2022-06-18T07:03:24.215Z</updated>
+        <content type="html"><![CDATA[제75회 칸 국제영화제 남우주연상 수상작 '브로커'가 6월 18일(토) 100만 관객을 돌파했다. [감독/각본: 고레에다 히로카즈 | 출연: 송강호, 강동원, 배두나, 이지은, 이주영 | 제작: 영화사 집 | 제공/]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['범죄도시2' 이상용 감독 "데뷔작으로 천만 관객..솔직히 겁나요"[★FULL인터뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003063257</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002613475"/>
         <updated>2022-06-18T02:53:19.366Z</updated>
         <content type="html"><![CDATA[영화 '브로커'가 100만 관객을 돌파했다. '브로커'는 18일 오전 8시30분 기준 누적 100만 관객을 돌파했다. 이에 고레에다 히로카즈 감독, 송강호, 이지은, 이주영 등이 100만 감사 인증샷을 공개했다. ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['범죄도시 2' 관객 1100만 넘었다…역대 흥행 24위]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003655072</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003655072"/>
-        <updated>2022-06-18T02:53:19.366Z</updated>
-        <content type="html"><![CDATA[범죄·액션 영화 '범죄도시 2'가 개봉 31일 만에 1천100만 관객을 돌파했다. 18일 영화진흥위원회 영화관입장권 통합전산망에 따르면 '범죄도시 2'는 전날 11만8천505명의 관객을 모으면서 누적 관객 1천102]]></content>
     </entry>
 </feed>
