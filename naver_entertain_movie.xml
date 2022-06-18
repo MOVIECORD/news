@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-18T09:03:47.798Z</updated>
+    <updated>2022-06-18T10:05:24.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마녀2' 개봉 4일 만에 100만 돌파]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004979462</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004979462"/>
+        <updated>2022-06-18T10:04:41.144Z</updated>
+        <content type="html"><![CDATA[‘마녀 2’가 3일 연속 박스오피스 1위를 한 가운데 개봉 4일 만에 100만 관객을 돌파했다. 영화 ‘마녀 Part2. The Other One’(이하 마녀2)는 초토화된 비밀연구소에서 홀로 살아남아 세상 밖으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘브로커’ 100만 관객 돌파…송강호-강동원 감사 인증]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003130219</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005245204"/>
         <updated>2022-06-18T02:53:19.353Z</updated>
         <content type="html"><![CDATA[배우 장루이 트랭티냥이 출연한 영화 ‘아무르’ 스틸컷 ‘남과 여’의 주인공으로 유명한 프랑스 명배우 장루이 트랭티냥(Jean-Louis Trintignant)이 17일(현지시간) 사망했다. 향년 91세. 외신에 따르]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['범죄도시 2' 관객수 1100만 돌파…역대 흥행순위 24위]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=016&amp;aid=0002004490</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=016&amp;aid=0002004490"/>
-        <updated>2022-06-18T02:53:19.353Z</updated>
-        <content type="html"><![CDATA[배우 마동석 주연의 범죄·액션 영화 '범죄도시 2'가 개봉 31일 만에 1100만 관객을 돌파했다. 18일 영화진흥위원회 영화관입장권 통합전산망에 따르면 '범죄도시 2'는 전날 11만 8000여명의 관객을 모으면서]]></content>
     </entry>
 </feed>
