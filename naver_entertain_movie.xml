@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-18T03:41:32.663Z</updated>
+    <updated>2022-06-18T04:15:08.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] '이공삼칠' 홍예지 "첫 주연 부담 有, 선배들 덕에 해냈죠"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004979387</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004979387"/>
+        <updated>2022-06-18T04:14:09.505Z</updated>
+        <content type="html"><![CDATA[Mnet 오디션 프로그램 ‘프로듀스48’ 출신인 배우 홍예지(20)가 ‘이공삼칠’을 통해 스크린 데뷔를 성공적으로 마쳤다. 홍예지는 영화 ‘이공삼칠’(감독 모홍진)에서 엄마(김지영 분)와 단둘이 사는 열아홉 윤영 역]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[`브로커` 개봉 열흘 만에 100만 관객 돌파]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=029&amp;aid=0002739503</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=021&amp;aid=0002518271"/>
         <updated>2022-06-18T00:34:23.861Z</updated>
         <content type="html"><![CDATA[범죄·액션 영화 ‘범죄도시 2’가 개봉 31일 만에 1100만 관객을 넘어섰다. 18일 영화진흥위원회 영화관입장권 통합전산망에 따르면 ‘범죄도시 2’는 전날 11만8000여 명의 관객을 모으면서 누적 관객 수 110]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀 2', 3일 째 박스오피스 1위…50만 돌파]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002613468</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002613468"/>
-        <updated>2022-06-18T00:34:23.874Z</updated>
-        <content type="html"><![CDATA[영화 '마녀 2'가 개봉 3일 만에 50만 관객을 돌파했다. 18일 영화진흥위원회 통합전산망에 따르면 '마녀 2'는 1597개의 스크린에서 22만 4652명의 관객을 모아 박스오피스 정상을 지켰다. 누적 관객수는 6]]></content>
     </entry>
 </feed>
