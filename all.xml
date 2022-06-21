@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 19:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 20:06:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -692,7 +692,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=214752</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=214752</guid>
             <pubDate>Tue, 21 Jun 2022 16:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=214752">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=214752">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220622005728_3cd7ebc00642bc07e6bfb047d0340073.png" alt="대체 텍스트">
@@ -710,7 +710,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=214747</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=214747</guid>
             <pubDate>Tue, 21 Jun 2022 16:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=214747">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=214747">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220622005524_a0be94db398de0263644a10b5970749d_1.png" alt="대체 텍스트">
@@ -728,7 +728,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=214742</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=214742</guid>
             <pubDate>Tue, 21 Jun 2022 16:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=214742">	<span class="img-box hh">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=214742">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220622005059_9982f16c2095049628c122dd96711066_1.png" alt="대체 텍스트">
@@ -746,7 +746,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=214737</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=214737</guid>
             <pubDate>Tue, 21 Jun 2022 16:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=214737">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=214737">	<span class="img-box">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220622004850_bd0f8e60f334f8b8aec6c6a140dbdb31.png" alt="대체 텍스트">
@@ -1111,6 +1111,13 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/03/20/a9eeec5e-3c7b-448b-a00f-5769059cc234.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[의심·관심 그리고 ‘헤어질 결심’… 박찬욱의 수사멜로극 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001534750</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001534750</guid>
+            <pubDate>Tue, 21 Jun 2022 20:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[사랑한다는 말도, 보고 싶었다는 말도 하지 않는다. 깊어지는 마음을 행동으로 직접 표현하지도 않는다. 은근한 눈빛과 표정, 나직이 돌려 말하는 목소리, 소용돌이치는 파도 속에서 관객들은 격렬한 감정이 밀려오는 것을]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[‘부산표 영화’ 스태프 공채 않고 인맥채용…지역제작사 “기회 확대를” (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000012754</link>
             <guid>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000012754</guid>
@@ -1279,11 +1286,39 @@
             <content:encoded><![CDATA[가수 양희은이 21일 오후 서울 용산구 한강로 CGV용산아이파크몰에서 열린 영화 '헤어질 결심' VIP시사회에 참석하고 있다. 박찬욱 감독의 '헤어질 결심'은 산에서 벌어진 변사 사건을 수사하게 된 형사 '해준'(박]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[사진]박해일,'훈훈한 미소 날리며 파이팅' (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004642119</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004642119</guid>
-            <pubDate>Tue, 21 Jun 2022 15:05:46 GMT</pubDate>
-            <content:encoded><![CDATA[21일 오후 서울 용산구 CGV용산아이파크몰에서 영화 '헤어질 결심' VIP 시사회 포토월 행사가 열렸다. 영화 '헤어질 결심(박찬욱 감독)'은 산에서 벌어진 변사 사건을 수사하게 된 형사 해준(박해일 분)이 사망자]]></content:encoded>
+            <title><![CDATA[이경실 "내려놓고 해야 해"…이경진에 예능 조언 [RE:TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006171444</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006171444</guid>
+            <pubDate>Tue, 21 Jun 2022 20:05:53 GMT</pubDate>
+            <content:encoded><![CDATA[코미디언 이경실이 예능 적응 고충을 고백한 배우 이경진에게 조언을 건넸다. 지난 21일 오후에 방송된 KBS 2TV 예능 프로그램 '박원숙의 같이 삽시다 시즌3'에서는 이경실과 자매들(박원숙, 혜은이, 김청, 이경진]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[여친 노출 고민男 "가슴만 가려"…이지혜 "뭐가 야하냐" (진격의할매) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001465169</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001465169</guid>
+            <pubDate>Tue, 21 Jun 2022 20:05:53 GMT</pubDate>
+            <content:encoded><![CDATA['진격의 할매' 이지혜가 노출 의상에 관대한 면모를 드러냈다. 21일 방송된 채널S '진격의 할매'에는 이지혜가 스페셜 MC로 함께했다. 이날 방송에는 프랑스인 여자친구가 너무 예뻐 고민이라는 의뢰인이 출연했다. 의]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이달소 츄, 홀리뱅에 배운 '츄월킹' 선사…은혁 "킹받네요" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011260275</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011260275</guid>
+            <pubDate>Tue, 21 Jun 2022 20:05:53 GMT</pubDate>
+            <content:encoded><![CDATA[장인영 인턴 기자 = 그룹 이달의 소녀가 '주간아이돌' 스튜디오를 뒤흔든다. 22일 오후 7시30분 MBC M, 자정 MBC에브리원에서 방송되는 '주간아이돌' 567회에서는 썸머 스페셜 미니앨범 '플립 댓(Flip]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[첫 단독 주연 맡은 수지 “연기 변신 자신 있어” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=005&amp;aid=0001534780</link>
+            <guid>https://entertain.naver.com/now/read?oid=005&amp;aid=0001534780</guid>
+            <pubDate>Tue, 21 Jun 2022 20:05:53 GMT</pubDate>
+            <content:encoded><![CDATA[모든 게 거짓인 인생을 사는 여자가 있다. 이름, 가족, 학력, 과거까지 바꿔 욕망을 향해 달려간다. 쿠팡플레이에서 24일 공개되는 오리지널 시리즈 ‘안나’는 구질구질한 인생이 싫어 거짓말로 쌓아 올린 화려한 인생을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['라떼9' 허영지 "할머니에 6.25 비극 들었다" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011260273</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011260273</guid>
+            <pubDate>Tue, 21 Jun 2022 20:05:53 GMT</pubDate>
+            <content:encoded><![CDATA[김주희 인턴 기자 = 가수 허영지가 김구라와 환상의 듀오로 활약한다. 오는 22일 오후 9시 20분 더라이프와 채널S에서 방송하는 '김구라의 라떼9' 10회에서는 허영지가 '스페셜 MC'로 나선다. '라떼9' 1회의]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[김준수 "놀이공원 커플 싫어 비오는 날이 좋다" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
@@ -1424,41 +1459,6 @@
             <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003064448</guid>
             <pubDate>Tue, 21 Jun 2022 16:09:11 GMT</pubDate>
             <content:encoded><![CDATA['돌싱포맨'에서 가수 노사연이 단식원에서 퇴소를 당했던 과거를 밝혔다. 21일 오후 방송된 SBS 예능프로그램 '신발 벗고 돌싱포맨'에서는 노사연과 신기루가 출연해 음식에 대한 에피소드를 공개했다. 노사연은 하마가]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박찬욱·탕웨이·박해일·고경표·유태오 외, 영화 ‘헤어질 결심’ 주역들의 VIP 시사회 포토타임[뉴스엔TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000592119</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000592119</guid>
-            <pubDate>Tue, 21 Jun 2022 16:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[6월 21일 오후 서울 용산구 한강대로에 위치한 CGV 용산아이파크몰에서 영화 '헤어질 결심' VIP 시사회가 열렸다. 이날 시사회에는 박찬욱 감독, 탕웨이, 박해일, 박용우, 고경표, 김신영, 서현우, 정이서, 이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['♥서희원 결혼' 구준엽 "제가 지금 가장 행복한 사람"(종합) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011260244</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011260244</guid>
-            <pubDate>Tue, 21 Jun 2022 16:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[김현숙 인턴 기자 = 그룹 클론 멤버 겸 DJ 구준엽(53)이 새신랑으로 돌아와 러브스토리를 공개한다. 22일 오후 8시 40분에 방송하는 tvN '유 퀴즈 온 더 블록' 158회에서는 최근 영화 같은 러브스토리로]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[안영미&신봉선&송은이, ‘김신영 응원 온 셀럽파이브 멤버들’ (‘헤어질 결심’ VIP 시사회 포토월)[뉴스엔TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000592118</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000592118</guid>
-            <pubDate>Tue, 21 Jun 2022 15:05:55 GMT</pubDate>
-            <content:encoded><![CDATA[6월 21일 오후 서울 용산구 한강대로에 위치한 CGV 용산아이파크몰에서 영화 '헤어질 결심' VIP 시사회가 열렸다. 이날 시사회에는 셀럽파이브의 멤버 안영미-신봉선-송은이가 참석했다. 제 75회 칸 영화제에서 감]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[국대패밀리 vs 구척장신 외나무다리 만났다 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011260242</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011260242</guid>
-            <pubDate>Tue, 21 Jun 2022 15:05:55 GMT</pubDate>
-            <content:encoded><![CDATA[유다연 인턴 기자 = 결승전에 진출할 마지막 팀을 가리기 위해 '골 때리는 그녀들'이 치열한 승부를 펼친다. 22일 오후 9시 방송되는 SBS '골(Goal) 때리는 그녀들'에 FC국대패밀리와 FC구척장신의 슈퍼리그]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유연석, ‘응팔 의리남’ (‘헤어질 결심’ VIP 시사회 포토월)[뉴스엔TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000592117</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000592117</guid>
-            <pubDate>Tue, 21 Jun 2022 15:05:55 GMT</pubDate>
-            <content:encoded><![CDATA[6월 21일 오후 서울 용산구 한강대로에 위치한 CGV 용산아이파크몰에서 영화 '헤어질 결심' VIP 시사회가 열렸다. 이날 시사회에는 배우 유연석이 참석했다. 제 75회 칸 영화제에서 감독상을 수상한 영화 '헤어질]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['우리는 오늘부터' 임수향, 신동욱에 프러포즈→결혼 골인 [★밤Tview] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
@@ -1660,20 +1660,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F21%2Ftvreport%2F20220621130702806hnzo.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['헤어질 결심' 탕웨이 "한국어 하나도 못해..오히려 표정으로 잘 표현된 듯" (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220621182409774</link>
-            <guid>https://movie.v.daum.net/v/20220621182409774</guid>
-            <pubDate>Tue, 21 Jun 2022 12:14:31 GMT</pubDate>
-            <content:encoded><![CDATA[[스포츠한국 조은애 기자] '헤어질 결심' 탕웨이가 연기 소감을 밝혔다. 21일 오후 서울 CGV용산아이파크몰에서 영화 '헤어질 결심'(감독 박찬욱)의 언론배급시사회가 개최됐다. 이날 행사에는 배우 탕웨이, 박해일, 박찬욱 감독이 참석해 작품에 대한 이야기를 나눴다. 이날 탕웨이는 "제가 연기하는 서래는 생활 속에 굉장한&nbsp;고난이 있다.&nbsp;그녀의 삶]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F21%2FSpoHankook%2F20220621182412268ljzw.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[신시아x서은수, '마녀2'가 발견한 새 얼굴 [무비노트] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220621121606282</link>
             <guid>https://movie.v.daum.net/v/20220621121606282</guid>
             <pubDate>Tue, 21 Jun 2022 08:15:18 GMT</pubDate>
             <content:encoded><![CDATA[[티브이데일리 최하나 기자] '마녀2'가 발견한 새 얼굴, 배우 신시아 서은수가 압도적인 존재감으로 관객들의 호평을 이끌어내고 있다. 지난 15일 개봉된 영화 '마녀 Part2. The Other One'(감독 박훈정·제작 영화사 금월, 이하 '마녀 2')는 초토화된 비밀연구소에서 홀로 살아남아 세상 밖으로 나오게 된 소녀(신시아) 앞에 각기 다른 목적으]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F21%2Ftvdaily%2F20220621121607816fpix.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['헤어질 결심' 탕웨이 "한국어 하나도 못해..오히려 표정으로 잘 표현된 듯" (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220621182409774</link>
+            <guid>https://movie.v.daum.net/v/20220621182409774</guid>
+            <pubDate>Tue, 21 Jun 2022 12:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 조은애 기자] '헤어질 결심' 탕웨이가 연기 소감을 밝혔다. 21일 오후 서울 CGV용산아이파크몰에서 영화 '헤어질 결심'(감독 박찬욱)의 언론배급시사회가 개최됐다. 이날 행사에는 배우 탕웨이, 박해일, 박찬욱 감독이 참석해 작품에 대한 이야기를 나눴다. 이날 탕웨이는 "제가 연기하는 서래는 생활 속에 굉장한&nbsp;고난이 있다.&nbsp;그녀의 삶]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F21%2FSpoHankook%2F20220621182412268ljzw.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[십고초려 끝에 찍은 '한국판 헤드윅', 순간순간 경이롭다 (다음영화 뉴스 ─ 인기)]]></title>
@@ -1684,20 +1684,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F21%2Fohmynews%2F20220621153901625jlmb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[클래스는 영원하다, 톰 크루즈[MK스타] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220621095402857</link>
-            <guid>https://movie.v.daum.net/v/20220621095402857</guid>
-            <pubDate>Tue, 21 Jun 2022 09:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[“36년이 흘렀을 뿐, ‘탑건’은 여전합니다. 울어도 괜찮아요. 중년 관객, 당신을 위한 영화니까요” 그의 말대로 모든 건 여전했다. 레전드 '탑건' 그리고 톰 크루즈도. 할리우드 스타 톰 크루즈(60)가 4년 만에 한국 관객들을 만났다. 영화 ‘탑건’으로는 무려 36년 만이다. 자신을 월드스타 반열에 올려놨던 ‘탑건’의 속편, ‘탑건: 매버릭’으로 귀환]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F21%2Fstartoday%2F20220621095404193amgv.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[설득에 실패한 '브로커'.. 감독의 진짜 위기 시작됐나 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220621114201159</link>
             <guid>https://movie.v.daum.net/v/20220621114201159</guid>
             <pubDate>Tue, 21 Jun 2022 08:15:18 GMT</pubDate>
             <content:encoded><![CDATA[[고광일 기자] ▲ &nbsp;영화 &lt;브로커&gt; 스틸 이미지    ⓒ CJ ENM  &nbsp; ※ 이 기사는 영화 &lt;브로커&gt;의 스포일러를 포함하고 있습니다. 억수 같은 비가 쏟아지는 어느 밤. 소영(이지은)은 베이비박스 앞에 아이를 두고 떠난다. 다음 날, 마음이 바뀐 소영이 아이를 찾으러 돌아오지만, 시설에는 접수된 아이가 없다. 세탁소를 운영하지만 빚에 쪼]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F21%2Fohmynews%2F20220621114203425bsue.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[클래스는 영원하다, 톰 크루즈[MK스타] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220621095402857</link>
+            <guid>https://movie.v.daum.net/v/20220621095402857</guid>
+            <pubDate>Tue, 21 Jun 2022 09:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[“36년이 흘렀을 뿐, ‘탑건’은 여전합니다. 울어도 괜찮아요. 중년 관객, 당신을 위한 영화니까요” 그의 말대로 모든 건 여전했다. 레전드 '탑건' 그리고 톰 크루즈도. 할리우드 스타 톰 크루즈(60)가 4년 만에 한국 관객들을 만났다. 영화 ‘탑건’으로는 무려 36년 만이다. 자신을 월드스타 반열에 올려놨던 ‘탑건’의 속편, ‘탑건: 매버릭’으로 귀환]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F21%2Fstartoday%2F20220621095404193amgv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[제이슨 스타뎀X가이 리치 '리볼버', 7월 개봉 확정 & 티저 포스터 대공개 (다음영화 뉴스 ─ 인기)]]></title>
@@ -1708,6 +1708,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F21%2Fmydaily%2F20220621132310655tpuj.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[끔찍한 사고 당했던 여성의 세계 신기록 도전 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220621112400183</link>
+            <guid>https://movie.v.daum.net/v/20220621112400183</guid>
+            <pubDate>Tue, 21 Jun 2022 05:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[[김형욱 기자] ▲ &nbsp;넷플릭스 오리지널 다큐멘터리 &lt;홀드 유어 브레스&gt; 포스터.    ⓒ 넷플릭스  &nbsp; 2021년 3월, 핀란드 북부 호사 욀뢰리호에서 '아이스 다이빙' 세계 신기록 도전이 있었다. 아이스 다이빙은 수영복만 입고 최소 30cm 두께의 얼음 아래를 단 한 번의 숨으로 헤엄치는 스포츠다. 전 세계 웬만한 곳에는 30cm 두께의 얼]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F21%2Fohmynews%2F20220621112402013nmty.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA['헤어질 결심' 탕웨이 "한국어, 솔직히 하나도 못해..박찬욱 감독·박해일 도움" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220621165503503</link>
             <guid>https://movie.v.daum.net/v/20220621165503503</guid>
@@ -1716,12 +1724,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F21%2Fxportsnews%2F20220621165505722hmjg.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[끔찍한 사고 당했던 여성의 세계 신기록 도전 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220621112400183</link>
-            <guid>https://movie.v.daum.net/v/20220621112400183</guid>
-            <pubDate>Tue, 21 Jun 2022 05:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[[김형욱 기자] ▲ &nbsp;넷플릭스 오리지널 다큐멘터리 &lt;홀드 유어 브레스&gt; 포스터.    ⓒ 넷플릭스  &nbsp; 2021년 3월, 핀란드 북부 호사 욀뢰리호에서 '아이스 다이빙' 세계 신기록 도전이 있었다. 아이스 다이빙은 수영복만 입고 최소 30cm 두께의 얼음 아래를 단 한 번의 숨으로 헤엄치는 스포츠다. 전 세계 웬만한 곳에는 30cm 두께의 얼]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F21%2Fohmynews%2F20220621112402013nmty.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA["당연히 천만"..'비상선언' 송강호·전도연, 칸 수상자의 자신감 (엑's 현장)[종합] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220620145010384</link>
+            <guid>https://movie.v.daum.net/v/20220620145010384</guid>
+            <pubDate>Tue, 21 Jun 2022 11:09:26 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) '비상선언'이 전도연, 송강호의 자신감과 함께 출격한다. 20일 오전 서울 중구 소공동 웨스틴조선호텔 그랜드볼룸에서 영화 '비상선언'(감독 한재림) 제작보고회가 진행됐다. 이날 배우 송강호, 이병헌, 전도연, 김남길, 임시완, 김소진, 박해준과 한재림 감독이 참석했다.&nbsp; '비상선언'은 사상 초유의 항공테러로 무조건적 착륙을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2Fxportsnews%2F20220620145012121hset.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['헤어질 결심' 탕웨이 "한국어 하나도 못해..대사 외우는데 한계 있었지만" (다음영화 뉴스 ─ 인기)]]></title>
@@ -1740,14 +1748,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F21%2Fxportsnews%2F20220621195004773efwp.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA["당연히 천만"..'비상선언' 송강호·전도연, 칸 수상자의 자신감 (엑's 현장)[종합] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220620145010384</link>
-            <guid>https://movie.v.daum.net/v/20220620145010384</guid>
-            <pubDate>Tue, 21 Jun 2022 11:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) '비상선언'이 전도연, 송강호의 자신감과 함께 출격한다. 20일 오전 서울 중구 소공동 웨스틴조선호텔 그랜드볼룸에서 영화 '비상선언'(감독 한재림) 제작보고회가 진행됐다. 이날 배우 송강호, 이병헌, 전도연, 김남길, 임시완, 김소진, 박해준과 한재림 감독이 참석했다.&nbsp; '비상선언'은 사상 초유의 항공테러로 무조건적 착륙을]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F20%2Fxportsnews%2F20220620145012121hset.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['토르:러브 앤 썬더' IMAX→4DX 포맷 상영..압도적 비주얼 예고 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220621101149675</link>
             <guid>https://movie.v.daum.net/v/20220621101149675</guid>
@@ -1756,20 +1756,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F21%2Fpoctan%2F20220621101149145itax.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['조커' 모습 지운 호아킨 피닉스의 완벽한 변신 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220621141800564</link>
-            <guid>https://movie.v.daum.net/v/20220621141800564</guid>
-            <pubDate>Tue, 21 Jun 2022 13:33:33 GMT</pubDate>
-            <content:encoded><![CDATA[[장혜령 기자] ▲ &nbsp;영화 &lt;컴온 컴온&gt; 스틸컷    ⓒ 찬란  &nbsp; 전국을 돌며 미래와 행복을 주제로 한 어린이 대상 인터뷰를 맡은 라디오 저널리스트 조니(호아킨 피닉스)는 여동생 비브(가비 호프만)와 오랜만에 연락이 닿았다. 어머니의 죽음 이후 한동안 소원했던 남매는 조카 제시(우디 노먼)를 통해 극적으로 화해하게 된다. 사실 다 잊어버렸다]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F21%2Fohmynews%2F20220621141802161ttcq.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['감동주의보' 최웅, "순수하고 따뜻한 마음을 전해주는 영화" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220621100023111</link>
             <guid>https://movie.v.daum.net/v/20220621100023111</guid>
             <pubDate>Tue, 21 Jun 2022 14:09:51 GMT</pubDate>
             <content:encoded><![CDATA[[헤럴드경제 = 서병기 선임기자]배우 최웅(35)은 2011년 ‘박카스-국군장병편’ CF로 데뷔했다. 군인인 최웅이 내무반에서 걸그룹의 공연을 보면서 함께 춤추다 리모컨을 밟아 TV가 고장나자 야유가 이어지는데, 이를 만회하기 위해 약국에서 박카스를 사면서 “너만 믿는다”라고 말하는 CF다. 짧은 시간에 강렬한 메시지를 주는 이 광고를 시작으로 ‘아테나-전]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F21%2Fned%2F20220621100027602eqkx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['조커' 모습 지운 호아킨 피닉스의 완벽한 변신 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220621141800564</link>
+            <guid>https://movie.v.daum.net/v/20220621141800564</guid>
+            <pubDate>Tue, 21 Jun 2022 13:33:33 GMT</pubDate>
+            <content:encoded><![CDATA[[장혜령 기자] ▲ &nbsp;영화 &lt;컴온 컴온&gt; 스틸컷    ⓒ 찬란  &nbsp; 전국을 돌며 미래와 행복을 주제로 한 어린이 대상 인터뷰를 맡은 라디오 저널리스트 조니(호아킨 피닉스)는 여동생 비브(가비 호프만)와 오랜만에 연락이 닿았다. 어머니의 죽음 이후 한동안 소원했던 남매는 조카 제시(우디 노먼)를 통해 극적으로 화해하게 된다. 사실 다 잊어버렸다]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F21%2Fohmynews%2F20220621141802161ttcq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[악역임에도 존재감, '설국열차' 최종 보스의 광폭 행보 (다음영화 뉴스 ─ 인기)]]></title>
@@ -1794,6 +1794,14 @@
             <pubDate>Tue, 21 Jun 2022 17:22:21 GMT</pubDate>
             <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 중화권 배우 탕웨이가 '헤어질 결심'에서 한국어 대사를 소화한 소감을 밝혔다. 21일 오후 서울 용산구 CGV 용산아이파크몰에선 영화 '헤어질 결심'의 언론배급 시사회 및 기자간담회가 열렸다. 연출을 맡은 박찬욱 감독과 두 주연 탕웨이, 박해일 등이 참석했다. 이날 탕웨이는 "저는 한국어를 잘 하지 못하는 사람이다. 솔직히]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F21%2Fmydaily%2F20220621164618258lfmx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[의심·관심 그리고 '헤어질 결심'.. 박찬욱의 수사멜로극 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220622040621185</link>
+            <guid>https://v.daum.net/v/20220622040621185</guid>
+            <pubDate>Tue, 21 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사랑한다는 말도, 보고 싶었다는 말도 하지 않는다. 깊어지는 마음을 행동으로 직접 표현하지도 않는다. 은근한 눈빛과 표정, 나직이 돌려 말하는 목소리, 소용돌이치는 파도 속에서 관객들은 격렬한 감정이 밀려오는 것을 느낀다. 이토록 교묘하고 정교한 연출이 있을까. 산에서 벌어진 변사 사건을 수사하게 된 형사 해준(박해일)은 사망자의 아내 서래(탕웨이)를 만]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F22%2Fkukminilbo%2F20220622040622457nxzv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['헤어질 결심', '마침내' 절정 이른 박찬욱표 미장센 (다음영화 뉴스 ─ 최신)]]></title>
@@ -1909,6 +1917,13 @@
             <content:encoded><![CDATA[[스타뉴스 이빛나리 기자] /사진='비밀의 집' 방송화면'비밀의 집'에서 이승연이 서하준을 곤경에 빠뜨리려다 훔친 돈 30억 원을 강제 기부했다. 21일 오후 방송된 MBC 일일드라마 '비밀의 집'에서는 우지환(서하준 분)을 잡기 위해 덫을 놓는 함숙진(이승연 분)의 모습이 그려졌다. 함숙진은 30억 원을 요구한 사람이 우지환이라고 예상하며 30억]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[박원숙 "다이어트 비디오 출연료 7천만원 포기" 사연 보니 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220622044105485</link>
+            <guid>https://entertain.v.daum.net/v/20220622044105485</guid>
+            <pubDate>Tue, 21 Jun 2022 20:06:28 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 정지현 기자] 배우 박원숙이 과거 다이어트 비디오 출연료를 포기한 일화를 공개했다. 21일 오후 방송된 KBS 2TV '박원숙의 같이 삽시다 시즌3'에는 지난주에 이어 코미디언 이경실이 게스트로 출연했다. 이날 이경실은 과거 다이어트 비디오를 찍었다고 밝혔다. 박원숙은 "비디오 많이 팔았냐"고 물었다. 이에 이경실은 "(다이어트 비디오를)]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['놀뭐' WSG워너비 윤은혜→정지소, 소속사 선택 시작..화제성 5주 연속 1위 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
             <link>https://entertain.v.daum.net/v/20220622020003614</link>
             <guid>https://entertain.v.daum.net/v/20220622020003614</guid>
@@ -2007,11 +2022,11 @@
             <content:encoded><![CDATA[[뉴스엔 송오정 기자] 강주은이 가비의 파격적 패션 스타일에 크게 놀랐다. 6월 21일 방송된 KBS 2TV '新 가족관계증명서 갓파더'에서는 강주은, 신가비가 우혜림의 집을 찾았다. 이날 강주은과 신가비는 각종 육아용품 선물을 끌고 혜림의 집으로 향했다. 다만 강주은은 신가비의 파격적 패션을 보고 경악했다. 맨살과 속옷이 그대로 비치는 시스루 레이스 바]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신기루 "몸무게 120kg 넘지 않으려 관리 중" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220621235223780</link>
-            <guid>https://entertain.v.daum.net/v/20220621235223780</guid>
-            <pubDate>Tue, 21 Jun 2022 15:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 오수정 기자) '돌싱포맨'에서 신기루가 체중 관리 중임을 전했다.&nbsp; 21일 방송된 SBS 예능 프로그램 '신발 벗고 돌싱포맨'에서는 가수 노사연, 그룹 god의 박준형, 개그우먼 신기루가 출연해 이야기를 나눴다.&nbsp; 이날 방송에서 이상민은 신기루에게 "체중 관리를 하면서 많이 드신다고 들었다"고 했고, 신기루는 "지금 놀리시는거냐"며 웃었다.]]></content:encoded>
+            <title><![CDATA[의심·관심 그리고 '헤어질 결심'.. 박찬욱의 수사멜로극 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+            <link>https://entertain.v.daum.net/v/20220622040621185</link>
+            <guid>https://entertain.v.daum.net/v/20220622040621185</guid>
+            <pubDate>Tue, 21 Jun 2022 20:06:33 GMT</pubDate>
+            <content:encoded><![CDATA[사랑한다는 말도, 보고 싶었다는 말도 하지 않는다. 깊어지는 마음을 행동으로 직접 표현하지도 않는다. 은근한 눈빛과 표정, 나직이 돌려 말하는 목소리, 소용돌이치는 파도 속에서 관객들은 격렬한 감정이 밀려오는 것을 느낀다. 이토록 교묘하고 정교한 연출이 있을까. 산에서 벌어진 변사 사건을 수사하게 된 형사 해준(박해일)은 사망자의 아내 서래(탕웨이)를 만]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['헤어질 결심', '마침내' 절정 이른 박찬욱표 미장센 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
@@ -2110,13 +2125,6 @@
             <guid>https://entertain.v.daum.net/v/20220621184116100</guid>
             <pubDate>Tue, 21 Jun 2022 10:18:19 GMT</pubDate>
             <content:encoded><![CDATA[[스포츠서울|조은별기자] 영화 ‘헤어질 결심’의 주연배우 탕웨이가 한국어 연기의 고충을 털어놨다. 탕웨이는 21일 서울 용산 CGV 아이파크몰에서 열린 영화 ‘헤어질 결심’ 언론배급시사회에서 “사실 나는 한국어를 전혀 하지 못한다. 그래서 모든 한국어 대사를 중국어 뜻을 생각하며 외웠다”고 밝혔다. 탕웨이는 산에서 벌어진 변사사건의 피의자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['헤어질 결심' 탕웨이 "외국어 연기 어려웠다, 머리가 복잡해서 신비로운 연기로 보였을 것" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-            <link>https://entertain.v.daum.net/v/20220621183902061</link>
-            <guid>https://entertain.v.daum.net/v/20220621183902061</guid>
-            <pubDate>Tue, 21 Jun 2022 10:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[21일 오후 CGV용산아이파크몰에서는 영화 '헤어질 결심'의 언론시사회가 진행되었다. 이날 행사에는 박찬욱 감독과 박해일, 탕웨이가 참석해 영화에 대해 이야기했다. 영화 속에서 격정적이지만 드러나지 않는 감정연기를 펼친 탕웨이는 "사람이 성장하는 과정에서 표현하는 방식이 성숙해지는거 같다. 서래는 생활 속에 고난이 많은 인물이다. 그녀의 삶속에서는 모든]]></content:encoded>
         </item>
     </channel>
 </rss>
