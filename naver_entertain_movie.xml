@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-22T17:20:50.175Z</updated>
+    <updated>2022-06-22T18:08:35.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[조재휘의 시네필] ‘애프터 양(2021)’…존재의 ‘없음’이 비로소 그 ‘있음’을 상기시킨다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000012875</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000012875"/>
+        <updated>2022-06-22T18:07:47.857Z</updated>
+        <content type="html"><![CDATA[“무(無)없는 유(有)는 없어요.“ 독일의 실존주의 철학자 하이데거는 ‘존재와 시간’에서 망치의 비유를 든 바 있다. 망치는 도구로서 유용하지만, 정상적으로 기능하는 동안은 의식되지 않는다. 역설적이게도 우리가 도구]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 평창국제평화영화제 오늘 메달플라자서 개막식]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000900395</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003567836"/>
         <updated>2022-06-22T09:05:51.495Z</updated>
         <content type="html"><![CDATA['한산: 용의 출현' 변요한이 왜군 장수 '와키자카'로 과감한 변신을 꾀한다. 영화 '한산: 용의 출현'은 명량해전 5년 전, 진군 중인 왜군을 상대로 조선을 지키기 위해 필사의 전략과 패기로 뭉친 이순신 장군과 조]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국립합창단, 한류 확산 프로젝트…압도적 영상 눈길]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000616793</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000616793"/>
-        <updated>2022-06-22T09:05:51.503Z</updated>
-        <content type="html"><![CDATA[국립합창단의 예술 한류 확산 프로젝트 ‘Voices of Solace’ 앨범의 티저(Teaser) 영상과 ‘새야 새야’ 뮤직비디오(MV)가 국립합창단 유튜브 및 네이버TV 채널, 인스타그램, 페이스북 채널에 지난 2]]></content>
     </entry>
 </feed>
