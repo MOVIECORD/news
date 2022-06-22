@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-22T13:31:12.340Z</updated>
+    <updated>2022-06-22T14:06:27.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['리미트' 진서연, '독전' 이어 인생캐 예고 "새로운 연기 전환점"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003567896</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003567896"/>
+        <updated>2022-06-22T14:05:32.113Z</updated>
+        <content type="html"><![CDATA['리미트' 진서연이 '독전'에 이어 다시 한 번 인생 캐릭터를 경신한다. 영화 '리미트'는 아동 연쇄 유괴사건 피해자 엄마의 대역을 맡은 생활안전과 소속 경찰 ‘소은’(이정현)이 사건을 해결하던 도중 의문의 전화를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[변요한, 왜군 장수 된다 (한산: 용의 출현)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000988123</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004642583"/>
         <updated>2022-06-22T09:05:51.509Z</updated>
         <content type="html"><![CDATA[배우 최우성(26)이 영화 ‘룸 쉐어링’을 통해 스크린에 데뷔한 가운데 “평소에 가던 극장에서 큰 스크린으로 큼지막하게 제 얼굴을 보니 신기했다”고 말했다. 최우성은 22일 오후 서울 합정동에서 진행된 OSEN과의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비상선언' 송강호, 이게 바로 현실 연기다..캐릭터스틸 2종 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003567834</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003567834"/>
-        <updated>2022-06-22T09:05:51.511Z</updated>
-        <content type="html"><![CDATA['비상선언' 송강호가 현실 연기의 정점을 예고한다. 영화 '비상선언'은 항공 테러로 무조건 착륙해야 하는 재난 상황에 맞서는 사람들의 이야기를 담은 리얼리티 항공재난 드라마. 송강호는 극중 재난을 막기 위해 고군분투]]></content>
     </entry>
 </feed>
