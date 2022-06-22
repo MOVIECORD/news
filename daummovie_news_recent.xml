@@ -1,8 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-06-22T21:04:22.018Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 22 Jun 2022 22:06:43 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰②]'니얼굴' 정은혜 "'우블스' 인기 신나..한지민·김우빈 배려 감동"]]></title>
+            <link>https://v.daum.net/v/20220623070311596</link>
+            <guid>https://v.daum.net/v/20220623070311596</guid>
+            <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[최근 인기리에 종영한 tvN 드라마 '우리들의 블루스'(극본 노희경)를 통해 주목 받은 캐리커처 작가 겸 배우 정은혜(32)를 스크린에서 만난다. 아버지인 서동일 감독인 연출한 다큐멘터리 영화 '니얼굴'을 통해서다. 23일 개봉을 앞두고 만난 정은혜는 한껏 상기된 모습이었다. 세간의 관심에 행복하고도 벅찬 듯 했다. 특유의 당차고 재치 넘치는 기분 좋은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F23%2Fstartoday%2F20220623070312636zcmt.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['마녀2'와 세상으로..신시아 "중심을 잘 지키는 배우가 되고파"[MK★인터뷰]]]></title>
+            <link>https://v.daum.net/v/20220623070309595</link>
+            <guid>https://v.daum.net/v/20220623070309595</guid>
+            <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“이 순간만을 기다렸다.” 오디션 기간부터 개봉까지 2년이 넘는 시간을 보낸 배우 신시아가 영화 ‘마녀2’(감독 박훈정) 개봉을 앞두고 만감이 교차한 모습을 보였다. 2018년 독창적인 액션 스타일과 독보적인 세계관으로 화제를 모은 영화 ‘마녀’에 이어 4년 만에 선보이는 2편 주인공으로 나선 그는 부담감보다 ‘마녀2’만의 매력을 관객에 확실하게 전달하고자]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F23%2Fmksports%2F20220623070310637tffn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰①]'니얼굴' 서동일 감독 "'우블스' 확바뀐 시선..정은혜 선전 설레"]]></title>
+            <link>https://v.daum.net/v/20220623070309593</link>
+            <guid>https://v.daum.net/v/20220623070309593</guid>
+            <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["정말 오랜 시간 기다렸는데...두근두근 설레요." 서동일 감독이 딸이자 캐리커처 작가 겸 배우 정은혜의 맹활약에 뿌듯해 했다. 설레는 미소로 애정을 듬뿍 쏟은 영화 '니얼굴'에 대한 관심을 당부했다. 다큐 감독인 아버지가 연출하고, 어머니인 만화가 장차현실이 프로듀서를 맡아 딸 정은혜가 예술가로 당당히 서는 모습을 담았다. 서동일 감독은 최근 삼청동의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F23%2Fstartoday%2F20220623070311037rxfi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['종이의 집: 공동경제구역' 김윤진 "극한 재미..'15초 건너뛰기' 못할걸요"]]></title>
+            <link>https://v.daum.net/v/20220623063049184</link>
+            <guid>https://v.daum.net/v/20220623063049184</guid>
+            <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김윤진이 22일 서울 강남구 코엑스 그랜드볼룸에서 열린 넷플릭스 새 오리지널 시리즈 ‘종이의 집: 공동경제구역’ 제작발표회에서 밝게 미소 짓고 있다. 주현희 기자 tehth1147@donga.com ‘할리우드 스타’ 김윤진(49)에게 최근 몇 년 사이 부쩍 높아진 케이(K) 콘텐츠의 세계적 위상은 남다르게 다가온다. 2004년 ‘로스트’ 시리즈를 통]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F23%2Fsportsdonga%2F20220623063051131zhvg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[임시완 '비상선언' 도경수 '더 문'..대표 연기돌, 스크린에 돌아온다]]></title>
+            <link>https://v.daum.net/v/20220623063042181</link>
+            <guid>https://v.daum.net/v/20220623063042181</guid>
+            <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[임시완(왼쪽)·도경수. 사진제공｜쇼박스·CJ ENM 연기력과 스타성을 겸비한 ‘대표 연기돌’ 임시완과 도경수가 스크린에 돌아온다. 이들이 각각 1000만 관객을 동원한 ‘변호인’과 ‘신과함께’의 기운을 이어받아 새로운 블록버스터 영화를 선보인다. 임시완은 ‘더 킹’, ‘관상’ 등을 연출한 한재림 감독의 신작이자 제작비 250억 원 규모의 대작 ‘비상선언’]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F23%2Fsportsdonga%2F20220623063044376gcbg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[SC초점] 최민식·조진웅→박해일·변요한..'한산'이 넘어야할 1700만의 山]]></title>
+            <link>https://v.daum.net/v/20220623060818972</link>
+            <guid>https://v.daum.net/v/20220623060818972</guid>
+            <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김한민 감독이 이순신 3부작의 두번째 작품을 가지고 돌아온다. 1700만 관객을 동원하며 현재까지 대한민국 역대 박스오피스 1위 자리를 지키고 있는 '명량: 회오리바다'(이하 명량)에 이어 '한산:용의 출현'(이하 한산)이 7월말 개봉을 앞두고 있다. '한산'은 흥행 기록 뿐만 아니라 여러면에서 '명량'과 비교될 수밖에 없는 운명이다. 김]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F23%2FSpoChosun%2F20220623060818819snuh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
