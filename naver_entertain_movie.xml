@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-22T20:06:36.156Z</updated>
+    <updated>2022-06-22T21:04:22.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[영화평 300]세월을 뛰어넘은 그 영화, 그 배우]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011262731</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011262731"/>
+        <updated>2022-06-22T21:03:33.886Z</updated>
+        <content type="html"><![CDATA[6월 4주차 개봉 영화와 최근 개봉작 간단평을 정리했다. 전설이 된 영화 신화가 된 배우…탑건:매버릭 2022년이 아직 6개월이나 남아 있지만, 아마 올해 '탑건:매버릭'보다 관객을 더 미치게 하는 영화는 나오지 않]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[조재휘의 시네필] ‘애프터 양(2021)’…존재의 ‘없음’이 비로소 그 ‘있음’을 상기시킨다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000012875</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013262936"/>
         <updated>2022-06-22T09:05:51.483Z</updated>
         <content type="html"><![CDATA[울주세계산악영화제는 지역에서 보기 힘든 예술·독립영화를 소개하는 '월간 움프살롱' 프로그램을 운영한다고 22일 밝혔다. 지역민에게 더 풍성한 문화 향유 기회를 제공하고자 마련된 움프살롱은 영남알프스 복합웰컴센터 알프]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한산: 용의 출현' 변요한, 왜군 최고의 장수 변신..'명량' 조진웅 젊은 시절]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003567836</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003567836"/>
-        <updated>2022-06-22T09:05:51.495Z</updated>
-        <content type="html"><![CDATA['한산: 용의 출현' 변요한이 왜군 장수 '와키자카'로 과감한 변신을 꾀한다. 영화 '한산: 용의 출현'은 명량해전 5년 전, 진군 중인 왜군을 상대로 조선을 지키기 위해 필사의 전략과 패기로 뭉친 이순신 장군과 조]]></content>
     </entry>
 </feed>
