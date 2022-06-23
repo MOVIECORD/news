@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-23T19:05:02.030Z</updated>
+    <updated>2022-06-23T20:08:40.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[7월 극장가, 무더위 날릴 블록버스터급 라인업 화제 [TF프리즘]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000156919</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000156919"/>
+        <updated>2022-06-23T20:07:46.889Z</updated>
+        <content type="html"><![CDATA['토르'부터 '한산'까지 대작들 연이어 개봉…화끈한 재미 예고 여름방학과 휴가가 시작되는 7월 극장가는 블록버스터 대작이 연이어 개봉을 예정하고 있어 영화 팬들의 마음을 설레게 만든다. 5, 6월 연이은 흥행 대작들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새로운 재미 선사하는 영화 ‘우스운게 딱 좋아’, 4가지 색깔 웃음이 옴니버스로 묶였다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=016&amp;aid=0002006936</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004643580"/>
         <updated>2022-06-23T13:33:11.161Z</updated>
         <content type="html"><![CDATA[23일 오후 서울 강남구 메가박스 코엑스에서 영화 ‘외계+인’ 1부 쇼케이스가 열렸다. 배우 류준열이 팬과 포옹을 하고 있다. 2022.06.23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]김우빈,'달달한 포옹']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004643579</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004643579"/>
-        <updated>2022-06-23T13:33:11.164Z</updated>
-        <content type="html"><![CDATA[23일 오후 서울 강남구 메가박스 코엑스에서 영화 ‘외계+인’ 1부 쇼케이스가 열렸다. 배우 김우빈이 팬과 포옹을 하고 있다. 2022.06.23]]></content>
     </entry>
 </feed>
