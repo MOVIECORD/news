@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 06:10:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 07:05:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주우재 "유산소 운동, 수명 줄어든다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=215021</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=215021</guid>
+            <pubDate>Thu, 23 Jun 2022 07:04:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=215021">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220623155808_50c05c70ee265efb2170a7bb2daedaf9.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=215021">주우재 "유산소 운동, 수명 줄어든다"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%B4%EA%B8%B0%EA%B4%91%EC%9D%98%20%EA%B0%80%EC%9A%94%EA%B4%91%EC%9E%A5">이기광의 가요광장</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220623155808_50c05c70ee265efb2170a7bb2daedaf9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서인국 전 여자친구, 위키미키 루시 '미남당' 출격]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=215002</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220622005728_3cd7ebc00642bc07e6bfb047d0340073.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[갓파더] 떡볶이 앞에서 무너진 다이어트! 순대와 튀김 즐기는 김숙과 조나단 “행복하다~♥”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=214747</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=214747</guid>
-            <pubDate>Tue, 21 Jun 2022 16:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=214747">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220622005524_a0be94db398de0263644a10b5970749d_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=214747">[갓파더] 떡볶이 앞에서 무너진 다이어트! 순대와 튀김 즐기는 김숙과 조나단 “행복하다~♥”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%93%ED%8C%8C%EB%8D%94">갓파더</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220622005524_a0be94db398de0263644a10b5970749d_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
