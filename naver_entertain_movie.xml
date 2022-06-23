@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-23T16:10:18.694Z</updated>
+    <updated>2022-06-23T17:14:59.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새로운 재미 느낄수 있는 영화 ‘우스운게 딱 좋아’, 4가지 색깔의 웃음이 옴니버스로 묶였다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=016&amp;aid=0002006936</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=016&amp;aid=0002006936"/>
+        <updated>2022-06-23T17:14:09.634Z</updated>
+        <content type="html"><![CDATA[지난 23일 개봉한 영화 ‘우스운게 딱! 좋아!’는 MZ세대들의 고군분투 코미디물이다. ‘눈치돌기’ ‘안녕 내 사랑’ ‘떨어져 있어야 가족이다’ ‘귀신친구’ 등 총 4편의 단편 영화를 옴니버스로 묶어 장편독립영화로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[평창국제평화영화제 개막]영화를 통해 축제를 만나고…그 속에서 진정한 쉼을 찾다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000900698</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004643579"/>
         <updated>2022-06-23T13:33:11.164Z</updated>
         <content type="html"><![CDATA[23일 오후 서울 강남구 메가박스 코엑스에서 영화 ‘외계+인’ 1부 쇼케이스가 열렸다. 배우 김우빈이 팬과 포옹을 하고 있다. 2022.06.23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[염정아-조우진 '부부 아님'[★포토]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003065155</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003065155"/>
-        <updated>2022-06-23T13:33:11.188Z</updated>
-        <content type="html"><![CDATA[배우 염정아, 조우진이 23일 오후 서울 강남구 삼성동 코엑스 메가박스에서 열린 영화 '외계+인 1부' 쇼케이스에 참석해 포즈를 취하고 있다. '외계+인' 1부는 고려 말 소문 속의 신검을 차지하려는 도사들과 202]]></content>
     </entry>
 </feed>
