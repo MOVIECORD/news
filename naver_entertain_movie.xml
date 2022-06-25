@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-25T21:03:45.152Z</updated>
+    <updated>2022-06-25T22:05:43.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰]조민수 "불친절한 '마녀2', 마성의 유니버스 합류 영광"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004982818</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004982818"/>
+        <updated>2022-06-25T22:04:58.701Z</updated>
+        <content type="html"><![CDATA["'백총괄' 1%라도 변화 주려 노력..솔로 무비 만들어졌으면" "신시아 기대했던 아우라, 김다미 눈부신 성장" "워낙 빠른 전개에 확장된 세계관, 많은 캐릭터, 다양한 서사가 있다 보니 분명히 불친절 해요. 그런데]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[톰 크루즈 '탑건 : 매버릭', 개봉 4일째 100만↑]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011267618</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=417&amp;aid=0000826113"/>
         <updated>2022-06-25T06:10:50.825Z</updated>
         <content type="html"><![CDATA[영화 '마녀 2'가 개봉 11일차 200만 관객을 돌파했다. 25일 영화진흥위원회 통합전산망에 따르면 이날 오후 12시 기점으로 '마녀2'는 200만 관객을 돌파하며 흥행세를 이어가고 있다. 이는 전작 '마녀'가 개]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마녀 2', 개봉 11일 만에 200만 돌파…올해 4번째 기록 [Nbox]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006178799</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006178799"/>
-        <updated>2022-06-25T06:10:50.830Z</updated>
-        <content type="html"><![CDATA[영화 '마녀 2'가 개봉 11일만에 200만 관객을 돌파했다. '마녀 2'는 25일 영화진흥위원회 통합전산망 오후 12시6분 기준 개봉 11일 만에 200만 관객을 돌파했다. 이는 전작 '마녀'가 개봉 15일 만에]]></content>
     </entry>
 </feed>
