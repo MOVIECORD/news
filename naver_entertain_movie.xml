@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-25T08:11:43.924Z</updated>
+    <updated>2022-06-25T09:05:14.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[탕웨이 "♥김태용과 눈빛으로 소통 NO, 영어로 대화"[문명특급]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003065592</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003065592"/>
+        <updated>2022-06-25T09:04:22.821Z</updated>
+        <content type="html"><![CDATA[배우 탕웨이가 남편인 김태용 감독과 눈빛으로 대화했다는 소문에 대해 정정했다. 25일 유튜브 채널 '문명특급'에는 '김태용 감독님이랑 눈빛으로 대화했었다는 오보 정정해 주는 탕웨이 씨 옆에서 오이 비누 얘기만 하는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공효진X이천희X전혜진 '보통의 용기', 메인 예고편 공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001466867</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003065568"/>
         <updated>2022-06-25T04:17:41.006Z</updated>
         <content type="html"><![CDATA[첫 스크린 도전, 첫 주연작. 영화 '룸 쉐어링'은 배우 최우성에게 행운이자 도전이었다. 자신의 연기 인생에 이제 막 첫 발걸음을 뗐다는 최우성은 큰 나무가 되기 위해 단단한 뿌리를 내리고 있다. '룸 쉐어링'은 까]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘마녀2’ 개봉 11일 만 200만 관객 돌파, 전작보다 4일 빠른 기록]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000593834</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000593834"/>
-        <updated>2022-06-25T04:17:41.008Z</updated>
-        <content type="html"><![CDATA['마녀2'가 200만 관객을 돌파했다. 영화진흥위원회 통합전산망에 따르면 영화 '마녀 Part2. The Other One'(이하 마녀 2)는 개봉 11일 차인 6월 25일 오후 12시 6분 누적 관객 수 200만]]></content>
     </entry>
 </feed>
