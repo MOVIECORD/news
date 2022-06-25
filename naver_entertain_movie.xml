@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-25T10:06:31.651Z</updated>
+    <updated>2022-06-25T11:06:36.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['탑건: 매버릭', 개봉 4일째 100만 돌파…흥행 파죽지세]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002615566</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002615566"/>
+        <updated>2022-06-25T11:05:48.412Z</updated>
+        <content type="html"><![CDATA['탑건: 매버릭'이 개봉 4일째 100만 관객을 돌파했다. 롯데엔터테인먼트에 따르면 '탑건: 매버릭'은 25일 오후 6시 개봉 4일 째 100만 관객을 넘어섰다. '탑건: 매버릭'은 지난 주와 이번주, 생애 10번째]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['탑건: 매버릭' 개봉 4일만에 100만 돌파 [공식]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006179000</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000821933"/>
         <updated>2022-06-25T05:07:25.854Z</updated>
         <content type="html"><![CDATA[배우 서은수가 영화 ‘마녀 파트2: 디 아더 원’(감독 박훈정/ 이하 ‘마녀2’)에서 함께한 이종석에게 감사한 마음을 전했다. 서은수는 최근 ‘스포츠경향’과 인터뷰에서 “이종석은 ‘마녀2’를 찍으면서 가장 감사했던]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘마녀2’ 서은수 “박훈정 감독의 선택, 증명하고팠다”[인터뷰①]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000821932</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000821932"/>
-        <updated>2022-06-25T05:07:25.856Z</updated>
-        <content type="html"><![CDATA[배우 서은수가 영화 ‘마녀 파트2: 디 아더 원’(감독 박훈정/ 이하 ‘마녀2’)에 대한 애정을 표현했다. 서은수는 최근 ‘스포츠경향’과 인터뷰에서 “대본을 보니, 박훈정 감독이 쓴 ‘조현’ 캐릭터가 너무 매력적이더]]></content>
     </entry>
 </feed>
