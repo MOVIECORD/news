@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-06-26T18:08:36.056Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 26 Jun 2022 20:08:51 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[감자창고를 영화관으로.. 평창에 방은진의 실험이 익어간다]]></title>
+            <link>https://v.daum.net/v/20220627043012033</link>
+            <guid>https://v.daum.net/v/20220627043012033</guid>
+            <pubDate>Sun, 26 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지난 24일 오전 서울은 무더웠다. 체감온도가 30도 안팎이었다.  오후 도착한 강원 평창군 대관령면은 달랐다. 시원한 바람이 불었다. 햇볕은 사납지 않았다. 23일 개막한 제4회 평창국제평화영화제는 청량한 날씨만으로도 관객들의 사랑을 받을 만했다. 이날 만난 방은진 평창영화제 집행위원장은 “1회 때부터 캠핑 시네마(캠핑하면서 영화 보기)를 하고 싶었는데]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F27%2Fhankooki%2F20220627043015061uqzx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[박찬욱 "모든 것은 정훈희의 '안개'에서 출발했다"]]></title>
+            <link>https://v.daum.net/v/20220627041105009</link>
+            <guid>https://v.daum.net/v/20220627041105009</guid>
+            <pubDate>Sun, 26 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[박찬욱 감독은 마침내, 가장 간결하고 고전적인 방식으로 관객을 날것의 감정 앞으로 이끌었다. ‘아가씨’ ‘박쥐’ ‘친절한 금자씨’ ‘올드보이’ 등 강렬하고 자극적인 이야기들로 채워진 그의 필모그래피는 ‘헤어질 결심’에서 아주 다른 결로 걸었다. 이번 영화로 제75회 칸 국제영화제 감독상을 받은 박 감독이 24일 국내 언론과 화상인터뷰를 가졌다. 박 감독은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202206%2F27%2Fkukminilbo%2F20220627041106880quug.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
