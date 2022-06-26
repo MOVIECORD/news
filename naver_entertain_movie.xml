@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-26T11:05:56.434Z</updated>
+    <updated>2022-06-26T12:15:29.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가수 태진아가 추천하는 영화 '후회(얼굴없는 보스)']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=014&amp;aid=0004857805</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=014&amp;aid=0004857805"/>
+        <updated>2022-06-26T12:14:42.722Z</updated>
+        <content type="html"><![CDATA['오늘도 살아야 하니까'를 발표한 가수 태진아(사진)가 영화 '후회(얼굴없는 보스)' 선전을 기원하는 글을 SNS에 올려 그 배경에 관심이 모아지고 있다. 태진아는 "이 영화의 제작자는 오랜 지인이다. 그분이 영화를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘탑건:매버릭’ 개봉 4일 만에 100만 돌파 [연예뉴스 HOT]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000988703</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013269868</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013269868"/>
         <updated>2022-06-26T09:09:28.878Z</updated>
-        <content type="html"><![CDATA[이세원 특파원 = 영화 '브로커' 일본 개봉 사흘째인 26일 오후 도쿄의 한 영화관에서 열린 무대 인사 행사에서 이 영화의 주연 배우 강동원이 발언하고 있다. 2022.6.26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본에서 무대인사 하는 강동원]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013269867</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013269867"/>
-        <updated>2022-06-26T09:09:28.879Z</updated>
         <content type="html"><![CDATA[이세원 특파원 = 영화 '브로커' 일본 개봉 사흘째인 26일 오후 도쿄의 한 영화관에서 열린 무대 인사 행사에서 이 영화의 주연 배우 강동원이 발언하고 있다. 2022.6.26]]></content>
     </entry>
 </feed>
