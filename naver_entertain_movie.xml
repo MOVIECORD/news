@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-06-27T12:14:39.281Z</updated>
+    <updated>2022-06-27T13:38:32.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['탑건 2' 한국영화 밀어내고 첫 주말 1위]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000548484</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000548484"/>
+        <updated>2022-06-27T13:37:43.316Z</updated>
+        <content type="html"><![CDATA[톰 크루즈 주연의 할리우드 블록버스터 '탑건: 매버릭'이 개봉 첫 주말 박스오피스 정상을 차지했습니다. 영화진흥위원회에 따르면 '탑건 2'는 지난 주말 사흘 동안 관객 112만명을 동원하며 박스오피스 1위에 올랐습니]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘탑건 2’ 마하 속도 흥행… 개봉 첫 주 1위]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003709408</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000025865"/>
         <updated>2022-06-27T08:12:24.233Z</updated>
         <content type="html"><![CDATA[Actor Jung Eun-hye, the star behind tvN drama series “Our Blues,” has a hidden talent: She is also a hit caricature arti]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['토르: 러브 앤 썬더' 감독 "자아 찾기 위해 노력하는 토르 보게 될 것"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000860110</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000860110"/>
-        <updated>2022-06-27T08:12:24.235Z</updated>
-        <content type="html"><![CDATA[“자아를 찾기 위해 노력하는 토르의 모습 보게될 것.” 27일 화상으로 ‘토르: 러브 앤 썬더’(이하 ‘토르4’) 기자간담회가 열렸다. 타이카 와이티티 감독과 토르 역을 맡은 크리스 헴스워스가 참석했다. 타이카 와이]]></content>
     </entry>
 </feed>
