@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 23:07:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 00:35:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['비상선언' 김남길, 항공재난 부기장의 책임감]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=215460</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=215460</guid>
+            <pubDate>Mon, 27 Jun 2022 00:33:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=215460">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220627075532_58006f75b642cb7d4b83712363aab110_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=215460">'비상선언' 김남길, 항공재난 부기장의 책임감</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220627075532_58006f75b642cb7d4b83712363aab110_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[왓챠 '최종병기 앨리스' 제작발표회  "하드코어 액션 로맨스!"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=215302</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=214934">넷플릭스 '종이의 집: 공동경제구역' 제작발표회 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220623071215_5cd940dccf1f4f8d1f9d6e5fd0745211.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권상우 ‘현실 격공 코미디’, 웨이브 오리지널 '위기의 X']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=214859</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=214859</guid>
-            <pubDate>Wed, 22 Jun 2022 04:27:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=214859">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220622110400_60b86a8f4a964a07c42bee28ea2b1b23.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=214859">권상우 ‘현실 격공 코미디’, 웨이브 오리지널 '위기의 X' </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220622110400_60b86a8f4a964a07c42bee28ea2b1b23.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
