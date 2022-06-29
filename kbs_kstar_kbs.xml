@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 00:33:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 03:08:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["먹으면 위로 갔다가 장으로..." 새로운 예능캐 황수경 등장!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=216026</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=216026</guid>
+            <pubDate>Wed, 29 Jun 2022 03:07:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=216026">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220629110105_d1579e557c006b5f404e40e51114fc47_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=216026">"먹으면 위로 갔다가 장으로..." 새로운 예능캐 황수경 등장!</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220629110105_d1579e557c006b5f404e40e51114fc47_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[미남당 2회] 서인국-오연서, 불꽃 튀는 상극 케미스트리]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=215979</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%AC%B8%EC%9D%84%20%EC%9E%8A%EC%9D%80%20%EC%9D%8C%EC%8B%9D%EC%A0%90%202">주문을 잊은 음식점 2</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220628093415_1f5d15e8db7d6bb2c4e08ff1ab4b4041.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘백종원 클라쓰’ 한식의 세계화 대장정]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=215743</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=215743</guid>
-            <pubDate>Tue, 28 Jun 2022 00:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=215743">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220628085858_0e6b2eb052f6a01c782a8997655e57dd.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=215743">‘백종원 클라쓰’ 한식의 세계화 대장정</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B1%EC%A2%85%EC%9B%90%20%ED%81%B4%EB%9D%BC%EC%93%B0">백종원 클라쓰</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220628085858_0e6b2eb052f6a01c782a8997655e57dd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
