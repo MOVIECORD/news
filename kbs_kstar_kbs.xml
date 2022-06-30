@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 04:30:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 05:18:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["남진 오빠 만세!"  덕질의 원조 ‘오빠 부대’ 출격]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=216122</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=216122</guid>
+            <pubDate>Thu, 30 Jun 2022 05:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=216122">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220630094833_739b4c8d9491bf09c4315cb9c70301c9.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=216122">"남진 오빠 만세!"  덕질의 원조 ‘오빠 부대’ 출격</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EC%A0%91%EC%9D%B4%20%ED%92%8D%EB%85%84">주접이 풍년</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220630094833_739b4c8d9491bf09c4315cb9c70301c9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[징크스의 연인 5회 “내 옆에 있으면 네가 불행해질 거야”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=216105</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%AF%B8%EB%82%A8%EB%8B%B9">월화드라마 미남당</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220628234800_7df4b1fc93291352317f14568ef3a2e4_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[미남당] “이렇게 사는 거 부끄럽지 않아?”, “욕망대로 사는게 뭐가 나빠?” 오연서 VS 서인국 살벌한 기싸움]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=215916</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=215916</guid>
-            <pubDate>Tue, 28 Jun 2022 16:05:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=215916">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220628231816_6c951392c8d5f1c3466aa054b1cb77d4.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=215916">[미남당] “이렇게 사는 거 부끄럽지 않아?”, “욕망대로 사는게 뭐가 나빠?” 오연서 VS 서인국 살벌한 기싸움</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%AF%B8%EB%82%A8%EB%8B%B9">월화드라마 미남당</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220628231816_6c951392c8d5f1c3466aa054b1cb77d4.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
