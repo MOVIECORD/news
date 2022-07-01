@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-07-01T17:19:27.981Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 01 Jul 2022 18:11:21 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['마녀2' 신시아, 김다미와 강렬 투샷..'3편 기대감↑']]></title>
+            <link>https://v.daum.net/v/20220702022004803</link>
+            <guid>https://v.daum.net/v/20220702022004803</guid>
+            <pubDate>Fri, 01 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 개봉 11일 만에 손익분기점을 달성한 영화 '마녀2'가 뜨거운 반응에 힘입어 미공개 스틸 9종을 선보였다. '마녀 Part2. The Other One'(이하 '마녀2')는 초토화된 비밀연구소에서 홀로 살아남아 세상 밖으로 나오게 된 소녀(신시아) 앞에 각기 다른 목적으로 그녀를 쫓는 세력들이 모여들면서 벌어지는 일을 그린]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F02%2Fmydaily%2F20220702022004879izec.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
