@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-07-02T11:06:24.439Z</updated>
+    <updated>2022-07-02T12:14:24.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마녀2' 250만 관객 돌파…신시아→서은수, 흥행 감사 인증샷]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000879180</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000879180"/>
+        <updated>2022-07-02T12:13:30.152Z</updated>
+        <content type="html"><![CDATA[영화 '마녀 Part2. The Other One'(이하 '마녀 2')가 250만 관객을 돌파하며 꾸준한 흥행세를 이어가고 있다. 영화진흥위원회 통합전산망에 따르면 '마녀 2'는 개봉 18일 차인 2일 오전 9시 5]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['범죄도시2', '신과함께-인과 연' 제쳤다..역대 흥행 14위 등극 목전]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003067373</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003067338"/>
         <updated>2022-07-02T04:26:39.740Z</updated>
         <content type="html"><![CDATA['헤어질 결심'이 진지, 웃음, 매력까지 배우들의 모든 순간이 담긴 케미 비하인드 스틸을 공개했다. '헤어질 결심'은 산에서 벌어진 변사 사건을 수사하게 된 형사 '해준'(박해일 분)이 사망자의 아내 '서래'(탕웨이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['범죄도시2' 흥행 핵펀치, '신과함께-인과 연' 제쳤다!]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003620242</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003620242"/>
-        <updated>2022-07-02T04:26:39.741Z</updated>
-        <content type="html"><![CDATA[대한민국 대표 범죄 액션 시리즈 영화 '범죄도시2'가 영진위 통합전산망 공식 통계 기준, '신과함께-인과 연'의 공식통계 기준 관객수 12,274,996명을 제쳤다. 마동석 주연작 중 '신과함께-죄와 벌'에 이어 최]]></content>
     </entry>
 </feed>
