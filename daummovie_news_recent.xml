@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-07-02T20:06:19.488Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 02 Jul 2022 21:05:54 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['마녀2' 김기해 "박훈정 감독 '소년아, 네가 하고 싶은 대로 한번 더 해보자' 말해줬다"[SS인터뷰]]]></title>
+            <link>https://v.daum.net/v/20220703060106468</link>
+            <guid>https://v.daum.net/v/20220703060106468</guid>
+            <pubDate>Sat, 02 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 황혜정기자] “액션신(scene) 한 장면에서 박훈정 감독님의 디렉팅(directing)과 내 연기가 조금 달랐다. 그래서 감독님이 디렉팅대로 조금만 더 러프(rough: 거친)하게 가자 하셨고 그렇게 오케이 사인이 났다. 그런데 감독님이 ‘소년아, 네가 하고 싶은 대로 연기를 한번 더 해보자’ 하셨다. 그 말을 들었을 때]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F03%2FSPORTSSEOUL%2F20220703060110836whne.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
