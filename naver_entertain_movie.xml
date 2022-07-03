@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-07-03T15:07:06.837Z</updated>
+    <updated>2022-07-03T16:09:22.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 ‘브로커’, 독일 뮌헨영화제 최고상 수상 [연예뉴스 HOT]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000990070</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000990070"/>
+        <updated>2022-07-03T16:08:30.488Z</updated>
+        <content type="html"><![CDATA[송강호 주연·고레에다 히로카즈 감독의 영화 ‘브로커’가 제39회 독일 뮌헨영화제에서 최고상을 수상했다. 3일(한국시간) 뮌헨영화제 홈페이지에 따르면 ‘브로커’가 영화제 최고상에 해당하는 아리 어워드(ARRI Awar]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["'탑건 2'는 특별관에 안성맞춤…완전히 다른 몰입감 선사"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013285983</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004649405"/>
         <updated>2022-07-03T05:07:43.880Z</updated>
         <content type="html"><![CDATA[마블영화 '토르: 러브 앤 썬더'가 전체 예매율 1위에 등극해 7월 극장가를 압도할 흥행 신호탄을 쏘아올렸다. 이달 6일 개봉을 앞둔 영화 '토르: 러브 앤 썬더'(감독 타이카 와이티티, 수입배급 월트디즈니컴퍼니 코]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['탑건: 매버릭', 300만 돌파…계속되는 '개싸라기 흥행']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000158634</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000158634"/>
-        <updated>2022-07-03T05:07:43.880Z</updated>
-        <content type="html"><![CDATA[3일 개봉 12일째 300만, 올해 개봉작 중 세 번째 톰 크루즈 주연 영화 '탑건: 매버릭'이 300만 관객을 돌파했다. 영화진흥위원회 영화관 입장권 통합전산망에 따르면 '탑건: 매버릭'(감독 조셉 코신스키)이 1]]></content>
     </entry>
 </feed>
