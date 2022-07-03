@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 22:05:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 23:03:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['미남당' 서인국, 박수무당 완벽 빙의]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=216662</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=216662</guid>
+            <pubDate>Sun, 03 Jul 2022 23:02:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=216662">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220704073006_3393d9f24c0688e8834ae390347ee5d2_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=216662">'미남당' 서인국, 박수무당 완벽 빙의</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%AF%B8%EB%82%A8%EB%8B%B9">월화드라마 미남당</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220704073006_3393d9f24c0688e8834ae390347ee5d2_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자본주의학교] 돈 왕창 번 NFT 계의 금손 김일동 작가?! “차 뚜껑이 없어졌어요”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=216648</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B9%BC%EA%B3%A0%ED%8C%8C">빼고파</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220703073106_6a6314c5a9d8d2fcbf7c995612c04e49.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['자본주의학교' 트롯신동 김태연, 깜찍한 고백]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=216469</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=216469</guid>
-            <pubDate>Sat, 02 Jul 2022 23:03:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=216469">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220702184658_7cd2c87f65b1561ba3d059ccedbf7936.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=216469">'자본주의학교' 트롯신동 김태연, 깜찍한 고백</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9E%90%EB%B3%B8%EC%A3%BC%EC%9D%98%20%ED%95%99%EA%B5%90">자본주의 학교</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220702184658_7cd2c87f65b1561ba3d059ccedbf7936.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
