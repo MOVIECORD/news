@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 23:04:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 00:33:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[움베르토 에코 '장미의 이름' 8부작 드라마로 만난다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=216567</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=216567</guid>
+            <pubDate>Sun, 03 Jul 2022 00:32:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=216567">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220703080842_c44396dfefc73feb6bd78f5029051758_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=216567">움베르토 에코 '장미의 이름' 8부작 드라마로 만난다</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%95%B4%EC%99%B8%EA%B1%B8%EC%9E%91%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%9E%A5%EB%AF%B8%EC%9D%98%20%EC%9D%B4%EB%A6%84">해외걸작드라마 장미의 이름</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220703080842_c44396dfefc73feb6bd78f5029051758_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[불후의 명곡 -고고 70 특집,  무대장인들의 뉴트로 무대]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=216561</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220702203924_c8310f3771188b0a65ea1254041ec98c_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[유희열의 스케치북] 이무진, 자전적인 이야기를 담은 곡 ♬ 자취방]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=216456</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=216456</guid>
-            <pubDate>Fri, 01 Jul 2022 22:03:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=216456">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220702065642_780271f1ad62250dc2235bb394493f68_1.PNG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=216456">[유희열의 스케치북] 이무진, 자전적인 이야기를 담은 곡 ♬ 자취방</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9C%A0%ED%9D%AC%EC%97%B4%EC%9D%98%20%EC%8A%A4%EC%BC%80%EC%B9%98%EB%B6%81">유희열의 스케치북</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220702065642_780271f1ad62250dc2235bb394493f68_1.PNG" length="0" type="image/PNG"/>
         </item>
     </channel>
 </rss>
