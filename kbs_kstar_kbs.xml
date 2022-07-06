@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 22:10:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 23:04:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 양세형 '이별도 리콜이 되나요?']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=217025</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=217025</guid>
+            <pubDate>Wed, 06 Jul 2022 23:03:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=217025">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220706134642_ad0464225fecd03549f3e5c89d11ff48.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=217025">[인터뷰] 양세형 '이별도 리콜이 되나요?' </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220706134642_ad0464225fecd03549f3e5c89d11ff48.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[징크스의 연인] 결국 오열하고 마는 서현과 나인우]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=217129</link>
@@ -348,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%AF%B8%EB%82%A8%EB%8B%B9">월화드라마 미남당</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220706003607_f6ac607b60a83aae43bc9c545802b30f_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[박원숙의 같이 삽시다 시즌3] 이혼 전문 변호사 신은숙 방문에 사선녀 질문 세례 “속옷이 결혼 생활에 영향을 주나요?”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=216883</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=216883</guid>
-            <pubDate>Tue, 05 Jul 2022 15:05:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=216883">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220705224305_88a8649ef6add38003ed6fb8fb0c096d_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=216883">[박원숙의 같이 삽시다 시즌3] 이혼 전문 변호사 신은숙 방문에 사선녀 질문 세례 “속옷이 결혼 생활에 영향을 주나요?”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%20%EC%8B%9C%EC%A6%8C3">박원숙의 같이 삽시다 시즌3</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220705224305_88a8649ef6add38003ed6fb8fb0c096d_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
