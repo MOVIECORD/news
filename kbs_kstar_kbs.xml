@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 04:40:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 05:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[걸어서 '다시' 세계속으로, "캐나다에서 시작합니다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=217033</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=217033</guid>
+            <pubDate>Wed, 06 Jul 2022 05:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=217033">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220706135055_c6f833dd22da13b7b4df598feaee3a2a_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=217033">걸어서 '다시' 세계속으로, "캐나다에서 시작합니다"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B1%B8%EC%96%B4%EC%84%9C%20%EC%84%B8%EA%B3%84%EC%86%8D%EC%9C%BC%EB%A1%9C">걸어서 세계속으로</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220706135055_c6f833dd22da13b7b4df598feaee3a2a_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[미남당 4회] 서인국-곽시양, 좌충우돌 점집 듀오]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=216969</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">개는 훌륭하다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220705010140_fcceddd8034044e56ef4eda2c5731b61_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[개는 훌륭하다] 이 구역 깡패견은 나다! 개훌륭 역대급 악마견 비글 ‘담비’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=216745</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=216745</guid>
-            <pubDate>Mon, 04 Jul 2022 16:08:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=216745">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220705005722_63f3e0386be6acf9a98284fda38df603_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=216745">[개는 훌륭하다] 이 구역 깡패견은 나다! 개훌륭 역대급 악마견 비글 ‘담비’</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">개는 훌륭하다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220705005722_63f3e0386be6acf9a98284fda38df603_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
