@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-07-07T20:08:22.520Z</updated>
+    <updated>2022-07-07T21:03:52.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브래드 피트, 안면인식장애 고통 토로…"아무도 날 믿지 않아"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013296986</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013296986"/>
+        <updated>2022-07-07T21:03:09.889Z</updated>
+        <content type="html"><![CDATA[정윤섭 특파원 = 미국 할리우드의 스타 배우 브래드 피트가 7일(현지시간) 안면인식 장애 증상과 관련한 심적 고통을 털어놨다. 피트는 미국 남성잡지 GQ와 인터뷰에서 사람들의 얼굴을 기억하는 데 극도로 어려움을 겪고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['대부'·'미저리' 명배우 제임스 칸 별세…향년 82세]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013296975</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004721738"/>
         <updated>2022-07-07T13:33:57.171Z</updated>
         <content type="html"><![CDATA[배우 김승수가 7일 오후 경기도 부천시 부천시청에서 열린 '제26회 부천국제판타스틱영화제(26th Bifan)' 레드카펫 행사에 참석했다. '부천국제판타스틱영화제'는 독립영화의 국제적 메카를 지향하는 판타스틱 장르]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 오지호, '모델출신의 남다른 비율' (부천국제판타스틱영화제)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004721737</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004721737"/>
-        <updated>2022-07-07T13:33:57.174Z</updated>
-        <content type="html"><![CDATA[배우 오지호가 7일 오후 경기도 부천시 부천시청에서 열린 '제26회 부천국제판타스틱영화제(26th Bifan)' 레드카펫 행사에 참석했다. '부천국제판타스틱영화제'는 독립영화의 국제적 메카를 지향하는 판타스틱 장르]]></content>
     </entry>
 </feed>
