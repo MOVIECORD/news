@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-07-09T09:05:42.444Z</updated>
+    <updated>2022-07-09T10:09:12.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['탑건 매버릭', 개봉 18일 만에 400만]]></title>
+        <id>https://entertain.v.daum.net/v/20220709182807646</id>
+        <link href="https://entertain.v.daum.net/v/20220709182807646"/>
+        <updated>2022-07-09T10:09:11.387Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김지현 기자] 영화 '탑건: 매버릭'(감독 조셉 코신스키)이 400만 관객을 돌파했다. 9일 영화진흥위원회 통합전산망에 따르면 '탑건: 매버릭'은 개봉 18일째인 이날 오전 누적관객수 400만을 기록했다. 이는 흥행 역주행의 신화를 만들며 1272만 명 관객을 동원한 '알라딘'(2019)의 개봉 19일만, '보헤미안 랩소디'(2018)의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크리스 헴스워스 '토르: 러브 앤 썬더' 개봉 4일 만에 100만 돌파]]></title>
         <id>https://entertain.v.daum.net/v/20220709163108455</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220709090009245"/>
         <updated>2022-07-09T00:30:42.967Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 박찬욱 감독이 작정하고 만든 멜로 영화 '헤어질 결심'이 '덕후 양성' 중이다. "현생이 붕괴됐다"는 관객들은, '헤어질 결심'의 명장면을 다시 보기 위해 여러 번 반복 관람하는 일명 'N차 관람'에 나서고 있다. 7월 7일 기준 CGV 분석에 따르면, 올해 개봉 1주차에 50만 관객을 돌파한 한국영화 중 2회차 이상 관람한 비중이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['토르4' 1위..'탑건2' 400만 목전]]></title>
-        <id>https://entertain.v.daum.net/v/20220709082700008</id>
-        <link href="https://entertain.v.daum.net/v/20220709082700008"/>
-        <updated>2022-07-09T00:30:42.971Z</updated>
-        <content type="html"><![CDATA[영화 '토르: 러브 앤 썬더'가 3일째 박스오피스 정상을 지켰다. 9일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 '토르: 러브 앤 썬더'는 전날 2044개 스크린에서 25만 1440명을 동원해 누적관객수 83만 1866명을 기록했다. 단연 박스오피스 1위다. 영화는 천둥의 신 토르가 킹 발키리, 코르그, 그리고 마이티 토르로 거듭난 전 여자친구]]></content>
     </entry>
 </feed>
