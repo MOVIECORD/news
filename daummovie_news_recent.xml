@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-07-10T20:06:25.602Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 10 Jul 2022 21:04:39 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["역시 마블민국"..'토르:러브 앤 썬더' 첫주말 118만명 봤다[박스오피스]]]></title>
+            <link>https://v.daum.net/v/20220711052119208</link>
+            <guid>https://v.daum.net/v/20220711052119208</guid>
+            <pubDate>Sun, 10 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '토르: 러브 앤 썬더'가 개봉 첫 주말 100만 명이 넘는 관객을 동원하며 마블 위엄을 과시했다. 7월 11일 영화진흥위원회 통합전산망 집계에 따르면 지난 주말 기간(8일~10일) 영화 '토르: 러브 앤 썬더'가 118만4,504명을 모으며 전체 박스오피스 1위를 차지했다. 지난 6일 개봉한 '토르: 러브 앤 썬더'는 이날까지 누]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F11%2Fnewsen%2F20220711052120968mqiv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
