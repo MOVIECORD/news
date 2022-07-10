@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-07-10T15:06:15.473Z</updated>
+    <updated>2022-07-10T16:10:33.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마블, ‘토르4’ 개봉 4일만에 100만 돌파 [연예뉴스 HOT]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000991534</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000991534"/>
+        <updated>2022-07-10T16:09:40.795Z</updated>
+        <content type="html"><![CDATA[마블 스튜디오의 영화 ‘토르: 러브 앤 썬더’(토르4)가 개봉 4일 만에 100만 관객을 돌파했다. 영화관입장권통합전산망에 따르면 6일 개봉과 동시에 ‘탑건: 매버릭’을 누르고 박스오피스 1위에 오른 ‘토르4’의 9]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫 영화연출 문근영 "스크린 상영만으로도 감사"(종합)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013301028</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013300479</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013300479"/>
         <updated>2022-07-10T07:03:20.988Z</updated>
-        <content type="html"><![CDATA[마블 스튜디오의 영화 '토르: 러브 앤 썬더'(토르 4)가 개봉 4일 연속 박스오피스 정상을 지켰다. 영화진흥위원회 영화관 입장권 통합전산망 집계에 따르면 영화 '토르: 러브 앤 썬더'는 지난 9일 하루 동안 51만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100만 관객 돌파한 '토르 4']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013300478</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013300478"/>
-        <updated>2022-07-10T07:03:20.989Z</updated>
         <content type="html"><![CDATA[마블 스튜디오의 영화 '토르: 러브 앤 썬더'(토르 4)가 개봉 4일 연속 박스오피스 정상을 지켰다. 영화진흥위원회 영화관 입장권 통합전산망 집계에 따르면 영화 '토르: 러브 앤 썬더'는 지난 9일 하루 동안 51만]]></content>
     </entry>
 </feed>
