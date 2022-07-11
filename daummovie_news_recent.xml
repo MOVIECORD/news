@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-07-11T16:09:40.723Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 11 Jul 2022 17:21:04 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["북으로 날아간 57억 로또"..고경표X이이경→박세완 '육사오', 8월 개봉 확정 [공식]]]></title>
+            <link>https://v.daum.net/v/20220712020008891</link>
+            <guid>https://v.daum.net/v/20220712020008891</guid>
+            <pubDate>Mon, 11 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 배우 고경표, 이이경 주연작 '육사오'가 8월 극장가에 출격한다. 영화 '육사오'(감독/각본 박규태)는 바람을 타고 군사분계선을 넘어가버린 57억 1등 로또를 둘러싼 남북 군인들간의 코믹 접선극. 8월 개봉 확정 소식을 알린 가운데, 12일 티저 포스터 2종을 공개했다. 먼저 군사분계선 위에 안착한 1등 로또를 두고 손과 발]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F12%2Fmydaily%2F20220712020008876jomc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
