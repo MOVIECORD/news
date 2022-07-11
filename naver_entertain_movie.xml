@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-07-11T19:14:39.513Z</updated>
+    <updated>2022-07-11T20:09:59.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[7월 극장가, 무더위 정조준…기대작 빅매치 [TF프리즘]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000160241</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000160241"/>
+        <updated>2022-07-11T20:09:07.480Z</updated>
+        <content type="html"><![CDATA[다양한 장르 화제작 잇따라 개봉, 예비 관객들 설렘 지수↑ 한여름 극장가 빅매치를 앞두고 영화 팬들의 눈과 귀가 쏠리고 있다. 다채로운 세계관을 기반으로 한 다양한 장르의 화제작들이 7월 극장가를 찾아올 예정이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[방호정의 컬쳐 쇼크 & 조크] <79> 박찬욱 감독 영화 ‘헤어질 결심’]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000014460</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013303179"/>
         <updated>2022-07-11T08:10:26.798Z</updated>
         <content type="html"><![CDATA[대한민국 1세대 마임이스트 유진규 주연의 예술영화 '요선'이 다음 달 22일 개막하는 모스크바 국제영화제 비경쟁 부문에 초청돼 상영된다. 요선은 지난해 제17회 제천국제음악영화제 '한국 음악영화의 오늘 한국경쟁' 부]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마임이스트 유진규 주연 영화 '요선' 모스크바 국제영화제 초청]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013303146</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013303146"/>
-        <updated>2022-07-11T08:10:26.800Z</updated>
-        <content type="html"><![CDATA[다음 달 22일 비경쟁 부문 초청 상영 예정 대한민국 1세대 마임이스트 유진규 주연의 예술영화 '요선'(감독 장권호)이 다음 달 22일 개막하는 모스크바 국제영화제 비경쟁 부문에 초청돼 상영된다. 영화 요선은 런앤건]]></content>
     </entry>
 </feed>
