@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-07-11T15:11:40.525Z</updated>
+    <updated>2022-07-11T16:09:40.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘불릿 트레인’, 예고편 공개...브래드 피트에게 주어진 임무는?]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001676198</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001676198"/>
+        <updated>2022-07-11T16:08:45.548Z</updated>
+        <content type="html"><![CDATA[영화 ‘불릿 트레인’의 예고편이 공개됐다. ‘불릿 트레인’은 미션수행을 위해 탈출이 불가능한 초고속 열차에 탑승한 언럭키 가이 '레이디버그’(브래드 피트 분)와 고스펙 킬러들의 피 튀기는 전쟁을 담은 논스톱 액션 블]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“그만 먹개(犬)!” 개 식용 종식 위해 나선 예술인들]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000824881</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001676117"/>
         <updated>2022-07-11T08:10:26.808Z</updated>
         <content type="html"><![CDATA[배우 브래드 피트가 내한할 가능성이 점쳐졌다. 영화 ‘불릿 트레인’ 측은 11일 오후 MBN스타에 “브래드 피트의 내한은 확정된 바 없고, 논의 중이다”라고 밝혔다. ‘불릿 트레인’은 미션수행을 위해 탈출이 불가능한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봉준호·연상호도 추앙한 '큐어', 25년 만에 1만 관객과 만나다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000285242</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000285242"/>
-        <updated>2022-07-11T08:10:26.810Z</updated>
-        <content type="html"><![CDATA[구로사와 기요시의 대표작 '큐어'가 개봉 5일 만에 전국 1만 관객을 돌파했다. 11일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '큐어'는 10일 전국 1,774명을 동원해 누적 관객 1만 1,442명을]]></content>
     </entry>
 </feed>
