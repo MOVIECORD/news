@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-07-13T18:12:55.878Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 13 Jul 2022 20:09:30 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[외계인과 도사가 싸운다?.. 상상력 자극하는 영화 '외계+인']]></title>
+            <link>https://v.daum.net/v/20220714041001855</link>
+            <guid>https://v.daum.net/v/20220714041001855</guid>
+            <pubDate>Wed, 13 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[21세기에 지구에 나타난 외계인과 고려시대 도사들 사이에 어떤 연관성이 있는 걸까. 영화 ‘외계+인’ 1부는 이런 호기심으로 시작한다. 언뜻 이상한 조합처럼 보이지만 그 ‘이상함’ 때문에 이야기 속으로 빠져들어 간다. 2부작으로 제작된 ‘외계+인’의 1부는 고려 말 소문 속의 신검을 차지하려는 도사들과 2022년 인간의 몸속에 갇힌 외계인 죄수를 쫓는 이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F14%2Fkukminilbo%2F20220714041003054xkpe.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
