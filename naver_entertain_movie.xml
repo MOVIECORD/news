@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-07-13T17:17:06.366Z</updated>
+    <updated>2022-07-13T18:12:55.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이원 기자의 Ent 프리즘] ‘속편 영화 전성시대’의 명암]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000014701</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000014701"/>
+        <updated>2022-07-13T18:12:05.989Z</updated>
+        <content type="html"><![CDATA[영화계에는 ‘1편보다 나은 속편 없다’는 속설이 있다. 속편은 전편을 뛰어넘어야 한다는 부담감과 욕심 때문에, 혹은 반대로 전편의 후광만 기대하기 때문에 대체로 혹평을 받는 경우가 많았기 때문이다. 하지만 그 말도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배우 이상희·우지현 정동진독립영화제 개막식 사회 맡아]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=654&amp;aid=0000014891</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004656648"/>
         <updated>2022-07-13T11:05:43.846Z</updated>
         <content type="html"><![CDATA[제75회 칸 국제영화제 감독상 수상작이자 개봉 직후 뜨거운 입소문을 이어가고 있는 '헤어질 결심'이 13일(수) 100만 관객을 돌파했다.[감독: 박찬욱 | 출연: 탕웨이, 박해일 | 제작: 모호필름 | 제공/배급:]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['외계+인' 김태리 "액션 연기, 완급조절에 고통받았다" [MD동영상]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003624498</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003624498"/>
-        <updated>2022-07-13T11:05:43.847Z</updated>
-        <content type="html"><![CDATA[13일 오후 서울 용산구 CGV용산아이파크몰에서 진행된 영화 '외계+인' 1부의 언론배급 시사회 및 기자간담회에 참석한 배우 김태리가 액션 연기를 한 소감을 밝혔다. '외계+인' 1부는 고려 말 소문 속의 신검을 차]]></content>
     </entry>
 </feed>
