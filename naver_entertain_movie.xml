@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-07-14T14:15:09.891Z</updated>
+    <updated>2022-07-14T15:05:24.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘공포·액션·화려' 찜통더위 날려줄 ‘스크린의 유혹']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000912696</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000912696"/>
+        <updated>2022-07-14T15:04:33.313Z</updated>
+        <content type="html"><![CDATA[찜통더위가 이어지는 가운데 극장가에는 무더위를 날릴 영화들이 대거 등장했다. 인간의 두려움을 자극하며 소름을 돋게 하는 영화 두 편 ‘뒤틀린 집’, ‘멘’과 액션으로 시원함을 선사하는 ‘더 킬러:죽어도 되는 아이’,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['놉' 8월17일 개봉..'겟 아웃'·'어스' 조던 필 감독 "셋째도 잘 키워주세요"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003573456</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000161211"/>
         <updated>2022-07-14T10:13:11.210Z</updated>
         <content type="html"><![CDATA[2022년 전 세계를 강타한 최고 흥행작 '탑건: 매버릭'(수입/배급: 롯데엔터테인먼트)이 영진위 통합전산망 7월 14일(목) 개봉 23일째 오후 3시 30분, 500만 관객을 돌파했다. 2일 연속 흥행 역주행으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[빅픽처] 불안은 영혼을 잠식한다…'큐어'가 깨운 인간의 악마성]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000285387</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000285387"/>
-        <updated>2022-07-14T09:05:15.798Z</updated>
-        <content type="html"><![CDATA[불안은 영혼을 잠식하고, 공포는 고통을 초래한다. 25년 전 만들어진 한 편의 영화에 현대인의 아픈 자화상이 그려져 있다. 구로사와 기요시 감독의 '큐어'(1997)는 인간 내면에 자리한 근원적 불안과 공포를 건드린]]></content>
     </entry>
 </feed>
