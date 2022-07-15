@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-07-15T09:06:45.681Z</updated>
+    <updated>2022-07-15T10:06:20.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["한국에 없던 영화"…'외계+인' 최동훈 감독, 1부와 2부 나눈 기준[인터뷰 종합]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004658342</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004658342"/>
+        <updated>2022-07-15T10:05:28.637Z</updated>
+        <content type="html"><![CDATA[외계행성의 죄수들을 관리하는 가드(김우빈 분)는 지구에서 인간처럼 살아가며, 우주에서 온 죄수들을 사람들의 몸속에 가둔다. 인간의 속에 파묻혀 다른 데로 움직이지 못하도록 묶어놓고 신체의 노화로 인한 자연발생적 죽음]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["다녀오겠습니다"…신카이 마코토 '스즈메의 문단속', 예고편 공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006220753</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000992583"/>
         <updated>2022-07-15T07:07:30.819Z</updated>
         <content type="html"><![CDATA[배우 류준열이 영화 ‘외계+인’을 통해 그토록 함께 작품 하길 바랐던 최동훈 감독과 만났다. 그동안 다른 영화에서 볼 수 없었던 캐릭터로 특별한 도전에 나선 류준열의 연기 변신이 관객들에게 어떤 평가를 받을지 기대를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘비스X지드래곤, 시대 뒤흔든 아이콘 만났다..깜짝 컬래버 예고]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003070987</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003070987"/>
-        <updated>2022-07-15T07:07:30.819Z</updated>
-        <content type="html"><![CDATA[그룹 빅뱅의 지드래곤(GD)이 '엘비스'의 바즈 루어만 감독과의 컬래버 소식을 전했다. 영화 '엘비스'의 개봉과 동시에 바즈 루어만 감독과 지드래곤이 협업 소식을 전해 눈길을 끈다. '엘비스'는 트럭을 몰던 무명가수]]></content>
     </entry>
 </feed>
