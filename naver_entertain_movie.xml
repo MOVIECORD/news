@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-07-16T21:06:18.455Z</updated>
+    <updated>2022-07-16T22:05:54.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부산 영화의전당서 '아랍 영화' 만나다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011308836</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011308836"/>
+        <updated>2022-07-16T22:05:00.855Z</updated>
+        <content type="html"><![CDATA[부산 영화의전당은 오는 19일부터 24일까지 국내 유일의 아랍 중심 영화제인 ‘제11회 아랍영화제’를 개최한다고 17일 밝혔다. 이번 영화제에서는 아랍 22개국의 대표작 중 레바논, 이집트, 튀니지 등 아랍 4개국의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여름 흥행 대결은 지금부터…韓 영화 빅4 출격 [N초점]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006222035</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013314941"/>
         <updated>2022-07-16T02:57:08.222Z</updated>
         <content type="html"><![CDATA[여름방학 앞두고 애니메이션 잇따라 개봉 명탐정 코난이 '액션 장인' 장혁과 '로큰롤 황제' 엘비스 프레슬리를 제쳤다. 애니메이션 '명탐정 코난: 할로윈의 신부'가 이번 주 개봉한 영화 10여 편 가운데 관객수 1위를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘빠순이’라 불린 감독들이 말하는 나의 덕질, 우리의 영화]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000047952</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000047952"/>
-        <updated>2022-07-16T02:57:08.232Z</updated>
-        <content type="html"><![CDATA[장르와 대상을 초월해 팬이라는 정체성을 가진 이들이 잊을 만하면 되새기는 현상. 좋아하는 상대에게 한 발짝 다가갈 수 있는 기회가 애먼 ‘머글’들에게 가고, 정작 덕후들은 멀리서 속 끓이고 마는 처지를 일컫는 말.]]></content>
     </entry>
 </feed>
