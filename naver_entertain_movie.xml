@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-07-16T09:07:03.806Z</updated>
+    <updated>2022-07-16T10:05:13.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미니언즈2' 감독 " 70년대에 헌정하는 연애편지"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004659006</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004659006"/>
+        <updated>2022-07-16T10:04:22.328Z</updated>
+        <content type="html"><![CDATA[애니메이션 영화 '미니언즈2'가 스페셜 뉴트로 스틸을 공개하며 미니언들이 선사할 색다른 비주얼에 대한 기대를 높이고 있다. 이번에 공개된 스페셜 뉴트로 스틸은 7080년대의 빈티지한 감성을 그려내 시선을 사로잡는다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['엘비스' 감독, GD와 초특급 컬래버]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004658982</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003071178"/>
         <updated>2022-07-16T02:57:08.236Z</updated>
         <content type="html"><![CDATA[○...넷플릭스 오리지널 한국 시리즈 '오징어 게임'이 미국 에미상 작품상 등 14개 후보로 오르는 등 새 역사를 썼다. 지난 13일 프라임타임 에미상(이하 에미상) 측은 미국 NBC 방송을 통해 올해 에미상 후보를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어머머! 현영, 17년만에 배우로 온다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000825830</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000825830"/>
-        <updated>2022-07-16T02:57:08.247Z</updated>
-        <content type="html"><![CDATA[현영이 17년 만에 배우로 돌아온다. 현영의 복귀작은 장애인 소재의 따뜻하고 애틋한 로맨스 영화 ‘짜장면 고맙습니다’이다. 현영은 15일 단편영화 제작사 라이트픽처스와 만나 충분한 논의 끝에 출연을 결정했다. 현영]]></content>
     </entry>
 </feed>
