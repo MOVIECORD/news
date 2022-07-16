@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-07-16T17:08:09.011Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 16 Jul 2022 18:10:24 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박은빈 "26년 연기 지속한 힘? 내 마음 속 이야기에 귀기울여" [인터뷰]]]></title>
+            <link>https://v.daum.net/v/20220717023224127</link>
+            <guid>https://v.daum.net/v/20220717023224127</guid>
+            <pubDate>Sat, 16 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 모신정 기자]&nbsp;인터뷰 내내 웃음이 터져 나오기란 좀처럼 쉽지 않은 일인데 '마녀2' 박은빈의 인터뷰 현장에서는 웃음이 끊이질 않았다. 발성 좋은 목소리 톤과 또박또박 정확한 단어를 구사하려는 모습, 듣기 좋은 대답을 들려주기 보다는 20여년이 넘는 업력으로 쌓은 배우로서의 철학과 가치관을 하나씩 풀어내는 모습도 인상적이다.&nbsp; '마녀 P]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F17%2FSpoHankook%2F20220717023228259djna.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
