@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-07-16T22:05:54.933Z</updated>
+    <updated>2022-07-16T23:05:19.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[EN:터뷰]韓 '종이의 집' 궁금증, 호불호…류용재 작가가 답하다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003664936</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003664936"/>
+        <updated>2022-07-16T23:04:26.735Z</updated>
+        <content type="html"><![CDATA[전 세계적인 사랑과 지지 속에 지난 2021년 12월 파트 5로 대장정을 마친 스페인 넷플릭스 시리즈 '종이의 집'이 한국판으로 다시 태어났다. 내전의 아픔을 지닌 스페인과 유사한 근현대사를 겪은 한반도를 배경으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부산 영화의전당서 '아랍 영화' 만나다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011308836</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003071189"/>
         <updated>2022-07-16T02:57:08.222Z</updated>
         <content type="html"><![CDATA[영화를 보는 김나연 기자의 사적인 시선 완벽한 신스틸러다. 영화 '외계+인' 1부만의 독보적인 세계관 속 본 적 없는 비주얼로 등장한 배우 염정아와 조우진은 신선처럼 '도가 트인' 연기를 보여준다. 재치있는 입담에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장혁·엘비스 제친 '명탐정 코난'…인기 애니 출격 채비]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013314941</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013314941"/>
-        <updated>2022-07-16T02:57:08.222Z</updated>
-        <content type="html"><![CDATA[여름방학 앞두고 애니메이션 잇따라 개봉 명탐정 코난이 '액션 장인' 장혁과 '로큰롤 황제' 엘비스 프레슬리를 제쳤다. 애니메이션 '명탐정 코난: 할로윈의 신부'가 이번 주 개봉한 영화 10여 편 가운데 관객수 1위를]]></content>
     </entry>
 </feed>
