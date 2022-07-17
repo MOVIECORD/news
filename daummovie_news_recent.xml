@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-07-17T21:05:26.470Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 17 Jul 2022 22:06:40 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['외계+인' = 0 [마데핫리뷰]]]></title>
+            <link>https://v.daum.net/v/20220718070008824</link>
+            <guid>https://v.daum.net/v/20220718070008824</guid>
+            <pubDate>Sun, 17 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 믿고 보는 최동훈 감독 연출에 대세 배우 류준열, 김우빈, 김태리 등 막강한 라인업이 더해졌음에도 결과물은 영 신통치 않다. 올여름 최고 기대작으로 손꼽혔으나, 알맹이 없는 '외계+인' 1부다. '외계+인'(감독/각본 최동훈) 1부는 고려 말 소문 속의 신검을 차지하려는 도사들과 2022년 인간의 몸 속에 수감된 외계인 죄수]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F18%2Fmydaily%2F20220718070008663svon.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[20일 개봉..'흥행 대전' 포문 여는 최동훈 감독 '외계+인']]></title>
+            <link>https://v.daum.net/v/20220718063019584</link>
+            <guid>https://v.daum.net/v/20220718063019584</guid>
+            <pubDate>Sun, 17 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘1000만 감독’도 흥행에 부담을 느낀다. 최동훈 감독은 ‘호불호’가 나뉜 새 영화에 대해 “관객들의 눈”을 믿는다. 사진제공｜케이퍼필름 최동훈(51) 감독과 배우 류준열(36)이 영화 ‘외계+인’(제작 케이퍼필름)으로 여름 극장가를 겨냥한 ‘흥행 대전’의 포문을 연다. 1·2부 동시 제작돼 20일 1부를 먼저 선보이는 영화는 ‘암살’ ‘도둑들’로 ‘쌍]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F18%2Fsportsdonga%2F20220718063020926awlj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
