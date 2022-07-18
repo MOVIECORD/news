@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 21:05:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 22:08:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['당신이 소원을 말하면' 원지안, 흑조 같은 여자 ‘하준경’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=219088</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=219088</guid>
+            <pubDate>Mon, 18 Jul 2022 22:07:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=219088">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220718201936_b29d9ea133a43aeb27e669f21ec4207e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=219088">'당신이 소원을 말하면' 원지안, 흑조 같은 여자 ‘하준경’</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8B%B9%EC%8B%A0%EC%9D%B4%20%EC%86%8C%EC%9B%90%EC%9D%84%20%EB%A7%90%ED%95%98%EB%A9%B4">수목드라마 당신이 소원을 말하면</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220718201936_b29d9ea133a43aeb27e669f21ec4207e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[개는 훌륭하다] “보호자 욕심 의한 셀럽독 생활 그만둬야” 촌철살인 강형욱 조언에 당황하는 보호자]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=219156</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9E%90%EB%B3%B8%EC%A3%BC%EC%9D%98%20%ED%95%99%EA%B5%90">자본주의 학교</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220718000153_a57f6023273452ffb45b07a5e6789106.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[자본주의학교] 강재준, 음식점 창업 재도전...아내 이은형에 허락구하기 결과는]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=218922</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=218922</guid>
-            <pubDate>Sun, 17 Jul 2022 15:03:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=218922">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220717235725_bae1ea1c4e7f08e9a1016ad2bc8cab1d_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=218922">[자본주의학교] 강재준, 음식점 창업 재도전...아내 이은형에 허락구하기 결과는 </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9E%90%EB%B3%B8%EC%A3%BC%EC%9D%98%20%ED%95%99%EA%B5%90">자본주의 학교</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220717235725_bae1ea1c4e7f08e9a1016ad2bc8cab1d_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
