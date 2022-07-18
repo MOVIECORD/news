@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-07-18T09:07:29.991Z</updated>
+    <updated>2022-07-18T10:07:30.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['외계+인' 사고치나? '명량' 뛰어넘은 압도적 예매율 1위 [공식]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004660162</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004660162"/>
+        <updated>2022-07-18T10:06:38.441Z</updated>
+        <content type="html"><![CDATA[영화 '외계+인'(각본감독 최동훈, 제공배급 CJ ENM, 제작 케이퍼필름) 1부가 개봉 2일 전인 오늘(18일) 전체 예매율 1위 자리를 지키며 강력한 흥행세를 예고하고 있다. 올여름 역대급 액션 블록버스터의 탄생]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['블랙의 신부' 김희선 "나라면 머리채 잡았다" 솔직한 매력 [인터뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003071683</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000603843"/>
         <updated>2022-07-18T08:11:31.523Z</updated>
         <content type="html"><![CDATA[‘해운대’ ‘국제시장’의 윤제균 감독이 CJ ENM 산하 ‘콘텐츠 삼대장’가운데 하나인 CJ ENM 스튜디오스 새 수장으로 취임했다. 이로서 지난 4월 출발한 CJ ENM 스튜디오스(CJ ENM STUDIOS)는 윤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비상선언' 169개국 선판매[공식]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005270972</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005270972"/>
-        <updated>2022-07-18T08:11:31.523Z</updated>
-        <content type="html"><![CDATA[영화 ‘비상선언’이 전 세계 169개국 선판매됐다. 투자배급사 쇼박스는 18일 “‘비상선언’(감독 한재림, 제작 매그넘9)이 개봉 전 미국, 캐나다, 싱가폴, 홍콩, 호주 등을 포함해 169개국에 선판매됐다”고 밝혔]]></content>
     </entry>
 </feed>
