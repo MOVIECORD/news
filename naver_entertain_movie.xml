@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-07-18T18:09:24.311Z</updated>
+    <updated>2022-07-18T19:06:30.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['록키' 실베스터 스탤론 "조금이라도 내 영화 저작권 돌려달라"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013319194</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013319194"/>
+        <updated>2022-07-18T19:05:35.387Z</updated>
+        <content type="html"><![CDATA[소유권 독점한 제작자 비판…사악한 뱀으로 묘사한 그림 올려 정윤섭 특파원 = 영화 '록키'의 주연 배우 실베스터 스탤론(76)이 이 영화에 대한 자신의 저작권을 요구하고 나섰다. 스탤론은 18일(현지시간) 인스타그램]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제3세계 영화의 물결…검은 대륙에 빠지다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000015113</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006225512"/>
         <updated>2022-07-18T14:15:58.437Z</updated>
         <content type="html"><![CDATA[배우김수현이 18일 오후 서울 용산CGV에서 열린 영화 ‘외계+인’ 1부 VIP 시사회에서 포즈를 취하고 있다. ‘외계+인’(감독 최동훈) 1부는 고려 말 소문 속의 신검을 차지하려는 도사들과 2022년 인간의 몸속]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차학연, 오랜만이죠?]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006225511</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006225511"/>
-        <updated>2022-07-18T14:15:58.440Z</updated>
-        <content type="html"><![CDATA[배우 차학연(빅스 엔)이 18일 오후 서울 용산CGV에서 열린 영화 ‘외계+인’ 1부 VIP 시사회에서 포즈를 취하고 있다. ‘외계+인’(감독 최동훈) 1부는 고려 말 소문 속의 신검을 차지하려는 도사들과 2022년]]></content>
     </entry>
 </feed>
