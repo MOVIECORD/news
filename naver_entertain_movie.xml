@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-07-19T12:14:51.913Z</updated>
+    <updated>2022-07-19T13:34:33.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에스에이엠지엔터테인먼트(SAMG), LG유플러스와 캐릭터 IP 사업 공동 추진]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000826413</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000826413"/>
+        <updated>2022-07-19T13:33:42.322Z</updated>
+        <content type="html"><![CDATA[에스에이엠지엔터테인먼트(대표 김수훈, 이하 SAMG)가 LG 유플러스(대표 황현식)와 함께 ‘키즈 캐릭터 IP 사업’을 공동으로 추진한다고 19일 밝혔다. 이를 위해 SAMG는 LG 유플러스로부터 전략적 투자를 유치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘핑크퐁 아기상어’부터 ‘벨리곰’, ‘로티·로티’까지 NFT에 올라타는 IP들]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000826410</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000866696"/>
         <updated>2022-07-19T11:06:23.339Z</updated>
         <content type="html"><![CDATA[김성균이 19일 서울 잠실 롯데시네마 월드타워에서 열린 ‘한산: 용의 출현’ 시사회에서 포토타임을 갖고 있다. 영화 ‘한산: 용의 출현’는 명량해전 5년 전, 진군 중인 왜군을 상대로 조선을 지키기 위해 필사의 전략]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 김향기 '청순 미소']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000866694</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000866694"/>
-        <updated>2022-07-19T11:06:23.339Z</updated>
-        <content type="html"><![CDATA[김향기가 19일 서울 잠실 롯데시네마 월드타워에서 열린 ‘한산: 용의 출현’ 시사회에서 포토타임을 갖고 있다. 영화 ‘한산: 용의 출현’는 명량해전 5년 전, 진군 중인 왜군을 상대로 조선을 지키기 위해 필사의 전략]]></content>
     </entry>
 </feed>
