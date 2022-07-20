@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-07-20T17:20:52.356Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 20 Jul 2022 18:10:59 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[돌아온 미니언즈-뽀로로.. 어린이 관객 '극장 복귀' 유혹하는 여름]]></title>
+            <link>https://v.daum.net/v/20220721030315161</link>
+            <guid>https://v.daum.net/v/20220721030315161</guid>
+            <pubDate>Wed, 20 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[여름방학 극장가에 애니메이션 영화가 쏟아지고 있다. 이 영화들은 매주 한 편 이상 개봉하며 어린이들이 극장을 찾게 하는 데 큰 역할을 할 것으로 기대된다. 어린이 관객의 복귀는 극장가가 예년의 영광을 되찾는 마지막 관문으로 해석된다. 첫 테이프를 끊은 작품은 ‘미니언즈2’. 20일 개봉한 이 영화는 전날까지 사전 예매 관객 수 15만 명을 넘어서며 같]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F21%2Fdonga%2F20220721030317131axxl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
