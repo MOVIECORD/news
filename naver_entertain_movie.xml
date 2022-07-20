@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-07-20T15:08:36.955Z</updated>
+    <updated>2022-07-20T16:10:47.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘탑건: 매버릭’, 올 개봉 외화 중 최고흥행작 [연예뉴스 HOT]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000993829</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000993829"/>
+        <updated>2022-07-20T16:10:02.442Z</updated>
+        <content type="html"><![CDATA[영화 ‘탑건: 매버릭’이 올해 국내에서 개봉한 외국영화 가운데 최고 흥행작이 됐다. 20일 영화관입장권통합전산망에 따르면 ‘탑건: 매버릭’은 전날 10만여 명의 관객을 모아 누적관객수 529만 7000여명을 넘겼다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[26일 강릉서 영화 ‘한산:용의출현’ 시사회]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000913538</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004661419"/>
         <updated>2022-07-20T09:05:10.997Z</updated>
         <content type="html"><![CDATA[영화 '한산: 용의 출현'이 언론시사회를 시작으로 관객 시사회를 진행하며 폭발적인 찬사를 얻고 있다. '한산: 용의 출현'(감독 김한민, 배급 롯데엔터테인먼트, 제작 빅스톤픽처스)은 명량해전 5년 전 진군 중인 왜군]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[리뷰IS] 역사가 스포라지만…‘국뽕’ 그 이상의 벅차오름 ‘한산: 용의 출현’]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003221535</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003221535"/>
-        <updated>2022-07-20T09:05:10.999Z</updated>
-        <content type="html"><![CDATA[역사가 스포라는 점을 감안하더라도 매력적이다. ‘한산: 용의 출현’이 1592년 한산대첩 짜릿한 승리의 쾌감을 스크린으로 생생하게 전한다. 영화 ‘한산: 용의 출현’(‘한산’)은 명량해전 5년 전, 진군 중인 왜군을]]></content>
     </entry>
 </feed>
