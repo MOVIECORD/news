@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-07-21T15:12:56.312Z</updated>
+    <updated>2022-07-21T16:11:15.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[상반기 영화 매출액, 코로나 이전 절반까지 회복]]></title>
+        <id>https://entertain.v.daum.net/v/20220722003009783</id>
+        <link href="https://entertain.v.daum.net/v/20220722003009783"/>
+        <updated>2022-07-21T16:11:15.276Z</updated>
+        <content type="html"><![CDATA[CGV 용산. 동아닷컴DB 올해 상반기 영화 매출액이 신종 코로나바이러스 감염증(코로나19) 발생 이전의 절반 수준까지 회복된 것으로 나타났다. 21일 영화진흥위원회가 발표한 ‘2022년 상반기 한국영화산업 결산’에 따르면 상반기 영화관 전체 매출액은 4529억 원으로 지난해보다 143.1%(2666억 원) 증가했다. 감염병 사태 이전인 2019년 상반기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[살인 사건 파헤치는 '정글 누아르']]></title>
         <id>https://entertain.v.daum.net/v/20220722000706624</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220721171005740"/>
         <updated>2022-07-21T08:12:03.341Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 박해일이 '한산: 용의 출현'에서 함께 호흡을 맞춘 안성기, 손현주에 대한 감사와 존경의 마음을 전했다. 박해일은 21일 오후 서울 종로구 소격동의 한 카페에서 열린 영화 '한산: 용의 출현'(감독 김한민) 인터뷰에서 영화와 함께 다양한 이야기를 전했다. '한산: 용의 출현'에서 이순신 역을 연기한 박해일은 이날 조선 남해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 이순신 그린 박해일 "전형적이지 않은 인물 연기, 때를 잘 만난 것"]]></title>
-        <id>https://entertain.v.daum.net/v/20220721170446532</id>
-        <link href="https://entertain.v.daum.net/v/20220721170446532"/>
-        <updated>2022-07-21T08:12:03.345Z</updated>
-        <content type="html"><![CDATA[오는 27일 개봉을 앞둔 영화 ‘한산:용의 출현’에서 전라 좌수사 이순신은 용장(勇將)보다는 지장(智將)으로서 조용한 카리스마를 내뿜는다. 포효하지 않고, 성내지 않으며 드러날 듯 말 듯 존재감을 증명한다. 홀로 생각에 잠긴 모습, 잠 못 이루는 얼굴이 강조된다. 21일 오전 서울 종로구 한 카페에서 영화 속 이순신을 연기한 배우 박해일을 만났다. 박해일]]></content>
     </entry>
 </feed>
