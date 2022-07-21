@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 12:11:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 13:36:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서현, 김보연과의 애절한 상봉]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=219763</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=219763</guid>
+            <pubDate>Thu, 21 Jul 2022 13:35:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=219763">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220721212626_489841003953e420435b908d45080758.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=219763">서현, 김보연과의 애절한 상봉</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%95%ED%81%AC%EC%8A%A4%EC%9D%98%20%EC%97%B0%EC%9D%B8">수목드라마 징크스의 연인</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220721212626_489841003953e420435b908d45080758.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[제작발표회] 동전으로 정해지는 홍진경-김숙-조세호-주우재-우영의 운명, '홍김동전' (종합)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=219746</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%AF%B8%EB%82%A8%EB%8B%B9">월화드라마 미남당</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220719235746_db9396628cc6a4ef8f5c896dc8282994_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[미남당] 짜고 치는 오디션으로 백승익 손목 흉터 확인하려는 서인국과 오연서]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=219316</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=219316</guid>
-            <pubDate>Tue, 19 Jul 2022 16:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=219316">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220719235252_3c21fa97c28c6b6da1428ce7dc31c4b6.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=219316">[미남당] 짜고 치는 오디션으로 백승익 손목 흉터 확인하려는 서인국과 오연서</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%AF%B8%EB%82%A8%EB%8B%B9">월화드라마 미남당</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220719235252_3c21fa97c28c6b6da1428ce7dc31c4b6.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
