@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-07-22T20:07:36.089Z</updated>
+    <updated>2022-07-22T21:06:40.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주말의 OTT]라이언 고슬링, 최고의 암살 요원]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011321734</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011321734"/>
+        <updated>2022-07-22T21:05:42.588Z</updated>
+        <content type="html"><![CDATA[7월 5주차 넷플릭스·왓챠·디즈니+ 신작을 정리했다. 그레이맨(넷플릭스) '어벤져스' 시리즈를 연출한 루소 형제와 넷플릭스가 만났다. 넷플릭스 영화 '그레이맨'은 그 누구도 실체를 몰라 그레이맨으로 불리는 CIA 암]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['외계+인' 류준열·김우빈→염정아·조우진…'노잼' 조합은 아니지(종합)[Oh!쎈 이슈]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004663210</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001479179"/>
         <updated>2022-07-22T08:11:41.137Z</updated>
         <content type="html"><![CDATA[영화 '비상선언'(감독 한재림)이 벌써부터 뜨거운 기대를 모으며, 2022년 극장가의 항공 영화들의 흥행 릴레이를 예고한다. 2022년 극장가에 항공을 소재로 한 영화들이 흥행 키워드로 등극했다. '탑건: 매버릭'과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팝인터뷰]류준열 "톰 크루즈와 만남 설레..앤드류 가필드 날 먼저 알아봤다"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003575479</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003575479"/>
-        <updated>2022-07-22T08:11:41.139Z</updated>
-        <content type="html"><![CDATA[배우 류준열이 톰 크루즈, 앤드류 가필드, 톰 히들스턴과의 만남 후일담을 공개했다. 류준열은 '2022 윔블던 테니스 대회' 행사에 초청 받아 영국에 다녀온 가운데 이번 행사에서 톰 크루즈, 앤드류 가필드, 톰 히들]]></content>
     </entry>
 </feed>

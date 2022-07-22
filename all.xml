@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 20:07:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 21:06:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220714090320_8a7099ed56a8061c9ce990ce7ad0f116.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[유희열의 스케치북] 첫 방송부터 지난 시간을 되돌아볼 수 있는 시간 ‘600회 특집’ (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=220085</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=220085</guid>
+            <pubDate>Fri, 22 Jul 2022 21:05:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=220085">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220723055133_a5e7b95e8f58976cb98464a214202299_1.PNG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=220085">[유희열의 스케치북] 첫 방송부터 지난 시간을 되돌아볼 수 있는 시간 ‘600회 특집’</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9C%A0%ED%9D%AC%EC%97%B4%EC%9D%98%20%EC%8A%A4%EC%BC%80%EC%B9%98%EB%B6%81">유희열의 스케치북</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220723055133_a5e7b95e8f58976cb98464a214202299_1.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
             <title><![CDATA[[슈퍼맨이 돌아왔다] 똥별이를 위한 천기저귀 100장 손수 만드는 제이쓴 아빠! (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=220081</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=220081</guid>
@@ -1029,24 +1047,6 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220722020436_48662adb8c15e07221ef1f87fa9187e5_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[연중 라이브] 래퍼 윤병호, 마약 혐의 구속 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=219804</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=219804</guid>
-            <pubDate>Thu, 21 Jul 2022 18:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=219804">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220722020035_2c84c61f07be4862f84ff8d124bc760e_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=219804"> [연중 라이브] 래퍼 윤병호, 마약 혐의 구속</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%97%B0%EC%A4%91%20%EB%9D%BC%EC%9D%B4%EB%B8%8C">연중 라이브</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220722020035_2c84c61f07be4862f84ff8d124bc760e_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['뜨거운 피' '좋댓구' 제 21회 뉴욕아시안영화제 공식 초청 겹 경사! (MBC 연예 ─ 영화)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/353632</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/353632</guid>
@@ -1109,6 +1109,13 @@
             <pubDate>Mon, 30 May 2022 14:10:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/344786" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/20/85b35243-fcf1-4a33-afac-6950fa0db3e9.jpg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">'앵커' 정지연 감독 "아이 대신 <font color="red">영화</font>를 낳았다." [인터뷰M]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/04/20/85b35243-fcf1-4a33-afac-6950fa0db3e9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주말의 OTT]라이언 고슬링, 최고의 암살 요원 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011321734</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011321734</guid>
+            <pubDate>Fri, 22 Jul 2022 21:05:42 GMT</pubDate>
+            <content:encoded><![CDATA[7월 5주차 넷플릭스·왓챠·디즈니+ 신작을 정리했다. 그레이맨(넷플릭스) '어벤져스' 시리즈를 연출한 루소 형제와 넷플릭스가 만났다. 넷플릭스 영화 '그레이맨'은 그 누구도 실체를 몰라 그레이맨으로 불리는 CIA 암]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['외계+인' 류준열·김우빈→염정아·조우진…'노잼' 조합은 아니지(종합)[Oh!쎈 이슈] (네이버TV연예 ─ 영화)]]></title>
@@ -1279,186 +1286,200 @@
             <content:encoded><![CDATA[영화 '비상선언'(감독 한재림)이 벌써부터 뜨거운 기대를 모으며, 2022년 극장가의 항공 영화들의 흥행 릴레이를 예고한다. 2022년 극장가에 항공을 소재로 한 영화들이 흥행 키워드로 등극했다. '탑건: 매버릭'과]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[팝인터뷰]류준열 "톰 크루즈와 만남 설레..앤드류 가필드 날 먼저 알아봤다" (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003575479</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003575479</guid>
-            <pubDate>Fri, 22 Jul 2022 08:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[배우 류준열이 톰 크루즈, 앤드류 가필드, 톰 히들스턴과의 만남 후일담을 공개했다. 류준열은 '2022 윔블던 테니스 대회' 행사에 초청 받아 영국에 다녀온 가운데 이번 행사에서 톰 크루즈, 앤드류 가필드, 톰 히들]]></content:encoded>
+            <title><![CDATA[[TV엿보기] '놀면 뭐하니?' WSG워너비, '쇼! 음악중심' 데뷔 비하인드 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=119&amp;aid=0002623626</link>
+            <guid>https://entertain.naver.com/now/read?oid=119&amp;aid=0002623626</guid>
+            <pubDate>Fri, 22 Jul 2022 21:05:52 GMT</pubDate>
+            <content:encoded><![CDATA['놀면 뭐하니?'에서 WSG워너비가 첫 음악 방송 스케줄을 소화하는 모습이 포착된다. 23일 방송되는 MBC 예능프로그램 '놀면 뭐하니?'에서는 지난주 화제를 모았던 WSG워너비 가야G(이보람, 소연, HYNN(박혜]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['돌싱글즈3' 데이트 대참사에 MC들 촬영 거부…"수습불가" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011321727</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011321727</guid>
-            <pubDate>Fri, 22 Jul 2022 20:06:52 GMT</pubDate>
-            <content:encoded><![CDATA[장인영 인턴 기자 = '돌싱글즈3' 유세윤, 정겨운이 돌싱남녀의 '데이트 대참사' 현장에 경악을 금치 못한다. 오는 24일 오후 10시 방송되는 MBN·ENA '돌싱글즈3' 5회에서는 합숙 넷째 날 펼쳐진 돌싱남녀]]></content:encoded>
+            <title><![CDATA[미슐랭푸어, "2년간 7000만 원 소비...2시간의 종합 예술작품 그 자체"('푸어라이크') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000559943</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000559943</guid>
+            <pubDate>Fri, 22 Jul 2022 21:05:52 GMT</pubDate>
+            <content:encoded><![CDATA[2년간 파인다이닝에 7000만 원을 쓴 미슐랭푸어가 눈길을 끌었다. 22일 오후 방송된 채널A ‘푸어라이크’에서는 미슐랭에 등재된 파인다이닝 식당만을 즐기는 미슐랭푸어가 출연했다. 이날 세종시 공무원이라고 밝힌 미슐]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이유리, 왕보샤→칵테일까지…새벽 3시에도 연습 열정 [RE:TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006235678</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006235678</guid>
-            <pubDate>Fri, 22 Jul 2022 20:06:52 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이유리가 대용량 멘보샤, 화려한 칵테일 쇼 기술을 선보이며 열정을 폭발했다. 지난 22일 오후에 방송된 KBS2 예능프로그램 '신상출시 편스토랑'(이하 '편스토랑')에서는 '바캉스 메뉴'를 주제로 메인 메뉴와]]></content:encoded>
+            <title><![CDATA[박나래, 차서원 낭만포차 든든한 지원군X찜통부엌에서 고군분투('나혼산') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000559942</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000559942</guid>
+            <pubDate>Fri, 22 Jul 2022 21:05:52 GMT</pubDate>
+            <content:encoded><![CDATA['나 혼자 산다' 박나래가 차서원의 찜통부엌에서 고군분투했다. 22일 오후 방송된 MBC 예능프로그램 '나 혼자 산다'에서는 박나래가 무지개 회원을 옥상 포장마차에 초대하려는 차서원 돕기에 나섰다. 이날 박나래는 차]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김학래 "당뇨 17년차…술 끊고 굉장한 노력, 쉽지 않아" (건강한 참견) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001479410</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001479410</guid>
-            <pubDate>Fri, 22 Jul 2022 19:04:08 GMT</pubDate>
-            <content:encoded><![CDATA[개그맨 김학래가 당뇨 17년차임을 밝혔다. 22일 방송된 TV조선 '건강한 참견'에는 개그맨 김학래가 출연했다. 이날 방송에서 김학래는 건강 고민에 대해 당뇨를 언급했다. 김학래는 "세월이 흐르다 보니 어느 날 당뇨]]></content:encoded>
+            <title><![CDATA[이영지, 정경호 사진 등장에 당황 “우리 외삼촌 닮았다”(지락실)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606231</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606231</guid>
+            <pubDate>Fri, 22 Jul 2022 21:05:52 GMT</pubDate>
+            <content:encoded><![CDATA[이영지가 배우 정경호를 알아보지 못해 웃음을 안겼다. 7월 22일 방송된 tvN '뿅뿅 지구오락실'에서는 인물 퀴즈 리벤지를 하는 용사들 모습이 그려졌다. 7라운드에서 이영지는 정경호를 보며 "누구예요?"라고 당황했]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[피지컬FC 감독 조원희 "이동국, 너 나와!" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011321711</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011321711</guid>
-            <pubDate>Fri, 22 Jul 2022 18:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[유다연 인턴 기자 = 피지컬FC의 감독 조원희가 이동국 뿐만 아니라 선수들에게도 승부욕을 불태운다. 24일 오후 7시40분에 방송되는 JTBC '뭉쳐야 찬다2'에 '어쩌다벤져스'와 피지컬FC의 수중 피지컬 대결이 펼]]></content:encoded>
+            <title><![CDATA[이영지, '코사무이' 고급 숙소에서 강제 침낭행..."호텔 와서 이렇게 자요?"('뿅뿅 지구오락실') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000559941</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000559941</guid>
+            <pubDate>Fri, 22 Jul 2022 21:05:52 GMT</pubDate>
+            <content:encoded><![CDATA['뿅뿅 '뿅뿅 지구오락실' 미션 꼴찌로 침낭에서 자게 된 이영지가 배신감을 느꼈다. 22일 오후 방송된 tvN 예능프로그램 '뿅뿅 지구오락실'에서는 태국 꼬사무이의 두 번째 숙소에서 게임 미션을 하게 된 이은지, 이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[오늘의 채널A]곰팡이 제거로 年매출 12억 비결은… (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=020&amp;aid=0003441734</link>
-            <guid>https://entertain.naver.com/now/read?oid=020&amp;aid=0003441734</guid>
-            <pubDate>Fri, 22 Jul 2022 18:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[곰팡이 제거로 연 매출 12억 원을 달성한 이창현 씨의 성공 스토리를 소개한다. 인테리어 회사에 다니던 그는 현장에서 늘 마주하는 곰팡이에 대해 의문을 갖고 곰팡이 공부를 시작했다. 그 후 전 재산 10만 원으로 곰]]></content:encoded>
+            <title><![CDATA[이영지, 이우정 작가 작품 안 봤다…이은지 “다음 시즌에 없겠네”(지락실)[어제TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606230</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606230</guid>
+            <pubDate>Fri, 22 Jul 2022 21:05:52 GMT</pubDate>
+            <content:encoded><![CDATA[이영지가 이우정 작가의 작품 대부분을 보지 않았다고 했다. 7월 22일 방송된 tvN '뿅뿅 지구오락실'에서는 두 번째 행선지 꼬사무이에 도착해 게임에 도전하는 용사들 모습이 그려졌다. 절대음감 게임에서 성공하면 음]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['1박2일' 딘딘, 폐교 숨바꼭질서 눈물 글썽…왜? (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011321708</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011321708</guid>
-            <pubDate>Fri, 22 Jul 2022 17:21:12 GMT</pubDate>
-            <content:encoded><![CDATA[김주희 인턴 기자 = 진땀 쏙 빼는 공포의 숨바꼭질이 펼쳐진다. 오는 24일 오후 6시 30분 방송되는 KBS 2TV '1박 2일 시즌4'가 심장 쫀득한 '열대야' 특집을 선보인다. 이날 멤버들은 자정이 넘은 야심한]]></content:encoded>
+            <title><![CDATA[제이쓴, 천기저귀 100장 만들기 도전... "기저귀는 사야겠다"('슈돌') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000559940</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000559940</guid>
+            <pubDate>Fri, 22 Jul 2022 21:05:52 GMT</pubDate>
+            <content:encoded><![CDATA[예비 아빠 제이쓴이 별똥이를 위한 천 기저귀 100장 만들기에 나섰다. 22일 방송된 KBS2TV '슈퍼맨이 돌아왔다'에서는 홍현희와 제이쓴 부부가 합류했다. 이날 임신 9개월 차에 접어든 홍현희의 힘겨워하는 모습을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이주승 ‘나혼산’ 덕분에 구성환과 영화 캐스팅 “카자흐스탄서 배용준급 인기” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606201</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606201</guid>
-            <pubDate>Fri, 22 Jul 2022 17:21:12 GMT</pubDate>
-            <content:encoded><![CDATA[이주승과 구성환이 ‘나 혼자 산다’ 덕분에 카자흐스탄에서 영화를 촬영했다. 7월 22일 방송된 MBC ‘나 혼자 산다’에서는 카자흐스탄에서 영화 촬영을 마치고 한 달 만에 한국에 돌아온 이주승, 구성환의 모습이 공개]]></content:encoded>
+            <title><![CDATA[미자 "父 장광에 죽여달라고"..개그 동료들 왕따에 우울증 (금쪽상담소)[★밤TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003073174</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003073174</guid>
+            <pubDate>Fri, 22 Jul 2022 21:05:52 GMT</pubDate>
+            <content:encoded><![CDATA[개그우먼 미자가 극심한 우울증을 겪으며 극단적 선택을 했던 과거를 털어놔 안타까움을 자아냈다. 미자는 지난 22일 방송된 채널A 예능 프로그램 '오은영의 금쪽상담소'에 엄마인 배우 전성애와 함께 출연해 고민을 털어놨]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["친구 같은 엄마" 이주승, 해외촬영 후 입국→母와 한 달만 재회 (나 혼자 산다)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001479409</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001479409</guid>
-            <pubDate>Fri, 22 Jul 2022 17:21:12 GMT</pubDate>
-            <content:encoded><![CDATA[이주승이 해외촬영 후 입국해 어머니와 한 달만의 재회를 했다. 22일 방송된 MBC '나 혼자 산다'에서는 이주승이 어머니와 한 달만에 재회하는 모습이 전파를 탔다. 이날 이주승은 인천 국제공항에서 모습을 드러냈다.]]></content:encoded>
+            <title><![CDATA[안유진, 이은지도 인정한 한국인 입맛 “곰탕에 후추 있었으면”(지락실) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606229</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606229</guid>
+            <pubDate>Fri, 22 Jul 2022 21:05:53 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 아이브 멤버 안유진이 '한국인 입맛'임을 인증했다. 7월 22일 방송된 tvN '뿅뿅 지구오락실'에서는 절대음감 게임에 도전하는 용사들 모습이 그려졌다. 절대음감 게임은 성공하면 음료, 실패하면 따뜻한 음료를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['유스케' 씨스타, 5년 만에 완전체..'서머퀸' 귀환 [별별TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003073167</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003073167</guid>
-            <pubDate>Fri, 22 Jul 2022 16:08:59 GMT</pubDate>
-            <content:encoded><![CDATA['유희열의 스케치북'에서 걸 그룹 씨스타가 해체 후 5년 만에 '완전체'로 한자리에 모였다. 22일 오후 방송된 KBS 2TV '유희열의 스케치북'에서는 600회 특집 '우리들의 여름날'을 기념해 씨스타가 5년 만에]]></content:encoded>
+            <title><![CDATA[정상훈 “이유리 첫인상? 새침할 줄 알았는데 너무 털털”(편스토랑)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606228</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606228</guid>
+            <pubDate>Fri, 22 Jul 2022 21:05:53 GMT</pubDate>
+            <content:encoded><![CDATA[정상훈이 이유리를 처음 만났을 때 느낌을 공개했다. 7월 22일 방송된 KBS 2TV ‘신상출시 편스토랑’에서는 정상훈이 이유리에게 캠핑 요리를 선보였다. 정상훈은 드라마에서 부부로 호흡을 맞추고 있는 이유리에게 캠]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[종합] '유희열의 스케치북' 600회 마지막 인사... 13년 3개월 대장정 마무리 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004995362</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004995362</guid>
-            <pubDate>Fri, 22 Jul 2022 16:08:59 GMT</pubDate>
-            <content:encoded><![CDATA['유스케'가 600회 마지막 방송을 했다. 22일 방송된 KBS2 프로그램 '유희열의 스케치북'(이하 '유스케')에서는 폴킴-멜로망스, 10CM-헤이즈, 데이브레이크, 오마이걸 효정-승희, 김종국, 씨스타, 거미 등]]></content:encoded>
+            <title><![CDATA["아마추어 냄새" 쓴소리 들은 '홍김동전', '우영우 신드롬'에 답 있다 [TEN스타필드]0 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000559939</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000559939</guid>
+            <pubDate>Fri, 22 Jul 2022 21:05:53 GMT</pubDate>
+            <content:encoded><![CDATA[≪서예진의 오예≫ '콘텐츠 범람의 시대'. 어떤 걸 볼지 고민인 독자들에게 서예진 텐아시아 기자가 '예능 가이드'가 돼 드립니다. 예능계 핫이슈는 물론, 관전 포인트, 주요 인물, 비하인드 스토리까지 낱낱이 파헤쳐]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박용택 "공 못 던지면서 바나나 먹어" 누구 직격? '아는 형님' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011321706</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011321706</guid>
-            <pubDate>Fri, 22 Jul 2022 16:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[유다연 인턴 기자 = '최강 몬스터즈'의 핵심 선수, 이승엽, 박용택, 심수창, 유희관이 야구 실력에 숨겨졌던 예능감을 불태운다. 23일 오후 8시40분에 방송되는 JTBC '아는 형님'에 최근 '최강야구'로 야구]]></content:encoded>
+            <title><![CDATA[류수영 “♥박하선이 근사하다고” 아내 위해 한여름에도 슈트 패션(편스토랑) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606227</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606227</guid>
+            <pubDate>Fri, 22 Jul 2022 21:05:53 GMT</pubDate>
+            <content:encoded><![CDATA[류수영이 여름에도 양복 패션을 입은 이유를 공개했다. 7월 22일 방송된 KBS 2TV ‘신상출시 편스토랑’에서는 류수영이 망고잼을 활용한 다양한 레시피를 공개했다. 류수영은 퇴근 후 늦은 저녁 귀가한 콘셉트로 즉석]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이주승, 카자흐스탄서 영화 촬영.."감독이 '나혼산' 보고 캐스팅"[★밤TView] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003073166</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003073166</guid>
-            <pubDate>Fri, 22 Jul 2022 16:08:59 GMT</pubDate>
-            <content:encoded><![CDATA['나 혼자 산다'에서 이주승이 카자흐스탄에서 영화 촬영을 마치고 귀국했다. 22일 오후 방송된 MBC 예능프로그램 '나 혼자 산다'에서는 북적이는 인천국제공항에서 이주승과 구성환을 맞이하는 모습이 그려졌다. 이날 박]]></content:encoded>
+            <title><![CDATA[김재경, 된장 담가 허영만에 선물 “너무 짜”→이준기 섭외 영상편지(백반)[어제TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606226</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606226</guid>
+            <pubDate>Fri, 22 Jul 2022 21:05:53 GMT</pubDate>
+            <content:encoded><![CDATA[김재경이 된장을 직접 담가 허영만에게 선물했다. 7월 22일 방송된 TV조선 '식객 허영만의 백반기행'(이하 '백반기행') 161회에서는 그룹 레인보우 출신 배우 김재경이 충남 서천 식도락 여행에 함께했다. 이날 허]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['유스케' 씨스타, 2017년 이후 5년 만의 완전체 출격 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0004995361</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0004995361</guid>
-            <pubDate>Fri, 22 Jul 2022 16:08:59 GMT</pubDate>
-            <content:encoded><![CDATA['유스케' 완전체 씨스타가 출연했다. 22일 방송된 KBS2 프로그램 '유희열의 스케치북'(이하 '유스케')에서는 폴킴-멜로망스, 10CM-헤이즈, 데이브레이크, 오마이걸 효정-승희, 김종국, 씨스타, 거미 등이 라]]></content:encoded>
+            <title><![CDATA[첫방 '인더숲' 우정여행 시동→박서준 요리사 변신에 뷔X픽보이 "너무 맛있어" [종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001223616</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001223616</guid>
+            <pubDate>Fri, 22 Jul 2022 21:05:53 GMT</pubDate>
+            <content:encoded><![CDATA[박서준부터 픽보이, 최우식. 박형식, 방탄소년단 뷔까지, 5인방의 찐 우정 여행기가 베일을 벗었다. 22일 JTBC ‘인더숲: 우정여행’이 첫 방송됐다. ‘인더숲 : 우정여행’은 10년 간 우정을 이어온 연예계 대표]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['표절 의혹' 유희열, '스케치북' 종영…막방까지 화려한 라인업(종합) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006235671</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006235671</guid>
-            <pubDate>Fri, 22 Jul 2022 16:08:59 GMT</pubDate>
-            <content:encoded><![CDATA['유희열의 스케치북'이 600회 특집을 끝으로 막을 내렸다. 22일 오후 방송된 KBS 2TV 음악 프로그램 '유희열의 스케치북'은 600회 특집으로 꾸며졌다. '우리들의 여름날'이라는 주제로 진행된 가운데 폴킴과]]></content:encoded>
+            <title><![CDATA[가은 오늘(23일) 결혼‥그리 사회→임한별 김연지 용주 축가 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606224</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606224</guid>
+            <pubDate>Fri, 22 Jul 2022 21:05:53 GMT</pubDate>
+            <content:encoded><![CDATA[가수 가은(GA EUN)이 7월의 신부가 된다. 가은은 7월 23일 서울 모처에서 5살 연상의 비연예인과 결혼식을 올린다. 결혼식 1부는 이경진 아나운서, 2부는 그리의 사회로 진행되고 임한별, 씨야 김연지, 용주가]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[홍현희♥제이쓴, 子 예측 얼굴에 '감탄'…"국민 아기다" (슈돌)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001479408</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001479408</guid>
-            <pubDate>Fri, 22 Jul 2022 16:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[홍현희, 제이쓴 부부가 2세 예측 얼굴에 감탄했다. 22일 방송된 KBS2TV ‘슈퍼맨이 돌아왔다’(이하 ‘슈돌’) 440회는 홍현희와 제이쓴이 출산 선물 언박싱부터 출산길 패션쇼까지 선보였다. 이날 방송에는 새로운]]></content:encoded>
+            <title><![CDATA[김재경, 허영만 따라 아귀 지느러미 과감 먹방 “식감 미쳤다”(백반기행)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606223</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606223</guid>
+            <pubDate>Fri, 22 Jul 2022 21:05:53 GMT</pubDate>
+            <content:encoded><![CDATA[김재경이 초점 잃은 먹방을 하다가 허영만에게 한소리를 들었다. 7월 22일 방송된 TV조선 '식객 허영만의 백반기행'(이하 '백반기행') 161회에서는 그룹 레인보우 출신 배우 김재경이 충남 서천 식도락 여행에 함께]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미자 "母전성애, 출산 압박 심해...혼전 순결 강요했으면서" (금쪽상담소)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001479407</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001479407</guid>
-            <pubDate>Fri, 22 Jul 2022 16:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[미자가 엄마 전성애와의 고민을 토로했다. 22일 방송된 채널A '오은영의 금쪽상담소'에는 개그우먼 미자와 미자의 엄마이자 배우 전성애가 출연했다. 미자의 고민은 "출산에 대한 어머니의 압박이 심해졌다"는 것이라며 "]]></content:encoded>
+            <title><![CDATA['우영우=오징어 게임?' 해외도 벌써부터 '우영우' 홀릭 [N초점] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006235705</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006235705</guid>
+            <pubDate>Fri, 22 Jul 2022 21:05:53 GMT</pubDate>
+            <content:encoded><![CDATA[ENA 드라마 '이상한 변호사 우영우'(극본 문지원/연출 유인식, 이하 '우영우')에 대한 해외 반응도 심상치 않다. 지난달 글로벌OTT(온라인 동영상 서비스) 넷플릭스에서 공개된 '우영우'는 국내에서 신드롬급 관심]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[차서원 '낭또포차' 오픈…박나래x키x허니제이 총출동(종합) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006235669</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006235669</guid>
-            <pubDate>Fri, 22 Jul 2022 16:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[배우 차서원의 '낭또포차'에 '나 혼자 산다' 무지개 회원들이 출동했다. 22일 오후에 방송된 MBC 예능 프로그램 '나 혼자 산다'에서는 '낭또' 차서원의 일상이 담겼다. 차서원은 약재를 가득히 넣은 건강차를 우린]]></content:encoded>
+            <title><![CDATA[김재경 “이상형? 세월에 주름 예쁘게 잡힌 사람”(백반기행)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606222</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606222</guid>
+            <pubDate>Fri, 22 Jul 2022 21:05:53 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 레인보우 출신 배우 김재경이 이상형을 밝혔다. 7월 22일 방송된 TV조선 '식객 허영만의 백반기행'(이하 '백반기행') 161회에서는 그룹 레인보우 출신 배우 김재경이 충남 서천 식도락 여행에 함께했다. 이날]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[WSG워너비 이보람, 유재석과 통화 중 눈물…왜? (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011321702</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011321702</guid>
-            <pubDate>Fri, 22 Jul 2022 16:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[장인영 인턴 기자 = MBC TV 예능물 '놀면 뭐하니?'의 프로젝트 여성 보컬그룹 'WSG워너비'가 눈물의 데뷔 소감을 전한다. 23일 오후 6시25분 방송되는 MBC 예능물 '놀면 뭐하니?' 147회에서는 데뷔와]]></content:encoded>
+            <title><![CDATA[TXT 태현·휴닝카이·프미나 이채영, 3연속 꽝 릴레이(출장십오야2) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606221</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606221</guid>
+            <pubDate>Fri, 22 Jul 2022 21:05:53 GMT</pubDate>
+            <content:encoded><![CDATA[투모로우바이투게더(TXT) 태현, 휴닝카이, 프로미스나인 이채영이 꽝 멤버가 됐다. 7월 22일 방송된 tvN '출장 십오야2'에서는 점심 미션을 수행하는 하이브 가수들 모습이 그려졌다. 투모로우바이투게더 태현은 ']]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['유스케' 십센치, 과거 자료화면에 부끄러움..관중은 '폭소' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003073165</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003073165</guid>
-            <pubDate>Fri, 22 Jul 2022 16:08:59 GMT</pubDate>
-            <content:encoded><![CDATA['유희열의 스케치북'에서 십센치(권정렬)의 자료화면 공개에 관중이 폭소했다. 22일 오후 방송된 KBS 2TV '유희열의 스케치북'에서는 유희열이 그동안 감사했던 폴킴, 멜로망스, 십센치, 헤이즈, 데이브레이크를 소]]></content:encoded>
+            <title><![CDATA[“앞이 안 보여” 픽보이, 뷔 딱밤 맞고 정신 혼미…최우식 박형식 후발대 예고(인더숲)[어제TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606220</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606220</guid>
+            <pubDate>Fri, 22 Jul 2022 21:05:53 GMT</pubDate>
+            <content:encoded><![CDATA[우가팸의 3박 4일 고성 여행이 시작됐다. 7월 22일 방송된 JTBC '인더숲: 우정여행' 1화에서는 우가팸(박서준, 최우식, 뷔, 픽보이, 박형식)이 강원도 고성으로 여행을 떠나는 모습이 그려졌다. 우가팸은 뷔]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘나는 솔로’ 옥순 “성형 하나도 안했다” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000827068</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000827068</guid>
-            <pubDate>Fri, 22 Jul 2022 16:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[ENA PLAY, SBS Plus 데이팅 예능프로그램 ‘나는 솔로’ 9기 옥순이 성형 의혹에 대해 일축했다. 옥순은 22일 자신의 SNS에 “쌍꺼풀 수술, 앞트임 등 성형 하나도 안했다”고 밝혔다. 옥순은 ‘나는 솔]]></content:encoded>
+            <title><![CDATA[세븐틴 호시·승관 “음악의 아버지 방시혁, 어머니는 김이나 작사가”(십오야2)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606219</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606219</guid>
+            <pubDate>Fri, 22 Jul 2022 21:05:53 GMT</pubDate>
+            <content:encoded><![CDATA[세븐틴 호시, 부승관이 예능감을 자랑했다. 7월 22일 방송된 tvN '출장 십오야2'에서는 하이브의 두 번째 야유회가 공개됐다. 엔하이픈 제이는 상식 퀴즈를 뽑았다. 나영석 PD는 "음악의 아버지는 바흐, 그렇다면]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이주승x구성환, '나혼자산다'로 영화 캐스팅…카자흐스탄서 귀국 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006235664</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006235664</guid>
-            <pubDate>Fri, 22 Jul 2022 16:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이주승이 '나 혼자 산다' 출연으로 영화에 캐스팅됐다고 밝혔다. 22일 오후 11시 10분에 방송된 MBC 예능 프로그램 '나 혼자 산다'에서는 배우 이주승의 일상이 담겼다. 이날 이주승은 카자흐스탄에서 귀국한]]></content:encoded>
+            <title><![CDATA[박서준, 단출한 뷔 여행 가방에 깜짝 “난 운동 기구도 챙겨와”(인더숲) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606218</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606218</guid>
+            <pubDate>Fri, 22 Jul 2022 21:05:53 GMT</pubDate>
+            <content:encoded><![CDATA[배우 박서준이 남다른 준비성을 자랑했다. 7월 22일 방송된 JTBC '인더숲: 우정여행' 1화에서는 우가팸(박서준, 최우식, 뷔, 픽보이, 박형식)이 강원도 고성으로 여행을 떠나는 모습이 그려졌다. 먼저 숙소에 도]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유희열 "'스케치북' 맡은지 13년 흘러…벌써 50대 됐다" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006235660</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006235660</guid>
-            <pubDate>Fri, 22 Jul 2022 16:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[유희열이 '스케치북'을 맡은지 13년이 흘렀다며 600회 소감을 밝혔다. 22일 오후 방송된 KBS 2TV 음악 프로그램 '유희열의 스케치북'에서 작곡가이자 MC인 유희열은 600회 특집 소감을 전하며 나이를 언급했]]></content:encoded>
+            <title><![CDATA[하이브, 야유회 2탄 ‘땡’ 퍼레이드→랜덤 플레이 댄스 예고(출장십오야2)[어제TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606217</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606217</guid>
+            <pubDate>Fri, 22 Jul 2022 21:05:53 GMT</pubDate>
+            <content:encoded><![CDATA[하이브 야유회 점심 미션에서 땡 퍼레이드가 펼쳐졌다. 7월 22일 방송된 tvN '출장 십오야2'에서는 하이브의 두 번째 야유회가 공개됐다. 나영석 PD는 "기다리고 기다리던 점심시간이다. 점심 시간은 오늘 일정이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["30대였는데 벌써 52세"…유희열, '스케치북' 마지막회 오프닝 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001479406</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001479406</guid>
-            <pubDate>Fri, 22 Jul 2022 16:08:59 GMT</pubDate>
-            <content:encoded><![CDATA['스케치북' 유희열이 600회 소감을 밝혔다. 22일 방송된 KBS 2TV '유희열의 스케치북'은 600회 특집으로 꾸며졌다. 600회 특집이자 '마지막회'인 이날 오프닝에서 유희열은 "시작 때 제 나이가 39살이었]]></content:encoded>
+            <title><![CDATA[선정성·출연자 전과 등… 논란 속 시즌2로 돌아오는 '에덴' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000835442</link>
+            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000835442</guid>
+            <pubDate>Fri, 22 Jul 2022 21:05:53 GMT</pubDate>
+            <content:encoded><![CDATA[한국판 '투 핫'을 표방했지만 자극적인 설정으로 불거진 선정성 논란과 출연자의 폭력 전과 등으로 잡음이 일었던 IHQ 예능 프로그램 '에덴'이 시즌2로 돌아온다. '에덴'은 지난달 14일 첫 방송과 동시에 선정성이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["더워 죽는 줄" 박나래X차서원, 찜통 부엌에 '둘만의 워터밤' (나 혼자 산다)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001479405</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001479405</guid>
-            <pubDate>Fri, 22 Jul 2022 16:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[박나래와 차서원이 찜통 부엌으로 인해 의도치 않은 워터밤을 즐겼다. 22일 방송된 MBC '나 혼자 산다'에서는 차서원이 낭만 포차 모임을 여는 모습이 전파를 탔다. 이날 차서원은 약재 박스를 꺼내 전기 중탕기로 끓]]></content:encoded>
+            <title><![CDATA[박서준, 뷔도 감탄한 요리실력 “잘 먹어주면 행복 배가 되는 느낌”(인더숲)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606216</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606216</guid>
+            <pubDate>Fri, 22 Jul 2022 21:05:53 GMT</pubDate>
+            <content:encoded><![CDATA[배우 박서준이 요리 실력을 자랑했다. 7월 22일 방송된 JTBC '인더숲: 우정여행' 1화에서는 우가팸(박서준, 최우식, 뷔, 픽보이, 박형식)이 강원도 고성으로 여행을 떠나는 모습이 그려졌다. 숙소에 먼저 도착한]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미자, 개그우먼 시절 왕따로 극심한 우울증..."父 장광에게 죽여달라고 불효 저질러"('금쪽 상담소') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000559938</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000559938</guid>
-            <pubDate>Fri, 22 Jul 2022 16:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[‘금쪽 상담소’ 미자가 극심한 우울증으로 죽음까지 생각했음을 밝혔다. 22일 방송된 채널 A 예능프로그램 ‘오은영의 금쪽 상담소’에서는 개그우먼 미자와 그의 어머니 배우 전성애가 출연했다. 이날 미자는 "결혼 이후]]></content:encoded>
+            <title><![CDATA[“SF부터 치정막장극까지 ‘유미의 세포들2’에 다 있어요” (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=005&amp;aid=0001541746</link>
+            <guid>https://entertain.naver.com/now/read?oid=005&amp;aid=0001541746</guid>
+            <pubDate>Fri, 22 Jul 2022 21:06:02 GMT</pubDate>
+            <content:encoded><![CDATA[유미의 세포들은 자신의 역할에 진심이고 매 순간 진지하다. 패션 세포는 ‘룩’에 모든 열정을 쏟는다. 자린고비 세포에겐 수입과 지출 관리가 지상 최대의 과제다. 응큼이 세포는 유미가 데이트할 때마다 최선을 다해 ‘기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘오수재’ 잘나가다 삐끗, 왜 서현진인진 알겠으나[TV보고서] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606225</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000606225</guid>
+            <pubDate>Fri, 22 Jul 2022 21:06:02 GMT</pubDate>
+            <content:encoded><![CDATA['왜 오수재인가'가 용두사미 드라마가 될 위기에 놓였다. SBS 금토드라마 '왜 오수재인가'(극본 김지은/연출 박수진 김지연)는 7월 23일 16회를 끝으로 종영한다. '왜 오수재인가'는 살기 위해, 가장 위에서,]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[SE★초점] 출생의 비밀→물따귀, 막장극 인기의 끝은 어디인가 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=011&amp;aid=0004079419</link>
+            <guid>https://entertain.naver.com/now/read?oid=011&amp;aid=0004079419</guid>
+            <pubDate>Fri, 22 Jul 2022 21:06:02 GMT</pubDate>
+            <content:encoded><![CDATA[‘막장’ 소재는 대표적인 드라마 클리셰다. 그간 SBS '펜트하우스', JTBC '부부의 세계', KBS2 '사랑의 꽈배기', '오케이 광자매', TV조선 '결혼작사 이혼작곡'등 일명 막장 드라마들은 거침없는 전개와]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[스브스夜] '오수재' 서현진, "홍지윤 살해한 것은 허준호" 폭로…판 뒤집을 카드는? (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
@@ -1615,27 +1636,6 @@
             <content:encoded><![CDATA[배우 박동빈이 ‘미남당’에 합류해 독보적인 명품 연기력으로 극에 활력을 불어넣는다. KBS 2TV 월화드라마 ‘미남당’은 전직 프로파일러이자, 현직 박수무당이 사건을 해결해나가는 미스터리 코믹 수사극이다. 박동빈은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['우영우' 효과 제대로! ENA DRAMA채널 5배 시청률 상승 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003073092</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003073092</guid>
-            <pubDate>Fri, 22 Jul 2022 08:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[ENA채널 '이상한 변호사 우영우' 가 연일 최고 시청률을 달성하는 가운데, ENA 계열 채널의 시청률도 함께 고공 행진을 이어가고 있다. 지난 21일 '이상한 변호사 우영우' 8회를 가장 빠른 재방 편성한 ENA]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[지창욱∙성동일, 불편한 첫 만남 ('당소말') (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004662915</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004662915</guid>
-            <pubDate>Fri, 22 Jul 2022 08:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[‘당신이 소원을 말하면’의 지창욱과 성동일이 첫 만남부터 심상치 않은 기류를 자아낸다. 오는 8월 10일 오후 9시 50분 첫 방송 예정인 KBS 2TV 새 수목드라마 ‘당신이 소원을 말하면’(연출 김용완, 극본 조]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['징크스의 연인' 조한결, 200% 녹아든 열연…웃고 울리는 신스틸러 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004662911</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004662911</guid>
-            <pubDate>Fri, 22 Jul 2022 08:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[배우 조한결이 ‘징크스의 연인’에서 감초 역할을 톡톡히 해내며 든든한 존재감을 뽐내고 있다. KBS2 수목드라마 ‘징크스의 연인’은 불행한 자신의 삶을 숙명으로 여기고 순응하며 사는 한 인간 남자와 저주를 풀기 위해]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[딸을 버린 엄마, 이 장면이 갖는 함의 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220722171808935</link>
             <guid>https://movie.v.daum.net/v/20220722171808935</guid>
@@ -1644,20 +1644,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2Fohmynews%2F20220722171809807tccr.jpg" length="0" type="image//thumb/S732x228/"/>
         </item>
         <item>
-            <title><![CDATA[330억 대작 '외계+인' 1부, '입소문'에 발목 잡히나 [무비노트] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220722145807347</link>
-            <guid>https://movie.v.daum.net/v/20220722145807347</guid>
-            <pubDate>Fri, 22 Jul 2022 06:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 300억 대작 '외계+인' 1부가 입소문에 흥행 적신호가 켜졌다. 호불호 반응이 극명하게 갈린 입소문에 손익분기점 770만 명 고지까지 험난한 길이 예상된다. ' 지난 20일 개봉된 영화 '외계+인'(감독 최동훈·제작 케이퍼필름) 1부는 고려 말 소문 속의 신검을 차지하려는 도사들과 2022년 인간의 몸 속에 수감된 외계인 죄]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2Ftvdaily%2F20220722145810881spgc.jpg" length="0" type="image//thumb/S732x228/"/>
-        </item>
-        <item>
             <title><![CDATA[8년 전 '명량'의 추억 꿈꾸는 '한산: 용의 출현' [쿡리뷰] (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220722060213864</link>
             <guid>https://movie.v.daum.net/v/20220722060213864</guid>
             <pubDate>Fri, 22 Jul 2022 08:12:05 GMT</pubDate>
             <content:encoded><![CDATA[기대보다 덜함도 더함도 없다. 영화 ‘한산: 용의 출현’(감독 김한민)은 또 한 번 관객들을 살 떨리는 전쟁 속으로 안내한다. 여전히 빠르고 긴장감이 넘친다. 한 치도 물러설 생각이 없는 인물들의 전략에 빠져들고, 대규모로 펼쳐지는 장엄한 해상 액션은 알면서도 흥미롭게 느껴진다. 전작을 떠올리면 이해가 쉽다. ‘한산: 용의 출현’은 명량 해전으로부터 5]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2Fkukinews%2F20220722060215198iisv.jpg" length="0" type="image//thumb/S384x240/"/>
+            <enclosure url="https://img1.daumcdn.net/thumb/S732x228/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2Fkukinews%2F20220722060215198iisv.jpg" length="0" type="image//thumb/S732x228/"/>
+        </item>
+        <item>
+            <title><![CDATA[330억 대작 '외계+인' 1부, '입소문'에 발목 잡히나 [무비노트] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220722145807347</link>
+            <guid>https://movie.v.daum.net/v/20220722145807347</guid>
+            <pubDate>Fri, 22 Jul 2022 06:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 300억 대작 '외계+인' 1부가 입소문에 흥행 적신호가 켜졌다. 호불호 반응이 극명하게 갈린 입소문에 손익분기점 770만 명 고지까지 험난한 길이 예상된다. ' 지난 20일 개봉된 영화 '외계+인'(감독 최동훈·제작 케이퍼필름) 1부는 고려 말 소문 속의 신검을 차지하려는 도사들과 2022년 인간의 몸 속에 수감된 외계인 죄]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2Ftvdaily%2F20220722145810881spgc.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['외계+인', 소간지는 잠시 잊어라!..낯선 소지섭이 반갑다 (다음영화 뉴스 ─ 인기)]]></title>
@@ -1668,20 +1668,20 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2Fstarnews%2F20220722170002211elrr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['탑건2' 톰 크루즈, 韓 흥행 감사 인사 "여러분의 진심이 날 움직여" [전문] (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220722131150816</link>
-            <guid>https://movie.v.daum.net/v/20220722131150816</guid>
-            <pubDate>Fri, 22 Jul 2022 04:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 2022년 전 세계를 강타한 최고 흥행작 '탑건: 매버릭'이 톰 크루즈 필모그래피 사상 최고 흥행 수익 신기록을 달성했다. 이에 톰 크루즈가 대한민국 영화 관객들에게 감사 인사를 전했다. 영화 '탑건: 매버릭'은 개봉 4일째 100만, 8일째 200만, 12일째 300만, 18일째 400만, 23일째 500만, 30일째 6]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2Fmydaily%2F20220722131150345wwgl.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA["영화 홍보? 예능보다 유튜브" (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220722063014128</link>
             <guid>https://movie.v.daum.net/v/20220722063014128</guid>
             <pubDate>Fri, 22 Jul 2022 08:12:05 GMT</pubDate>
             <content:encoded><![CDATA[여름 개봉하는 대작 영화들이 홍보를 위해 너도나도 유튜브 콘텐츠를 찾고 있다. ‘외계+인’은 ‘문명특급’, ‘헌트’는 ‘미노이의 요리조리’, ‘비상선언’은 ‘채널 십오야’(위쪽부터 시계방향)를 각각 택했다. 사진제공｜각 유튜브 채널 캡쳐 ‘영화 홍보’도 유튜브가 대세다. 개봉을 앞두고 영화 홍보를 위해 각 방송사의 예능프로그램을 찾던 배우들이 이제는 유]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2Fsportsdonga%2F20220722063016630gbnf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['탑건2' 톰 크루즈, 韓 흥행 감사 인사 "여러분의 진심이 날 움직여" [전문] (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220722131150816</link>
+            <guid>https://movie.v.daum.net/v/20220722131150816</guid>
+            <pubDate>Fri, 22 Jul 2022 04:37:10 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 2022년 전 세계를 강타한 최고 흥행작 '탑건: 매버릭'이 톰 크루즈 필모그래피 사상 최고 흥행 수익 신기록을 달성했다. 이에 톰 크루즈가 대한민국 영화 관객들에게 감사 인사를 전했다. 영화 '탑건: 매버릭'은 개봉 4일째 100만, 8일째 200만, 12일째 300만, 18일째 400만, 23일째 500만, 30일째 6]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2Fmydaily%2F20220722131150345wwgl.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[상반기 영화산업, 팬데믹 이전 절반 수준 회복..'범죄도시2' 효과 톡톡 [무비노트] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1692,14 +1692,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2Ftvdaily%2F20220722122809831isyf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[살 떨리는 외계 포식자 프레데터의 귀환, '프레이' 8월 공개 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220721175130338</link>
-            <guid>https://movie.v.daum.net/v/20220721175130338</guid>
-            <pubDate>Fri, 22 Jul 2022 00:40:07 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=박설이 기자]&nbsp;외계 빌런 프레데터가 돌아왔다. 디즈니+ 오리지널 영화 '프레이'의 스틸에서 독보적 존재감으로 모습을 드러낸 프레데터가 살 떨리는 긴장감을 유발한다. 고도로 진화된 외계 포식자 프레데터는 자신보다 강한 상대를 사냥하는 존재로, 막강한 무기로 중무장했다. 이런 막강한 프레데터와 사투를 벌이게 될 상대는 코만치 부족민과 나루. 화살]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F21%2Ftvreport%2F20220721175131433huhi.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA[크리스토퍼 놀란 신작 '오펜하이머', 2023년 7월1일 북미 개봉 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220722090305674</link>
             <guid>https://movie.v.daum.net/v/20220722090305674</guid>
@@ -1708,20 +1700,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2FNEWS1%2F20220722090306419ynsz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[인간의 적 '바다 괴물'이 알고 보니..? (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220721172700344</link>
-            <guid>https://movie.v.daum.net/v/20220721172700344</guid>
+            <title><![CDATA[살 떨리는 외계 포식자 프레데터의 귀환, '프레이' 8월 공개 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220721175130338</link>
+            <guid>https://movie.v.daum.net/v/20220721175130338</guid>
             <pubDate>Fri, 22 Jul 2022 00:40:07 GMT</pubDate>
-            <content:encoded><![CDATA[[김형욱 기자] ▲ &nbsp;넷플릭스 오리지널 애니메이션 영화 &lt;씨 비스트&gt; 포스터.    ⓒ 넷플릭스  &nbsp; * 이 기사에는 스포일러가 포함돼 있습니다. 바다에 인간을 산 채로 잡아 먹는 괴물이 사는 시대, 인간 세계에서는 바다 괴물을 사냥하는 사냥꾼을 최고의 영웅으로 칭송한다. 제이콥은 최고의 사냥꾼들이 총집합한 인에비터블호의 차기 선장감으로 맹활]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F21%2Fohmynews%2F20220721172704395ucpp.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA['외계+인' 차별화 포인트 셋..#독창적 세계관 #신선한 구성 #국내 최고 앙상블 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220722155141103</link>
-            <guid>https://movie.v.daum.net/v/20220722155141103</guid>
-            <pubDate>Fri, 22 Jul 2022 13:30:39 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 영화 '외계+인'(감독 최동훈)&nbsp; 1부가 관객들의 반응을 이끌어내고 있는 차별화 포인트 세 가지를 공개했다. '외계+인' 1부는 고려 말 소문 속의 신검을 차지하려는 도사들과 2022년 인간의 몸 속에 수감된 외계인 죄수를 쫓는 이들 사이에 시간의 문이 열리며 펼쳐지는 이야기를 그린 영화다. ▲ 최동훈 감독의 새로운 상상력 첫]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2Fxportsnews%2F20220722155143738demy.jpg" length="0" type="image//thumb/S384x240/"/>
+            <content:encoded><![CDATA[[TV리포트=박설이 기자]&nbsp;외계 빌런 프레데터가 돌아왔다. 디즈니+ 오리지널 영화 '프레이'의 스틸에서 독보적 존재감으로 모습을 드러낸 프레데터가 살 떨리는 긴장감을 유발한다. 고도로 진화된 외계 포식자 프레데터는 자신보다 강한 상대를 사냥하는 존재로, 막강한 무기로 중무장했다. 이런 막강한 프레데터와 사투를 벌이게 될 상대는 코만치 부족민과 나루. 화살]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F21%2Ftvreport%2F20220721175131433huhi.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[예술과 사랑, 현실과 허구..영화 '베르히만 아일랜드' (다음영화 뉴스 ─ 인기)]]></title>
@@ -1732,12 +1716,12 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F21%2Fyonhap%2F20220721080208360ldzd.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[톰 크루즈 "서울서 '탑건:매버릭' 관람, 놀라운 경험" 600만 돌파 인사 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220722141031634</link>
-            <guid>https://movie.v.daum.net/v/20220722141031634</guid>
-            <pubDate>Fri, 22 Jul 2022 05:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 600만 관객을 돌파한 '탑건: 매버릭'의 톰 크루즈가 대한민국 영화 관객들에게 감사 인사를 전했다. 7월 22일 롯데엔터테인먼트가 공개한 영상에서 톰 크루즈는 "극장에서 '탑건: 매버릭' 그 자체를 경험하고 즐겨 주셔서 감사합니다. 서울에서 여러분과 함께 영화를 관람할 수 있었던 것은 정말 놀라운 경험이었습니다"라고 말했다. 이어]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2Fnewsen%2F20220722141031168ifzy.jpg" length="0" type="image//thumb/S384x240/"/>
+            <title><![CDATA['외계+인' 차별화 포인트 셋..#독창적 세계관 #신선한 구성 #국내 최고 앙상블 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220722155141103</link>
+            <guid>https://movie.v.daum.net/v/20220722155141103</guid>
+            <pubDate>Fri, 22 Jul 2022 13:30:39 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 영화 '외계+인'(감독 최동훈)&nbsp; 1부가 관객들의 반응을 이끌어내고 있는 차별화 포인트 세 가지를 공개했다. '외계+인' 1부는 고려 말 소문 속의 신검을 차지하려는 도사들과 2022년 인간의 몸 속에 수감된 외계인 죄수를 쫓는 이들 사이에 시간의 문이 열리며 펼쳐지는 이야기를 그린 영화다. ▲ 최동훈 감독의 새로운 상상력 첫]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2Fxportsnews%2F20220722155143738demy.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['외계+인' 류준열·김우빈→염정아·조우진..'노잼' 조합은 아니지(종합)[Oh!쎈 이슈] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1746,6 +1730,38 @@
             <pubDate>Fri, 22 Jul 2022 16:09:17 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;극장 상영 중인 ‘외계+인’은 최동훈 감독의 차기작인 점도 주목할 만하지만, 출연자 라인업이 출중해 일단 눈길을 붙잡는 영화다. 1차적인 관심을 끄는 데만 급급하지 않았고, 시선을 모은 뒤 배우들이 연기력을 발휘해 캐릭터와 이야기에 생명력을 불어넣었다. 류준열과 김태리, 염정아와 조우진, 그리고 김우빈과 김우빈의 케미스트리가 돋]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2Fpoctan%2F20220722235031444glgy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[인간의 적 '바다 괴물'이 알고 보니..? (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220721172700344</link>
+            <guid>https://movie.v.daum.net/v/20220721172700344</guid>
+            <pubDate>Fri, 22 Jul 2022 00:40:07 GMT</pubDate>
+            <content:encoded><![CDATA[[김형욱 기자] ▲ &nbsp;넷플릭스 오리지널 애니메이션 영화 &lt;씨 비스트&gt; 포스터.    ⓒ 넷플릭스  &nbsp; * 이 기사에는 스포일러가 포함돼 있습니다. 바다에 인간을 산 채로 잡아 먹는 괴물이 사는 시대, 인간 세계에서는 바다 괴물을 사냥하는 사냥꾼을 최고의 영웅으로 칭송한다. 제이콥은 최고의 사냥꾼들이 총집합한 인에비터블호의 차기 선장감으로 맹활]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F21%2Fohmynews%2F20220721172704395ucpp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[톰 크루즈 "서울서 '탑건:매버릭' 관람, 놀라운 경험" 600만 돌파 인사 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220722141031634</link>
+            <guid>https://movie.v.daum.net/v/20220722141031634</guid>
+            <pubDate>Fri, 22 Jul 2022 05:22:28 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 600만 관객을 돌파한 '탑건: 매버릭'의 톰 크루즈가 대한민국 영화 관객들에게 감사 인사를 전했다. 7월 22일 롯데엔터테인먼트가 공개한 영상에서 톰 크루즈는 "극장에서 '탑건: 매버릭' 그 자체를 경험하고 즐겨 주셔서 감사합니다. 서울에서 여러분과 함께 영화를 관람할 수 있었던 것은 정말 놀라운 경험이었습니다"라고 말했다. 이어]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2Fnewsen%2F20220722141031168ifzy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[빅픽처] "나는요, 완전 붕괴됐어요"..'헤어질 결심'이 낳은 기현상 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220722175111856</link>
+            <guid>https://movie.v.daum.net/v/20220722175111856</guid>
+            <pubDate>Fri, 22 Jul 2022 14:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 해준(박해일)은 한바탕 소리를 지르고 떠났다. 홀로 남겨진 서래(탕웨이)는 멍하게 서있다가 뭔가 떠올랐다는 듯 핸드폰을 꺼내든다. '붕괴'라는 단어를 검색창에 두드린다. '무너지고 깨어짐.' 서래는 알듯 모를 듯한 표정을 짓는다. 해준이 남긴 정확한 워딩은 이랬다. "나는요, 완전 '붕괴'됐어요" 명백히 부정적 뉘앙스의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2FSBSfunE%2F20220722175113620lrpr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이하늬→전여빈, '외계+인' 특급 신스틸러 (다음영화 뉴스 ─ 인기)]]></title>
+            <link>https://movie.v.daum.net/v/20220722201813334</link>
+            <guid>https://movie.v.daum.net/v/20220722201813334</guid>
+            <pubDate>Fri, 22 Jul 2022 18:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 배우 이하늬, 지건우, 김해숙, 유재명, 전여빈이 영화 '외계+인' 1부에서 신스틸러로 활약했다. '외계+인' 1부는 고려 말 소문 속의 신검을 차지하려는 도사들과 2022년 인간의 몸 속에 수감된 외계인 죄수를 쫓는 이들 사이에 시간의 문이 열리며 펼쳐지는 이야기를 그린 영화다. 먼저 이하늬는 ‘가드’의 정체를 궁금해하는 인물 민개인으로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2Fsportsdonga%2F20220722201816428xcnf.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[형보다 나은 동생..'한산', '명량'과 다른 세가지 [SS무비] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1764,22 +1780,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2FiMBC%2F20220722190122603caev.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[이하늬→전여빈, '외계+인' 특급 신스틸러 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220722201813334</link>
-            <guid>https://movie.v.daum.net/v/20220722201813334</guid>
-            <pubDate>Fri, 22 Jul 2022 18:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 배우 이하늬, 지건우, 김해숙, 유재명, 전여빈이 영화 '외계+인' 1부에서 신스틸러로 활약했다. '외계+인' 1부는 고려 말 소문 속의 신검을 차지하려는 도사들과 2022년 인간의 몸 속에 수감된 외계인 죄수를 쫓는 이들 사이에 시간의 문이 열리며 펼쳐지는 이야기를 그린 영화다. 먼저 이하늬는 ‘가드’의 정체를 궁금해하는 인물 민개인으로]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2Fsportsdonga%2F20220722201816428xcnf.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[빅픽처] "나는요, 완전 붕괴됐어요"..'헤어질 결심'이 낳은 기현상 (다음영화 뉴스 ─ 인기)]]></title>
-            <link>https://movie.v.daum.net/v/20220722175111856</link>
-            <guid>https://movie.v.daum.net/v/20220722175111856</guid>
-            <pubDate>Fri, 22 Jul 2022 14:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 해준(박해일)은 한바탕 소리를 지르고 떠났다. 홀로 남겨진 서래(탕웨이)는 멍하게 서있다가 뭔가 떠올랐다는 듯 핸드폰을 꺼내든다. '붕괴'라는 단어를 검색창에 두드린다. '무너지고 깨어짐.' 서래는 알듯 모를 듯한 표정을 짓는다. 해준이 남긴 정확한 워딩은 이랬다. "나는요, 완전 '붕괴'됐어요" 명백히 부정적 뉘앙스의]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F22%2FSBSfunE%2F20220722175113620lrpr.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
             <title><![CDATA['미니언즈2' 로맨스·액션·어드벤처까지..명장면 BEST3 (다음영화 뉴스 ─ 인기)]]></title>
             <link>https://movie.v.daum.net/v/20220722100514155</link>
             <guid>https://movie.v.daum.net/v/20220722100514155</guid>
@@ -1794,6 +1794,27 @@
             <pubDate>Fri, 22 Jul 2022 00:40:07 GMT</pubDate>
             <content:encoded><![CDATA[8월 개봉을 앞둔 영화 ‘파나마’의 주연 배우 멜 깁슨과 콜 하우저의가 취향을 저격하는 액션 특급 케미로 이목을 집중시키고 있어 화제다. ‘파나마’는 전직 해병대원 ‘베커’가 파나마에서 비밀 임무를 완수하기 위해 끝까지 물러서지 않는 위기 임박 트루 액션 영화. 할리우드 대표 액션 배우인 멜 깁슨은 ‘스타크’로 분해 CIA의 비밀 임무를 자신이 믿는]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F21%2Fbntnews%2F20220721210403424zpqw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["SF부터 치정막장극까지 '유미의 세포들2'에 다 있어요" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20220723060150618</link>
+            <guid>https://entertain.v.daum.net/v/20220723060150618</guid>
+            <pubDate>Fri, 22 Jul 2022 21:06:26 GMT</pubDate>
+            <content:encoded><![CDATA[유미의 세포들은 자신의 역할에 진심이고 매 순간 진지하다. 패션 세포는 ‘룩’에 모든 열정을 쏟는다. 자린고비 세포에겐 수입과 지출 관리가 지상 최대의 과제다. 응큼이 세포는 유미가 데이트할 때마다 최선을 다해 ‘기회’를 노린다. 게으름 세포마저 진심으로 게으르다. 티빙 오리지널 ‘유미의 세포들2’의 윤준상(48) 애니메이션 감독을 지난 18일 애니메이션]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[출생의 비밀→물따귀, 막장극 인기의 끝은 어디인가 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20220723060035580</link>
+            <guid>https://entertain.v.daum.net/v/20220723060035580</guid>
+            <pubDate>Fri, 22 Jul 2022 21:06:26 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] ‘막장’ 소재는 대표적인 드라마 클리셰다. 그간 SBS '펜트하우스', JTBC '부부의 세계', KBS2 '사랑의 꽈배기', '오케이 광자매', TV조선 '결혼작사 이혼작곡'등 일명 막장 드라마들은 거침없는 전개와 통쾌한 장면으로 시청률은 물론 압도적인 화제성을 자랑했다. 재벌 2세와 평범한 서민의 사랑 이야기, 일명 현실판 신데렐라 스토]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['오수재' 잘나가다 삐끗, 왜 서현진인진 알겠으나 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20220723060012538</link>
+            <guid>https://entertain.v.daum.net/v/20220723060012538</guid>
+            <pubDate>Fri, 22 Jul 2022 21:06:26 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박아름 기자] '왜 오수재인가'가 용두사미 드라마가 될 위기에 놓였다. SBS 금토드라마 '왜 오수재인가'(극본 김지은/연출 박수진 김지연)는 7월 23일 16회를 끝으로 종영한다. '왜 오수재인가'는 살기 위해, 가장 위에서, 더 독하게 성공만을 좇다 속이 텅 비어버린 차가운 변호사 오수재(서현진 분)와 그런 그녀를 지키기 위해서라면 무엇도]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[지창욱·성동일, 위태로운 첫 만남 포착 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
@@ -1880,130 +1901,109 @@
             <content:encoded><![CDATA[[스타뉴스 이빛나리 기자] /사진='비밀의 집' 방송화면'비밀의 집'에서 배우 장항선이 서하준에게 재산을 일부 증여했다. 22일 오후 방송된 MBC 일일드라마 '비밀의 집'에서는 남흥식(장항선 분)이 거실로 식구들을 모아 우지환(서하준 분)이 친손자임을 밝히는 모습이 그려졌다. 이날 우지환은 가족들 앞에서 남흥식에게 전달받은 유언장을 읽었다. 유언장에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['안나' 윤지민 "수지는 너무 매력적인 사람" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20220722181059314</link>
-            <guid>https://entertain.v.daum.net/v/20220722181059314</guid>
-            <pubDate>Fri, 22 Jul 2022 10:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 박윤진 기자] 배우 윤지민이 쿠팡플레이 시리즈 '안나' 종영 소감을 22일 공개했다. 윤지민은 지난 8일 막을 내린 '안나'에서 대학 내의 본인의 입지를 다지기 위해 이안나(수지)에게 교수 자리를 제안하는 윤소영 역을 맡았다. 전작 '소년비행'에서 마약 운반책 조직 우두머리 박인선 역을 맡았던 윤지민은 '안나'로 또 다른 모습을 보여줬다]]></content:encoded>
+            <title><![CDATA['놀면 뭐하니?' WSG워너비, '쇼! 음악중심' 데뷔 비하인드 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220723060338648</link>
+            <guid>https://entertain.v.daum.net/v/20220723060338648</guid>
+            <pubDate>Fri, 22 Jul 2022 21:06:32 GMT</pubDate>
+            <content:encoded><![CDATA['놀면 뭐하니?'에서 WSG워너비가 첫 음악 방송 스케줄을 소화하는 모습이 포착된다. 23일 방송되는 MBC 예능프로그램 '놀면 뭐하니?'에서는 지난주 화제를 모았던 WSG워너비 가야G(이보람, 소연, HYNN(박혜원), 정지소), 4FIRE(나비, SOLE(쏠), 엄지윤, 권진아), 오아시소(윤은혜, 코타, 박진주, 조현아)의 데뷔 무대 뒷이야기가 그려진]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['우영우' 시청률 고공행진 감사 이벤트 "우영우 인사 대회" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20220722175719981</link>
-            <guid>https://entertain.v.daum.net/v/20220722175719981</guid>
-            <pubDate>Fri, 22 Jul 2022 09:06:56 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 황수연 기자) ‘이상한 변호사 우영우’(이하 ‘우영우’) 제작사인 에이스토리가 유튜브에서 지난 20일(목)부터 8월 18일(목)까지 유튜브 쇼츠 단독으로 #Woo_Challenge(우_챌린지)'를 개최한다. ‘우영우’가 받는 사랑에 보답하고자 진행되는 본 이벤트는 일명 ‘우영우 인사법’에서 영감을 받았다. 극 중 우영우(박은빈 분)와 동그라미]]></content:encoded>
+            <title><![CDATA[미자 "父 장광에 죽여달라고"..개그 동료들 왕따에 우울증 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220723060301639</link>
+            <guid>https://entertain.v.daum.net/v/20220723060301639</guid>
+            <pubDate>Fri, 22 Jul 2022 21:06:32 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 윤성열 기자] /사진='오은영의 금쪽상담소'  개그우먼 미자가 극심한 우울증을 겪으며 극단적 선택을 했던 과거를 털어놔 안타까움을 자아냈다. 미자는 지난 22일 방송된 채널A 예능 프로그램 '오은영의 금쪽상담소'에 엄마인 배우 전성애와 함께 출연해 고민을 털어놨다. 이날 방송에서 미자는 개그맨 김태현과 결혼 20일 만에 전성애로부터 임신을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['블랙의 신부' 차지연 "인스타 개설, 사용법 배우는 중..조금씩 소통할 것" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20220722172744199</link>
-            <guid>https://entertain.v.daum.net/v/20220722172744199</guid>
-            <pubDate>Fri, 22 Jul 2022 09:06:56 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김나연 기자]&nbsp;배우 차지연이 앞으로 SNS를 활용한 활발한 소통을 예고했다. 22일 오전 넷플릭스 시리즈 ‘블랙의 신부’ 배우 차지연의 화상 인터뷰가 진행됐다. ‘블랙의 신부’는 사랑이 아닌 조건을 거래하는 상류층 결혼정보회사에서 펼쳐지는 복수와 욕망의 스캔들을 그린 넷플릭스 시리즈. 차지연은 지난 15일 ‘블랙의 신부’가 공개된 후 시청한]]></content:encoded>
+            <title><![CDATA[이영지, 정경호 사진 등장에 당황 "우리 외삼촌 닮았다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220723060301640</link>
+            <guid>https://entertain.v.daum.net/v/20220723060301640</guid>
+            <pubDate>Fri, 22 Jul 2022 21:06:32 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박정민 기자] 이영지가 배우 정경호를 알아보지 못해 웃음을 안겼다. 7월 22일 방송된 tvN '뿅뿅 지구오락실'에서는 인물 퀴즈 리벤지를 하는 용사들 모습이 그려졌다. 7라운드에서 이영지는 정경호를 보며 "누구예요?"라고 당황했다. 이은지가 "정경호 님"이라고, 미미는 "수영 선배님이랑 예쁜 사랑하고 있잖아요"라고 절규했다. 이영지는 정경호]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["한 순간에 고아 됐다" 이수영, 결국 무너져..눈물 펑펑 '예고' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220723040458093</link>
-            <guid>https://entertain.v.daum.net/v/20220723040458093</guid>
-            <pubDate>Fri, 22 Jul 2022 20:07:29 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김수형 기자] &nbsp;‘오은영의 금쪽 상담소’에서 미자의 사연이 전해진 가운데 예고편에서 이수영이 등장해 벌써부터 궁금증을 안기고 있다.&nbsp; 22일 방송된 채널 A 예능 ‘오은영의 금쪽 상담소’가 전파를 탔다 이날 게스트는 최근 결혼식을 올린 개그우먼 미자가 출연, 배우이자 母인 전성애와 출연했다.&nbsp; 이어 미자가 남편 김태현과의 결혼식 모습이 공개됐]]></content:encoded>
+            <title><![CDATA[이영지, 이우정 작가 작품 안 봤다..이은지 "다음 시즌에 없겠네" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220723060222635</link>
+            <guid>https://entertain.v.daum.net/v/20220723060222635</guid>
+            <pubDate>Fri, 22 Jul 2022 21:06:32 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박정민 기자] 이영지가 이우정 작가의 작품 대부분을 보지 않았다고 했다. 7월 22일 방송된 tvN '뿅뿅 지구오락실'에서는 두 번째 행선지 꼬사무이에 도착해 게임에 도전하는 용사들 모습이 그려졌다. 절대음감 게임에서 성공하면 음료, 실패하면 따뜻한 음료를 마셔야 한다. 이은지는 "단어가 너무 어렵다"고 토로했고, 안유진은 "열받아서 덥다"며]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김호중, "늘 사랑하오" 고백 건넨 상대는? (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220723030504021</link>
-            <guid>https://entertain.v.daum.net/v/20220723030504021</guid>
-            <pubDate>Fri, 22 Jul 2022 18:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 이승길 기자] '트바로티' 김호중이 MBN 새 예능프로그램 '미스터리 듀엣'의 첫 주자로 나선다. '미스터리 듀엣'은 국내 최고의 가수와 셀럽들이 듀엣 상대를 모르는 상태로 노래를 시작하고, 목소리만으로 교감을 나누다 서로의 존재를 확인하며 감동을 안기는 초대형 음악쇼다. 무엇보다 ‘미스터리 듀엣’은 전 세계 20개국 포맷 수출, 프랑스]]></content:encoded>
+            <title><![CDATA[이영지, '코사무이' 고급 숙소에서 강제 침낭행.."호텔 와서 이렇게 자요?" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220723060205624</link>
+            <guid>https://entertain.v.daum.net/v/20220723060205624</guid>
+            <pubDate>Fri, 22 Jul 2022 21:06:32 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=신지원 기자] '뿅뿅 '뿅뿅 지구오락실' 미션 꼴찌로 침낭에서 자게 된 이영지가 배신감을 느꼈다. 22일 오후 방송된 tvN 예능프로그램 '뿅뿅 지구오락실'에서는 태국 꼬사무이의 두 번째 숙소에서 게임 미션을 하게 된 이은지, 이영지, 미미, 안유진의 모습이 그려졌다. 이날 꼬사무이 두 번째 숙소를 간 네 멤버는 수영장과 푸르게 펼쳐진 자연 경]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박준형, 7개월 만 아빠 된 장동민에 "바빴었네~ 빼앰!" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220723030005864</link>
-            <guid>https://entertain.v.daum.net/v/20220723030005864</guid>
-            <pubDate>Fri, 22 Jul 2022 18:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] ‘구해줘! 홈즈’ god 박준형이 ‘늦깎이 아빠’ 장동민에게 농담을 건넨다. 24일 방송되는 MBC ‘구해줘! 홈즈’는 여름 휴가철을 맞아 ‘파도파도 홈서핑’ 특집으로 꾸며진다. 복팀에서는 박준형이 출격한다. 1년 반 만에 ‘홈즈’에 출연한 박준형은 유부남이 된 장동민과 붐에게 유부남 선배로서 조언한다. 그는 “일단 싸울]]></content:encoded>
+            <title><![CDATA[제이쓴, 천기저귀 100장 만들기 도전.. "기저귀는 사야겠다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220723060202622</link>
+            <guid>https://entertain.v.daum.net/v/20220723060202622</guid>
+            <pubDate>Fri, 22 Jul 2022 21:06:32 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=신지원 기자]예비 아빠 제이쓴이 별똥이를 위한 천 기저귀 100장 만들기에 나섰다. 22일 방송된 KBS2TV '슈퍼맨이 돌아왔다'에서는 홍현희와 제이쓴 부부가 합류했다. 이날 임신 9개월 차에 접어든 홍현희의 힘겨워하는 모습을 보던 제이쓴은 "다리 좀 주물러줄까?"라며 연신 다정한 모습을 보였다. 이어 아침 메뉴로 갈비탕을 준비한 제이쓴에 홍]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['놀뭐' WSG워너비 이보람, 밤 12시 유재석과의 통화에 눈물 쏟은 사연 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220723020005818</link>
-            <guid>https://entertain.v.daum.net/v/20220723020005818</guid>
-            <pubDate>Fri, 22 Jul 2022 17:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] ‘놀면 뭐하니?’ WSG워너비 멤버들이 기쁨과 눈물의 데뷔 소감을 전한다. 23일 방송되는 MBC ‘놀면 뭐하니?’에서는 데뷔와 동시에 음원 차트를 접수한 어마어마한 신예 WSG워너비의 세 유닛 가야G(이보람, 소연, HYNN(박혜원), 정지소), 4FIRE(나비, SOLE(쏠), 엄지윤, 권진아), 오아시소(윤은혜, 코타,]]></content:encoded>
+            <title><![CDATA[안유진, 이은지도 인정한 한국인 입맛 "곰탕에 후추 있었으면" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220723060149617</link>
+            <guid>https://entertain.v.daum.net/v/20220723060149617</guid>
+            <pubDate>Fri, 22 Jul 2022 21:06:32 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박정민 기자] 그룹 아이브 멤버 안유진이 '한국인 입맛'임을 인증했다. 7월 22일 방송된 tvN '뿅뿅 지구오락실'에서는 절대음감 게임에 도전하는 용사들 모습이 그려졌다. 절대음감 게임은 성공하면 음료, 실패하면 따뜻한 음료를 마시는 방식으로 진행됐다. 이은지는 "단어가 너무 어렵다"고 토로했고, 안유진은 "열받아서 덥다"며 욱한 모습을 보]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이주승 "'나혼산' 덕분에 영화 캐스팅"..구성환, 반려견과 감격 상봉 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220723014352772</link>
-            <guid>https://entertain.v.daum.net/v/20220723014352772</guid>
-            <pubDate>Fri, 22 Jul 2022 17:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이주승, 구성환이 한 달간의 영화 촬영을 마치고 귀국했다. 22일(금) 방송된 MBC 예능 프로그램 ‘나 혼자 산다’ 455회에서는 차서원의 ‘청춘 포차’, 이주승의 ‘본가 방문’ 편이 전파를 탔다. 이날 이주승과 구성환은 카자흐스탄에서의 영화 촬영을 마치고 인천공항에 도착했다. 지난 6월 한 달 동안 촬영하고 돌아온 것. 이주승은 구성환과 처음]]></content:encoded>
+            <title><![CDATA[정상훈 "이유리 첫인상? 새침할 줄 알았는데 너무 털털" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220723060123605</link>
+            <guid>https://entertain.v.daum.net/v/20220723060123605</guid>
+            <pubDate>Fri, 22 Jul 2022 21:06:32 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 정상훈이 이유리를 처음 만났을 때 느낌을 공개했다. 7월 22일 방송된 KBS 2TV ‘신상출시 편스토랑’에서는 정상훈이 이유리에게 캠핑 요리를 선보였다. 정상훈은 드라마에서 부부로 호흡을 맞추고 있는 이유리에게 캠핑 코스 요리를 선보였다. 미나리 고기 말이를 만든 정상훈은 고기 말이에서 나온 기름에 해산물과 배추, 고춧가루 등]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[기안84, 아직도 박나래 못 잊나..차서원과 新러브라인 질투 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220723012707747</link>
-            <guid>https://entertain.v.daum.net/v/20220723012707747</guid>
-            <pubDate>Fri, 22 Jul 2022 17:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김수형 기자] &nbsp;'나혼자 산다'에서 기안84가 박나래와 차서원 사이(?)를 질투했다.&nbsp; 22일 방송된 MBC 예능 '나혼자 산다'이 전파를 탔다.&nbsp; 이날 박나래가 차서원의 집을 방문, 집들이용 음식을 컨설팅(?) 받기 위해서였다. 급기야 비가 내리자 손으로 나래의 머리카락을 가려주는 모습.&nbsp; 이를 포착한 기안84는 "나래 옆에 다른 남자가 있]]></content:encoded>
+            <title><![CDATA["아마추어 냄새" 쓴소리 들은 '홍김동전', '우영우 신드롬'에 답 있다 0 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220723060102592</link>
+            <guid>https://entertain.v.daum.net/v/20220723060102592</guid>
+            <pubDate>Fri, 22 Jul 2022 21:06:32 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=서예진 기자] ≪서예진의 오예≫ '콘텐츠 범람의 시대'. 어떤 걸 볼지 고민인 독자들에게 서예진 텐아시아 기자가 '예능 가이드'가 돼 드립니다. 예능계 핫이슈는 물론, 관전 포인트, 주요 인물, 비하인드 스토리까지 낱낱이 파헤쳐 프로그램 시청에 재미를 더합니다."시청자분들이 구 개념 버라이어티라는 이름을 올드하다기보다 그 자체를 재밌고 신개념으로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["소중한 무대, 계속 이어지길"..'스케치북', 유희열 표절논란 속 '종영' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220723012400739</link>
-            <guid>https://entertain.v.daum.net/v/20220723012400739</guid>
-            <pubDate>Fri, 22 Jul 2022 17:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김나연 기자] '유희열의 스케치북'이 600회를 끝으로 막을 내렸다. 22일 KBS2 '유희열의 스케치북' 600회 특집이 방송됐다. 이날 오프닝은 '유희열의 스케치북' 첫 방송부터 지난 시간을 되돌아볼 수 있는 시간으로 꾸며졌다. 유희열은 "오프닝 영상에도 나왔지만 '스케치북'을 시작했을때 제 나이가 39살이었더라. 근데 그때만해도 30대였]]></content:encoded>
+            <title><![CDATA[류수영 "♥박하선이 근사하다고" 아내 위해 한여름에도 슈트 패션 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220723060053590</link>
+            <guid>https://entertain.v.daum.net/v/20220723060053590</guid>
+            <pubDate>Fri, 22 Jul 2022 21:06:32 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 류수영이 여름에도 양복 패션을 입은 이유를 공개했다. 7월 22일 방송된 KBS 2TV ‘신상출시 편스토랑’에서는 류수영이 망고잼을 활용한 다양한 레시피를 공개했다. 류수영은 퇴근 후 늦은 저녁 귀가한 콘셉트로 즉석에서 상황극을 펼쳤다. 류수영이 “밥 해준다고 서둘렀는데 늦었지. 저녁해 주려고 빨리 오려고 했는데 차가 너무 많이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이주승 '나혼산' 덕분에 구성환과 영화 캐스팅 "카자흐스탄서 배용준급 인기" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220723011855727</link>
-            <guid>https://entertain.v.daum.net/v/20220723011855727</guid>
-            <pubDate>Fri, 22 Jul 2022 17:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 이주승과 구성환이 ‘나 혼자 산다’ 덕분에 카자흐스탄에서 영화를 촬영했다. 7월 22일 방송된 MBC ‘나 혼자 산다’에서는 카자흐스탄에서 영화 촬영을 마치고 한 달 만에 한국에 돌아온 이주승, 구성환의 모습이 공개 됐다. 6월 한 달 동안 카자흐스탄에서 영화를 촬영한 이주승은 “우연히 둘이 같이 작품을 하게 됐다. 알고 봤더니]]></content:encoded>
+            <title><![CDATA[김재경 "롤 모델은 이준기. 워낙.." (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220723060005521</link>
+            <guid>https://entertain.v.daum.net/v/20220723060005521</guid>
+            <pubDate>Fri, 22 Jul 2022 21:06:32 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 고향미 기자] 걸 그룹 레인보우 출신 배우 김재경이 롤 모델로 배우 이준기를 꼽았다. 22일 오후 방송된 종합편성채널 TV조선 '식객 허영만의 백반기행'(이하 '백반기행')에서 허영만은 김재경과 충남 서천을 찾았다. 이날 방송에서 김재경은 "롤 모델이 누구냐?"는 허영만의 물음에 골똘히 생각하다 "이번에 드라마 '어게인 마이 라이프' 같이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["친구 같은 엄마" 이주승, 해외촬영 후 입국→母와 한 달만 재회 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220723011004675</link>
-            <guid>https://entertain.v.daum.net/v/20220723011004675</guid>
-            <pubDate>Fri, 22 Jul 2022 17:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 원민순 기자) 이주승이 해외촬영 후 입국해 어머니와 한 달만의 재회를 했다. 22일 방송된 MBC '나 혼자 산다'에서는 이주승이 어머니와 한 달만에 재회하는 모습이 전파를 탔다. 이날 이주승은&nbsp;인천 국제공항에서 모습을 드러냈다. 이주승 옆에는 구성환도 있었다. 이주승은 지난 6월 한달 동안 카자흐스탄에서 영화 촬영을 하고 돌아오는 길이라고]]></content:encoded>
+            <title><![CDATA[TXT 태현·휴닝카이·프미나 이채영, 3연속 꽝 릴레이 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220723055805501</link>
+            <guid>https://entertain.v.daum.net/v/20220723055805501</guid>
+            <pubDate>Fri, 22 Jul 2022 21:06:32 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박정민 기자] 투모로우바이투게더(TXT) 태현, 휴닝카이, 프로미스나인 이채영이 꽝 멤버가 됐다. 7월 22일 방송된 tvN '출장 십오야2'에서는 점심 미션을 수행하는 하이브 가수들 모습이 그려졌다. 투모로우바이투게더 태현은 '꽝 다음 기회에'를 뽑아 웃음을 안겼다. 이를 본 같은 팀 범규는 "제일 불쌍하다"며 안쓰러워했고, 엔하이픈 성훈은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['유스케' 씨스타, 5년 만에 완전체..'서머퀸' 귀환 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220723010717669</link>
-            <guid>https://entertain.v.daum.net/v/20220723010717669</guid>
-            <pubDate>Fri, 22 Jul 2022 16:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 이상은 기자] /사진=KBS 2TV '유희열의 스케치북' 방송화면'유희열의 스케치북'에서 걸 그룹 씨스타가 해체 후 5년 만에 '완전체'로 한자리에 모였다. 22일 오후 방송된 KBS 2TV '유희열의 스케치북'에서는 600회 특집 '우리들의 여름날'을 기념해 씨스타가 5년 만에 완전체로 모인 모습이 공개됐다. 이날 MC 유희열은 "오늘 오]]></content:encoded>
+            <title><![CDATA[오죽하면 금쪽이가 父母를 경찰신고까지.."피 터져 119 구급차도 왔다" 충격 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220723055716500</link>
+            <guid>https://entertain.v.daum.net/v/20220723055716500</guid>
+            <pubDate>Fri, 22 Jul 2022 21:06:32 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김수형 기자] &nbsp;'요즘 육아 금쪽같은 내 새끼'에서 어린 금쪽이가 부모를 경찰에까지 신고할 수 밖에 없었던 안타까운 사연이 전해졌다.&nbsp; 22일 방송된 채널 A 방송 '요즘 육아 금쪽같은 내 새끼'에서 부모싸움에 노출된 금쪽이가 그려졌다.&nbsp; 오늘의 주인공인 금쪽이 부부가 출연, 알고보니 10살 차로 연상연하 부부였다.&nbsp; 오늘 금쪽이에 대한 고민]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이주승, 카자흐스탄서 영화 촬영.."감독이 '나혼산' 보고 캐스팅" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220723010250630</link>
-            <guid>https://entertain.v.daum.net/v/20220723010250630</guid>
-            <pubDate>Fri, 22 Jul 2022 16:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 이빛나리 기자] /사진='나 혼자 산다' 방송화면'나 혼자 산다'에서 이주승이 카자흐스탄에서 영화 촬영을 마치고 귀국했다. 22일 오후 방송된 MBC 예능프로그램 '나 혼자 산다'에서는 북적이는 인천국제공항에서 이주승과 구성환을 맞이하는 모습이 그려졌다. 이날 박나래는 인천공항의 모습에 "나 너무 설레"라고 했고, 기안84도 "외국 못 간]]></content:encoded>
+            <title><![CDATA["앞이 안 보여" 픽보이, 뷔 딱밤 맞고 정신 혼미..최우식 박형식 후발대 예고 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220723055536494</link>
+            <guid>https://entertain.v.daum.net/v/20220723055536494</guid>
+            <pubDate>Fri, 22 Jul 2022 21:06:32 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박정민 기자] 우가팸의 3박 4일 고성 여행이 시작됐다. 7월 22일 방송된 JTBC '인더숲: 우정여행' 1화에서는 우가팸(박서준, 최우식, 뷔, 픽보이, 박형식)이 강원도 고성으로 여행을 떠나는 모습이 그려졌다. 우가팸은 뷔 소속사에서 모였다. 박서준은 "일이 왜 이렇게까지 된 거지? 미친 거 같아"라고 웃었다. 뷔는 "우리 그때 한번 이야기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[홍현희♥제이쓴, 子 예측 얼굴에 '감탄'.."국민 아기다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220723005008591</link>
-            <guid>https://entertain.v.daum.net/v/20220723005008591</guid>
-            <pubDate>Fri, 22 Jul 2022 16:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이예진 인턴기자) 홍현희, 제이쓴 부부가 2세 예측 얼굴에 감탄했다. 22일 방송된 KBS2TV ‘슈퍼맨이 돌아왔다’(이하 ‘슈돌’) 440회는 홍현희와 제이쓴이 출산 선물 언박싱부터 출산길 패션쇼까지 선보였다. 이날 방송에는 새로운 슈퍼맨으로 합류한 홍현희, 제이쓴 부부가 등장했다. 제이쓴은 "9개월 된 똥별이 아빠다"라고 자신을 소개했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미자 "母전성애, 출산 압박 심해..혼전 순결 강요했으면서" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220723005004590</link>
-            <guid>https://entertain.v.daum.net/v/20220723005004590</guid>
-            <pubDate>Fri, 22 Jul 2022 16:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 노수린 기자) 미자가 엄마 전성애와의 고민을 토로했다. 22일 방송된 채널A '오은영의 금쪽상담소'에는 개그우먼 미자와 미자의 엄마이자 배우 전성애가 출연했다. 미자의 고민은 "출산에 대한 어머니의 압박이 심해졌다"는 것이라며 "시어머니는 오히려 쿨하신데 엄마는 결혼 20일 차부터 압박했다"고 토로했다. 전성애는 "신랑도 나이가 있다 보니 우]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['유스케' 유희열, 마지막 오프닝 인사 "30대에 시작해 52세..모든건 여러분 덕분" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220723003609522</link>
-            <guid>https://entertain.v.daum.net/v/20220723003609522</guid>
-            <pubDate>Fri, 22 Jul 2022 16:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 강다윤 기자] 가수 유희열이  KBS 2TV '유희열의 스케치북' 600회를 맞은 소감을 전했다. 22일 방송된 '유희열의 스케치북'은 600회 특집을 맞아 지난 시간의 뜨거웠던 순간을 추억하고, 라이브 음악 쇼의 진수를 보여주는 '우리들의 여름날'이라는 주제로 꾸며졌다. 이날 유희열은 평소와 다름없이 "안녕하세요, 반갑습니다. '스케치북]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['유스케' 십센치, 과거 자료화면에 부끄러움..관중은 '폭소' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220723003233514</link>
-            <guid>https://entertain.v.daum.net/v/20220723003233514</guid>
-            <pubDate>Fri, 22 Jul 2022 16:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 이상은 기자] /사진=KBS 2TV '유희열의 스케치북' 방송화면'유희열의 스케치북'에서 십센치(권정렬)의 자료화면 공개에 관중이 폭소했다. 22일 오후 방송된 KBS 2TV '유희열의 스케치북'에서는 유희열이 그동안 감사했던 폴킴, 멜로망스, 십센치, 헤이즈, 데이브레이크를 소개하며 자료화면을 공개했다. 이날 600회 특집 '우리들의 여름날]]></content:encoded>
+            <title><![CDATA[세븐틴 호시·승관 "음악의 아버지 방시혁, 어머니는 김이나 작사가" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220723055442490</link>
+            <guid>https://entertain.v.daum.net/v/20220723055442490</guid>
+            <pubDate>Fri, 22 Jul 2022 21:06:32 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박정민 기자] 세븐틴 호시, 부승관이 예능감을 자랑했다. 7월 22일 방송된 tvN '출장 십오야2'에서는 하이브의 두 번째 야유회가 공개됐다. 엔하이픈 제이는 상식 퀴즈를 뽑았다. 나영석 PD는 "음악의 아버지는 바흐, 그렇다면 음악의 어머니는 누구?"라고 물었다. 이에 제이는 대답 못하고 뒤로 갔다. 뒤에서 대기하고 있던 '꼬리칸' 멤버들은]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['외계+인' 류준열·김우빈→염정아·조우진..'노잼' 조합은 아니지 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
