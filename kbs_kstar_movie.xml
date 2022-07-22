@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 07:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 08:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시트콤 '유니콘' 원진아, "돈벼락을 꿈꾸는 이달의 우수사원"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=219972</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=219972</guid>
+            <pubDate>Fri, 22 Jul 2022 08:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=219972">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220722151208_c45ad2ecb967eee659caff8d92dec42e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=219972">시트콤 '유니콘' 원진아, "돈벼락을 꿈꾸는 이달의 우수사원"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220722151208_c45ad2ecb967eee659caff8d92dec42e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['봄날의 햇살' 하윤경, "우영우를 응원해"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=219948</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=219442">[리뷰] ‘멘’ 남성 폭력의 대물림, 혹은 악몽의 릴레이 (알렉스 가랜드 감독2022)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220720093109_fb45e2494b84995439eda60a1f3a06c8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오징어 게임' 정호연, 청룡시리즈어워즈 드라마 부문 신인여우상 수상!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=219394</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=219394</guid>
-            <pubDate>Wed, 20 Jul 2022 03:03:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=219394">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220720084535_6145ee6765e1805593d79f42558d21c6.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=219394">'오징어 게임' 정호연, 청룡시리즈어워즈 드라마 부문 신인여우상 수상!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220720084535_6145ee6765e1805593d79f42558d21c6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
