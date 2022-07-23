@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-07-23T21:07:02.576Z</updated>
+    <updated>2022-07-23T22:05:12.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[휴가 때 뭐볼래?… 액션 vs 추격 vs 코미디 [박's 오피스]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=417&amp;aid=0000835553</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=417&amp;aid=0000835553"/>
+        <updated>2022-07-23T22:04:21.063Z</updated>
+        <content type="html"><![CDATA[박 기자가 소개하는 박스오피스 기대작! 극장을 통해 개봉을 앞둔 영화들을 소개해드립니다. 여름 휴가철을 맞아 국내 영화들이 대거 개봉한다. 이에 어느 작품이 박스오피스 순위권에 오를지 주목된다. 이번에 소개할 박스오]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰]박해일의 몰입, 박해일의 이순신]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011322233</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004663378"/>
         <updated>2022-07-23T05:13:25.787Z</updated>
         <content type="html"><![CDATA[올 여름 전국민에게 승리의 쾌감을 선사할 영화 '한산: 용의 출현' 측이 독도함에서 시사회를 성황리에 개최했다. 오는 27일 극장 개봉하는 '한산: 용의 출현'(감독 김한민, 제작 빅스톤픽처스, 배급 롯데엔터테인먼트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한산: 용의 출현' 독도함 시사회 성료…박해일 "이순신 장군 기운 받아가길"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001479531</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001479531"/>
-        <updated>2022-07-23T05:13:25.788Z</updated>
-        <content type="html"><![CDATA[영화 '한산: 용의 출현'(감독 김한민)이 지난 22일 오후 8시 독도함에서 성황리에 시사회를 개최했다. '한산: 용의 출현'은 명량해전 5년 전, 진군 중인 왜군을 상대로 조선을 지키기 위해 필사의 전략과 패기로]]></content>
     </entry>
 </feed>
