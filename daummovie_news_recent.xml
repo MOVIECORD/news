@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-07-24T21:06:38.880Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 24 Jul 2022 22:06:42 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가족영화 '미니언즈2', 스타 총출동 '외계+인'을 삼켰다?]]></title>
+            <link>https://v.daum.net/v/20220725063022022</link>
+            <guid>https://v.daum.net/v/20220725063022022</guid>
+            <pubDate>Sun, 24 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[애니메이션 영화 ‘미니언즈2’가 입소문을 타고 빠르게 관객을 모으고 있다. 사진제공｜유니버셜픽쳐스 7년 만에 돌아온 ‘노란 악동들’이 여름 극장가의 복병으로 떠올랐다. 애니메이션 ‘미니언즈2’가 박스오피스 2위 자리를 지키며 류준열·김태리·김우빈 등 스타들이 총출동한 한국영화 ‘외계+인’을 무서운 속도로 추격하고 있다. ‘미니언즈2’는 세계 최고의 악당을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F25%2Fsportsdonga%2F20220725063024110wmou.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
