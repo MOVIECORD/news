@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-07-25T16:10:20.419Z</updated>
+    <updated>2022-07-25T17:16:47.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MD포토] 진 '영화관 들썩이게 만드는 미소']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003628614</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003628614"/>
+        <updated>2022-07-25T17:15:50.810Z</updated>
+        <content type="html"><![CDATA[BTS 진이 25일 오후 서울 삼성동 메가박스에서 진행된 영화 '비상선언' VIP 시사회에서 주연배우들이 포즈를 취하고 있다. 비상선언'(감독 한재림)은 사상 초유의 항공테러로 무조건적 착륙을 선포한 비행기와 재난에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MD포토] 진 '만찢남의 등장']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003628609</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004728895"/>
         <updated>2022-07-25T13:34:22.548Z</updated>
         <content type="html"><![CDATA[배우 노정의가 25일 오후 서울 삼성동 메가박스 코엑스에서 열린 영화 '비상선언'(감독 한재림, 제작 (주)매그넘나인) VIP시사회에 참석해 포즈를 취하고 있다. 송강호, 이병헌, 전도연, 김남길, 임시완, 김소진,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]안소희, '고양이 미소']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004664812</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004664812"/>
-        <updated>2022-07-25T13:34:22.548Z</updated>
-        <content type="html"><![CDATA[영화 '비상선언(감독 한재림)' VIP 시사회 포토월 행사가 25일 오후 서울 강남구 메가박스 코엑스에서 열렸다. 배우 송강호, 이병헌, 전도연, 김남길, 임시완, 김소진, 박해준이 ‘출연하는 영화 비상선언'은 사상]]></content>
     </entry>
 </feed>
