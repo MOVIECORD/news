@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 22:05:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 23:08:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['한국인의 밥상' 장마 끝에 만나는 인생의 맛]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=220892</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=220892</guid>
+            <pubDate>Wed, 27 Jul 2022 23:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=220892">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220728073453_ebb03528ab8b21e20ff7e5974d3f902a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=220892">'한국인의 밥상' 장마 끝에 만나는 인생의 맛</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%95%9C%EA%B5%AD%EC%9D%B8%EC%9D%98%20%EB%B0%A5%EC%83%81">한국인의 밥상</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220728073453_ebb03528ab8b21e20ff7e5974d3f902a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[징크스의 연인] 자신을 위해 대신 저주를 이어받은 전광렬을 원망하는 기도훈?]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=220879</link>
@@ -346,24 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%AF%B8%EB%82%A8%EB%8B%B9">월화드라마 미남당</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220726231259_3d6b8cd1d9e27345bc355ac0abfa1e34_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[미남당] 스스로 경찰서에 나타난 원현준, DNA 불일치 소식에 경찰 의심하는 서인국 “바꿔치기 한 거야”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=220640</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=220640</guid>
-            <pubDate>Tue, 26 Jul 2022 15:06:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=220640">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220726230935_b3540daea5b932ac00fa1df36e58a2a0_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=220640">[미남당] 스스로 경찰서에 나타난 원현준, DNA 불일치 소식에 경찰 의심하는 서인국 “바꿔치기 한 거야”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%AF%B8%EB%82%A8%EB%8B%B9">월화드라마 미남당</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220726230935_b3540daea5b932ac00fa1df36e58a2a0_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
