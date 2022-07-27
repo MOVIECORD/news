@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 00:38:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 03:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 김한민 감독 “이순신과 함께 한 10년” (한산 용의 출현)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=220756</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=220756</guid>
+            <pubDate>Wed, 27 Jul 2022 03:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=220756">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220727094814_97e8f46c090330a2f6b354d76ec9ce11.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=220756">[인터뷰] 김한민 감독 “이순신과 함께 한 10년” (한산 용의 출현)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220727094814_97e8f46c090330a2f6b354d76ec9ce11.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[돈의 유혹에 빠진 아빠 정우, 그를 이용하는 박희순]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=220726</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=220373">배우 최우식 "난 원래 귀여운 것 같아"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220725101839_5ff61f52b6585510f678e5201b338931.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이즈원 출신 조유리, 첫 연기 도전...걸그룹 센터로 활약!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=220357</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=220357</guid>
-            <pubDate>Mon, 25 Jul 2022 03:06:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=220357">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220725095006_d87305e87fe9ec71a4f40a0c8bc690ba.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=220357">아이즈원 출신 조유리, 첫 연기 도전...걸그룹 센터로 활약!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220725095006_d87305e87fe9ec71a4f40a0c8bc690ba.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
