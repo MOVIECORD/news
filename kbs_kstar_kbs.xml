@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 04:41:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 05:23:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KBS독립영화관] ‘빛나는 순간’ 제주도 푸른 밤 (소준문 감독,2020)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=221229</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=221229</guid>
+            <pubDate>Fri, 29 Jul 2022 05:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=221229">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220729135840_0323b043f1d920b7810baef5cff7c24c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221229">[KBS독립영화관] ‘빛나는 순간’ 제주도 푸른 밤 (소준문 감독,2020)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8F%85%EB%A6%BD%EC%98%81%ED%99%94%EA%B4%80">독립영화관</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220729135840_0323b043f1d920b7810baef5cff7c24c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대한민국 인구 감소...'그 많던 아이들은 어디로 갔을까']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=221208</link>
@@ -347,23 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%97%B0%EC%A4%91%20%EB%9D%BC%EC%9D%B4%EB%B8%8C">연중 라이브</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220728102052_5ca8f691425e7e1f5cc9c0ec35f50cd4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[광복 77주년 맞아 열리는 특별공연 '600년의 길이 열리다']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=220979</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=220979</guid>
-            <pubDate>Thu, 28 Jul 2022 07:03:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=220979">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220728095653_e261ee4714aff37b264a56c87481d005.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=220979">광복 77주년 맞아 열리는 특별공연 '600년의 길이 열리다'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220728095653_e261ee4714aff37b264a56c87481d005.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
