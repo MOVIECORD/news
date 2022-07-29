@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-07-29T12:14:56.598Z</updated>
+    <updated>2022-07-29T13:34:11.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[감독 이정재, 8월 9일 '뉴스룸' 뜬다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004998276</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004998276"/>
+        <updated>2022-07-29T13:33:20.495Z</updated>
+        <content type="html"><![CDATA[배우 겸 감독 이정재가 '뉴스룸'에 출연한다. 29일 이정재 소속사 아티스트컴퍼니 측은 "이정재가 8월 9일 JTBC '뉴스룸'에 출연할 예정"이라고 밝혔다. 이정재는 '뉴스룸'에서 첫 연출 작 '헌트'에 대한 이야]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이조로 변호사의 작품 속 법률산책 - ‘외계+인’의 절도죄]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=014&amp;aid=0004875394</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003630353"/>
         <updated>2022-07-29T08:11:43.451Z</updated>
         <content type="html"><![CDATA[배우 변요한이 영화 '한산: 용의 출현'에서 역대급 연기 변신을 선보이며 폭발적인 흥행 포텐을 터뜨렸다. '한산: 용의 출현'은 27일 개봉 첫날 예매율 51.2%(영화진흥위원회 영화관입장권 통합전산망, 오전 7시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위대한 ‘엘비스’[곽명동의 씨네톡]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003630352</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003630352"/>
-        <updated>2022-07-29T08:11:43.451Z</updated>
-        <content type="html"><![CDATA[미국 남부 멤피스에서 트럭을 몰며 음악의 꿈을 키우던 19살의 무명 가수 엘비스(오스틴 버틀러). 지역 라디오의 작은 무대에 서게 된 ‘엘비스’는 어디서도 본 적 없는 몸짓과 퍼포먼스로 무대를 압도하고, 그에게 매료]]></content>
     </entry>
 </feed>
