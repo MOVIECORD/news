@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 23:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 00:35:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대한민국 인구 감소...'그 많던 아이들은 어디로 갔을까']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=221208</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=221208</guid>
+            <pubDate>Fri, 29 Jul 2022 00:34:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=221208">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220729090012_90535cf47f1da1d4a6000f7e2b1253cf_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221208">대한민국 인구 감소...'그 많던 아이들은 어디로 갔을까'</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%9C%EC%82%AC%20%EC%A7%81%EA%B2%A9">시사 직격</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220729090012_90535cf47f1da1d4a6000f7e2b1253cf_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[원지안, '결핍과 집착, 그리고 힐링'  드라마 '당신이 소원을 말하면']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=221039</link>
@@ -346,24 +364,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=220979">광복 77주년 맞아 열리는 특별공연 '600년의 길이 열리다'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220728095653_e261ee4714aff37b264a56c87481d005.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['한국인의 밥상' 장마 끝에 만나는 인생의 맛]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=220892</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=220892</guid>
-            <pubDate>Wed, 27 Jul 2022 23:07:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=220892">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220728073453_ebb03528ab8b21e20ff7e5974d3f902a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=220892">'한국인의 밥상' 장마 끝에 만나는 인생의 맛</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%95%9C%EA%B5%AD%EC%9D%B8%EC%9D%98%20%EB%B0%A5%EC%83%81">한국인의 밥상</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220728073453_ebb03528ab8b21e20ff7e5974d3f902a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
