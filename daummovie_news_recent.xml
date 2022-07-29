@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-07-29T21:06:40.781Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 29 Jul 2022 22:07:04 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰①]'한산' 변요한 "명량·조진웅 의식NO..나만의 것 욕심"]]></title>
+            <link>https://v.daum.net/v/20220730070306549</link>
+            <guid>https://v.daum.net/v/20220730070306549</guid>
+            <pubDate>Fri, 29 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 변요한(36)의 강렬한 귀환, 더 강렬한 변신이다. 1761만명의 관객을 동원, 한국 영화 사상 최고 흥행 기록을 세운 ‘명량’(2014)의 후속작, ‘한산: 용의 출현’(감독 김한민, 이하 '한산')이 27일 개봉했다. 변요한은 극 중 이순신(박해일)과 대립각을 세우며 팽팽한 긴장감을 형성한 왜군수군 최고 사령관 와키자카로 열연했다. 변요한은 최]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F30%2Fstartoday%2F20220730070309781tcet.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰②]변요한 "'명량' 보다 '한산'..천만 부담감 無"]]></title>
+            <link>https://v.daum.net/v/20220730070302548</link>
+            <guid>https://v.daum.net/v/20220730070302548</guid>
+            <pubDate>Fri, 29 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“‘명량’이 있었기에 ’한산’이 태어났다고 생각합니다. 뭐가 더 재미있냐고요? 당연히 ‘한산’이죠. 하하!” 변요한(36)은 이 같이 말하며 수줍게 웃었다. 왜군 수군 최고 사령관 와키자카로 열연한 그는 연신 ‘한산’에 대한 자부심과 애정을 뽐냈다. “‘명량’과 마찬가지로 ‘한산’ 역시 김한민 감독이 촬영 당시 최대한의 기술력으로 만든 작품이라고 생각해요]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F30%2Fstartoday%2F20220730070304588vgqe.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['한산'으로 "극장은 부산!" 주말 대기 관객만 37만[박스오피스]]]></title>
+            <link>https://v.daum.net/v/20220730070004449</link>
+            <guid>https://v.daum.net/v/20220730070004449</guid>
+            <pubDate>Fri, 29 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 허민녕 기자] “압도적인” 입소문의 시작. 개봉 불과 사흘만에 100만 돌파가 목전이다. 김한민-박해일 콤비의 역작 ‘한산:용의 출현’이 그렇다. 화제작 ‘한산:용의 출현’이 오프닝 스코어에 육박하는 개봉 사흘째 성적을 거두며 어느새 95만을 넘어섰다. 현 추세대 로라면 100만 돌파는 개봉 76시간째인 7월30일 정오 전후가 될 것이 확실시돼]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202207%2F30%2Fnewsen%2F20220730070006140ypkm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
