@@ -4,7 +4,7 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 23:07:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 00:31:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,24 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220729162545_29f9e522f3dfae96b557523a27ca98db_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘법대로 사랑하라’ 김남희,  고라니 멘탈의 정신과 닥터]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=221241</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=221241</guid>
+            <pubDate>Sat, 30 Jul 2022 00:30:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=221241">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220729144147_c01d397e9c8eef1921fa188d771ab5dd.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221241">‘법대로 사랑하라’ 김남희,  고라니 멘탈의 정신과 닥터</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B2%95%EB%8C%80%EB%A1%9C%20%EC%82%AC%EB%9E%91%ED%95%98%EB%9D%BC">월화드라마 법대로 사랑하라</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220729144147_c01d397e9c8eef1921fa188d771ab5dd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['걸어서 세계 속으로'  대서양의 낙원 카나리아 제도]]></title>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8B%B9%EC%8B%A0%EC%9D%B4%20%EC%86%8C%EC%9B%90%EC%9D%84%20%EB%A7%90%ED%95%98%EB%A9%B4">수목드라마 당신이 소원을 말하면</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220728142536_58d30b936d9ed19c152a41ac7d65ef94.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[연중 라이브] 신규 음악 프로그램 ‘리슨업’ 대공개!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=221142</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=221142</guid>
-            <pubDate>Thu, 28 Jul 2022 20:06:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=221142">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220729024024_e4bde4ab86586b0be2e4d7581a0f4e21_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221142">[연중 라이브] 신규 음악 프로그램 ‘리슨업’ 대공개!  </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%97%B0%EC%A4%91%20%EB%9D%BC%EC%9D%B4%EB%B8%8C">연중 라이브</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220729024024_e4bde4ab86586b0be2e4d7581a0f4e21_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
