@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 08:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 09:04:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘불후의 명곡’, 록 페스티벌 in 강릉 "김창완밴드-YB-크라잉넛-몽니-육중완밴드-잔나비-멜로망스"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=221420</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=221420</guid>
+            <pubDate>Sat, 30 Jul 2022 09:03:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=221420">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220730171305_84f885cd2ac74ed4d8d3484f7d0a1f6e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221420">‘불후의 명곡’, 록 페스티벌 in 강릉 "김창완밴드-YB-크라잉넛-몽니-육중완밴드-잔나비-멜로망스"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220730171305_84f885cd2ac74ed4d8d3484f7d0a1f6e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘리슨 업' 프로듀서 배틀 프로그램 '1라운드' 시작]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=221388</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8F%85%EB%A6%BD%EC%98%81%ED%99%94%EA%B4%80">독립영화관</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220729135840_0323b043f1d920b7810baef5cff7c24c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대한민국 인구 감소...'그 많던 아이들은 어디로 갔을까']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=221208</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=221208</guid>
-            <pubDate>Fri, 29 Jul 2022 00:34:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=221208">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220729090012_90535cf47f1da1d4a6000f7e2b1253cf_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221208">대한민국 인구 감소...'그 많던 아이들은 어디로 갔을까'</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%9C%EC%82%AC%20%EC%A7%81%EA%B2%A9">시사 직격</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220729090012_90535cf47f1da1d4a6000f7e2b1253cf_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
