@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-07-31T19:05:56.229Z</updated>
+    <updated>2022-07-31T20:09:50.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기대작-'비상선언'(상)] "가장 완벽한 장르 영화의 탄생"…호평 세례]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000164135</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000164135"/>
+        <updated>2022-07-31T20:08:57.654Z</updated>
+        <content type="html"><![CDATA[한재림 감독, 5년 만의 신작…첫선 보인 칸 영화제서 기립박수 한재림 감독의 영화 '비상선언'이 오는 3일 베일을 벗는다. 송강호 이병헌 전도연 김남길 임시완 김소진 박해준까지 '드림 캐스팅'으로 개봉 전부터 화제를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘한산’ 개봉 5일째 누적 관객 200만명 돌파]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003720720</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0004998466"/>
         <updated>2022-07-31T07:05:50.675Z</updated>
         <content type="html"><![CDATA[한국 신작 ‘한산: 용의 출현’(이하 '한산)이 개봉 5일 만에 200만 돌파에 성공한 가운데 장기 흥행 중인 ‘탑건 : 매버릭'(이하 '탑건2')도 700만이 넘는 관객을 동원하며 극장가를 뜨겁게 달구고 있다. 3]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘한산’ 개봉 5일 만에 관객수 200만명 넘어]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=021&amp;aid=0002524409</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=021&amp;aid=0002524409"/>
-        <updated>2022-07-31T07:05:50.680Z</updated>
-        <content type="html"><![CDATA[‘탑건2’는 700만명 돌파 박해일·변요한 주연의 ‘한산: 용의 출현’이 개봉 닷새째인 31일 누적 관객수 200만 명을 돌파했다고 배급사 롯데엔터테인먼트가 전했다. 지난 27일 개봉한 ‘한산’은 전날 오전 누적 관]]></content>
     </entry>
 </feed>

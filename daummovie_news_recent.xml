@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-07-31T19:05:56.211Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 31 Jul 2022 20:09:50 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기대작-'비상선언'(상)] "가장 완벽한 장르 영화의 탄생"..호평 세례]]></title>
+            <link>https://v.daum.net/v/20220801050014934</link>
+            <guid>https://v.daum.net/v/20220801050014934</guid>
+            <pubDate>Sun, 31 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한재림 감독, 5년 만의 신작…첫선 보인 칸 영화제서 기립박수 &nbsp; 한재림 감독의 영화 '비상선언'이 오는 3일 베일을 벗는다. 송강호 이병헌 전도연 김남길 임시완 김소진 박해준까지 '드림 캐스팅'으로 개봉 전부터 화제를 모은 작품은 출연진의 이름만으로도 예비 관객들을 설레게 하고 있다. '비상선언'의 매력과 관람 포인트를 짚어본다. &lt;편집자 주&gt; []]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F01%2FTHEFACT%2F20220801050017800joek.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
