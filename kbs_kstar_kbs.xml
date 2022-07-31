@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 23:06:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 00:35:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['팀 지니' 양희경-유순웅-길해연, "당신이 소원을 말하면"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=221268</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=221268</guid>
+            <pubDate>Sun, 31 Jul 2022 00:34:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=221268">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220729152009_3d7e8e5da478240a2f3f31a4f4027de4.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221268">'팀 지니' 양희경-유순웅-길해연, "당신이 소원을 말하면" </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8B%B9%EC%8B%A0%EC%9D%B4%20%EC%86%8C%EC%9B%90%EC%9D%84%20%EB%A7%90%ED%95%98%EB%A9%B4">수목드라마 당신이 소원을 말하면</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220729152009_3d7e8e5da478240a2f3f31a4f4027de4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리슨업] ‘박서준-최우식-박형식 절친’ 픽보이, 친구들 덕에 유명? “음악 잘 한다고 생각...이기고 싶다”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=221484</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%A6%AC%EC%8A%A8%20%EC%97%85">리슨 업</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220730164121_cad86855dac229da9e7318f4ba542a7b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성대 이상에 의상 문제까지, 김호중 "하늘에 맡기겠다"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=221323</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=221323</guid>
-            <pubDate>Fri, 29 Jul 2022 22:06:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=221323">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220729162545_29f9e522f3dfae96b557523a27ca98db_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221323">성대 이상에 의상 문제까지, 김호중 "하늘에 맡기겠다"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220729162545_29f9e522f3dfae96b557523a27ca98db_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
