@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 22:05:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 23:05:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김슬기-오동민 '법대로 사는' 첫사랑-끝사랑]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=221889</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=221889</guid>
+            <pubDate>Tue, 02 Aug 2022 23:04:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=221889">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220802150350_d663f81f19f3519e4ff2c607fef5d49f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221889">김슬기-오동민 '법대로 사는' 첫사랑-끝사랑</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B2%95%EB%8C%80%EB%A1%9C%20%EC%82%AC%EB%9E%91%ED%95%98%EB%9D%BC">월화드라마 법대로 사랑하라</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220802150350_d663f81f19f3519e4ff2c607fef5d49f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오케이? 오케이!] 두 마리 구조견 떠나 보낸 뒤 상실감에 눈물 흘리는 핸들러… “또 다른 이별이 두렵다”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=222017</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">개는 훌륭하다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220802011524_0ff3315d42a1470472a5b24ffcfd18d6_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[개는 훌륭하다] 강아지가 마냥 좋은 배우 한보름과 제법 훈련사 티가 나는 이경규]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=221747</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=221747</guid>
-            <pubDate>Mon, 01 Aug 2022 16:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=221747">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220802011033_c5929e6d6b9ccf02111bee93b6aa5aac_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221747">[개는 훌륭하다] 강아지가 마냥 좋은 배우 한보름과 제법 훈련사 티가 나는 이경규 </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">개는 훌륭하다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220802011033_c5929e6d6b9ccf02111bee93b6aa5aac_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
