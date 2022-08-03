@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 09:06:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 10:06:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[24회 서울국제여성영화제,  '공존과 공생, 기억하고 연결되는 영화축제로']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=222110</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=222110</guid>
+            <pubDate>Wed, 03 Aug 2022 10:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=222110">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220803180744_7721d38e3456dc78bcadcc730e2e3441.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=222110">24회 서울국제여성영화제,  '공존과 공생, 기억하고 연결되는 영화축제로'  </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220803180744_7721d38e3456dc78bcadcc730e2e3441.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고아성+장건재 감독, '한국이 싫어서' 촬영 시작]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=221940</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221763">'인더숲 : 우정여행' 일본에서도 인기 폭발</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220802075525_28ae066be025de7e259cbb462faae782.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] ‘한산:용의 출현’ 1592년의 조선 바다의 파고는 높았다 (김한민 감독,2022)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=221687</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=221687</guid>
-            <pubDate>Mon, 01 Aug 2022 12:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=221687">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220801161911_4bb917edf02854820b3044168f8f4df7.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221687">[리뷰] ‘한산:용의 출현’ 1592년의 조선 바다의 파고는 높았다 (김한민 감독,2022)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220801161911_4bb917edf02854820b3044168f8f4df7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
