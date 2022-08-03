@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 08:09:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 09:06:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['갓물주' 이승기, 검사 포스 작렬]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=222100</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=222100</guid>
+            <pubDate>Wed, 03 Aug 2022 09:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=222100">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220803174658_7aed0887e05d486702796217752bee6e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=222100">'갓물주' 이승기, 검사 포스 작렬</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B2%95%EB%8C%80%EB%A1%9C%20%EC%82%AC%EB%9E%91%ED%95%98%EB%9D%BC">월화드라마 법대로 사랑하라</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220803174658_7aed0887e05d486702796217752bee6e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[상큼돌 스테이씨 수민, '스테이션Z' DJ 활동 마무리]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=222078</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8B%B9%EC%8B%A0%EC%9D%B4%20%EC%86%8C%EC%9B%90%EC%9D%84%20%EB%A7%90%ED%95%98%EB%A9%B4">수목드라마 당신이 소원을 말하면</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220802084101_c9b8cca1e899fc5c154e0a2398b6f5e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['미남당' 서인국-곽시양, ‘빌런’ 정다은과 정면 승부]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=221789</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=221789</guid>
-            <pubDate>Tue, 02 Aug 2022 00:36:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=221789">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220802082338_f7eb8b50609ce820690f36667ee79f4b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221789">'미남당' 서인국-곽시양, ‘빌런’ 정다은과 정면 승부</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%AF%B8%EB%82%A8%EB%8B%B9">월화드라마 미남당</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220802082338_f7eb8b50609ce820690f36667ee79f4b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
