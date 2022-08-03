@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 00:39:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 03:15:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고아성+장건재 감독, '한국이 싫어서' 촬영 시작]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=221940</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=221940</guid>
+            <pubDate>Wed, 03 Aug 2022 03:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=221940">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220802162316_62beeacce72593e500e3c87ee316a05e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221940">고아성+장건재 감독, '한국이 싫어서' 촬영 시작</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220802162316_62beeacce72593e500e3c87ee316a05e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['버즈 라이트이어', 오늘부터 '디즈니+'에서 "무한의 우주, 너머로~"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=222068</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221687">[리뷰] ‘한산:용의 출현’ 1592년의 조선 바다의 파고는 높았다 (김한민 감독,2022)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220801161911_4bb917edf02854820b3044168f8f4df7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] ‘외계+인’ 1부를 재밌게 보는 방법 “그는 그가 아니다!”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=221651</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=221651</guid>
-            <pubDate>Mon, 01 Aug 2022 05:05:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=221651">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220801101738_6cf23e6a7dd7c90587f9c92d59ecddc0.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221651">[리뷰] ‘외계+인’ 1부를 재밌게 보는 방법 “그는 그가 아니다!” </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220801101738_6cf23e6a7dd7c90587f9c92d59ecddc0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
