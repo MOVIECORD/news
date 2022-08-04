@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 22:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 23:11:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현실 격공 코미디, 웨이브 '위기의 X(엑스)']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=222302</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=222302</guid>
+            <pubDate>Thu, 04 Aug 2022 23:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=222302">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220805073357_c6f01fb3612b1255897a0480b8cb6ec3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=222302">현실 격공 코미디, 웨이브 '위기의 X(엑스)'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220805073357_c6f01fb3612b1255897a0480b8cb6ec3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엔터프라이즈호 파이크 선장, 뜻밖의 옛 친구 만나다...'스타트렉: 스트레인지 뉴 월드']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=222193</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221865">디즈니 플러스 사상 최악의 괴물 '프레데터', 외계 포식자의 어마어마한 아우라</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220802102139_ee5f5ff225155c4016fbb9537e75df21.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['김다미-박해수', 넷플릭스 재난블록버스터 '대홍수' 캐스팅]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=221827</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=221827</guid>
-            <pubDate>Thu, 04 Aug 2022 12:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=221827">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220802090729_7a607c7fa3fc8df9826c79c881e09bbe.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221827">'김다미-박해수', 넷플릭스 재난블록버스터 '대홍수' 캐스팅</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220802090729_7a607c7fa3fc8df9826c79c881e09bbe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
