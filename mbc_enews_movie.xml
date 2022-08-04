@@ -1,8 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://enews.imbc.com/Search?searchText=%EC%98%81%ED%99%94</id>
-    <title>MBC 연예 ─ 영화</title>
-    <updated>2022-08-04T08:14:02.792Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://enews.imbc.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>MBC 연예 ─ 영화</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 04 Aug 2022 09:05:19 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이정재 "촬영중 햄스트링 파열, 영화 연출에 체력 필요하더라" [인터뷰M]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/356017</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/356017</guid>
+            <pubDate>Thu, 04 Aug 2022 09:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/356017" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/08/04/b85add83-865b-4a4c-8018-bfa81cb95e31.jpg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">이정재 "촬영중 햄스트링 파열, <font color="red">영화</font> 연출에 체력 필요하더라" [인터뷰M]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/08/04/b85add83-865b-4a4c-8018-bfa81cb95e31.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이정재 "칸에서 해외 언론 반응보며 자책했다" [인터뷰M]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/356006</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/356006</guid>
+            <pubDate>Thu, 04 Aug 2022 09:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/356006" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/08/04/a82d9b99-e303-4e9b-9525-999d64b95340.jpg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">이정재 "칸에서 해외 언론 반응보며 자책했다" [인터뷰M]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/08/04/a82d9b99-e303-4e9b-9525-999d64b95340.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[변요한 "'최종병기 활'의 박해일 사진보며 이미지 트레이닝" [인터뷰M]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/355368</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/355368</guid>
+            <pubDate>Thu, 04 Aug 2022 09:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/355368" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/07/28/7ce1a069-c986-4ee3-aa74-6162e7411030.jpg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">변요한 "'최종병기 활'의 박해일 사진보며 이미지 트레이닝" [인터뷰M]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/07/28/7ce1a069-c986-4ee3-aa74-6162e7411030.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최동훈 감독 "천자문에서 시공간을 오가는 스토리 힌트 얻어" [인터뷰M]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/354883</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/354883</guid>
+            <pubDate>Thu, 04 Aug 2022 09:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/354883" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/07/23/9293990d-a15b-4624-a6eb-bb167586475d.jpg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">최동훈 감독 "천자문에서 시공간을 오가는 스토리 힌트 얻어" [인터뷰M]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/07/23/9293990d-a15b-4624-a6eb-bb167586475d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['뜨거운 피' '좋댓구' 제 21회 뉴욕아시안영화제 공식 초청 겹 경사!]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/353632</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/353632</guid>
+            <pubDate>Thu, 04 Aug 2022 09:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/353632" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/07/13/274d5fb6-2ce1-4316-9033-daa254438fb9.jpg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">'뜨거운 피' '좋댓구' 제 21회 뉴욕아시안<font color="red">영화</font>제 공식 초청 겹 경사!</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/07/13/274d5fb6-2ce1-4316-9033-daa254438fb9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박찬욱 "고전적이고 우아한 사랑 이야기 만들고 싶었다" [인터뷰M]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/352041</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/352041</guid>
+            <pubDate>Thu, 04 Aug 2022 09:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/352041" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/06/24/5f5ebd55-ceca-4649-b2eb-be7d69903b6e.jpg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">박찬욱 "고전적이고 우아한 사랑 이야기 만들고 싶었다" [인터뷰M]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/06/24/5f5ebd55-ceca-4649-b2eb-be7d69903b6e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박찬욱 감독, 2002년 임권택 감독에 이어 20년 만의 감독상 수상 기록!]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/349271</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/349271</guid>
+            <pubDate>Thu, 04 Aug 2022 09:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/349271" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/29/b66fb256-f8e6-4cec-a889-85363ac3992e.jpeg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">박찬욱 감독, 2002년 임권택 감독에 이어 20년 만의 감독상 수상 기록!</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/29/b66fb256-f8e6-4cec-a889-85363ac3992e.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[송강호 '칸이 선택한 남자, 한국 남자 배우 최초 기록' 남우주연상 쾌거]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/349270</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/349270</guid>
+            <pubDate>Thu, 04 Aug 2022 09:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/349270" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/29/f163fabd-404f-4772-90f4-3eb1dfcc4122.jpg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">송강호 '칸이 선택한 남자, 한국 남자 배우 최초 기록' 남우주연상 쾌거</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/29/f163fabd-404f-4772-90f4-3eb1dfcc4122.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
