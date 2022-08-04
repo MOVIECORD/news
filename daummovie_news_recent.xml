@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-08-04T20:11:20.474Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 04 Aug 2022 21:08:06 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한재림 감독 "10년 전 기획한 영화..팬데믹에 좌절하기도"[SS인터뷰]]]></title>
+            <link>https://v.daum.net/v/20220805060120282</link>
+            <guid>https://v.daum.net/v/20220805060120282</guid>
+            <pubDate>Thu, 04 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울|조은별기자]“재난을 이겨낼 수 있다는 희망을 보여주고 싶었다.” 영화 ‘비상선언’의 한재림 감독은 결국 사람이 희망이라고 수차례 강조했다. 처음 ‘비상선언’ 연출 의뢰를 받았을 때만 해도 생각지 못했던 재난들이 지난 10년간 현실로 드러났다. 설상가상 팬데믹이라는 초유의 사태까지 벌어져 촬영이 중단되는 사태까지 벌어졌다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F05%2FSPORTSSEOUL%2F20220805060122064wzro.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘은] 2천500억원 미술품의 주인공 '매릴린 먼로']]></title>
+            <link>https://v.daum.net/v/20220805060030222</link>
+            <guid>https://v.daum.net/v/20220805060030222</guid>
+            <pubDate>Thu, 04 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 20세기 팝아트 거장 앤디 워홀의 명작으로 꼽히는 할리우드 배우 매릴린 먼로 초상화가 지난 5월 미국 뉴욕 크리스티 경매에서 1억9천500만 달러(약 2천500억원)에 팔렸는데요. '샷 세이지 블루 매릴린'이란 제목의 이 그림은 공개 경매 방식으로 팔린 20세기 미술작품 중 역대 최고가를 기록했죠. 직전 최고 기록은 파블로 피카소의 '알제]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F05%2Fyonhap%2F20220805060031009aipz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["자랑스런 아들"..'청춘스타' 아이돌파=엔싸인, 데뷔 하자마자 1억원 획득[어제TV]]]></title>
+            <link>https://v.daum.net/v/20220805051407908</link>
+            <guid>https://v.daum.net/v/20220805051407908</guid>
+            <pubDate>Thu, 04 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 5월부터 시작된 '청춘스타' 대장정, 1억 원의 주인공은 역시 아이돌파였다. 8월 4일 방송된 채널A '청춘스타'에서는 파이널 생방송 무대에 임하는 톱7의 모습이 담겼다. 이날 아이돌파 7인이 뭉쳐 만든 팀의 새로운 이름, '엔싸인'이 공개됐다. 새 그룹 결성을 발표한 당일에 최종 우승을 거머쥐며 성공적인 데뷔전을 치렀다. 이날]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F05%2Fnewsen%2F20220805051408488errw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
