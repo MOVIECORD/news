@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-08-06T14:04:50.578Z</updated>
+    <updated>2022-08-06T15:05:52.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[내가 본 '박해일'] 인사 대신 시를 읊은 진중할 결심]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000165376</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000165376"/>
+        <updated>2022-08-06T15:05:09.707Z</updated>
+        <content type="html"><![CDATA["이순신, 용맹함보다 선비스러움에 집중…'헤어질 결심' 패러디, 흥미로워" 배우 박해일은 인사 대신 시를 읊었다. "한산섬 달 밝은 밤에 수루에 혼자 앉아 큰 칼을 옆에 차고 깊은 시르 하는 차에 어디서 일성호가는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화엄사 '모기장 영화음악회']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013358276</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001485602"/>
         <updated>2022-08-06T08:10:01.216Z</updated>
         <content type="html"><![CDATA[영화 '비상선언'이 영진위 통합전산망 기준 6일 오후 2시 30분, 개봉 4일째 100만 관객을 돌파했다. 이는 '탑건: 매버릭'과 '한산: 용의 출현'과 동일한 추이로 팬데믹 이전 개봉한 재난 영화 '엑시트'(20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[항공재난 영화 '비상선언' 개봉 4일째 100만 돌파]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003672277</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003672277"/>
-        <updated>2022-08-06T08:10:01.219Z</updated>
-        <content type="html"><![CDATA[한재림 감독의 신작이자 올여름 유일한 항공재난을 다룬 영화 '비상선언'이 100만 관객을 모았다. 배급사 쇼박스는 영화진흥위원회 영화관입장권 통합전산망에서 '비상선언'이 6일 오후 2시 30분 기준 누적 관객 수 1]]></content>
     </entry>
 </feed>

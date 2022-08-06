@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-08-06T14:04:50.596Z</updated>
+    <updated>2022-08-06T15:05:52.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인사 대신 시를 읊은 진중할 결심]]></title>
+        <id>https://entertain.v.daum.net/v/20220807000025116</id>
+        <link href="https://entertain.v.daum.net/v/20220807000025116"/>
+        <updated>2022-08-06T15:05:51.546Z</updated>
+        <content type="html"><![CDATA["이순신, 용맹함보다 선비스러움에 집중…'헤어질 결심' 패러디, 흥미로워" [더팩트ㅣ이한림 기자] 배우 박해일은 인사 대신 시를 읊었다. "한산섬 달 밝은 밤에 수루에 혼자 앉아 큰 칼을 옆에 차고 깊은 시르 하는 차에 어디서 일성호가는 나의 애를 끊나니…"('한산섬 달밝은 밤에', 이순신) 박해일에게 영화 '한산: 용의 출현'(이하 '한산)은 큰 고민]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['한산:용의 출현' 400만 뚫었다]]></title>
         <id>https://entertain.v.daum.net/v/20220806203022369</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220806130001402"/>
         <updated>2022-08-06T04:16:37.011Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김나연 기자] 영화 '한산: 용의 출현'(감독 김한민)의 배우 박지환이 5일 오전 진행된 인터뷰를 위해 포즈를 취하고 있다. '한산: 용의 출현'은 '명량'의 후속작으로 절대적인 열세 속에서 전황을 뒤집은 이순신 장군과 조선 수군의 위대한 승리를 그린 영화다. /사진제공=롯데엔터테인먼트 2022.08.05 /사진=이동훈 기자 photoguy@배우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한층 진화한 모습으로 돌아온 프레데터..디즈니+ '프레이']]></title>
-        <id>https://entertain.v.daum.net/v/20220806121008077</id>
-        <link href="https://entertain.v.daum.net/v/20220806121008077"/>
-        <updated>2022-08-06T03:42:38.009Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 김정진 기자 = 300년 전 아메리카 대륙. 원주민 소녀 나루(앰버 미드선더 분)는 전사(戰士)를 꿈꾸지만, 어리고 여성이라는 이유로 부족 사람들에게 무시당하기 일쑤다. 어머니조차 '다른 것도 잘하는데 왜 사냥을 하고 싶어하냐'며 의구심을 드러낸다. 하지만 나루는 "다들 내가 못 할 거라 생각하니까요"라고 맞받아치며 타인의 시선에 굴하지]]></content>
     </entry>
 </feed>
