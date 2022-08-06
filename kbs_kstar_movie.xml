@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Aug 2022 06:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 07:05:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['헌트'를 위한 잠실行 "이정재 던지고, 정우성 친다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=222553</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=222553</guid>
+            <pubDate>Sat, 06 Aug 2022 07:02:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=222553">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220806084317_d2479b38a21f3836e8f8e7068e86515a_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=222553">'헌트'를 위한 잠실行 "이정재 던지고, 정우성 친다"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220806084317_d2479b38a21f3836e8f8e7068e86515a_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이정재 감독과 황동혁 감독의 '헌트 게임' 메가토크]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=222526</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=221940">고아성+장건재 감독, '한국이 싫어서' 촬영 시작</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220802162316_62beeacce72593e500e3c87ee316a05e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['버즈 라이트이어', 오늘부터 '디즈니+'에서 "무한의 우주, 너머로~"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=222068</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=222068</guid>
-            <pubDate>Wed, 03 Aug 2022 00:37:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=222068">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220803091440_fbd1122b41a13ccaf803d3310ea7fad4_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=222068">'버즈 라이트이어', 오늘부터 '디즈니+'에서 "무한의 우주, 너머로~"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220803091440_fbd1122b41a13ccaf803d3310ea7fad4_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
