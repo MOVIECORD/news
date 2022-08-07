@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 21:06:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 22:06:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지창욱, '고장난 어른 아이' 윤겨레]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=222647</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=222647</guid>
+            <pubDate>Sun, 07 Aug 2022 22:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=222647">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220807082027_deb4a589614dcd390b6f609bed35b6cd.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=222647">지창욱, '고장난 어른 아이' 윤겨레</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8B%B9%EC%8B%A0%EC%9D%B4%20%EC%86%8C%EC%9B%90%EC%9D%84%20%EB%A7%90%ED%95%98%EB%A9%B4">수목드라마 당신이 소원을 말하면</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220807082027_deb4a589614dcd390b6f609bed35b6cd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서인국-오연서, 썸과 쌈 사이 피어난 ‘핑크빛 기류’]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=222642</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220806075238_14e52828005c04643eb1cd54c90beb01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리슨업] 프로듀서 파테코 + 알앤비 대세 따마, ’떠나’ 무대...프로듀서들의 엇갈린 평]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=222623</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=222623</guid>
-            <pubDate>Sat, 06 Aug 2022 17:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=222623">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220807011121_cab92f191581ae54d74ff020686eb4e6_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=222623">[리슨업] 프로듀서 파테코 + 알앤비 대세 따마, ’떠나’ 무대...프로듀서들의 엇갈린 평</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%A6%AC%EC%8A%A8%20%EC%97%85">리슨 업</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220807011121_cab92f191581ae54d74ff020686eb4e6_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

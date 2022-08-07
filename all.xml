@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 21:06:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 22:06:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220728145357_f1265fc2b79026048c9f449bbda6871b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[지창욱, '고장난 어른 아이' 윤겨레 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=222647</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=222647</guid>
+            <pubDate>Sun, 07 Aug 2022 22:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=222647">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220807082027_deb4a589614dcd390b6f609bed35b6cd.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=222647">지창욱, '고장난 어른 아이' 윤겨레</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8B%B9%EC%8B%A0%EC%9D%B4%20%EC%86%8C%EC%9B%90%EC%9D%84%20%EB%A7%90%ED%95%98%EB%A9%B4">수목드라마 당신이 소원을 말하면</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220807082027_deb4a589614dcd390b6f609bed35b6cd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[서인국-오연서, 썸과 쌈 사이 피어난 ‘핑크빛 기류’ (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=222642</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=222642</guid>
@@ -1030,24 +1048,6 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220806075238_14e52828005c04643eb1cd54c90beb01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[리슨업] 프로듀서 파테코 + 알앤비 대세 따마, ’떠나’ 무대...프로듀서들의 엇갈린 평 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=222623</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=222623</guid>
-            <pubDate>Sat, 06 Aug 2022 17:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=222623">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220807011121_cab92f191581ae54d74ff020686eb4e6_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=222623">[리슨업] 프로듀서 파테코 + 알앤비 대세 따마, ’떠나’ 무대...프로듀서들의 엇갈린 평</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%A6%AC%EC%8A%A8%20%EC%97%85">리슨 업</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220807011121_cab92f191581ae54d74ff020686eb4e6_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[이정재 "촬영중 햄스트링 파열, 영화 연출에 체력 필요하더라" [인터뷰M] (MBC 연예 ─ 영화)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/356017</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/356017</guid>
@@ -1110,6 +1110,34 @@
             <pubDate>Thu, 04 Aug 2022 09:04:26 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/349270" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/29/f163fabd-404f-4772-90f4-3eb1dfcc4122.jpg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">송강호 '칸이 선택한 남자, 한국 남자 배우 최초 기록' 남우주연상 쾌거</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/29/f163fabd-404f-4772-90f4-3eb1dfcc4122.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[EN:터뷰]김한민 감독이 '한산'을 만들어야만 했던 이유 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003672423</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003672423</guid>
+            <pubDate>Sun, 07 Aug 2022 22:05:28 GMT</pubDate>
+            <content:encoded><![CDATA[※ 스포일러 주의 김한민 감독이 '명량' 이후 8년 만에 내놓은 '한산: 용의 출현'은 당항포 해전 이후 약 한 달간 한산해전이 일어난 후일까지를 그린다. 임진왜란 7년 전쟁의 수많은 전투 중 최초로 압도적 승리를]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘한산’, ‘비상선언’ 누르고 개봉 2주차에도 ‘1위’ (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=021&amp;aid=0002525432</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=021&amp;aid=0002525432</guid>
+            <pubDate>Sun, 07 Aug 2022 22:05:28 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘한산:용의출현’(감독 김한민)이 ‘비상선언’(감독 한재림)을 누르고 개봉 2주차 주말에도 박스오피스 1위를 차지했다. 영화관입장권통합전산망에 따르면 ‘한산:용의출현’은 5∼7일 115만6894명을 모았다. 누]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[“맹수 같은 눈빛” “소름 돋는 미소”…변요한 vs 임시완 ‘빌런 전쟁’ (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000997122</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000997122</guid>
+            <pubDate>Sun, 07 Aug 2022 22:05:28 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘한산: 용의 출현’(한산, 감독 김한민)과 ‘비상선언’(감독 한재림)이 토요일인 6일 극장을 찾은 102만 명의 관객 중 79만 명을 모으며 쌍끌이 흥행 중인 가운데, 각 영화의 악역 변요한과 임시완에 호평이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[서울국제여성영화제 개막작 '더 제인스' .... "연대와 용기의 여성사" (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000049024</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000049024</guid>
+            <pubDate>Sun, 07 Aug 2022 22:05:28 GMT</pubDate>
+            <content:encoded><![CDATA[이달 25일 개막하는 24회 서울국제여성영화제가 티아 레슨, 에마 필더스 감독의 &lt;더 제인스&gt;(2022)를 개막작으로 선정하며 기대감을 끌어올렸다. 24회 서울국제여성영화제 개막작으로 선정된 &lt;더 제인스&gt;는 여성의]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘탑친자’들 열정은 계속‥‘탑건:매버릭’ 750만 돌파 앞으로[박스오피스] (네이버TV연예 ─ 영화)]]></title>
@@ -1259,32 +1287,137 @@
             <content:encoded><![CDATA[7일 서울 송파구 롯데시네마 월드타워점에서 한 관람객이 영화 ‘한산 : 용의 출현’과 ‘비상선언’ 포스터 옆을 지나고 있다. 영화진흥위원회 영화관 입장권 통합전산망 집계에 따르면 '한산: 용의 출현'은 지난 6일,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[휴가철 극장가 사로잡은 한국 영화 '한산'과 '비상선언' (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006263752</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006263752</guid>
-            <pubDate>Sun, 07 Aug 2022 06:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[7일 서울 송파구 롯데시네마 월드타워점에서 한 관람객이 영화 ‘한산 : 용의 출현’과 ‘비상선언’ 포스터 옆을 지나고 있다. 영화진흥위원회 영화관 입장권 통합전산망 집계에 따르면 '한산: 용의 출현'은 지난 6일,]]></content:encoded>
+            <title><![CDATA[신기루X채리나, 디바 팬클럽 회장으로 만난 특별한 인연 (복면가왕) [전일야화] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001486025</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001486025</guid>
+            <pubDate>Sun, 07 Aug 2022 22:05:37 GMT</pubDate>
+            <content:encoded><![CDATA[코미디언 신기루가 과거 디바의 팬클럽 회장이었다고 고백했다. 7일 방송된 MBC '복면가왕'에서는 '노래만 듣고 헤어지긴 아쉬운데 라면 먹고 갈래?'의 정체가 신기루로 밝혀진 장면이 전파를 탔다. 이날 신기루는 '노]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘한산: 용의 출현’ 개봉 11일째 400만 돌파… 팀 인증 사진 공개 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000997029</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000997029</guid>
-            <pubDate>Sun, 07 Aug 2022 05:05:03 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘한산: 용의 출현’이 6일 개봉 11일째 400만 관객을 돌파했다. 이는 천만 흥행작 ‘광해, 왕이 된 남자’(16일)보다 빠른 속도는 물론 ‘해운대’(11일)와 동일한 기록이다. ‘한산: 용의 출현’측은 4]]></content:encoded>
+            <title><![CDATA[[인터뷰②] 나인우 "'1박2일' 가족 같아…입대 전까지 열일할 것" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005001496</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005001496</guid>
+            <pubDate>Sun, 07 Aug 2022 22:05:37 GMT</pubDate>
+            <content:encoded><![CDATA[나인우는 ‘달뜨강’에 이어 ‘징크스의 연인’으로 주연으로 우뚝 섰다. 또 KBS2 장수 예능 ‘1박2일’ 시즌4 멤버로도 활약 중이다. 그는 드라마와 예능을 오가며 활약하고 있는 것에 대해 “감격스러운 마음보다는 내]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘헌트’ 이정재·정우성, 부산 달궜다…특별한 팬서비스 ‘후끈’ (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000620884</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000620884</guid>
-            <pubDate>Sun, 07 Aug 2022 04:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[영화 ‘헌트’의 주역들이 6일 부산을 방문, 무대인사 및 부산 영화의 전당 야외 시사회&amp;쇼케이스를 진행하며 폭발적인 반응을 이끌어냈다. 이날 부산에서 진행된 무대인사에는 이정재 감독과 정우성, 허성태, 고윤정 등이]]></content:encoded>
+            <title><![CDATA[[인터뷰①] '징크스의 연인' 나인우 "서현, 단단하고 뚝심 있는 배우" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005001495</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005001495</guid>
+            <pubDate>Sun, 07 Aug 2022 22:05:37 GMT</pubDate>
+            <content:encoded><![CDATA[배우 나인우(28)는 ‘징크스의 연인’이 자신에겐 또 다른 도전이었다며, 끝까지 함께해준 시청자들에게 감사한 마음을 전했다. 나인우는 4일 종영한 KBS2 수목드라마 ‘징크스의 연인’(극본 장윤미, 연출 윤상호)에서]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['한산: 용의 출현' 1위 재탈환……400만 관객 돌파 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006263603</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006263603</guid>
-            <pubDate>Sun, 07 Aug 2022 04:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[이순신 장군의 한산해전을 그린 영화 '한산: 용의 출현'(감독 김한민)이 400만을 돌파했다. 7일 영화진흥위원회 영화관 입장권 통합전산망 집계에 따르면 '한산: 용의 출현'은 지난 6일, 46만5444명의 관객을]]></content:encoded>
+            <title><![CDATA[청하 "한 번도 술 취해 실수한 적 없다" (미우새) [전일야화] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001486022</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001486022</guid>
+            <pubDate>Sun, 07 Aug 2022 22:05:37 GMT</pubDate>
+            <content:encoded><![CDATA[가수 청하가 어머니에 대한 효심을 드러냈다. 7일 방송된 SBS '미운 우리 새끼'에서는 청하가 스페셜 게스트로 출연한 장면이 전파를 탔다. 이날 신동엽은 "청하 씨가 처음 나왔을 때 많은 사람들이 술 브랜드와 이름]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[추대엽 "유병재가 '유느님'…찢어질뻔한 가족도 살렸죠" [코미디언을 만나다]② (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006264279</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006264279</guid>
+            <pubDate>Sun, 07 Aug 2022 22:05:37 GMT</pubDate>
+            <content:encoded><![CDATA[부캐 열풍이 불었던 2020년, 개그맨 추대엽(44)은 카피추로 데뷔 18년 만에 전성기를 맞이했다. 2002년 MBC 13기 공채 개그맨으로 데뷔 후, 성식이 형과 천엽, 조간우 등 음악 코미디를 활용한 캐릭터로]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[추대엽 "카피추 뜨고 번아웃…다 내려놓고 컴백" [코미디언을 만나다]① (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006264278</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006264278</guid>
+            <pubDate>Sun, 07 Aug 2022 22:05:37 GMT</pubDate>
+            <content:encoded><![CDATA[부캐 열풍이 불었던 2020년, 개그맨 추대엽(44)은 카피추로 데뷔 18년 만에 전성기를 맞이했다. 2002년 MBC 13기 공채 개그맨으로 데뷔 후, 성식이 형과 천엽, 조간우 등 음악 코미디를 활용한 캐릭터로]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이소라, 최동환 포기…"여자이고 싶지만 어쩔 수 없는 엄마" (돌싱글즈3)[전일야화] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001486018</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001486018</guid>
+            <pubDate>Sun, 07 Aug 2022 22:05:37 GMT</pubDate>
+            <content:encoded><![CDATA['돌싱글즈3' 이소라가 최동환을 포기했다. 7일 방송된 MBN 예능 프로그램 '돌싱글즈3'에서 돌싱남녀들의 최종 선택이 그려졌다. 지난 방송에서 이소라는 "세 딸이 있다"며 "전남편이 양육을 하고 있다"고 밝힌 터.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[정우성, 이정재 핑크 재킷+진주 목걸이에 "작정했는데?"(집사부일체)[전일야화] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001486017</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001486017</guid>
+            <pubDate>Sun, 07 Aug 2022 22:05:37 GMT</pubDate>
+            <content:encoded><![CDATA['집사부일체'에서 정우성이 이정재의 패션에 돌직구를 던져 웃음을 줬다. 지난 7일 방송된 SBS 예능 프로그램 '집사부일체'에서는 배우 이정재와 정우성이 방송 예능 프로그램 최초로 동반 출연해 이야기를 나눴다. 이날]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['미우새' 김준호, ♥김지민과 운전 연습…"공항 갈 때 데려다주려고" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=018&amp;aid=0005286271</link>
+            <guid>https://entertain.naver.com/now/read?oid=018&amp;aid=0005286271</guid>
+            <pubDate>Sun, 07 Aug 2022 22:05:37 GMT</pubDate>
+            <content:encoded><![CDATA[‘미우새’ 김준호가 연인 김지민과 운전 연수에 도전하면서 2세 계획 및 소망을 간접적으로 드러냈다. 7일 저녁 방송된 SBS 예능프로그램 ‘미운 우리 새끼’(이하 ‘미우새’)에서는 김준호의 장롱면허 탈출 도전이 그려]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["독자분들 도와주세요" 김병현, 햄버거집 파란리본 후보지 등극 (당나귀 귀)[전일야화] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001486016</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001486016</guid>
+            <pubDate>Sun, 07 Aug 2022 22:05:37 GMT</pubDate>
+            <content:encoded><![CDATA[김병현이 햄버거집의 파란리본 후보지 등극에 도움을 청했다. 7일 방송된 KBS 2TV '사장님 귀는 당나귀 귀'에서는 김병현이 햄버거집의 파란리본 서베이 후보지 등극에 도움을 청하는 모습이 전파를 탔다. 이날 김병현]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[첫방 '텐트밖은유럽' 유쾌 케미→WSG워너비 4개월 여정 마침표 [예능 리포트] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001224991</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001224991</guid>
+            <pubDate>Sun, 07 Aug 2022 22:05:37 GMT</pubDate>
+            <content:encoded><![CDATA[여행 예능 ‘텐트 밖은 유럽’이 첫 방송된 가운데 배우 유해진 진선규 윤균상이 유쾌한 여행 메이트 케미를 드러내며 눈길을 사로잡았다. 또한 예능은 물론 음원차트와 음악방송까지 강타한 WSG워너비의 마지막 이야기가 펼]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이이경,전 LG화학 사장 父 언급 "은퇴하고 심심해하셔" (런닝맨)[전일야화] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001486014</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001486014</guid>
+            <pubDate>Sun, 07 Aug 2022 22:05:37 GMT</pubDate>
+            <content:encoded><![CDATA['런닝맨' 이이경이 주우재에게 아빠 번호를 알려줘 웃음을 자아냈다. 7일 방송된 SBS 예능 프로그램 '런닝맨'에 게스트 하도권, 주우재, 이이경이 출연했다. 세 사람은 팀장이 되어 원하는 멤버를 영입하는 로드 레이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['돌싱글즈3' 조예영♥한정민, 변혜진♥유현철 최종 커플 탄생 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=018&amp;aid=0005286264</link>
+            <guid>https://entertain.naver.com/now/read?oid=018&amp;aid=0005286264</guid>
+            <pubDate>Sun, 07 Aug 2022 22:05:37 GMT</pubDate>
+            <content:encoded><![CDATA[‘돌싱글즈3’가 최종 두 커플 탄생으로 마무리됐다. 지난 7일 저녁 방송된 MBN 예능프로그램 ‘돌싱글즈3’에서는 최종 선택을 앞둔 돌싱남녀 8인의 모습이 그려진 가운데 조예영♥한정민, 변혜진♥유현철 최종 두 커플이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[장동민, ♥아내가 준 반지 가품 의심?…"백금 플래티넘 맞아" (자본주의학교) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001486013</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001486013</guid>
+            <pubDate>Sun, 07 Aug 2022 22:05:37 GMT</pubDate>
+            <content:encoded><![CDATA[장동민이 아내가 준 결혼 반지 감정을 받았다. 7일 방송된 KBS 2TV '자본주의 학교'에서는 명품 가방과 시계 등의 정품과 가품을 비교해보는 시간을 가졌다. 이날 장동민은 정품 감정을 위한 도구를 사용해 자신이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘집사부일체’ 정우성·이정재, 자폭까지? “청담동 사모님 같긴 해” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001682064</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001682064</guid>
+            <pubDate>Sun, 07 Aug 2022 22:05:37 GMT</pubDate>
+            <content:encoded><![CDATA[‘집사부일체’ 정우성, 이정재가 청담부부 역할(?)을 공개했다. 7일 오후 방송된 SBS 예능프로그램 ‘집사부일체’에는 배우 이정재, 정우성이 출연했다. 이날 정우성, 이정재는 청담부부 별명을 아냐는 질문에 “알고]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘마이웨이’ 한무 “대장암 2기 진단, 아내가 대소변 받아내며 병간호” [종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001224990</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001224990</guid>
+            <pubDate>Sun, 07 Aug 2022 22:05:37 GMT</pubDate>
+            <content:encoded><![CDATA[코미디언 한무가 대장암 수술을 받고 투병을 했던 사연을 공개했다. 7일 방송된 TV조선 ‘스타다큐 마이웨이’에선 코미디언 한무의 인생스토리가 공개됐다. 이날 한무는 대장암 수술 후 아내와 함께 공기 좋은 전원주택에서]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['미우새' 청하 "빚 다 갚고 母 집과 차 해드려" 효녀 FLEX (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=018&amp;aid=0005286261</link>
+            <guid>https://entertain.naver.com/now/read?oid=018&amp;aid=0005286261</guid>
+            <pubDate>Sun, 07 Aug 2022 22:05:37 GMT</pubDate>
+            <content:encoded><![CDATA[가수 청하가 ‘소문난 효녀’ 면모를 드러냈다. 7일 저녁 방송된 SBS 예능프로그램 ‘미운 우리 새끼’(이하 ‘미우새’)에는 가수 청하가 스페셜 MC로 출연해 입담을 뽐냈다. 연예계 ‘소문난 효녀’로 알려진 청하는]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘유세풍’↑‘오늘의 웹툰’↓ 같은 힐링드, 다른 시청률[UP&DOWN리포트] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001224989</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001224989</guid>
+            <pubDate>Sun, 07 Aug 2022 22:05:37 GMT</pubDate>
+            <content:encoded><![CDATA[8월 둘째주 안방극장에선 tvN '조선 정신과의사 유세풍'과 SBS '오늘의 웹툰'의 성적표가 엇갈릴 전망이다. '조선정신과 의사 유세풍'은 안방극장 '의학불패'를 증명하듯 조용히 선전 중. 반면 '오늘의 웹툰'은]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['집사부' 은지원이 쫄 정도 "이정재X정우성은 달라" [★밤TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003077331</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003077331</guid>
+            <pubDate>Sun, 07 Aug 2022 22:05:37 GMT</pubDate>
+            <content:encoded><![CDATA[방송인 은지원이 배우 이정재와 정우성에 대한 팬심을 드러냈다. 7일 방송된 SBS 예능 프로그램 '집사부일체'에서는 '청담부부'라고 불리는 이정재와 정우성이 사부로 함께 등장했다. 이 날 집사부 멤버들과 출연진들은]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마마무 휘인, "내 아들" 깜짝 공개…너무 귀여워 꽁꽁 숨겨둘 만하네 [TEN★] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
@@ -1329,137 +1462,25 @@
             <content:encoded><![CDATA[정호영 셰프가 대기업의 인센티브를 받게 된 희소식을 전했다. 8월 7일 방송된 KBS 2TV 예능 '사장님 귀는 당나귀 귀'(이하 '당나귀 귀') 168회에서는 삼성사 구내식당에 정식 메뉴를 내놓기 위해 솜씨를 발휘]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[하도권 “김종국 몰락 보고 싶어, 가차 없이 버려야”(런닝맨)[어제TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612833</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612833</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[배우 하도권이 김종국의 몰락을 목표로 잡고 미션을 수행했다. 8월 7일 방송된 SBS '런닝맨'에서는 삼삼오오 레이스로 꾸며져 하도권, 이이경, 주우재가 게스트로 출연했다. 팀장들은 멤버들과 협상을 통해 미션비를 받]]></content:encoded>
+            <title><![CDATA[‘모범형사2’ 4회만 시청률 5% 돌파, 흥행 분위기 탔다 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612840</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612840</guid>
+            <pubDate>Sun, 07 Aug 2022 22:05:45 GMT</pubDate>
+            <content:encoded><![CDATA['모범형사 시즌2'가 시청률 5%를 돌파했다. 시청률 조사회사 닐슨코리아에 따르면 8월 7일 방송된 JTBC 토일드라마 '모범형사2' 4회는 전국 유료방송가구 기준 시청률 5.963%를 기록했다. 4회만에 시청률 5]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[58세 여에스더 몸매 자랑에 ♥홍혜걸 “보다 못 하겠네” 발끈(당나귀 귀)[어제TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612832</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612832</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[토크 콘서트 중 몸매 자랑을 하는 여에스더에 남편 홍혜걸이 발끈했다. 8월 7일 방송된 KBS 2TV 예능 '사장님 귀는 당나귀 귀'(이하 '당나귀 귀') 168회에서는 3년 만에 대면 토크 콘서트를 진행하는 여에스]]></content:encoded>
+            <title><![CDATA[‘현재는’ 윤시윤, ♥배다빈 “떨어져서 상황 지켜보자” 이별 통보에 ‘충격’ [어저께TV] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004674445</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004674445</guid>
+            <pubDate>Sun, 07 Aug 2022 22:05:45 GMT</pubDate>
+            <content:encoded><![CDATA[‘현재는 아름다워’ 윤시윤과 배다빈이 결혼 위기를 맞았다. 7일 방송된 KBS2 주말드라마 ‘현재는 아름다워’(연출 김성근, 극본 하명희, 제작 SLL, 드라마하우스스튜디오, 콘텐츠지음)에서는 현미래(배다빈 분)와]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[여에스더, 예쁜 연예인과 비교해 셀프 외모 비하 “무쌍+두꺼운 눈두덩”(당나귀 귀) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612831</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612831</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[여에스더가 셀프로 외모 비하를 하며 뒤끝을 보여줬다. 8월 7일 방송된 KBS 2TV 예능 '사장님 귀는 당나귀 귀'(이하 '당나귀 귀') 168회에서는 고객들과의 토크 콘서트를 앞두고 직원들과 헤어 메이크업을 받으]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김종국 “사랑하는 여자 생기면 다시 올 듯” 덴마크 풍경에 감탄(도포자락) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612830</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612830</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[김종국이 덴마크 풍경에 감탄했다. 8월 7일 방송된 MBC '도포자락 휘날리며'에서는 '도포파이브' 김종국, 지현우, 주우재, 노상현, 황대헌이 세 번째 K-컬쳐숍 판매에 나서는 모습이 공개됐다. 이날 본격적인 판매]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[정우성, ‘헌트’ 사고초려 “작품 본질 훼손하고 싶지 않아서”(집사부일체)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612829</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612829</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[배우 정우성이 영화 '헌트' 출연을 거절했던 이유를 밝혔다. 8월 7일 방송된 SBS '집사부일체'에서는 이정재, 정우성이 사부로 출연했다. 이정재는 "투톱물 시나리오를 쓰기 힘들다. 어느 한쪽이 의미 있거나 멋있으]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전소민, ‘런닝맨’ 제작진과 열애 부인 “다 결혼했잖아”[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612828</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612828</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[전소민이 '런닝맨' 제작진과 열애를 부인했다. 8월 7일 방송된 SBS '런닝맨'에서는 삼삼오오 레이스로 꾸며져 하도권, 이이경, 주우재가 게스트로 출연했다. 이날 멤버들은 각자 다른 장소에 출근했다. 제작진은 "개]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘도포자락’ 김종국, 동생들 아부에 흐뭇→선상 위 라이브까지[어제TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612827</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612827</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[김종국이 '도포자락 휘날리며' 맏형다운 활약을 펼쳤다. 8월 7일 방송된 MBC 예능프로그램 '도포자락 휘날리며'에서는 두 번째 판매를 마치고 숙소로 돌아온 '도포파이브' 김종국, 지현우, 주우재, 노상현, 황대헌의]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이정재 “연출+연기 병행 부담스럽지만 숙명, 칭찬 입에 달고 살아”(집사부)[어제TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612826</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612826</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이정재가 감독, 배우를 병행한 소감에 대해 밝혔다. 8월 7일 방송된 SBS '집사부일체'에서는 이정재, 정우성이 사부로 출연했다. 이정재, 정우성은 영화 '태양은 없다'로 인연을 맺었다. '헌트'로 오랜만에]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“‘1박2일’을 만든 건 시청자” 15주년 특집서 얻은 것[어제TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612825</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612825</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:16 GMT</pubDate>
-            <content:encoded><![CDATA['1박2일'이 추억을 제대로 소환했다. 8월 7일 방송된 KBS 2TV '1박2일 시즌4'에서는 15주년 역사 특집이 펼쳐졌다. 15주년 특집인만큼 모든 게임이 클래식 게임으로 진행됐다. 오프닝부터 갑작스레 룰렛을]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[슈트 전속 모델 된 김준호, 김준현 “그대로 사서 입어”(뭉쳐야2)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612824</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612824</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[김준호가 슈트 모델이 된 근황이 공개됐다. 8월 7일 방송된 JTBC 예능 '뭉쳐야 찬다 2'(이하 '뭉찬2') 53회에서는 어쩌다벤져스 창단 1주년을 기념하는 셀프 돌잔치가 개최됐다. 이날 어쩌다벤져스 멤버들은 체]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이승기, 이정재 정우성 24년 차 우정에 “거의 사실혼”(집사부일체) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612823</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612823</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이승기가 이정재, 정우성 우정에 감탄했다. 8월 7일 방송된 SBS '집사부일체'에서는 이정재, 정우성이 사부로 출연했다. 이정재는 강렬한 분홍색 재킷에 진주 목걸이 패션으로, 정우성은 깔끔한 재킷을 입고 멤버]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김민종 ‘복면가왕’ 나오나 “김구라 불참하면 생각해볼 것”[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612822</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612822</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[김민종이 '복면가왕' 출연을 약속했다? 가수 겸 배우 김민종은 8월 7일 방송된 MBC '복면가왕'에서 전화 연결로 깜짝 등장했다. 김민종은 베일에 싸여있는 '바다 보러 갈래?' 절친으로 등장, "힙합은 아니었고 아]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['열번째 개인전' 솔비 "조롱에 당당하게…마음 속 표현했죠" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=018&amp;aid=0005286249</link>
-            <guid>https://entertain.naver.com/now/read?oid=018&amp;aid=0005286249</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[“악플이나 편견 뒤에 숨지 않고 당당하게 실력으로 증명하고 싶었어요. 사이버불링(인터넷 상에서의 집단 괴롭힘)을 향해 난 미술로 투쟁해 나가겠다는 마음을 표현해봤죠.” 이에는 이, 작품 논란엔 작품으로. 가수 겸 화]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[안정환X이동국 우월한 슈트핏에 “영화제 느낌” 감탄(뭉쳐야2)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612821</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612821</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[안정환 이동국의 슈트핏에 여기저기서 감탄이 터져나왔다. 8월 7일 방송된 JTBC 예능 '뭉쳐야 찬다 2'(이하 '뭉찬2') 53회에서는 어쩌다벤져스 창단 1주년을 기념하는 셀프 돌잔치가 개최됐다. 이날 어쩌다벤져스]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[정우성, 이정재 연출작 세 번 거절한 이유 "본질 훼손하고 싶지 않아" [RE:TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006264232</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006264232</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[배우 정우성이 절친인 이정재가 감독에 도전하는 영화 '헌트' 출연을 고사한 이유를 밝혔다. 지난 7일 방송된 SBS 예능 프로그램 '집사부일체'에는 배우 이정재 정우성이 사부로 등장했다. 이정재는 '헌트'의 감독을]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한무 “아내와 결혼할 때 사귀는 여자 있었다” ‘마이웨이’[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612820</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612820</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:16 GMT</pubDate>
-            <content:encoded><![CDATA['마이웨이' 한무가 아내와 결혼할 당시 교제하던 여성이 있었다고 고백했다. 8월 7일 방송된 TV조선 '스타다큐 마이웨이'에는 코미디언 한무가 출연했다. 한무는 7세 연하의 아내 김옥경 씨에 대해 "미 8군 부대 밴]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박재란, 먼저 떠난 딸 박성신 생각에 눈물 “가슴에 묻어”(마이웨이)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612819</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612819</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:16 GMT</pubDate>
-            <content:encoded><![CDATA['마이웨이' 가수 박재란이 먼저 세상을 떠난 딸 故 박성신 생각에 눈물을 보였다. 8월 7일 방송된 TV조선 '스타다큐 마이웨이'에는 코미디언 한무가 출연했다. 이날 한무는 월남전 위문공연 무대에 함께 올랐던 가수]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박재란 “월남 위문공연서 팬티 도둑 맞아”(마이웨이)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612818</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612818</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:16 GMT</pubDate>
-            <content:encoded><![CDATA['마이웨이' 한무와 박재란이 월남전 위문공연 당시를 언급했다. 8월 7일 방송된 TV조선 '스타다큐 마이웨이'에는 코미디언 한무가 출연했다. 이날 한무는 월남전 위문공연 무대에 함께 올랐던 가수 박재란과 만나 추억여]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[송지효 “이름표 숨기려 PD에 문자 30개 보내면서 부탁”(런닝맨) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612817</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000612817</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[배우 송지효가 PD 집에 이름표를 숨기게 된 과정을 설명했다. 8월 7일 방송된 SBS '런닝맨'에서는 꼬꼬무 레이스 2탄이 펼쳐졌다. 지난주 꼬꼬무 레이스에서 전소민의 배신으로 2등을 차지한 유재석은 "너무 안타깝]]></content:encoded>
+            <title><![CDATA[지창욱, '고장난 어른 아이' 윤겨레 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=438&amp;aid=0000049026</link>
+            <guid>https://entertain.naver.com/now/read?oid=438&amp;aid=0000049026</guid>
+            <pubDate>Sun, 07 Aug 2022 22:05:45 GMT</pubDate>
+            <content:encoded><![CDATA[‘당신이 소원을 말하면’이 지창욱의 불꽃 열연이 담긴 비하인드 스틸을 공개했다. 10일(수) 첫 방송 예정인 KBS 2TV 새 수목드라마 ‘당신이 소원을 말하면’(연출 김용완, 극본 조령수)은 삶의 끝에 내몰린 위태]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서인국-오연서, 썸과 쌈 사이 피어난 ‘핑크빛 기류’ (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
@@ -1614,27 +1635,6 @@
             <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003077308</guid>
             <pubDate>Sun, 07 Aug 2022 14:05:32 GMT</pubDate>
             <content:encoded><![CDATA['환혼' 배우 서혜원이 진요원에 입성했다. 7일 방송된 tvN 토일드라마 '환혼'에서는 무덕이(정소민 분)와 장욱(이재욱 분)의 대화가 그려졌다. 장욱은 이날 무덕이에 "난 계속 할 거다. 그러니 무덕이도 계속해서]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[스브스夜] '런닝맨' 이이경, '미션비 0원' 유재석-지석진 영입…'미션비 47만 원' 전소민, 깍두기 확정 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=416&amp;aid=0000286278</link>
-            <guid>https://entertain.naver.com/now/read?oid=416&amp;aid=0000286278</guid>
-            <pubDate>Sun, 07 Aug 2022 14:05:32 GMT</pubDate>
-            <content:encoded><![CDATA[깍두기가 된 전소민은 실일까, 이득일까? 7일 방송된 SBS '런닝맨'에서는 '삼삼오오 레이스'가 펼쳐졌다. 이날 방송에서는 게스트 하도권, 주우재, 이이경이 각 팀의 팀장이 되어 런닝맨 멤버들과 팀을 이뤘다. 멤버]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[현재는 아름다워] 박지영, 배다빈에 “엄마가 행복지켜주지 못해 미안해” (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=438&amp;aid=0000049017</link>
-            <guid>https://entertain.naver.com/now/read?oid=438&amp;aid=0000049017</guid>
-            <pubDate>Sun, 07 Aug 2022 14:05:32 GMT</pubDate>
-            <content:encoded><![CDATA[박지영이 배다빈에 미안해했다. 7일 방송된 KBS2TV 새 주말드라마 ‘현재는 아름다워’(극본 하명희 / 연출 김성근) 38회는 청춘들이 사랑에 빠지고 결혼에 관한 모습을 통해 가족이 되는 모습들을 조명해보는 드라마]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이재욱, 父주상욱과 재회..박은혜, 가짜 진부연에 속아 (환혼) (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000163594</link>
-            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000163594</guid>
-            <pubDate>Sun, 07 Aug 2022 14:05:32 GMT</pubDate>
-            <content:encoded><![CDATA[‘환혼’의 이재욱이 부친 주상욱과 재회했다. 7일 방송된 tvN 토·일 드라마 ‘환혼’에서는 진무(조재윤)가 가짜 진부연인 소이(서혜원)를 내세워 진호경(박은혜)을 찾는 모습이 그려졌다. 소이는 귀의 점과 팔의 흉터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['야한 영화'인 줄만 알았는데.. 20년 만에 알게 된 반전  [나를 키운 여자들] (다음영화 뉴스 ─ 인기)]]></title>
@@ -1797,6 +1797,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F07%2FSPORTSSEOUL%2F20220807163729660fucr.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA["맹수 같은 눈빛" "소름 돋는 미소"..변요한 vs 임시완 '빌런 전쟁' (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20220808063017848</link>
+            <guid>https://v.daum.net/v/20220808063017848</guid>
+            <pubDate>Sun, 07 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[변요한(왼쪽)·임시완. 영화 ‘한산: 용의 출현’(한산, 감독 김한민)과 ‘비상선언’(감독 한재림)이 토요일인 6일 극장을 찾은 102만 명의 관객 중 79만 명을 모으며 쌍끌이 흥행 중인 가운데, 각 영화의 악역 변요한과 임시완에 호평이 쏟아지고 있다. 6월 1000만 관객을 모은 ‘범죄도시2’에서 극악한 살인마 역으로 주목 받은 손석구가 불러온 ‘빌런]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F08%2Fsportsdonga%2F20220808063019361guyr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
             <title><![CDATA[연기, 연출, 제작까지 도맡은 지천명 아이돌 이정재 [SS인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
             <link>https://v.daum.net/v/20220808060113414</link>
             <guid>https://v.daum.net/v/20220808060113414</guid>
@@ -1827,6 +1835,27 @@
             <pubDate>Sun, 07 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[하늘 끝에 걸린 해가 뉘엿뉘엿 질 무렵, 돗자리를 든 시민들이 하나둘씩 강릉 정동초교 운동장을 채웠다. 지난 5일 개막한 제24회 정동진독립영화제 현장이다. 싱어송라이터 데이먼스 이어의 개막공연 무대가 이어지는 사이 정동초교는 영화상영 준비를 마친 영화관처럼 캄캄한 밤하늘로 덮혔다. 제24회 정동진독립영화제가 5∼7일 7000여명의 관객을 모으며]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F08%2Fkado%2F20220808001100671oebu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['모범형사2' 4회만 시청률 5% 돌파, 흥행 분위기 탔다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20220808065946047</link>
+            <guid>https://entertain.v.daum.net/v/20220808065946047</guid>
+            <pubDate>Sun, 07 Aug 2022 22:06:07 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이민지 기자] '모범형사 시즌2'가 시청률 5%를 돌파했다. 시청률 조사회사 닐슨코리아에 따르면 8월 7일 방송된 JTBC 토일드라마 '모범형사2' 4회는 전국 유료방송가구 기준 시청률 5.963%를 기록했다. 4회만에 시청률 5%를 돌파하며 자체 최고 시청률을 경신했다. 손현주 장승조 주연 '모범형사2'는 선(善) 넘는 악(惡)인들의 추악]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['미우새' 김준호, ♥김지민과 운전 연습.."공항 갈 때 데려다주려고" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20220808065404018</link>
+            <guid>https://entertain.v.daum.net/v/20220808065404018</guid>
+            <pubDate>Sun, 07 Aug 2022 22:06:07 GMT</pubDate>
+            <content:encoded><![CDATA[(사진=SBS 방송화면)[이데일리 스타in 김보영 기자] ‘미우새’ 김준호가 연인 김지민과 운전 연수에 도전하면서 2세 계획 및 소망을 간접적으로 드러냈다. 7일 저녁 방송된 SBS 예능프로그램 ‘미운 우리 새끼’(이하 ‘미우새’)에서는 김준호의 장롱면허 탈출 도전이 그려졌다. 김준호는 이날 방송에서 김지민과 함께 운전 연수에 나섰다. 운전대를 잡은]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['돌싱글즈3' 조예영♥한정민, 변혜진♥유현철 최종 커플 탄생 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.v.daum.net/v/20220808064024913</link>
+            <guid>https://entertain.v.daum.net/v/20220808064024913</guid>
+            <pubDate>Sun, 07 Aug 2022 22:06:07 GMT</pubDate>
+            <content:encoded><![CDATA[(사진=MBN 방송화면)[이데일리 스타in 김보영 기자] ‘돌싱글즈3’가 최종 두 커플 탄생으로 마무리됐다. 지난 7일 저녁 방송된 MBN 예능프로그램 ‘돌싱글즈3’에서는 최종 선택을 앞둔 돌싱남녀 8인의 모습이 그려진 가운데 조예영♥한정민, 변혜진♥유현철 최종 두 커플이 맺어졌다. 이날 이소라와 데이트를 한 최동환은 “(이소라가 자녀 유무를 공개하기]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['환혼' 유인수♥아린, 사랑의 가출.."못 보고는 못 살아" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
@@ -1913,130 +1942,116 @@
             <content:encoded><![CDATA[[스타뉴스 정은채 인턴기자] /사진='모범형사2' 방송화면 캡처 김효진은 이복 오빠인 최대훈의 압박으로 인해 자신의 엄마가 스스로 목숨을 끊었던 기억을 떠올렸다. 7일 방송된 JTBC 토일드라마 '모범형사2'(극본 최진원, 연출 조남국)  4회에서는 천나나(김효진 분)가 천성우(최대훈 분)와 긴장감 넘치는 대화를 나누는 장면이 그려졌다. 천성우는 자신이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['모범형사2' 홍서영, 장승조에 단 둘이 사적 만남 제안..그 이유는? (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20220808002928527</link>
-            <guid>https://entertain.v.daum.net/v/20220808002928527</guid>
-            <pubDate>Sun, 07 Aug 2022 16:07:17 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 정은채 인턴기자] /사진= '모범형사2' 방송 화면 캡처 홍서영이 장승조에게 단 둘의 사적 만남을 제안했다. 7일 방송된 JTBC 토일드라마 '모범형사2'(극본 최진원, 연출 조남국) 4회에서 문보경(홍서영 분)은 최용근(박원상 분)의 업무 요청을 받아 오지혁(장승조 분), 김민지(백상희 분)와 각각 만남을 가졌다. 오지혁이 2년 전 사건 수사]]></content:encoded>
+            <title><![CDATA[김종민X문세윤X딘딘, 15주년 기념식수에 '삽질지옥' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220808070503208</link>
+            <guid>https://entertain.v.daum.net/v/20220808070503208</guid>
+            <pubDate>Sun, 07 Aug 2022 22:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 원민순 기자) 김종민, 문세윤, 딘딘이 삽질지옥에 빠졌다. 7일 방송된 KBS 2TV '1박 2일 시즌4'에서는 김종민, 문세윤, 딘딘이 15주년 기념식수에 삽질지옥에 빠지는 모습이 전파를 탔다. 이날 김종민, 문세윤, 딘딘은 나인우, 연정훈이 각각 순천, 군산 선유도로 향한 가운데 시즌1의 첫 베이스캠프였던 영동&nbsp;원촌리 마을의 느티나무 쉼터]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김민재♥김향기 '심의' 거듭나기 특훈→로맨틱 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20220808000520336</link>
-            <guid>https://entertain.v.daum.net/v/20220808000520336</guid>
-            <pubDate>Sun, 07 Aug 2022 15:06:10 GMT</pubDate>
-            <content:encoded><![CDATA[[동아닷컴] 김민재가 김향기를 위한 특훈에 나선다. tvN 월화드라마 ‘조선 정신과 의사 유세풍’(연출 박원국, 극본 박슬기 최민호 이봄) 제작진은 7일 유세풍(김민재 분)과 서은우(김향기 분)의 달빛 아래 야간수업을 포착했다. 각자의 아픔을 딛고 ‘심의(心醫)’로 거듭날 유세풍, 서은우의 변화가 기대와 설렘을 높인다. 제작진에 따르면 서로에게 삶의]]></content:encoded>
+            <title><![CDATA['물어보살' 투자 사기로 억 대 날린 의뢰인 "돈 아무리 벌어도 허무" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220808070417196</link>
+            <guid>https://entertain.v.daum.net/v/20220808070417196</guid>
+            <pubDate>Sun, 07 Aug 2022 22:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이민지 기자] 사기로 큰돈을 잃은 의뢰인이 보살들을 찾았다. 8월 8일 방송되는 KBS Joy 예능프로그램 '무엇이든 물어보살' 177회에는 30대 남성이 의뢰인으로 출연한다. 이날 의뢰인은 수입이 꾸준히 늘고 있지만 뿌듯하거나 기쁜 마음이 들지 않고 허무하기만 하다고 말문을 연다. 몇 년 전 투자 사기를 당해 억 대의 빚을 지게 됐기 때문.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['현재는' 배다빈, ♥윤시윤과 이별→母 박지영 선택했다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.v.daum.net/v/20220808000108240</link>
-            <guid>https://entertain.v.daum.net/v/20220808000108240</guid>
-            <pubDate>Sun, 07 Aug 2022 15:06:10 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박하영 기자] ‘현재는 아름다워’ 배다빈이 박인환 박지영의 부녀관계 사실을 알고 이별을 고했다. 7일 방송된 KBS2 주말드라마 ‘현재는 아름다워’(연출 김성근,&nbsp;극본 하명희,&nbsp;제작&nbsp;SLL,&nbsp;드라마하우스스튜디오,&nbsp;콘텐츠지음)에서는 현미래(배다빈 분)는 이현재(윤시윤 분)보다 엄마 진수정(박지영 분)을 선택했다. 이날 진수정은 친부 이경철(박인환]]></content:encoded>
+            <title><![CDATA[신기루X채리나, 디바 팬클럽 회장으로 만난 특별한 인연 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220808070307174</link>
+            <guid>https://entertain.v.daum.net/v/20220808070307174</guid>
+            <pubDate>Sun, 07 Aug 2022 22:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이이진 기자) 코미디언 신기루가 과거 디바의 팬클럽 회장이었다고 고백했다. 7일 방송된 MBC '복면가왕'에서는 '노래만 듣고 헤어지긴 아쉬운데 라면 먹고 갈래?'의 정체가 신기루로 밝혀진 장면이 전파를 탔다. 이날 신기루는 '노래만 듣고 헤어지긴 아쉬운데 라면 먹고 갈래?'로 무대에 올랐고, 1라운드에서 탈락해 정체를 공개했다. 김성주는 "]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['집사부' 은지원이 쫄 정도 "이정재X정우성은 달라" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220808060500532</link>
-            <guid>https://entertain.v.daum.net/v/20220808060500532</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:54 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 정은채 인턴기자] /사진= '집사부일체' 방송화면 캡처 방송인 은지원이 배우 이정재와 정우성에 대한 팬심을 드러냈다. 7일 방송된 SBS 예능 프로그램 '집사부일체'에서는 '청담부부'라고 불리는 이정재와 정우성이 사부로 함께 등장했다. 이 날 집사부 멤버들과 출연진들은 이정재와 정우성의 소울푸드인 청국장을 점심식사로 먹으며 대화를 나눴다. 도]]></content:encoded>
+            <title><![CDATA[청하 "한 번도 술 취해 실수한 적 없다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220808070052109</link>
+            <guid>https://entertain.v.daum.net/v/20220808070052109</guid>
+            <pubDate>Sun, 07 Aug 2022 22:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이이진 기자) 가수 청하가 어머니에 대한 효심을 드러냈다. 7일 방송된 SBS '미운 우리 새끼'에서는 청하가 스페셜 게스트로 출연한 장면이 전파를 탔다. 이날 신동엽은 "청하 씨가 처음 나왔을 때 많은 사람들이 술 브랜드와 이름이 같아서"라며 밝혔고, 청하는 "제 목표가 한때 그 주류보다 유명해지는 거였다"라며 거들었다. 서장훈은 "이름 때]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['청담 부부', 쇼윈도? 은지원도 인정한 '찐'! 이정재 "정우성에 거절 4년간 4번 당했는데.." (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220808060010312</link>
-            <guid>https://entertain.v.daum.net/v/20220808060010312</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:54 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] '집사부일체'에서 배우 이정재가 연출 데뷔작 '헌트'에 절친 정우성 캐스팅 비하인드 스토리를 밝혔다. 7일 오후 방송된 SBS '집사부일체'에선 영화 '헌트'의 주역 이정재, 정우성이 사부로 나선 모습이 그려졌다. 이정재와 정우성은 영화 '태양은 없다'(1999) 이후 무려 23년 만에 '헌트'로 연기 호흡을 맞추며 화제를]]></content:encoded>
+            <title><![CDATA[청하 "목표? 동명의 술보다 유명해지기..'주량'은 원없이 마신다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220808065732041</link>
+            <guid>https://entertain.v.daum.net/v/20220808065732041</guid>
+            <pubDate>Sun, 07 Aug 2022 22:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박근희 기자] '미운 우리 새끼’ 청하가 주량을 언급했다.&nbsp; 7일 오후 방송된 SBS '미운 우리 새끼'에서 청하가 게스트로 등장했다. 신동엽은 “청하씨가 처음 나왔을 때 술 브랜드와 이름이 같아서”라고 운을 뗐고,&nbsp; 청하는 “제 목표가 한때 그 주류보다 유명해지는 거”라고 말해 웃음을 자아냈다. 술을 마시고 한 번도 실수를 한 적이 없다는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['미스터리 듀엣' 음악예능 지겨운데 왜 자신하나 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220808060005296</link>
-            <guid>https://entertain.v.daum.net/v/20220808060005296</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:54 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박아름 기자] '미스터리 듀엣'이 음악 예능 홍수 속 강렬한 출사표를 던진다. MBN은 8월 8일 오후 10시 40분 새 예능 프로그램 ‘미스터리 듀엣’을 선보인다. '미스터리 듀엣'은 국내 최고의 가수와 셀럽들이 듀엣 상대를 모르는 상태로 노래를 시작하고, 목소리만으로 교감을 나누다가 서로의 존재를 확인하며 감동을 안기는 초대형 음악쇼다. 전]]></content:encoded>
+            <title><![CDATA["아이를 가지고 싶을 뿐" 암4기 진단.. 2세 계획으로 갈등ing (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220808065726039</link>
+            <guid>https://entertain.v.daum.net/v/20220808065726039</guid>
+            <pubDate>Sun, 07 Aug 2022 22:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박근희 기자] '오! 마이 웨딩’ 장지림이 2세 계획을 두고 황도연과 갈등했다. 7일 오후 방송된 SBS '오! 마이 웨딩'에서는 암 진단 후 긴 투병 생활까지 견딘 장지림 황도연 커플의 사연이 공개됐다. 남편에게 가장 고마운 점이 무엇이냐는 질문에 장지림은 “나를 버리지 않은 것. (암 4기임을 알고) 저를 버리라고 했다. ‘내가 낫는다고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김종민 "올해 결혼은 힘들다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220808055448180</link>
-            <guid>https://entertain.v.daum.net/v/20220808055448180</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:54 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박아름 기자] 김종민이 올해 결혼한다? 8월 7일 방송된 KBS 2TV '1박2일 시즌4'(이하 1박2일)에서는 월류정을 찾은 멤버들의 모습이 공개됐다. 이날 김종민, 문세윤, 딘딘은 돌탑을 쌓으며 소원을 빌었다. 문세윤은 '김종민 올해 결혼하기'를 언급하며 탑을 쌓았지만 김종민은 "올해는 힘들다"며 고개를 저었다. 하지만 문세윤은 소원빌기를 이]]></content:encoded>
+            <title><![CDATA[이소라, 최동환 포기.."여자이고 싶지만 어쩔 수 없는 엄마" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220808065703035</link>
+            <guid>https://entertain.v.daum.net/v/20220808065703035</guid>
+            <pubDate>Sun, 07 Aug 2022 22:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 백민경 인턴기자) '돌싱글즈3' 이소라가 최동환을 포기했다. 7일 방송된 MBN 예능 프로그램 '돌싱글즈3'에서 돌싱남녀들의 최종 선택이 그려졌다. 지난 방송에서 이소라는 "세 딸이 있다"며 "전남편이 양육을 하고 있다"고 밝힌 터. 그는 최동환에게 "남자 분들이 (아이 셋 이야기를) 듣고 나에 대한 호감이 다 사라졌을 같다"고 말했다. 그러]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정호영, 삼성 650개 구내식당에 메뉴 채택 "인센티브 받아" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220808055420174</link>
-            <guid>https://entertain.v.daum.net/v/20220808055420174</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:54 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 정호영 셰프가 대기업의 인센티브를 받게 된 희소식을 전했다. 8월 7일 방송된 KBS 2TV 예능 '사장님 귀는 당나귀 귀'(이하 '당나귀 귀') 168회에서는 삼성사 구내식당에 정식 메뉴를 내놓기 위해 솜씨를 발휘한 정호영과 일식집 직원들의 모습이 그려졌다. 지난주 정호영은 대기업 삼성사로부터 구내식당 메뉴를 의뢰 받아 직원들]]></content:encoded>
+            <title><![CDATA[조현, 24년 된 C사 명품 가방 "現 1400만원"→ 정품 가품 구별법 대방출 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220808065608032</link>
+            <guid>https://entertain.v.daum.net/v/20220808065608032</guid>
+            <pubDate>Sun, 07 Aug 2022 22:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박하영 기자] ‘자본주의학교’ 조현이 어머니한테 물려받은 C사 명품 가방을 공개했다. 7일 방송된 KBS 2TV 예능 ‘자본주의학교’(이하 ‘자본주의’)에서는 정품과 가품을 구별하는 방법을 전했다. 이날 명품 감정사는 H사 명품백의 정품과 가품을 구별하는 방법을 전했다. 감정사는 H사이에서 유명한 ‘켈리백’이라고 소개하며 모나코 왕비 그레이스]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[하도권 "김종국 몰락 보고 싶어, 가차 없이 버려야" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220808055343162</link>
-            <guid>https://entertain.v.daum.net/v/20220808055343162</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:54 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박정민 기자] 배우 하도권이 김종국의 몰락을 목표로 잡고 미션을 수행했다. 8월 7일 방송된 SBS '런닝맨'에서는 삼삼오오 레이스로 꾸며져 하도권, 이이경, 주우재가 게스트로 출연했다. 팀장들은 멤버들과 협상을 통해 미션비를 받아 가며 팀으로 영입할 수 있다. 한 팀당 정원은 팀장 포함 3명으로 선택을 받지 못하면 1인 팀으로 미션을 수행해야]]></content:encoded>
+            <title><![CDATA[정우성도 깜짝 놀란 이정재 '진주 목걸이' 코디 난감.."청담 사모님" 자폭 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220808065556031</link>
+            <guid>https://entertain.v.daum.net/v/20220808065556031</guid>
+            <pubDate>Sun, 07 Aug 2022 22:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김수형 기자] ‘집사부일체’에서 이정재가 핑크 저장에 진주 목걸이를 매치한 다소 파격적인 패션센스로 등장, 24년차 청담부부 정우성도 깜짝 놀랐다.&nbsp; 7일 방송된 &nbsp; SBS 예능 ‘집사부일체’에서 이정재, 정우성이 사부로 출연했다. 이날 청담사옥인 아티스트 컴퍼니에 모인 이정재, 정우성이 그려졌다. 핑크색 자켓에 목걸이를 하고 먼저 도착한 이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[여에스더, 예쁜 연예인과 비교해 셀프 외모 비하 "무쌍+두꺼운 눈두덩" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220808054813094</link>
-            <guid>https://entertain.v.daum.net/v/20220808054813094</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:54 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 여에스더가 셀프로 외모 비하를 하며 뒤끝을 보여줬다. 8월 7일 방송된 KBS 2TV 예능 '사장님 귀는 당나귀 귀'(이하 '당나귀 귀') 168회에서는 고객들과의 토크 콘서트를 앞두고 직원들과 헤어 메이크업을 받으러간 여에스더의 모습이 그려졌다. 이날 여에스더는 청담동에 위치한 단골 뷰티숍을 찾아 헤어 메이크업을 받았다. 김희]]></content:encoded>
+            <title><![CDATA[정우성, 이정재 핑크 재킷+진주 목걸이에 "작정했는데?" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220808065504023</link>
+            <guid>https://entertain.v.daum.net/v/20220808065504023</guid>
+            <pubDate>Sun, 07 Aug 2022 22:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 오수정 기자) '집사부일체'에서 정우성이 이정재의 패션에 돌직구를 던져 웃음을 줬다.&nbsp; 지난 7일 방송된 SBS 예능 프로그램 '집사부일체'에서는 배우 이정재와 정우성이 방송 예능 프로그램 최초로 동반 출연해 이야기를 나눴다.&nbsp; 이날 방송에서 이정재와 정우성의 투샷을 직접 본 '집사부일체' 멤버들은 설렘을 감추지 못했다. 양세형은 "두 명의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김종국 "사랑하는 여자 생기면 다시 올 듯" 덴마크 풍경에 감탄 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220808054613087</link>
-            <guid>https://entertain.v.daum.net/v/20220808054613087</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:54 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 김명미 기자] 김종국이 덴마크 풍경에 감탄했다. 8월 7일 방송된 MBC '도포자락 휘날리며'에서는 '도포파이브' 김종국, 지현우, 주우재, 노상현, 황대헌이 세 번째 K-컬쳐숍 판매에 나서는 모습이 공개됐다. 이날 본격적인 판매에 앞서 멤버들은 보트를 타고 이동했다. 통기타에 맞춰 노래를 부르다 보니 아기자기하고 파스텔톤 건물들로 가득한 코펜하]]></content:encoded>
+            <title><![CDATA[한무, 대장암 2기 투병 후 완치되기까지.."아내가 대소변 받아" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220808065452021</link>
+            <guid>https://entertain.v.daum.net/v/20220808065452021</guid>
+            <pubDate>Sun, 07 Aug 2022 22:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=지민경 기자] 코미디언 한무가 대장암을 이겨낸 과정을 털어놓았다. 지난 7일 방송된 TV CHOSUN '스타다큐 마이웨이'에서는&nbsp;대장암 투병 끝에 건강을 되찾은 원로 코미디언 한무 근황이 그려졌다. 한무는 4년 전인 지난 2018년 2월 대장암 진단을 받았다. 이후 서울을 떠나 한적한 곳으로 이사를 왔다는 그는 “몸이 아파서 대수술을 받았는데]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정우성, '헌트' 사고초려 "작품 본질 훼손하고 싶지 않아서" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220808054538081</link>
-            <guid>https://entertain.v.daum.net/v/20220808054538081</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:54 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박정민 기자] 배우 정우성이 영화 '헌트' 출연을 거절했던 이유를 밝혔다. 8월 7일 방송된 SBS '집사부일체'에서는 이정재, 정우성이 사부로 출연했다. 이정재는 "투톱물 시나리오를 쓰기 힘들다. 어느 한쪽이 의미 있거나 멋있으면 다른 쪽 캐스팅이 안 된다. 균형을 잘 맞춰야 하고, 스파이 장르가 이야기가 복잡하면서 마지막에 쉽게 이해될 수]]></content:encoded>
+            <title><![CDATA[최동환 "소라씨에게 미안해" 눈물+오열..결국 '애셋母' 벽 못 넘어 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220808065323014</link>
+            <guid>https://entertain.v.daum.net/v/20220808065323014</guid>
+            <pubDate>Sun, 07 Aug 2022 22:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김수형 기자] &nbsp;‘돌싱글즈 시즌3'에서 최동환이 애셋맘을 고백한 이소라와 커플이 성사되지 못 했다. 서로를 배려하며 걱정하느라 사랑이 엇갈린 모습이었다.&nbsp; 7일 방송된 &nbsp;MBN, ENA 채널 ‘돌싱글즈 시즌3’ 에서 전파를 탔다.&nbsp; 최종선택 전 마지막 1대1 데이트가 그려진 가운데 최동환, 이소라 커플의 데이트 모습이 그려졌다.&nbsp; 차 안에서는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[전소민, '런닝맨' 제작진과 열애 부인 "다 결혼했잖아" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220808054441066</link>
-            <guid>https://entertain.v.daum.net/v/20220808054441066</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:54 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박정민 기자] 전소민이 '런닝맨' 제작진과 열애를 부인했다. 8월 7일 방송된 SBS '런닝맨'에서는 삼삼오오 레이스로 꾸며져 하도권, 이이경, 주우재가 게스트로 출연했다. 이날 멤버들은 각자 다른 장소에 출근했다. 제작진은 "개인 미션비로 승패가 결정된다. 레이스에 앞서 원하는 금액을 기본 미션비로 바로 드리겠다"고 설명했다. 단 7명의 희망]]></content:encoded>
+            <title><![CDATA["독자분들 도와주세요" 김병현, 햄버거집 파란리본 후보지 등극 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220808065003983</link>
+            <guid>https://entertain.v.daum.net/v/20220808065003983</guid>
+            <pubDate>Sun, 07 Aug 2022 22:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 원민순 기자) 김병현이 햄버거집의 파란리본 후보지 등극에 도움을 청했다. 7일 방송된 KBS 2TV '사장님 귀는 당나귀 귀'에서는 김병현이 햄버거집의 파란리본 서베이 후보지 등극에 도움을 청하는 모습이 전파를 탔다. 이날 김병현은 햄버거집의 새로운 얼굴인 신입 정직원 이재훈을 소개하며 "잘 될수록 직원들 구하기가 힘들다. 구인 올린지 두 달]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['도포자락' 김종국, 동생들 아부에 흐뭇→선상 위 라이브까지 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220808054408053</link>
-            <guid>https://entertain.v.daum.net/v/20220808054408053</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:54 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 김명미 기자] 김종국이 '도포자락 휘날리며' 맏형다운 활약을 펼쳤다. 8월 7일 방송된 MBC 예능프로그램 '도포자락 휘날리며'에서는 두 번째 판매를 마치고 숙소로 돌아온 '도포파이브' 김종국, 지현우, 주우재, 노상현, 황대헌의 모습이 공개됐다. 이날 잠자리 짝꿍 선택권의 주인공은 매출 내기에서 1등을 한 김종국이었다. 주우재는 "확실히 리더가]]></content:encoded>
+            <title><![CDATA[이이경,전 LG화학 사장 父 언급 "은퇴하고 심심해하셔" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220808064502946</link>
+            <guid>https://entertain.v.daum.net/v/20220808064502946</guid>
+            <pubDate>Sun, 07 Aug 2022 22:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 백민경 인턴기자) '런닝맨' 이이경이 주우재에게 아빠 번호를 알려줘 웃음을 자아냈다. 7일 방송된 SBS 예능 프로그램 '런닝맨'에 게스트 하도권, 주우재, 이이경이 출연했다. 세 사람은 팀장이 되어 원하는 멤버를 영입하는 로드 레이스를 펼쳤다. 하도권이 주우재에게 전화를 걸었다. 그는 "나는 욕심이 없다. 종국이 형이 몰락하는 걸 보고 싶을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이정재 "연출+연기 병행 부담스럽지만 숙명, 칭찬 입에 달고 살아" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220808054334046</link>
-            <guid>https://entertain.v.daum.net/v/20220808054334046</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:54 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박정민 기자] 배우 이정재가 감독, 배우를 병행한 소감에 대해 밝혔다. 8월 7일 방송된 SBS '집사부일체'에서는 이정재, 정우성이 사부로 출연했다. 이정재, 정우성은 영화 '태양은 없다'로 인연을 맺었다. '헌트'로 오랜만에 다시 만난 두 사람. 이정재는 "그 기간 동안 둘이서 함께 출연할 수 있는 프로젝트가 몇 번 있었는데 다 성사가 안]]></content:encoded>
+            <title><![CDATA[장동민, ♥아내가 준 반지 가품 의심?.."백금 플래티넘 맞아" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://entertain.v.daum.net/v/20220808064003911</link>
+            <guid>https://entertain.v.daum.net/v/20220808064003911</guid>
+            <pubDate>Sun, 07 Aug 2022 22:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 장동민이 아내가 준 결혼 반지 감정을 받았다. 7일 방송된 KBS 2TV '자본주의 학교'에서는 명품 가방과 시계 등의 정품과 가품을 비교해보는 시간을 가졌다.&nbsp; 이날 장동민은 정품 감정을 위한 도구를 사용해 자신이 착용하고 있던 반지를 살펴보기 시작했다. "우리 와이프가 결혼반지 해준 건데 진짜인지 보고 있다"는 것.&nbsp; 이에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[주우재, 김종국과 한 팀 피하려 "연속극 남녀 주인공도 어긋났다 만났다 해" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220808054305041</link>
-            <guid>https://entertain.v.daum.net/v/20220808054305041</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:54 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 임유리 기자] 주우재가 김종국과 한 팀이 되지 않기 위해 김종국을 설득했다. 7일 밤 방송된 MBC 예능 프로그램 ‘도포자락 휘날리며’에서는 김종국, 지현우, 주우재, 노상현, 황대헌이 팀을 어떻게 나눌지 정하는 모습이 그려졌다. 이날 김종국은 “팀은 그냥 또 이게 약간 이어지는 맛이 있으니까 우재는 그 전날 했던 대로. 왜냐면 이어]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["'1박2일'을 만든 건 시청자" 15주년 특집서 얻은 것 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220808054250035</link>
-            <guid>https://entertain.v.daum.net/v/20220808054250035</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:54 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박아름 기자] '1박2일'이 추억을 제대로 소환했다. 8월 7일 방송된 KBS 2TV '1박2일 시즌4'에서는 15주년 역사 특집이 펼쳐졌다. 15주년 특집인만큼 모든 게임이 클래식 게임으로 진행됐다. 오프닝부터 갑작스레 룰렛을 돌린 결과 나인우는 홀로 전남 순천행 차에 올랐다. 나인우는 "다음엔 타깃이 난가? 생각했다. 난 그동안 혼자 간]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[슈트 전속 모델 된 김준호, 김준현 "그대로 사서 입어" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://entertain.v.daum.net/v/20220808054210027</link>
-            <guid>https://entertain.v.daum.net/v/20220808054210027</guid>
-            <pubDate>Sun, 07 Aug 2022 21:05:54 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 김준호가 슈트 모델이 된 근황이 공개됐다. 8월 7일 방송된 JTBC 예능 '뭉쳐야 찬다 2'(이하 '뭉찬2') 53회에서는 어쩌다벤져스 창단 1주년을 기념하는 셀프 돌잔치가 개최됐다. 이날 어쩌다벤져스 멤버들은 체감 온도 35도의 폭염 날씨에도 불구하고 슈트 차림으로 한껏 멋을 부린 채 등장했다. 이런 멤버들의 모습을 한 명]]></content:encoded>
+            <title><![CDATA["맹수 같은 눈빛" "소름 돋는 미소"..변요한 vs 임시완 '빌런 전쟁' (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+            <link>https://entertain.v.daum.net/v/20220808063017848</link>
+            <guid>https://entertain.v.daum.net/v/20220808063017848</guid>
+            <pubDate>Sun, 07 Aug 2022 22:06:17 GMT</pubDate>
+            <content:encoded><![CDATA[변요한(왼쪽)·임시완. 영화 ‘한산: 용의 출현’(한산, 감독 김한민)과 ‘비상선언’(감독 한재림)이 토요일인 6일 극장을 찾은 102만 명의 관객 중 79만 명을 모으며 쌍끌이 흥행 중인 가운데, 각 영화의 악역 변요한과 임시완에 호평이 쏟아지고 있다. 6월 1000만 관객을 모은 ‘범죄도시2’에서 극악한 살인마 역으로 주목 받은 손석구가 불러온 ‘빌런]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연기, 연출, 제작까지 도맡은 지천명 아이돌 이정재 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
@@ -2135,13 +2150,6 @@
             <guid>https://entertain.v.daum.net/v/20220807105807306</guid>
             <pubDate>Sun, 07 Aug 2022 02:58:32 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=박판석 기자]&nbsp;‘장미의 전쟁’ 스티븐 스필버그도 분개한 줄리아 로버츠 사생활이 공개된다. 오는&nbsp; 8일 방송되는 MBC에브리원 ‘장미의 전쟁’에서는 전 세계적 무비 스타로 손꼽히는 영화 ‘노팅힐’의 여주인공 줄리아 로버츠의 사생활이 폭로된다. 이날 김지민은 미인의 대명사로 불리는 줄리아 로버츠의 스캔들을 언급한다. 줄리아 로버츠는 리암 니슨,]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이정현과 문정희가 이끄는 액션스릴러 '리미트' (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-            <link>https://entertain.v.daum.net/v/20220807102708873</link>
-            <guid>https://entertain.v.daum.net/v/20220807102708873</guid>
-            <pubDate>Sun, 07 Aug 2022 02:58:32 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 김계연 기자 = 연주(진서연 분)는 외교관 남편과 사이에 어린 딸 하나가 있다. 딸의 건강 이외에 남부럽지 않게 산다. 그러던 어느 날 딸이 밤늦도록 집에 들어오지 않자 고민 끝에 경찰에 신고한다. 현금 3억 원을 요구하는 유괴범의 전화를 받고 쇼크로 쓰러져 입원한다. 싱글맘 소은(이정현)은 생활안전과 소속 경찰관이지만 아들 학원비라도 더]]></content:encoded>
         </item>
     </channel>
 </rss>
