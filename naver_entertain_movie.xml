@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-08-09T17:14:58.949Z</updated>
+    <updated>2022-08-09T18:09:51.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[열대야에 잠 못 이루는 밤, 산복도로 달빛극장 어때요]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000017082</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000017082"/>
+        <updated>2022-08-09T18:09:06.648Z</updated>
+        <content type="html"><![CDATA[- 에코하우스 등서 내달 7일까지 - 단편작품 40~50분씩 연속 상영 여름밤 산복도로 달빛을 따라 수준 높은 단편영화가 펼쳐진다. 부산국제단편영화제(BISFF) 측은 다음 달 7일까지 ‘2022 산복도로 옥상달빛극]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 ‘미니언즈2’ 개봉 21일만에 200만 돌파 [연예뉴스 HOT]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000997471</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003634029"/>
         <updated>2022-08-09T08:09:01.534Z</updated>
         <content type="html"><![CDATA[영화 '미니언즈2'가 200만 관객을 돌파했다. 9일 영진위 영화관입장권 통합전산망 집계에 따르면 이날 '미니언즈2'는 누적 관객 수 200만 4,056명을 기록했다. '미니언즈2'는 전 세계 59개국 박스오피스 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘미니언즈2’ 관객 200만 돌파]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000830067</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000830067"/>
-        <updated>2022-08-09T08:09:01.535Z</updated>
-        <content type="html"><![CDATA[할리우드 애니메이션 ‘미니언즈 2’가 9일 오전 누적 관객수 200만명을 돌파했다고 배급사 유니버설 픽쳐스가 전했다. 지난달 20일 개봉한 ‘미니언즈 2’는 박스오피스 상위권을 유지하며 올해 개봉한 애니메이션 가운데]]></content>
     </entry>
 </feed>
