@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-08-09T12:12:47.129Z</updated>
+    <updated>2022-08-09T13:41:17.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[OTT다방] 다누리 발사…인류는 왜 달에 가려고 할까? 영화 '퍼스트 맨']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004085801</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004085801"/>
+        <updated>2022-08-09T13:40:19.874Z</updated>
+        <content type="html"><![CDATA[직접 맛보고 추천하는 향긋한 작품 한 잔! 세상의 OTT 다 보고 싶은 'OTT다방' 모두가 알고 있듯, 인류 최초로 달에 간 사람은 우주비행사 닐 암스트롱이다. 그는 20대 중반 나이에 NASA(미항공우주국) 전신]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['블랙폰' 숨막히는 공포 담긴 티저 공개…9월7일 국내 개봉]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004675320</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000613485"/>
         <updated>2022-08-09T08:09:01.566Z</updated>
         <content type="html"><![CDATA[역설적 표현에 정색부터 한다면 당신은 부인할 수 없는 ‘옛날 사람.’ 화제작 ‘한산:용의 출현’에 MZ세대 상징 ‘역설적 표현의 끝판왕’ 격인 유행어가 무려 2개나 ‘출현’했다. ‘불경단’과 ‘왜구 체험’이 그것.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['부천국제애니메이션페스티벌 2022' 트레일러 공개…오는 10월 21일 개막]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003903011</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003903011"/>
-        <updated>2022-08-09T08:09:01.575Z</updated>
-        <content type="html"><![CDATA['제24회 부천국제애니메이션페스티벌(BIAF2022)'이 트레일러를 공개했다. 'BIAF 2022' 트레일러는 '남매의 경계선'으로 BIAF2021 장편 부문 대상, 관객상, 다양성상 3개 부문을 수상한 플로랑스 미]]></content>
     </entry>
 </feed>
