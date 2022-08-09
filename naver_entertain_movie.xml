@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-08-09T15:06:32.953Z</updated>
+    <updated>2022-08-09T16:10:12.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 ‘미니언즈2’ 개봉 21일만에 200만 돌파 [연예뉴스 HOT]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000997471</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000997471"/>
+        <updated>2022-08-09T16:09:24.011Z</updated>
+        <content type="html"><![CDATA[애니메이션 영화 ‘미니언즈2’가 개봉 21일 만에 200만 관객을 돌파했다. 9일 영화진흥위원회와 유니버설픽쳐스 등에 따르면 지난달 20일 개봉한 ‘미니언즈2’의 누적 관객수는 이날 오전 200만 명을 넘겼다. 올해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[내가 본 '임시완'] 악역이 주는 해방감에 취해]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000165911</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000830067"/>
         <updated>2022-08-09T08:09:01.535Z</updated>
         <content type="html"><![CDATA[할리우드 애니메이션 ‘미니언즈 2’가 9일 오전 누적 관객수 200만명을 돌파했다고 배급사 유니버설 픽쳐스가 전했다. 지난달 20일 개봉한 ‘미니언즈 2’는 박스오피스 상위권을 유지하며 올해 개봉한 애니메이션 가운데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Script books' see major surge in sales with popularity of K-dramas]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000027570</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000027570"/>
-        <updated>2022-08-09T08:09:01.540Z</updated>
-        <content type="html"><![CDATA[Korean bookstores have a new section to add to their aisles — K-drama scripts. “Script books” of Korean TV series]]></content>
     </entry>
 </feed>
