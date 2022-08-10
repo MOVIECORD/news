@@ -4,11 +4,28 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 09:07:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 10:05:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[인티뷰] 이정재 “감독하랴, 배우하랴, 우정 쌓으랴, 홍보하랴...” (영화 ‘헌트’)]]></title>
+            <title><![CDATA[[현장] 이이경-음문석-고경표-곽동연, 웃음 수색조로 나서다! '육사오' (종합)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=223302</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=223302</guid>
+            <pubDate>Wed, 10 Aug 2022 10:03:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=223302">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220810164254_cdfd0d7288e8b6a29cae6ef4999a41f2.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=223302">[현장] 이이경-음문석-고경표-곽동연, 웃음 수색조로 나서다! '육사오' (종합)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220810164254_cdfd0d7288e8b6a29cae6ef4999a41f2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 이정재 “감독하랴, 배우하랴, 우정 쌓으랴, 홍보하랴...” (영화 ‘헌트’)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=223287</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=223287</guid>
             <pubDate>Wed, 10 Aug 2022 07:03:29 GMT</pubDate>
@@ -20,7 +37,7 @@
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=223287">[인티뷰] 이정재 “감독하랴, 배우하랴, 우정 쌓으랴, 홍보하랴...” (영화 ‘헌트’)</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=223287">[인터뷰] 이정재 “감독하랴, 배우하랴, 우정 쌓으랴, 홍보하랴...” (영화 ‘헌트’)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220810154629_eb09a1a04d6fbb8edb523ab07e881f71.jpg" length="0" type="image/jpg"/>
         </item>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=222858">드라마 '굿잡' 정일우, 초재벌 회장 변신</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220808135417_8df58d7220612630b85ca2b541e21df1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] 럭 “행운은 네잎 클로버가 가져다주는 것이 아니다” (애플TV+)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=222699</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=222699</guid>
-            <pubDate>Mon, 08 Aug 2022 06:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=222699">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220807193629_b0f9f850955690e427a6f2785ac59a38.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=222699">[리뷰] 럭 “행운은 네잎 클로버가 가져다주는 것이 아니다” (애플TV+)   </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220807193629_b0f9f850955690e427a6f2785ac59a38.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
