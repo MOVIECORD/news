@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-08-11T19:04:26.328Z</updated>
+    <updated>2022-08-11T20:08:49.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[내가 본 '이정재'(상)] 29년의 경험·내공·열정으로 만든 '헌트']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000166433</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000166433"/>
+        <updated>2022-08-11T20:08:01.334Z</updated>
+        <content type="html"><![CDATA["최선을 다한 작품, 관객들 반응 궁금하고 긴장돼" 정제되지 않은 스타는 어떤 모습일까. 연예계는 대중의 관심을 받는 스타도 많고, 이들을 팔로우하는 매체도 많다. 모처럼 인터뷰가 잡혀도 단독으로 대면하는 경우가 드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘제 18회 제천국제음악영화제’ 개막, 역대 최다 139편 상영]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000830602</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005289910"/>
         <updated>2022-08-11T10:05:50.242Z</updated>
         <content type="html"><![CDATA[박찬욱 감독의 영화 ‘헤어질 결심’이 제95회 미국 아카데미영화상 국제장편영화 부문 한국영화 출품작으로 선정됐다. 영화진흥위원회(이하 영진위)는 11일 공식 홈페이지를 통해 제95회 아카데미영화상 국제장편영화 부문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화감독협회, '안나' 편집 논란에 "쿠팡플레이, 감독권리 능욕"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013370139</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013370139"/>
-        <updated>2022-08-11T10:05:50.243Z</updated>
-        <content type="html"><![CDATA[한국영화감독협회가 쿠팡플레이 드라마 '안나' 편집 논란에 대해 플랫폼이 감독의 권리를 침해한 것이라는 입장을 밝혔다. 영화감독협회는 11일 성명을 내고 쿠팡플레이가 당초 8부작으로 제작된 '안나'를 6부작으로 자체]]></content>
     </entry>
 </feed>
