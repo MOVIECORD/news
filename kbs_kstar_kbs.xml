@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 22:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 23:06:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['법대로 사랑하라' 명품조연 "장혜진-백현주x이민영x전노민x조한철-전국환"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=223629</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=223629</guid>
+            <pubDate>Fri, 12 Aug 2022 23:04:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=223629">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220812143907_24b2cba7e839c93d331a8718d557d978.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=223629">'법대로 사랑하라' 명품조연 "장혜진-백현주x이민영x전노민x조한철-전국환"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B2%95%EB%8C%80%EB%A1%9C%20%EC%82%AC%EB%9E%91%ED%95%98%EB%9D%BC">월화드라마 법대로 사랑하라</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220812143907_24b2cba7e839c93d331a8718d557d978.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신상출시 편스토랑] 류수영, MZ세대의 입맛을 사로잡을 <로제 부대찌개> 탄생!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=223742</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%97%B0%EC%A4%91%20%EB%9D%BC%EC%9D%B4%EB%B8%8C">연중 라이브</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220812025058_c19f9918859fdd312e1333ac2235a202_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[연중 라이브] 대한민국은 우영우 앓이 중!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=223474</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=223474</guid>
-            <pubDate>Thu, 11 Aug 2022 19:03:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=223474">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220812024603_676babeb7e4b827fef8d835ab060f944_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=223474">[연중 라이브] 대한민국은 우영우 앓이 중!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%97%B0%EC%A4%91%20%EB%9D%BC%EC%9D%B4%EB%B8%8C">연중 라이브</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220812024603_676babeb7e4b827fef8d835ab060f944_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
