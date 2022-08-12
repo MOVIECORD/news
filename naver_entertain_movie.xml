@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-08-12T20:07:06.738Z</updated>
+    <updated>2022-08-12T21:06:30.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주말의 OTT]너가 그루트냐?]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011361225</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011361225"/>
+        <updated>2022-08-12T21:05:42.991Z</updated>
+        <content type="html"><![CDATA[8월 2주차 디즈니+·넷플릭스서 선보이는 신작을 정리했다. 나는 그루트다(디즈니+) '가디언즈 오브 갤럭시'의 '그루트'가 단독 시리즈로 시청자를 만난다. 새로운 삶을 시작하게 된 그루트가 화분을 깨고 세상에 첫 발]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[TEN리뷰] '육사오', 찜찜한 B급으로 무장한 57억 로또 1등 사수기]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000563782</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004677568"/>
         <updated>2022-08-12T11:05:32.383Z</updated>
         <content type="html"><![CDATA[12일 오후 서울 강남구 메가박스 코엑스에서 영화 ‘리미트(감독 이승준)’ VIP 시사 및 포토월 행사가 열렸다. '리미트'는 아동 연쇄 유괴사건 피해자 엄마의 대역을 맡은 생활안전과 소속 경찰 '소은'(이정현 분)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이무생, 근사한 손 인사]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006275747</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006275747"/>
-        <updated>2022-08-12T11:05:32.385Z</updated>
-        <content type="html"><![CDATA[배우 이무생이 12일 오후 서울 강남구 코엑스 메가박스에서 열린 영화 ‘리미트’ VIP시사회에서 포즈를 취하고 있다. ‘리미트’(감독 이승준)는 아동 연쇄 유괴사건 피해자 엄마의 대역을 맡은 생활안전과 소속 경찰 소]]></content>
     </entry>
 </feed>
