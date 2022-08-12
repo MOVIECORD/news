@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-08-12T18:09:51.062Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 12 Aug 2022 19:04:35 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[TEN리뷰] '육사오', 찜찜한 B급으로 무장한 57억 로또 1등 사수기]]></title>
+            <link>https://v.daum.net/v/20220813040303730</link>
+            <guid>https://v.daum.net/v/20220813040303730</guid>
+            <pubDate>Fri, 12 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=강민경 기자] 억울한 연기의 달인인 고경표와 희극인상 이이경이 B급 웃음으로 무장했다. 두 사람은 57억 로또 1등 종이를 사수하기 위해 작전을 펼친다. '육사오'는 바람을 타고 군사분계선을 넘어가 버린 57억 1등 로또를 둘러싼 남북 군인들 간의 코믹 접선극. 누구나 꿈꿔봤을 로또 1등 당첨이라는 유쾌한 설정에 꼬리에 꼬리를 무는 스토리를]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F13%2F10asia%2F20220813040305576fghs.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
