@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Aug 2022 22:07:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 23:08:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장] 심리스릴러 '파로호' 시사회]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=223911</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=223911</guid>
+            <pubDate>Sun, 14 Aug 2022 23:05:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=223911">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220814181902_ac818844bbc9eaae0fe3eb81ead95443.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=223911">[현장] 심리스릴러 '파로호' 시사회 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220814181902_ac818844bbc9eaae0fe3eb81ead95443.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] 일본군 '위안부' 생존자 '코코순이'...왜곡된 문서의 진실을 찾아서]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=223956</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=223387">작사가 김이나 "샤이니의 음악들이 너무 좋다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220811090804_69aefe56db7cd95abaeacf0389f880de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] 억울한 연기 1인자 고경표의 로또 찾아 삼만리 '육사오(6/45)']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=223377</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=223377</guid>
-            <pubDate>Thu, 11 Aug 2022 02:49:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=223377">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220811090153_e640c3b1aa196b20c8d2720f11597c0c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=223377">[리뷰] 억울한 연기 1인자 고경표의 로또 찾아 삼만리 '육사오(6/45)'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220811090153_e640c3b1aa196b20c8d2720f11597c0c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
