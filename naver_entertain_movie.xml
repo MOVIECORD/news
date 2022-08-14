@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-08-14T14:04:55.887Z</updated>
+    <updated>2022-08-14T15:07:53.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1시간 기다렸는데…'E.T.' 40주년 콘서트 결국 우천 취소]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013375068</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013375068"/>
+        <updated>2022-08-14T15:07:06.027Z</updated>
+        <content type="html"><![CDATA[제천국제음악영화제 일환…호우로 행사 차질 잇따라 14일 밤 충북 제천비행장에서 열릴 예정이던 'E.T.'('이티') 40주년 기념 필름콘서트가 우천으로 취소됐다. 제천국제음악영화제(JIMMF) 측은 예정보다 50분]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[리뷰] 일본군 '위안부' 생존자 '코코순이'...왜곡된 문서의 진실을 찾아서]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000049211</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000830924"/>
         <updated>2022-08-14T03:06:18.085Z</updated>
         <content type="html"><![CDATA[영화 ‘헌트’가 100만 사냥에 성공했다. 14일 영화진흥위원회 영화관 입장권 통합전산망 집계 결과 ‘헌트’는 지난 13일 관객수 39만4486명을 기록, 박스오피스 1위를 유지했다. 누적관객수는 100만7533명이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['탑건: 매버릭', '스파이더맨' 넘었다…팬데믹 후 외화 최고 흥행작]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006276758</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006276758"/>
-        <updated>2022-08-14T03:06:18.088Z</updated>
-        <content type="html"><![CDATA[2022년 전 세계 최고 흥행작 '탑건: 매버릭'이 펜데믹 이후 외화 최대 흥행작으로 등극했다. 영화진흥위원회 통합전산망에 따르면 '탑건: 매버릭'은 14일 기준 누적 관객수 761만4053명을 돌파했다. 이는 팬데]]></content>
     </entry>
 </feed>
