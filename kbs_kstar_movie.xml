@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Aug 2022 12:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 13:23:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] 일본군 '위안부' 생존자 '코코순이'...왜곡된 문서의 진실을 찾아서]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=223956</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=223956</guid>
+            <pubDate>Sun, 14 Aug 2022 13:20:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=223956">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220814201118_0bb9dddd12b0955e175d204ca6194973.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=223956">[리뷰] 일본군 '위안부' 생존자 '코코순이'...왜곡된 문서의 진실을 찾아서</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220814201118_0bb9dddd12b0955e175d204ca6194973.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['헌트' "이정재 감독님, '동림'의 정체를 아는 사람이 벌써 100만 명입니다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=223899</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=223377">[리뷰] 억울한 연기 1인자 고경표의 로또 찾아 삼만리 '육사오(6/45)'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220811090153_e640c3b1aa196b20c8d2720f11597c0c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스타트렉:스트레인지 뉴 월드', "목요일은 엔터프라이즈호에 탑승하는 날"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=223360</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=223360</guid>
-            <pubDate>Thu, 11 Aug 2022 02:49:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=223360">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220811081917_a970b9ed68a68f11629603dc5226c5cc.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=223360">'스타트렉:스트레인지 뉴 월드', "목요일은 엔터프라이즈호에 탑승하는 날"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220811081917_a970b9ed68a68f11629603dc5226c5cc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
