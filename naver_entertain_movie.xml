@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-08-14T11:06:47.496Z</updated>
+    <updated>2022-08-14T12:12:06.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[리뷰] 일본군 '위안부' 생존자 '코코순이'...왜곡된 문서의 진실을 찾아서]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000049211</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000049211"/>
+        <updated>2022-08-14T12:11:11.068Z</updated>
+        <content type="html"><![CDATA[올해도 다시금 8월 14일, 일본군 '위안부' 기림의 날이 찾아왔다. 하지만 매년 찾아오는 기림의 날이 무색하게도 제자리걸음일 뿐인 일본군 '위안부' 문제. 기림의 날 대신 해결의 날, 사과의 날은 언제 찾아오는 것]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["'아이고' 하며 촬영"…흥행 사냥 나선 '헌트' 제작 비하인드]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003674690</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006276758"/>
         <updated>2022-08-14T03:06:18.088Z</updated>
         <content type="html"><![CDATA[2022년 전 세계 최고 흥행작 '탑건: 매버릭'이 펜데믹 이후 외화 최대 흥행작으로 등극했다. 영화진흥위원회 통합전산망에 따르면 '탑건: 매버릭'은 14일 기준 누적 관객수 761만4053명을 돌파했다. 이는 팬데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['탑건: 매버릭'의 기록경신은 계속된다 "톰 크루즈가 세운 신기록은 마하10 돌파만이 아니다"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000049205</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000049205"/>
-        <updated>2022-08-14T03:06:18.091Z</updated>
-        <content type="html"><![CDATA[지난 달 22일 개봉한 &lt;탑건: 매버릭&gt;이 영진위 통합전산망 박스오피스에서 어제(13일)까지 761만 4,053명의 관객이 들면서 팬데믹 이후 외국 영화 최고 관객수를 기록하였다. 또한 이 기록은 역대 톰 크루즈 필]]></content>
     </entry>
 </feed>
