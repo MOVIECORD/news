@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 12:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 13:36:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이별도 리콜이 되나요?] “우리가 왜 헤어진 것 같아?” 이별 10개월 만에 듣게 된 전남친의 진심]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=224028</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=224028</guid>
+            <pubDate>Mon, 15 Aug 2022 13:34:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=224028">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220815215453_affa6050d62d54ec7111e3832c8e85e3_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=224028">[이별도 리콜이 되나요?] “우리가 왜 헤어진 것 같아?” 이별 10개월 만에 듣게 된 전남친의 진심</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%B4%EB%B3%84%EB%8F%84%20%EB%A6%AC%EC%BD%9C%EC%9D%B4%20%EB%90%98%EB%82%98%EC%9A%94%3F">이별도 리콜이 되나요?</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220815215453_affa6050d62d54ec7111e3832c8e85e3_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KBS 현대사 영상프로젝트 '8.15 기획 영상 아카이브']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=223851</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220814190222_112c103fc489ee451c17a2b728a8ba64_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['역사저널 그날' ‘전쟁할 수 없는 나라’ 일본의 자위대]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=223857</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=223857</guid>
-            <pubDate>Sun, 14 Aug 2022 00:33:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=223857">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220814085720_6e804ed30701587321a74a20fd0cf39d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=223857">'역사저널 그날' ‘전쟁할 수 없는 나라’ 일본의 자위대 </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%97%AD%EC%82%AC%EC%A0%80%EB%84%90%20%EA%B7%B8%EB%82%A0">역사저널 그날</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220814085720_6e804ed30701587321a74a20fd0cf39d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
