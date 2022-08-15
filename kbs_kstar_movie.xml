@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 21:07:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 22:07:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['수리남' 하정우, 황정민, 박해수, 조우진, 유연석의 “기막힌 이야기!"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=223882</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=223882</guid>
+            <pubDate>Mon, 15 Aug 2022 22:06:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=223882">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220814092305_d0d6fb13c4f09e10a93e112b29648319.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=223882">'수리남' 하정우, 황정민, 박해수, 조우진, 유연석의 “기막힌 이야기!"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220814092305_d0d6fb13c4f09e10a93e112b29648319.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제주도에 간 '우영우'의 사람들, "마지막 재판을 기대해”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=224018</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=223421">[현장] 영화 '코코순이'가 밝힌 일본군 '위안부' 범죄의 민낯...역사를 부정하는 자를 향한 이석재 감독의 일갈</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220811201011_ce5b6da114ad44a83e7c28c46fd07919.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권상우 압도하는 카리스마 배우 임세미...욱하면 아무도 못 말려]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=223392</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=223392</guid>
-            <pubDate>Thu, 11 Aug 2022 02:49:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=223392">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220811091032_e94432fbb7a20d328c8bd851f87dea12.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=223392">권상우 압도하는 카리스마 배우 임세미...욱하면 아무도 못 말려</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220811091032_e94432fbb7a20d328c8bd851f87dea12.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
