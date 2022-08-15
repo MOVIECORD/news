@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-08-15T14:13:12.030Z</updated>
+    <updated>2022-08-15T15:07:35.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[히(HE)스토리-이정재(상)] '잘생김' 묻은 대한민국 대표 배우]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000166862</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000166862"/>
+        <updated>2022-08-15T15:06:46.361Z</updated>
+        <content type="html"><![CDATA[연기 30년 차, 싱그러운 '청춘스타'에서 이제는 '글로벌 톱배우' 대한민국 대표 배우 이정재가 영화감독이라는 새로운 이력을 추가했다. 이정재의 감독 데뷔작 '헌트'가 제47회 토론토 국제영화제에 초청되며 이목을 집]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김영록 전남지사, 영화 '한산' 무대인사…"촬영 지원"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013376406</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004678921"/>
         <updated>2022-08-15T07:06:50.881Z</updated>
         <content type="html"><![CDATA[영화 'DC 슈퍼펫'이 알고 보면 더 귀여운 영화 속 TMI를 공개했다. 'DC 슈퍼펫'(감독 자레드 스턴·샘 레빈, 수입배급 워너브러더스 코리아)은 악당 렉스 루터와 기니피그 룰루의 계략으로 위험에 빠진 슈퍼맨을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘한산’ 개봉 20일째 600만 돌파]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=021&amp;aid=0002526496</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=021&amp;aid=0002526496"/>
-        <updated>2022-08-15T06:08:51.306Z</updated>
-        <content type="html"><![CDATA[박해일과 변요한이 주연한 영화 ‘한산:용의 출현’이 개봉 20일 만에 누적 관객 수 600만 명을 넘겼다. 15일 영화 배급사 롯데엔터테인먼트에 따르면 한산은 15일 600만 관객을 돌파하며 손익분기점을 넘겼다. 이]]></content>
     </entry>
 </feed>
