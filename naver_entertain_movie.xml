@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-08-16T12:14:10.086Z</updated>
+    <updated>2022-08-16T13:26:10.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['헌트' 200만 돌파…거침없는 흥행 레이스]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005005188</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005005188"/>
+        <updated>2022-08-16T13:25:18.831Z</updated>
+        <content type="html"><![CDATA[영화 '헌트'가 개봉 7일 차 200만 관객을 돌파했다. '헌트'가 영화관입장권 통합전산망 16일 오전 11시 42분 기준, 개봉 7일 차 호평 리뷰로 입소문을 모으며 200만 관객을 돌파했다. 이 가운데 '헌트']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["내년에 다시 만나요" 제18회 제천국제음악영화제 폐막]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013378973</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003225214"/>
         <updated>2022-08-16T09:06:59.983Z</updated>
         <content type="html"><![CDATA[다시 찾아온 전성기다. MBC 금토 드라마 ‘빅마우스’로 안방극장을 꽉 잡은 윤아가 이번엔 영화 ‘공조2: 인터내셔날’로 스크린 장악에 나선다. ‘공조2: 인터내셔날’은 지난 2017년 개봉해 무려 781만 명의 관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미 아카데미, 차별당한 원주민 배우에 50년 만에 사과]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002363119</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002363119"/>
-        <updated>2022-08-16T08:08:45.896Z</updated>
-        <content type="html"><![CDATA[1973년 시상식 올랐던 원주민 배우 사친 리틀페더에 사과 ▲ 아메리카 원주민 배우 사친 리틀페더에 대한 미국 영화예술과학아카데미(AMPAS)의 사과를 보도하는 AP통신 갈무리. ⓒ AP 미국 아카데미 영화상을 주관]]></content>
     </entry>
 </feed>
