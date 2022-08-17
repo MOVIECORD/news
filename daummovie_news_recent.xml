@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-08-17T15:05:50.165Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 17 Aug 2022 16:07:03 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["과거의 나와 재회"..김호중 두번째 영화 '인생은 뷰티풀: 비타돌체', 9월 개봉 [공식]]]></title>
+            <link>https://v.daum.net/v/20220818010005824</link>
+            <guid>https://v.daum.net/v/20220818010005824</guid>
+            <pubDate>Wed, 17 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] '트바로티' 김호중의 두 번째 영화이자 이탈리아 음악 여행을 담은 클래식 공연 무비 '인생은 뷰티풀: 비타돌체'가 CGV 단독, 스크린X 오리지널로 오는 9월 개봉한다. '인생은 뷰티풀: 비타돌체'는 지난 2020년 개봉된 김호중의 생애 첫 팬미팅 무비 '그대, 고맙소'에 이은 두 번째 영화. 성악가이면서 트로트 스타이기도]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F18%2Fmydaily%2F20220818010005706aejg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
