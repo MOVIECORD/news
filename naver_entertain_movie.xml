@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-08-18T20:09:53.361Z</updated>
+    <updated>2022-08-18T21:04:17.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰]정우의 고생, 정우의 정성]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011371730</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011371730"/>
+        <updated>2022-08-18T21:03:27.830Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 넷플릭스 드라마 '모범시민'서 동하 역 집 안팎에서 위기에 빠진 대학 강사로 우연히 거액 손에 쥐었다가 범죄 얽혀 "표현 적은 인물 디테일하게 연기했다" "얼굴 안 나오는 장면도 정성껏 연기" "액션]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['수리남' 하정우X황정민X유연석 등, 역대급 연기 열전..6人6色 캐릭터포스터]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003581567</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000692302"/>
         <updated>2022-08-18T10:07:01.782Z</updated>
         <content type="html"><![CDATA[할리우드 배우 브래드 피트가 오늘(18일) 국내에 도착했다. 8년 만에 내한한 브래드 피트를 향한 환대가 이어지고 있다. 18일 브래드 피트와 애런 테일러 존슨이 영화 '불릿 트레인'이 홍보 차 인천국제공항을 통해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[OTT다방] '우영우'만큼이나 이상했던 변호사 이야기…'세상을 바꾼 변호인']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004089159</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004089159"/>
-        <updated>2022-08-18T10:07:01.782Z</updated>
-        <content type="html"><![CDATA[직접 맛보고 추천하는 향긋한 작품 한 잔! 세상의 OTT 다 보고 싶은 ‘OTT다방’ 드라마 '이상한 변호사 우영우'(극본 문지원/연출 유인식, 이하 '우영우')가 종영을 맞았다. '우영우'는 신생 채널 작품으로는]]></content>
     </entry>
 </feed>
