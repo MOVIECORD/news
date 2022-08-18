@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 06:10:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 07:07:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['마지막 소원 프로젝트' 본격 가동  (KBS 당신이 소원을 말하면)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=224478</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=224478</guid>
+            <pubDate>Thu, 18 Aug 2022 07:06:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=224478">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220818154135_b67e415f37d65c4896c300c0f0afe6ca.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=224478">'마지막 소원 프로젝트' 본격 가동  (KBS 당신이 소원을 말하면)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8B%B9%EC%8B%A0%EC%9D%B4%20%EC%86%8C%EC%9B%90%EC%9D%84%20%EB%A7%90%ED%95%98%EB%A9%B4">수목드라마 당신이 소원을 말하면</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220818154135_b67e415f37d65c4896c300c0f0afe6ca.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KBS "올해도 드라마스페셜 합니다, 스페셜하게" 시네마 2편 + 단막 8편]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=224406</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%AF%B8%EB%82%A8%EB%8B%B9">월화드라마 미남당</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220816230625_fae8b2d2b10b29597ff7f662036351e5_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[미남당] 사이코패스로 태어났던 권수현… 첫 살인 저지르고 기억 조작 됐던 어린 시절]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=224203</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=224203</guid>
-            <pubDate>Tue, 16 Aug 2022 14:04:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=224203">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220816225859_b732f67a3eceb9176b4f609c3ef103e4_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=224203">[미남당] 사이코패스로 태어났던 권수현… 첫 살인 저지르고 기억 조작 됐던 어린 시절 </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%AF%B8%EB%82%A8%EB%8B%B9">월화드라마 미남당</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220816225859_b732f67a3eceb9176b4f609c3ef103e4_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
