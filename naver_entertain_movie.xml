@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-08-19T20:09:11.963Z</updated>
+    <updated>2022-08-19T21:06:07.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주말의 OTT]헐크? 이젠 쉬헐크가 대세]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011373700</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011373700"/>
+        <updated>2022-08-19T21:05:20.727Z</updated>
+        <content type="html"><![CDATA[8월 3주차 주말 디즈니+넷플릭스·왓챠 신작을 소개한다. 변호사 쉬헐크(디즈니+) 마블 시네마틱 유니버스에 새로운 슈퍼히어로가 등장한다. '변호사 쉬헐크'는 평범한 일상을 살아가던 검사 '제니퍼 월터스'가 사촌인 ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[킬러로 돌아온 브래드 피트 "독창적인 액션 가득해요"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000556631</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013386717"/>
         <updated>2022-08-19T12:12:17.094Z</updated>
         <content type="html"><![CDATA[할리우드 배우 브래드 피트가 19일 오후 서울 용산구 CGV용산아이파크몰에서 열린 영화 '불릿 트레인' 레드카펫 행사에서 팬들에게 사인을 하고있다. 2022.8.19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현장EN:]8년 만에 韓 찾은 브래드 피트 "변함없이 쿨한 팬들"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003676710</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003676710"/>
-        <updated>2022-08-19T12:12:17.099Z</updated>
-        <content type="html"><![CDATA[할리우드 배우 브래드 피트가 8년 만에 다시 찾은 한국에서 팬들의 뜨거운 사랑에 기쁨을 감추지 못했다. 지난 2011년 '머니볼'로 생애 첫 한국 땅을 밟은 브래드 피트는 2013년 '월드워Z', 2014년 '퓨리']]></content>
     </entry>
 </feed>
