@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 04:42:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 05:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이승기-이세영, "법대로 하자고!”  드라마 '법대로 사랑하라']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=224568</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=224568</guid>
+            <pubDate>Fri, 19 Aug 2022 05:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=224568">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220819094528_d2d814035173ca252dae40a680d54d54.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=224568">이승기-이세영, "법대로 하자고!”  드라마 '법대로 사랑하라'</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B2%95%EB%8C%80%EB%A1%9C%20%EC%82%AC%EB%9E%91%ED%95%98%EB%9D%BC">월화드라마 법대로 사랑하라</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220819094528_d2d814035173ca252dae40a680d54d54.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KBS 새 주말드라마 '삼남매가 용감하게' 이하나-임주환의 커플 케미]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=224559</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A4%EC%BC%80%EC%9D%B4%3F%20%EC%98%A4%EC%BC%80%EC%9D%B4%21">오케이? 오케이!</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220817004633_625a3254e772973ce2bd26851ddf3bf7_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[오케이? 오케이!] 유전성 난청으로 뮤지컬 배우 포기한 사연자  “노래는 안 불러도 좋지만 듣지 못하는 현실에 좌절”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=224237</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=224237</guid>
-            <pubDate>Tue, 16 Aug 2022 17:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=224237">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220817004315_fd54da4f0aa2f5c4b48c8c2fd6ed4d34.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=224237">[오케이? 오케이!] 유전성 난청으로 뮤지컬 배우 포기한 사연자  “노래는 안 불러도 좋지만 듣지 못하는 현실에 좌절”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A4%EC%BC%80%EC%9D%B4%3F%20%EC%98%A4%EC%BC%80%EC%9D%B4%21">오케이? 오케이!</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220817004315_fd54da4f0aa2f5c4b48c8c2fd6ed4d34.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
