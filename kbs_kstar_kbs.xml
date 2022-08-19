@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 23:07:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 00:34:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KBS 새 주말드라마 '삼남매가 용감하게' 이하나-임주환의 커플 케미]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=224559</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=224559</guid>
+            <pubDate>Fri, 19 Aug 2022 00:33:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=224559">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220819091624_04c2a201266a17d5c26f66ae3b2e5f45.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=224559">KBS 새 주말드라마 '삼남매가 용감하게' 이하나-임주환의 커플 케미 </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%82%BC%EB%82%A8%EB%A7%A4%EA%B0%80%20%EC%9A%A9%EA%B0%90%ED%95%98%EA%B2%8C">주말드라마 삼남매가 용감하게</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220819091624_04c2a201266a17d5c26f66ae3b2e5f45.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[당신이 소원을 말하면] ‘강해지고 싶었던 이유’ 지창욱에게 과거 이야기를 털어놓는 최수영]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=224494</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A4%EC%BC%80%EC%9D%B4%3F%20%EC%98%A4%EC%BC%80%EC%9D%B4%21">오케이? 오케이!</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220817004315_fd54da4f0aa2f5c4b48c8c2fd6ed4d34.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[오케이? 오케이!] 20년 일했지만 수술비 천만원이 없는 현실에 좌절한 진미사 배우]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=224232</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=224232</guid>
-            <pubDate>Tue, 16 Aug 2022 17:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=224232">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220817002136_2f771053886fef5796314ddd27158c6d_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=224232">[오케이? 오케이!] 20년 일했지만 수술비 천만원이 없는 현실에 좌절한 진미사 배우</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A4%EC%BC%80%EC%9D%B4%3F%20%EC%98%A4%EC%BC%80%EC%9D%B4%21">오케이? 오케이!</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220817002136_2f771053886fef5796314ddd27158c6d_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
