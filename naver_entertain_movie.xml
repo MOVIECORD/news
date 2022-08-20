@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-08-20T20:06:55.807Z</updated>
+    <updated>2022-08-20T21:05:56.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조용히 강한 '미니언즈2'… 최근 3년새 개봉한 애니 흥행 1위]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=417&amp;aid=0000844650</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=417&amp;aid=0000844650"/>
+        <updated>2022-08-20T21:05:05.997Z</updated>
+        <content type="html"><![CDATA['미니언즈2'가 219만 관객을 동원하며 최근 3년 동안 개봉한 애니메이션 중 흥행 기록 1위를 달성했다. '미니언즈2'는 지난 20일 영화관입장권 통합전산망 오후12시20분 기준 누적관객수 219만16명을 기록했다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘비상선언’ 200만 관객 돌파…韓영화 기대작 흥행 릴레이]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001684779</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001490687"/>
         <updated>2022-08-20T03:05:41.668Z</updated>
         <content type="html"><![CDATA[할리우드 배우 브래드 피트가 내한 레드카펫 행사에 45분이나 지각해 행사 진행에 차질을 빚었다. 19일 오후 6시15분 서울 이촌동 CGV용산아이파크몰에서 예정된 영화 '불릿 트레인'의 레드카펫 행사에 45분 늦은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전 대통령 대신 일가족 인질로... 실화였던 그 영화]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002363524</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002363524"/>
-        <updated>2022-08-20T03:05:41.669Z</updated>
-        <content type="html"><![CDATA[이성재-최민수 연기대결 펼친 &lt;홀리데이&gt; 브루스 윌리스 주연의 &lt;다이하드&gt;와 키아누 리브스 주연의 &lt;스피드&gt;, 고 숀 코네리, 니콜라스 케이지 주연의 &lt;더 록&gt;의 공통점은 바로 '인질극'을 소재로 한 액션영화라는 점]]></content>
     </entry>
 </feed>
