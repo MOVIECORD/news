@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-08-21T12:12:23.045Z</updated>
+    <updated>2022-08-21T13:22:41.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이정재·정우성 '헌트' 300만 돌파→기념영상 공개]]></title>
+        <id>https://entertain.v.daum.net/v/20220821214355723</id>
+        <link href="https://entertain.v.daum.net/v/20220821214355723"/>
+        <updated>2022-08-21T13:22:40.536Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 영화 ‘헌트’가 개봉 12일 만에 300만 관객을 돌파했다. 영화관입장권 통합전산망에 따르면 ‘헌트’는 21일 오후 5시 42분 기준, 개봉 12일 만에 300만 관객을 넘어섰다. 특히 ‘헌트’의 개봉 2주 차 전일 대비 스코어 증가폭은 20일 127.8%로, 올해 최고 흥행작인 ‘범죄도시2’의 같은 시기 기준 수치보다도 높은 추세다. 그]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['헌트' 개봉 12일째 300만 관객 돌파..이정재x정우성x허성태 감사 인사]]></title>
         <id>https://entertain.v.daum.net/v/20220821202438008</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220821092400675"/>
         <updated>2022-08-21T00:33:43.908Z</updated>
         <content type="html"><![CDATA[[김성호 기자] 송강호, 전도연, 김남길, 임시완 등 명성이 대단한 배우진이 총출동한 한재림 감독의 &lt;비상선언&gt;이 의외로 고전하고 있다. 스타성 있는 배우들에 발전한 영화기술까지 총동원됐음에도 지울 수 없는 식상함이 있다는 혹평이 따라붙은 탓이다. 불행히도 이 같은 비평엔 이유가 아주 없지 않다. 최소한 비행기 공중 납치라는 설정이 벌써 수십 년 째 반복되]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불릿 트레인'-'육사오']]></title>
-        <id>https://entertain.v.daum.net/v/20220821090001261</id>
-        <link href="https://entertain.v.daum.net/v/20220821090001261"/>
-        <updated>2022-08-21T00:33:43.909Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 사진=영화 포스터'외계+인' 1부부터 '한산: 용의 출현', '비상선언', '헌트'까지 한국 영화 대작 네 편이 올 여름 극장가를 가득 채우며 관객들의 즐거운 선택이 이어졌다. 대작들의 연이은 출격으로 극장가는 코로나19 이전의 관객 수 회복을 기대했지만, 영화에 대한 관객들의 평가가 엇갈리면서 기대에는 못 미쳤다는 평가가 지배적이]]></content>
     </entry>
 </feed>

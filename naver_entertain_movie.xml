@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-08-21T12:12:23.044Z</updated>
+    <updated>2022-08-21T13:22:41.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이정재·정우성 ‘헌트’ 300만 돌파→기념영상 공개 [DA:박스]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000999319</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0000999319"/>
+        <updated>2022-08-21T13:21:58.350Z</updated>
+        <content type="html"><![CDATA[영화 ‘헌트’가 개봉 12일 만에 300만 관객을 돌파했다. 영화관입장권 통합전산망에 따르면 ‘헌트’는 21일 오후 5시 42분 기준, 개봉 12일 만에 300만 관객을 넘어섰다. 특히 ‘헌트’의 개봉 2주 차 전일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[청담부부 주연 '헌트' 개봉 12일째 관객 300만 돌파]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004089884</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000286698"/>
         <updated>2022-08-21T04:24:37.170Z</updated>
         <content type="html"><![CDATA[영화 '헌트'가 11일 연속 박스오피스 1위 자리를 지키며 300만 돌파를 눈앞에 두고 있다. 21일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '헌트'는 20일 전국 30만 3,778명의 관객을 동원했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[OTT다방] 이정재가 '헌트' 각본쓸 때 황정민과 찍은 영화 '다만 악에서 구하소서']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004089761</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004089761"/>
-        <updated>2022-08-21T04:24:37.171Z</updated>
-        <content type="html"><![CDATA[직접 맛보고 추천하는 향긋한 작품 한 잔! 세상의 OTT 다 보고 싶은 ‘OTT다방’ 배우 이정재의 감독 데뷔작 '헌트'(제작/아티스트스튜디오, 사나이픽처스) 흥행에는 역대급 카메오 군단도 한몫한 듯 하다. 배우 황]]></content>
     </entry>
 </feed>
