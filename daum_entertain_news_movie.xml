@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-08-21T07:04:38.149Z</updated>
+    <updated>2022-08-21T08:10:45.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['헌트' 11일 연속 1위]]></title>
+        <id>https://entertain.v.daum.net/v/20220821165207925</id>
+        <link href="https://entertain.v.daum.net/v/20220821165207925"/>
+        <updated>2022-08-21T08:10:45.222Z</updated>
+        <content type="html"><![CDATA[[티브이데일리 김지현 기자]영화 '헌트'가 11일 연속 박스오피스 1위 자리를 지키며 관객 300만 돌파를 눈앞에 두고 있다. 21일 영화진흥위원회 영화관입장권 통합전산망에 따르면 헌트는 지난 20일 전국 30만 3,778명의 관객을 동원했다. 누적관객수는 276만 4,523명. 헌트는 지난 10일 개봉 첫날 박스오피스 1위에 오른 뒤 11일 연속 정상 행]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이정재가 '헌트' 각본쓸 때 황정민과 찍은 영화 '다만 악에서 구하소서']]></title>
         <id>https://entertain.v.daum.net/v/20220821130609031</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220821075659748"/>
         <updated>2022-08-20T23:07:39.723Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;&nbsp;영화 '비상선언'이 200만 관객을 동원했다. 21일 영화진흥위원회 영화관입장권 통합전산망 집계 기준 '비상선언'은 개봉 18일째인 어제(20일) 200만 1892명의 관객을 돌파했다.&nbsp; 영화 '비상선언'(감독 한재림,&nbsp;제공배급 쇼박스, 제작 MAGNUM 9 씨제스엔터테인먼트 씨네주)은 사상 초유의 항공테러로 무조건적 착륙을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['헌트' 11일 연속 1위..오늘 300만 돌파 전망]]></title>
-        <id>https://entertain.v.daum.net/v/20220821074346628</id>
-        <link href="https://entertain.v.daum.net/v/20220821074346628"/>
-        <updated>2022-08-20T23:07:39.723Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘헌트’가 박스오피스 1위를 달리고 있는 가운데 300만 관객을 돌파할 전망이다. 21일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날(20일) ‘헌트’는 30만 3778명이 관람해 일별 박스오피스 1위에 올랐다. 이날까지 누적 관객수는 276만 4523명. 주말인 오늘 300만 관객을 동원할 것으로 예상된다. ‘]]></content>
     </entry>
 </feed>
