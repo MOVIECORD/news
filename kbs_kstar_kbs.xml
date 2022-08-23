@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 06:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 07:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KBS드라마스페셜 '방종' 김기해-손상경-박정표-김상우 "신선한 케미스트리 예고"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=225420</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=225420</guid>
+            <pubDate>Tue, 23 Aug 2022 07:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=225420">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220823154433_f14b8c543128b85bdd2974e05680ef16.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=225420">KBS드라마스페셜 '방종' 김기해-손상경-박정표-김상우 "신선한 케미스트리 예고"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220823154433_f14b8c543128b85bdd2974e05680ef16.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[발라드 듀오? 예능신 듀오! '옥문아' 출연한 백지영-김숙]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=225347</link>
@@ -348,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9E%90%EB%B3%B8%EC%A3%BC%EC%9D%98%20%ED%95%99%EA%B5%90">자본주의 학교</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220821232900_a031bb020564eb6b9aa1c2044abb5dee_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[자본주의학교] 산 꼭대기 땅을 산 사람이 4800명?? 채소영도 속았던 산 꼭대기 임야 판매]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=224996</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=224996</guid>
-            <pubDate>Sun, 21 Aug 2022 16:08:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=224996">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220821232429_91b0e342c154d8cfcbbef76b1723ee31_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=224996">[자본주의학교] 산 꼭대기 땅을 산 사람이 4800명?? 채소영도 속았던 산 꼭대기 임야 판매 </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9E%90%EB%B3%B8%EC%A3%BC%EC%9D%98%20%ED%95%99%EA%B5%90">자본주의 학교</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220821232429_91b0e342c154d8cfcbbef76b1723ee31_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
