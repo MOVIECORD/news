@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-08-24T20:07:40.921Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 24 Aug 2022 21:06:54 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['육사오' 박세완 "'북한 아이유' 애칭, 기분 좋아요" [SS인터뷰]]]></title>
+            <link>https://v.daum.net/v/20220825060108411</link>
+            <guid>https://v.daum.net/v/20220825060108411</guid>
+            <pubDate>Wed, 24 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울|조현정기자]“‘북한 아이유’라는 애칭, 듣기만 해도 기분이 좋아졌어요.” 코미디 영화 ‘육사오’의 홍일점인 배우 박세완(28)은 극중 캐릭터인 연희 얘기에 함박웃음을 지었다. ‘육사오’는 군사분계선을 넘어 날아가 버린 1등 로또 복권을 놓고 남북한 병사들이 벌이는 이야기를 그렸다. 박세완은 극중 ‘북한 아이유’라고]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F25%2FSPORTSSEOUL%2F20220825060111123doml.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
