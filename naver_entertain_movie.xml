@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-08-25T14:09:44.018Z</updated>
+    <updated>2022-08-25T15:07:16.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘2022 서울 팝콘( SeoulPOPCON)’ 개막]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000833171</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000833171"/>
+        <updated>2022-08-25T15:06:29.506Z</updated>
+        <content type="html"><![CDATA[대한민국의새로운 팝 컬쳐 컨벤션 ‘2022 서울 팝콘’(2022 SeoulPOPCON)이 25일부터 8월 28일까지 나흘간 서울코엑스(COEX)에서 막이 올랐다. ‘2022 서울팝콘’은 글로벌 콘텐츠 마켓의 중심으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2022 뉴시스 한류엑스포]박해수 문체부 장관상 "한국 콘텐츠 멋지게 만들겠다"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011384421</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004685812"/>
         <updated>2022-08-25T10:07:40.046Z</updated>
         <content type="html"><![CDATA[25일 오후 서울 마포구 문화비축기지에서 24회 서울국제여성영화제 퍼플카펫 및 포토월 행사가 열렸다. 니키리 감독이 퍼플카펫을 밟으며 포즈를 취하고 있다. 2022.08.25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]김소희, '다재다능 능력자']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004685810</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004685810"/>
-        <updated>2022-08-25T10:07:40.046Z</updated>
-        <content type="html"><![CDATA[25일 오후 서울 마포구 문화비축기지에서 24회 서울국제여성영화제 퍼플카펫 및 포토월 행사가 열렸다. 배우 김소희가 퍼플카펫을 밟으며 포즈를 취하고 있다. 2022.08.25]]></content>
     </entry>
 </feed>
