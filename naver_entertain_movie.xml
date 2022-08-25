@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-08-25T15:07:16.859Z</updated>
+    <updated>2022-08-25T16:10:52.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 ‘브로커’, 토론토 국제영화제 등 초청 [연예뉴스 HOT]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001000448</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001000448"/>
+        <updated>2022-08-25T16:09:58.971Z</updated>
+        <content type="html"><![CDATA[영화 ‘브로커’가 제47회 토론토 국제영화제와 제70회 산세바스티안 국제영화제에 초청됐다. 각각 주목할 만한 신작을 선보이는 ‘스페셜 프레젠테이션 섹션’과 현지서 개봉하지 않은 작품 중 최고의 영화를 상영하는 ‘펄락]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘2022 서울 팝콘( SeoulPOPCON)’ 개막]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000833171</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004685814"/>
         <updated>2022-08-25T10:07:40.045Z</updated>
         <content type="html"><![CDATA[25일 오후 서울 마포구 문화비축기지에서 24회 서울국제여성영화제 퍼플카펫 및 포토월 행사가 열렸다. 배우 문성근이 퍼플카펫을 밟으며 포즈를 취하고 있다. 2022.08.25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]니키리, '멋진 포스']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004685812</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004685812"/>
-        <updated>2022-08-25T10:07:40.046Z</updated>
-        <content type="html"><![CDATA[25일 오후 서울 마포구 문화비축기지에서 24회 서울국제여성영화제 퍼플카펫 및 포토월 행사가 열렸다. 니키리 감독이 퍼플카펫을 밟으며 포즈를 취하고 있다. 2022.08.25]]></content>
     </entry>
 </feed>
