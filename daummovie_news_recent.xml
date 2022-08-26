@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-08-26T20:07:23.927Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 26 Aug 2022 21:04:22 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["9월을 책임진다".. 액션 vs 스릴 vs 코미디 [박's 오피스]]]></title>
+            <link>https://v.daum.net/v/20220827055205156</link>
+            <guid>https://v.daum.net/v/20220827055205156</guid>
+            <pubDate>Fri, 26 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[편집자주]박 기자가 소개하는 박스오피스 기대작! 극장가 개봉을 앞둔 영화들을 소개해드립니다. 극장을 통해 대거 출격하는 국내 박스오피스 기대작들을 소개한다. 사진은 왼쪽부터 영화 '공조2:인터내셔날'·'늑대사냥'·'정직한 후보2' 포스터. /사진=CJ ENM·TCO(주)더콘텐츠온·(주)NEW 제공8월과 함께 여름 휴가철이 끝나며 9월이 다가오는 가운데 국]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F27%2Fmoneyweek%2F20220827055207652ngmh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
