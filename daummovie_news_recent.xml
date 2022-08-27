@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-08-27T21:05:01.166Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 27 Aug 2022 22:05:52 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라미란 표 코미디, 9월 극장가 휩쓴다 [N초점]]]></title>
+            <link>https://v.daum.net/v/20220828070018283</link>
+            <guid>https://v.daum.net/v/20220828070018283</guid>
+            <pubDate>Sat, 27 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = 배우 라미란이 코미디로 돌아온다. 특히 1편으로 호평과 흥행을 동시에 잡았던 '정직한 후보'(2020)의 속편 '정직한 후보2'와 '컴백홈'이 9월에 개봉, 라미란이 스크린 웃음 사냥에 나설 예정이다. 라미란은 오는 9월28일 개봉할 영화 '정직한 후보2'(감독 장유정)를 통해 다시 한번 '진실의 주둥이'로 컴백한다. 이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F28%2FNEWS1%2F20220828070018703wccb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>

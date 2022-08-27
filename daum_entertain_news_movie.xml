@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-08-27T21:05:01.203Z</updated>
+    <updated>2022-08-27T22:05:52.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[라미란 표 코미디, 9월 극장가 휩쓴다]]></title>
+        <id>https://entertain.v.daum.net/v/20220828070018283</id>
+        <link href="https://entertain.v.daum.net/v/20220828070018283"/>
+        <updated>2022-08-27T22:05:51.872Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 배우 라미란이 코미디로 돌아온다. 특히 1편으로 호평과 흥행을 동시에 잡았던 '정직한 후보'(2020)의 속편 '정직한 후보2'와 '컴백홈'이 9월에 개봉, 라미란이 스크린 웃음 사냥에 나설 예정이다. 라미란은 오는 9월28일 개봉할 영화 '정직한 후보2'(감독 장유정)를 통해 다시 한번 '진실의 주둥이'로 컴백한다. 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[군림 대신 공존하려는 '진짜 남자'가 괴물 마주했을 때]]></title>
         <id>https://entertain.v.daum.net/v/20220827175001848</id>
@@ -102,12 +109,5 @@
         <link href="https://entertain.v.daum.net/v/20220827090207958"/>
         <updated>2022-08-27T00:32:16.750Z</updated>
         <content type="html"><![CDATA[[티브이데일리 최하나 기자] '엔데믹'이 도래하고 첫 여름 극장가에 출격한 한국영화 BIG4의 희비가 극명하게 엇갈렸다. 흥행에 입소문의 영향력이 커지면서 여름대전의 승패가 갈렸다. 올해 여름 극장가에는 영화 '외계+인' 1부(감독 최동훈), '한산: 용의 출현'(감독 이한민), '비상선언'(감독 한재림), '헌트'(감독 이정재)가 텐트폴 영화로 관객 사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름극장가 승자 '한산 : 용의출현', 쿠팡플레이서 본다 外]]></title>
-        <id>https://entertain.v.daum.net/v/20220827090001862</id>
-        <link href="https://entertain.v.daum.net/v/20220827090001862"/>
-        <updated>2022-08-27T00:32:16.750Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김미화 기자] /사진='한산 : 용의출현' ○...올 여름 극장가 승자인 영화 '한산 : 용의출현'이 8월 29일 쿠팡플레이서 공개 된다. '한산: 용의 출현'은 명량해전 5년 전, 진군 중인 왜군을 상대로 조선을 지키기 위해 필사의 전략과 패기로 뭉친 이순신 장군과 조선 수군의 '한산해전'을 그린 전쟁 액션 대작. 700만 관객을 돌파를 향해]]></content>
     </entry>
 </feed>

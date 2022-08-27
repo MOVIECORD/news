@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-08-27T21:05:01.183Z</updated>
+    <updated>2022-08-27T22:05:52.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[라미란 표 코미디, 9월 극장가 휩쓴다 [N초점]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006301016</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006301016"/>
+        <updated>2022-08-27T22:05:03.909Z</updated>
+        <content type="html"><![CDATA[배우 라미란이 코미디로 돌아온다. 특히 1편으로 호평과 흥행을 동시에 잡았던 '정직한 후보'(2020)의 속편 '정직한 후보2'와 '컴백홈'이 9월에 개봉, 라미란이 스크린 웃음 사냥에 나설 예정이다. 라미란은 오는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[라미란-김무열, 케미 터지네 [화보]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001000650</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004687021"/>
         <updated>2022-08-27T07:03:27.104Z</updated>
         <content type="html"><![CDATA[27일 오후 서울시 강남구 메가박스 코엑스에서 영화 '헌트' 흥행 감사 무대 인사 및 앵콜 쇼케이스가 열렸다. 이 자리에는 감독 겸 배우 이정재와 배우 정우성, 정만식이 참석했다. 정우성이 앵콜 쇼케이스에서 포토타임]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]이정재-정우성-정만식,'왕관을 쓰고 뜨거운 박수']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004687020</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004687020"/>
-        <updated>2022-08-27T07:03:27.104Z</updated>
-        <content type="html"><![CDATA[27일 오후 서울시 강남구 메가박스 코엑스에서 영화 '헌트' 흥행 감사 무대 인사 및 앵콜 쇼케이스가 열렸다. 이 자리에는 감독 겸 배우 이정재와 배우 정우성, 정만식이 참석했다. 이정재, 정우성, 정만식이 앵콜 쇼]]></content>
     </entry>
 </feed>
