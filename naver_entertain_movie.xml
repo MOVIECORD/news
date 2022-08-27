@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-08-27T16:07:54.539Z</updated>
+    <updated>2022-08-27T17:12:14.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[라미란-김무열, 케미 터지네 [화보]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001000650</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001000650"/>
+        <updated>2022-08-27T17:11:26.348Z</updated>
+        <content type="html"><![CDATA[라미란-김무열, 케미 터지네 [화보] 영화 ‘정직한 후보2’ 주연 배우 라미란과 김무열의 화보가 공개됐다. ‘정직한 후보2’는 화려한 복귀의 기회를 잡은 전 국회의원 ‘주상숙’과 그의 비서 ‘박희철’이 ‘진실의 주둥]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사진]정우성-이정재-정만식,'헌트 앵콜 쇼케이스']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004687354</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004687020"/>
         <updated>2022-08-27T07:03:27.104Z</updated>
         <content type="html"><![CDATA[27일 오후 서울시 강남구 메가박스 코엑스에서 영화 '헌트' 흥행 감사 무대 인사 및 앵콜 쇼케이스가 열렸다. 이 자리에는 감독 겸 배우 이정재와 배우 정우성, 정만식이 참석했다. 이정재, 정우성, 정만식이 앵콜 쇼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스초점] '헌트' 주말 400만 돌파할까…이번 주 극장가 소식]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000557765</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000557765"/>
-        <updated>2022-08-27T06:08:01.466Z</updated>
-        <content type="html"><![CDATA[첩보 액션 영화 '헌트'가 3주째 박스오피스 선두를 달리는 가운데 새롭게 개봉한 코미디 '육사오'가 다크호스로 떠올랐습니다. 박스오피스 소식과 함께 가을 극장가를 책임질 주요 기대작들 소식, 윤성은 영화평론가와 짚어]]></content>
     </entry>
 </feed>
