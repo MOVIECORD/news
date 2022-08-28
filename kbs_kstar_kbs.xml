@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 10:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 11:05:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사장님 귀는 당나귀 귀] 오랜만에 등장한 보스 이연복 셰프의 중화냉면 레시피(feat. 정호영셰프)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=226358</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=226358</guid>
+            <pubDate>Sun, 28 Aug 2022 11:04:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=226358">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220828195409_f8cf73156f29a8013570158a4ce9db72_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=226358">[사장님 귀는 당나귀 귀] 오랜만에 등장한 보스 이연복 셰프의 중화냉면 레시피(feat. 정호영셰프)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220828195409_f8cf73156f29a8013570158a4ce9db72_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리슨업] 2위 설움 제대로 풀었다...도코 X 이대휘, 현장투표 점수 최고점 받아내]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=226354</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%A6%AC%EC%8A%A8%20%EC%97%85">리슨 업</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220827170817_cfee4abc0ee829de5759f56d95435d0d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['동네 한 바퀴' 이만기와 함께 서울 광화문 궁궐길]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=226251</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=226251</guid>
-            <pubDate>Sat, 27 Aug 2022 03:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=226251">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220827083938_332509f78f846ddb5d19b22636d602c2.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=226251">'동네 한 바퀴' 이만기와 함께 서울 광화문 궁궐길  </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8F%99%EB%84%A4%20%ED%95%9C%20%EB%B0%94%ED%80%B4">동네 한 바퀴</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220827083938_332509f78f846ddb5d19b22636d602c2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
