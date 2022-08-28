@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 22:05:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 23:05:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['한산:용의 출현' 700만 관객 기념 인증샷]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=226425</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=226425</guid>
+            <pubDate>Sun, 28 Aug 2022 23:03:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=226425">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220829074723_39fa88fa4de85e7478ecff8f629552e8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=226425">'한산:용의 출현' 700만 관객 기념 인증샷</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220829074723_39fa88fa4de85e7478ecff8f629552e8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['신 에반게리온 극장판'  4DX 개봉 .... “안녕, 모든 에반게리온”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=226245</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=225536">고향에 가지 못하는 장기수들의 애환...'2차 송환'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220824084423_652d9ee92d81e7c630622b9a77528f19.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['중정요원' 이정재-정우성, 토론토 간다 .... '헌트' 토론토국제영화제]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=225518</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=225518</guid>
-            <pubDate>Wed, 24 Aug 2022 03:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=225518">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220824082418_7d9eb345ab801f360d70d06efae1f0f8.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=225518">'중정요원' 이정재-정우성, 토론토 간다 .... '헌트' 토론토국제영화제</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220824082418_7d9eb345ab801f360d70d06efae1f0f8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
