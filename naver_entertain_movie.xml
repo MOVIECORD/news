@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-08-28T14:06:36.125Z</updated>
+    <updated>2022-08-28T15:06:07.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["한국의 클래식 열정, 유럽인에게 신선함 주죠"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013403182</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013403182"/>
+        <updated>2022-08-28T15:05:09.119Z</updated>
+        <content type="html"><![CDATA[다큐 'K클래식 제너레이션' 티에리 로로 감독…"한국 발견 계기 되길" "하루에 9시간 동안 연습만 하면 (음악을) 잘 표현할 수 있을까? 의문이 있는 것도 사실입니다. 그런데 한국 음악가들을 보면 그게 된다는 거죠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["유럽과 달리 젊은세대가 열광…클래식의 미래, 한국에 있다"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004092634</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004092634"/>
+        <updated>2022-08-28T15:05:09.122Z</updated>
+        <content type="html"><![CDATA[“최근 들어 한국의 클래식 음악에서 신선함을 느낍니다. 젊은이들이 클래식을 연주하고 즐기며, 공연장에서도 젊은 관객들이 음악인들에게 사인을 받으려고 줄을 서죠. 뭔가 새로운 것이 한국에서 벌어지고 있다는 생각이 들어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘한산’ 700만 쐈다, 감사 인증샷]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000833565</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013402579"/>
         <updated>2022-08-28T07:04:41.507Z</updated>
         <content type="html"><![CDATA[28일 서울 강남구 코엑스에서 열린 '2022 서울 팝콘'에서 관람객들이 전시를 둘러보고 있다. 2022.8.28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['내가 좋아하는 그림이 여기에']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013402578</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013402578"/>
-        <updated>2022-08-28T07:04:41.507Z</updated>
-        <content type="html"><![CDATA[28일 서울 강남구 코엑스에서 열린 '2022 서울 팝콘'의 한 부스에서 관람객이 일러스트레이션 포스터를 구매하고 있다. 2022.8.28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가상 캐릭터로 게임 해요']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013402577</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013402577"/>
-        <updated>2022-08-28T07:04:41.508Z</updated>
-        <content type="html"><![CDATA[28일 서울 강남구 코엑스에서 열린 '2022 서울 팝콘'에서 한 관람객이 가상 캐릭터 체험을 하고 있다. 2022.8.28]]></content>
     </entry>
 </feed>
