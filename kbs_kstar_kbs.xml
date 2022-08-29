@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 03:30:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 05:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["누가 먼저 좋아했을까" 이승기-이세영 티키타카.... KBS 새 월화드라마 "법대로 사랑하라"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=226504</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=226504</guid>
+            <pubDate>Mon, 29 Aug 2022 05:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=226504">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220829102014_fdf5792bdba5e573aaee0d66cf4bd5fb.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=226504">"누가 먼저 좋아했을까" 이승기-이세영 티키타카.... KBS 새 월화드라마 "법대로 사랑하라"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B2%95%EB%8C%80%EB%A1%9C%20%EC%82%AC%EB%9E%91%ED%95%98%EB%9D%BC">월화드라마 법대로 사랑하라</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220829102014_fdf5792bdba5e573aaee0d66cf4bd5fb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이찬형, KBS 2TV ‘열아홉 해달들’ 캐스팅... 당찬 열아홉 고등학생]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=226133</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%A6%AC%EC%8A%A8%20%EC%97%85">리슨 업</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220828085500_447740ef6d00615be9df8c0b0b6e387d_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리슨업] 2라운드 2위 도코의 선택은? 1라운드 2위 이대휘 택했다...2위의 반란 예고]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=226346</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=226346</guid>
-            <pubDate>Sun, 28 Aug 2022 00:37:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=226346">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220828084823_226120d6de5bd97d9d38e9c71f7e0c65_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=226346">[리슨업] 2라운드 2위 도코의 선택은? 1라운드 2위 이대휘 택했다...2위의 반란 예고</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%A6%AC%EC%8A%A8%20%EC%97%85">리슨 업</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220828084823_226120d6de5bd97d9d38e9c71f7e0c65_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
