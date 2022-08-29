@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-08-29T15:13:12.889Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 29 Aug 2022 16:10:07 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["배우 포스 좔좔"..위너 송민호, 유아인 옆에서도 남다른 존재감 ('서울대작전')]]></title>
+            <link>https://v.daum.net/v/20220830010006441</link>
+            <guid>https://v.daum.net/v/20220830010006441</guid>
+            <pubDate>Mon, 29 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 넷플릭스 영화 '서울대작전'이 유쾌했던 현장 분위기를 느낄 수 있는 비하인드 스틸을 공개했다. '서울대작전'(감독 문현성)은 1988년, 아메리칸 드림을 꿈꾸는 상계동 슈프림팀이 거부할 수 없는 제안을 받고 VIP 비자금 수사 작전에 투입되면서 벌어지는 카체이싱 액션 질주극. 29일) 공개된 비하인드 스틸은 화기애애한 팀워크]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202208%2F30%2Fmydaily%2F20220830010006393tafg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
