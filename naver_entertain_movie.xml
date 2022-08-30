@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-08-30T14:16:04.620Z</updated>
+    <updated>2022-08-30T15:06:55.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[내가 본 '문정희'] 25년 차 배우가 전하는 새로움과 설렘]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000169846</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000169846"/>
+        <updated>2022-08-30T15:06:05.109Z</updated>
+        <content type="html"><![CDATA[영화 '리미트'서 빌런 혜진 역 열연…"여전히 배우로 불리는 게 어색해" 정제되지 않은 스타는 어떤 모습일까. 연예계는 대중의 관심을 받는 스타도 많고, 이들을 팔로우하는 매체도 많다. 모처럼 인터뷰가 잡혀도 단독으]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["1편 명성 잇는다"…'공조2' 현빈→다니엘 헤니, 통쾌한 액션과 코믹의 진면모(종합)[현장의 재구성]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004689180</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011392984"/>
         <updated>2022-08-30T10:08:22.076Z</updated>
         <content type="html"><![CDATA[기사내용 요약 정부 일반회계 전입금 800억원 추가 내영 영화발전기금 2300억원 편성돼 영진위 "추가 재원 확보 절실한 상황" [서울=뉴시스] 손정빈 기자 = 영화 산업 발전을 위해 쓰이는 영화발전기금에 정부출연금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] '공조2:인터내셔날' 추석 연휴 극장에서 만나요]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004743763</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004743763"/>
-        <updated>2022-08-30T10:08:22.078Z</updated>
-        <content type="html"><![CDATA[이석훈 감독과 배우 다니엘 헤니, 유해진, 임윤아, 진선규, 현빈이 30일 오후 서울 한강로 CGV용산아이파크몰에서 열린 영화 '공조2:인터내셔날'(감독 이석훈, 제작 CJ ENM , (주)JK필름) 언론 시사 및]]></content>
     </entry>
 </feed>
