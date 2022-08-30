@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-08-30T17:17:44.786Z</updated>
+    <updated>2022-08-30T18:10:42.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문화·언어·종교 벽 넘어…세계 영화창의도시 로컬영화 한자리에]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000018810</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000018810"/>
+        <updated>2022-08-30T18:09:51.368Z</updated>
+        <content type="html"><![CDATA[- 내달 2~4일 영화의전당 등서 - 13개 도시 총 26편 작품 선봬 - 메인섹션 3편은 모두 ‘부산표’ 전 세계 유네스코 영화 창의도시의 로컬 영화가 부산에서 펼쳐진다. 부산독립영화협회는 다음 달 2일부터 4일까]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[내가 본 '문정희'] 25년 차 배우가 전하는 새로움과 설렘]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000169846</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003083191"/>
         <updated>2022-08-30T10:08:22.069Z</updated>
         <content type="html"><![CDATA[영화 '공조2 : 인터내셔날'이 남다른 비주얼, 액션에 웃음까지 장착하고 추석 관객 사냥에 나선다 30일 오후 서울 용산구 CGV용산아이파크몰에서 영화 '공조2 : 인터내셔날'(감독 이석훈) 언론배급시사회가 열렸다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고갈 된 영화발전기금에 정부 800억원 첫 투입]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011392984</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011392984"/>
-        <updated>2022-08-30T10:08:22.076Z</updated>
-        <content type="html"><![CDATA[기사내용 요약 정부 일반회계 전입금 800억원 추가 내영 영화발전기금 2300억원 편성돼 영진위 "추가 재원 확보 절실한 상황" [서울=뉴시스] 손정빈 기자 = 영화 산업 발전을 위해 쓰이는 영화발전기금에 정부출연금]]></content>
     </entry>
 </feed>
