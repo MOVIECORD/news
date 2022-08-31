@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 05:24:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 06:51:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘텐트 밖은 유럽’ 유해진-진선규-윤균상, "유럽 자전거 라이딩"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=226960</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=226960</guid>
+            <pubDate>Wed, 31 Aug 2022 06:50:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=226960">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220831143804_8a1aa19130a95d37cc1ded20b4f5679d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=226960">‘텐트 밖은 유럽’ 유해진-진선규-윤균상, "유럽 자전거 라이딩"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220831143804_8a1aa19130a95d37cc1ded20b4f5679d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘법대로 사랑하라’ 이승기-이세영-김슬기-오동민...  “우리가 사랑했던 그 시절, 소년과 소녀”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=226864</link>
@@ -348,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">개는 훌륭하다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220830010004_185ba3c6220e15f524bda700b34f39d8.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[개는 훌륭하다] “평생 산책 못 했다” 개농장 구조견 딩동이의 경계심이 안타까운 보호자]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=226581</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=226581</guid>
-            <pubDate>Mon, 29 Aug 2022 16:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=226581">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220830004931_dae595e9427f031e0db91a66bf1f7181.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=226581">[개는 훌륭하다] “평생 산책 못 했다” 개농장 구조견 딩동이의 경계심이 안타까운 보호자</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">개는 훌륭하다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220830004931_dae595e9427f031e0db91a66bf1f7181.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
