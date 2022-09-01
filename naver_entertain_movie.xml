@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-09-01T17:18:19.198Z</updated>
+    <updated>2022-09-01T18:11:52.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BIFF “6·25때 작품 ‘낙동강’ 복원 상영”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000019051</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000019051"/>
+        <updated>2022-09-01T18:11:06.866Z</updated>
+        <content type="html"><![CDATA[역사적 가치가 높은 영화 ‘낙동강(1952년작)’의 복원 작품이 다음 달 5일 개막하는 제27회 부산국제영화제(BIFF)에서 최초로 상영된다. BIFF는 전창근 감독의 한국전쟁을 다룬 영화 ‘낙동강’의 디지털 리마스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스, 광고형 저가 서비스 11월 출시?]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000834464</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000048279"/>
         <updated>2022-09-01T10:09:23.274Z</updated>
         <content type="html"><![CDATA[송경원 한국영화 빅4의 윤곽이 어느 정도 나왔다. &lt;한산: 용의 출현&gt;이 630만 관객을 동원하며 손익분기를 넘겼고 &lt;헌트&gt; &lt;비상선언&gt; &lt;외계+인&gt; 1부 순으로 관객의 선택을 받았다(2022년 8월22일 기준).]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2022 상반기 한국영화 결산①] 스토리텔링의 희미한 경향]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000048278</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000048278"/>
-        <updated>2022-09-01T10:09:23.275Z</updated>
-        <content type="html"><![CDATA[태초에 박찬욱, 봉준호가 있었다. 목록을 좀더 뒤져보면 강제규, 강우석, 이창동, 홍상수, 허진호, 임상수, 장준환 등 일일이 열거하는 게 무의미할 정도로 많은 감독들이 1990년대 말부터 2000년대 초중반의 한국]]></content>
     </entry>
 </feed>

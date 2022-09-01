@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=224</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 방송</title>
-    <updated>2022-09-01T17:18:19.219Z</updated>
+    <updated>2022-09-01T18:11:52.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 채널A]국힘, 추석 전 새 비대위 출범? 엇갈린 전망]]></title>
+        <id>https://entertain.naver.com/now/read?oid=020&amp;aid=0003448771</id>
+        <link href="https://entertain.naver.com/now/read?oid=020&amp;aid=0003448771"/>
+        <updated>2022-09-01T18:11:15.105Z</updated>
+        <content type="html"><![CDATA[국민의힘이 추석 전 새 비대위 출범이라는 시간표를 맞추기 위해 속도를 내고 있다. 오늘 상임전국위에 이어 5일 전국위를 열고 당헌 개정안을 통과시킨다는 계획이지만 계속되는 당 안팎의 반발로 순조롭게 출항할 수 있을지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이들 싸움이 '반백' 신현준·정준호의 연기 싸움?]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0011398562</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003083846"/>
         <updated>2022-09-01T15:07:15.031Z</updated>
         <content type="html"><![CDATA['나솔사계'에서 6기 광수가 아나운서와 소개팅했다. 1일 오후 방송된 SBS PLUS·ENA 리얼 데이팅 프로그램 '나는 SOLO' 스핀 오프 '나는 SOLO : 사랑은 계속된다'(이하 '나솔사계')에서는 6기 광수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘국가부’ 치타→장문복, 힙합의 힙함이 터졌다[종합]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=144&amp;aid=0000834459</id>
-        <link href="https://entertain.naver.com/now/read?oid=144&amp;aid=0000834459"/>
-        <updated>2022-09-01T15:07:15.032Z</updated>
-        <content type="html"><![CDATA[‘국가가 부른다’ 힙한 무대가 터졌다. 1일 오후 방송된 TV CHOSUN 예능프로그램 ‘국가가 부른다’에서는 힙합 전사 특집으로 아웃사이더, 슬리피, 지조, 치타, 자이언트핑크, 장문복이 출연했다. 이날 아웃사이더]]></content>
     </entry>
 </feed>
