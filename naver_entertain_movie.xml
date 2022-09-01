@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-09-01T19:06:25.675Z</updated>
+    <updated>2022-09-01T20:07:40.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사비타'부터 '보디가드'까지…'모두의 인생작' 재개봉 러시 [TF프리즘]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000170389</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000170389"/>
+        <updated>2022-09-01T20:06:52.072Z</updated>
+        <content type="html"><![CDATA[전 세계가 사랑한 명작들, '워너 필름소사이어티' 통해 재개봉 확정 영화 팬들의 가슴에 남아 있는 '인생작'들이 기획전을 통해 재개봉을 알려 시선을 모은다. '사랑은 비를 타고'부터 '블레이드 러너: 파이널 컷',]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현빈 “나이 들고 경험 쌓여가면서 림철령처럼 여유 생겼다”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001550508</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000048281"/>
         <updated>2022-09-01T10:09:23.268Z</updated>
         <content type="html"><![CDATA[송경원 &lt;헤어질 결심&gt;과 &lt;탑건: 매버릭&gt; 이야기를 해보자. 두 영화의 흥행 패턴이 몇년간 보지 못했던 모양새다. 이 두편은 조금 결이 다른데 각각 이야기해볼 수 있을 것 같다. &lt;헤어질 결심&gt;은 박찬욱의 영화 중]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2022 상반기 한국영화 결산①] 한국영화 스토리텔링의 오래된 습관과 '작가'의 오남용]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000048280</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000048280"/>
-        <updated>2022-09-01T10:09:23.273Z</updated>
-        <content type="html"><![CDATA[송경원 &lt;헌트&gt;에 대해서도 한번 이야기해보자. 김병규 사나이픽처스의 &lt;헌트&gt;를 보면서 기존 한국영화의 스타 이미지, 기호, 서사에 기대는 매너리즘의 끝에 다다랐다는 생각을 했다. &lt;헌트&gt;의 도쿄 액션 시퀀스의 긴장감]]></content>
     </entry>
 </feed>
