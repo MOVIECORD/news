@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-09-01T18:11:52.127Z</updated>
+    <updated>2022-09-01T19:06:25.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[현빈 “나이 들고 경험 쌓여가면서 림철령처럼 여유 생겼다”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001550508</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001550508"/>
+        <updated>2022-09-01T19:05:38.595Z</updated>
+        <content type="html"><![CDATA[“나이가 들고 경험이 쌓여가면서 영화 속 림철령처럼 여유가 생겼다. 결혼하고 아이가 생겨 가장으로서 더 열심히 살면서 가정을 꾸려나가게 될 것 같다. 배우로선 그런 점들이 연기에 묻어나면 좋겠다는 게 가장 큰 바람이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BIFF “6·25때 작품 ‘낙동강’ 복원 상영”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000019051</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000048280"/>
         <updated>2022-09-01T10:09:23.273Z</updated>
         <content type="html"><![CDATA[송경원 &lt;헌트&gt;에 대해서도 한번 이야기해보자. 김병규 사나이픽처스의 &lt;헌트&gt;를 보면서 기존 한국영화의 스타 이미지, 기호, 서사에 기대는 매너리즘의 끝에 다다랐다는 생각을 했다. &lt;헌트&gt;의 도쿄 액션 시퀀스의 긴장감]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2022 상반기 한국영화 결산①] 안전한 기획의 승리와 멀티캐스팅 시대의 종막]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000048279</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000048279"/>
-        <updated>2022-09-01T10:09:23.274Z</updated>
-        <content type="html"><![CDATA[송경원 한국영화 빅4의 윤곽이 어느 정도 나왔다. &lt;한산: 용의 출현&gt;이 630만 관객을 동원하며 손익분기를 넘겼고 &lt;헌트&gt; &lt;비상선언&gt; &lt;외계+인&gt; 1부 순으로 관객의 선택을 받았다(2022년 8월22일 기준).]]></content>
     </entry>
 </feed>
