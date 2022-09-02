@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-09-02T20:09:33.616Z</updated>
+    <updated>2022-09-02T21:07:11.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주말의 OTT]얄미운데 끌리네]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011400596</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011400596"/>
+        <updated>2022-09-02T21:06:24.043Z</updated>
+        <content type="html"><![CDATA[9월 첫 째주 넷플릭스·왓챠·디즈니+ 신작을 정리했다. 러브 인 더 빌라(넷플릭스) 로미오와 줄리엣의 도시로 유명한 이탈리아 베로나를 배경으로 한 로맨틱 코미디 영화 '러브 인 더 빌라'가 공개된다. 계획대로만 살아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[독립영화관] ‘고백’ 피해자X의 헌신 (서은영 감독,2020)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000049737</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003084024"/>
         <updated>2022-09-02T06:33:00.264Z</updated>
         <content type="html"><![CDATA[배우 박세완이 또 한 번 팬들을 사로잡았다. 박스오피스 1위를 유지하며 흥행 가도를 달리는 영화 '육사오'에서 박세완은 대남 선전 방송을 담당하는 북한 측 군단선전대 병사 연희로 분해 관객들의 마음을 단박에 사로잡으]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘천만 영화감독들 마침내 국회로: 정당한 보상을 논하다’ 정책토론회 열려]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000048295</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000048295"/>
-        <updated>2022-09-02T06:33:00.270Z</updated>
-        <content type="html"><![CDATA[“&lt;극락도 살인사건&gt; 이후 두 번째 작품을 실패하고 &lt;최종병기 활&gt;을 준비하던 때였다. 케이블TV에서는 계속 내 영화가 방영되고 있는데 권리는 누가 다 가져가나. 지금 많이 배고픈데 이럴 때 나 좀 주면 좋겠다고 생]]></content>
     </entry>
 </feed>

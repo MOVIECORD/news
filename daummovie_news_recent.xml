@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-09-02T20:09:33.562Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 02 Sep 2022 21:07:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현빈 "'공조2'가 첫 속편.. 부담감 컸어요" [쿠키인터뷰]]]></title>
+            <link>https://v.daum.net/v/20220903060204665</link>
+            <guid>https://v.daum.net/v/20220903060204665</guid>
+            <pubDate>Fri, 02 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[원래 이런 사람이었나. 영화 ‘공조’(감독 김성훈)를 기억하는 관객이면, ‘공조2: 인터내셔날’(감독 이석훈)에서 웃음이 많아진 임철령(현빈)에 놀라지 않을까. 처음 한국에 내려와 잔뜩 긴장한 모습으로 시종일관 경계를 풀지 않던 철령은 두 번째 방문에서야 한결 여유로워진 모습이다. 폭력을 자제하고, 총을 꺼내지 않는 규칙은 이제 자연스럽다. 철령이 보여]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F03%2Fkukinews%2F20220903060205245jemo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
