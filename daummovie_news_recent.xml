@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-09-03T21:05:58.395Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 03 Sep 2022 22:05:56 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[돌아온 '공조2'..속편 흥행 공식 또 통할까 [N초점]]]></title>
+            <link>https://v.daum.net/v/20220904070028593</link>
+            <guid>https://v.daum.net/v/20220904070028593</guid>
+            <pubDate>Sat, 03 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 올해 흥행에 성공한 대부분의 영화들엔 공통점이 있다. 할리우드 프랜차이즈의 리부트 영화이거나 국내 영화들의 속편이라는 점이다. 이에 이번 추석 극장가에도 '공조'의 2편인 '공조2: 인터내셔날'이 출격하는 가운데, 속편 흥행 공식이 계속될지도 이목이 집중되고 있다. 이 같은 흥행 공식의 강세가 두드러진 것은 팬데믹으로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F04%2FNEWS1%2F20220904070029773gbet.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
