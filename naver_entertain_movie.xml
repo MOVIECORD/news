@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-09-03T03:26:20.659Z</updated>
+    <updated>2022-09-03T04:54:34.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[웃고 싶은 관객들..코미디 영화가 뜬다 [김나연의 사선]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003084193</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003084193"/>
+        <updated>2022-09-03T04:53:47.272Z</updated>
+        <content type="html"><![CDATA[영화·OTT를 보는 김나연 기자의 사적인 시선 극장가가 '빵빵' 터지고 있다. 코미디 영화 '육사오'가 관객들의 사랑을 받으며 박스오피스에서 선전하고 있고, 앞으로도 다양한 코미디 영화가 줄줄이 출격을 대기하고 있다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진서연 "불평등에 반항심, 주체적인 캐릭터 원해요" [★FULL인터뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003084188</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005012958"/>
         <updated>2022-09-02T23:04:50.813Z</updated>
         <content type="html"><![CDATA[첫 주말 성적표는? 반전의 질주다. 올 여름 극장가 유일한 코미디 영화 ‘육사오’(감독 박규태)가 대작 ‘헌트’를 제치고 박스오피스 왕좌를 지키고 있는 가운데 개봉 첫 주말을 맞아 굳히기에 들어간다. 지난 2일 영화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[변호사 쉬헐크 #3] '녹색의 변호사' 법정 활약은 계속된다.]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000049753</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000049753"/>
-        <updated>2022-09-02T23:04:50.815Z</updated>
-        <content type="html"><![CDATA[마블 오리지널 시리즈 &lt;변호사 쉬헐크&gt; 3화가 지난 1일, 디즈니+(디즈니플러스)에서 공개되었다. &lt;변호사 쉬헐크&gt; 세 번째 에피소드에서는 MCU의 뜨거운 논란이 되었던 ‘어보미네이션’의 가석방 심리를 성공적으로 마]]></content>
     </entry>
 </feed>
