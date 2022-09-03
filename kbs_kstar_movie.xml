@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 04:54:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 05:28:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웨이브 '위기의 X'  현실격공 '원형탈모' 코미디]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=227338</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=227338</guid>
+            <pubDate>Sat, 03 Sep 2022 05:26:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=227338">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220903094723_2e4a696528bdffba869e0405396001d8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227338">웨이브 '위기의 X'  현실격공 '원형탈모' 코미디</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220903094723_2e4a696528bdffba869e0405396001d8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변호사 쉬헐크  #3]  '녹색의 변호사' 법정 활약은 계속된다.]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=227276</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=226842">"톰 행크스는 제페토"  디즈니+ 실사영화 '피노키오' 9월 8일 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220831081856_1a09bb5d7258ad210d6b4c8afb80d2b0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인기성우 ‘아이바 아이나’ 부천국제애니메이션페스티벌 참석]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=226836</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=226836</guid>
-            <pubDate>Tue, 30 Aug 2022 23:07:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=226836">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220831080551_aaf8fc2e2ebf4e386b37c280cff24eca.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=226836">인기성우 ‘아이바 아이나’ 부천국제애니메이션페스티벌 참석</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220831080551_aaf8fc2e2ebf4e386b37c280cff24eca.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
