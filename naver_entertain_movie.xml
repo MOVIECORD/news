@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-09-03T22:05:56.451Z</updated>
+    <updated>2022-09-03T23:07:22.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부산국제영화제 ‘한국영화의 오늘-비전’ 12편 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000049772</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000049772"/>
+        <updated>2022-09-03T23:06:34.828Z</updated>
+        <content type="html"><![CDATA[내달 5일 개막하는 제27회 부산국제영화제 ‘한국영화의 오늘-비전’ 섹션에서 공개되는 12편이 공개됐다. 부산국제영화제의 ‘한국영화의 오늘-비전’은 뛰어난 작품성을 지닌 최신 한국 독립영화를 소개하는 섹션으로, 동시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[돌아온 '공조2'…속편 흥행 공식 또 통할까 [N초점]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006314992</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001496287"/>
         <updated>2022-09-03T07:07:06.306Z</updated>
         <content type="html"><![CDATA[영화 '헌트'(감독 이정재)가 400만 관객을 돌파했다. 3일 영진위 통합전산망에 따르면 지난 달 10일 개봉한 '헌트'는 이날 오후 2시 30분 400만 관객을 돌파했다. '헌트'는 조직 내 숨어든 스파이를 색출하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['헌트' 개봉 25일만에 400만 돌파 [Nbox]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006314649</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006314649"/>
-        <updated>2022-09-03T07:07:06.307Z</updated>
-        <content type="html"><![CDATA[영화 '헌트'가 개봉 25일만에 400만 관객을 돌파했다. '헌트'는 3일 오후 2시30분 영화관입장권 통합전산망 집계 기준 400만 관객을 넘어섰다. '헌트'는 지난 8월10일 개봉한 후 4주 차에도 꾸준히 관객을]]></content>
     </entry>
 </feed>
