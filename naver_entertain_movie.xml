@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-09-04T19:06:56.380Z</updated>
+    <updated>2022-09-04T20:09:26.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이주여성도 아기 낳지 않을 권리 있다"…영화로 보는 현실 이야기]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=654&amp;aid=0000019062</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=654&amp;aid=0000019062"/>
+        <updated>2022-09-04T20:08:35.477Z</updated>
+        <content type="html"><![CDATA["시집 왔으면 할 일을 해야지!", "아직 아기 낳을 준비가 안 돼 있어요", "준비는 무슨 준비가 필요해!" 최근 커먼즈필드 춘천 '안녕하우스'에서 열린 제6회 춘천 이주민영화제에서 상영한 섹 알 마문 감독의 작품]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아시아 새로운 시선…BIFF(부산국제영화제) ‘뉴 커런츠’ 상영작 10편 공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000019199</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003228047"/>
         <updated>2022-09-04T03:30:19.574Z</updated>
         <content type="html"><![CDATA[영화 ‘육사오’가 실관람객들의 호평에 힘입어 100만 관객을 돌파했다. 4일 영화진흥위원회 통합전산망에 따르면 ‘육사오’가 누적 관객 수 100만을 넘어섰다. ‘육사오’는 바람을 타고 군사분계선을 넘어가 버린 57억]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공식] 입소문 통했다..'육사오' 오늘(4일) 100만 관객 돌파]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003912119</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003912119"/>
-        <updated>2022-09-04T03:30:19.576Z</updated>
-        <content type="html"><![CDATA[영화 '육사오'의 누적 관객수가 100만을 돌파했다. 연일 박스오피스 1위 행진을 이어가고 있는 영화 '육사오'가 바로 오늘 누적 관객수 100만을 돌파했다. '육사오'는 바람을 타고 군사분계선을 넘어가버린 57억]]></content>
     </entry>
 </feed>
