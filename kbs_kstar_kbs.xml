@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 11:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 12:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사장님 귀는 당나귀 귀] 정호영, 동업자 친구와 팝업스토어서 밀키트 판매 도전...스타 셰프의 ‘완판의 꿈’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=227451</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=227451</guid>
+            <pubDate>Sun, 04 Sep 2022 12:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=227451">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220904202025_5821d90d899fda52c99d0358e749e999_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227451">[사장님 귀는 당나귀 귀] 정호영, 동업자 친구와 팝업스토어서 밀키트 판매 도전...스타 셰프의 ‘완판의 꿈’</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220904202025_5821d90d899fda52c99d0358e749e999_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리슨업] ‘1:1 레드존 데스매치’ 눈물 보인 도코의 무대... 이예준 - 다시 와주라]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=227447</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220903204453_f25588c88ca70b57d0bf93f391012551_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이하나 “‘사랑, 이별, 시기, 감동’ 다다 있습니다”... KBS  새 주말드라마 '삼남매가 용감하게']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=227331</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=227331</guid>
-            <pubDate>Sat, 03 Sep 2022 04:53:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=227331">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220903082249_7d5dba2bb289abca8e89fe5103561f0b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227331">이하나 “‘사랑, 이별, 시기, 감동’ 다다 있습니다”... KBS  새 주말드라마 '삼남매가 용감하게'</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%82%BC%EB%82%A8%EB%A7%A4%EA%B0%80%20%EC%9A%A9%EA%B0%90%ED%95%98%EA%B2%8C">주말드라마 삼남매가 용감하게</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220903082249_7d5dba2bb289abca8e89fe5103561f0b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
