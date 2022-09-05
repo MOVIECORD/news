@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-09-05T17:16:19.102Z</updated>
+    <updated>2022-09-05T18:10:01.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[방호정의 컬쳐 쇼크 & 조크] <87> 송해 선생을 이어 새로운 시대를 열어다오]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000019345</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000019345"/>
+        <updated>2022-09-05T18:09:12.305Z</updated>
+        <content type="html"><![CDATA[다양한 콘셉트가 난무하는 대국민 음악 오디션 프로그램의 조상, ‘전국노래자랑’은 코리아나의 ‘손에 손잡고’가 여기저기서 웅장하게 울려 퍼지던 1988년 5월부터 34년간 송해 선생이 최장수 MC를 맡아왔다. 춤추고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인생은 아름다워' 박세완&옹성우, 첫사랑의 풋풋한 감성 전한다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003642939</id>
@@ -171,12 +178,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004693208"/>
         <updated>2022-09-05T13:39:41.145Z</updated>
         <content type="html"><![CDATA[5일 오후 서울 롯데월드타워 롯데시네마에서 영화 '공조2:인터내셔날' 쇼케이스가 진행됐다. 임윤아가 미소 짓고 있다. 2022.09.05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]유해진,'유쾌한 손짓']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004693207</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004693207"/>
-        <updated>2022-09-05T13:39:41.146Z</updated>
-        <content type="html"><![CDATA[5일 오후 서울 롯데월드타워 롯데시네마에서 영화 '공조2:인터내셔날' 쇼케이스가 진행됐다. 유해진이 팬들에게 손짓하고 있다 2022.09.05]]></content>
     </entry>
 </feed>
