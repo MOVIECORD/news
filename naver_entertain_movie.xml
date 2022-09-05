@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-09-05T15:06:23.301Z</updated>
+    <updated>2022-09-05T16:11:21.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['인생은 아름다워' 박세완&옹성우, 첫사랑의 풋풋한 감성 전한다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003642939</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003642939"/>
+        <updated>2022-09-05T16:10:28.498Z</updated>
+        <content type="html"><![CDATA[국내 최초 주크박스 뮤지컬 영화로 기대를 모으는 '인생은 아름다워'에서 박세완과 옹성우가 순수한 청춘의 감성을 전한다. '인생은 아름다워'는 자신의 생일선물로 첫사랑을 찾아 달라는 황당한 요구를 한 아내 '세연'(염]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['컴백홈', 이연우 감독의 '충청도 유니버스' 완성작 [TF프리즘]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000170984</id>
@@ -171,12 +178,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004693207"/>
         <updated>2022-09-05T13:39:41.146Z</updated>
         <content type="html"><![CDATA[5일 오후 서울 롯데월드타워 롯데시네마에서 영화 '공조2:인터내셔날' 쇼케이스가 진행됐다. 유해진이 팬들에게 손짓하고 있다 2022.09.05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]유해진,'슬로우모션으로 공조2 쇼케이스 폭소']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004693206</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004693206"/>
-        <updated>2022-09-05T13:39:41.146Z</updated>
-        <content type="html"><![CDATA[5일 오후 서울 롯데월드타워 롯데시네마에서 영화 '공조2:인터내셔날' 쇼케이스가 진행됐다. 유해진이 팬들에게 손짓하고 있다. 2022.09.05]]></content>
     </entry>
 </feed>
