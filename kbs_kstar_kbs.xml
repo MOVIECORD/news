@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 23:07:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 00:41:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['법대로 사랑하라' 오늘 첫 방송,  이승기-이세영 "월요병, 법대로 하라"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=227529</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=227529</guid>
+            <pubDate>Mon, 05 Sep 2022 00:40:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=227529">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220905082201_ab8a92fea86656dd0a1aa20539ed4738.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227529">'법대로 사랑하라' 오늘 첫 방송,  이승기-이세영 "월요병, 법대로 하라"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B2%95%EB%8C%80%EB%A1%9C%20%EC%82%AC%EB%9E%91%ED%95%98%EB%9D%BC">월화드라마 법대로 사랑하라</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220905082201_ab8a92fea86656dd0a1aa20539ed4738.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자본주의학교] 자두, ‘자본주의 식당’  찾았다...어엿한 사장 된 강두 모습에 울컥 “철 들었네”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=227511</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%A6%AC%EC%8A%A8%20%EC%97%85">리슨 업</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220904082434_ec0ccd90044b71be93a33b28d653cf4e_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[리슨업] 2위 설움 제대로 풀었다...도코-이대휘, 3라운드 1위 차지]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=227435</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=227435</guid>
-            <pubDate>Sun, 04 Sep 2022 00:40:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=227435">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220904081936_8dff13a49b3b6d4cfda851e1e21fb303_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227435">[리슨업] 2위 설움 제대로 풀었다...도코-이대휘, 3라운드 1위 차지</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%A6%AC%EC%8A%A8%20%EC%97%85">리슨 업</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220904081936_8dff13a49b3b6d4cfda851e1e21fb303_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
