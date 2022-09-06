@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 00:39:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 03:42:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KBS 추석특집 다큐 ‘쇠제비갈매기의 귀향’ (KBS 1TV 9일(금) 저녁 7시 10분)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=227933</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=227933</guid>
+            <pubDate>Tue, 06 Sep 2022 03:41:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=227933">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220906111342_445d8b731d2ac198ae28f34f3445f2e0.jpeg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227933">KBS 추석특집 다큐 ‘쇠제비갈매기의 귀향’ (KBS 1TV 9일(금) 저녁 7시 10분)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=2022%20UHD%20%EC%B6%94%EC%84%9D%ED%8A%B9%EC%A7%91%20%EC%87%A0%EC%A0%9C%EB%B9%84%EA%B0%88%EB%A7%A4%EA%B8%B0%EC%9D%98%20%EA%B7%80%ED%96%A5">2022 UHD 추석특집 쇠제비갈매기의 귀향</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220906111342_445d8b731d2ac198ae28f34f3445f2e0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[법대로사랑하라 1회]  “제가 걔를 좋아해서요...”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=227838</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9E%90%EB%B3%B8%EC%A3%BC%EC%9D%98%20%ED%95%99%EA%B5%90">자본주의 학교</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220904235713_4f4824fabb203516e5c14052309a4274_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[자본주의학교] ‘일취월장’ 강두 X 강재준 사장의 장사 실력 ...인기폭발 자본주의 식당]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=227499</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=227499</guid>
-            <pubDate>Sun, 04 Sep 2022 15:05:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=227499">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220904235129_8ceac030baccde3d7b50e6ace5a6f410_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227499">[자본주의학교] ‘일취월장’ 강두 X 강재준 사장의 장사 실력 ...인기폭발 자본주의 식당</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9E%90%EB%B3%B8%EC%A3%BC%EC%9D%98%20%ED%95%99%EA%B5%90">자본주의 학교</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220904235129_8ceac030baccde3d7b50e6ace5a6f410_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
