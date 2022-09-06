@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 03:42:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 05:28:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘법대로 사랑하라’ 이승기-이세영 "이 표정은?"....  ‘머리카락 쓰다듬기’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=227945</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=227945</guid>
+            <pubDate>Tue, 06 Sep 2022 05:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=227945">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220906130852_589f2e1904c94c469170d1cbbbe1351f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227945">‘법대로 사랑하라’ 이승기-이세영 "이 표정은?"....  ‘머리카락 쓰다듬기’</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B2%95%EB%8C%80%EB%A1%9C%20%EC%82%AC%EB%9E%91%ED%95%98%EB%9D%BC">월화드라마 법대로 사랑하라</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220906130852_589f2e1904c94c469170d1cbbbe1351f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KBS 추석특집 다큐 ‘쇠제비갈매기의 귀향’ (KBS 1TV 9일(금) 저녁 7시 10분)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=227933</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9E%90%EB%B3%B8%EC%A3%BC%EC%9D%98%20%ED%95%99%EA%B5%90">자본주의 학교</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220905000154_584a89a63b79d67b2a01fd341ca78035_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[자본주의학교] 강두 X강재준 사장의 ‘자본주의 식당’을 방문한 ‘허영만의 백반기행’ 작가]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=227503</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=227503</guid>
-            <pubDate>Sun, 04 Sep 2022 15:05:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=227503">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220904235713_4f4824fabb203516e5c14052309a4274_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227503">[자본주의학교] 강두 X강재준 사장의 ‘자본주의 식당’을 방문한 ‘허영만의 백반기행’ 작가</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9E%90%EB%B3%B8%EC%A3%BC%EC%9D%98%20%ED%95%99%EA%B5%90">자본주의 학교</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220904235713_4f4824fabb203516e5c14052309a4274_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
