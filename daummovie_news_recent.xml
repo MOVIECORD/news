@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-09-06T19:05:28.148Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 06 Sep 2022 20:11:05 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['공조2' 임윤아 "궁금하고 보고 싶은 배우로 남고 싶어요"]]></title>
+            <link>https://v.daum.net/v/20220907040626905</link>
+            <guid>https://v.daum.net/v/20220907040626905</guid>
+            <pubDate>Tue, 06 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘소녀시대’ 윤아는 어느 순간 ‘배우 임윤아’가 돼 있었다. ‘9회말 2아웃’(2007) ‘너는 내 운명’(2008) ‘사랑비’(2012) ‘총리와 나’(2013) 등 드라마를 통해 꾸준히 연기를 보여주던 임윤아는 2017년 ‘공조’로 영화계에 첫 발을 내디뎠다. 첫 영화에서 주인공 강진태(유해진)의 처제 민영 역으로 관객들에게 호평받은 그는 요즘 영화와]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F07%2Fkukminilbo%2F20220907040627352eskq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
