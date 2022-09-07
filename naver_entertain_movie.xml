@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-09-07T20:10:38.596Z</updated>
+    <updated>2022-09-07T21:06:54.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[영화평 300]공산품의 맛]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011410653</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011410653"/>
+        <updated>2022-09-07T21:06:05.420Z</updated>
+        <content type="html"><![CDATA[9월 2주차 개봉 영화 및 최근 개봉 영화 간단평을 정리했다. 공산품의 맛…공조2:인터내셔날(★★★) 배우 유해진은 '공조2:인터내셔날'('공조2')을 이렇게 설명했다. "보고 나오면서 친구한테 '근데 너무 웃기만하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[거리두기 없이 전석 입장…감독·배우·관객 참여행사도 재개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000019584</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001002982"/>
         <updated>2022-09-07T09:11:30.845Z</updated>
         <content type="html"><![CDATA[‘다음 소희’ 제27회 부산국제영화제 초청 [공식] 영화 ‘다음 소희’가 제27회 부산국제영화제 한국영화의 오늘-파노라마 섹션에 공식 초청됐다. 한국영화 최초로 칸영화제 비평가주간 폐막작 선정되어 세계인의 주목을 받]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신하균X한지민 '욘더' 제27회 부산국제영화제 공식 초청..스페셜포스터 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003586110</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003586110"/>
-        <updated>2022-09-07T09:11:30.845Z</updated>
-        <content type="html"><![CDATA['욘더'가 제27회 부산국제영화제에 공식 초청됐다. 티빙 오리지널 시리즈 '욘더'(연출 이준익, 극본 김정훈·오승현, 원작 김장환 ‘굿바이, 욘더’, 제공 티빙, 제작 영화사 두둥·CJ ENM)는 세상을 떠난 아내로]]></content>
     </entry>
 </feed>
