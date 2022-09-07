@@ -1,8 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-09-07T21:06:54.581Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 07 Sep 2022 22:06:56 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신작 VS 명작, 코믹·액션·음악으로 채운 추석 극장가 [MK★초점]]]></title>
+            <link>https://v.daum.net/v/20220908070315107</link>
+            <guid>https://v.daum.net/v/20220908070315107</guid>
+            <pubDate>Wed, 07 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[추석 연휴, 극장가에는 코믹, 액션, 감동 등이 담긴 다양한 작품들이 관객과 만난다. 올 추석 극장가의 유일한 신작인 영화 ‘공조2: 인터내셔날’(이하 ‘공조2’)부터 다시 돌아온 ‘모가디슈’ ‘알라딘’까지, 명절 가족 관객들의 발길을 이끈다. ‘공조2: 인터내셔날’(감독 이석훈)은 글로벌 범죄 조직을 잡기 위해 다시 만난 북한 형사 ‘림철령’(현빈)과 남]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F08%2Fmksports%2F20220908070316293abud.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] '공조2' 유해진 "우려먹는 속편 될까 걱정했죠"]]></title>
+            <link>https://v.daum.net/v/20220908070304098</link>
+            <guid>https://v.daum.net/v/20220908070304098</guid>
+            <pubDate>Wed, 07 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 유해진(52)이 5년 만에 남한 형사 강진태로 다시 돌아왔다. 영화 ‘공조2: 인터내셔날’(감독 이석훈, 이하 ‘공조2’)는 글로벌 범죄 조직을 잡기 위해 다시 만난 북한 형사 림철령(현빈 분)과 남한 형사 강진태가 뉴페이스 해외파 FBI 요원 잭(다니엘 헤니 분)과 각자의 목적을 감춘 채 벌이는 예측불허 삼각 공조 수사를 그린다. 지난 2017년]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F08%2Fstartoday%2F20220908070305689qlxo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["윤여정 만나고 싶다"며 방한한 배우 코처, 서울 한복판서 우연히 깜짝 조우]]></title>
+            <link>https://v.daum.net/v/20220908065624951</link>
+            <guid>https://v.daum.net/v/20220908065624951</guid>
+            <pubDate>Wed, 07 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스] 김근수기자 = 영화 ‘코다(CODA)’로 제94회 아카데미시상식 남우조연상을 받은 미국 배우 겸 감독 트로이 코처가 장애예술인 특별전이 열리고 있는 7일 서울 청와대 춘추관 앞에서 배우 윤여정씨와 기념촬영을 하고있다. (사진= 한국농아인협회 제공) 2022.09.07. photo@newsis.com *재판매 및 DB 금지 &lt;저작]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F08%2Ffnnewsi%2F20220908065624949ljnk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['공조2' 임윤아 "15년 롱런 비결? 긍정 마인드죠" [인터뷰]]]></title>
+            <link>https://v.daum.net/v/20220908063033707</link>
+            <guid>https://v.daum.net/v/20220908063033707</guid>
+            <pubDate>Wed, 07 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 겸 가수 임윤아가 영화 ‘공조2: 인터내셔날’과 MBC 드라마 ‘빅마우스’로 극장가와 안방극장을 동시에 공략하고 나섰다. 사진제공｜SM엔터테인먼트 “추석엔 오랜만에 푹 쉴 거예요. 가족과 맛있는 음식을 먹으며 에너지 충전해야죠!” 임윤아(32)의 파워가 무섭다. 현재 안방극장과 무대, 스크린까지 종횡무진하며 독보적인 존재감을 과시하고 있다. 최근 데]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F08%2Fsportsdonga%2F20220908063035135hpmt.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[짧은 추석, '공조2'와 재개봉으로 무장한 극장가 VS 신작 공세 OTT]]></title>
+            <link>https://v.daum.net/v/20220908063011692</link>
+            <guid>https://v.daum.net/v/20220908063011692</guid>
+            <pubDate>Wed, 07 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울|조은별기자]추석 연휴는 극장가의 ‘대목’이지만 올해는 다소 한산한 풍경이다. 올 여름 이른바 ‘빅4’로 불리는 한국 영화 4편의 성적이 썩 좋지 못한 때문인지, 신작 개봉이 대폭 줄었다. 연휴가 유독 짧은데다 고물가 영향으로 티켓 가격이 올라 극장가 나들이가 줄어든 것도 영향을 미쳤다. 때문에 검증된 인기작을 재개봉하거나 인기]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F08%2FSPORTSSEOUL%2F20220908063012377usbz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[OTT다방] 드디어 넷플에 올라온 아카데미 3관왕 수상작, 음악영화 '코다']]></title>
+            <link>https://v.daum.net/v/20220908061423484</link>
+            <guid>https://v.daum.net/v/20220908061423484</guid>
+            <pubDate>Wed, 07 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] 직접 맛보고 추천하는 향긋한 작품 한 잔! 세상의 OTT 다 보고 싶은 ‘OTT다방’ ‘코다(CODA)’는 ‘Child Of Deaf Adult(s)’, 즉 농인 부모의 청인 자녀를 가리키는 말이다. 최근 넷플릭스에 올라온 동명의 영화 ‘코다’(감독 션 헤이더)는 노래 부르는 것을 좋아하는 코다 루비(에밀리아 존스)와 루비의 노래를 듣]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F08%2Fseouleconomy%2F20220908061426030ptvy.png" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
