@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-09-08T17:33:55.632Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 08 Sep 2022 19:11:47 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['정말 착한 사람' 진선규 "다양한 감정 해소 느낌 들어"]]></title>
+            <link>https://v.daum.net/v/20220909040806028</link>
+            <guid>https://v.daum.net/v/20220909040806028</guid>
+            <pubDate>Thu, 08 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[유럽으로 캠핑을 떠나는 예능 프로그램에서 장모님이 싸주신 마늘장아찌를 내밀며 선한 웃음을 짓는 배우 진선규(사진)는 사실 악역에 일가견이 있다. 영화 ‘범죄도시’의 위성락으로 관객들의 주목을 받은 그가 7일 개봉한 ‘공조2: 인터내셔날’에서 복수심에 불타는 빌런 장명준으로 돌아왔다. 8일 서울 종로구 한 카페에서 만난 진선규는 수줍은 웃음, 조곤조곤한 말]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F09%2Fkukminilbo%2F20220909040807681fodb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
