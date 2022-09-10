@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-09-10T12:18:15.674Z</updated>
+    <updated>2022-09-10T13:28:45.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['흑인 인어공주' 베일 벗었다..디즈니, 실사 영화 첫 예고편 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003086041</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003086041"/>
+        <updated>2022-09-10T13:27:53.489Z</updated>
+        <content type="html"><![CDATA[할리 베일리의 '인어공주'가 베일을 벗었다. 디즈니가 9일(현지시간) 캘리포니아주 애너하임 컨벤션센터에서 열린 'D23 엑스포'에서 '인어공주'(The Little Mermaid) 실사 영화의 예고편을 최초로 공개했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['공조2', 추석 극장가 잡았다…개봉 3일째 100만 관객 돌파]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000171857</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000166476"/>
         <updated>2022-09-10T03:36:28.299Z</updated>
         <content type="html"><![CDATA[말도 많고 탈도 많던 디즈니 실사 애니메이션 '인어공주'의 트레일러 영상이 공개됐다. 10일 디즈니 공식 유튜브에는 '인어공주(The Little Mermaid)의 공식 트레일러 영상이 게재됐다. 개봉 예정일은 20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하정우X황정민 '수리남', 속고 속이는 치열 두뇌 싸움..2차스틸 대방출]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003586525</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003586525"/>
-        <updated>2022-09-10T03:36:28.303Z</updated>
-        <content type="html"><![CDATA['수리남'의 2차 보도스틸이 공개됐다. 넷플리스 시리즈 '수리남'은 남미 국가 수리남을 장악한 무소불위의 마약 대부로 인해 누명을 쓴 한 민간인이 국정원의 비밀 임무를 수락하며 벌어지는 이야기를 그린 작품. 공개된]]></content>
     </entry>
 </feed>
