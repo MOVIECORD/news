@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Sep 2022 20:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Sep 2022 21:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['삼남매가 용감하게' 임주환, "배우들의 빛나는 케미를 기대해"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=227844</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=227844</guid>
+            <pubDate>Sat, 10 Sep 2022 21:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=227844">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220906082912_0220b8c86ec0457d3da899fc9813c542.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227844">'삼남매가 용감하게' 임주환, "배우들의 빛나는 케미를 기대해"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%82%BC%EB%82%A8%EB%A7%A4%EA%B0%80%20%EC%9A%A9%EA%B0%90%ED%95%98%EA%B2%8C">주말드라마 삼남매가 용감하게</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220906082912_0220b8c86ec0457d3da899fc9813c542.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현재는 아름다워] “엄마 암이래” 박지영의 암 소식에 쓰러진 배다빈]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=228478</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%95%9C%EC%8B%9D%20%EC%97%B0%EB%8C%80%EA%B8%B0">한식 연대기</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220907211133_470111946c8fe6d57efb2d0d3913602f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["사진작가 차인표" 추석특집 ‘종로사진관’ 단독 MC]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=227879</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=227879</guid>
-            <pubDate>Sat, 10 Sep 2022 05:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=227879">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220906094043_f3f311cab964cfa26079ab02f5e63efe.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227879">"사진작가 차인표" 추석특집 ‘종로사진관’ 단독 MC</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A2%85%EB%A1%9C%20%EC%82%AC%EC%A7%84%EA%B4%80">종로 사진관</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220906094043_f3f311cab964cfa26079ab02f5e63efe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
