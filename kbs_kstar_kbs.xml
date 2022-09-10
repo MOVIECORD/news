@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Sep 2022 05:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Sep 2022 06:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘법대로 사랑하라’ 이승기-이세영, "추석에도 사랑하라!"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=228441</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=228441</guid>
+            <pubDate>Sat, 10 Sep 2022 06:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=228441">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220910143153_d01c5320a10c42a8a8b6ced88b920bde_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228441">‘법대로 사랑하라’ 이승기-이세영, "추석에도 사랑하라!"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B2%95%EB%8C%80%EB%A1%9C%20%EC%82%AC%EB%9E%91%ED%95%98%EB%9D%BC">월화드라마 법대로 사랑하라</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220910143153_d01c5320a10c42a8a8b6ced88b920bde_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[슈퍼맨이 돌아왔다] 맨손 송어 잡기 달인 민준이와 잡은 송어를 모두 풀어주는 하룬?]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=228436</link>
@@ -346,24 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%97%B0%EC%A4%91%20%EB%9D%BC%EC%9D%B4%EB%B8%8C">연중 라이브</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220909022638_69297288c20c1758376226bb8e2d29b8_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[연중 플러스] 트바로티 김호중씨와의 망원시장 게릴라 데이트]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=228361</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=228361</guid>
-            <pubDate>Thu, 08 Sep 2022 17:32:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=228361">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220909021840_8d6b9acd881d793a4e58a5ef2d129c9c_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228361">[연중 플러스] 트바로티 김호중씨와의 망원시장 게릴라 데이트</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%97%B0%EC%A4%91%20%EB%9D%BC%EC%9D%B4%EB%B8%8C">연중 라이브</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220909021840_8d6b9acd881d793a4e58a5ef2d129c9c_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
