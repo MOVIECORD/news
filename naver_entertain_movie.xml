@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-09-10T18:12:12.409Z</updated>
+    <updated>2022-09-10T19:04:17.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김수현→수지의 새로운 모습..'어느날'·'안나' [추석특집 OTT 뭐 볼까]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003086074</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003086074"/>
+        <updated>2022-09-10T19:03:31.825Z</updated>
+        <content type="html"><![CDATA[코로나의 긴 터널을 지나 일상으로 회복해 가는 지금. 예년보다 빨리 찾아온 추석에 먼 고향으로 떠나거나 혹은 집에 머무르는 당신을 위한 '지극히 주관적이면서 은근히 객관적인' OTT 프로그램 추천. ━ 올 추석, 긴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[英여왕 서거] 넷플릭스, 엘리자베스 2세 다룬 '더 크라운' 촬영중단]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013432474</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001688963"/>
         <updated>2022-09-10T05:13:19.860Z</updated>
         <content type="html"><![CDATA[영화 ‘공조2: 인터내셔날’이 개봉 3일째 100만 관객을 돌파해 흥행에 가속도를 높였다. ‘공조2: 인터내셔날’은 글로벌 범죄 조직을 잡기 위해 다시 만난 북한 형사 림철령(현빈 분)과 남한 형사 강진태(유해진 분]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현빈·유해진 '공조2', 개봉 사흘 만에 100만 돌파]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000166478</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000166478"/>
-        <updated>2022-09-10T05:13:19.870Z</updated>
-        <content type="html"><![CDATA[영화 '공조2: 인터내셔날'이 개봉 3일째인 9일, 100만 관객을 돌파했다. 10일 영화진흥위원회 영화관입장권 통합전산망에 따르면 '공조2: 인터내셔날'은 전날 관객 53만2천여 명을 추가로 동원하며 누적 관객수]]></content>
     </entry>
 </feed>
