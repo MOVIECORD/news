@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-09-11T10:10:59.311Z</updated>
+    <updated>2022-09-11T11:07:45.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘공조2’ 개봉 5일 만에 200만 관객 달성... ‘한산’만큼 빠르다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001228368</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001228368"/>
+        <updated>2022-09-11T11:06:53.198Z</updated>
+        <content type="html"><![CDATA[영화 '공조2'의 흥행 추이가 심상치 않다. '공조2 : 인터내셔날'은 개봉 5일째인 11일, 200만 관객을 달성했다. 이는 개봉 10일째에 200만 관객을 넘어선 전편 '공조1'보다 무려 2배나 빠른 속도. 70]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[숨만 쉬고 살아야 하나… 추석 이후 '먹거리 물가' 더 오른다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=417&amp;aid=0000850890</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004097750"/>
         <updated>2022-09-11T03:27:11.300Z</updated>
         <content type="html"><![CDATA[현빈·유해진 주연의 코믹액션물 ‘공조2: 인터내셔날’이 11일 전국 관객 200만명을 넘어섰다. 7일 개봉 후 5일만으로, 올 추석 연휴에 새로이 선보인 유일한 신작 상업영화로서 명절 가족 관객들을 공략하는데 성공한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['공조2', 개봉 5일째 200만 돌파…전편보다 2배 빠르다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000287385</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000287385"/>
-        <updated>2022-09-11T03:27:11.303Z</updated>
-        <content type="html"><![CDATA[영화 '공조2: 인터내셔날'(이하 '공조2')이 개봉 5일 째에 200만 관객을 돌파했다. 11일 영화진흥위원회 통합전상망 집계에 따르면, '공조2'는 이날 오전 8시 40분 누적 관객수 200만명을 넘어섰다. 이는]]></content>
     </entry>
 </feed>
