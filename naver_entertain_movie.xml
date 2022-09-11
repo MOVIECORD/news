@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-09-11T09:09:07.774Z</updated>
+    <updated>2022-09-11T10:10:59.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[숨만 쉬고 살아야 하나… 추석 이후 '먹거리 물가' 더 오른다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=417&amp;aid=0000850890</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=417&amp;aid=0000850890"/>
+        <updated>2022-09-11T10:10:12.166Z</updated>
+        <content type="html"><![CDATA[고물가로 서민들의 부담이 커지고 있는 가운데 추석 이후 먹거리 물가가 더 오를 전망이다. 가공 식품 가격 인상으로 외식 물가도 덩달아 오를 것으로 전망되는 등 추석 이후에도 당분간 물가 상승세는 지속될 것으로 보인다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다니엘 헤니 "임윤아에게 윙크, 대본에 없던 장면.. 느끼한 짓 잘 한다" [인터뷰M]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000166598</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000287385"/>
         <updated>2022-09-11T03:27:11.303Z</updated>
         <content type="html"><![CDATA[영화 '공조2: 인터내셔날'(이하 '공조2')이 개봉 5일 째에 200만 관객을 돌파했다. 11일 영화진흥위원회 통합전상망 집계에 따르면, '공조2'는 이날 오전 8시 40분 누적 관객수 200만명을 넘어섰다. 이는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현빈 '공조2', 개봉 5일째 200만↑…"전편보다 2배 빠른 속도"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011413755</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011413755"/>
-        <updated>2022-09-11T03:27:11.306Z</updated>
-        <content type="html"><![CDATA[기사내용 요약 추석 하루 동안 69만1289명 끌어모아 배우 현빈이 주연한 영화 '공조2:인터내셔날'('공조2')이 예상대로 추석 연휴 독주 체제를 구축하고 있다. 11일 영화진흥위원회 통합전산망에 따르면, 지난 7]]></content>
     </entry>
 </feed>
