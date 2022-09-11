@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-09-11T18:09:51.099Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 11 Sep 2022 19:03:59 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가족 여행이 지옥으로..'엔드 오브 더 로드' [추석특집 OTT 뭐 볼까]]]></title>
+            <link>https://v.daum.net/v/20220912040000377</link>
+            <guid>https://v.daum.net/v/20220912040000377</guid>
+            <pubDate>Sun, 11 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진=영화 스틸컷 코로나의 긴 터널을 지나 일상으로 회복해 가는 지금. 예년보다 빨리 찾아온 추석에 먼 고향으로 떠나거나 혹은 집에 머무르는 당신을 위한 '지극히 주관적이면서 은근히 객관적인' OTT 프로그램 추천. ━ 연휴 마지막 날, 평화롭던 한 가족의 여행이 지옥으로 변하는 스릴러를 즐겨보자. '엔드 오브 더 로드'는 인]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F12%2Fstarnews%2F20220912040006413lekc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
