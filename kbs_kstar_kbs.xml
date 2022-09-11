@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 20:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 21:09:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이세희의 '진검승부 ' “똑소리 나는‘신아라’검사 출동합니다!”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=228501</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=228501</guid>
+            <pubDate>Sun, 11 Sep 2022 21:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=228501">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220911161247_1fc2dd2df5650b08ac8cab120031d061.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228501">이세희의 '진검승부 ' “똑소리 나는‘신아라’검사 출동합니다!”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EA%B2%80%EC%8A%B9%EB%B6%80">수목드라마 진검승부</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220911161247_1fc2dd2df5650b08ac8cab120031d061.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현재는 아름다워] 박인환 “걔 죽으면 나도 죽는다” 박지영 간이식 불가 사실 알고 실신]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=228613</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%98%84%EC%9E%AC%EB%8A%94%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%8C">주말드라마 현재는 아름다워</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220910231618_18f4b9654fd837759941af4f78d0dca3_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[현재는 아름다워] “이식해야 살 수 있대” 박지영 간암 판정 알리는 변우민... 슬픔에 잠기는 반효정과 김강민]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=228466</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=228466</guid>
-            <pubDate>Sat, 10 Sep 2022 14:06:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=228466">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220910230300_3d1f484d5f223162a3ca7456271e634a.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228466">[현재는 아름다워] “이식해야 살 수 있대” 박지영 간암 판정 알리는 변우민... 슬픔에 잠기는 반효정과 김강민</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%98%84%EC%9E%AC%EB%8A%94%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%8C">주말드라마 현재는 아름다워</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220910230300_3d1f484d5f223162a3ca7456271e634a.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
