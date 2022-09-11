@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 21:09:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 22:05:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이세영-김도훈-장혜진-백현주, “평화롭던 법사나라 흔들린다?!”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=228515</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=228515</guid>
+            <pubDate>Sun, 11 Sep 2022 22:04:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=228515">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220911162455_c1c6183722548ccb9a6f05e28668b53b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228515">이세영-김도훈-장혜진-백현주, “평화롭던 법사나라 흔들린다?!”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B2%95%EB%8C%80%EB%A1%9C%20%EC%82%AC%EB%9E%91%ED%95%98%EB%9D%BC">월화드라마 법대로 사랑하라</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220911162455_c1c6183722548ccb9a6f05e28668b53b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이세희의 '진검승부 ' “똑소리 나는‘신아라’검사 출동합니다!”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=228501</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%98%84%EC%9E%AC%EB%8A%94%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%8C">주말드라마 현재는 아름다워</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220910232321_b6a84a7518b2510d1ac2883e88d0782a_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[현재는 아름다워] 변우민-김강민, 박지영 위해 ‘간 이식 검사’... 부적합 판정에 좌절]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=228470</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=228470</guid>
-            <pubDate>Sat, 10 Sep 2022 15:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=228470">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220910231618_18f4b9654fd837759941af4f78d0dca3_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228470">[현재는 아름다워] 변우민-김강민, 박지영 위해 ‘간 이식 검사’... 부적합 판정에 좌절</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%98%84%EC%9E%AC%EB%8A%94%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%8C">주말드라마 현재는 아름다워</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220910231618_18f4b9654fd837759941af4f78d0dca3_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
