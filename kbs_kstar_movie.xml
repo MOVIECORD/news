@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 23:07:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 00:36:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] '공조2:인터내셔날' 강태진의 오징어게임 (이석훈 감독,2022)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=228655</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=228655</guid>
+            <pubDate>Mon, 12 Sep 2022 00:34:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=228655">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220912083913_d71097c4a31fd2d2c7b57f03f87a331e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228655">[리뷰] '공조2:인터내셔날' 강태진의 오징어게임 (이석훈 감독,2022)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220912083913_d71097c4a31fd2d2c7b57f03f87a331e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["폴란드영화를 만난다" 제4회 폴란드영화제 ....  탄생 90주년 보이체크 킬라르 회고전]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=228631</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227817">디즈니+ 첫 연애 버라이어티 '핑크 라이' 김희철, 이선빈, 송원석, 랄랄 MC </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220906074608_57e71b90bc365011c2c9e2e33937247a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 '청춘MT' 김성윤 감독, "예능 프로그램의 진화, 인기드라마의 연합MT"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=227614</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=227614</guid>
-            <pubDate>Mon, 05 Sep 2022 23:03:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=227614">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220905142554_3982071c552e5748b919d20248e13580.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227614">티빙 '청춘MT' 김성윤 감독, "예능 프로그램의 진화, 인기드라마의 연합MT"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220905142554_3982071c552e5748b919d20248e13580.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
