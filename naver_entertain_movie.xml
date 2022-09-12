@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-09-12T08:16:49.939Z</updated>
+    <updated>2022-09-12T09:21:06.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[독립사진] LA, 매년 9월 17일을 '오겜의 날'로]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004097983</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004097983"/>
+        <updated>2022-09-12T09:20:14.751Z</updated>
+        <content type="html"><![CDATA[[서울경제]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내일 '오징어 게임' 에미상 도전…주·조연상 유력]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002638338</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002638338"/>
+        <updated>2022-09-12T09:20:14.757Z</updated>
+        <content type="html"><![CDATA[넷플릭스 시리즈 '오징어 게임'의 배우 4명이 한국인 최초로 미국 최고 방송계 최고 권위상인 에미상 주·조연 연기상에 도전한다. 현지시간 12일(한국시간 13일) 열리는 제74회 에미상 시상식에서 이정재, 오영수,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[TEN인터뷰] '금사빠' 임윤아, 연기가 아니었다? "현빈·다니엘 헤니 사이서 ♥, 근무 환경 최상"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000569009</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006329325"/>
         <updated>2022-09-12T06:49:14.895Z</updated>
         <content type="html"><![CDATA[추석연휴 마지막날인 12일 오후 서울 시내의 한 영화관을 찾은 관람객이 개봉 6일 만에 300만 관객을 돌파한 영화 '공조2: 인터내셔날'을 예매하고 있다. 이날 영화진흥위원회 통합전산망에 따르면 '공조2'는 이날]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘공조2’ 개봉 6일째에 300만 돌파… 5G급 흥행 속도]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006329324</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006329324"/>
-        <updated>2022-09-12T06:49:14.896Z</updated>
-        <content type="html"><![CDATA[추석연휴 마지막날인 12일 오후 서울 시내의 한 영화관을 찾은 관람객이 개봉 6일 만에 300만 관객을 돌파한 영화 '공조2: 인터내셔날'을 예매하고 있다. 이날 영화진흥위원회 통합전산망에 따르면 '공조2'는 이날]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘공조2’ 개봉 6일째에 300만 돌파… 5G급 흥행 속도]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006329323</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006329323"/>
-        <updated>2022-09-12T06:49:14.898Z</updated>
-        <content type="html"><![CDATA[추석연휴 마지막날인 12일 오후 서울 시내의 한 영화관에서 개봉 6일 만에 300만 관객을 돌파한 영화 '공조2: 인터내셔날' 포스터가 붙어 있다. 이날 영화진흥위원회 통합전산망에 따르면 '공조2'는 이날 오후 12]]></content>
     </entry>
 </feed>
