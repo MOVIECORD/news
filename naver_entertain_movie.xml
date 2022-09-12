@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-09-12T19:09:28.188Z</updated>
+    <updated>2022-09-12T20:11:15.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[춘천 배경 영화 '요선' 런던 포토벨로 영화제 초청]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=654&amp;aid=0000019722</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=654&amp;aid=0000019722"/>
+        <updated>2022-09-12T20:10:20.402Z</updated>
+        <content type="html"><![CDATA[춘천 요선시장에서 펼쳐지는 유진규 마임이스트의 공연을 이야기로 담은 영화 '요선'과 이를 연출한 장권호 감독이 해외 각국에서 러브콜을 받고 있다. 영화 '요선'은 지난 8일 영국 런던에서 열린 제27회 포토벨로 영화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[방호정의 컬쳐 쇼크 & 조크] <88> 대니 보일 감독의 6부작 드라마 ‘피스톨(pistol)’]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000019862</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001003523"/>
         <updated>2022-09-12T06:49:14.857Z</updated>
         <content type="html"><![CDATA[LA시에서 왜? ‘오징어 게임의 날’ 제정 LA 시의회가 미국 현지 시각으로 9일 한국 창작자들과 함께 매년 9월 17일을 ‘오징어 게임의 날’로 선포했다. 넷플릭스 오리지널 ‘오징어 게임’이 한국 문화와 전통을 널]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘육사오’ 추석 연휴 버프 받고 손익분기점 160만 돌파]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000627365</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000627365"/>
-        <updated>2022-09-12T06:49:14.860Z</updated>
-        <content type="html"><![CDATA['육사오'가 추석 연휴 160만 관객을 돌파, 손익분기점을 넘어섰다. 9월 12일 영화진흥위원회 통합전산망 집계에 따르면, 영화 '육사오'(감독 박규태)가 이날 오전 기준 누적 관객수 160만명을 기록하며 손익분기점]]></content>
     </entry>
 </feed>
