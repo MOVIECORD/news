@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 05:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 06:47:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에미상 정복한 '오징어 게임'...이정재-황동혁 수상!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=228773</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=228773</guid>
+            <pubDate>Tue, 13 Sep 2022 06:44:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=228773">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220913132123_40afb0b65d181821938b65a0475b329b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228773">에미상 정복한 '오징어 게임'...이정재-황동혁 수상!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220913132123_40afb0b65d181821938b65a0475b329b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 김종관-장건재 감독, 무주의 여름과 겨울 사이... 삶과 죽음이 스치우는 '달이 지는 밤']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=228767</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228145">"노래하는 류승룡과 춤추는 염정아" 영화 '인생은 아름다워'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220907074902_129155af9ff67206261ea9bb42d5c84f_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 임윤아, 연 매출 3억 원 유튜버여도 모자랄 매력의 소유자  '공조2']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=228022</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=228022</guid>
-            <pubDate>Tue, 06 Sep 2022 12:14:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=228022">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220906144956_ef32cb9200fcf4a26f336976c642dbc3.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228022">[인터뷰] 임윤아, 연 매출 3억 원 유튜버여도 모자랄 매력의 소유자  '공조2'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220906144956_ef32cb9200fcf4a26f336976c642dbc3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
