@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 00:37:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 03:39:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 김종관-장건재 감독, 무주의 여름과 겨울 사이... 삶과 죽음이 스치우는 '달이 지는 밤']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=228767</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=228767</guid>
+            <pubDate>Tue, 13 Sep 2022 03:37:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=228767">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220913110108_690a86c8ef55ba524f632e37ff06514b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228767">[인터뷰] 김종관-장건재 감독, 무주의 여름과 겨울 사이... 삶과 죽음이 스치우는 '달이 지는 밤'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220913110108_690a86c8ef55ba524f632e37ff06514b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘D23 엑스포’ 디즈니 신작 라인업 발표]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=228759</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228022">[인터뷰] 임윤아, 연 매출 3억 원 유튜버여도 모자랄 매력의 소유자  '공조2'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220906144956_ef32cb9200fcf4a26f336976c642dbc3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장] '공조2:인터내셔날 '쇼케이스... "내일부터 달립니다!"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=227951</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=227951</guid>
-            <pubDate>Tue, 06 Sep 2022 12:14:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=227951">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220906134651_1fee75f2a253e46b22d1ed227371df72.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=227951">[현장] '공조2:인터내셔날 '쇼케이스... "내일부터 달립니다!"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220906134651_1fee75f2a253e46b22d1ed227371df72.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
