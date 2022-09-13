@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 12:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 13:43:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["K콘텐츠의 새 역사"  '오징어 게임' 프라임타임 에미상 6개 부문 수상]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=228782</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=228782</guid>
+            <pubDate>Tue, 13 Sep 2022 13:41:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=228782">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220913191750_06f3010afa4ee20e695ae48fe7f17492.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228782">"K콘텐츠의 새 역사"  '오징어 게임' 프라임타임 에미상 6개 부문 수상 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220913191750_06f3010afa4ee20e695ae48fe7f17492.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에미상 정복한 '오징어 게임'...이정재-황동혁 수상!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=228773</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228157">류승완 감독 - 조인성, '모가디슈' 재개봉 스페셜GV 현장</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220907075915_2ac521580a818666e49532e35793a5ec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["노래하는 류승룡과 춤추는 염정아" 영화 '인생은 아름다워']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=228145</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=228145</guid>
-            <pubDate>Tue, 06 Sep 2022 23:04:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=228145">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220907074902_129155af9ff67206261ea9bb42d5c84f_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228145">"노래하는 류승룡과 춤추는 염정아" 영화 '인생은 아름다워'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220907074902_129155af9ff67206261ea9bb42d5c84f_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
