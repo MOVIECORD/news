@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-09-14T12:15:40.075Z</updated>
+    <updated>2022-09-14T13:47:52.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[그리스 대표 여배우 이렌느 파파스, 향년 96세로 별세]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013438854</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013438854"/>
+        <updated>2022-09-14T13:47:00.731Z</updated>
+        <content type="html"><![CDATA[영화 '나바론 요새', '그리스인 조르바' 등 60여편 출연 신창용 특파원 = 그리스를 대표하는 국제적인 여배우 이렌느 파파스가 향년 96세로 별세했다. 리나 멘도니 그리스 문화부 장관은 14일(현지시간) 성명을 내]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘제27회 부산국제영화제’ 개막식, 사회자는 배우 전여빈·류준열]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000836578</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003587407"/>
         <updated>2022-09-14T09:13:02.968Z</updated>
         <content type="html"><![CDATA['수리남'이 전 세계 시청자들을 사로잡았다. '수리남'은 남미 국가 수리남을 장악한 무소불위의 마약 대부로 인해 누명을 쓴 한 민간인이 국정원의 비밀 임무를 수락하며 벌어지는 이야기를 그린 넷플릭스 시리즈. 장르의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]서현우,'요즘 핫한 배우']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004698166</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004698166"/>
-        <updated>2022-09-14T09:13:02.982Z</updated>
-        <content type="html"><![CDATA[14일 오후 서울 자양동 건대입구 롯데시네마에서 영화 '썬더버드'(감독 이재원) 언론시사회가 진행됐다. 영화 ‘썬더버드’는 전당포에 저당 잡힌 자동차 썬더버드 속 돈뭉치를 찾아야 하는 태균, 태민, 미영의 지독하게]]></content>
     </entry>
 </feed>
