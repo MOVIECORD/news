@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 22:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 23:07:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["Singin' In The Rain"  클래식 뮤지컬 '사랑은 비를 타고' 극장 개봉]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=228982</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=228982</guid>
+            <pubDate>Wed, 14 Sep 2022 23:03:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=228982">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220914160137_e82be4f5ee19a0b246a378806b35c2af.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228982">"Singin' In The Rain"  클래식 뮤지컬 '사랑은 비를 타고' 극장 개봉</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220914160137_e82be4f5ee19a0b246a378806b35c2af.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AppleTV+, 에미상 9개 부문 수상... ‘테드 래소’ 4관왕]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=228968</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228631">"폴란드영화를 만난다" 제4회 폴란드영화제 ....  탄생 90주년 보이체크 킬라르 회고전</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220912070626_8414cf68a67cd7c4be585b4bbb319520_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장근석-허성태-이엘리야, 쿠팡플레이 '범죄의 연대기' 대본 리딩 현장]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=228070</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=228070</guid>
-            <pubDate>Sun, 11 Sep 2022 22:04:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=228070">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220906160642_a2cfe05e2f3c3d82f6fe4a2f6aa2bf9a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=228070">장근석-허성태-이엘리야, 쿠팡플레이 '범죄의 연대기' 대본 리딩 현장</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220906160642_a2cfe05e2f3c3d82f6fe4a2f6aa2bf9a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
