@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 23:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 00:43:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[tvN '블라인드' 옥택연-하석진-정은지 "안개 속 숨은 진실을 찾아라!"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=229068</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=229068</guid>
+            <pubDate>Fri, 16 Sep 2022 00:42:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=229068">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220915081842_6577a0f9ac312ac443ae4924465e0ddd.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=229068">tvN '블라인드' 옥택연-하석진-정은지 "안개 속 숨은 진실을 찾아라!"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220915081842_6577a0f9ac312ac443ae4924465e0ddd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[tvN '슈룹' 김혜수, '조선에서 가장 걸음이 빠른, 중전마마']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=228974</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=226646">[이슈] '스맨파' 의리와 자존심 대신 논란만 가득... 트릭스-오천 배틀만 보였던 첫 방송</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220830085406_fd92454994b78cbc972d0f9ddde6fe5b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["멘탈 코치? 제갈 길?"  tvN 새 드라마 ‘멘탈코치 제갈길’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=226629</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=226629</guid>
-            <pubDate>Tue, 30 Aug 2022 03:38:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=226629">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220830083147_574349fcfa545979cc7bef3fc5bb928c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=226629">"멘탈 코치? 제갈 길?"  tvN 새 드라마 ‘멘탈코치 제갈길’  </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220830083147_574349fcfa545979cc7bef3fc5bb928c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
