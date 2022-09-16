@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-09-16T17:27:51.217Z</updated>
+    <updated>2022-09-16T18:11:47.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“배우들 확 늙기 전에 ‘오겜2’ 2024년 공개”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=020&amp;aid=0003451239</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=020&amp;aid=0003451239"/>
+        <updated>2022-09-16T18:10:57.179Z</updated>
+        <content type="html"><![CDATA[“오징어게임 시즌2가 늦어버리면 배우들이 확 늙어버릴 수 있잖아요. 빨리 서둘러야겠다 싶었죠, 하하. 작품상이 제일 받고 싶었는데, (스태프 모두) 함께 무대에 올라갈 수 있길 바랐습니다.” 그의 농담에선 이제 여유]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['대무가' 맏형 박성웅 "어머니가 권사님이라 싫어하셨지만…"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000172936</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004099720"/>
         <updated>2022-09-16T08:12:08.717Z</updated>
         <content type="html"><![CDATA[“내일이면 ‘오징어 게임’이 세상에 공개된 지 딱 1년이 됩니다. 평생 기억에 남을 1년의 여정이 된 것 같습니다. 감독·주연 외 모두가 주목받으며 마무리하는 가장 감사한 순간입니다.” 에미상 트로피를 들고 금의환향]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임수정·김고은·정윤철 감독 '둠둠' 극찬, "감동적인 영화"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003646620</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003646620"/>
-        <updated>2022-09-16T16:11:35.067Z</updated>
-        <content type="html"><![CDATA[자신만의 리듬으로 나아가는 ‘이나’의 청춘 성장담 '둠둠'이 각계각층 셀럽들의 극찬 영상 공개와 더불어 개봉일에 진행된 스페셜 토크까지 성료하며 화제를 모은다. '둠둠'은 실력을 인정받는 DJ였지만 키우지 못하는 아]]></content>
     </entry>
 </feed>
