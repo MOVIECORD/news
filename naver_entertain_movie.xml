@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-09-18T17:18:00.075Z</updated>
+    <updated>2022-09-18T18:11:37.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[양조위부터 이영애·강동원까지…BIFF서 스타들 연기인생 만난다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000020354</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000020354"/>
+        <updated>2022-09-18T18:10:45.779Z</updated>
+        <content type="html"><![CDATA[- 양조위·이동진 ‘오픈토크’ 진행 - ‘무간도’ 상영·핸드프린팅 행사 - 스페셜 프로그램 ‘액터스하우스’ - 하정우·한지민 등 관객과 만나 - 작품 이야기 넘어 속 깊은 대화 3년 만에 완전 정상화된 축제로 돌아오]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['금의환향' 이정재 "저 늙는 것 걱정 안 하셔도"…정우성과 동반 귀국 [종합]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001501774</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000624237"/>
         <updated>2022-09-18T03:47:25.426Z</updated>
         <content type="html"><![CDATA[한국영화 3편이 추석연휴를 장악하며 주간흥행 1, 2, 3위 자리를 지키고 있다. 7일 개봉한 ‘공조 2: 인터내셔날’은 13일 손익분기점 350만을 넘겨 17일까지 439만231명 관객을 동원했고, 지난달 24일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘공조2’, 400만 돌파...전편보다 이틀 빨라]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=021&amp;aid=0002531454</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=021&amp;aid=0002531454"/>
-        <updated>2022-09-18T03:47:25.431Z</updated>
-        <content type="html"><![CDATA[영화 ‘공조2:인터내셔날’(감독 이석훈)이 400만 관객을 돌파했다. 영화관입장권통합전산망에 따르면, ‘공조2’는 18일 39만7355명을 동원하며 누적 관객수 439만630명을 기록했다. ‘공조2’는 전편보다 빠른]]></content>
     </entry>
 </feed>
