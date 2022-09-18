@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-09-18T21:09:56.573Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 18 Sep 2022 22:06:48 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['인생은 아름다워' 류승룡 "18년만에 춤 추고 노래..액션보다 힘들었죠" [인터뷰]]]></title>
+            <link>https://v.daum.net/v/20220919063036268</link>
+            <guid>https://v.daum.net/v/20220919063036268</guid>
+            <pubDate>Sun, 18 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 류승룡이 주연한 뮤지컬 영화 ‘인생은 아름다워’ 촬영을 돌이키며 “액션 영화를 촬영하는 것 보다 더욱 힘들었다”고 말했다. 사진제공｜롯데엔터테인먼트 류승룡(52)이 한류 문화를 대표하는 넌버벌 뮤지컬 ‘난타’ 출신 배우라는 사실은 잘 알려져 있다. 도마와 칼 등 주방도구를 활용해 신나는 리듬감을 담아낸 무대인 만큼 류승룡의 음악적 소질은 이미 인정받]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F19%2Fsportsdonga%2F20220919063037753dszj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["국가 이미지 훼손" "표현의 자유".. '수리남' 갑론을박]]></title>
+            <link>https://v.daum.net/v/20220919063031265</link>
+            <guid>https://v.daum.net/v/20220919063031265</guid>
+            <pubDate>Sun, 18 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[하정우(왼쪽)와 황정민이 주연한 넷플릭스 오리지널 시리즈 ‘수리남’이 수리남 정부로부터 “국가 이미지를 훼손했다”는 지적을 받았다. 사진제공｜넷플릭스 넷플릭스 오리지널 시리즈 ‘수리남’이 글로벌 인기를 높여가는 가운데 극중 배경이 된 남미 국가 수리남의 실제 이미지와 관련한 논란에 휩싸였다. 최근 수리남 정부가 현지에서 활동한 한국인 마약왕 이야기를 그린]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F19%2Fsportsdonga%2F20220919063033174bmwv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
