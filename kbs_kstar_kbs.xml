@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 22:08:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 23:07:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[법대로사랑하라 5회] 이승기, “잠깐만... 너 안아봐도 되냐고”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=229789</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=229789</guid>
+            <pubDate>Mon, 19 Sep 2022 23:06:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=229789">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220920080458_45f337901d1a6bfe42fd9152c55eb72d_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=229789">[법대로사랑하라 5회] 이승기, “잠깐만... 너 안아봐도 되냐고” </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B2%95%EB%8C%80%EB%A1%9C%20%EC%82%AC%EB%9E%91%ED%95%98%EB%9D%BC">월화드라마 법대로 사랑하라</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220920080458_45f337901d1a6bfe42fd9152c55eb72d_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[개는 훌륭하다] 맹견 교육보다 더 힘든 보호자 교육! 슬기로운 역지사지 질문으로 보호자 설득하는 강형욱]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=229781</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%99%8D%EA%B9%80%EB%8F%99%EC%A0%84">홍김동전</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220919000312_bd69b58e3077c213aa6530b91ea5b56b.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[홍김동전] 조세호, 김숙 향해 “당신을 잊은 적이 없소” 가면무도회서 세레나데]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=229596</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=229596</guid>
-            <pubDate>Sun, 18 Sep 2022 15:06:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=229596">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220918235812_d61aaa746b32e491ae5e5d63eb3b9123_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=229596">[홍김동전] 조세호, 김숙 향해 “당신을 잊은 적이 없소” 가면무도회서 세레나데</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%99%8D%EA%B9%80%EB%8F%99%EC%A0%84">홍김동전</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220918235812_d61aaa746b32e491ae5e5d63eb3b9123_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
