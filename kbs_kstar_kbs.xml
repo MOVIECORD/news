@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 23:07:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 00:39:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“딩동댕동~” 김신영 '전국노래자랑' 실로폰 손에 쥐다  (하남시 녹화 간담회현장)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=229804</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=229804</guid>
+            <pubDate>Tue, 20 Sep 2022 00:38:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=229804">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220920085701_5cc789ca70368a3c16ec83ff43d242cb.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=229804">“딩동댕동~” 김신영 '전국노래자랑' 실로폰 손에 쥐다  (하남시 녹화 간담회현장)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A0%84%EA%B5%AD%EB%85%B8%EB%9E%98%EC%9E%90%EB%9E%91">전국노래자랑</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220920085701_5cc789ca70368a3c16ec83ff43d242cb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[법대로사랑하라 5회] 이승기, “잠깐만... 너 안아봐도 되냐고”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=229789</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%99%8D%EA%B9%80%EB%8F%99%EC%A0%84">홍김동전</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220919001113_5367cf29f3f75a7d8c8c1ae5c0211ce5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[홍김동전] 가면무도회 계급전쟁? 식사에서 나타나는 예절로 신분을 결정한다]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=229600</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=229600</guid>
-            <pubDate>Sun, 18 Sep 2022 15:06:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=229600">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220919000312_bd69b58e3077c213aa6530b91ea5b56b.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=229600">[홍김동전] 가면무도회 계급전쟁? 식사에서 나타나는 예절로 신분을 결정한다</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%99%8D%EA%B9%80%EB%8F%99%EC%A0%84">홍김동전</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220919000312_bd69b58e3077c213aa6530b91ea5b56b.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
