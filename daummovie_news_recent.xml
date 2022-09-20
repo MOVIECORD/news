@@ -1,35 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>다음영화 뉴스 ─ 최신</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 15:16:16 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA['자백' 소지섭, 생애 첫 스릴러 도전 "촬영 내내 악몽 꿔"]]></title>
-            <link>https://v.daum.net/v/20220921000054696</link>
-            <guid>https://v.daum.net/v/20220921000054696</guid>
-            <pubDate>Tue, 20 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤종석 감독 "1지망 캐스팅 편지로 고백...서로에 큰 도전" [더팩트ㅣ이한림 기자] 4년 만에 주연작 '자백'을 통해 복귀한 배우 소지섭이 생애 첫 스릴러 장르에 도전한 소감을 전했다. 소지섭은 20일 서울 광진구 롯데시네마 건대입구에서 열린 영화 '자백'(감독 윤종석) 제작보고회가 열렸다. 소지섭을 비롯해 김윤진 나나, 윤종석 감독이 참석했다. ']]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F21%2FTHEFACT%2F20220921000055664vmkt.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[극장가, 재개봉 열풍(하)] 팬데믹이 가져온 변화..재개봉 러시]]></title>
-            <link>https://v.daum.net/v/20220921000015671</link>
-            <guid>https://v.daum.net/v/20220921000015671</guid>
-            <pubDate>Tue, 20 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[후속편 앞둔 '아바타' 재개봉, 1년도 안 돼 돌아오는 '스파이더맨' &nbsp; 추석을 시작으로 가을 극장가는 이전 화제작들의 재개봉이 줄줄이 이어지고 있다. 천만 명이 넘은 관객을 불러 모은 '아바타'부터 세대 불문 영화 팬들의 큰 사랑을 받은 '알라딘' 등 알기에 또 보고 싶은, 재개봉 작품들의 라인업을 살펴본다. &lt;편집자 주&gt; [더팩트｜원세나 기자]]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F21%2FTHEFACT%2F20220921000016683uvnd.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-        <item>
-            <title><![CDATA[[내가 본 '유아인'] 불완전한 청춘이 지닌 강인함]]></title>
-            <link>https://v.daum.net/v/20220921000004657</link>
-            <guid>https://v.daum.net/v/20220921000004657</guid>
-            <pubDate>Tue, 20 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['서울대작전' 동욱 役 맡아 새로운 도전 펼쳐 [더팩트｜박지윤 기자] 정제되지 않은 스타는 어떤 모습일까. 연예계는 대중의 관심을 받는 스타도 많고, 이들을 팔로우하는 매체도 많다. 모처럼 인터뷰가 잡혀도 단독으로 대면하는 경우가 드물다. 다수의 매체 기자가 함께 인터뷰를 하다 보니 내용도 비슷하다. 심지어 사진이나 영상마저 소속사에서 만들어 배포하는]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202209%2F21%2FTHEFACT%2F20220921000008116nhdg.jpg" length="0" type="image//thumb/S384x240/"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://movie.daum.net/contents/news?type=recent</id>
+    <title>다음영화 뉴스 ─ 최신</title>
+    <updated>2022-09-20T17:22:59.664Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://movie.daum.net/contents/favicon.ico</icon>
+</feed>
