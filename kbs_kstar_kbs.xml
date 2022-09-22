@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Sep 2022 19:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Sep 2022 20:09:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[연중 플러스] 뮤지컬 ‘사랑의 불시착’ 배우 이장우&민우혁 ‘연중캠핑’을 떠나다!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=230310</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=230310</guid>
+            <pubDate>Thu, 22 Sep 2022 20:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=230310">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220923022339_a94addc25406b044bca7dfa17e8ec8a0_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=230310">[연중 플러스] 뮤지컬 ‘사랑의 불시착’ 배우 이장우&amp;민우혁 ‘연중캠핑’을 떠나다!</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%97%B0%EC%A4%91%20%EB%9D%BC%EC%9D%B4%EB%B8%8C">연중 라이브</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220923022339_a94addc25406b044bca7dfa17e8ec8a0_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[연중 플러스] 1990년대 인기 가수 ‘오늘 같은 밤이면’의 주인공 박정운 별세]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=230306</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8B%B9%EC%8B%A0%EC%9D%B4%20%EC%86%8C%EC%9B%90%EC%9D%84%20%EB%A7%90%ED%95%98%EB%A9%B4">수목드라마 당신이 소원을 말하면</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220921072544_67f52ac188a3ec9db9bbabc876d40e64.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['삼남매가 용감하게' 이하나, 무뚝뚝한 맏딸 김태주]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=230029</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=230029</guid>
-            <pubDate>Tue, 20 Sep 2022 23:07:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=230029">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220921072031_43418d56f408121e95c91caebe26f301.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=230029">'삼남매가 용감하게' 이하나, 무뚝뚝한 맏딸 김태주</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%82%BC%EB%82%A8%EB%A7%A4%EA%B0%80%20%EC%9A%A9%EA%B0%90%ED%95%98%EA%B2%8C">주말드라마 삼남매가 용감하게</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220921072031_43418d56f408121e95c91caebe26f301.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
