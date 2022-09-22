@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-09-22T14:24:01.009Z</updated>
+    <updated>2022-09-22T15:13:18.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[새영화]범죄자 호송작전에 스릴·판타지 애니까지 스크린 나들이]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000924848</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000924848"/>
+        <updated>2022-09-22T15:12:34.190Z</updated>
+        <content type="html"><![CDATA[9월 극장가에서는 ‘공조2:인터내셔날’이 독보적으로 흥행하고 있는 가운데 독주를 막는 다양한 장르의 신작들이 개봉했다. 극한의 상황을 그린 액션 영화 ‘늑대사냥’, 한국 애니메이션 ‘프린세스 아야’, 누아르 ‘썬더버]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[TEN인터뷰] 박세완 "'미스코리아' 염정아 연락에 울 뻔…잘생긴 옹성우 덕 편했죠"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000571180</id>
@@ -171,12 +178,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000048410"/>
         <updated>2022-09-22T10:12:21.289Z</updated>
         <content type="html"><![CDATA[는 1995년생 남아름 감독의 자전적 다큐멘터리다. 아버지가 세월호와 국정 농단 시기 박근혜 정부의 요직에 있었기 때문에 촛불 집회에 선뜻 참여할 수 없었던 딸 아름의 복잡한 심경이 영화에 절절히 담길 예정이다. 개]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[제4회 4·16재단 문화콘텐츠 공모전] 세월호 제주기억관에서 발견한 한 장의 사진... 대상작 '스탠바이, 액션!']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000048409</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000048409"/>
-        <updated>2022-09-22T10:12:21.289Z</updated>
-        <content type="html"><![CDATA[은 박경석 전국장애인차별철폐연대 대표(이하 박경석 대표)의 투쟁적인 삶과 세월호 희생자 고 문지성양의 아버지 문종택씨의 기록하는 삶을 종횡으로 엮어내고자 하는 도전적인 다큐멘터리다. 안창규 감독은 4·16연대 미디어]]></content>
     </entry>
 </feed>
