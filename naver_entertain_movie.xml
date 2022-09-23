@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-09-23T12:17:26.627Z</updated>
+    <updated>2022-09-23T14:10:41.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 속 홍콩을 만나자 ‘홍콩 미니어처 전시회 @SEOUL’]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000838480</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000838480"/>
+        <updated>2022-09-23T14:09:58.909Z</updated>
+        <content type="html"><![CDATA[그 시절, 영화 속 홍콩을 다시 만날 수 있는 특별한 시간이 마련됐다. 홍콩의 모든 것을 담아낸 ‘홍콩 미니어처 전시회 @SEOUL’이 1980~90년대를 풍미한 홍콩 영화를 연상시키며 뜨거운 기대감을 전했다. 오는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[TV 엿보기] '금수저' 육성재·이종원, 비오는 밤 의미심장한 대치]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002642055</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=014&amp;aid=0004903471"/>
         <updated>2022-09-23T08:23:03.471Z</updated>
         <content type="html"><![CDATA[영화 ‘공조2:인터내셔날’(감독 이석훈)는 남한, 북한 형사의 비공식적 공조 수사에 FBI 요원까지 가세하여 전편보다 스케일을 확장되었습니다. 각자의 목적으로 뭉친 세 명의 형사가 진행하는 수사의 긴장감에 적절한 웃]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['욘더' 신하균X한지민, 애틋 눈맞춤..메인포스터 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003589654</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003589654"/>
-        <updated>2022-09-23T08:23:03.472Z</updated>
-        <content type="html"><![CDATA['욘더'의 메인 포스터가 공개됐다. 티빙 오리지널 시리즈 '욘더'(연출 이준익, 극본 김정훈·오승현, 원작 김장환 ‘굿바이, 욘더’, 제공 티빙, 제작 영화사 두둥·CJ ENM)는 세상을 떠난 아내로부터 메시지를 받]]></content>
     </entry>
 </feed>
