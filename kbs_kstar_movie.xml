@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Sep 2022 10:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Sep 2022 11:09:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[육성재-이종원-정채연 드라마 '금수저', "MBC 끝나면 디즈니+"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=230433</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=230433</guid>
+            <pubDate>Fri, 23 Sep 2022 11:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=230433">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220923101939_2ffa51e376aee95a911567283f58fba2.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=230433">육성재-이종원-정채연 드라마 '금수저', "MBC 끝나면 디즈니+"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220923101939_2ffa51e376aee95a911567283f58fba2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웨이브, 레드벨벳 여행 리얼리티 ‘레벨업 프로젝트’ 독점공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=230454</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=229872">[현장] 웨이브 ‘청춘블라썸’ 열여덟, 달콤쌉싸름한 로맨스 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220920125747_a682c54d49aab0bbeef279470c94086a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 한번 보면 입덕하게 되는 배우 서현우, '썬더버드' 타고 꽃길 질주 예열]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=229844</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=229844</guid>
-            <pubDate>Tue, 20 Sep 2022 07:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=229844">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220920103527_09e0c40ef8416205d926c82025f5e37f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=229844">[인터뷰] 한번 보면 입덕하게 되는 배우 서현우, '썬더버드' 타고 꽃길 질주 예열</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220920103527_09e0c40ef8416205d926c82025f5e37f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
