@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-09-25T07:12:03.579Z</updated>
+    <updated>2022-09-25T08:11:38.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['정직한 후보2' 예매율 1위 등극, "쉴새없이 터지는 웃음 대잔치"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003649770</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003649770"/>
+        <updated>2022-09-25T08:10:52.150Z</updated>
+        <content type="html"><![CDATA[영화 '정직한 후보2'가 개봉일 3일 앞두고 있는 바로 오늘 전체 예매율 1위에 등극했다. '정직한 후보2'는 화려한 복귀의 기회를 잡은 전 국회의원 ‘주상숙’과 그의 비서 ‘박희철’이 ‘진실의 주둥이’를 쌍으로 얻]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[D:쇼트 시네마⑥] 누구 마음대로? '판타스틱 플라토닉 러브']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002642287</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000050267"/>
         <updated>2022-09-25T00:43:48.998Z</updated>
         <content type="html"><![CDATA[넷플릭스(Netflix)가 '투둠 코리아 - 넷플릭스 글로벌 팬 이벤트'를 성황리에 마쳤다. 넷플릭스는 '투둠 코리아'행사를 통해 다양한 예능 소식과 2022년 하반기 라인업, 그리고 미공개 클립 영상까지 넷플릭스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류승룡 “인생 가장 아름다운 순간? 아들과 여행”[인터뷰]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000838581</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000838581"/>
-        <updated>2022-09-25T00:43:48.999Z</updated>
-        <content type="html"><![CDATA[배우 류승룡에겐 하루 1분1초가 아깝다. 곧 있으면 수험생이 되는 아들과 함께 여행을 즐길 기회가 점점 더 적어질 거란 걱정 때문이다. 그래서 최근 아들과 단둘이 다녀온 몽골 여행이 팬데믹 이후 그의 인생에 있어서]]></content>
     </entry>
 </feed>
