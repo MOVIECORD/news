@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-09-25T06:15:19.257Z</updated>
+    <updated>2022-09-25T07:12:03.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[D:쇼트 시네마⑥] 누구 마음대로? '판타스틱 플라토닉 러브']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002642287</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002642287"/>
+        <updated>2022-09-25T07:11:22.857Z</updated>
+        <content type="html"><![CDATA[OTT를 통해 상업영화 뿐 아니라 독립, 단편작들을 과거보다 수월하게 만날 수 있는 무대가 생겼습니다. 그 중 재기 발랄한 아이디어부터 사회를 관통하는 날카로운 메시지까지 짧고 굵게 존재감을 발휘하는 50분 이하의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개봉 D-3 '정직한 후보2', 예매율 1위 등극]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005325490</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000838581"/>
         <updated>2022-09-25T00:43:48.999Z</updated>
         <content type="html"><![CDATA[배우 류승룡에겐 하루 1분1초가 아깝다. 곧 있으면 수험생이 되는 아들과 함께 여행을 즐길 기회가 점점 더 적어질 거란 걱정 때문이다. 그래서 최근 아들과 단둘이 다녀온 몽골 여행이 팬데믹 이후 그의 인생에 있어서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인생은 아름다워'-'정직한 후보2' [강추비추]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003090161</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003090161"/>
-        <updated>2022-09-25T00:43:49.000Z</updated>
-        <content type="html"><![CDATA[추석 극장가 유일하게 출격한 영화 '공조2: 인터내셔날'이 개봉 16일째 500만 관객을 돌파하며 올해 개봉한 한국 영화 중 흥행 TOP 3를 기록했다. 적수 없는 개봉시기와 맞물려 캐릭터 간의 풍성한 케미, 압도적]]></content>
     </entry>
 </feed>
