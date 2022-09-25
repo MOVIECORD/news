@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Sep 2022 20:09:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Sep 2022 21:06:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['진검승부' 도경수-연준석  “순도 100%, 남자들의 의리”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=230515</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=230515</guid>
+            <pubDate>Sun, 25 Sep 2022 21:05:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=230515">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220924071710_c55db8adfcf65915e12e88c7f96835dc.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=230515">'진검승부' 도경수-연준석  “순도 100%, 남자들의 의리”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EA%B2%80%EC%8A%B9%EB%B6%80">수목드라마 진검승부</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220924071710_c55db8adfcf65915e12e88c7f96835dc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[홍김동전] 시우민, 손흥민 유년 시절 체험... ‘제기차기’ 도전]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=230718</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%A6%AC%EC%8A%A8%20%EC%97%85">리슨 업</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220925083316_92f25d8ab6a3d1c085eaab3d382295d7_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[리슨업]  김승수 “지하에서 시작해 톱으로 끝내겠다”... 드리핀 - Looking For A Love (Rooftop)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=230608</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=230608</guid>
-            <pubDate>Sun, 25 Sep 2022 04:56:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=230608">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220925082749_d3182adb9ed87e92128c48ba77ab2ed5_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=230608">[리슨업]  김승수 “지하에서 시작해 톱으로 끝내겠다”... 드리핀 - Looking For A Love (Rooftop)</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%A6%AC%EC%8A%A8%20%EC%97%85">리슨 업</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220925082749_d3182adb9ed87e92128c48ba77ab2ed5_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
