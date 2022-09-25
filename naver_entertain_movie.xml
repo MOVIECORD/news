@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-09-25T08:11:38.895Z</updated>
+    <updated>2022-09-25T09:10:05.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정익진의 무비셰프 <38> 엠마 스톤 (Emma Stone)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000020964</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000020964"/>
+        <updated>2022-09-25T09:09:25.117Z</updated>
+        <content type="html"><![CDATA[라라랜드의 사랑스러운 요정 이번 ‘정익진의 무비세프’의 배우는 누가일까. 오랫동안 생각했다. 장쯔이? 앤 밴크로프트? 크리스틴 스튜어트? 문득, 엠마 스톤(Emma Stone)이 떠올랐다. 엠마 스톤이 출연한 영화는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['정직한 후보2' 예매율 1위 등극, "쉴새없이 터지는 웃음 대잔치"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003649770</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002642218"/>
         <updated>2022-09-25T00:43:48.997Z</updated>
         <content type="html"><![CDATA[배우 서인국이 데뷔 이래 가장 강렬한 캐릭터로 돌아왔다. '늑대사냥'에서 자신의 심기를 거스르면 인정사정 봐주지 않고 죽여버리는 짐승 같은 인물 종두를 자신의 연기로 숨을 불어넣었다. '늑대사냥'은 개봉 전부터 높은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["두둥~" 넷플릭스 글로벌 팬 이벤트 '투둠 코리아']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000050267</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000050267"/>
-        <updated>2022-09-25T00:43:48.998Z</updated>
-        <content type="html"><![CDATA[넷플릭스(Netflix)가 '투둠 코리아 - 넷플릭스 글로벌 팬 이벤트'를 성황리에 마쳤다. 넷플릭스는 '투둠 코리아'행사를 통해 다양한 예능 소식과 2022년 하반기 라인업, 그리고 미공개 클립 영상까지 넷플릭스]]></content>
     </entry>
 </feed>
