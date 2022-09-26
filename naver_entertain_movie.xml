@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-09-26T18:11:48.397Z</updated>
+    <updated>2022-09-26T19:17:31.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마이 카·애프터 양…왓챠, '아트버스터' 영화 5편 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011441386</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011441386"/>
+        <updated>2022-09-26T19:16:44.430Z</updated>
+        <content type="html"><![CDATA[황지향 인턴 기자 = 국내 OTT '왓챠'에서 각종 영화제에서 찬사를 받은 아트버스터 영화들을 감상할 수 있다. 왓챠는 '왓챠 익스클루시브'를 통해 2022년 제94회 아카데미 시상식에서 세계적으로 주목받은 '드라이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BIFF 폐막식 사회 배우 권율·한선화]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000021083</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004754535"/>
         <updated>2022-09-26T13:47:49.727Z</updated>
         <content type="html"><![CDATA[방송인 하지영이 26일 오후 서울 신천동 롯데시네마 월드타워에서 열린 영화 '인생은 아름다워'(감독 최국희, 제작 더램프(주)) VIP시사회에 참석해 포토타임을 갖고 있다. 류승룡, 염정아, 박세완, 옹성우 등이 출]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 조진웅, '인생은 아름다워 박수쳐~']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004754534</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004754534"/>
-        <updated>2022-09-26T13:47:49.731Z</updated>
-        <content type="html"><![CDATA[배우 조진웅이 26일 오후 서울 신천동 롯데시네마 월드타워에서 열린 영화 '인생은 아름다워'(감독 최국희, 제작 더램프(주)) VIP시사회에 참석해 포토타임을 갖고 있다. 류승룡, 염정아, 박세완, 옹성우 등이 출연]]></content>
     </entry>
 </feed>
