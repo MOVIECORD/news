@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-09-26T19:17:31.441Z</updated>
+    <updated>2022-09-26T20:13:58.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美아카데미박물관, 한국공포영화 첫 상영회…박찬욱 감독 조명]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013464380</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013464380"/>
+        <updated>2022-09-26T20:13:16.554Z</updated>
+        <content type="html"><![CDATA['올드보이', '박쥐' 등 8편 상영…"박찬욱, 새 공포영화 만들어" 정윤섭 특파원 = 2000년대 이후 개봉한 한국의 대표적인 공포·스릴러 영화들이 미국 아카데미 영화 박물관(Academy Museum of Mot]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마이 카·애프터 양…왓챠, '아트버스터' 영화 5편 공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011441386</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004754536"/>
         <updated>2022-09-26T13:47:49.727Z</updated>
         <content type="html"><![CDATA[가수 김완선이 26일 오후 서울 신천동 롯데시네마 월드타워에서 열린 영화 '인생은 아름다워'(감독 최국희, 제작 더램프(주)) VIP시사회에 참석해 포토타임을 갖고 있다. 류승룡, 염정아, 박세완, 옹성우 등이 출연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 하지영, '영화관 나들이 왔어요~']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004754535</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004754535"/>
-        <updated>2022-09-26T13:47:49.727Z</updated>
-        <content type="html"><![CDATA[방송인 하지영이 26일 오후 서울 신천동 롯데시네마 월드타워에서 열린 영화 '인생은 아름다워'(감독 최국희, 제작 더램프(주)) VIP시사회에 참석해 포토타임을 갖고 있다. 류승룡, 염정아, 박세완, 옹성우 등이 출]]></content>
     </entry>
 </feed>
