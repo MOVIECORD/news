@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Sep 2022 05:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Sep 2022 06:43:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이승기-이세영  '중평도에서 생긴 일' 전격공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=231017</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=231017</guid>
+            <pubDate>Tue, 27 Sep 2022 06:41:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=231017">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220927152824_6ce8027853291a407245a9247cbe1c04.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=231017">이승기-이세영  '중평도에서 생긴 일' 전격공개</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B2%95%EB%8C%80%EB%A1%9C%20%EC%82%AC%EB%9E%91%ED%95%98%EB%9D%BC">월화드라마 법대로 사랑하라</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220927152824_6ce8027853291a407245a9247cbe1c04.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스타뷰] '당소원' 대표 순정파 장석준 역 맡은 배우 남태훈...진짜 모습도 사랑꾼]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=230996</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%B4%EB%B3%84%EB%8F%84%20%EB%A6%AC%EC%BD%9C%EC%9D%B4%20%EB%90%98%EB%82%98%EC%9A%94%3F">이별도 리콜이 되나요?</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220926221638_30f33ca7c4ebaafe5958707c6443de98_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["배틀 트립 돌아온다"  10월 15일 시즌2 스타트 .... 성시경 이용진 허경환 이미주 MC 발탁]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=230755</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=230755</guid>
-            <pubDate>Mon, 26 Sep 2022 00:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=230755">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220926091328_e6ab68703b4e99557423b16769181c72_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=230755">"배틀 트립 돌아온다"  10월 15일 시즌2 스타트 .... 성시경 이용진 허경환 이미주 MC 발탁</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220926091328_e6ab68703b4e99557423b16769181c72_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
