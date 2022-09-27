@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-09-27T15:13:35.028Z</updated>
+    <updated>2022-09-27T16:20:40.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘스타워즈’ 다스베이더 목소리,  제임스 얼 존스 대신 AI가 낸다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000839181</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000839181"/>
+        <updated>2022-09-27T16:19:53.461Z</updated>
+        <content type="html"><![CDATA[할리우드의 전설적인 SF 영화 ‘스타워즈’ 시리즈 메인 빌런 다스베이더가 거친 숨소리와 함께 묵직한 저음으로 자신의 아들 루크 스카이워커에게 내뱉은 대사 “I‘m your father”는 영화팬들 뇌리에 길이 남은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강원도청 올로케 영화 '정직한 후보2' 진실의 주둥이 재출격]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=654&amp;aid=0000020952</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003590516"/>
         <updated>2022-09-27T10:10:45.975Z</updated>
         <content type="html"><![CDATA[전여빈, 나나가 서로를 향한 애정을 뽐냈다. 넷플릭스 시리즈 '글리치'는 외계인이 보이는 지효와 외계인을 추적해온 보라가 흔적 없이 사라진 지효 남자친구의 행방을 쫓으며 미확인 미스터리의 실체에 다가서게 되는 4차원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['풀타임', 워킹맘의 고군분투에 박수를...6주 차에 1만 돌파]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000287936</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000287936"/>
-        <updated>2022-09-27T10:10:45.976Z</updated>
-        <content type="html"><![CDATA[영화 '풀타임'이 개봉 6주 차에 전국 1만 관객을 돌파했다. 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '풀타임'은 지난 24일 전국 1만 관객을 돌파했다. '풀타임'은 파리 교외에서 홀로 두 아이를 기르]]></content>
     </entry>
 </feed>
