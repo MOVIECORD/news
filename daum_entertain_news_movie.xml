@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-09-28T10:10:58.434Z</updated>
+    <updated>2022-09-28T11:14:27.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬이라 더 빛난 '인생은 아름다워', 허를 찌른 여운]]></title>
+        <id>https://v.daum.net/v/20220928192329432</id>
+        <link href="https://v.daum.net/v/20220928192329432"/>
+        <updated>2022-09-28T11:14:26.293Z</updated>
+        <content type="html"><![CDATA[[서울경제] 오늘 영화는 이거! ‘오영이’ 국내 최초 뮤지컬 영화라는 타이틀만 생각하고 봤다가는 요동치는 감정에 주체하지 못할 것이다. 능숙하지 않은 노래 실력과 서툰 안무에도 고스란히 감정이 전달된다. 웃다가 울다가 감동하게 되는 영화 ‘인생을 아름다워’만의 매력이다. ‘인생은 아름다워’(감독 최국희)는 폐암 선고를 받은 세연(염정아)가 남]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김무열의 반짝이는 현재, 더 빛나게 될 미래]]></title>
         <id>https://v.daum.net/v/20220928185620867</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220928161202540"/>
         <updated>2022-09-28T07:27:47.793Z</updated>
         <content type="html"><![CDATA[[김성호 기자] ▲ 딕 존슨이 죽었습니다&nbsp;포스터    ⓒ 넷플릭스  &nbsp; 인간은 모두 한 번은 죽지마는, 좋은 인간이 죽는다는 건 언제나 두려운 일이다. 죽는 자는 떠날 뿐이지만 남겨진 이는 오롯이 그 공백을 감당해야 하기 때문이다. 좋은 인간일수록, 멋진 인간일수록, 깊이 사랑한 인간일수록, 그 공백도 크게 마련이다. 사랑하는 이가 떠난 공백]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박유천 '악에 바쳐', 어두운 메인 예고편 첫 공개]]></title>
-        <id>https://v.daum.net/v/20220928155801887</id>
-        <link href="https://v.daum.net/v/20220928155801887"/>
-        <updated>2022-09-28T07:27:47.794Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '악에 바쳐'가 어둡고 무거운 분위기를 암시하는 메인 예고편을 전격 공개했다. '악에 바쳐'(감독 김시우, 제작 ㈜나인테일즈코리아, 배급 블루필름웍스)는 한 순간에 모든 것을 잃은 남자 태홍(박유천 분)과 처음부터 잃을 게 없던 여자 홍단(이진리 분), 나락의 끝에서 서로의 삶을 마주한 두 사람의 이야기를 그린 하드보일드]]></content>
     </entry>
 </feed>
