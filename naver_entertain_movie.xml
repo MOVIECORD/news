@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-09-28T14:30:23.657Z</updated>
+    <updated>2022-09-28T15:13:19.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] 박해수, '넷플릭스 공무원'의 더할 나위 없는 2022년]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000175311</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000175311"/>
+        <updated>2022-09-28T15:12:29.926Z</updated>
+        <content type="html"><![CDATA["외국에서 작품하고 싶은 마음 있어...다각적인 태도 지닌 배우 되고파" 올해 한 편의 영화와 두 편의 시리즈로 전 세계 시청자들을 만난 배우가 있다. 또한 지난해 공개된 작품으로 美 에미상 레드카펫을 밟았고 총 6]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오영이] 뮤지컬이라 더 빛난 '인생은 아름다워', 허를 찌른 여운]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004104271</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004707720"/>
         <updated>2022-09-28T08:15:08.846Z</updated>
         <content type="html"><![CDATA[영화 '인생은 아름다워'를 향한 실관객들의 극찬 행렬이 이어지고 있다. '인생은 아름다워'(감독 최국희, 배급 롯데엔터테인먼트, 제작 더 램프)는 자신의 생일선물로 첫사랑을 찾아 달라는 황당한 요구를 한 아내 세연(]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이정재 감독 ‘헌트’ 제7회 런던아시아영화제 개막작]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003231705</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003231705"/>
-        <updated>2022-09-28T08:15:08.846Z</updated>
-        <content type="html"><![CDATA[배우 이정재의 첫 감독 연출작 ‘헌트’가 제7회 런던아시아영화제의 개막작에 선정됐다. 런던아시아영화제에 따르면 다음달 19일 개막해 30일까지 12일간 열리는 영화 축제의 막은 ‘헌트’가 맡는다. 폐막작은 홍콩 오현]]></content>
     </entry>
 </feed>
