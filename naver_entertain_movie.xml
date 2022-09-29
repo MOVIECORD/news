@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-09-29T15:15:35.002Z</updated>
+    <updated>2022-09-29T16:17:14.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정이랑 주연 ‘아네모네’ 태국서 감독상 [연예뉴스 HOT]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001007352</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001007352"/>
+        <updated>2022-09-29T16:16:32.687Z</updated>
+        <content type="html"><![CDATA[개그우먼 출신 배우 정이랑이 주연한 영화 ‘아네모네’(감독 정하용)가 해외 시상식에서 두각을 드러내고 있다. 29일 태국 국제필름 페스티벌 측은 ‘아네모네’가 최우수 장편 영화 부문에서 감독상을 수상했다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김진태의 영화 홍보 ‘得일까 失일까 ’]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000926299</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004708660"/>
         <updated>2022-09-29T11:05:40.032Z</updated>
         <content type="html"><![CDATA[29일 오후 서울 용산구 CGV용산아이파크몰에서 영화 ‘컴백홈(감독 이연우)’ VIP 시사회가 열렸다. 배우 고윤이 포즈를 취하고 있다. 2022.09.29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]박하선, '엘레강스 볼하트']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004708655</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004708655"/>
-        <updated>2022-09-29T11:05:40.036Z</updated>
-        <content type="html"><![CDATA[29일 오후 서울 용산구 CGV용산아이파크몰에서 영화 ‘컴백홈(감독 이연우)’ VIP 시사회가 열렸다. 배우 박하선이 포즈를 취하고 있다. 2022.09.29]]></content>
     </entry>
 </feed>
