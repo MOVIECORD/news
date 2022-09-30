@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-09-30T20:21:34.002Z</updated>
+    <updated>2022-09-30T21:06:37.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[내 인어공주를 돌려 달라고?]]></title>
+        <id>https://v.daum.net/v/20221001060202150</id>
+        <link href="https://v.daum.net/v/20221001060202150"/>
+        <updated>2022-09-30T21:06:36.368Z</updated>
+        <content type="html"><![CDATA[편집자 주 : [낫 유어 에리얼]은 흑인 인어공주에 반대하는 입장에서 쓴 ‘나의 에리얼이 아니다’(#NotMyAriel) 해시태그를 뒤집어 ‘너의 에리얼이 아니다’라는 의미로 쓴 제목입니다. 나의 에리얼은 백인이어야 한다는 믿음이 타당한지 독자들과 함께 생각해보려 합니다. 몇 년 전 할리우드에서 백인 배우만 주인공으로 캐스팅해 다른 인종을 지운다는 화이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["여성의 경험 통해 제주 4.3 보여주고 싶었다"]]></title>
         <id>https://v.daum.net/v/20220930224201647</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220930183027770"/>
         <updated>2022-09-30T10:13:40.715Z</updated>
         <content type="html"><![CDATA[[서울경제] 배우 라미란이 “앞으로도 배꼽 도둑이 되겠다”는 수상 소감을 지키기 위해 영화 ‘정직한 후보2’로 컴백했다. 여전히 센스 넘치고 매력적인 그의 연기는 작품의 정체성이다. 다른 누구도 흉내 낼 수 없는 독보적인 캐릭터를 만든 그에게는 남다른 고민이 있었다. ‘정직한 후보2’(감독 장유정)는 서울시장 선거에 떨어지고 백수가 된 주상숙(라미란)이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['브로커' 아이유, 춘사국제영화제 신인여우상 수상→고레에다 국제감독상]]></title>
-        <id>https://v.daum.net/v/20220930183017769</id>
-        <link href="https://v.daum.net/v/20220930183017769"/>
-        <updated>2022-09-30T10:13:40.717Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 박수인 기자] '브로커'의 수상 행렬이 이어졌다. '브로커' 감독 고레에다 히로카즈가 제27회 춘사국제영화제에서 국제 감독상을, 출연 배우 아이유(이지은)가 신인여우상을 수상했다. 영화 '브로커'는 베이비 박스를 둘러싸고 관계를 맺게 된 이들의 예기치 못한 특별한 여정을 그린 작품. 특히 베이비 박스에 놓인 아기의 엄마 ‘소영’ 역으로 스크린에]]></content>
     </entry>
 </feed>
