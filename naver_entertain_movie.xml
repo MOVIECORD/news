@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-09-30T15:14:25.566Z</updated>
+    <updated>2022-09-30T16:17:30.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박지환 “좋은 작품·좋은 역할 만나게 해준 한 해”[화보]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001007499</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001007499"/>
+        <updated>2022-09-30T16:16:46.432Z</updated>
+        <content type="html"><![CDATA[영화 '범죄도시 2', '한산: 용의 출현', 드라마 '우리들의 블루스' 배우 박지환이 '마리끌레르' BIFF 에디션을 통해 영화에 대한 이야기를 나눴다. 박지환은 첫 '범죄도시' 시리즈에 이어 올해 개봉한 '범죄도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무진성, 춘사국제영화제 신인남우상]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000839836</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001007471"/>
         <updated>2022-09-30T10:12:58.422Z</updated>
         <content type="html"><![CDATA[제27회 춘사국제영화제에서 '브로커'의 고레에다 히로카즈 감독이 국제 감독상을, ‘소영’ 역 이지은(아이유)이 신인여우상을 수상의 영예를 안았다. '브로커'는 베이비 박스를 둘러싸고 관계를 맺게 된 이들의 예기치 못]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 배우 민도희의 또다른 도약]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004105312</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004105312"/>
-        <updated>2022-09-30T10:12:58.423Z</updated>
-        <content type="html"><![CDATA[‘응답하라 1994’의 ‘정대만’ 조윤진에서 ‘자산어보’의 해녀 복례, 그리고 그의 첫 장편 주연작인 ‘주연’의 사라진 동생 주연까지. 민도희는 오직 그만 보여줄 수 있는, 어딘가에 살고 있을 것 같은 생생한 캐릭터]]></content>
     </entry>
 </feed>
