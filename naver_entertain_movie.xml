@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-10-02T20:10:38.269Z</updated>
+    <updated>2022-10-02T21:05:07.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이마트·SSG닷컴 '아바타 레고' 4종 단독판매]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013478089</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013478089"/>
+        <updated>2022-10-02T21:04:27.487Z</updated>
+        <content type="html"><![CDATA[이마트와 SSG닷컴(쓱닷컴)은 연말 속편 개봉을 앞둔 영화 아바타의 레고 시리즈 4종을 단독으로 판매한다고 3일 밝혔다. 레고 코리아와 손잡고 출시하는 이 제품은 영화 아바타 속 판도라 행성과 나비족 등을 정교하게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[14억명은 볼 수 없는… 2019 홍콩 시위대의 ‘피·눈물·땀’]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000700059</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005331800"/>
         <updated>2022-10-02T06:19:33.214Z</updated>
         <content type="html"><![CDATA[영화 ‘공조2: 인터내셔날’(이하 ‘공조2’)가 개봉 26일만인 2일 600만 관객을 돌파했다. 2일 배급사 CJ ENM에 따르면 ‘공조2’는 이날 낮 12시 30분 기준으로 관객 수 600만 명을 넘어섰다. 올해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 '공조2', 600만 관객 고지… 올해 개봉 한국영화 중 세 번째]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004105547</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004105547"/>
-        <updated>2022-10-02T06:19:33.216Z</updated>
-        <content type="html"><![CDATA[영화 ‘공조2: 인터내셔날’이 2일 전국 관객 600만명 고지를 밟았다고 배급사인 CJ ENM(035760)이 밝혔다. 올해 개봉한 한국영화 중 세 번째로 거둔 흥행 성과다. CJ ENM 측은 ‘공조2: 인터내셔날’]]></content>
     </entry>
 </feed>
