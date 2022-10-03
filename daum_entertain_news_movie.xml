@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-10-03T03:57:44.850Z</updated>
+    <updated>2022-10-03T05:41:24.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박수용 감독 "호랑이 찍으면서 반려동물 보호와 같은 마음 생겼죠"]]></title>
+        <id>https://v.daum.net/v/20221003141818146</id>
+        <link href="https://v.daum.net/v/20221003141818146"/>
+        <updated>2022-10-03T05:41:24.197Z</updated>
+        <content type="html"><![CDATA[[서울경제] “숲 속에서는 인간이 아니라 호랑이가 대장이예요. 누구도 두려워하지 않으면서도 함부로 공격하지 않고 포악하지도 않은 것이 마치 산신령이 데리고 다니는 ‘산중의 군자’ 같은 느낌이죠. 호랑이가 근처에 있다는 느낌을 받으면 이상한 소리만 들어도 등골이 서늘해지지만, 계속 찍을수록 자연과 시간 앞에서 겸손해집니다” 처음에는 그저 카메라에 담고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인생은 아름다워', 내가 곧 죽는다면 남은 시간은 어떻게 보낼까?]]></title>
         <id>https://v.daum.net/v/20221003123419823</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221003090006191"/>
         <updated>2022-10-03T00:42:20.172Z</updated>
         <content type="html"><![CDATA[뮤지컬 영화 '인생의 아름다워' 진봉 역 열연…"큰 것을 얻었다" 정제되지 않은 스타는 어떤 모습일까. 연예계는 대중의 관심을 받는 스타도 많고, 이들을 팔로우하는 매체도 많다. 모처럼 인터뷰가 잡혀도 단독으로 대면하는 경우가 드물다. 다수의 매체 기자가 함께 인터뷰를 하다 보니 내용도 비슷하다. 심지어 사진이나 영상마저 소속사에서 만들어 배포하는 경우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손예진도 드디어 본..'공조2', 누적 관객수 608만 돌파]]></title>
-        <id>https://v.daum.net/v/20221003085210098</id>
-        <link href="https://v.daum.net/v/20221003085210098"/>
-        <updated>2022-10-03T00:42:20.172Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김미화 기자] /사진='공조2' 영화 '공조2 : 인터내셔날'이 4주 연속 주말 박스오피스 1위를 지키며 누적 관객수 608만 명을 돌파 했다. 3일 영진위 영화관입장권 통합전산망에 따르면 '공조2 : 인터내셔날'은 지난 2일 13만 3603명의 관객을 모았다. 누적관객수는 608만 26명이다. '공조2: 인터내셔날'은 글로벌 범죄 조직을 잡]]></content>
     </entry>
 </feed>
