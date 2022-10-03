@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-10-03T18:20:10.560Z</updated>
+    <updated>2022-10-03T19:15:26.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기대와 우려 교차하는 세계 최초 오감 웹툰 ‘4DX 문유’]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001556935</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001556935"/>
+        <updated>2022-10-03T19:14:42.898Z</updated>
+        <content type="html"><![CDATA[문유는 지구로 향하는 운석 ‘파이’를 막기 위해 달로 갔다가 홀로 남겨졌다. 운석을 파괴하는 임무는 실패했고 지구는 거의 멸망했다. 좌절한 문유가 죽기 위해 높은 곳에서 뛰어내리자 영화관의 모션 체어가 움직였다. 달]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BIFF 공식 초대손님 된 OTT, 영상산업 협업의 장 마련]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000021640</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005332198"/>
         <updated>2022-10-03T05:40:44.218Z</updated>
         <content type="html"><![CDATA[한국영상자료원이 한국 공포영화의 걸작 ‘소름’(감독 윤종찬, 2001년) 블루레이를 출시했다. 영상자료원이 기획하고 블루키노가 제작한 26번째 블루레이 컬렉션이다. 낡은 아파트를 무대로, 30년 전 비극적 가족사가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박수용 감독 “호랑이 찍으면서 반려동물 보호와 같은 마음 생겼죠"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004105684</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004105684"/>
-        <updated>2022-10-03T05:40:44.218Z</updated>
-        <content type="html"><![CDATA[“숲 속에서는 인간이 아니라 호랑이가 대장이예요. 누구도 두려워하지 않으면서도 함부로 공격하지 않고 포악하지도 않은 것이 마치 산신령이 데리고 다니는 ‘산중의 군자’ 같은 느낌이죠. 호랑이가 근처에 있다는 느낌을 받]]></content>
     </entry>
 </feed>
