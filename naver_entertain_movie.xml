@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-10-03T12:18:35.321Z</updated>
+    <updated>2022-10-03T13:47:00.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[애프터스크리닝] '4DX 문유' 영화와 웹툰을 넘어선 새로운 놀이로의 콘텐츠 체험 ★★★]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000168608</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000168608"/>
+        <updated>2022-10-03T13:46:20.890Z</updated>
+        <content type="html"><![CDATA[▶ 줄거리 어느 날 소행성 파편이 추락해 지구가 멸망할 위기가 닥치자 인류는 달을 방패막으로 삼아 지구를 지키기 위해 달에 과학자들을 보낸다. 그들은 지구를 지키기 위한 만반의 준비를 마친채 지구로 돌아가지만 연구원]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부국제, 누벨바그 거장 故 장 뤽 고다르 기린다…추모 행사 마련 [공식]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005332302</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004105680"/>
         <updated>2022-10-03T05:40:44.225Z</updated>
         <content type="html"><![CDATA[눈으로만 즐기던 웹툰이 안개·진동·온열·물방울 등 오감으로 즐길 수 있게 진화했다. 12일 개봉하는 조석 작가의 SF 웹툰 원작 ‘4DX 문유’는 강력한 4DX 효과를 통한 새로운 경험 제공을 통해 원작 팬과 4DX]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재판없이 형무소로 끌려갔던 할머니들의 증언… 4·3사건 다룬 ‘돌들이 말할 때까지’의 김경만 감독[인터뷰]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003176938</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003176938"/>
-        <updated>2022-10-03T05:40:44.225Z</updated>
-        <content type="html"><![CDATA[“이 사람이 사상에 대해서나, 정치에 대해서나 머리를 둔 사람이다 (싶으면) 보면 다 죽였어요. 젊은이도, 늙은이도.” 제주에 사는 양농옥씨(91)는 제주 4·3 사건 당시 눈앞에서 총살당하는 아버지 모습을 봤다.]]></content>
     </entry>
 </feed>
