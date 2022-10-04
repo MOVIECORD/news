@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-10-04T19:17:51.371Z</updated>
+    <updated>2022-10-04T20:10:30.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부산국제영화제 오늘 개막…코로나 뚫고 3년 만에 정상화]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013482134</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013482134"/>
+        <updated>2022-10-04T20:09:50.703Z</updated>
+        <content type="html"><![CDATA[71개국 243편 초청 상영…개막작 이란 영화 '바람의 향기' 온 스크린 섹션·지역 프로그램 확대…부산스토리마켓 첫 출범 제27회 부산국제영화제(BIFF)가 5일 저녁 개막식을 시작으로 열흘 간의 일정에 들어간다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3년 만에 제모습 찾은 부산국제영화제, 오늘 막 오른다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001557232</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004712012"/>
         <updated>2022-10-04T12:16:52.032Z</updated>
         <content type="html"><![CDATA[4일 오후 서울 용산구 한강대로 CGV 용산아이파크몰에서 영화 ‘대무가’의 VIP 시사회 포토월 행사가 열렸다. 배우 유연석이 행사장으로 입장하고 있다. 2022.10.04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]한지은,'러블리 하트']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004712009</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004712009"/>
-        <updated>2022-10-04T12:16:52.035Z</updated>
-        <content type="html"><![CDATA[4일 오후 서울 용산구 한강대로 CGV 용산아이파크몰에서 영화 ‘대무가’의 VIP 시사회 포토월 행사가 열렸다. 배우 한지은이 포토타임을 갖고 있다. 2022.10.04]]></content>
     </entry>
 </feed>
