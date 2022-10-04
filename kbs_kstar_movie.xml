@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Oct 2022 07:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Oct 2022 08:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플TV+ '레이먼드 & 레이', 부산에서 아시아프리미어로 만난다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=232011</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=232011</guid>
+            <pubDate>Tue, 04 Oct 2022 08:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=232011">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221004162919_7cf2104c9428085bbce483d341d4b679.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=232011">애플TV+ '레이먼드 &amp; 레이', 부산에서 아시아프리미어로 만난다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221004162919_7cf2104c9428085bbce483d341d4b679.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디즈니+ '최악의 악' 지창욱-위하준-임세미  "한중일 마약트라이앵글 소탕전"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=231991</link>
@@ -110,7 +127,7 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221004081023_4a458c7be456aec2e80d08111e4b069a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이성민-진구, 극과 그의 형사가 만나다  디즈니+ '형사록']]></title>
+            <title><![CDATA[이성민-진구 "극과 극의 형사가 만나다",   디즈니+ '형사록']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=231381</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=231381</guid>
             <pubDate>Mon, 03 Oct 2022 21:05:35 GMT</pubDate>
@@ -122,7 +139,7 @@
 		</span>
 	</span></a>
 	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=231381">이성민-진구, 극과 그의 형사가 만나다  디즈니+ '형사록'</a></span>
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=231381">이성민-진구 "극과 극의 형사가 만나다",   디즈니+ '형사록'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220930085055_c1a6d4375b69e59d91c13a85fff248bb_1.jpg" length="0" type="image/jpg"/>
         </item>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=231352">제14회 DMZ국제다큐멘터리영화제 폐막... 국제경쟁대상 '비극이 잠든 땅'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220930074324_d0f88741c744126e836628dcea6bc147.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수현, 넷플릭스 '경성크리처' 마에다 역]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=231294</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=231294</guid>
-            <pubDate>Thu, 29 Sep 2022 00:49:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=231294">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220929093605_7f4ac100fcdf59c537d9e2025155f5e2.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=231294">수현, 넷플릭스 '경성크리처' 마에다 역</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220929093605_7f4ac100fcdf59c537d9e2025155f5e2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
