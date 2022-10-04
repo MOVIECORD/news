@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Oct 2022 06:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Oct 2022 07:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니+ '최악의 악' 지창욱-위하준-임세미  "한중일 마약트라이앵글 소탕전"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=231991</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=231991</guid>
+            <pubDate>Tue, 04 Oct 2022 07:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=231991">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221004153450_0be9d07feb888548a60cd7d9359a58eb_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=231991">디즈니+ '최악의 악' 지창욱-위하준-임세미  "한중일 마약트라이앵글 소탕전"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221004153450_0be9d07feb888548a60cd7d9359a58eb_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['블랙 팬서: 와칸다 포에버' 11월 개봉  "운명을 건 거대한 전쟁이 시작된다!"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=231975</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=231294">수현, 넷플릭스 '경성크리처' 마에다 역</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220929093605_7f4ac100fcdf59c537d9e2025155f5e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 '욘더' 신하균-한지민, 커플 캐릭터 포스터]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=231224</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=231224</guid>
-            <pubDate>Wed, 28 Sep 2022 20:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=231224">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220928162511_3c671a5760bdab12bc8f80ce99178297_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=231224">티빙 '욘더' 신하균-한지민, 커플 캐릭터 포스터</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220928162511_3c671a5760bdab12bc8f80ce99178297_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
