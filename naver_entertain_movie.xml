@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-10-04T18:20:40.519Z</updated>
+    <updated>2022-10-04T19:17:51.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3년 만에 제모습 찾은 부산국제영화제, 오늘 막 오른다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001557232</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001557232"/>
+        <updated>2022-10-04T19:17:07.392Z</updated>
+        <content type="html"><![CDATA[제27회 부산국제영화제(BIFF·포스터)가 5일 저녁 영화의전당 레드카펫 행사를 시작으로 막을 올린다. 올해는 코로나19 이후 3년 만에 사회적 거리두기 없이 영화관 좌석 100%를 사용한다. 영화의전당·CGV센텀시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리 동네 사람들이 만든 영화, BIFF에서 데뷔한대요]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000021757</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004712009"/>
         <updated>2022-10-04T12:16:52.035Z</updated>
         <content type="html"><![CDATA[4일 오후 서울 용산구 한강대로 CGV 용산아이파크몰에서 영화 ‘대무가’의 VIP 시사회 포토월 행사가 열렸다. 배우 한지은이 포토타임을 갖고 있다. 2022.10.04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]하도권,'늠름한 인사']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004712008</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004712008"/>
-        <updated>2022-10-04T12:16:52.035Z</updated>
-        <content type="html"><![CDATA[4일 오후 서울 용산구 한강대로 CGV 용산아이파크몰에서 영화 ‘대무가’의 VIP 시사회 포토월 행사가 열렸다. 배우 하도권이 포토타임을 갖고 있다. 2022.10.04]]></content>
     </entry>
 </feed>
