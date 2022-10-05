@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Oct 2022 06:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Oct 2022 07:25:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장] KBS 진검승부  “불량검사, 액션에 코미디까지 다 있다!” (제작발표회)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=232193</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=232193</guid>
+            <pubDate>Wed, 05 Oct 2022 07:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=232193">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221005155955_101b702917f24f554eda0aa591391466_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=232193">[현장] KBS 진검승부  “불량검사, 액션에 코미디까지 다 있다!” (제작발표회)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221005155955_101b702917f24f554eda0aa591391466_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“이번엔 신조어와 문맥이해까지”...  KBS 제5회 우리말공인인증고사]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=232056</link>
@@ -346,24 +363,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">개는 훌륭하다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221004002741_f57fdb5a120830473a225869e4b81ee3_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[법대로 사랑하라] 동네 고스톱으로 단련된 이승기 타짜 등장! 현란한 뒤집기 솜씨로 사기꾼 검거]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=231884</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=231884</guid>
-            <pubDate>Mon, 03 Oct 2022 16:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=231884">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221003233422_cbe878c01570bc467ffc8969785a1a15_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=231884">[법대로 사랑하라] 동네 고스톱으로 단련된 이승기 타짜 등장! 현란한 뒤집기 솜씨로 사기꾼 검거</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B2%95%EB%8C%80%EB%A1%9C%20%EC%82%AC%EB%9E%91%ED%95%98%EB%9D%BC">월화드라마 법대로 사랑하라</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221003233422_cbe878c01570bc467ffc8969785a1a15_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
