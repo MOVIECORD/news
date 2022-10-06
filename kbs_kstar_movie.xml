@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Oct 2022 22:09:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Oct 2022 23:20:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[BIFF] 티빙 '욘더'-'몸값', 나란히 부산 레드카펫 밟고, 관객 만난다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=232345</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=232345</guid>
+            <pubDate>Thu, 06 Oct 2022 23:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=232345">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221007075435_0f2853a6591d1062969b85019b1f9cf8_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=232345">[BIFF] 티빙 '욘더'-'몸값', 나란히 부산 레드카펫 밟고, 관객 만난다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221007075435_0f2853a6591d1062969b85019b1f9cf8_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[BIFF] 양조위의  화양연화는 "2022년, 부산"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=232327</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=231922">유해진-류준열,  스릴러 사극  '올빼미', 11월 개봉</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221004081023_4a458c7be456aec2e80d08111e4b069a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이성민-진구 "극과 극의 형사가 만나다",   디즈니+ '형사록']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=231381</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=231381</guid>
-            <pubDate>Mon, 03 Oct 2022 21:05:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=231381">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220930085055_c1a6d4375b69e59d91c13a85fff248bb_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=231381">이성민-진구 "극과 극의 형사가 만나다",   디즈니+ '형사록'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20220930085055_c1a6d4375b69e59d91c13a85fff248bb_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
