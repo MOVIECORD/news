@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-10-10T13:51:04.080Z</updated>
+    <updated>2022-10-10T14:33:38.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[TEN인터뷰] '늑대사냥' 감독 "악역에 섹시한 서인국이 딱! 10년만 예매율 1위로 개봉"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000574478</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000574478"/>
+        <updated>2022-10-10T14:32:59.012Z</updated>
+        <content type="html"><![CDATA["'늑대사냥'에 대한 호불호는 당연히 있다고 생각해요. '불호'보다는 '호'가 많을 거라고 판단했어요. 물론 개인적인 생각이지만요. 10년 만에 예매율 1위로 개봉하게 돼 기분이 좋고요. 섹시함을 가진 서인국 배우를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['파친코' 김민하, ‘비욘드 시네마상’, ‘라이징스타상’ 2관왕 영예!]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000169227</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013494291"/>
         <updated>2022-10-10T09:20:59.870Z</updated>
         <content type="html"><![CDATA[데이비 추 감독이 10일 오후 부산 해운대구 영화의 전당 야외무대에서 열린 제27회 부산국제영화제(BIFF) 영화 '라이스보이 슬립스'&amp;'리턴 투 서울' 오픈토크에서 인사말을 하고 있다. 2022.10.10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['리턴 투 서울'로 BIFF 참석한 오광록]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013494290</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013494290"/>
-        <updated>2022-10-10T09:20:59.874Z</updated>
-        <content type="html"><![CDATA[배우 오광록이 10일 오후 부산 해운대구 영화의 전당 야외무대에서 열린 제27회 부산국제영화제(BIFF) 영화 '라이스보이 슬립스'&amp;'리턴 투 서울' 오픈토크에서 인사말을 하고 있다. 2022.10.10]]></content>
     </entry>
 </feed>
