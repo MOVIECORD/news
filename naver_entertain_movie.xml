@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-10-10T14:33:38.857Z</updated>
+    <updated>2022-10-10T15:16:00.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[내가 본 '장동윤'] 바른 청년이 들려준 유쾌한 반전 '주책미']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000177273</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000177273"/>
+        <updated>2022-10-10T15:15:12.902Z</updated>
+        <content type="html"><![CDATA["MBTI는 ENFP…조금씩 성장하는 배우 되고파" 정제되지 않은 스타는 어떤 모습일까. 연예계는 대중의 관심을 받는 스타도 많고, 이들을 팔로우하는 매체도 많다. 모처럼 인터뷰가 잡혀도 단독으로 대면하는 경우가 드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[TEN인터뷰] '늑대사냥' 감독 "악역에 섹시한 서인국이 딱! 10년만 예매율 1위로 개봉"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000574478</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013494295"/>
         <updated>2022-10-10T09:20:59.870Z</updated>
         <content type="html"><![CDATA[10일 오후 부산 해운대구 영화의 전당 야외무대에서 제27회 부산국제영화제(BIFF) 영화 '라이스보이 슬립스'&amp;'리턴 투 서울' 오픈토크가 진행되고 있다. 2022.10.10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['리턴 투 서울' 데이비 추 감독]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013494291</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013494291"/>
-        <updated>2022-10-10T09:20:59.870Z</updated>
-        <content type="html"><![CDATA[데이비 추 감독이 10일 오후 부산 해운대구 영화의 전당 야외무대에서 열린 제27회 부산국제영화제(BIFF) 영화 '라이스보이 슬립스'&amp;'리턴 투 서울' 오픈토크에서 인사말을 하고 있다. 2022.10.10]]></content>
     </entry>
 </feed>
