@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-10-10T11:12:02.274Z</updated>
+    <updated>2022-10-10T12:18:49.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['파친코' 김민하, ‘비욘드 시네마상’, ‘라이징스타상’ 2관왕 영예!]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000169227</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000169227"/>
+        <updated>2022-10-10T12:18:07.407Z</updated>
+        <content type="html"><![CDATA[배우 김민하가 ‘비욘드 시네마상’과 ‘라이징스타상’을 수상하며 2관왕의 영예를 안았다. 지난 7일 개최된 ‘제8회 아시아 스타 어워즈’는 패션 매거진 마리끌레르가 주관하고 부산국제영화제가 주최하는 시상식으로 아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["함께 작업하길" 강말금·강길우·강진아가 추억한 부산·영화(종합) [BIFF]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006384410</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013494290"/>
         <updated>2022-10-10T09:20:59.874Z</updated>
         <content type="html"><![CDATA[배우 오광록이 10일 오후 부산 해운대구 영화의 전당 야외무대에서 열린 제27회 부산국제영화제(BIFF) 영화 '라이스보이 슬립스'&amp;'리턴 투 서울' 오픈토크에서 인사말을 하고 있다. 2022.10.10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['리턴 투 서울' 주연배우]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013494289</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013494289"/>
-        <updated>2022-10-10T09:20:59.876Z</updated>
-        <content type="html"><![CDATA[배우 박지민이 10일 오후 부산 해운대구 영화의 전당 야외무대에서 열린 제27회 부산국제영화제(BIFF) 영화 '라이스보이 슬립스'&amp;'리턴 투 서울' 오픈토크에서 인사말을 하고 있다. 2022.10.10]]></content>
     </entry>
 </feed>
