@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-10-10T15:16:00.941Z</updated>
+    <updated>2022-10-10T16:16:29.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송강호·예지원, ‘에투알 뒤 시네마’상 수상 [연예뉴스 HOT]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001009151</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001009151"/>
+        <updated>2022-10-10T16:15:47.546Z</updated>
+        <content type="html"><![CDATA[배우 송강호와 예지원이 한국과 프랑스 간 영화교류에 공헌한 공로로 ‘에투알 뒤 시네마’ 상을 받았다. 10일 주한프랑스대사관에 따르면 두 사람은 제27회 부산국제영화제가 한창인 8일 부산 해운대 파라다이스호텔부산에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[내가 본 '장동윤'] 바른 청년이 들려준 유쾌한 반전 '주책미']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000177273</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013494296"/>
         <updated>2022-10-10T09:20:59.868Z</updated>
         <content type="html"><![CDATA[데이비 추 감독이 10일 오후 부산 해운대구 영화의 전당 야외무대에서 열린 제27회 부산국제영화제(BIFF) 영화 '라이스보이 슬립스'&amp;'리턴 투 서울' 오픈토크에서 질문에 답변하고 있다. 2022.10.10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIFF '라이스보이 슬립스'&'리턴 투 서울' 오픈토크]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013494295</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013494295"/>
-        <updated>2022-10-10T09:20:59.870Z</updated>
-        <content type="html"><![CDATA[10일 오후 부산 해운대구 영화의 전당 야외무대에서 제27회 부산국제영화제(BIFF) 영화 '라이스보이 슬립스'&amp;'리턴 투 서울' 오픈토크가 진행되고 있다. 2022.10.10]]></content>
     </entry>
 </feed>
