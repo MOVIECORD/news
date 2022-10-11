@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-10-11T19:18:15.003Z</updated>
+    <updated>2022-10-11T20:18:18.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘공조2’ 662만 돌파‥멈출 줄 모르는 흥행[박스오피스]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000640272</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000640272"/>
+        <updated>2022-10-11T20:17:38.224Z</updated>
+        <content type="html"><![CDATA['공조2: 인터내셔날'이 662만 관객을 돌파했다. 10월 12일 영화진흥위원회 통합전산망 집계에 따르면 11일 영화 '공조2: 인터내셔날'(감독 이석훈)이 1만8,989명을 모으며 전체 박스오피스 1위, 누적 관객]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“발레리나 된 동네 할매들 이야기…시즌2 출연 희망자 벌써 줄 섰죠”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000022322</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003593361"/>
         <updated>2022-10-11T08:18:10.992Z</updated>
         <content type="html"><![CDATA['리멤버'가 해외 115개국에 선판매 됐다. 영화 '리멤버'는 가족을 모두 죽게 만든 친일파를 찾아 60년간 계획한 복수를 감행하는 알츠하이머 환자 필주와 의도치 않게 그의 복수에 휘말리게 된 20대 절친 인규의 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허문영 집행위원장 "젊은 부산영화제, 흐름과 변화 적극 수용해야죠"[2022 BIFF]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0005160063</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0005160063"/>
-        <updated>2022-10-11T08:18:11.001Z</updated>
-        <content type="html"><![CDATA[이만하면 성공적이다. 팬데믹 이후 3년 만에 완전 정상화를 선언한 올해 부산국제영화제(BIFF)는 이를 곳곳에서 증명하며 종반을 향해 달리고 있다. 스타 마케팅은 적중했다. 배우 양조위(량차오웨이·60)가 멱살을 잡]]></content>
     </entry>
 </feed>
