@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Oct 2022 00:48:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Oct 2022 03:31:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[일문일답] 엄지원 "원상아의 기운" (tvN ‘작은아씨들’)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=232824</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=232824</guid>
+            <pubDate>Tue, 11 Oct 2022 03:30:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=232824">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221011092032_4b9e3812db3360940a631bd0d9531038.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=232824">[일문일답] 엄지원 "원상아의 기운" (tvN ‘작은아씨들’)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221011092032_4b9e3812db3360940a631bd0d9531038.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KBS  '커튼콜' 강하늘-하지원, ‘1인2역’ 하드캐리]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=232771</link>
@@ -348,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%99%8D%EA%B9%80%EB%8F%99%EC%A0%84">홍김동전</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221010001224_4f63c04cee5160075ecbb032d447d802_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[삼남매가 용감하게] 임주환-이하나 ‘키스사진’ 유출...결혼설 터졌다]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=232584</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=232584</guid>
-            <pubDate>Sun, 09 Oct 2022 15:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=232584">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221010000201_677664ab2b58985502de165dc73ad508_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=232584">[삼남매가 용감하게] 임주환-이하나 ‘키스사진’ 유출...결혼설 터졌다</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%82%BC%EB%82%A8%EB%A7%A4%EA%B0%80%20%EC%9A%A9%EA%B0%90%ED%95%98%EA%B2%8C">주말드라마 삼남매가 용감하게</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221010000201_677664ab2b58985502de165dc73ad508_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
