@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-10-13T19:19:41.070Z</updated>
+    <updated>2022-10-13T20:16:10.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이영애 "'라면 먹을래요?' 대사 인기 실감…사람 사라져도 작품은 남아"[Oh!쎈 이슈]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004718817</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004718817"/>
+        <updated>2022-10-13T20:15:25.726Z</updated>
+        <content type="html"><![CDATA[배우 이영애(52)가 “영화 ‘봄날은 간다’의 인기를 여전히 실감하고 있다면서 자신의 모든 작품이 소중하다”고 말했다. 이영애는 지난 13일 오후 부산 해운대구 우동 KNN타워 KNN시어터에서 열린 액터스 하우스에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“BIFF, 친근함 무기로 21세기형 영화제 성공적 서막”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000022527</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013503527"/>
         <updated>2022-10-13T12:16:11.383Z</updated>
         <content type="html"><![CDATA[이용관 부산국제영화제 이사장이 13일 오후 부산 해운대구 영화의 전당 소극장에서 열린 '2022 샤넬 X 부산국제영화제(BIFF) 아시아영화아카데미 수료식 및 단편영화 상영' 행사에서 인사말을 하고 있다. 2022.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIFF 아시아영화아카데미 수료식]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013503523</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013503523"/>
-        <updated>2022-10-13T12:16:11.383Z</updated>
-        <content type="html"><![CDATA[13일 오후 부산 해운대구 영화의 전당 소극장에서 열린 '2022 샤넬 X 부산국제영화제(BIFF) 아시아영화아카데미 수료식 및 단편영화 상영' 행사에서 감사장을 받은 엄혜정 촬영감독(오른쪽)과 이용관 이사장이 기념]]></content>
     </entry>
 </feed>
