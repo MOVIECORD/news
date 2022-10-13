@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-10-13T15:12:33.635Z</updated>
+    <updated>2022-10-13T16:16:58.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["윤여정처럼 오스카상 받고파"..이영애, 쉽게 흔들리지 않는 뚝심]]></title>
+        <id>https://v.daum.net/v/20221014002008842</id>
+        <link href="https://v.daum.net/v/20221014002008842"/>
+        <updated>2022-10-13T16:16:58.025Z</updated>
+        <content type="html"><![CDATA[[OSEN=부산, 김보라 기자]&nbsp;“오로지 저만을 보러 여기에 와주셨다는 것이 감사하다. 근데 너무 떨린다.(웃음).” 배우 이영애(52)가 13일 오후 부산 해운대구 우동 KNN타워 KNN시어터에서 열린 2회 액터스 하우스에서 “이런 자리가 너무도 오랜만이다. 영화 개봉으로 인사를 드렸었지만 오로지 ‘이영애’만을 위한 시간은 거의 처음이다.(웃음)”라며]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["재미없으면 가치 없다"..하정우, 최연소 '1억 배우'의 17년史]]></title>
         <id>https://v.daum.net/v/20221013234217543</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221013190625541"/>
         <updated>2022-10-13T10:13:16.332Z</updated>
         <content type="html"><![CDATA[배우 하정우가 주 5일 사무실에 출근하며 영화를 준비했던 일화를 털어놔 눈길을 사로잡았다. 하정우는 13일 오후 부산 해운대구 KNN시어터에서 열린 제27회 부산국제영화제 '액터스 하우스'에 참석해 다양한 이야기를 들려줬다. '액터스 하우스'는 한국 영화계 아이콘 같은 최고의 배우들이 관객들과 만나 연기 인생과 철학을 직접 들려주는 스페셜 토크 프로그램이다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["생사의 갈림길서 촬영"..박하나 '귀못', K-정통 호러의 귀환]]></title>
-        <id>https://v.daum.net/v/20221013185013020</id>
-        <link href="https://v.daum.net/v/20221013185013020"/>
-        <updated>2022-10-13T10:13:16.333Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 용산CGV=김나연 기자] 귀못 / 사진=영화 포스터대저택의 미스터리함에 스며든 스산하고 음산한 기운, 세 호러퀸의 열연이 더해진 K-정통 호러 '귀못'이 베일을 벗었다. 13일 서울시 용산구 CGV 용산아이파크몰에서 영화 '귀못'(감독 탁세웅)의 언론배급시사회가 개최됐다. 이 자리에는 탁세웅 감독을 비롯해 배우 박하나, 허진, 정영주가 참석해]]></content>
     </entry>
 </feed>
