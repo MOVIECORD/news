@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Oct 2022 10:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Oct 2022 11:11:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뮤직뱅크] 1위 트로피! 스트레이 키즈 “많은 선물을 받는 듯” ♪CASE 143]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=233300</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=233300</guid>
+            <pubDate>Fri, 14 Oct 2022 11:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=233300">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221014190932_f3ebcf5ebd3551f75365cc3e9809b505.PNG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233300">[뮤직뱅크] 1위 트로피! 스트레이 키즈 “많은 선물을 받는 듯” ♪CASE 143</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221014190932_f3ebcf5ebd3551f75365cc3e9809b505.PNG" length="0" type="image/PNG"/>
+        </item>
         <item>
             <title><![CDATA["아빠는 농구선수였다" 슈돌이 농구교실]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=233290</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221012233646_fb3c9bbb2bf5e32e787eb18c3568f82c_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[옥탑방의 문제아들] 오늘의 문제아는? 13년째 신혼, 사랑스러운 장영란♥한창 부부]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=233002</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=233002</guid>
-            <pubDate>Wed, 12 Oct 2022 14:34:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=233002">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221012233127_fce287b1c0f6ba8e92dca23281417871_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233002">[옥탑방의 문제아들] 오늘의 문제아는? 13년째 신혼, 사랑스러운 장영란♥한창 부부</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221012233127_fce287b1c0f6ba8e92dca23281417871_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
