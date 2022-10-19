@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-10-19T15:15:27.332Z</updated>
+    <updated>2022-10-19T16:17:15.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이정재, 런던아시아영화제서 공로상 받아 [연예뉴스 HOT]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001011228</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001011228"/>
+        <updated>2022-10-19T16:16:32.660Z</updated>
+        <content type="html"><![CDATA[배우 이정재가 아시아 영화의 위상을 드높인 공로를 인정받아 제7회 런던아시아영화제가 선정하는 ‘리프 어너러리 어워드’(LEAFF Honorary Award)를 받았다. 영화제 집행위원단 측은 20일(한국시간) 영화제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가을 극장가, 여성 서사 작품 연이어 개봉 [TF프리즘]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000179161</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002369855"/>
         <updated>2022-10-19T09:25:07.761Z</updated>
         <content type="html"><![CDATA[전주시 "특정인 밀어붙이는 것 아냐, 영화인 중심 이사회가 결정" ▲ 배우 정준호. ⓒ 트리플픽쳐스 배우 정준호가 전주시장의 추천으로 전주영화제 집행위원장에 내정됐다는 언론 보도에 대해 전주영화제 측은 "후보 중의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['귀못' 개봉..K호러가 전하는 극강의 공포→북미 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003097743</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003097743"/>
-        <updated>2022-10-19T09:25:07.761Z</updated>
-        <content type="html"><![CDATA[K 정통 호러 영화 '귀못'이 평단의 호평 속 개봉했다. '귀못'은 국내 개봉과 함께 해외 동시기 개봉을 준비 중이다. '귀못'은 수살귀가 살고 있다는 흉흉한 소문이 가득한 저수지 근처, 사람이 죽어 나가는 대저택에]]></content>
     </entry>
 </feed>
