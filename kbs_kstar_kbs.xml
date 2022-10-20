@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Oct 2022 08:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Oct 2022 09:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘진검승부’ 이세희-김태우, 팽팽한 긴장 속 독대]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=234023</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=234023</guid>
+            <pubDate>Thu, 20 Oct 2022 09:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=234023">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221020181143_f1ba2faa966ba4525fe1ea87ecf6fb7e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=234023">‘진검승부’ 이세희-김태우, 팽팽한 긴장 속 독대</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EA%B2%80%EC%8A%B9%EB%B6%80">수목드라마 진검승부</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221020181143_f1ba2faa966ba4525fe1ea87ecf6fb7e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['커튼콜' 하지원, 온화한 카리스마 "하블리 매직을 기대해"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=234010</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%20%EC%8B%9C%EC%A6%8C3">박원숙의 같이 삽시다 시즌3</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221018215749_435551f50fca33ed1cb1afe96fa7f8e3_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘법대로 사랑하라’ 이승기-이세영, “분위기, 심상치 않다!”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=233923</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=233923</guid>
-            <pubDate>Tue, 18 Oct 2022 08:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=233923">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221018164759_772329b5fe131a595d4c317a4f9ae6e4.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233923">‘법대로 사랑하라’ 이승기-이세영, “분위기, 심상치 않다!”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B2%95%EB%8C%80%EB%A1%9C%20%EC%82%AC%EB%9E%91%ED%95%98%EB%9D%BC">월화드라마 법대로 사랑하라</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221018164759_772329b5fe131a595d4c317a4f9ae6e4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
