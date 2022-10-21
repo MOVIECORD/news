@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-10-21T20:11:20.022Z</updated>
+    <updated>2022-10-21T21:13:22.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[한상언의 책과 사람들] 영화잡지 ‘은영’의 짧지만 굵은 발자취]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011490458</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011490458"/>
+        <updated>2022-10-21T21:12:39.922Z</updated>
+        <content type="html"><![CDATA[해방 후 서울의 극장가는 혼란 그 자체였다. ‘영미구축’(英米駆逐)을 외치던 작품들은 일제히 간판을 내렸고 일본인 극장주들은 자산을 정리해 조선에서 떠날 준비를 서둘렀다. 극장 주변의 눈치가 빠른 인물들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["경이로운 K콘텐츠... 한일 손잡으면 이제까지 없던 사업 기회 올 것"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000703398</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001515390"/>
         <updated>2022-10-21T10:11:47.910Z</updated>
         <content type="html"><![CDATA[(인터뷰①에 이어) 윤종석 감독이 '자백'을 함께 한 배우 소지섭, 김윤진, 나나, 최광일에게 고마운 마음을 전했다. '자백'에서 소지섭은 유망한 사업가에서 하루아침에 살인 사건 용의자가 된 유민호 역을, 김윤진은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤종석 감독 "'자백', 원작과는 또 다른 새로움 보여주고 싶었다" [엑's 인터뷰①]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001515389</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001515389"/>
-        <updated>2022-10-21T10:11:47.912Z</updated>
-        <content type="html"><![CDATA[윤종석 감독이 '자백'을 통해 보여주고 싶었던 것들을 전하며 영화를 내놓는 남다른 감회를 함께 얘기했다. 윤종석 감독은 21일 오전 서울 종로구 삼청동의 한 카페에서 열린 영화 '자백' 인터뷰에서 다양한 이야기를 전]]></content>
     </entry>
 </feed>
