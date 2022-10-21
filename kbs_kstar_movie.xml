@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Oct 2022 09:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Oct 2022 10:12:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 조은지 배우 “제주도에서 생긴 일” (영화 ‘낮과 달’)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=234271</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=234271</guid>
+            <pubDate>Fri, 21 Oct 2022 10:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=234271">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221021163242_a1061ac74bb6157ed771b64253f6231a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=234271">[인터뷰] 조은지 배우 “제주도에서 생긴 일” (영화 ‘낮과 달’)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221021163242_a1061ac74bb6157ed771b64253f6231a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CGV, 디즈니 콘텐츠 전용관 '디즈니 시네마' 론칭]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=234217</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233215">"단 한 번의 무대!" 넷플릭스 '테이크 원' 제작발표회</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221014075956_0fa2979da36783c38b13bdaca3172b6a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["홍상수-김민희 없이~" 신작 '탑' 부산에서 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=233164</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=233164</guid>
-            <pubDate>Thu, 13 Oct 2022 06:39:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=233164">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221013142758_7b720e5dc389fd2f3befc095cf316f5c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233164">"홍상수-김민희 없이~" 신작 '탑' 부산에서 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221013142758_7b720e5dc389fd2f3befc095cf316f5c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
