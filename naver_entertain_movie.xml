@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-10-21T11:16:46.685Z</updated>
+    <updated>2022-10-21T12:19:37.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사인해주는 이정재]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013522007</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013522007"/>
+        <updated>2022-10-21T12:18:51.115Z</updated>
+        <content type="html"><![CDATA[최윤정 특파원 = 감독 데뷔작 '헌트'로 영국을 찾은 배우 이정재가 19일(현지시간) 제7회 런던아시아영화제 개막식 레드카펫 행사에서 팬들에게 사인을 해주고 있다. 2022.10.21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CGV, 디즈니 콘텐츠 전용관 론칭..마블영화 5편 단독 상영 기획전 마련(공식)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003595111</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003659695"/>
         <updated>2022-10-21T09:19:14.996Z</updated>
         <content type="html"><![CDATA[마지막까지 긴장을 놓을 수 없는 촘촘하고 속도감 넘치는 전개와 배우들의 역대급 연기 앙상블로 개봉 전부터 평단과 관객들의 호평을 이끌어내고 있는 영화 '자백'이 개봉을 맞이해 관객들을 찾아간다. '자백'은 밀실 살인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍상수 감독 '탑', 11월 3일 개봉…김민희 제작실장 참여]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001515372</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001515372"/>
-        <updated>2022-10-21T09:19:15.000Z</updated>
-        <content type="html"><![CDATA[홍상수 감독의 신작 '탑'이 토론토국제영화제와 산세바스티안국제영화제에서 월드프리미어 후 제27회 부산국제영화제를 통해 국내 관객들과 만났다. 제27회 부산국제영화제는 지난 4월 개봉한 홍상수 감독의 27번째 장편영화]]></content>
     </entry>
 </feed>
