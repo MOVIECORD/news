@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-10-22T18:10:31.768Z</updated>
+    <updated>2022-10-22T19:14:09.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김호중 영화 '인생은 뷰티풀', 29일 TV조선 방영]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011491132</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011491132"/>
+        <updated>2022-10-22T19:13:25.477Z</updated>
+        <content type="html"><![CDATA[가수 김호중의 이야기를 담은 영화 '인생은 뷰티풀 : 비타돌체'가 TV조선에서 방영된다. 23일 TV조선에 따르면 해당 영화는 오는 29일 오후 7시50분 편성됐다. 지난달 7일 개봉된 이후 브라운관에서 처음 단독공]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['데시벨' 김래원X이종석→차은우, 긴박감 넘치는 순간..캐릭터예고편 공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003595188</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006409299"/>
         <updated>2022-10-22T00:49:53.307Z</updated>
         <content type="html"><![CDATA[영화 '블랙 아담'이 개봉 후 사흘째 박스오피스 정상을 기록했다. 22일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '블랙 아담'은 지난 21일 하루동안 6만8512명의 관객을 동원해 박스오피스 1위에 올랐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울국제프라이드영화제, 미국 퀴어시네마 특별전]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000050881</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000050881"/>
-        <updated>2022-10-22T00:49:53.308Z</updated>
-        <content type="html"><![CDATA[내달 3일 개막하는 '2022 서울국제프라이드영화제'와 주한미국대사관은 미국 퀴어시네마 특별전을 선보인다. 이번 미국 퀴어시네마 특별전에서는 미국 성소수자 인권 운동의 흐름과 현주소를 읽을 수 있는 다양한 작품이 선]]></content>
     </entry>
 </feed>
