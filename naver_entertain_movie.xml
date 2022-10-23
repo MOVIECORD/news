@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-10-23T05:50:06.403Z</updated>
+    <updated>2022-10-23T06:25:51.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이성민X남주혁 '리멤버', 개봉 3일 앞두고 예매율 1위 등극]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003098801</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003098801"/>
+        <updated>2022-10-23T06:25:10.195Z</updated>
+        <content type="html"><![CDATA[영화 '리멤버'가 개봉 3일 전 전체 예매율 1위를 석권했다. 23일 영화진흥위원회 통합전산망에 따르면 '리멤버'는 예매율 21.2%(오후 3시 기준)를 기록해 1위를 차지했다. 예매 관객 수는 2만 3574명. ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뇌종양 말기 알츠하이머 이성민의 복수..'리멤버' 전체 예매율 1위]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004725189</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=415&amp;aid=0000013605"/>
         <updated>2022-10-23T03:32:31.160Z</updated>
         <content type="html"><![CDATA[‘이태성 엄마’로 알려진 박영혜 감독이 신성훈 감독과 호흡을 맞춰 국제 영화계에서 연일 뜨거운 성과를 내고 있다. 23일 영화 ‘짜장면 고맙습니다’ 제작사 라이트컬처하우스 측은 “22일 해외 국제 영화제 ‘나이트 오]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘블랙아담’ 박스오피스 1위]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000844237</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000844237"/>
-        <updated>2022-10-23T00:51:00.730Z</updated>
-        <content type="html"><![CDATA[영화 ‘블랙아담’(감독 자움 콜렛 세라)이 박스오피스 1위를 차지했다. 23일 영화진흥위원회 영화관입장권 통합전산망 집계결과 ‘블랙아담’은 전날 13만2273명이 관람해 정상을 지켰다. 누적관객수 31만5492명이다]]></content>
     </entry>
 </feed>
