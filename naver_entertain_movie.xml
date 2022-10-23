@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-10-23T15:10:33.541Z</updated>
+    <updated>2022-10-23T16:13:04.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 ‘정순’, 로마영화제 여우주연상 등 수상 [연예뉴스 HOT]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001011951</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001011951"/>
+        <updated>2022-10-23T16:12:20.140Z</updated>
+        <content type="html"><![CDATA[영화 ‘정순’이 제17회 로마 국제영화제에서 심사위원 대상과 여우주연상을 휩쓸었다. 23일(한국시간) 이탈리아 로마의 파르코 델라 뮤지카 오디토리움에서 열린 시상식에서 ‘정순’의 정지혜 감독은 심사위원 대상, 주연]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국 영화 ‘정순’ 로마영화제 2관왕]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003747130</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011491330"/>
         <updated>2022-10-23T03:32:31.128Z</updated>
         <content type="html"><![CDATA[유럽에서 권위를 인정 받는 '로마 국제영화제'에서 한국 영화 '정순'(감독 정지혜)이 작품성을 인정 받았다. 22일(현지시간) '제17회 로마 국제영화제' 홈페이지에 따르면, '정순'은 이날 오후 로마 파르코 델라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 서편제 OST 연주하는 대금연주자 김혜림]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013523181</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013523181"/>
-        <updated>2022-10-23T03:32:31.129Z</updated>
-        <content type="html"><![CDATA[지난 20일(현지시간) 벨기에 제49회 겐트국제영화제에서 열린 '한국 영화음악 공연'에서 대금연주자 김혜림이 영화 서편제 삽입곡 '천년학'을 연주하고 있다. 2022.10.23 [겐트국제영화제 주최 측 제공. 재판매]]></content>
     </entry>
 </feed>
