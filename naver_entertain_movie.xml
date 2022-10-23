@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-10-23T12:20:34.218Z</updated>
+    <updated>2022-10-23T13:37:41.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국 영화 ‘정순’ 로마영화제 2관왕]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003747130</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003747130"/>
+        <updated>2022-10-23T13:36:58.443Z</updated>
+        <content type="html"><![CDATA[심사위원 대상·여우주연상 동영상 유출 사건 모티프로 인물 주체성 회복과정 그려 한국 영화 ‘정순’이 제17회 로마 국제영화제에서 심사위원 대상과 여우주연상을 휩쓸었다. 23일 제17회 로마 국제영화제 홈페이지(사진)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[HI★초점] 짱구, 20대 사랑에 날개 달고 비상]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000703571</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013523181"/>
         <updated>2022-10-23T03:32:31.129Z</updated>
         <content type="html"><![CDATA[지난 20일(현지시간) 벨기에 제49회 겐트국제영화제에서 열린 '한국 영화음악 공연'에서 대금연주자 김혜림이 영화 서편제 삽입곡 '천년학'을 연주하고 있다. 2022.10.23 [겐트국제영화제 주최 측 제공. 재판매]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공연 시작 전 착석하는 관객들]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013523180</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013523180"/>
-        <updated>2022-10-23T03:32:31.129Z</updated>
-        <content type="html"><![CDATA[정빛나 특파원 = 지난 20일(현지시간) 벨기에 제49회 겐트국제영화제가 기획한 '한국 영화음악 공연'을 보기 위해 자리에 앉은 관객들. 2022.10.23]]></content>
     </entry>
 </feed>
