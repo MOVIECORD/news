@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Oct 2022 21:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Oct 2022 22:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['진검승부' 도경수-이세희,  “소도 때려잡겠어”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=234718</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=234718</guid>
+            <pubDate>Mon, 24 Oct 2022 22:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=234718">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221024160252_1f94ab8bd106135bb92fd29d97c1d336.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=234718">'진검승부' 도경수-이세희,  “소도 때려잡겠어”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EA%B2%80%EC%8A%B9%EB%B6%80">수목드라마 진검승부</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221024160252_1f94ab8bd106135bb92fd29d97c1d336.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[개는 훌륭하다] 강형욱 충격 진단 “다섯 마리 반려견이 서로의 감정 쓰레기통이 됐다”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=234778</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%99%8D%EA%B9%80%EB%8F%99%EC%A0%84">홍김동전</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221024001547_67276726add1ad73e7af23a63418da61_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[홍김동전] 핼러윈 파티의 비밀! 갑자기 나타난 시체? 갑자기 체포되는 멤버들]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=234560</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=234560</guid>
-            <pubDate>Sun, 23 Oct 2022 17:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=234560">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221024001132_e4331c3d82606fbcaa6e1d44768a9273_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=234560">[홍김동전] 핼러윈 파티의 비밀! 갑자기 나타난 시체? 갑자기 체포되는 멤버들</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%99%8D%EA%B9%80%EB%8F%99%EC%A0%84">홍김동전</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221024001132_e4331c3d82606fbcaa6e1d44768a9273_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
