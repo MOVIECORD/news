@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-10-24T17:28:31.605Z</updated>
+    <updated>2022-10-24T18:24:07.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장애 벽 허물고, 평화 외치고…마음 따뜻해지는 두 영화제]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000023384</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000023384"/>
+        <updated>2022-10-24T18:23:20.713Z</updated>
+        <content type="html"><![CDATA[마음이 따뜻해지는 영화제 두 개가 동시에 열린다. 영화의전당은 26일부터 29일까지 부산 해운대구 영화의전당에서 장애인과 비장애인 구분 없이 모두가 함께 즐기는 제9회 부산가치봄영화제를 개최한다. 부산가치봄영화제는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[허(HER)스토리-라미란(상)] 늦은 만큼 활짝 핀 꽃…'천생 배우']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000180091</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004726238"/>
         <updated>2022-10-24T12:19:32.619Z</updated>
         <content type="html"><![CDATA[24일 오후 서울 롯데시네마 월드타워에서 영화 '자백'(윤종석 감독) VIP시사회가 열렸다. 배우 나나가 포토타임을 가지고 있다. 2022.10.24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TEN 포토] 송승헌 '소지섭 응원 왔어요']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000577166</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000577166"/>
-        <updated>2022-10-24T12:19:32.653Z</updated>
-        <content type="html"><![CDATA[배우 송승헌이 24일 오후 서울 송파구 롯데시네마 월드타워점에서 열린 영화 '자백' VIP시사회에 참석하고 있다. 윤종섭 감독의 '자백' 은 밀실 살인 사건의 용의자로 지목된 유망한 사업가 ‘유민호'와 그의 무죄를]]></content>
     </entry>
 </feed>
