@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-10-25T20:13:26.418Z</updated>
+    <updated>2022-10-25T21:16:20.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[숨은 보석 발굴…리메이크 봇물]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005350220</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005350220"/>
+        <updated>2022-10-25T21:15:38.338Z</updated>
+        <content type="html"><![CDATA[26일 나란히 개봉한 영화 ‘리멤버’와 ‘자백’은 스릴러 영화라는 장르뿐 아니라 리메이크 영화라는 공통점이 있다. 두 영화는 개봉 하루 전인 25일 예매율 1~2위를 차지하며 흥행 맞대결을 예고하고 있다. ‘리멤버’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세기말 첫사랑에 빠진 소년·소녀의 가슴 설레는 이야기]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001561983</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000844869"/>
         <updated>2022-10-25T09:21:46.284Z</updated>
         <content type="html"><![CDATA[‘재즈 마니아’로 알려진 배우 겸 감독 우디 알렌 영화 속의 재즈음악 ‘WOODY ALLEN illustration by CORBOZ’이 아날로그 LP + 양장본 아트북으로 발매가 됐다고 굿인터내셔널 레이블이 25일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금기를 깨다'…서현우 '세이레', 11월 개봉 확정…티저 포스터 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001516811</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001516811"/>
-        <updated>2022-10-25T09:21:46.291Z</updated>
-        <content type="html"><![CDATA[제26회 부산국제영화제 국제영화비평가연맹상(FIPRESCI)를 수상하며 독창적인 미스터리 심리 스릴러로 주목받은 영화 '세이레'(감독 박강)가 11월 개봉을 확정하고, 강렬한 티저 포스터를 공개했다. '세이레'는 태]]></content>
     </entry>
 </feed>
