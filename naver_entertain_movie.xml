@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-10-25T14:35:07.656Z</updated>
+    <updated>2022-10-25T15:16:09.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[허(HER)스토리-라미란(하)] 대체 불가 배우, 지금은 '라미란 시대']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000180362</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000180362"/>
+        <updated>2022-10-25T15:15:24.273Z</updated>
+        <content type="html"><![CDATA['정직한 후보2'·'컴백홈'·'고속도로 가족'…주연작 3편 연이어 개봉 배우 라미란이 최근 극장가에 자신의 이름을 내건 세 편의 작품을 개봉하며 대한민국 대표 여배우로 우뚝 섰다. 데뷔 이후 긴 조연의 삶을 걷다 여]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[피범벅 속 웃음이 터졌다…영화 '옆집사람']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013530494</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006416061"/>
         <updated>2022-10-25T09:21:46.298Z</updated>
         <content type="html"><![CDATA[영화 '동감'(감독 서은영) 측이 여진구, 조이현의 싱그러운 케미스트리가 돋보이는 코스모폴리탄 11월호 화보를 공개했다. 25일 공개된 여진구, 조이현의 코스모폴리탄 11월호 화보는 '동감'에서 각각 사랑을 꿈꾸는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CJ ENM 스튜디오스, 용필름 등 8개 계열사 합병]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000844861</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000844861"/>
-        <updated>2022-10-25T09:21:46.298Z</updated>
-        <content type="html"><![CDATA[CJ ENM 스튜디오스(STUDIOS)가 계열사로 두고 있던 용필름 등 8개 제작사를 흡수 합병을 한다고 밝혔다. CJ ENM 스튜디오스는 본팩토리, 제이케이필름, 블라드스튜디오, 엠메이커스, 모호필름, 용필름, 만]]></content>
     </entry>
 </feed>
