@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-10-27T20:18:53.169Z</updated>
+    <updated>2022-10-27T21:17:50.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김유정 "국민여동생에서 국민첫사랑? 듣기만 해도 좋아요" [SS인터뷰]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000895101</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000895101"/>
+        <updated>2022-10-27T21:15:21.586Z</updated>
+        <content type="html"><![CDATA[“‘국민 여동생’에서 ‘국민 첫사랑’이라니, 하하, 듣기만 해도 좋다.” 배우 김유정이 ‘국민 여동생’에서 ‘국민 첫사랑’을 넘어 이제는 ‘글로벌 첫사랑’의 아이콘으로 우뚝 설 기세다. 지난 21일 넷플릭스를 통해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배우 이기우, 제 ‘2의 전성기’ 스타트]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000845541</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001012968"/>
         <updated>2022-10-27T11:11:41.084Z</updated>
         <content type="html"><![CDATA[그룹 앨리스 도아가 27일 서울 마포구 서교동 왓챠홀에서 열린 첫 싱글 앨범 ‘Dance On‘ 발매 기념 프레스 쇼케이스에서 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앨리스 소희 ‘마네킹 몸매’ [포토]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001012967</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001012967"/>
-        <updated>2022-10-27T11:11:41.089Z</updated>
-        <content type="html"><![CDATA[그룹 앨리스 소희가 27일 서울 마포구 서교동 왓챠홀에서 열린 첫 싱글 앨범 ‘Dance On‘ 발매 기념 프레스 쇼케이스에서 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>
