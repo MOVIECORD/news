@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Oct 2022 03:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Oct 2022 04:40:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TV조선 '복덩이들고' 송가인X김호중 ‘찰떡 호흡’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=235136</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=235136</guid>
+            <pubDate>Fri, 28 Oct 2022 04:36:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=235136">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221028090223_dce7d497b3956aa050cb1930cf7cdf59.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=235136">TV조선 '복덩이들고' 송가인X김호중 ‘찰떡 호흡’</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221028090223_dce7d497b3956aa050cb1930cf7cdf59.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JTBC '오버 더 톱-맨즈 챔피언십' 오늘 첫 방송... "문세윤의 괴력"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=234804</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233285">신예 윤상현, ‘슈룹’ 무안대군으로 연기 데뷔 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221014141204_3011ddf9133896aae7e34f179f6bd802.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JTBC 히든싱어 "신용재를 찾아라!"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=233255</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=233255</guid>
-            <pubDate>Fri, 14 Oct 2022 08:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=233255">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221014091040_817ba7fa3943603bc86a289fe60a8014.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233255">JTBC 히든싱어 "신용재를 찾아라!" </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221014091040_817ba7fa3943603bc86a289fe60a8014.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
