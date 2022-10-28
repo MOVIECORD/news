@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-10-28T12:21:38.147Z</updated>
+    <updated>2022-10-28T13:51:38.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[합천 수려한영화제 폐막…'같은 속옷을 입는 두 여자' 대상 수상]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011504714</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011504714"/>
+        <updated>2022-10-28T13:49:15.751Z</updated>
+        <content type="html"><![CDATA[경남 합천군은 제3회 합천 수려한영화제에서 '같은 속옷을 입는 두 여자'가 대상을 수상했다고 28일 밝혔다. 대상작은 김세인 감독 장편 영화로 모녀 관계라는 소재를 파격적이고 도발적인 방식으로 표현한 것으로 평가받았]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장민호, 정규 2집 'Eternal' 콘셉트 포토 공개 완료]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005037519</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002370961"/>
         <updated>2022-10-28T09:12:15.016Z</updated>
         <content type="html"><![CDATA[가톨릭영화제 개막작 &lt;신에게 보내는 편지&gt; ▲ 영화 &lt;신에게 보내는 편지&gt;의 한 장면. ⓒ 제9회가톨릭영화제 '왜 사람은 행복해지기 전에 고통스러워야만 하나요.' 전 세계인이 신에게 보낸 편지 중 한국어가 유독 귀에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[합천 수려한영화제 폐막…대상 '같은 속옷을 입는 두 여자']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013538531</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013538531"/>
-        <updated>2022-10-28T09:12:15.019Z</updated>
-        <content type="html"><![CDATA[경남 합천군은 제3회 합천 수려한영화제 대상 작품에 '같은 속옷을 입는 두 여자'가 선정됐다고 28일 밝혔다. 대상작은 김세인 감독 장편 영화로 모녀 관계라는 소재를 파격적이고 도발적인 방식으로 표현했다고 평가받으며]]></content>
     </entry>
 </feed>
