@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-10-29T09:15:22.715Z</updated>
+    <updated>2022-10-29T10:11:54.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베를린서 내달 1∼10일 한국 독립영화제…12편 상영]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013539735</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013539735"/>
+        <updated>2022-10-29T10:09:33.707Z</updated>
+        <content type="html"><![CDATA[이율 특파원 = 베를린 한국독립영화제가 내달 1∼10일 독일 베를린의 예술영화 전용관 바빌론극장에서 열린다. 주독일한국문화원은 신종 코로나바이러스 감염증(코로나19) 팬데믹(세계적 대유행) 이후 3년 만에 베를린 한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김유정 "잘 큰 아역이라는 말보다 믿고 보는 배우라 불리고 싶어" [인터뷰M]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000171115</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000051040"/>
         <updated>2022-10-29T00:34:28.562Z</updated>
         <content type="html"><![CDATA[지난 19일 개봉된 영화 &lt;귀못&gt;이 비하인드 스토리를 전격 공개했다. 은 수살귀가 살고 있다는 흉흉한 소문이 가득한 저수지 근처, 사람이 죽어 나가는 대저택에 숨겨진 보석을 훔치기 위해 간병인으로 들어가게 된 ‘보영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[OTT다방] 스포 없어요, 영화 '자백'과 또다른 스페인 원작 '인비저블 게스트']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004115974</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004115974"/>
-        <updated>2022-10-29T00:34:28.568Z</updated>
-        <content type="html"><![CDATA[직접 맛보고 추천하는 향긋한 작품 한 잔! 세상의 OTT 다 보고 싶은 ‘OTT다방’ 원작이든 리메이크작이든, 영화를 볼 생각이라면 스포일러를 최대한 피하는 것이 좋다. 참고로 이 글에는 스포일러가 포함돼 있지 않으]]></content>
     </entry>
 </feed>
