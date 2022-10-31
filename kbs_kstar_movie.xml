@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Oct 2022 04:47:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Oct 2022 05:29:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['에에올, 오스카 가나요?" 새턴+고담 어워즈 노미네이션]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=235440</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=235440</guid>
+            <pubDate>Mon, 31 Oct 2022 05:25:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=235440">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221031120741_10001d3f3129416a1a27bcb43c78d349_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=235440">'에에올, 오스카 가나요?" 새턴+고담 어워즈 노미네이션</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221031120741_10001d3f3129416a1a27bcb43c78d349_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유재석-이광수-김연경 "일합시다"...  넷플릭스 예능 '코리아 넘버원' 11월 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=235385</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=234784">'마블리' 마동석, K-뷰티 영화 '압꾸정'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221025080103_087977dc3882f7ce6bc210c676e3f2a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["나는 N번째가 되었다" 범죄 추적 스릴러 '유포자들' 11월 개봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=234712</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=234712</guid>
-            <pubDate>Tue, 25 Oct 2022 23:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=234712">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221024155655_a1bbfeb8782dbfa4559a7ea2e2242c5f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=234712">"나는 N번째가 되었다" 범죄 추적 스릴러 '유포자들' 11월 개봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221024155655_a1bbfeb8782dbfa4559a7ea2e2242c5f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
