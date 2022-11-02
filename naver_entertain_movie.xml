@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-11-02T17:27:08.420Z</updated>
+    <updated>2022-11-02T18:11:12.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“아이 맡길 데 없어요”… 워킹맘의 고단한 삶]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=020&amp;aid=0003460031</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=020&amp;aid=0003460031"/>
+        <updated>2022-11-02T18:10:32.330Z</updated>
+        <content type="html"><![CDATA[육아휴직을 하다가 1년 만에 복직한 30대 여성 정아(박하선)는 ‘제자리로 돌아간 느낌’에 안도한다. 그러나 이도 잠시, 복직하자마자 14개월 된 딸을 봐주던 친정엄마가 쓰러진다. ‘돌봄 공백’이라는 최악의 상황을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["반드시 살아남아야"…티아라 박지연 주연 '강남좀비' 30일 개봉]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011514238</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=031&amp;aid=0000707634"/>
         <updated>2022-11-02T08:15:47.552Z</updated>
         <content type="html"><![CDATA['세이레' 메인 예고편이 공개됐다. 지난 1일 영화 '세이레' 측은 11월 국내 개봉을 앞두고 메인 예고편 영상을 공개해 관심을 모으고 있다. 독특한 제목으로 호기심을 자극하는 '세이레'는 7일이 세 번 지날 때 까]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 '줄리&줄리아' 실화 주인공 줄리 파월, 심장마비 돌연사 [N해외연예]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006433482</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006433482"/>
-        <updated>2022-11-02T08:15:47.552Z</updated>
-        <content type="html"><![CDATA[할리우드 스타 메릴 스트립과 에이미 애덤스가 주연하고 고(故) 노라 애프론 감독이 연출한 영화 '줄리&amp;줄리아'(2009) 속 이야기의 실제 주인공인 줄리 파월 작가가 세상을 떠났다. 1일(이하 현지시간) 버라이어티]]></content>
     </entry>
 </feed>
