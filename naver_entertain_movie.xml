@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-11-03T15:12:54.447Z</updated>
+    <updated>2022-11-03T16:16:07.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[내달 개봉 ‘아바타2’ 러닝타임 3시간 10분 [연예뉴스 HOT]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001014271</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001014271"/>
+        <updated>2022-11-03T16:15:22.246Z</updated>
+        <content type="html"><![CDATA[12월 개봉하는 제임스 캐머런의 영화 ‘아바타: 물의 길’(아바타2)의 상영시간이 3시간을 넘긴다. 3일(한국시간) 미국 할리우드리포트, 데드라인 등 영화 전문 매체들은 ‘아바타2’의 러닝타임이 3시간 10분이 될]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[13년 기다린 ‘아바타2’ 러닝타임은 3시간 10분]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0005172078</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004733061"/>
         <updated>2022-11-03T09:11:40.371Z</updated>
         <content type="html"><![CDATA[배우 유아인이 이태원 핼러윈 참사의 원인으로 지목되는 루머에 시달렸던 가운데 분하고 답답한 마음을 담은 심경을 전했다. 글을 보면 뜻하지 않은 루머로 인해 화나는 마음과 동시에 많은 상처를 받았음이 느껴진다. 유아인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[런던아시아 영화제 성료.."완성도 높은 韓영화 놀랍다"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003101598</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003101598"/>
-        <updated>2022-11-03T09:11:40.371Z</updated>
-        <content type="html"><![CDATA[제7회 런던아시아영화제(집행위원장 전혜정)가 한국영화를 비롯한 아시아 영화가 지닌 매력과 힘을 영국 관객에게 전했다. 런던아시아영화제가 지난 10월30일(현지시간) 폐막작인 홍콩의 스타 배우 고천락 주연의 영화 '워]]></content>
     </entry>
 </feed>
