@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-11-04T22:13:14.838Z</updated>
+    <updated>2022-11-04T23:07:23.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘내 친한 친구의 아침식사’ 실화 청춘 먹방 로맨스]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005040464</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005040464"/>
+        <updated>2022-11-04T23:06:44.087Z</updated>
+        <content type="html"><![CDATA[실화의 감동을 더한 청춘 먹방 로맨스가 온다. ‘내 친한 친구의 아침 식사’(감독 두정철)는 2015년 대만 소셜 미디어 플랫폼에 ‘난 1년 동안 그 소년의 아침을 먹었다’라는 제목으로 한 여대생이 올린 실제 남자친]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍수아-최웅, 진짜 커플 같잖아 ‘훈훈’ [화보]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001014421</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005040288"/>
         <updated>2022-11-04T08:12:20.239Z</updated>
         <content type="html"><![CDATA[복수 주제 해외영화 리메이크작 김윤진의 귀환 '자백' 불륜 폭로 협박 받고 밀실살인 용의자로 내몰려 무죄증명 위한 광기어린 싸움 이성민 주연 '리멤버' 뇌종양 말기 알츠하이머 환자 60년 동안 치밀하게 계획한 친일파]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 서울국제프라이드영화제, 이태원 참사 애도 속 조용히 개막]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000289167</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000289167"/>
-        <updated>2022-11-04T08:12:20.239Z</updated>
-        <content type="html"><![CDATA[2022 서울국제프라이드영화제가 이태원 참사를 애도하는 분위기 속에서 조용하게 개막했다. 올해 영화제는 11월 3일부터 9일까지 총 7일간 메가박스 성수에서 개최된다. 총 39개국 133편의 역대 최다 상영작과 풍성]]></content>
     </entry>
 </feed>
