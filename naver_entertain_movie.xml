@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-11-04T19:05:34.678Z</updated>
+    <updated>2022-11-04T20:12:53.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[워너브러더스, 추가 구조조정…영화 부문서 최대 10% 인력감축]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013555365</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013555365"/>
+        <updated>2022-11-04T20:12:06.898Z</updated>
+        <content type="html"><![CDATA[비용 절감 목표액 4조9천억원으로 기존보다 7천억원 더 올려 정윤섭 특파원 = 미국의 미디어·엔터테인먼트 그룹 워너브러더스 디스커버리(이하 워너브러더스)가 영화 부문 인력을 최대 10% 감축할 계획이라고 4일(현지시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OTT 넷플릭스, 월 5500원 ‘광고요금제’ 도입…일부 콘텐츠 누락[종합]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000847191</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0005172540"/>
         <updated>2022-11-04T08:12:20.251Z</updated>
         <content type="html"><![CDATA[마블 영화 '블랙팬서: 와칸다 포에버'(이하 '블랙팬서2')가 썰렁한 극장 분위기를 바꿔놓을까. 개봉 5일 전 이미 6만명 이상이 예매하며 실시간 예매율 1위를 기록 중이다. 4일 오후 3시 영화진흥위원회 영화관입장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인생은 아름다워', 2022 VIFFF 관객상 수상 "아름다운 영화에 감동"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003597296</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003597296"/>
-        <updated>2022-11-04T08:12:20.251Z</updated>
-        <content type="html"><![CDATA['인생은 아름다워'가 2022 VIFFF(Vevey International Funny Film Festival)에서 관객상을 품에 안았다. '인생은 아름다워'는 자신의 생일선물로 첫사랑을 찾아 달라는 황당한 요구를]]></content>
     </entry>
 </feed>
