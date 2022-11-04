@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Nov 2022 08:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Nov 2022 09:05:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[펜싱스타 아들 은우의 돌잔치  "뭘 잡을까"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=235923</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=235923</guid>
+            <pubDate>Fri, 04 Nov 2022 09:04:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=235923">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221104095135_445f2f9dd6f1a8978d63232c2003fb92.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=235923">펜싱스타 아들 은우의 돌잔치  "뭘 잡을까"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221104095135_445f2f9dd6f1a8978d63232c2003fb92.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘편스토랑’ 이찬원 "20년만 첫 가족여행"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=235998</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EA%B2%80%EC%8A%B9%EB%B6%80">수목드라마 진검승부</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221103013822_3d82ea0754c28abed6b53612cb6fd66f_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[진검승부] 잔금을 안 치러서 염전에서 일하게 된 신승환?! 도경수&연준석과 재회하는데…]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=235741</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=235741</guid>
-            <pubDate>Wed, 02 Nov 2022 18:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=235741">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221103013100_5961bf23ae0129ae3d96afa84b30d2d2_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=235741">[진검승부] 잔금을 안 치러서 염전에서 일하게 된 신승환?! 도경수&amp;연준석과 재회하는데…</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EA%B2%80%EC%8A%B9%EB%B6%80">수목드라마 진검승부</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221103013100_5961bf23ae0129ae3d96afa84b30d2d2_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Nov 2022 08:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Nov 2022 09:05:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['백반기행' 배우 이승연과 함께 구미의 힐링 밥상]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=235979</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=235979</guid>
+            <pubDate>Fri, 04 Nov 2022 09:04:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=235979">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221104105034_0890d67e06767243808753017d60eba1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=235979">'백반기행' 배우 이승연과 함께 구미의 힐링 밥상</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221104105034_0890d67e06767243808753017d60eba1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['히든싱어7' 가객 故김현식을 노래한다]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=235934</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233364">‘씨름의 제왕’, 모래판 위 남자들의 리얼 격투 서바이벌... 18일 첫 방송</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221015071959_4de38b150bbf4ed86948c5e7d1991fa8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송중기-이성민-신현빈, JTBC드라마 '재벌집 막내아들'... 복수와 탐욕의 드라마]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=233372</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=233372</guid>
-            <pubDate>Tue, 18 Oct 2022 03:38:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=233372">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221015072920_a00c2f9d8dfc7d10122dbf893abbfdc8.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=233372">송중기-이성민-신현빈, JTBC드라마 '재벌집 막내아들'... 복수와 탐욕의 드라마</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221015072920_a00c2f9d8dfc7d10122dbf893abbfdc8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
