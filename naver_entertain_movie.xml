@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-11-05T16:13:55.256Z</updated>
+    <updated>2022-11-05T17:10:52.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['자백' 오늘 50만 돌파한다…10일 연속 1위]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004734714</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004734714"/>
+        <updated>2022-11-05T17:10:13.945Z</updated>
+        <content type="html"><![CDATA[‘자백’이 50만 돌파를 눈앞에 뒀다. 6일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날(5일) ‘자백’은 7만 3317명을 동원해 일별 박스오피스 1위를 차지했다. 지난달 26일 2위로 출발한 ‘자백’이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘남기남’ ‘씨네박’ 탄생시킨 만화작가 정훈 별세…향년 50]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000048891</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003101873"/>
         <updated>2022-11-05T02:58:11.579Z</updated>
         <content type="html"><![CDATA[영화를 보는 김나연 기자의 사적인 시선. 삶의 밑바닥, 어느 한 군데 뿌리를 내릴 수 없는 곳에서도 꽃이 피기 마련. 아슬아슬한 여정 속 한 줄기의 빛을 선사하는 영화 '고속도로 가족'은 우리에게 '가족'의 의미에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류준열의 스릴러, 여진구의 로맨스, 김래원의 액션 [김미화의 무비토크]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003101868</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003101868"/>
-        <updated>2022-11-05T02:58:11.581Z</updated>
-        <content type="html"><![CDATA[11월 극장가, 다양한 장르의 영화가 관객을 찾는다. 마블 히어로 영화 '블랙팬서 : 와칸다 포에버'가 11월 극장가의 불을 지피는 가운데 다양한 장르에 볼거리 넘치는 한국 영화들이 준비 돼 있다. 먼저 여진구가 로]]></content>
     </entry>
 </feed>
