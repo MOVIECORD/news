@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-11-05T02:58:51.218Z</updated>
+    <updated>2022-11-05T03:50:38.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[티켓 값이 너무해? 11월 방구석 신작3]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005040505</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005040505"/>
+        <updated>2022-11-05T03:49:58.468Z</updated>
+        <content type="html"><![CDATA[‘자백’ ‘리멤버’ ‘블랙아담’ ‘고속도로 가족’ 등 신작 러쉬에도 극장가가 한산한 가운데 티켓 값이 부담스러운 방구석 관객들을 위한 다채로운 넷플릭스 신작들이 쏟아진다. 어드벤처, 드라마, 미스터리, 애니메이션까지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[故채드윅 보스만은 '블랙팬서2' 대본을 읽지 않았다 [★할리우드]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003101877</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000649556"/>
         <updated>2022-11-04T09:05:01.437Z</updated>
         <content type="html"><![CDATA[무려 21분이 늘었다. 때문에 전혀 새로운 영화일 수도 있다. 올 여름 최고 흥행작이었던 ‘한산:용의 출현’이 무려 21분 늘어난 감독판으로 11월 내 다시 관객들과 만난다. 이와 관련 ‘한산:용의 출현’은 감독판을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박성훈X김소은 '유포자들' 11월 23일 개봉 확정]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001233231</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001233231"/>
-        <updated>2022-11-04T09:05:01.438Z</updated>
-        <content type="html"><![CDATA[박성훈, 김소은, 송진우가 출연하는 ‘유포자들’이 오는 11월 23일 개봉일을 확정 짓고 메인 포스터를 공개했다. ‘유포자들’은 핸드폰으로부터 자유로울 수 없는 현대사회, 사람들이 무심코 촬영한 영상들이 어떻게 인간]]></content>
     </entry>
 </feed>
