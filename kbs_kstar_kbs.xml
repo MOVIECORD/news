@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Nov 2022 03:50:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Nov 2022 04:22:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김소은, 앙숙 문예원 결혼식장 등장 (삼남매가 용감하게)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=236067</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=236067</guid>
+            <pubDate>Sat, 05 Nov 2022 04:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=236067">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221105094939_7fb13d64f1f7a6b818491efb4d305387.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=236067">김소은, 앙숙 문예원 결혼식장 등장 (삼남매가 용감하게)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%82%BC%EB%82%A8%EB%A7%A4%EA%B0%80%20%EC%9A%A9%EA%B0%90%ED%95%98%EA%B2%8C">주말드라마 삼남매가 용감하게</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221105094939_7fb13d64f1f7a6b818491efb4d305387.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[르세라핌 ‘ANTIFRAGILE’, ‘뮤직뱅크’ 1위]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=236062</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EA%B2%80%EC%8A%B9%EB%B6%80">수목드라마 진검승부</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221104013721_4dbce111b02fc77531eac549c8040781.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[진검승부] 과거 김창완과 악연이 이어진 김상호의 이야기! 옛날 그들의 악연이 이어진 이유]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=235858</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=235858</guid>
-            <pubDate>Thu, 03 Nov 2022 19:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=235858">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221104013346_a182a30344f0c2e1e79662b3b9445b27.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=235858">[진검승부] 과거 김창완과 악연이 이어진 김상호의 이야기! 옛날 그들의 악연이 이어진 이유</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EA%B2%80%EC%8A%B9%EB%B6%80">수목드라마 진검승부</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221104013346_a182a30344f0c2e1e79662b3b9445b27.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
