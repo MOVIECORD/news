@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-11-06T20:10:56.044Z</updated>
+    <updated>2022-11-06T21:08:45.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 '데시벨", "액션과 함께 소리에 주목하라!"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000051206</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000051206"/>
+        <updated>2022-11-06T21:08:04.383Z</updated>
+        <content type="html"><![CDATA[‘소음 반응 폭탄’이라는 소재를 통해 탄생한 '사운드 테러 액션' 영화 &lt;데시벨&gt;이 영화에 대한 흥미를 더욱 고조시키는 핵심 키워드를 공개했다. 영화 &lt;데시벨&gt;은 소음이 커지는 순간 폭발하는 특수 폭탄으로 도심을 점]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘헤어질 결심’ 박찬욱, LA미술관 아트·필름 갈라 수상]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005040828</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005040582"/>
         <updated>2022-11-06T00:40:57.682Z</updated>
         <content type="html"><![CDATA[오는 9일 개봉을 앞둔 ‘블랙 팬서: 와칸다 포에버’가 예매율 1위에 오르며 관객들과 만날 채비를 마쳤다. 영화의 상징과도 같았던, 고(故) 채드윅 보스만의 부재에도 마블의 힘은 건재할지, 침체된 극장가에 숨을 불어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[스타★톡톡] 청춘스타 김유정, “더 잘 클게요”]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000628052</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000628052"/>
-        <updated>2022-11-06T00:40:57.693Z</updated>
-        <content type="html"><![CDATA[“공중전화는 써봤는데 삐삐는 처음 봤어요.” 1999년생에겐 생소할 수 있는 것들이 수두룩하다. 영화 ‘20세기 소녀’가 그랬다. 그런데 배우 김유정은 이질감없이 작품을 소화해냈다. 그는 어떻게 90년대 소녀 나보라]]></content>
     </entry>
 </feed>
