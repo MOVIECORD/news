@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-11-06T09:12:14.819Z</updated>
+    <updated>2022-11-06T10:06:33.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['헤어질 결심' 박찬욱, LA미술관 아트+필름 갈라 수상]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011520214</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011520214"/>
+        <updated>2022-11-06T10:05:51.459Z</updated>
+        <content type="html"><![CDATA[영화 '헤어질 결심'의 박찬욱 감독이 올해 미국 로스앤젤레스 카운티 미술관(LACMA)의 아트 필름 갈라(Art+Film Gala)를 수상했다. 5일(현지시간) AP통신 등 외신에 따르면, 이날 LACMA에서 열린]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['90년대 팝스타' 故아론 카터, 34세 나이로 사망 '충격'[종합]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003102069</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006439412"/>
         <updated>2022-11-06T00:40:57.697Z</updated>
         <content type="html"><![CDATA[영화 '자백'이 10일 연속 박스오피스 1위에 오르며 40만을 돌파했다. 6일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 '자백'은 지난 5일 7만3347명의 관객을 동원하며 박스오피스 1위를 기록했다. 누]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현영, 프랑스 영화제 여우조연상! '짜장면 고맙습니다' 쾌거[공식]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003102001</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003102001"/>
-        <updated>2022-11-06T00:40:57.723Z</updated>
-        <content type="html"><![CDATA[방송인 현영이 해외 영화제에서 여우조연상을 수상했다. 6일 제작사 라이트픽처스에 따르면 현영은 프랑스 영화제 '제3회 루이브 부누엘 메모리얼 어워즈'에서 영화 '짜장면 고맙습니다' 로 단편영화 부문 여우조연상을 수상]]></content>
     </entry>
 </feed>
