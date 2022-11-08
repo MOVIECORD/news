@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Nov 2022 23:07:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Nov 2022 00:35:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘진검승부’ 도경수, 최고의 순간들]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=236403</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=236403</guid>
+            <pubDate>Tue, 08 Nov 2022 00:34:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=236403">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221108083333_5a73324577eb6b52659bd2349b250d31_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=236403">‘진검승부’ 도경수, 최고의 순간들</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EA%B2%80%EC%8A%B9%EB%B6%80">수목드라마 진검승부</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221108083333_5a73324577eb6b52659bd2349b250d31_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[개는 훌륭하다] 새로운 반려견 입양 계획 밝힌 보호자에 긴급 회의 소집하는 강형욱]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=236382</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%99%8D%EA%B9%80%EB%8F%99%EC%A0%84">홍김동전</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221106231857_d4961166fe9f3e85971996172ac78d0e_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[삼남매가 용감하게] “청혼할 거예요” 이하나를 진심으로 생각하는 임주환]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=236224</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=236224</guid>
-            <pubDate>Mon, 07 Nov 2022 07:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=236224">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221106230529_7d1cce202ee715e324bd645ca206d911_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=236224">[삼남매가 용감하게] “청혼할 거예요” 이하나를 진심으로 생각하는 임주환</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%82%BC%EB%82%A8%EB%A7%A4%EA%B0%80%20%EC%9A%A9%EA%B0%90%ED%95%98%EA%B2%8C">주말드라마 삼남매가 용감하게</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221106230529_7d1cce202ee715e324bd645ca206d911_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
