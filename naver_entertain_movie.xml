@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-11-08T16:10:41.121Z</updated>
+    <updated>2022-11-08T17:19:29.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화려해진 비주얼·강렬한 액션…'블랙 팬서'가 돌아왔다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013562800</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013562800"/>
+        <updated>2022-11-08T17:18:44.704Z</updated>
+        <content type="html"><![CDATA[9일 '블랙팬서: 와칸다 포에버' 개봉…채드윅 보즈먼 떠난 자리 '새 히어로' 탄생 전작보다 더 화려해지고, 액션은 강렬해졌다. 지상 최강국 '와칸다'와 수중 왕국 '탈로칸'은 신비로운 비주얼로 그려지며 관객들의 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이정재, ‘스타워즈:애콜라이트’ 출연 확정 [연예뉴스 HOT]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001015250</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011525277"/>
         <updated>2022-11-08T11:08:25.910Z</updated>
         <content type="html"><![CDATA[CJ CGV가 올해 3분기 연결 기준 매출 4051억원, 영업이익 77억원을 기록했다고 8일 공시했다. 코로나19 이후 처음으로 흑자를 기록했다. 국내와 베트남, 인도네시아 등 동남아시아 지역에서 로컬 라인업을 기반]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['동감' 배인혁, "첫 영화..진구 형 덕분에 촬영 잘 마쳤어" [O! STAR]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004736128</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004736128"/>
-        <updated>2022-11-08T10:13:01.650Z</updated>
-        <content type="html"><![CDATA[8일 오후 서울 용산구 CGV용산아이파크몰에서 영화 '동감' 언론배급시사회가 열렸다. 이 자리에는 서은영 감독과 배우 여진구, 조이현, 김혜윤, 나인우, 배인혁이 참석했다. 배우 베인혁이 취재진의 질문에 답하고 있다]]></content>
     </entry>
 </feed>
