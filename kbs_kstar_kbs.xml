@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Nov 2022 09:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Nov 2022 10:10:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['진검승부' 파이널,  도경수+하준 사생결단 격투]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=236717</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=236717</guid>
+            <pubDate>Thu, 10 Nov 2022 10:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=236717">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221110163840_853a4b0f3607cbd2f77933b34b47033e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=236717">'진검승부' 파이널,  도경수+하준 사생결단 격투</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EA%B2%80%EC%8A%B9%EB%B6%80">수목드라마 진검승부</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221110163840_853a4b0f3607cbd2f77933b34b47033e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장] KBS 새 수목드라마 ‘어쩌다 마주친, 그대’ ... "이상하고 아름다운 시간 여행기"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=236621</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%20%EC%8B%9C%EC%A6%8C3">박원숙의 같이 삽시다 시즌3</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221108225846_296a6037f06426a8f9210bca97808610_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[박원숙의 같이 삽시다 시즌3] 대화 중 천진난만 뛰어다니는 안소영 뒷담화 하는 안문숙 “저 언니 맥 끊는 건 일등이야”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=236455</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=236455</guid>
-            <pubDate>Tue, 08 Nov 2022 14:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=236455">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221108225647_ed16cb6db2053fdbb4430d831fac992f_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=236455">[박원숙의 같이 삽시다 시즌3] 대화 중 천진난만 뛰어다니는 안소영 뒷담화 하는 안문숙 “저 언니 맥 끊는 건 일등이야”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%20%EC%8B%9C%EC%A6%8C3">박원숙의 같이 삽시다 시즌3</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221108225647_ed16cb6db2053fdbb4430d831fac992f_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
