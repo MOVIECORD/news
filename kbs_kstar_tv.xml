@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Nov 2022 08:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Nov 2022 09:07:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['히든싱어7' 왕중왕전 시작 "경악할 모창 실력자들!"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=236819</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=236819</guid>
+            <pubDate>Fri, 11 Nov 2022 09:05:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=236819">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221111081023_cc3b808f61993804847e060eb5813575_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=236819">'히든싱어7' 왕중왕전 시작 "경악할 모창 실력자들!"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221111081023_cc3b808f61993804847e060eb5813575_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최수영, 톱스타의 완벽변신..  4부작 "팬레터를 보내주세요"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=236415</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=235519">도상우, tvN '환혼: 빛과 그림자' 캐스팅  야망의 서윤오 역</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221101075329_001d5ef2030b65df2f4225b7b8908daf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오마이걸 효정, tvN ‘인생에 한 번쯤, 킬리만자로’...  "막내대장, 긍정의 힘!"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=235526</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=235526</guid>
-            <pubDate>Mon, 07 Nov 2022 02:53:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=235526">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221101075749_f8953a27222e74cc21128fd0f52c2fc6.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=235526">오마이걸 효정, tvN ‘인생에 한 번쯤, 킬리만자로’...  "막내대장, 긍정의 힘!"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221101075749_f8953a27222e74cc21128fd0f52c2fc6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
