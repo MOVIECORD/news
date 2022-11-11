@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Nov 2022 22:06:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Nov 2022 23:10:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘불후의 명곡’ 로맨틱 홀리데이 특집 "이제껏 본 적 없는 라이브 컬래버레이션"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=236824</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=236824</guid>
+            <pubDate>Fri, 11 Nov 2022 23:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=236824">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221111081635_a4c500b91ea7f574be0a52bdbee26af3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=236824">‘불후의 명곡’ 로맨틱 홀리데이 특집 "이제껏 본 적 없는 라이브 컬래버레이션"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221111081635_a4c500b91ea7f574be0a52bdbee26af3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[슈퍼맨이 돌아왔다] 소똥 치우기에 진심인 찐건나블리! 삽이 부러져 강제 종료★]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=236914</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EA%B2%80%EC%8A%B9%EB%B6%80">수목드라마 진검승부</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221111015506_edbb3fc4b13b1829ffa8351f1ff02a5a_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[진검승부] “제 탓으로 돌리고 있는 것 아닙니까!” 증인으로 나선 김태우를 되레 몰아세우는 김창완!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=236759</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=236759</guid>
-            <pubDate>Thu, 10 Nov 2022 18:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=236759">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221111015010_6b37935b214897cb9f0e59f9e4a0fb5c_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=236759">[진검승부] “제 탓으로 돌리고 있는 것 아닙니까!” 증인으로 나선 김태우를 되레 몰아세우는 김창완! </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EA%B2%80%EC%8A%B9%EB%B6%80">수목드라마 진검승부</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221111015010_6b37935b214897cb9f0e59f9e4a0fb5c_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
