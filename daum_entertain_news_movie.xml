@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-11-12T04:22:32.575Z</updated>
+    <updated>2022-11-12T05:11:29.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘이태원 참사’가 남겨놓은 신발]]></title>
+        <id>https://v.daum.net/v/20221112132603576</id>
+        <link href="https://v.daum.net/v/20221112132603576"/>
+        <updated>2022-11-12T05:11:28.870Z</updated>
+        <content type="html"><![CDATA[[곽명동의 씨네톡] 신화에서 신발은 신분과 정체성의 표식이다. 이올코스 나라의 왕은 늙었고, 동생 펠리아스는 젊었다. 동생이 형을 쫓아내고 왕위에 오르자, 신하들은 5살 밖에 안된 왕세자 이아손을 펠리온 산으로 보냈다. 그곳에서 반인반마 켄타우로스인 케이론에게 무술을 연마한 이아손은 장성해 이올코스로 돌아오는 길에 강에서 신발 한짝을 잃는다. 그 나라에선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1위 오른 ‘블랙 팬서2’ 첫 주말 분수령]]></title>
         <id>https://v.daum.net/v/20221112132207548</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221112080045426"/>
         <updated>2022-11-11T23:10:18.786Z</updated>
         <content type="html"><![CDATA[[아시아경제 이이슬 기자] 사랑 앞에 우리는 모두 작아진다. 그 사람을 떠올리면 세상은 천국이 되고, 툭 던진 한마디 말에 이내 무너지기도 한다. 20대의 사랑은 어렵다. 아픔의 연속이다. 들뜬 열정은 이성을 마비시킨다. 표현할 방법을 모르니 감정이 갈대처럼 춤을 춘다. 그래서 더 아련한 청춘의 사랑이다. 배우 여진구(25)는 9살 때 영화 '새드무비'(]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데시벨' 김래원, 나무 아닌 숲을 볼 줄 아는 배우]]></title>
-        <id>https://v.daum.net/v/20221112080036423</id>
-        <link href="https://v.daum.net/v/20221112080036423"/>
-        <updated>2022-11-11T23:10:18.788Z</updated>
-        <content type="html"><![CDATA[[서울경제] 하나부터 열까지 신경 쓰지 않은 것이 없다. 손동작 하나만으로 캐릭터의 감정이 어떻게 표현될지 고민했다. 여기에 자신을 돋보이게 하기 보다 조화로운 그림을 먼저 생각했다. 데뷔 26년 차 배우 김래원의 모든 열정이 영화 ‘데시벨’에 담겨 있다. ‘데시벨’(감독 황인호)은 소음이 커지는 순간 폭발하는 특수 폭탄으로 도심을 점거하려는 폭탄 설계자]]></content>
     </entry>
 </feed>
