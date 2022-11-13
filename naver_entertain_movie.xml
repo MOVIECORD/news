@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-11-13T11:05:54.892Z</updated>
+    <updated>2022-11-13T12:13:54.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['블랙팬서:와칸다 포에버' 100만 돌파, "이보다 더 완벽할 수 없다" 호평 릴레이]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003667427</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003667427"/>
+        <updated>2022-11-13T12:13:09.933Z</updated>
+        <content type="html"><![CDATA['블랙 팬서: 와칸다 포에버'가 식지 않은 흥행 열기로 개봉 5일째인 오늘(13일) 100만 관객을 돌파했다. 영화관입장권 통합전산망에 따르면 '블랙 팬서: 와칸다 포에버'가 11월 13일(일) 오후 4시 5분 기준]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['블랙 팬서2', 개봉 5일째 누적관객 100만명 돌파]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011533651</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000051367"/>
         <updated>2022-11-13T00:33:58.091Z</updated>
         <content type="html"><![CDATA[이선빈, 한선화, 정은지 그리고 최시원이 ‘위대한 술츠비’로 변신한다. 내달 9일(금) 첫 공개되는 &lt;술꾼도시여자들2&gt;는 티저를 통해 안소희(이선빈 분), 한지연(한선화 분), 강지구(정은지 분)의 업그레이드된 흥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[D:쇼트 시네마] 수상하고 다정한 '형이 돌아왔다']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002657301</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002657301"/>
-        <updated>2022-11-13T00:33:58.093Z</updated>
-        <content type="html"><![CDATA[OTT를 통해 상업영화 뿐 아니라 독립, 단편작들을 과거보다 수월하게 만날 수 있는 무대가 생겼습니다. 그 중 재기 발랄한 아이디어부터 사회를 관통하는 날카로운 메시지까지 짧고 굵게 존재감을 발휘하는 50분 이하의]]></content>
     </entry>
 </feed>
