@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-11-13T10:08:44.059Z</updated>
+    <updated>2022-11-13T11:05:54.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['블랙 팬서2', 개봉 5일째 누적관객 100만명 돌파]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011533651</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011533651"/>
+        <updated>2022-11-13T11:05:12.304Z</updated>
+        <content type="html"><![CDATA[마블 스튜디오 신작 '블랙 팬서: 와칸다 포에버'(블랙 팬서 2)가 개봉 5일 만에 누적 관객수 100만명을 넘겼다. 13일 영화관입장권 통합전산망과 배급사 월트디즈니컴퍼니 코리아에 따르면, 지난 9일 개봉한 '블랙]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 ‘블랙 팬서2’ 개봉 5일째 100만 관객 돌파]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005366266</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002657301"/>
         <updated>2022-11-13T00:33:58.093Z</updated>
         <content type="html"><![CDATA[OTT를 통해 상업영화 뿐 아니라 독립, 단편작들을 과거보다 수월하게 만날 수 있는 무대가 생겼습니다. 그 중 재기 발랄한 아이디어부터 사회를 관통하는 날카로운 메시지까지 짧고 굵게 존재감을 발휘하는 50분 이하의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['동감'-'데시벨' [강추비추]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003104005</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003104005"/>
-        <updated>2022-11-13T00:33:58.094Z</updated>
-        <content type="html"><![CDATA[11월, 극장가의 비수기가 계속되고 있는 가운데 2018년 마블의 가장 혁신적인 히어로의 탄생을 알린 '블랙 팬서' 시리즈의 새로운 이야기, '블랙 팬서: 와칸다 포에버'가 개봉했다. 18만 4057명을 동원해 박스]]></content>
     </entry>
 </feed>
