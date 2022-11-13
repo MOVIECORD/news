@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-11-13T09:09:25.560Z</updated>
+    <updated>2022-11-13T10:08:44.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 ‘블랙 팬서2’ 개봉 5일째 100만 관객 돌파]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005366266</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005366266"/>
+        <updated>2022-11-13T10:07:56.865Z</updated>
+        <content type="html"><![CDATA[마블 스튜디오의 영화 ‘블랙 팬서: 와칸다 포에버’ 포스터(사진=월트디즈니컴퍼니 코리아). 마블 스튜디오의 영화 ‘블랙 팬서: 와칸다 포에버’(이하 ‘블랙 팬서 2’)가 개봉 5일째인 13일 현재 누적 관객 수 10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3억 넘게 받았던 '터미널' 실제 주인공, 파리 공항에서 심장마비로 사망]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000899553</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003104005"/>
         <updated>2022-11-13T00:33:58.094Z</updated>
         <content type="html"><![CDATA[11월, 극장가의 비수기가 계속되고 있는 가운데 2018년 마블의 가장 혁신적인 히어로의 탄생을 알린 '블랙 팬서' 시리즈의 새로운 이야기, '블랙 팬서: 와칸다 포에버'가 개봉했다. 18만 4057명을 동원해 박스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['블랙팬서2', 개봉 첫 土 33만명 동원..마블 파워 UP [★무비차트]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003104004</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003104004"/>
-        <updated>2022-11-13T00:33:58.096Z</updated>
-        <content type="html"><![CDATA[영화 '블랙팬서 : 와칸다 포에버'가 개봉 첫 토요일 33만 명의 관객을 모으며 나흘 연속 박스오피스 1위를 지켰다. 13일 영화진흥위원회 통합전산망에 따르면 '블랙 팬서: 와칸다 포에버'는 지난 12일 33만 90]]></content>
     </entry>
 </feed>
