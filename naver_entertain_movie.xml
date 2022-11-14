@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-11-14T12:19:41.872Z</updated>
+    <updated>2022-11-14T13:46:28.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부산국제영화제(BIFF), 온라인 영화 교육 콘텐츠 ‘민규동과 함께하는 시네버스’ 선보여]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000849384</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000849384"/>
+        <updated>2022-11-14T13:45:46.813Z</updated>
+        <content type="html"><![CDATA[부산국제영화제(BIFF)가 온라인 영화 교육 콘텐츠 ‘민규동과 함께하는 시네버스’를 선보인다. 부산국제영화제와 리앤웍스는 14일 티처빌 원격교육연수원을 통해 ‘민규동과 함께하는 시네버스’를 정식 오픈했다. 콘텐츠는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화·예술창작 펀딩 무비다, ‘APT’로 충무로에 도전장]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000849377</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001016111"/>
         <updated>2022-11-14T11:09:17.298Z</updated>
         <content type="html"><![CDATA[14일 서울 CGV용산에서 열린 영화 ‘유포자들’ 시사회에서 배우 김소은이 포토타임을 갖고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송진우-김소은-박성훈, 다정한 포즈 [포토]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001016110</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001016110"/>
-        <updated>2022-11-14T11:09:17.313Z</updated>
-        <content type="html"><![CDATA[14일 서울 CGV용산에서 열린 영화 ‘유포자들’ 시사회에서 배우 송진우, 김소은, 박성훈이 포토타임을 갖고 있다.]]></content>
     </entry>
 </feed>
