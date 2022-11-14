@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-11-14T20:10:39.849Z</updated>
+    <updated>2022-11-14T21:09:59.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['왕의 남자' 잇는 정통사극과 쫄깃한 스릴러의 향연, '올빼미'의 매력 3가지 [SS무비]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000899955</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000899955"/>
+        <updated>2022-11-14T21:09:14.830Z</updated>
+        <content type="html"><![CDATA[아름답고 우아하고 서늘하다. 사건은 거침없이 결말을 향해 달려간다. 꽉 조인 긴장의 끈은 관객의 눈을 좀처럼 화면에서 떼지 못하게 한다. 개성강한 마스크가 돋보이는 두 주연 배우의 열연, 그리고 이를 뒷받침하는 여타]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“데뷔 25년만에 첫 왕… 관객들 안 웃어 안심”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=020&amp;aid=0003462301</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001016114"/>
         <updated>2022-11-14T11:09:17.292Z</updated>
         <content type="html"><![CDATA[14일 서울 CGV용산에서 열린 영화 ‘유포자들’ 시사회에서 배우 임나영이 취재진의 질문을 듣고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김소은 ‘너무 웃겨요’ [포토]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001016113</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001016113"/>
-        <updated>2022-11-14T11:09:17.293Z</updated>
-        <content type="html"><![CDATA[14일 서울 CGV용산에서 열린 영화 ‘유포자들’ 시사회에서 배우 김소은이 웃고 있다.]]></content>
     </entry>
 </feed>
