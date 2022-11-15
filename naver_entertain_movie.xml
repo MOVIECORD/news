@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-11-15T12:13:25.877Z</updated>
+    <updated>2022-11-15T13:33:52.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여진구X조이현 ‘동감’, 개봉작 예매율 1위 등극[M+박스오피스]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001703096</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001703096"/>
+        <updated>2022-11-15T13:33:07.860Z</updated>
+        <content type="html"><![CDATA[‘동감’이 예매율 1위를 차지했다. 영화 ‘동감’(감독 서은영)은 1999년의 ‘용(여진구 분)’과 2022년의 ‘무늬(조이현 분)’가 우연히 오래된 무전기를 통해 소통하면서 벌어지는 이야기를 그린 청춘 로맨스 영화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애니축제서 대통령 풍자작품 전시 제외…"부대행사일 뿐"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013577875</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004740459"/>
         <updated>2022-11-15T09:07:15.307Z</updated>
         <content type="html"><![CDATA[주맹증을 앓는 가상의 침술사를 중심으로 놓되 역사적 사실로 빼곡히 채워넣은 인조의 이야기 ‘올빼미’에 대해 안태진 감독은 “현실감이 많이 느껴지는 스릴러를 만들고 싶었다. 판타지 속 인물들이 아니라 역사 속 실존 인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유지태와 함께 독립영화 보기' 18번째 상영회…이번엔 '동감']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001524870</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001524870"/>
-        <updated>2022-11-15T08:12:10.451Z</updated>
-        <content type="html"><![CDATA[배우 유지태가 ‘유지태와 함께 독립영화 보기’ 18번째 상영회를 연다. ‘유지태와 함께 독립영화 보기’ 응원 상영회는 2012년부터 시작되어 18번째를 맞이했으며, 매년 상영회를 통해 작품성 높은 독립영화들을 대중에]]></content>
     </entry>
 </feed>
