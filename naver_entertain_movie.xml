@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-11-16T15:08:25.300Z</updated>
+    <updated>2022-11-16T16:20:48.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정우성, 연출작 ‘보호자’로 국제영화제 공로상 [연예뉴스 HOT]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001016617</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001016617"/>
+        <updated>2022-11-16T16:20:08.182Z</updated>
+        <content type="html"><![CDATA[배우 정우성이 첫 장편영화 연출작 ‘보호자’로 국제영화제에서 공로상을 받았다. 16일 배급사 에이스메이커무비웍스에 따르면 정우성은 13일 제42회 하와이 국제영화제에서 ‘할레쿨라니 커리어 공로상’을 받았다. ‘할레쿨]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김대건 신부 영화 '탄생' 주역들 만난 교황 "천만 관객 기원"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013580739</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004741209"/>
         <updated>2022-11-16T10:10:28.929Z</updated>
         <content type="html"><![CDATA[16일 오후 서울 CGV 용산아이파크몰에서 영화 ‘우수’ 언론시사회가 열렸다. 배우 김지성이 미소를 짓고 있다. 2022.11.16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["천만고지 밟자" "관객 성원 보답"…‘확장판’ 잇단 개봉]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004123075</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004123075"/>
-        <updated>2022-11-16T10:10:28.929Z</updated>
-        <content type="html"><![CDATA[이미 개봉한 영화를 재편집하거나 추가 장면을 넣은 확장판 영화 두 편이 관객들의 시선을 끌고 있다. ‘한산: 용의 출현’은 약 21분을 추가한 ‘한산 리덕스’를 통해 1000만 관객 고지를 밟을지 관심을 모은다. 외]]></content>
     </entry>
 </feed>
