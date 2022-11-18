@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 20:07:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 21:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[슈퍼맨이 돌아왔다] 찐건나파블리, 가을맞이 검단산 등산에 도전!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=238044</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=238044</guid>
+            <pubDate>Fri, 18 Nov 2022 21:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238044">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221119061112_ca300cda26a2dc437ed4e3eb51fca827_1.PNG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=238044">[슈퍼맨이 돌아왔다] 찐건나파블리, 가을맞이 검단산 등산에 도전!</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221119061112_ca300cda26a2dc437ed4e3eb51fca827_1.PNG" length="0" type="image/PNG"/>
+        </item>
         <item>
             <title><![CDATA[[슈퍼맨이 돌아왔다] 파이터 아빠 김동현네, 대구에서 운명의 막창 메이트 결성!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=238040</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=KBS%20%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8A%A4%ED%8E%98%EC%85%9C%202022">KBS 드라마 스페셜 2022</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118022951_a35f5849d71905d2d65cd4fba2175685_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[드라마 스페셜-방종] 흑도의 이름으로 활동하면 사람이 죽는다? 무언가 이상함을 깨달은 김기해]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=237825</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=237825</guid>
-            <pubDate>Fri, 18 Nov 2022 02:56:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=237825">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118022540_23ffff07833cdd3ccad231c9f44bddf8_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=237825">[드라마 스페셜-방종] 흑도의 이름으로 활동하면 사람이 죽는다? 무언가 이상함을 깨달은 김기해</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=KBS%20%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8A%A4%ED%8E%98%EC%85%9C%202022">KBS 드라마 스페셜 2022</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221118022540_23ffff07833cdd3ccad231c9f44bddf8_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-11-18T20:07:34.913Z</updated>
+    <updated>2022-11-18T21:13:57.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주말의 OTT]내 맘 알아주던 그 남자가 살인마?]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011545722</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011545722"/>
+        <updated>2022-11-18T21:13:05.876Z</updated>
+        <content type="html"><![CDATA[11월 3주차 넷플릭스·애플TV+·디즈니+·왓챠 신작을 소개한다. 썸바디(넷플릭스) 스릴러 드라마 '썸바디'는 소셜 커넥팅 앱 썸바디를 매개로 살인 사건이 벌어지면서 개발자 '김섬'과 주변 친구들이 의문의 인물 '성]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[POP초점]'올빼미' 무대인사 고가 금액 거래 시도 "적발되면 예고 없이 취소"(전문)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003600040</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000051502"/>
         <updated>2022-11-18T09:08:46.086Z</updated>
         <content type="html"><![CDATA[정지우 감독의 신작 &lt;썸바디&gt;가 오늘(18일) 넷플릭스(Netflix)를 통해 공개된다. 소셜 커넥팅 앱 ‘썸바디’를 매개로 살인사건이 벌어지면서 개발자 섬과 그녀 주변의 친구들이 의문의 인물 윤오와 얽히며 벌어지는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김혜수×유연석 5년 연속 청룡영화상 MC 확정]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003708671</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003708671"/>
-        <updated>2022-11-18T09:08:46.088Z</updated>
-        <content type="html"><![CDATA[배우 김혜수와 유연석이 제43회 청룡영화상 시상식 MC로 다시 한번 호흡을 맞춘다. 1993년 제14회 청룡영화상 시상식부터 진행을 맡아 온 김혜수는 올해로 29회째 청룡과 함께한다. 안정적인 진행 실력과 한국 영화]]></content>
     </entry>
 </feed>
