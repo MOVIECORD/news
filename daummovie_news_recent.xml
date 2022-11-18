@@ -1,8 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-11-18T22:07:42.798Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 18 Nov 2022 23:13:18 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[새영화] 통영에서의 하루·픽션들]]></title>
+            <link>https://v.daum.net/v/20221119080013753</link>
+            <guid>https://v.daum.net/v/20221119080013753</guid>
+            <pubDate>Fri, 18 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 김정진 기자 = ▲ 통영에서의 하루 = 희연(유인영 분)은 인생의 내리막길에 접어들었다는 기분을 떨치지 못한다. 잘 나가던 뮤지컬 기획팀장이었던 그가 내놓은 신작 첫 공연은 단 7석밖에 팔리지 않고, 회사 대표는 "이참에 쉬다 오라"며 에둘러 해고를 통보한다. 그런 희연에게 과거 함께 일했던 성선(이미도)으로부터 전화가 걸려온다. 입사 반]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F19%2Fyonhap%2F20221119080013495iqsk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[박성훈 "'더 글로리' 송혜교→이도현, 좋은 인연 만나 행복"[인터뷰②]]]></title>
+            <link>https://v.daum.net/v/20221119080001726</link>
+            <guid>https://v.daum.net/v/20221119080001726</guid>
+            <pubDate>Fri, 18 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김나연 기자] 영화 '유포자들'(감독 홍석구)의 배우 박성훈이 18일 진행된 인터뷰를 위해 포즈를 취하고 있다.   핸드폰으로부터 자유로울 수 없는 현대사회, 사람들이 무심코 촬영한 영상들이 어떻게 인간을 파멸로 이끌 수 있는지를 그린 범죄 추적 스릴러 '유포자들'은  오는 23일 개봉한다. / 사진제공 =날개엔터테인먼트 2022.11.18 /사]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F19%2Fstarnews%2F20221119080003147noxu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘데시벨VS블랙팬서2’ 예상 외 접전...주말 승자는[MK무비]]]></title>
+            <link>https://v.daum.net/v/20221119073604596</link>
+            <guid>https://v.daum.net/v/20221119073604596</guid>
+            <pubDate>Fri, 18 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마블도 예전 같지 않네... 한국 대표 ‘데시벨’과 할리우드 대표 ‘블랙팬서: 와칸다 포에버’(이하 ‘블랙 팬서2’)가 예상 외 접전 중이다. 주말 왕좌의 주인은 누가 될까. 지난 16일 개봉한 김래원 주연의 영화 ‘데시벨’이 개봉 첫날 ‘블랙 팬서2’를 꺾고 1위를 차지한데 이어  둘째 날에는 간발의 차로 2위로 밀려나며 엎치락뒤치락 하고 있다. 관객의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F19%2Fstartoday%2F20221119073605610aqxz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[호불호 갈린 '블랙팬서2'…마블 페이즈4의 아쉬운 마무리 [N초점]]]></title>
+            <link>https://v.daum.net/v/20221119073013566</link>
+            <guid>https://v.daum.net/v/20221119073013566</guid>
+            <pubDate>Fri, 18 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = MCU(마블 시네마틱 유니버스)의 페이즈4가 영화 '블랙 팬서2: 와칸다 포에버'(감독 라이언 쿠글러/이하 '블랙 팬서2')로 마무리됐다. 지난 9일 국내에서 전세계 최초로 개봉한 '블랙 팬서2'는 '어벤져스: 엔드 게임'(2019) 이후 시작된 페이즈4의 마지막 작품으로, '와칸다'의 왕이자 블랙 팬서 티찰라(채드윅 보]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F19%2FNEWS1%2F20221119073014971brqr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘세이레’ 금기 깬 후 찾아온 공포[MK무비]]]></title>
+            <link>https://v.daum.net/v/20221119072101495</link>
+            <guid>https://v.daum.net/v/20221119072101495</guid>
+            <pubDate>Fri, 18 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[독창적인, 실험적인 심리 스릴러가 올가을 스크린을 찾는다. 영화 ‘세이레’(감독 박강)는 아기 아빠 우진(서현우)이 외부의 출입을 막고 부정한 것을 조심해야 하는 세이레의 금기를 깨고, 과거의 연인 세영(류아벨)의 장례식장에 다녀온 뒤부터 벌어지는 기이한 일들을 그린다. 세이레는 7일이 세 번 지날 때까지의 기간으로, 아기가 태어난 지 스무하루가 되는 동안]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202211%2F19%2Fstartoday%2F20221119072102691bjsw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
