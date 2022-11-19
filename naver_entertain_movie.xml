@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-11-19T05:09:49.631Z</updated>
+    <updated>2022-11-19T06:11:56.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고레에다 히로카즈 '브로커', 하와이국제영화제서 비전 인 필름상]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006468445</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006468445"/>
+        <updated>2022-11-19T06:11:06.634Z</updated>
+        <content type="html"><![CDATA[영화 '브로커'(감독 고레에다 히로카즈)가 제42회 하와이국제영화제에서 폐막작으로 선정된 데 이어 비전 인 필름상(Vision in Film Award)를 수상하는 영광을 안았다. 19일 CJ ENM에 따르면 '브로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[실망스런 이 영화, 테러의 이유를 설명하지 못하다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002373359</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004742945"/>
         <updated>2022-11-19T00:39:58.775Z</updated>
         <content type="html"><![CDATA[영화 ‘블랙 팬서2’가 1위 탈환 후 이틀째 자리를 지키고 있다. 19일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날(18일) ‘블랙 팬서: 와칸다 포에버’는 8만 3628명을 동원해 일별 박스오피스 1위]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[새영화] 통영에서의 하루·픽션들]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013586748</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013586748"/>
-        <updated>2022-11-18T23:12:29.090Z</updated>
-        <content type="html"><![CDATA[▲ 통영에서의 하루 = 희연(유인영 분)은 인생의 내리막길에 접어들었다는 기분을 떨치지 못한다. 잘 나가던 뮤지컬 기획팀장이었던 그가 내놓은 신작 첫 공연은 단 7석밖에 팔리지 않고, 회사 대표는 "이참에 쉬다 오라]]></content>
     </entry>
 </feed>
