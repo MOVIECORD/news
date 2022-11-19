@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-11-19T09:06:45.120Z</updated>
+    <updated>2022-11-19T10:14:43.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중국 OTT서 '사드 한한령' 이후 한국영화 첫 서비스]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013587162</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013587162"/>
+        <updated>2022-11-19T10:13:55.461Z</updated>
+        <content type="html"><![CDATA[홍상수 감독 2018년작 '강변호텔' 텅쉰에 공개 조준형 특파원 = 중국 OTT(온라인 동영상 서비스)에 한국 영화가 '한한령(한류 제한령)'이 가동된 이후 6년 만에 처음으로 공개된 것으로 파악됐다. 19일 중국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["왼손은 거들 뿐"…'더 퍼스트 슬램덩크' 내년 1월 국내 개봉]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003708828</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004743181"/>
         <updated>2022-11-19T08:19:24.928Z</updated>
         <content type="html"><![CDATA[배우 조이현이 19일 오후 서울 동교동 메가박스 홍대에서 진행된 영화 '동감' (감독 서은영) 무대인사에서 미소를 짓고 있다. '동감'은 1999년의 김용(여진구분)과 2022년의 김무늬(조이현분)가 우연히 오래된]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]여진구,'훈훈한 미소로 박수']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004743180</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004743180"/>
-        <updated>2022-11-19T08:19:24.939Z</updated>
-        <content type="html"><![CDATA[배우 여진구가 19일 오후 서울 동교동 메가박스 홍대에서 진행된 영화 '동감' (감독 서은영) 무대인사에서 미소를 짓고 있다. '동감'은 1999년의 김용(여진구분)과 2022년의 김무늬(조이현분)가 우연히 오래된]]></content>
     </entry>
 </feed>
