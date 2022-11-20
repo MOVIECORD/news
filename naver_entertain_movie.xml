@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-11-20T02:50:56.248Z</updated>
+    <updated>2022-11-20T03:47:44.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MP3로 소환된 과거의 기억... 진한 멜로와 여운이 반갑다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002373399</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002373399"/>
+        <updated>2022-11-20T03:46:55.975Z</updated>
+        <content type="html"><![CDATA[&lt;창밖은 겨울&gt; mp3라는 개념이 처음 등장했을 때는 실로 음악 감상의 '혁명적' 상황처럼 받아들여지곤 했던 기억이 있다. 이전에는 FM 라디오 음악전문방송에서 선택적으로 선곡해주는 리스트에 의존하거나, 흔히 '워크]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['취권'의 황비홍, 아시아 액션 영웅의 상징이 된 까닭]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002373398</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004743213"/>
         <updated>2022-11-19T08:19:24.864Z</updated>
         <content type="html"><![CDATA[배우 조이현이 19일 오후 서울 동교동 메가박스 홍대에서 진행된 영화 '동감' (감독 서은영) 무대인사에서 미소를 짓고 있다. '동감'은 1999년의 김용(여진구분)과 2022년의 김무늬(조이현분)가 우연히 오래된]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]조이현,'즐거운 수다']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004743210</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004743210"/>
-        <updated>2022-11-19T08:19:24.866Z</updated>
-        <content type="html"><![CDATA[배우 조이현 김혜윤이 19일 오후 서울 동교동 메가박스 홍대에서 진행된 영화 '동감' (감독 서은영) 무대인사에서 얘기를 나누고 있다. '동감'은 1999년의 김용(여진구분)과 2022년의 김무늬(조이현분)가 우연히]]></content>
     </entry>
 </feed>
