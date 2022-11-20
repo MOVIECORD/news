@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 08:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 09:07:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['삼남매가..'  이하나, 한복 입고 임주환네 주방 들어섰다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=238318</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=238318</guid>
+            <pubDate>Sun, 20 Nov 2022 09:05:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238318">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221120175949_68036c1881050120c08c966dd7dd4e7d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=238318">'삼남매가..'  이하나, 한복 입고 임주환네 주방 들어섰다</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%82%BC%EB%82%A8%EB%A7%A4%EA%B0%80%20%EC%9A%A9%EA%B0%90%ED%95%98%EA%B2%8C">주말드라마 삼남매가 용감하게</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221120175949_68036c1881050120c08c966dd7dd4e7d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['불후의 명곡' 김호중,  ‘백만송이 장미’→‘그 중에 그대를 만나’ 완벽 재해석]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=238235</link>
@@ -346,24 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221119221721_795605948cf64101415880d78a034289_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[불후의 명곡] 감성을 촉촉이 적셔줄 로맨틱 영화 OST...로맨틱한 가을밤 수놓은 무대]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=238151</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=238151</guid>
-            <pubDate>Sat, 19 Nov 2022 22:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238151">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221119221115_d607906b2c818df7d26d288cc497887e_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=238151">[불후의 명곡] 감성을 촉촉이 적셔줄 로맨틱 영화 OST...로맨틱한 가을밤 수놓은 무대</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221119221115_d607906b2c818df7d26d288cc497887e_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
