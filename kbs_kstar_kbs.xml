@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 00:44:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 02:50:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['불후의 명곡' 김호중,  ‘백만송이 장미’→‘그 중에 그대를 만나’ 완벽 재해석]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=238235</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=238235</guid>
+            <pubDate>Sun, 20 Nov 2022 02:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238235">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221120072136_92991a1b404bc7e4f6fc8d747bdf4eef.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=238235">'불후의 명곡' 김호중,  ‘백만송이 장미’→‘그 중에 그대를 만나’ 완벽 재해석</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221120072136_92991a1b404bc7e4f6fc8d747bdf4eef.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KBS 유튜브 라이브 ‘출근길 카타르’ ... 매일 아침 함께 하는 월드컵]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=238218</link>
@@ -346,24 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221119221115_d607906b2c818df7d26d288cc497887e_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[불후의 명곡] 가을밤 수놓은 감성 무대... 바비킴 - 고래의 꿈]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=238147</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=238147</guid>
-            <pubDate>Sat, 19 Nov 2022 22:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238147">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221119220550_7531b9c36bba5a2efc73d7f19aa5deb1_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=238147">[불후의 명곡] 가을밤 수놓은 감성 무대... 바비킴 - 고래의 꿈</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221119220550_7531b9c36bba5a2efc73d7f19aa5deb1_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
