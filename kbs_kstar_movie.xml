@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 05:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 06:10:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[곽민규-한선화 '창밖은 겨울' 시사회 현장...  "겨울, 청춘들을 위한 로맨스"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=238245</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=238245</guid>
+            <pubDate>Sun, 20 Nov 2022 06:07:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=238245">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221120075111_9de6b474e0c3f93240f94e528704a211.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=238245">곽민규-한선화 '창밖은 겨울' 시사회 현장...  "겨울, 청춘들을 위한 로맨스"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221120075111_9de6b474e0c3f93240f94e528704a211.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["송승헌, 망가져도 멋있다" SNL 코리아 시즌3, 첫 호스트]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=238138</link>
@@ -330,23 +347,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=237312">"세상을 바꿀 마법이 시작된다" 디즈니+ '윌로우' 12월 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221114113448_a33bbf6de615c503de5ba057db9fec53.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 '보물찾기' 어른들의 동심파괴 서바이벌이 시작된다]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=237279</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=237279</guid>
-            <pubDate>Mon, 14 Nov 2022 05:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=237279">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221114080520_34e3ce39f43da97040034a10f1740d3f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=237279">티빙 '보물찾기' 어른들의 동심파괴 서바이벌이 시작된다</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221114080520_34e3ce39f43da97040034a10f1740d3f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
