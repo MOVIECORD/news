@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-11-21T15:07:58.284Z</updated>
+    <updated>2022-11-21T16:14:14.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Ms앨범]정채연, '청순&러블리' 첫사랑 비주얼 그 자체]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=445&amp;aid=0000086521</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=445&amp;aid=0000086521"/>
+        <updated>2022-11-21T16:13:23.910Z</updated>
+        <content type="html"><![CDATA[배우 정채연이 21일 오후 서울 용산구 CGV용산아이파크몰에서 진행된 영화 '유포자들' VIP시사회에 참석해 포즈를 취하고 있다. '유포자들'은 핸드폰으로부터 자유로울 수 없는 현대사회에서 사람들이 무심코 촬영한 영]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화려한 라인업·스케일 자랑하는 '게임 원작 영화' 주목 [TF프리즘]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000185792</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=445&amp;aid=0000086496"/>
         <updated>2022-11-21T11:09:43.151Z</updated>
         <content type="html"><![CDATA[배우 황신혜가 21일 오후 서울 용산구 CGV용산아이파크몰에서 진행된 영화 '유포자들' VIP시사회에 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Ms포토]김가영 '미모 날씨 맑음']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=445&amp;aid=0000086495</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=445&amp;aid=0000086495"/>
-        <updated>2022-11-21T11:09:43.152Z</updated>
-        <content type="html"><![CDATA[기상캐스터 김가영이 21일 오후 서울 용산구 CGV용산아이파크몰에서 진행된 영화 '유포자들' VIP시사회에 참석해 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>
