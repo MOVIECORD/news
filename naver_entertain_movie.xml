@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-11-21T20:08:05.036Z</updated>
+    <updated>2022-11-21T21:10:52.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지속 가능한 창작 활동 위한 법적 근거 마련해야[생생확대경]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005371947</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005371947"/>
+        <updated>2022-11-21T21:10:05.236Z</updated>
+        <content type="html"><![CDATA[드라마 ‘이상한 변호사 우영우’(이하 ‘우영우’)를 집필한 문지원 작가는 과거 감독 데뷔를 준비하면서 생계 걱정에서 자유롭지 못했다고 한다. 한국콘텐츠진흥원에서 8개월간 매월 100만원씩 지원받아 “창작활동에 집중할]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“‘영웅’은 인간 안중근과 어머니의 이야기”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001568251</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=445&amp;aid=0000086501"/>
         <updated>2022-11-21T12:18:37.770Z</updated>
         <content type="html"><![CDATA[배우 송재림이 21일 오후 서울 용산구 CGV용산아이파크몰에서 진행된 영화 '유포자들' VIP시사회에 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Ms포토]박해수 '상남자의 하트']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=445&amp;aid=0000086500</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=445&amp;aid=0000086500"/>
-        <updated>2022-11-21T12:18:37.770Z</updated>
-        <content type="html"><![CDATA[배우 박해수가 21일 오후 서울 용산구 CGV용산아이파크몰에서 진행된 영화 '유포자들' VIP시사회에 참석해 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>
