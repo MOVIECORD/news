@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-11-21T16:14:14.581Z</updated>
+    <updated>2022-11-21T17:17:47.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정복·이용 아닌 공생…기후위기 소재 애니 '스트레인지 월드']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013591261</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013591261"/>
+        <updated>2022-11-21T17:16:58.205Z</updated>
+        <content type="html"><![CDATA[그린피스에 따르면 세계 각국이 내세운 온실가스 배출량 감축목표를 모두 지킨다고 하더라도 2천100년 지구의 평균기온은 산업혁명 이전보다 2.5도 이상 상승한다. 이는 2015년 파리 기후협정부터 이달 열린 제27차]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Ms앨범]정채연, '청순&러블리' 첫사랑 비주얼 그 자체]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=445&amp;aid=0000086521</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=445&amp;aid=0000086497"/>
         <updated>2022-11-21T11:09:43.142Z</updated>
         <content type="html"><![CDATA[배우 정채연이 21일 오후 서울 용산구 CGV용산아이파크몰에서 진행된 영화 '유포자들' VIP시사회에 참석해 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Ms포토]황신혜 '여전한 미모']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=445&amp;aid=0000086496</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=445&amp;aid=0000086496"/>
-        <updated>2022-11-21T11:09:43.151Z</updated>
-        <content type="html"><![CDATA[배우 황신혜가 21일 오후 서울 용산구 CGV용산아이파크몰에서 진행된 영화 '유포자들' VIP시사회에 참석해 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>

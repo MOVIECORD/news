@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-11-21T16:14:14.577Z</updated>
+    <updated>2022-11-21T17:17:47.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정복·이용 아닌 공생…기후위기 소재 애니 '스트레인지 월드']]></title>
+        <id>https://v.daum.net/v/20221122020006254</id>
+        <link href="https://v.daum.net/v/20221122020006254"/>
+        <updated>2022-11-21T17:17:47.009Z</updated>
+        <content type="html"><![CDATA[(서울=연합뉴스) 김정진 기자 = 그린피스에 따르면 세계 각국이 내세운 온실가스 배출량 감축목표를 모두 지킨다고 하더라도 2천100년 지구의 평균기온은 산업혁명 이전보다 2.5도 이상 상승한다. 이는 2015년 파리 기후협정부터 이달 열린 제27차 유엔기후변화협약 당사국총회(COP27)까지 고수돼 온 지구 평균기온 상한선 1.5℃보다 1도 이상 높은 수치다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화려한 라인업·스케일 자랑하는 '게임 원작 영화' 주목]]></title>
         <id>https://v.daum.net/v/20221122000035421</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221121152954183"/>
         <updated>2022-11-21T07:10:21.878Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김미화 기자] 배우 김성철 / 사진=NEW 배우 김성철이 신스틸러라는 수식어에 대한 자신의 생각을 전했다. 김성철은 21일 서울 종로구 삼청동 한 카페에서 영화 '올빼미'(감독 안태진) 인터뷰를 가지고 영화에 대한 다양한 이야기를 전했다. 영화 '올빼미'는 밤에만 앞이 보이는 맹인 침술사가 세자의 죽음을 목격한 후 진실을 밝히기 위해 벌이는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['올빼미' 김성철 "유해진 선배와 닮았다고..칭찬 감사해"]]></title>
-        <id>https://v.daum.net/v/20221121151947766</id>
-        <link href="https://v.daum.net/v/20221121151947766"/>
-        <updated>2022-11-21T07:10:21.878Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김미화 기자] 김성철/사진=NEW 배우 김성철이 유해진과 함께 호흡한 소감을 말했다. 김성철은 21일 서울 종로구 삼청동 한 카페에서 영화 '올빼미'(감독 안태진) 인터뷰를 가지고 영화에 대한 다양한 이야기를 전했다. 영화 '올빼미'는 밤에만 앞이 보이는 맹인 침술사가 세자의 죽음을 목격한 후 진실을 밝히기 위해 벌이는 하룻밤의 사투를 그린]]></content>
     </entry>
 </feed>
