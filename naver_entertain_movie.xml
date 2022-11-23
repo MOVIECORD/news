@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-11-23T15:06:13.755Z</updated>
+    <updated>2022-11-23T16:13:33.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이현지의 타임]탕웨이, '여우주연상'에 빛나는 그녀...'미모도 매너도 고품격']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=445&amp;aid=0000086714</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=445&amp;aid=0000086714"/>
+        <updated>2022-11-23T16:12:43.850Z</updated>
+        <content type="html"><![CDATA[배우 탕웨이가 미모만큼 품격 있는 매너를 선보였다. 지난 23일 오후 5시 서울 여의도 중소기업중앙회 KBIZ홀에서 한국영화평론가협회상 시상식(영평상)이 진행됐다. 영평상 시상식에서 '여우주연상'을 거머쥔 탕웨이는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['청춘시련', 대만 로맨스 영화 흥행 계보이을까 [TF프리즘]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000186325</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001017961"/>
         <updated>2022-11-23T13:26:28.098Z</updated>
         <content type="html"><![CDATA[배우 이문식이 23일 서울 용산구 CGV용산아이파크몰점에서 열린 영화 ‘탄생‘ 언론시사회에서 인사말을 하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이호원, 진지한 인사 [포토]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001017960</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001017960"/>
-        <updated>2022-11-23T13:26:28.102Z</updated>
-        <content type="html"><![CDATA[배우 이호원이 23일 서울 용산구 CGV용산아이파크몰점에서 열린 영화 ‘탄생‘ 언론시사회에서 인사말을 하고 있다.]]></content>
     </entry>
 </feed>
