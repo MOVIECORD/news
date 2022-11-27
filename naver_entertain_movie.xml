@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-11-27T02:32:07.176Z</updated>
+    <updated>2022-11-27T03:37:21.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삶과 죽음의 의미를 탐구하는 로드 무비]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002374222</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002374222"/>
+        <updated>2022-11-27T03:36:29.407Z</updated>
+        <content type="html"><![CDATA[영화 &lt;우수&gt; ▲ &lt;우수&gt; 영화 포스터 ⓒ (주)률필름 폐업을 앞둔 사진관을 운영하는 중년의 사장(윤제문 분)은 한때 절친했던 대학 후배 철수의 아버지가 죽었다는 연락을 받는다. 장례식장인 전라남도 광양이 너무 멀어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[좋은 게 좋은 거지?... 과욕과 모순으로 가득 찬 100분]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002374220</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003672001"/>
         <updated>2022-11-26T09:08:56.522Z</updated>
         <content type="html"><![CDATA[크로스오버 그룹 라포엠(LA POEM)이 가수 정훈희와 함께 묵직한 감동을 선사했다. 라포엠은 지난 25일 서울 여의도 KBS홀에서 배우 김혜수·유연석의 사회로 진행된 '제43회 청룡영화상'에서 축하무대를 펼쳤다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TEN인터뷰] '제작자 마인드' 류준열 "꿈꾸지 못한 일, 매일 생기는 중"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000582553</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000582553"/>
-        <updated>2022-11-26T07:13:11.385Z</updated>
-        <content type="html"><![CDATA["게으르지만, 오히려 겁이 없어요. 뚜렷한 목표를 가지고 악착같이 간다고 하면 부작용도 생기고 상처받는 사람도 생길 거에요. 누군가에게 피해도 주고 그럴 텐데 그렇지 않으면 상대적으로 스트레스도 덜 받지 않을까요?]]></content>
     </entry>
 </feed>
