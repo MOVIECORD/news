@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-11-28T17:11:13.705Z</updated>
+    <updated>2022-11-28T20:06:40.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[방호정의 컬쳐 쇼크 & 조크] <99> 티빙 오리지널 시리즈 ‘몸값’]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000026484</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000026484"/>
+        <updated>2022-11-28T20:05:51.544Z</updated>
+        <content type="html"><![CDATA[충격적인 반전이 인상적이었던 이충현 감독의 14분짜리 단편영화 ‘몸값’을 모티브로 재난영화와 스릴러, 액션, 블랙코미디 등 다양한 장르와 결합해 몸집을 불려 탄생한 6부작 티빙 오리지널 시리즈 ‘몸값’은 전우성 감독]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["특별한 작품"...'20년 지기' 마동석·정경호의 유쾌한 말맛, '압꾸정'(종합)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000187171</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004780936"/>
         <updated>2022-11-28T13:21:12.773Z</updated>
         <content type="html"><![CDATA[배우 박하나가 28일 오후 서울 삼성동 메가박스 코엑스에서 열린 영화 '압꾸정'(감독 임진순, 제작 빅펀치픽쳐스 ,(주)홍필름 ,(주)비에이엔터테인먼트) VIP시사회에 참석해 포토타임을 갖고 있다. 마동석, 정경호,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 이준혁, '부드러운 카리스마']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004780935</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004780935"/>
-        <updated>2022-11-28T13:21:12.775Z</updated>
-        <content type="html"><![CDATA[배우 이준혁이 28일 오후 서울 삼성동 메가박스 코엑스에서 열린 영화 '압꾸정'(감독 임진순, 제작 빅펀치픽쳐스 ,(주)홍필름 ,(주)비에이엔터테인먼트) VIP시사회에 참석해 포토타임을 갖고 있다. 마동석, 정경호,]]></content>
     </entry>
 </feed>
