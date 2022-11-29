@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-11-29T16:13:46.609Z</updated>
+    <updated>2022-11-29T18:15:51.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전시·상영회·이벤트…다채롭게 즐기는 ‘영화창의도시 부산’]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000026615</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000026615"/>
+        <updated>2022-11-29T18:15:04.005Z</updated>
+        <content type="html"><![CDATA[- 역대 지원 영화 중 화제작 소개 - ‘문화ODA’ 주제 국제포럼 등도 유네스코 영화 창의도시 부산의 다양한 활동을 시민과 공유하는 자리가 마련됐다. 부산시는 다음 달 1일부터 나흘간 유네스코 영화 창의도시 지정을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HK직캠｜홍자-박슬기-하지영, '손잡고 다정하게 영화관 나들이~' (영화 탄생 VIP시사회)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004781470</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004781415"/>
         <updated>2022-11-29T12:14:07.995Z</updated>
         <content type="html"><![CDATA[그룹 EXID 하니가 29일 오후 서울 용산 CGV아이파크몰에서 열린 영화 '탄생'(감독 박흥식, 제작 민영화사) VIP시사회에 참석해 포토타임을 갖고 있다. 윤시윤, 안성기, 윤경호, 이문식, 이경영 등이 출연하는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 유라, '얼마나 더 예뻐질거야?']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004781414</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004781414"/>
-        <updated>2022-11-29T12:14:07.995Z</updated>
-        <content type="html"><![CDATA[그룹 걸스데이 유라가 29일 오후 서울 용산 CGV아이파크몰에서 열린 영화 '탄생'(감독 박흥식, 제작 민영화사) VIP시사회에 참석해 포토타임을 갖고 있다. 윤시윤, 안성기, 윤경호, 이문식, 이경영 등이 출연하는]]></content>
     </entry>
 </feed>
