@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 20:07:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 21:06:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어쩌다 마주친, 그대 "김종수-김정영-박수영-최영우"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=239005</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=239005</guid>
+            <pubDate>Tue, 29 Nov 2022 21:05:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=239005">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221125105208_d9c3b019b02665230188b20ed76a1e96.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=239005">어쩌다 마주친, 그대 "김종수-김정영-박수영-최영우"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%96%B4%EC%A9%8C%EB%8B%A4%20%EB%A7%88%EC%A3%BC%EC%B9%9C%20%EA%B7%B8%EB%8C%80">수목드라마 어쩌다 마주친 그대</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221125105208_d9c3b019b02665230188b20ed76a1e96.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[커튼콜] “이 남자 연극하는 배우야” 정유진 폭로로 결국 들통난 강하늘의 정체…]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=239552</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221127213337_6e0f65e9a286e29d27a64f4203067ee2_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[1박2일] ‘초호화 럭셔리 여행’ 이게 무슨 호사야!! 1박2일에서 ‘호텔 스위트룸’이라니]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=239348</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=239348</guid>
-            <pubDate>Sun, 27 Nov 2022 17:05:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=239348">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221127211727_21dcbf0747aca864e4ec1578feb1bd78_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=239348">[1박2일] ‘초호화 럭셔리 여행’ 이게 무슨 호사야!! 1박2일에서 ‘호텔 스위트룸’이라니</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221127211727_21dcbf0747aca864e4ec1578feb1bd78_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
