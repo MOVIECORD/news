@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-02T20:15:31.115Z</updated>
+    <updated>2022-12-02T21:06:38.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[극장가도 '초동보다 총판?' 마라톤 흥행 '명작들']]></title>
+        <id>https://v.daum.net/v/20221203060026628</id>
+        <link href="https://v.daum.net/v/20221203060026628"/>
+        <updated>2022-12-02T21:06:37.912Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 신종 코로나바이러스 감염증(코로나19) 이후 흥행을 바라보는 시각에도 변화가 생겼다. 보통 흥행에 성공하는 블록버스터 영화들은 개봉을 기점으로 일주일 안에 일정한 수치의 관객들을 동원해 나간다. 예를 들어 2019년 개봉한 '극한직업'은 개봉 첫날 36만명 이상을 동원했으며, 이틀째는 누적 72만명, 사흘째는 누적 111]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정해인, ‘베테랑2’ 합류…황정민과 형사 호흡]]></title>
         <id>https://v.daum.net/v/20221203030009419</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221202155727202"/>
         <updated>2022-12-02T08:12:33.231Z</updated>
         <content type="html"><![CDATA[[스포츠조선 조지영 기자] 할리우드 마블에서 다시 '범죄도시'로, 그리고 다시 압구정동으로 향한 배우 마동석(51)의 변신은 아직 끝나지 않았다. 코미디 영화 '압꾸정'(임진순 감독, 빅펀치픽쳐스·홍필름·비에이엔터테인먼트 제작)에서 샘솟는 아이디어로 입만 살아있는 압구정 토박이 강대국을 연기한 마동석. 그가 연기는 물론 작품의 기획과 제작,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박진영 "내년 군입대? 겸허하게 받아들여..눈물 한 방울 흘릴수도"]]></title>
-        <id>https://v.daum.net/v/20221202155019992</id>
-        <link href="https://v.daum.net/v/20221202155019992"/>
-        <updated>2022-12-02T08:12:33.232Z</updated>
-        <content type="html"><![CDATA[[OSEN=김채연 기자] 배우 박진영이 입대를 앞두고 솔직한 심경을 털어놨다. 2일 오후 서울 종로구 삼청동의 한 카페에서 진행된 인터뷰에서 박진영은 군입대 관련 질문을 받고 의연한 모습을 보였다. 이날 박진영은 군입대를 앞둔 소감으로 “사실 싱숭생숭하다. 선배님들도 다 갔다 오셨고, 남자는 가야되는거면 마음 편하게 갔다오는게 더 좋다고 생각한다”고 말]]></content>
     </entry>
 </feed>
