@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 21:06:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 22:06:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["채수빈, 웃긴다!"  쿠팡플레이 'SNL코리아' 출격]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=239766</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=239766</guid>
+            <pubDate>Fri, 02 Dec 2022 22:03:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=239766">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221202211530_3251191132340a41c2afc9da7bc43d5a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=239766">"채수빈, 웃긴다!"  쿠팡플레이 'SNL코리아' 출격 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221202211530_3251191132340a41c2afc9da7bc43d5a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울독립영화제2022 화려한 개막, "독립영화, 사랑의 기호!"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=239730</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=239425">12월의 넷플릭스,  김한민 감독의 '한산 리덕스', 이정재의 '헌트' 서비스 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221128091546_6cc356f0212a9dea4dcfb5ef3fe3d9e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 김영광 “윤오의 멜로, 내 안의 다른 것” (넷플릭스 ‘썸바디’)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=239402</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=239402</guid>
-            <pubDate>Mon, 28 Nov 2022 23:06:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=239402">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221128083825_e149e2012c9f1abad93677688c434412.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=239402">[인터뷰] 김영광 “윤오의 멜로, 내 안의 다른 것” (넷플릭스 ‘썸바디’)  </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221128083825_e149e2012c9f1abad93677688c434412.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
