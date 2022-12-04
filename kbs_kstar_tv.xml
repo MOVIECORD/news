@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 06:08:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 08:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[tvN '환혼2' 이재욱-고윤정, "첫눈에 알아본 운명"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=240092</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=240092</guid>
+            <pubDate>Sun, 04 Dec 2022 08:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=240092">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221204105053_fa10f1182875531df95c3dd0716a32e7.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=240092">tvN '환혼2' 이재욱-고윤정, "첫눈에 알아본 운명"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221204105053_fa10f1182875531df95c3dd0716a32e7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['사장님을 잠금해제' 채종협,  ‘노답’ 취준생의  초고속 인생역전]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=239451</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=239098">'슈룹' 김혜수의 진심  "중전이자 엄마이자 여성"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221126074100_e9458971c428dea27c0ac57c3550c544.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SBS '트롤리' 김현주,  "그 누구도 일어날 것이라 상상조차 하지 않는 일이 있다"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=239091</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=239091</guid>
-            <pubDate>Sat, 26 Nov 2022 09:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=239091">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221126073702_b112d7a3c2f92359d2e87876f241652c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=239091">SBS '트롤리' 김현주,  "그 누구도 일어날 것이라 상상조차 하지 않는 일이 있다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221126073702_b112d7a3c2f92359d2e87876f241652c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
