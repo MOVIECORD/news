@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 10:08:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 11:05:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사장님 귀는 당나귀 귀] ‘예술가들의 뮤즈’ 김주원의 탱고발레...발레리노 윤별과 호흡 맞춘 무대]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=240096</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=240096</guid>
+            <pubDate>Sun, 04 Dec 2022 11:04:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=240096">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221204193509_91e57799734784b367275bda211932cb.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=240096">[사장님 귀는 당나귀 귀] ‘예술가들의 뮤즈’ 김주원의 탱고발레...발레리노 윤별과 호흡 맞춘 무대</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221204193509_91e57799734784b367275bda211932cb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['전국노래자랑' 김신영, 광주광역시 동구]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=240087</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%20%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상 출시 편스토랑</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221202225735_6e44231f74f2507f51fb97281a42ac74_1.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[[신상출시 편스토랑] 러블리 소식좌♥ 스페셜 MC 산다라박 “이찬원, 질투했다”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=239780</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=239780</guid>
-            <pubDate>Fri, 02 Dec 2022 14:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=239780">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221202224753_e8270c009f4eff98f57d93dd6fbc5482.PNG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=239780">[신상출시 편스토랑] 러블리 소식좌♥ 스페셜 MC 산다라박 “이찬원, 질투했다”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%20%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상 출시 편스토랑</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221202224753_e8270c009f4eff98f57d93dd6fbc5482.PNG" length="0" type="image/PNG"/>
         </item>
     </channel>
 </rss>
