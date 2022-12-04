@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-12-04T20:15:22.601Z</updated>
+    <updated>2022-12-04T21:14:50.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최민식·손석구·정해인·송혜교…OTT 연말에 뜨겁다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011574428</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011574428"/>
+        <updated>2022-12-04T21:14:06.847Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 슈퍼스타 배우들 출연 OTT 드라마 공개 주요 작품 12월에 쏟아내 영화계 압도해 디즈니+ 최민식·손석구 '카지노' 큰 기대 김은숙 작가 넷플릭스 '더 글로리'도 대기 송혜교, 김 작가와 6년만에 합작]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[불사의 다크 히어로 정해인, 미이케 다카시 감독 '커넥트' 7일 공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000051846</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003244271"/>
         <updated>2022-12-04T06:07:52.630Z</updated>
         <content type="html"><![CDATA[13년여 만에 돌아온 ‘아바타’가 얼어붙은 극장가에 활기를 돌게 할 구원투수가 될 수 있을까. ‘아바타’가 1편의 대성공 이후 약 13년 만에 2편 ‘물의 길’로 돌아온다. 제임스 카메론 감독이 연출했고, 전편에 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[돌아온 아바타②] 지구상에 구현된 판도라 ‘아바타: 더 익스피리언스’ 방문기]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003244269</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003244269"/>
-        <updated>2022-12-04T06:07:52.630Z</updated>
-        <content type="html"><![CDATA[160종, 5700여 그루의 식물들이 판도라 행성의 아름다움을 지구상에 구현했다. 영화 ‘아바타: 물의 길’ 개봉을 앞두고 지난 10월 28일 싱가포르 가든스바이 더 베이(Gardens by the Bay)에는 몰입]]></content>
     </entry>
 </feed>
