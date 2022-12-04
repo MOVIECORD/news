@@ -1,8 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-12-03T21:14:23.812Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 04 Dec 2022 00:37:42 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['올빼미' 11일 연속 1위…150만 관객 돌파 [Nbox]]]></title>
+            <link>https://v.daum.net/v/20221204080835874</link>
+            <guid>https://v.daum.net/v/20221204080835874</guid>
+            <pubDate>Sat, 03 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 안태현 기자 = 영화 '올빼미'(감독 안태진)가 11일 연속 박스오피스 정상에 올랐다. 4일 영화진흥위원회 영화관 입장권 통합전산망 집계에 따르면 '올빼미'는 지난 3일 하루동안 23만5140명의 관객을 동원하면서 박스오피스 1위를 차지했다. 누적관객수는 154만1540명이다. 지난달 23일 개봉한 '올빼미'는 이로써 11일째 박스오피스]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F04%2FNEWS1%2F20221204080836967avan.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['올빼미' 11일 연속 1위…154만 동원[美친 box]]]></title>
+            <link>https://v.daum.net/v/20221204074754707</link>
+            <guid>https://v.daum.net/v/20221204074754707</guid>
+            <pubDate>Sat, 03 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘올빼미’가 개봉 후 11일째 1위를 차지했다. 4일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날(3일) ‘올빼미’는 23만 5140명을 동원해 일별 박스오피스 1위에 올랐다. 지난달 23일부터 상영을 시작해 11일 동안 1위를 지킨 것이다. ‘올빼미’(감독 안태진, 제공배급 NEW, 제작 씨제스엔터테인먼트·영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F04%2Fpoctan%2F20221204074755059ielk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['아바타2'·'영웅' 온다…12월 대작에 기대건 극장가 [N초점]]]></title>
+            <link>https://v.daum.net/v/20221204070035383</link>
+            <guid>https://v.daum.net/v/20221204070035383</guid>
+            <pubDate>Sat, 03 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 여름에 이어 극장가 최대 성수기로 꼽히는 12월 연말을 맞아 기다리고 기다리던 대작들이 등판한다. 전 세계적인 기대를 한 몸에 받고 있는 '아바타: 물의 길'(이하 '아바타2')과 영화 '영웅'이 개봉해 빅매치를 벌이는 것. '아바타2'는 오는 14일, '영웅'은 오는 21일 일주일 간격을 두고 관객들을 만날 예정이다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F04%2FNEWS1%2F20221204070037063trsu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['압꾸정' 뜬 마블리, 익숙하고 뻔한 말맛 코미디[TF 씨네리뷰]]]></title>
+            <link>https://v.daum.net/v/20221204070003334</link>
+            <guid>https://v.daum.net/v/20221204070003334</guid>
+            <pubDate>Sat, 03 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['20년 지기' 마동석·정경호의 상극 '케미', 지난달 30일 개봉 [더팩트｜박지윤 기자] 배우 마동석이 시원한 액션이 아닌 유쾌한 말맛을 장착하고 돌아왔다. 컬러풀한 머리색과 화려한 의상으로 MCU(마동석 시네마틱 유니버스)에서 가장 개성 넘치는 캐릭터의 등장을 알렸지만, 큰 기대만큼 아쉬움이 짙게 남은 영화 '압꾸정'(감독 임진순)이다. 지난달 30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F04%2FTHEFACT%2F20221204070006824bhag.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독]'스위트홈' 김지은, '허수아비 춤' 여주인공 확정..데뷔 후 첫 주연]]></title>
+            <link>https://v.daum.net/v/20221204070001327</link>
+            <guid>https://v.daum.net/v/20221204070001327</guid>
+            <pubDate>Sat, 03 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 이경호 기자]  배우 김지은/사진=이동훈 기자 photoguy@배우 김지은(34)이 영화 '허수아비 춤'을 통해 데뷔 후 첫 주연을 맡게 됐다. 4일 스타뉴스 취재 결과, 김지은은 '허수아비 춤'(감독 최율권희, 제작 ㈜사자네 픽쳐스)에 여주인공으로 캐스팅됐다. '허수아비 춤'은 자폐 증세가 있는 딸을 돌보는 마취과 전문의 서후가 아내 성]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F04%2Fstarnews%2F20221204070002777wnbv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[정경호 "♥수영과 결혼 아직, 주변 시선 신경 안 써요"[★FULL인터뷰]]]></title>
+            <link>https://v.daum.net/v/20221204064001225</link>
+            <guid>https://v.daum.net/v/20221204064001225</guid>
+            <pubDate>Sat, 03 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김노을 기자] 배우 정경호가 29일 오후 서울 종로구 삼청동의 한 카페에서 진행된 영화 '압꾸정' 개봉 관련 인터뷰를 위해 포즈를 취하고 있다.   '압꾸정'은 샘솟는 사업 아이디어로 입만 살아있는 압구정 토박이 대국(마동석 분)이 실력 TOP 성형외과 의사 지우(정경호 분)와 손잡고 K-뷰티의 시조새가 된 이야기를 그린 영화다. 오는 30일 개]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F04%2Fstarnews%2F20221204064002733ujlk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
