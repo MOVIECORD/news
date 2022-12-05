@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 14:06:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 15:05:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스가 만드는 '봉준호 오리진',  다큐 <노란문: 봉준호 감독의 미공개 단편 영화를 찾아서>]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=239880</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=239880</guid>
+            <pubDate>Mon, 05 Dec 2022 15:03:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=239880">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221203085410_59d7cf1afd954b63e124acc64ea6a7b3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=239880">넷플릭스가 만드는 '봉준호 오리진',  다큐 &lt;노란문: 봉준호 감독의 미공개 단편 영화를 찾아서&gt;</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221203085410_59d7cf1afd954b63e124acc64ea6a7b3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 마동석, "압꾸정에 가면 마동석이 있다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=240157</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=239581">[현장] 디즈니 100년 플러스 “미키마우스, 판도라, 그리고 만달로리안”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221130144311_7955b0fe69aeda4543b7cc7899ae20ff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니콘텐츠쇼케이스 '커넥트'와 '카지노' "기대됩니다"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=239579</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=239579</guid>
-            <pubDate>Tue, 29 Nov 2022 22:03:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=239579">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221130064343_1f92b0f531ae30b557841fb82630d5fd.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=239579">디즈니콘텐츠쇼케이스 '커넥트'와 '카지노' "기대됩니다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221130064343_1f92b0f531ae30b557841fb82630d5fd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
