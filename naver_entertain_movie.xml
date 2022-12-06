@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-12-06T19:06:51.103Z</updated>
+    <updated>2022-12-06T20:07:15.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['앤트맨과 와스프: 퀀텀매니아']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000051889</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000051889"/>
+        <updated>2022-12-06T20:06:24.582Z</updated>
+        <content type="html"><![CDATA['앤트맨'이 다시 돌아온다. 앤트맨과 와스프: 퀀텀매니아&gt;(원제: ANT-MAN AND THE WASP: QUANTUMANIA)가 2023년 2월 개봉된다. 공개된 ‘스페셜 룩’ 예고편은 그간 마블 세계관을 종횡무진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[봉준호 SF신작 2024년 개봉…로버트 패틴슨·스티븐 연 출연]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013627671</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004753382"/>
         <updated>2022-12-06T11:03:06.703Z</updated>
         <content type="html"><![CDATA[2019년 한국 애니메니션 흥행 1위 기록을 세우며 TV 시리즈부터 뮤지컬, 웹드라마까지 뜨거운 사랑을 받고 있는 애니메이션 ‘신비아파트’의 세 번째 극장판 장편 애니메이션 '신비아파트 극장판 차원도깨비와 7개의 세]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김혜선이 할리우드 진출? 美영화 'My Girl's Choice' 캐스팅[공식]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004753377</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004753377"/>
-        <updated>2022-12-06T11:03:06.707Z</updated>
-        <content type="html"><![CDATA[배우 김혜선이 12년 만에 스크린에 복귀하게 된 새 영화 '신의 선택'에 이어, 내년 7월 미국 할리우드에서 제작되는 미국영화 'My Girl's Choice'에 캐스팅됐다. 6일 김혜선 측에 따르면 김혜선은 'My]]></content>
     </entry>
 </feed>
