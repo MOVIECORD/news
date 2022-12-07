@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-12-07T15:05:21.814Z</updated>
+    <updated>2022-12-07T16:13:38.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘헤어질 결심’, NYT가 뽑은 ‘올해 10대 영화’ [연예뉴스 HOT]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001020640</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001020640"/>
+        <updated>2022-12-07T16:12:47.546Z</updated>
+        <content type="html"><![CDATA[박찬욱 감독의 ‘헤어질 결심’이 미국 뉴욕타임스(NYT)가 뽑은 ‘올해 10대 영화’ 명단에 올랐다. 7일(한국시간) NYT의 수석 영화평론가인 마놀라 다기스는 인상 깊었던 올해의 영화 10편을 소개하면서 ‘헤어질]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 ‘영웅’·서경덕 교수, ‘안중근 캠페인’ 진행…영상부터 토크 콘서트까지]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001707793</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002375358"/>
         <updated>2022-12-07T09:10:48.429Z</updated>
         <content type="html"><![CDATA[법원, 다올 측 가처분 기각... "대종상 개최 금지할 이유 없어" ▲ 58회 대종상영화제 포스터 ⓒ 영화인총연합회 오는 9일 개최 예정인 대종상영화제를 중지해 달라는 다올엔터테인먼트 측의 개최금지 가처분 신청이 기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스 파인 '던전 앤 드래곤: 도적들의 명예', 거대한 모험 시작..2차포스터 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003603278</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003603278"/>
-        <updated>2022-12-07T09:10:48.443Z</updated>
-        <content type="html"><![CDATA['던전 앤 드래곤: 도적들의 명예'의 2차 포스터 및 ‘모험의 시작 영상’이 공개됐다. 영화 '던전 앤 드래곤: 도적들의 명예'는 서로 어울릴 것 같지 않은 매력적인 도적과 모험가가 팀을 이뤄 잃어버린 유물을 되찾을]]></content>
     </entry>
 </feed>
