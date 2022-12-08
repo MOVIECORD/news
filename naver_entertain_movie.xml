@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-12-08T13:19:09.330Z</updated>
+    <updated>2022-12-08T14:12:45.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문근영, 올해의 여성영화인상 ‘강수연상’ 첫 수상]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000911221</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000911221"/>
+        <updated>2022-12-08T14:11:56.606Z</updated>
+        <content type="html"><![CDATA[배우 문근영이 ‘강수연상’ 수상자로 선정됐다. 강수연 배우는 50여 년이 넘는 긴 시간, 수많은 연기 활동을 통해 한국영화의 위상을 높인 선구자였으며 한국영화의 발전을 위해 시대가 부여한 사명을 당당히 걸머지고 헌신]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["극장 관람 강추"…'영웅' 정성화 그린 안중근, 올 연말 야심작(종합)[현장의 재구성]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004754917</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049120"/>
         <updated>2022-12-08T10:13:00.951Z</updated>
         <content type="html"><![CDATA[올해로 9회차에 접어든 ‘타이틀 매치’는 2인전이라는 틀 속에서 매년 새롭게 시도하는 서울시립 북서울미술관의 대표적인 연례전시다. 2022년에는 영화감독이자 영상설치작가인 임흥순과 오메르 파스트를 초청해 2023년]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기획] 잊혀지지 않은 이름들]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049119</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049119"/>
-        <updated>2022-12-08T10:13:00.953Z</updated>
-        <content type="html"><![CDATA[국립현대미술관(MMCA) 서울관에서 필름앤비디오 2022년 하반기 프로그램으로 ‘영화로, 영화를 쓰다’를 상영 중이다. 차학경, 수전 손태그, 마르그리트 뒤라스, 포루그 파로흐자드의 작품들을 모은 이번 전시는 다른]]></content>
     </entry>
 </feed>
