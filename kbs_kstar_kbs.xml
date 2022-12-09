@@ -4,15 +4,33 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 21:05:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 23:09:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[불후의 명곡 - 패티김 특집, 대망의 3부 피날레]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=240828</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=240828</guid>
+            <pubDate>Fri, 09 Dec 2022 23:07:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=240828">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221209142709_b3a2d47de68eece61aee5d587656e78a_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=240828">불후의 명곡 - 패티김 특집, 대망의 3부 피날레</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221209142709_b3a2d47de68eece61aee5d587656e78a_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[슈퍼맨이 돌아왔다] 이게 K-응원이다 우루과이전 직관! 대한민국 외치는 건나블리★]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=240959</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=240959</guid>
             <pubDate>Fri, 09 Dec 2022 17:05:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=240959">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=240959">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221210012639_9deabc8f75b1fb4cf0744cc59f999832_1.PNG" alt="대체 텍스트">
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=KBS%20%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8A%A4%ED%8E%98%EC%85%9C%202022">KBS 드라마 스페셜 2022</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221209013056_86425d2489d485fd1f6851695ba07481_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[드라마 스페셜-낯선 계절에 만나] 옆방 남자 김건우와 대화하기 위해 ‘실 전화기’를 만든 한지은?]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=240713</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=240713</guid>
-            <pubDate>Fri, 09 Dec 2022 00:35:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=240713">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221209012533_6f99a9f92f811ed21301ef80dc167dc3.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=240713">[드라마 스페셜-낯선 계절에 만나] 옆방 남자 김건우와 대화하기 위해 ‘실 전화기’를 만든 한지은?</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=KBS%20%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8A%A4%ED%8E%98%EC%85%9C%202022">KBS 드라마 스페셜 2022</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221209012533_6f99a9f92f811ed21301ef80dc167dc3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 21:05:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 23:09:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,11 +688,29 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221125110226_14767202a2ed81f6100e2529c62c6f2f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[불후의 명곡 - 패티김 특집, 대망의 3부 피날레 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=240828</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=240828</guid>
+            <pubDate>Fri, 09 Dec 2022 23:07:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=240828">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221209142709_b3a2d47de68eece61aee5d587656e78a_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=240828">불후의 명곡 - 패티김 특집, 대망의 3부 피날레</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221209142709_b3a2d47de68eece61aee5d587656e78a_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[슈퍼맨이 돌아왔다] 이게 K-응원이다 우루과이전 직관! 대한민국 외치는 건나블리★ (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=240959</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=240959</guid>
             <pubDate>Fri, 09 Dec 2022 17:05:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=240959">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=240959">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221210012639_9deabc8f75b1fb4cf0744cc59f999832_1.PNG" alt="대체 텍스트">
@@ -1030,24 +1048,6 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221209013056_86425d2489d485fd1f6851695ba07481_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[드라마 스페셜-낯선 계절에 만나] 옆방 남자 김건우와 대화하기 위해 ‘실 전화기’를 만든 한지은? (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=240713</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=240713</guid>
-            <pubDate>Fri, 09 Dec 2022 00:35:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=240713">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221209012533_6f99a9f92f811ed21301ef80dc167dc3.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=240713">[드라마 스페셜-낯선 계절에 만나] 옆방 남자 김건우와 대화하기 위해 ‘실 전화기’를 만든 한지은?</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=KBS%20%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8A%A4%ED%8E%98%EC%85%9C%202022">KBS 드라마 스페셜 2022</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221209012533_6f99a9f92f811ed21301ef80dc167dc3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['오마주' 이정은, 아시아 태평양 스크린 어워드 최우수연기상 수상! (MBC 연예 ─ 영화)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/365343</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/365343</guid>
@@ -1110,6 +1110,69 @@
             <pubDate>Sun, 04 Dec 2022 06:07:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/363214" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/10/21/5a2e7dab-a2bb-423b-8ff2-693bb8c2c96a.jpg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">소지섭 "아이돌 출신 배우 나나에 대한 선입견? 나도 가끔 가요계 왔다갔다하는 입장" [인터뷰M]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/10/21/5a2e7dab-a2bb-423b-8ff2-693bb8c2c96a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['영웅' 김고은 "일본어 대사, 극중 '이토 히로부미' 연기한 배우에게 도움 받아" [인터뷰M] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000174790</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000174790</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[뮤지컬 '영웅'을 극화한, 공연을 넘어선 전율과 감동을 극대화한 영화 '영웅'에서 조선의 마지막 궁녀 '설희'를 연기한 김고은을 만났다. 영화를 통해 지금까지 보지 못한 새로운 모습을 선보이며 관객들을 매료시킨 김고]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['아는 맛, 익숙한 맛' 통했던 영화계 '시즌2' 대히트 [2022총결산] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000174789</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000174789</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 영화계의 한 해를 돌아보자. 코로나로 인해 2020년부터 급격한 냉각기를 맞이한 영화계는 2022년 봄부터 조금씩 해동되기 시작해 3년 만에 천만 관객 영화도 탄생시켰다. 5월 18일에 개봉한 '범죄도시2]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['아바타'와 붙는 '영웅', 연말 한국영화 자존심 챙길까 [N초점] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006511474</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006511474</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:14 GMT</pubDate>
+            <content:encoded><![CDATA['영웅'이 올 연말, 한국 영화의 자존심을 지킬 수 있을까. 올해 마지막 성수기 흥행 경쟁을 앞둔 극장가에는 두 편의 영화가 출격을 앞두고 있다. 14일 개봉할 할리우드 블록버스터 '아바타: 물의 길'(감독 제임스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[현장] 제임스 카메론과 아바타 군단, 서울 오다 “한국에서 가장 먼저 선보이게 돼 기쁘다” (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000051976</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000051976</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[제임스 카메론 감독이 한국을 찾았다. 14일 개봉하는 영화 [아바타:물의 길] 홍보를 위해서이다. 지난 2009년 개봉되어 전 세계적으로 28억 9734만 달러(약 4조 원)라는 천문학적 흥행성적을 올린 [아바타]의]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['소옆경' 김래원이 보여준 검거의 종합예술..시청률 최고 10.2% [종합] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003111827</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003111827</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:14 GMT</pubDate>
+            <content:encoded><![CDATA['소방서 옆 경찰서' 김래원이 이도엽과 관련된 모든 것들을 처단한 뒤 아버지 조승연의 처단을 노리고 있다. 지난 9일 방송된 SBS 금토 드라마 (극본 민지은·연출 신경수, 제작 메가몬스터) 8회는 닐슨 코리아 기준]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[서울독립영화제2022 폐막, 이정홍 감독 '괴인' 장편 대상 수상 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000051975</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000051975</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[서울독립영화제2022가 9일(금) 19시 CGV압구정 4관에서 열린 폐막식에서 올해의 행사보고와 시상을 마치며 9일 간의 일정에 마침표를 찍었다. 올해 영예의 대상은 이정홍 감독의 &lt;괴인&gt;이 차지했다. 배우 공민정,]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['혈액암 투병' 안성기 인사..박해일→염정아, 후배들의 뜨거운 마음 [스타이슈] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003111824</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003111824</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[혈액암 투병 중인 안성기가 대종상 공로상을 수상한 가운데, 박해일 이병헌, 염정아, 박소담 등 배우들이 뜨거운 마음으로 응원하는 모습이 포착 됐다. 안성기는 지난 9일 오후 서울 광진구 건국대학교 새천년홀에서 제58]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[영화 '강남좀비' 지일주-박지연, "필사의 탈출" (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000051974</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000051974</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[내년 1월 5일 개봉되는 코믹 좀비 액션 &lt;강남좀비&gt;(감독:이수성)의 포스터가 공개됐다. 는 원인불명의 증세를 보이는 사람들이 출몰하면서 혼돈의 중심이 된 강남, 그 속에서 살아남기 위해 목숨을 건 사람들의 사투를]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['파친코'. 미국영화연구소 '올해 10대 TV 프로그램' 선정 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013634526</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013634526</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[올해의 10대 영화에는 '아바타2'와 '탑건2' 정윤섭 특파원 = 미국 스트리밍 플랫폼 애플TV+가 제작한 한국 오리지널 드라마 '파친코'가 미국영화연구소(AFI)의 '올해의 10대 TV 프로그램'에 선정됐다. AF]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['대종상 뉴웨이브상' 옹성우, 여심을 녹이는 짙은 잘생김 [MD동영상] (네이버TV연예 ─ 영화)]]></title>
@@ -1224,242 +1287,249 @@
             <content:encoded><![CDATA[그룹 DKZ 재찬(박재찬)이 9일 오후 서울 화양동 건국대학교 새천년관에서 열린 '제58회 대종상 영화제' 레드카펫 행사에 참석해 포토타임을 갖고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 박재찬, '부드러운 손인사~' (제58회 대종상 영화제) (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004785819</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004785819</guid>
-            <pubDate>Fri, 09 Dec 2022 14:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 DKZ 재찬(박재찬)이 9일 오후 서울 화양동 건국대학교 새천년관에서 열린 '제58회 대종상 영화제' 레드카펫 행사에 참석해 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[NCT 쟈니·재현·정우, 광고촬영 중 세트 무너져 부상 “정밀검진 필요” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663931</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663931</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 쟈니, 재현, 정우가 광고 촬영 중 부상을 당했다. SM엔터테인먼트는 12월 9일 팬 커뮤니티 광야 클럽에 쟈니, 재현, 정우의 부상 소식을 전했다. 소속사 측은 "금일 쟈니, 재현, 정우가 광고 촬영 중 정]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 박재찬, '팬들을 향해 하트 발사' (제58회 대종상 영화제) (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004785818</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004785818</guid>
-            <pubDate>Fri, 09 Dec 2022 14:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 DKZ 재찬(박재찬)이 9일 오후 서울 화양동 건국대학교 새천년관에서 열린 '제58회 대종상 영화제' 레드카펫 행사에 참석해 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[[EN:터뷰]'슈룹' 문상민의 꿈 "김혜수 엄마 닮고 싶어요"[영상] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=079&amp;aid=0003716114</link>
+            <guid>https://entertain.naver.com/now/read?oid=079&amp;aid=0003716114</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[핵심요약 tvN 토일드라마 '슈룹' 성남대군 역으로 눈도장 "'슈룹' 통해 스스로 자신감 찾고 믿음 얻었다" "직접 액션한 이유? 성남대군 매력 포인트라서" "'로코' 연하남 해보고파…나다운 모습 보여줄 것" 언뜻]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 박재찬, '미소가 멋진 남자' (제58회 대종상 영화제) (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004785817</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004785817</guid>
-            <pubDate>Fri, 09 Dec 2022 14:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 DKZ 재찬(박재찬)이 9일 오후 서울 화양동 건국대학교 새천년관에서 열린 '제58회 대종상 영화제' 레드카펫 행사에 참석해 발걸음을 옮기고 있다.]]></content:encoded>
+            <title><![CDATA[연말에 즐기는 해외시리즈…팀 버튼 신작부터 범죄·코미디까지 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0013634553</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0013634553</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[범죄를 해결하는 두 가지 방식…과학 수사 'CSI'·초능력 이용 '웬즈데이' 퀸카들의 학교생활 엿보는 하이틴 드라마…'가십걸 리부트'·'어쿼드' 강애란 기자 김우진 인턴기자 = 부쩍 추워진 날씨에 주말에도 집안에 머]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 박재찬, '멋진 모습으로 등장' (제58회 대종상 영화제) (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004785816</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004785816</guid>
-            <pubDate>Fri, 09 Dec 2022 14:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 DKZ 재찬(박재찬)이 9일 오후 서울 화양동 건국대학교 새천년관에서 열린 '제58회 대종상 영화제' 레드카펫 행사에 참석해 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[술꾼도시여자들이 돌아왔다 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005058192</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005058192</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[‘술꾼도시여자들2’ 리뷰 술꾼도시여자들이 술을 끊었다? 그럴리가 없지. 속세를 떠나 산속으로 들어가 ‘술끊도시여자들’이 됐던 이선빈, 한선화, 정은지가 하산해 다시 적시기 시작했다. 9일 공개된 티빙 오리지널 ‘술꾼]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 옹성우, '이 남자 멋지네~' (제58회 대종상 영화제) (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004785815</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004785815</guid>
-            <pubDate>Fri, 09 Dec 2022 14:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[배우 옹성우가 9일 오후 서울 화양동 건국대학교 새천년관에서 열린 '제58회 대종상 영화제' 레드카펫 행사에 참석해 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[[Y터뷰] '슈룹' 문상민 "롤모델 김혜수…배려심 多, 화령 그 자체"② (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001824113</link>
+            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001824113</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[배우 문상민 씨가 드라마 '슈룹'에서 모자지간으로 만난 선배 연기자 김혜수 씨를 롤모델로 꼽았다. 연기력은 물론 스태프들을 챙기는 배려심에 대해 놀랐다며 미담을 풀어놨다. 문상민 씨는 지난 4일 종영한 tvN 토일드]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 옹성우, '멋지게 하트~' (제58회 대종상 영화제) (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004785814</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004785814</guid>
-            <pubDate>Fri, 09 Dec 2022 14:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[배우 옹성우가 9일 오후 서울 화양동 건국대학교 새천년관에서 열린 '제58회 대종상 영화제' 레드카펫 행사에 참석해 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA[[Y터뷰] '슈룹' 문상민 "성남대군, 욕심내며 준비…쉬는 날엔 늘 승마장行"① (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=052&amp;aid=0001824112</link>
+            <guid>https://entertain.naver.com/now/read?oid=052&amp;aid=0001824112</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[배우 문상민 씨가 드라마 '슈룹' 촬영 준비를 위해 승마 연습에 매진했다고 밝혔다. 문상민 씨는 지난 4일 종영한 tvN 토일드라마 '슈룹'에서 성남대군 역을 맡아 안방에 눈도장을 찍었다. 수려한 비주얼로 '꽃세자']]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 옹성우, '완벽한 모습' (제58회 대종상 영화제) (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004785812</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004785812</guid>
-            <pubDate>Fri, 09 Dec 2022 14:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[배우 옹성우가 9일 오후 서울 화양동 건국대학교 새천년관에서 열린 '제58회 대종상 영화제' 레드카펫 행사에 참석해 발걸음을 옮기고 있다.]]></content:encoded>
+            <title><![CDATA[대상은 신동엽? 김종민?…'2022 KBS 연예대상', 받을 사람이 없다 [TEN스타필드] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000584773</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000584773</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[≪태유나의 오예≫ '콘텐츠 범람의 시대'. 어떤 걸 볼지 고민인 독자들에게 태유나 텐아시아 기자가 '예능 가이드'가 돼 드립니다. 예능계 핫이슈는 물론, 관전 포인트, 주요 인물, 비하인드 스토리까지 낱낱히 파헤쳐]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 옹성우, '멋진 모습으로 등장' (제58회 대종상 영화제) (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004785811</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004785811</guid>
-            <pubDate>Fri, 09 Dec 2022 14:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[배우 옹성우가 9일 오후 서울 화양동 건국대학교 새천년관에서 열린 '제58회 대종상 영화제' 레드카펫 행사에 참석해 발걸음을 옮기고 있다.]]></content:encoded>
+            <title><![CDATA[보아, 느낌있는 버킷햇 [포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663930</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663930</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[가수 보아가 12월 10일 오전 해외 일정을 마치고 인천광역시 중구 운서동 인천국제공항으로 입국하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[포토] 임지연, '눈부시게 아름다운 모습' (제58회 대종상 영화제) (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004785810</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004785810</guid>
-            <pubDate>Fri, 09 Dec 2022 14:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[배우 임지연이 9일 오후 서울 화양동 건국대학교 새천년관에서 열린 '제58회 대종상 영화제' 레드카펫 행사에 참석해 포토타임을 갖고 있다.]]></content:encoded>
+            <title><![CDATA['코로나 격리' 김민경 "사격 국대 출전 후…내 인생 없었다" (민경장군)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001533870</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001533870</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[개그우먼 김민경이 사격대회 출전 후 느꼈던 솔직한 마음을 털어놓았다. 9일 김민경의 유튜브 채널 '민경장군'에는 '사격 경기 마친 후 코로나 자가격리 중. 잠들기 전에 보세요. 아플 때 먹는 죽이 제일 맛있지'라는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘재혼’ 이경실 “결혼 1번으로 끝내야”→박미선, 방송국 짝사랑 고백(여행의 맛)[어제TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663912</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663912</guid>
-            <pubDate>Fri, 09 Dec 2022 21:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[이경실, 박미선이 솔직한 입담으로 웃음을 유발했다. 12월 9일 방송된 TV조선 예능 '여행의 맛' 9회에서는 조동아리(김용만, 지석진, 김수용)와 센 언니들(이경실, 박미선, 조혜련)의 일본 도쿄 여행기가 이어졌다]]></content:encoded>
+            <title><![CDATA[엑소 시우민, 날카로운 눈빛 [포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663929</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663929</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[엑소(EXO) 시우민이 12월 10일 오전 해외 일정을 마치고 인천광역시 중구 운서동 인천국제공항으로 입국하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘이봉원♥’ 박미선 솔직 돈 자랑 “집 넓고 재산 많아”(여행의 맛)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663911</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663911</guid>
-            <pubDate>Fri, 09 Dec 2022 21:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[박미선이 솔직하게 재력을 과시했다. 12월 9일 방송된 TV조선 예능 '여행의 맛' 9회에서는 조동아리(김용만, 지석진, 김수용)와 센 언니들(이경실, 박미선, 조혜련)의 일본 도쿄 여행기가 이어졌다. 이날 박미선은]]></content:encoded>
+            <title><![CDATA[조 샐다나, 매혹적인 미모로 돌아온 ‘네이티리’ [포토엔HD 화보] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663928</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663928</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[배우 조 샐다나가 12월 9일 오전 서울 영등포구 여의도동 콘래드 호텔 그랜드볼룸에서 열린 영화 '아바타:물의 길' 내한 기자간담회에 참석했다. 한편, 같은날 저녁 영등포 타임스퀘어에서 열린 '아바타:물의 길' 블루]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오은영, 율희의 '대량제공육아'에 팩폭X조언..."4세는 욕구 지연을 배워야 하는 나이"('금쪽같은 내 새끼') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000584772</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000584772</guid>
-            <pubDate>Fri, 09 Dec 2022 21:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[오은영이 율희의 자녀 교육 태도에 조언했다. 9일 방송된 채널A '오은영의 금쪽상담소'에서는 최연소 아이돌 부부 최민환, 율희가 출연해 고민을 털어놨다. 이날 최민환은 율희의 교육열을 언급하며 "아이들을 좋은 유치원]]></content:encoded>
+            <title><![CDATA[엑소 시우민, 깔끔한 패션으로 [포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663927</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663927</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 엑소 시우민이 12월 10일 오전 해외 일정을 마치고 인천광역시 중구 운서동 인천국제공항으로 입국하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박미선 “♥이봉원 깻잎 잡아주는 김희선 싫어, 조혜련은 허용”(여행의 맛)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663910</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663910</guid>
-            <pubDate>Fri, 09 Dec 2022 21:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[박미선이 깻잎 논쟁에 대해서 사람에 따라 다른 반응을 보였다. 12월 9일 방송된 TV조선 예능 '여행의 맛' 9회에서는 조동아리(김용만, 지석진, 김수용)와 센 언니들(이경실, 박미선, 조혜련)의 일본 도쿄 여행기]]></content:encoded>
+            <title><![CDATA[스티븐 랭, 대유쾌 윙크 [포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663926</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663926</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[배우 스티븐 랭이 12월 9일 오후 서울 영등포구 타임스퀘어 아트리움에서 열린 영화 '아바타:물의 길' 블루카펫 행사에 참석했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[전현무, "못된 시어머니 옆에 있는 며느리 같아"...77즈 박세리와 굴튀김으로 '티격태격'('나혼산') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000584771</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000584771</guid>
-            <pubDate>Fri, 09 Dec 2022 21:04:53 GMT</pubDate>
-            <content:encoded><![CDATA['나혼산' 박세리가 전현무와 티격태격 77즈의 우정을 보였다. 9일 오후 방송된 MBC 예능프로그램 '나 혼자 산다'에서는 77라인즈 주최 단합대회를 하는 박세리와 전현무, 기안84, 키, 코쿤의 모습이 그려졌다.]]></content:encoded>
+            <title><![CDATA[보아, 수줍게 인사하며 [포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663925</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663925</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[가수 보아가 12월 10일 오전 해외 일정을 마치고 인천광역시 중구 운서동 인천국제공항으로 입국하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[바쁘다 바빠…유재석, 안주않는 국민MC 열일 행보 [N초점] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006511404</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006511404</guid>
-            <pubDate>Fri, 09 Dec 2022 21:04:53 GMT</pubDate>
-            <content:encoded><![CDATA['국민 MC' 유재석이 연말까지 종횡무진 활약을 이어가고 있다. 기존에 출연해온 MBC '놀면 뭐하니?'와 SBS '런닝맨' 그리고 tvN '유 퀴즈 온 더 블럭' 외에도 올해에만 신규 예능을 무려 5개나 론칭했다.]]></content:encoded>
+            <title><![CDATA[보아, ‘가볼게요~’ [포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663924</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663924</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[가수 보아가 12월 10일 오전 해외 일정을 마치고 인천광역시 중구 운서동 인천국제공항으로 입국하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[15살 금쪽이, 母 위협하고 욕설+폭주→경찰까지 출동(금쪽같은)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663909</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663909</guid>
-            <pubDate>Fri, 09 Dec 2022 21:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[4년째 호흡 곤란을 호소한 금쪽이의 폭주로 경찰과 구급대까지 출동하는 상황이 벌어졌다. 12월 9일 방송된 채널A ‘요즘 육아-금쪽같은 내새끼’에서는 4년째원인불명의 호흡 곤란으로 고통받는 금쪽이가 분노 조절을 하지]]></content:encoded>
+            <title><![CDATA[보아(BoA), ‘양갈래 땋은 머리’ 편함과 스타일 모두 챙긴 공항 패션(인천공항 입국)[뉴스엔TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663923</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663923</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[가수 보아가 ‘BEYOU2: THE WORLD WILL CARE’ 공연 일정을 마치고 12월 10일 오전 마닐라에서 인천 중구 인천국제공항으로 입국하고있다. #보아 #BoA #ICN #입국 #공항패션 #인천공항 #A]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코드쿤스트 "전현무 '무도' 나올 때 욕했다" 깜짝 고백 [RE:TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006511399</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006511399</guid>
-            <pubDate>Fri, 09 Dec 2022 21:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[코드 쿤스트가 전현무를 욕한 적 있다고 고백해 폭소를 유발했다. 지난 9일 방송된 MBC 예능 프로그램 '나 혼자 산다'에서는 무지개 회원들이 전현무의 깜짝 생일 파티를 열었다. 전현무는 마흔 여섯 번째 생일 파티를]]></content:encoded>
+            <title><![CDATA[동방신기(TVXQ!), 피곤한 모습도 빛이 난다 ‘무사히 도착’(인천공항 입국)[뉴스엔TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663922</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663922</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[가수 동방신기 멤버 유노윤호, 최강창민이 ‘BEYOU2: THE WORLD WILL CARE’ 공연 일정을 마치고 12월 10일 오전 마닐라에서 인천 중구 인천국제공항으로 입국하고있다. #동방신기 #TVXQ #東方神]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[율희, 걸그룹 탈퇴 얘기에 눈물…"그 감정 되살리기 싫어" [RE:TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006511395</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006511395</guid>
-            <pubDate>Fri, 09 Dec 2022 21:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[라붐 출신 율희가 걸그룹 얘기에 울컥했다. 지난 9일 오후 방송된 채널A 예능 프로그램 '오은영의 금쪽 상담소'에는 아이돌 부부 최민환, 율희가 출연해 오은영 박사를 만났다. 이날 두 사람은 진지한 대화만 하면 싸우]]></content:encoded>
+            <title><![CDATA[엑소(EXO) 시우민&첸, ‘새벽에 지지 않는 잘생김’ (인천공항 입국)[뉴스엔TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663921</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663921</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[가수 엑소(EXO) 멤버 시우민-첸이 ‘BEYOU2: THE WORLD WILL CARE’ 공연 일정을 마치고 12월 10일 오전 마닐라에서 인천 중구 인천국제공항으로 입국하고있다. #엑소 #EXO #시우민 #첸 #]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이호 교수, 첫 녹화 12시간 후유증 고백 “영육 분리되는 느낌”(알쓸인잡)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663908</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663908</guid>
-            <pubDate>Fri, 09 Dec 2022 21:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[법의학자 이호 교수가 첫 녹화 후 후유증을 고백했다. 12월 9일 방송된 tvN '알아두면 쓸데없는 신비한 인간 잡학사전'(이하 '알쓸인잡')에서는 두 번째 만남이 그려졌다. 첫 만남에서 12시간 녹화를 한 후유증은]]></content:encoded>
+            <title><![CDATA["나도 SM 가고 싶어"…허영만, 'SM 이사' 김민종에 고백 (백반기행)[전일야화] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001533869</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001533869</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:22 GMT</pubDate>
+            <content:encoded><![CDATA['백반기행' 허영만이 김민종에게 회사 욕심을 드러냈다. 9일 방송된 TV조선 '식객 허영만의 백반기행'(이하 '백반기행')에서는 가수 겸 배우 김민종이 게스트로 출연했다. 이날 김민종은 허영만과 청담동, 압구정 일대]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“난 제압”현주엽, 195㎝·120㎏ 피지컬 자신감→부모 위협 금쪽이에 충격(금쪽같은) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663907</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663907</guid>
-            <pubDate>Fri, 09 Dec 2022 21:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[현주엽이 부모에게 막말을 하고 폭력적인 성향을 보인 금쪽이 모습에 충격 받았다. 12월 9일 방송된 채널A ‘요즘 육아-금쪽같은 내새끼’에서는 4년째 호흡 곤란 증세를 호소하는 금쪽이의 변화 과정이 공개 됐다. 금쪽]]></content:encoded>
+            <title><![CDATA[엑소 첸, 해외 일정 마치고 입국 [포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663920</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663920</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 엑소 첸이 12월 10일 오전 해외 일정을 마치고 인천광역시 중구 운서동 인천국제공항으로 입국하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김민종, 청담동 16000원 미역국에 “母 끓여준 것보다 맛있어”(백반기행)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663906</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663906</guid>
-            <pubDate>Fri, 09 Dec 2022 21:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[김민종이 단골집 미역국에 대한 애정을 드러냈다. 12월 9일 방송된 TV조선 '식객 허영만의 백반기행'(이하 '백반기행') 179회에서는 '청담동 주민' 김민종이 서울 청담동 식도락 여행에 함께했다. 이날 김민종이]]></content:encoded>
+            <title><![CDATA["솔직해졌다" 전현무, 대상 기원 생일파티 '속마음 고백' (나 혼자 산다)[전일야화] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001533866</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001533866</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[방송인 전현무가 대상 기원 생일파티에 속마음을 고백했다. 9일 방송된 MBC '나 혼자 산다'에서는 전현무가 멤버들의 서프라이즈 생일 축하를 받는 모습이 전파를 탔다. 이날 박세리의 대전하우스에 모인 멤버들은 저녁식]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[전현무, 기안84 생일축하송에 “거의 악플…개사 수준 떨어져”(나혼산)[어제TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663905</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663905</guid>
-            <pubDate>Fri, 09 Dec 2022 21:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[전현무가 깜짝 생일파티에 감동받았다. 12월 9일 방송된 MBC '나 혼자 산다'(이하 '나혼산')에서는 박세리 집에서 연말 파티를 즐기는 무지개 회원들 모습이 공개됐다. 박세리의 '리치 하우스'를 영접한 멤버들은]]></content:encoded>
+            <title><![CDATA[이찬원, '진또배기' 故이성우 가족 상봉…"찬또배기 보고 울어" (편스토랑)[전일야화] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001533865</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001533865</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:22 GMT</pubDate>
+            <content:encoded><![CDATA['편스토랑' 이찬원이 '진또배기' 원곡자 故 이성우의 가족을 만났다. 9일 방송된 KBS 2TV 예능 프로그램 '신상출시 편스토랑'(이하 '편스토랑')에는 이찬원의 '백반집' 운영기가 담겼다. 이날 이찬원은 '편스토]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이동국 아들 시안, 찐건나블리 관심에 지쳐 “동생 안 갖고 싶어”(슈돌)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663904</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663904</guid>
-            <pubDate>Fri, 09 Dec 2022 21:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[이동국 아들 시안이 동생들의 과한 사랑에 지친 모습을 보였다. 12월 9일 방송된 KBS 2TV ‘슈퍼맨이 돌아왔다’(이하 ‘슈돌’)에서는 찐건나파블리와 이동국, 시안이 카타르 월드컵 직관에 나서는 모습이 그려졌다.]]></content:encoded>
+            <title><![CDATA[왜 한국인이 유색인 주인공에 분개할까 [하재근의 이슈분석] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=119&amp;aid=0002665863</link>
+            <guid>https://entertain.naver.com/now/read?oid=119&amp;aid=0002665863</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[최근 디즈니+와 미국 방송국 ABC가 12월 15일에 공개할 '미녀와 야수' 30주년 스페셜 방송의 캐스팅을 발표했다. 여주인공 벨 역을 세계적인 R&amp;B 가수 허(H.E.R.)가 맡는다고 한다. 그런데 이 캐스팅에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[율희, 라붐 탈퇴 과정에서 느낀 죄책감 “죄인 같았다” 눈물(금쪽상담소)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663903</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663903</guid>
-            <pubDate>Fri, 09 Dec 2022 21:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[율희가 걸그룹 라붐 탈퇴 과정에서 느꼈던 죄책감과 상처를 고백했다. 12월 9일 방송된 채널A ‘오은영의 금쪽상담소’에서는 라붐 탈퇴 이야길르 남편 최민환에게도 속시원하게 털어놓지 못한 이유를 밝혔다. 최민환, 율희]]></content:encoded>
+            <title><![CDATA[‘재벌집 막내아들’ 송중기, 순양 향한 야망…격변의 2막 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005058188</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005058188</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[‘재벌집 막내아들’이 후반전에 들어간다. JTBC 금토일드라마 ‘재벌집 막내아들’(연출 정대윤?김상호, 극본 김태희?장은재)이 9회를 기점으로 2막 돌입했다. 순양의 주인 자리를 둘러싼 승계 싸움 역시 달아오를 것이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[전현무, 튀김에 미친 남자 “휘발유처럼 팜유 들고 다녀”(나혼산)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663902</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663902</guid>
-            <pubDate>Fri, 09 Dec 2022 21:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[전현무가 튀김에 미친 남자라는 새로운 수식어를 얻었다. 12월 9일 방송된 MBC '나 혼자 산다'(이하 '나혼산')에서는 박세리 집에서 연말 파티를 즐기는 무지개 회원들 모습이 공개됐다. '큰 손' 박세리는 회원들]]></content:encoded>
+            <title><![CDATA[[인터뷰①] ‘금수저’ 이종원 “육성재·최원영, 부담감 덜어줬다” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005058187</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005058187</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이종원(28)이 첫 주연작 ‘금수저’를 성공적으로 마무리했다. 지난달 종영한 MBC 금토드라마 ‘금수저’(극본 윤은경 김은희, 연출 송현욱 이한준)는 가난한 집에서 태어난 이승천(육성재 분)이 우연히 얻게 된]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박세리, 기안84 노래 선물 거절 “이단옆차기 날아갈 뻔”(나혼산)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663901</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663901</guid>
-            <pubDate>Fri, 09 Dec 2022 21:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[박세리가 기안84 노래 선물을 거부해 웃음을 안겼다. 12월 9일 방송된 MBC '나 혼자 산다'(이하 '나혼산')에서는 박세리 집에서 연말 파티를 즐기는 무지개 회원들 모습이 공개됐다. 이날 회원들은 박세리 집에]]></content:encoded>
+            <title><![CDATA['삼남매가 용감하게' 김소은, 시청률 호재와 무관한 존재감 [스타이슈] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003111825</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003111825</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:30 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김소은(소속 아센디오(012170))의 '삼남매가 용감하게'에서의 존재감이 위험하다. KBS 2TV 주말드라마 '삼남매가 용감하게'에서 김소림 역을 맡은 김소은에 대한 반응이 팬들의 바람과 달리 계속 엇나가고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[율희 “걸그룹 때 생리 주기도 보고, 규제 심해”→수동 의존적 성향(금쪽상담소) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663900</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663900</guid>
-            <pubDate>Fri, 09 Dec 2022 21:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[율희가 걸그룹 활동 당시 겪었던 고충을 고백했다. 12월 9일 방송된 채널A ‘오은영의 금쪽상담소’에서 오은영은 율희의 수동 의존적 성향을 분석했다. 율희는 남편 최민환과 다른 자녀 교육관을 고백하며, 작은 일에도]]></content:encoded>
+            <title><![CDATA[유선호 “‘1박 2일’ 합류…김종민=멋지고 아름다운 분”[MK★인터뷰②] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000911530</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000911530</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:30 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2017년 방송된 Mnet ‘프로듀스 101 시즌2’로 얼굴을 알린 유선호는 같은 해 웹드라마 ‘악동탐정스’로 정식 데뷔했다. 이후 유선호는 드라마 ‘복수가 돌아왔다’ ‘언더커버’ ‘우수무당 가두심’, 최근 인]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[RM “팝 나오다 내 음악 나온 경험 많아, 손 공손하게 모으게 돼”(알쓸인잡) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663899</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663899</guid>
-            <pubDate>Fri, 09 Dec 2022 21:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단 RM이 자신의 음악이 나올 때 반응을 전했다. 12월 9일 방송된 tvN '알아두면 쓸데없는 신비한 인간 잡학사전'(이하 '알쓸인잡')에서는 두 번째 만남이 그려졌다. 이날 김영하는 촬영 장소와 깊은 인연]]></content:encoded>
+            <title><![CDATA[‘슈룹’ 유선호 “김혜수 만나 행운…감정 느끼고 배웠다”[MK★인터뷰①] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000911529</link>
+            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000911529</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:30 GMT</pubDate>
+            <content:encoded><![CDATA[배우 유선호가 2022년을 함께 한 작품 ‘슈룹’에 대해 이야기했다. 최근 인기리에 종영한 tvN 토일드라마 ‘슈룹’은 사고뭉치 왕자들을 위해 치열한 왕실 교육 전쟁에 뛰어드는 중전의 파란만장 궁중 분투기를 그린다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[율희 “월 교육비 800만원, 등원만 1시간 30분”→♥최민환과 육아+대화 갈등(금쪽)[어제TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663898</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663898</guid>
-            <pubDate>Fri, 09 Dec 2022 21:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[최민환, 율희 부부가 서로 다른 자녀 교육관, 대화법 문제의 해답을 찾았다. 12월 9일 방송된 채널A ‘오은영의 금쪽상담소’에서는 FT아일랜드 멤버 최민환, 율희 부부가 의뢰인으로 출연했다. 결혼 5년 차인 두 사]]></content:encoded>
+            <title><![CDATA[김래원X공승연, 달달함 없어도 설렌다 (소방서 옆 경찰서)[전일야화] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001533859</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001533859</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:30 GMT</pubDate>
+            <content:encoded><![CDATA['소방서 옆 경찰서'에서 김래원과 공승연의 은근한 핑크빛 무드가 설렘을 유발했다. 지난 9일 방송된 SBS 금토드라마 '소방서 옆 경찰서' 8회에서는 진호개(김래원 분)와 송설(공승연)이 묘한 감정을 나누는 모습이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[RM “결혼, 안 할 수도 있다 생각…제도에 근본적 회의감 있어”(알쓸인잡)[어제TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663897</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663897</guid>
-            <pubDate>Fri, 09 Dec 2022 21:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 방탄소년단 RM이 결혼에 대한 생각을 전했다. 12월 9일 방송된 tvN '알아두면 쓸데없는 신비한 인간 잡학사전'(이하 '알쓸인잡')에서는 '우리는 어떤 인간을 사랑할까'라는 주제로 이야기를 나눴다. 심채경]]></content:encoded>
+            <title><![CDATA['재벌집 막내아들' 송중기, 김신록 잡으려다 역풍 맞나[어저께TV] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004755567</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004755567</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:30 GMT</pubDate>
+            <content:encoded><![CDATA[‘재벌집 막내아들’ 검사가 된 신현빈은 김신록이 아닌 송중기를 잡게 될까. 지난 9일 오후에 방송된 종합편성채널 JTBC 금토일드라마 '재벌집 막내아들'(극본 김태희 장은재, 연출 정대윤 김상호) 9회에서는 진도준(]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이동국 子 시안, 소유진도 감탄한 오빠미 “어려운 거 있으면 말해”(슈돌) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663895</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663895</guid>
-            <pubDate>Fri, 09 Dec 2022 21:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[전 축구선수 이동국 아들 이시안이 듬직한 면모를 보였다. 12월 9일 방송된 KBS 2TV ‘슈퍼맨이 돌아왔다’(이하 ‘슈돌’)에서는 찐건나파블리와 이동국, 시안이 카타르 월드컵 직관에 나서는 모습이 그려졌다. 3년]]></content:encoded>
+            <title><![CDATA[송중기, 신현빈과 순양 모두 잃나…"허위 제보 증거 확보" (재벌집)[전일야화] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001533858</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001533858</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:30 GMT</pubDate>
+            <content:encoded><![CDATA['재벌집 막내아들' 송중기의 계획이 위기를 맞았다. 9일 방송된 JTBC 금토일 드라마 '재벌집 막내아들'(이하 '재벌집')에는 순양 백화점을 두고 치밀한 계획을 세운 진도준(송중기 분)의 이야기가 담겼다. 이날 진]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김민종, 절친 신승훈 전화로 기습 섭외 굳히기 “못 빠져나가”(백반기행)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663893</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663893</guid>
-            <pubDate>Fri, 09 Dec 2022 21:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[김민종이 절친 신승훈을 전화로 기습 섭외해 웃음을 자아냈다. 12월 9일 방송된 TV조선 '식객 허영만의 백반기행'(이하 '백반기행') 179회에서는 '청담동 주민' 김민종이 서울 청담동 식도락 여행에 함께했다. 이]]></content:encoded>
+            <title><![CDATA['소옆경' 김래원, "이럴 시간 없다" 현장 복귀…공승연, 의식 찾은 김래원 보고 '미소' (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=416&amp;aid=0000290298</link>
+            <guid>https://entertain.naver.com/now/read?oid=416&amp;aid=0000290298</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:30 GMT</pubDate>
+            <content:encoded><![CDATA[김래원이 눈을 떴다. 9일 방송된 SBS '소방서 옆 경찰서'(이하 '소옆경')에서는 무사히 의식을 회복한 진호개의 모습이 그려졌다. 이날 진호개는 갑자기 눈을 떴다. 그리고 자신이 깨어나길 기다리다 잠이 든 송설을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김민종, 데뷔 후 짝사랑→등기이사 된 SM 입사 비화 공개(백반기행)[어제TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663892</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663892</guid>
-            <pubDate>Fri, 09 Dec 2022 21:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[가수 겸 배우 김민종이 솔직한 입담을 자랑했다. 12월 9일 방송된 TV조선 '식객 허영만의 백반기행'(이하 '백반기행') 179회에서는 '청담동 주민' 김민종이 서울 청담동 식도락 여행에 함께했다. 이날 김민종은]]></content:encoded>
+            <title><![CDATA[정소민 가고 고윤정 온다… 환혼2 어떨까 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=417&amp;aid=0000876602</link>
+            <guid>https://entertain.naver.com/now/read?oid=417&amp;aid=0000876602</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:30 GMT</pubDate>
+            <content:encoded><![CDATA[시즌1을 이끌었던 정소민이 가고 고윤정이 '환혼2' 새 여주인공으로 모습을 드러낸다. tvN 새 토일드라마 '환혼: 빛과 그림자'(극본 홍정은 홍미란, 연출 박준화 이하 '환혼2')이 10일 9시10분 첫 방송된다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오은영, 호흡 곤란→부모 위협 금쪽이에 “부모 동급으로 봐”(금쪽같은)[어제TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663891</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663891</guid>
-            <pubDate>Fri, 09 Dec 2022 21:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[솔루션 중 폭력적 성향을 보인 금쪽이의 변화 과정이 공개 됐다. 12월 9일 방송된 채널A ‘요즘 육아-금쪽같은 내새끼’에서는 원인 모를 호흡 곤란으로 4년째 고통받은 금쪽이의 두 번째 이야기가 공개 됐다. 지난 방]]></content:encoded>
+            <title><![CDATA['금혼령' 죽은 김민주 그리워하는 김영대, 빙의된 박주현 보고 '눈물' [★밤TV] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003111817</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003111817</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:30 GMT</pubDate>
+            <content:encoded><![CDATA['금혼령, 조선 혼인 금지령'에서 김영대가 김민주를 그리워했다. 9일 오후 방송된 MBC 금토드라마 '금혼령, 조선 혼인 금지령'에서는 소랑(박주현 분)이 빙의된 척 연기하는 장면이 담겼다. 이날 세장(이현걸 분)은]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['재벌집' 송중기, 신현빈과 손잡으려다 역풍 맞나..위기 직면 [★밤TV] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003111816</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003111816</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:30 GMT</pubDate>
+            <content:encoded><![CDATA['재벌집 막내아들'에서 송중기가 김신록과 손잡은 신현빈에 의해 위기를 맞았다. 9일 방송된 JTBC 토일드라마 '재벌집 막내아들'에서는 진도준(송중기 분)이 초임 검사가 된 서민영(신현빈 분)을 만난 모습이 담겼다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[송중기, 생활고 父 도둑질 모른 척→대학 진학 포기(재벌집)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
@@ -1567,74 +1637,52 @@
             <content:encoded><![CDATA[진화영(김신록)이 주식 투자에 실패했다. 9일 방송된 종합편성채널 JBTC '재벌집 막내아들'(극본김태희 장은재 연출 정대윤 김상호)에서는 진화영이 주식 투자에 실패해 공금 1400억 원을 잃는 모습이 그려졌다. 이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['재벌집 막내아들' 송중기, 신현빈과 재회..김신록 공금 횡령 제보 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004755530</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004755530</guid>
-            <pubDate>Fri, 09 Dec 2022 14:08:39 GMT</pubDate>
-            <content:encoded><![CDATA[‘재벌집 막내아들’ 송중기가 검사가 된 신현빈과 재회했다. 9일 오후에 방송된 종합편성채널 JTBC 금토일드라마 ‘재벌집 막내아들’(극본 김태희 장은재, 연출 정대윤 김상호) 9회에서는 진도준(송중기 분)이 서민영(]]></content:encoded>
+            <title><![CDATA['영웅' 김고은 "일본어 대사, 극중 '이토 히로부미' 연기한 배우에게 도움 받아" [인터뷰M] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221210080131755</link>
+            <guid>https://v.daum.net/v/20221210080131755</guid>
+            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뮤지컬 '영웅'을 극화한, 공연을 넘어선 전율과 감동을 극대화한 영화 '영웅'에서 조선의 마지막 궁녀 '설희'를 연기한 김고은을 만났다. 영화를 통해 지금까지 보지 못한 새로운 모습을 선보이며 관객들을 매료시킨 김고은은 "대본에 집중했다. 노래를 하며 연기도 해야 했지만 영화에서는 '설희'의 서사나 감정선이 더 잘 살아나서 그걸 많이 고민했다. 국민]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F10%2FiMBC%2F20221210080132800vvrk.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['금혼령' 경리, 김영대 유혹 "더우면 옷 벗겨주겠다" [별별TV] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003111802</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003111802</guid>
-            <pubDate>Fri, 09 Dec 2022 14:08:39 GMT</pubDate>
-            <content:encoded><![CDATA['금혼령, 조선 혼인 금지령'에서 경리가 김영대를 유혹했다. 9일 오후 방송된 MBC 금토드라마 '금혼령, 조선 혼인 금지령'에서 세장(이현걸 분)은 세자빈 안 씨(김민주 분)의 죽음으로 여자에 관심이 없는 이헌(김]]></content:encoded>
+            <title><![CDATA['아는 맛, 익숙한 맛' 통했던 영화계 '시즌2' 대히트 [2022총결산] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221210080119748</link>
+            <guid>https://v.daum.net/v/20221210080119748</guid>
+            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 영화계의 한 해를 돌아보자. 코로나로 인해 2020년부터 급격한 냉각기를 맞이한 영화계는 2022년 봄부터 조금씩 해동되기 시작해 3년 만에 천만 관객 영화도 탄생시켰다. 5월 18일에 개봉한 '범죄도시2' (이상용 감독 / 배급: 주식회사 에이비오엔터테인먼트,플러스엠 엔터테인먼트)는 12,693,023명의 관객을 극장으로 불러들이며 화려한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F10%2FiMBC%2F20221210080122298ozzb.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[김신록, 주식으로 1400억 돈 잃었다‥폐인 신세‘재벌집 막내아들’ (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663884</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000663884</guid>
-            <pubDate>Fri, 09 Dec 2022 14:08:39 GMT</pubDate>
-            <content:encoded><![CDATA[김신록이 주식으로 쪽박을 찼다. 12월 9일 방송된 JTBC 금토일 드라마 '재벌집 막내아들'(극본 김태희, 장은재 / 연출 정대윤, 김상호) 9회에서는 무리하게 뉴데이터 테크놀로지에 투자해온 진화영(김신록 분)이]]></content:encoded>
+            <title><![CDATA['아바타'와 붙는 '영웅', 연말 한국영화 자존심 챙길까 [N초점] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221210080024705</link>
+            <guid>https://v.daum.net/v/20221210080024705</guid>
+            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = '영웅'이 올 연말, 한국 영화의 자존심을 지킬 수 있을까. 올해 마지막 성수기 흥행 경쟁을 앞둔 극장가에는 두 편의 영화가 출격을 앞두고 있다. 14일 개봉할 할리우드 블록버스터 '아바타: 물의 길'(감독 제임스 캐머런)와 21일부터 본격적으로 관객들과 만날 한국 영화 '영웅'(감독 윤제균)이 해당 작품들이다. '아바]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F10%2FNEWS1%2F20221210080025953tdzq.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[이성민, 송중기 애교에 녹았나…귀여운 손자 소원에 '웃음' (재벌집) (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001533824</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001533824</guid>
-            <pubDate>Fri, 09 Dec 2022 14:08:39 GMT</pubDate>
-            <content:encoded><![CDATA['재벌집 막내아들' 송중기가 이성민에게 건넨 제안이 또 성공했다. 9일 방송된 '재벌집 막내아들' 9회에서는 진도준(송중기 분)이 Y2K를 이용한 무제한 보상제를 제안하며 순양에 대한 입지를 다졌다. 이날 순양그룹은]]></content:encoded>
+            <title><![CDATA['소옆경' 김래원이 보여준 검거의 종합예술..시청률 최고 10.2% [종합] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221210075208630</link>
+            <guid>https://v.daum.net/v/20221210075208630</guid>
+            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='소방서 옆 경찰서' '소방서 옆 경찰서' 김래원이 이도엽과 관련된 모든 것들을 처단한 뒤 아버지 조승연의 처단을 노리고 있다. 지난 9일 방송된 SBS 금토 드라마 (극본 민지은·연출 신경수, 제작 메가몬스터) 8회는 닐슨 코리아 기준 수도권 8.5%, 순간 최고 10.2%를 기록했다. 2049 시청률은 3.5%로 진호개]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F10%2Fstarnews%2F20221210075210016xrum.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[‘금혼령, 조선 혼인 금지령’ 박영대-김우석, 무슨 사이? “넌 내 곁에 남아라” (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000174782</link>
-            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000174782</guid>
-            <pubDate>Fri, 09 Dec 2022 14:08:39 GMT</pubDate>
-            <content:encoded><![CDATA[박영대가 김우석에게 특명을 내렸다. 12월 9일 방송된 MBC 금토드라마 ‘금혼령, 조선 혼인 금지령’에서 이헌(박영대)은 이신원(김우석)에게 신신당부했다. 소랑(박주현)은 금혼령이 내려지자 오히려 몰래 궁합을 보고]]></content:encoded>
+            <title><![CDATA[[스한:BOX] '올빼미' 누적 215만 돌파 흥행…손익분기점 넘겼다 (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221210073807566</link>
+            <guid>https://v.daum.net/v/20221210073807566</guid>
+            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 조은애 기자] 영화 '올빼미'가 손익분기점을 넘기며 흥행에 성공했다. 10일 영진위 통합전산망 집계에 따르면 '올빼미'는 전날&nbsp;10만2533명의 관객을 모아 박스오피스 1위를 기록했다. 누적 관객 수는&nbsp;215만4496명이다. 유해진, 류준열 주연의 '올빼미'는 밤에만 앞이 보이는 맹인 침술사가 세자의 죽음을 목격한 후 진실을 밝히기]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F10%2FSpoHankook%2F20221210074051260tecx.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA[김래원, 경찰서 떠나는 이도엽에 "너 체포영상 나왔어" (소방서 옆 경찰서) (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001533822</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001533822</guid>
-            <pubDate>Fri, 09 Dec 2022 14:08:39 GMT</pubDate>
-            <content:encoded><![CDATA['소방서 옆 경찰서'에서 김래원이 이도엽을 한방 먹였다. 9일 방송된 SBS 금토드라마 '소방서 옆 경찰서' 8회에서는 마태화(이도엽 분)를 다시 체포하는 진호개(김래원)의 모습이 그려졌다. 앞선 방송에서 공명필(강]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[백성현, '배누리 아이= 윤채나' 사실에 충격('내 눈에 콩깍지') (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000584763</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000584763</guid>
-            <pubDate>Fri, 09 Dec 2022 14:08:39 GMT</pubDate>
-            <content:encoded><![CDATA[백성현이 배누리의 아이가 윤채나란 사실을 알게됐다. 9일 오후 8시 30분 방송된 KBS1TV '내 눈에 콩깍지'에서는 장경준(백성현 분)이 김미리내(윤채나 분)의 엄마가 이영이(배누리 분)이란 사실에 충격을 받았다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['금혼령' 박주현, 조선 최고의 궁합쟁이 등극 "한양 가자" (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003111800</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003111800</guid>
-            <pubDate>Fri, 09 Dec 2022 14:08:39 GMT</pubDate>
-            <content:encoded><![CDATA['금혼령, 조선 혼인 금지령'에서 배우 박주현이 더 큰 사기를 치기 위해 한양에 가기로 결심했다. 9일 오후 방송된 MBC 금토드라마 '금혼령, 조선 혼인 금지령'에서는 소랑(박주현 분)이 금혼령을 이용해 돈을 버는]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김래원, 의식 되찾았다...공승연 '미소'(소방서 옆 경찰서) (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001533819</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001533819</guid>
-            <pubDate>Fri, 09 Dec 2022 14:08:39 GMT</pubDate>
-            <content:encoded><![CDATA['소방서 옆 경찰서'에서 김래원이 의식을 찾았다. 9일 방송된 SBS 금토드라마 '소방서 옆 경찰서' 8회에서는 진호개(김래원 분)가 의식을 되찾는 모습이 그려졌다. 지난 방송에서 진호개가 마태화(이도엽)의 긴급체포]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘마녀의 게임’ 장서희, 한지완 위해 반효정 협박 “이빨 빠진 호랑이” (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000174777</link>
-            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000174777</guid>
-            <pubDate>Fri, 09 Dec 2022 14:08:39 GMT</pubDate>
-            <content:encoded><![CDATA[장서희와 반효정이 기싸움을 펼쳤다. 9일(금) 방송된 MBC 일일드라마 ‘마녀의 게임(연출 이형선/극본 이도현)’ 34회에서 설유경(장서희)이 주세영(한지완)을 지키기 위해 마현덕(반효정)을 협박하는 모습이 그려졌다]]></content:encoded>
+            <title><![CDATA['혈액암 투병' 안성기 인사..박해일→염정아, 후배들의 뜨거운 마음 [스타이슈] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20221210072235458</link>
+            <guid>https://v.daum.net/v/20221210072235458</guid>
+            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진=대종상 영화제 혈액암 투병 중인 안성기가 대종상 공로상을 수상한 가운데, 박해일 이병헌, 염정아, 박소담 등 배우들이 뜨거운 마음으로 응원하는 모습이 포착 됐다. 안성기는 지난 9일 오후 서울 광진구 건국대학교 새천년홀에서 제58회 대종상 영화제에서 공로상을 수상했다. 투병 중인 안성기는 수상 후 영상으로 인사했다. 안성기]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F10%2Fstarnews%2F20221210072236377arho.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA['혈액암 투병' 안성기 "새로운 영화로 뵙겠다"…대종상 공로상 수상 [RE:TV] (다음영화 뉴스 ─ 최신)]]></title>
@@ -1651,6 +1699,76 @@
             <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[텐아시아=강민경 기자] "2022년 개인적으로 참 의미가 있어요. '유미의 세포들', '작은 아씨들' 두 편의 드라마가 모두 사랑받았고, 영화 '영웅'까지 선보일 수 있게 돼 행복하게 바빴어요. 2023년에는 언제나 그랬듯이 열심히 작품을 하고, 많은 분이 봐주시고 사랑받을 수 있는 작품이 나왔으면 좋겠어요." 배우 김고은이 2022년을 돌아보고 참 행]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F10%2F10asia%2F20221210020304081lkki.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[연말에 즐기는 해외시리즈…팀 버튼 신작부터 범죄·코미디까지 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20221210080010687</link>
+            <guid>https://v.daum.net/v/20221210080010687</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 강애란 기자 김우진 인턴기자 = 부쩍 추워진 날씨에 주말에도 집안에 머무른다면 온라인 동영상 서비스(OTT)에서 해외시리즈를 정주행해보는 것은 어떨까. OTT 업계는 연말을 맞아 할리우드를 대표하는 영화감독인 팀 버튼이 연출한 미스터리 범죄물부터 고등학교를 배경으로 한 하이틴 드라마, 웃음 폭탄을 안기는 코미디물까지 다양한 작품들을 내놨]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['삼남매가 용감하게' 김소은, 시청률 호재와 무관한 존재감 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20221210073005523</link>
+            <guid>https://v.daum.net/v/20221210073005523</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 이경호 기자] KBS 2TV 주말드라마 '삼남매가 용감하게'의 김소은./사진=KBS 2TV 주말드라마 '삼남매가 용감하게' 방송 화면 캡처배우 김소은(소속 아센디오(012170))의 '삼남매가 용감하게'에서의 존재감이 위험하다. KBS 2TV 주말드라마 '삼남매가 용감하게'에서 김소림 역을 맡은 김소은에 대한 반응이 팬들의 바람과 달리 계속 엇]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[유선호 “‘1박 2일’ 합류…김종민=멋지고 아름다운 분” (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20221210070312307</link>
+            <guid>https://v.daum.net/v/20221210070312307</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2017년 방송된 Mnet ‘프로듀스 101 시즌2’로 얼굴을 알린 유선호는 같은 해 웹드라마 ‘악동탐정스’로 정식 데뷔했다. 이후 유선호는 드라마 ‘복수가 돌아왔다’ ‘언더커버’ ‘우수무당 가두심’, 최근 인기리에 종영한 tvN 드라마 ‘슈룹’에 출연하며 천천히 필모그래피를 쌓아왔다. ‘진짜 농구, 핸섬타이거즈’ 등 예능에도 출연했던 그는 KBS 2]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘슈룹’ 유선호 “김혜수 만나 행운…감정 느끼고 배웠다” (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20221210070307302</link>
+            <guid>https://v.daum.net/v/20221210070307302</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[배우 유선호가 2022년을 함께 한 작품 ‘슈룹’에 대해 이야기했다. 최근 인기리에 종영한 tvN 토일드라마 ‘슈룹’은 사고뭉치 왕자들을 위해 치열한 왕실 교육 전쟁에 뛰어드는 중전의 파란만장 궁중 분투기를 그린다. 유선호는 극 중 성소수자라는 비밀을 간직한 초절정 꽃미남 계성대군 역을 맡았다. 성소수자 역할을 위해 관련된 영화와 드라마, 다큐멘터리를 봤다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김래원X공승연, 달달함 없어도 설렌다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20221210065503130</link>
+            <guid>https://v.daum.net/v/20221210065503130</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 오수정 기자) '소방서 옆 경찰서'에서 김래원과 공승연의 은근한 핑크빛 무드가 설렘을 유발했다.&nbsp; 지난 9일 방송된 SBS 금토드라마 '소방서 옆 경찰서' 8회에서는 진호개(김래원 분)와 송설(공승연)이 묘한 감정을 나누는 모습이 그려졌다.&nbsp; 이날 방송에서는 끈질기게 물고 늘어진 진호개의 열정으로 마태화(이도엽)를 구속시켰다. 이제까지 요리조]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['재벌집 막내아들' 송중기, 김신록 잡으려다 역풍 맞나 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20221210065026108</link>
+            <guid>https://v.daum.net/v/20221210065026108</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=선미경 기자] ‘재벌집 막내아들’ 검사가 된 신현빈은 김신록이 아닌 송중기를 잡게 될까. 지난 9일 오후에 방송된 종합편성채널 JTBC 금토일드라마 '재벌집 막내아들'(극본 김태희 장은재, 연출 정대윤 김상호) 9회에서는 진도준(송중기 분)이 검사가 된 서민영(신현빈 분)과 재회하는 내용이 그려졌다. 진도준은 진화영(김신록 분)을 백화점에서]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[송중기, 신현빈과 순양 모두 잃나…"허위 제보 증거 확보" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20221210065007106</link>
+            <guid>https://v.daum.net/v/20221210065007106</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 오승현 인턴기자) '재벌집 막내아들' 송중기의 계획이 위기를 맞았다. 9일 방송된 JTBC 금토일 드라마 '재벌집 막내아들'(이하 '재벌집')에는 순양 백화점을 두고 치밀한 계획을 세운 진도준(송중기 분)의 이야기가 담겼다. 이날 진도준은 검사가 된 서민영(신현빈)에게 진화영(김신록) 대표의 백화점 공금 횡령 혐의를 제보했다. 이에 서민영은]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['소옆경' 김래원, "이럴 시간 없다" 현장 복귀…공승연, 의식 찾은 김래원 보고 '미소' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20221210064501073</link>
+            <guid>https://v.daum.net/v/20221210064501073</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[[SBS연예뉴스 | 김효정 에디터] 김래원이 눈을 떴다. 9일 방송된 SBS '소방서 옆 경찰서'(이하 '소옆경')에서는 무사히 의식을 회복한 진호개의 모습이 그려졌다. 이날 진호개는 갑자기 눈을 떴다. 그리고 자신이 깨어나길 기다리다 잠이 든 송설을 발견하고 놀랐다. 이에 진호개는 "퇴근 안 해?"라며 딴청을 피웠다. 송설은 눈을 뜬 진호개를 보며 행복한]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['금혼령' 죽은 김민주 그리워하는 김영대, 빙의된 박주현 보고 '눈물' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20221210062102963</link>
+            <guid>https://v.daum.net/v/20221210062102963</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 이빛나리 기자] /사진='금혼령, 조선 혼인 금지령' 방송화면'금혼령, 조선 혼인 금지령'에서 김영대가 김민주를 그리워했다. 9일 오후 방송된 MBC 금토드라마 '금혼령, 조선 혼인 금지령'에서는 소랑(박주현 분)이 빙의된 척 연기하는 장면이 담겼다. 이날 세장(이현걸 분)은 죽은 세자빈 안 씨(김민주 분)를 오랫동안 잊지 못하는 이헌(김영대]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['재벌집' 송중기, 신현빈과 손잡으려다 역풍 맞나..위기 직면 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20221210061302909</link>
+            <guid>https://v.daum.net/v/20221210061302909</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 이상은 기자] /사진=JTBC 토일드라마 '재벌집 막내아들' 방송 화면 캡처'재벌집 막내아들'에서 송중기가 김신록과 손잡은 신현빈에 의해 위기를 맞았다. 9일 방송된 JTBC 토일드라마 '재벌집 막내아들'에서는 진도준(송중기 분)이 초임 검사가 된 서민영(신현빈 분)을 만난 모습이 담겼다. 이날 서민영은 "순양 백화점 진화영(김신록 분) 대표]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[송중기, 생활고 父 도둑질 모른 척→대학 진학 포기 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
@@ -1688,74 +1806,95 @@
             <content:encoded><![CDATA[[스타뉴스 이상은 기자] /사진=JTBC 토일드라마 '재벌집 막내아들' 방송 화면 캡처'재벌집 막내아들'에서 송중기가 이성민의 도움으로 순양 백화점 이사회를 소집했다. 9일 방송된 JTBC 토일드라마 '재벌집 막내아들'에서는 순양 백화점 대표 진화영(김신록 분)과 대립 중인 진도준(송중기 분)이 할아버지이자 순양 그룹 회장인 진양철(이성민 분)을 찾아가는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[송중기, 허위 제보 의혹에 위기?…신현빈에 뒤통수 맞나 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20221209235813962</link>
-            <guid>https://v.daum.net/v/20221209235813962</guid>
-            <pubDate>Fri, 09 Dec 2022 15:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 강다윤 기자] 진도준(송중기)이 진화영(김신록)과 제대로 맞붙었다. 9일 방송된 종합편성채널 JBTC '재벌집 막내아들'(극본김태희 장은재 연출 정대윤 김상호)에서는 진화영을 끌어내리려는 진도준의 모습이 그려졌다. 이날 진화영은 주식 투자에 실패해 공금 1400억 원을 잃었다. 이에 진도준은 서민영(신현빈)을 만나 진화영의 공금 횡령 의혹]]></content:encoded>
+            <title><![CDATA['편스토랑' 박수홍X이찬원, 선한 영향력 통했나..시청률 동반 상승 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20221210074421592</link>
+            <guid>https://v.daum.net/v/20221210074421592</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김채연 기자] ‘신상출시 편스토랑’&nbsp;박수홍과 이찬원이 착한 예능의 감동을 선사했다. 지난&nbsp;9일 방송된&nbsp;KBS 2TV ‘신상출시 편스토랑’(이하&nbsp;‘편스토랑’)에서는 편셰프들의 훈훈한 이야기가 공개됐다.&nbsp; 이날 박수홍은 직접 고안한 레시피로 만든&nbsp;3가지 메뉴를&nbsp;2000여 명의&nbsp;GS&nbsp;직원들에게 선보이며 맛 평가를 받았다.&nbsp;또한 동갑내기 친구 조혜련]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘재벌집 막내아들’ 검사 신현빈, ‘횡령’ 김신록 아닌 송중기 잡나? 충격 반전 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20221209235430954</link>
-            <guid>https://v.daum.net/v/20221209235430954</guid>
-            <pubDate>Fri, 09 Dec 2022 15:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트 = 하수나 기자] 신현빈이 자신에게 김신록의 횡령 제보를 한 송중기의 뒤통수를 치는 듯한 엔딩으로 궁금증을 고조시켰다.&nbsp; 9일 방송된 JTBC '재벌집 막내아들‘에선 진도준(송중기 분)과 서민영(신현빈 분)이 재회하는 모습이 그려졌다.&nbsp; 이날 진도준은 고모인 진화영(김신록 분)의 공금횡령 제보를 위해 서민영을 찾아왔고 서민영은 실망감을 감추지]]></content:encoded>
+            <title><![CDATA[대상은 신동엽? 김종민?…'2022 KBS 연예대상', 받을 사람이 없다 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20221210074101580</link>
+            <guid>https://v.daum.net/v/20221210074101580</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=태유나 기자] ≪태유나의 오예≫ '콘텐츠 범람의 시대'. 어떤 걸 볼지 고민인 독자들에게 태유나 텐아시아 기자가 '예능 가이드'가 돼 드립니다. 예능계 핫이슈는 물론, 관전 포인트, 주요 인물, 비하인드 스토리까지 낱낱히 파헤쳐 프로그램 시청에 재미를 더합니다. "KBS는 무주공산이다. 대상 후보를 알 수가 없다. 굳이 알고 싶지도 않다" 연]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[송중기·신현빈, 러브라인 위기…"허위 제보 증거 찾았다" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20221209235142947</link>
-            <guid>https://v.daum.net/v/20221209235142947</guid>
-            <pubDate>Fri, 09 Dec 2022 15:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 오승현 인턴기자) '재벌집 막내아들' 송중기가 위기를 맞이했다. 9일 방송된 '재벌집 막내아들' 9회에서는 '순양 백화점' 대표 진화영의 공금횡령 혐의를 두고 움직이는 진도준(송중기 분)과 서민영(신현빈)의 이야기가 담겼다. 서민영은 초임 검사가 됐고, 진도준은 그런 그를 찾아갔다.&nbsp; 진도준은 여성지 촬영, 인터뷰에만 배정되며 제대로 된 사건]]></content:encoded>
+            <title><![CDATA['코로나 격리' 김민경 "사격 국대 출전 후…내 인생 없었다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20221210073003519</link>
+            <guid>https://v.daum.net/v/20221210073003519</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 개그우먼 김민경이 사격대회 출전 후 느꼈던 솔직한 마음을 털어놓았다. 9일 김민경의 유튜브 채널 '민경장군'에는 '사격 경기 마친 후 코로나 자가격리 중. 잠들기 전에 보세요. 아플 때 먹는 죽이 제일 맛있지'라는 제목의 영상이 게재됐다. 영상 속에서 김민경은 "제가 지금 좀 아프다"라고 인사하면서 "경기를 무사히 마치고 한국에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['재벌집 막내아들' 검사된 신현빈, 김신록 아닌 송중기 잡나..반전 엔딩 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20221209235123946</link>
-            <guid>https://v.daum.net/v/20221209235123946</guid>
-            <pubDate>Fri, 09 Dec 2022 15:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=선미경 기자] ‘재벌집 막내아들’ 송중기의 위기일까, 김신록의 몰락일까. 9일 오후에 방송된 종합편성채널 JTBC 금토일드라마 ‘재벌집 막내아들’(극본 김태희 장은재, 연출 정대윤 김상호) 9회에서는 진도준(송중기 분)과 서민영(신현빈 분)의 재회가 그려졌다. 진도준은 서민영을 이용해 진화영(김신록 분)을 무너뜨리려고 했다. 진도준은 진화영을]]></content:encoded>
+            <title><![CDATA["나도 SM 가고 싶어"…허영만, 'SM 이사' 김민종에 고백 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20221210072002429</link>
+            <guid>https://v.daum.net/v/20221210072002429</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 오승현 인턴기자) '백반기행' 허영만이 김민종에게 회사 욕심을 드러냈다. 9일 방송된 TV조선 '식객 허영만의 백반기행'(이하 '백반기행')에서는 가수 겸 배우 김민종이 게스트로 출연했다. 이날 김민종은 허영만과 청담동, 압구정 일대 맛집을 탐방하며 이야기를 나눴다. 허영만은 김민종의 20대 시절을 추억하던 중 "첫 데이트는 언제했냐"고 기습]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[송중기, 김신록 역공에 허위 제보 몰려 위기→신현빈 극적 등장 ‘재벌집 막내아들’ (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20221209234949942</link>
-            <guid>https://v.daum.net/v/20221209234949942</guid>
-            <pubDate>Fri, 09 Dec 2022 15:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 송중기가 김신록의 해임을 앞두고 위기에 처한 가운데 신현빈이 극적으로 등장해 이목을 집중시켰다. 12월 9일 방송된 JTBC 금토일 드라마 '재벌집 막내아들'(극본 김태희, 장은재 / 연출 정대윤, 김상호) 9회에서는 순양백화점을 둔 진도준(송중기 분)과 진화영(김신록 분)의 싸움이 계속됐다. 이날 진화영은 뉴데이터 테크놀로지]]></content:encoded>
+            <title><![CDATA["솔직해졌다" 전현무, 대상 기원 생일파티 '속마음 고백' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20221210071007368</link>
+            <guid>https://v.daum.net/v/20221210071007368</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 원민순 기자) 방송인 전현무가 대상 기원 생일파티에 속마음을 고백했다. 9일 방송된 MBC '나 혼자 산다'에서는 전현무가 멤버들의 서프라이즈 생일 축하를 받는 모습이 전파를 탔다. 이날 박세리의 대전하우스에 모인 멤버들은 저녁식사를 마무리하고 불멍타임을 갖고자 했다. 전현무는 오로라 가루를 가져오겠다면서 무카가 있는 쪽으로 갔다. 멤버들은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['재벌집' 김신록 "횡령은 허위 제보"→신현빈, 송중기 의심 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20221209234140916</link>
-            <guid>https://v.daum.net/v/20221209234140916</guid>
-            <pubDate>Fri, 09 Dec 2022 15:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 이상은 기자] /사진=JTBC 토일드라마 '재벌집 막내아들' 방송 화면 캡처'재벌집 막내아들'에서 신현빈이 김신록의 꾀에 송중기를 의심했다. 9일 방송된 JTBC 토일드라마 '재벌집 막내아들'에서는 순양 백화점 대표 진화영(김신록 분)이 서민영(신현빈 분) 검사에 의해 검찰 조사를 받는 모습이 담겼다. 이날 서민영은 "진화영 대표님. 순양]]></content:encoded>
+            <title><![CDATA[이찬원, '진또배기' 故이성우 가족 상봉…"찬또배기 보고 울어" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20221210071002366</link>
+            <guid>https://v.daum.net/v/20221210071002366</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 오승현 인턴기자) '편스토랑' 이찬원이 '진또배기' 원곡자 故 이성우의 가족을 만났다. 9일 방송된 KBS 2TV 예능 프로그램 '신상출시 편스토랑'(이하 '편스토랑')에는 이찬원의 '백반집' 운영기가 담겼다. 이날 이찬원은 '편스토랑'을 통해 받은 사랑을 보답하고자 '찬또백반집' 이벤트를 기획해 시청자들의 참여를 받았다. 붐은 "5시간 동안]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['금혼령' 박주현, 빙의 연기 먹혔다..王 김영대 앞에서 사기 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20221209233922909</link>
-            <guid>https://v.daum.net/v/20221209233922909</guid>
-            <pubDate>Fri, 09 Dec 2022 15:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 이빛나리 기자] /사진='금혼령, 조선 혼인 금지령' 방송화면'금혼령, 조선 혼인 금지령'에서 박주현이 김영대를 속였다. 9일 오후 방송된 MBC 금토드라마 '금혼령, 조선 혼인 금지령'에서는 소랑(박주현 분)이 왕 이헌(김영대 분) 앞에서 살아남기 위해 발버둥 치는 장면이 담겼다. 이날 소랑은 결혼을 못하게 막는 금혼령이 떨어지자 이를 이용]]></content:encoded>
+            <title><![CDATA[RM→김영하, 결혼 제도에 대한 토론 "중산층 이상의 문화 되고 있어" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20221210070022227</link>
+            <guid>https://v.daum.net/v/20221210070022227</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 노수린 기자) 출연자들이 사랑과 결혼에 대한 생각을 밝혔다. 9일 방송된 tvN '알아두면 쓸데없는 신비한 인간 잡학사전(이하 '알쓸인잡')'에서는 김영하, 김상욱, 이호, 심채경이 MC 장항준, RM과 함께 인간에 대한 이야기를 나눴다. 두 번째 만남은 연희동의 한 바에서 이루어졌다. 바에는 김영하의 서명이 남겨진 책 포스터가 전시되어 있었]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['재벌집' 송중기·신현빈, 제보자와 검사로 재회..김신록 위기 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20221209233507907</link>
-            <guid>https://v.daum.net/v/20221209233507907</guid>
-            <pubDate>Fri, 09 Dec 2022 15:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 이상은 기자] /사진=JTBC 토일드라마 '재벌집 막내아들' 방송 화면 캡처'재벌집 막내아들'에서 송중기가 검사가 된 신현빈을 승계 싸움에 이용하기 위해 만났다. 9일 방송된 JTBC 토일드라마 '재벌집 막내아들'에서는 진도준(송중기 분)이 초임 검사 서민영(신현빈 분)에게 식사 초대를 하는 모습이 그려졌다. 이날 서민영은 진도준의 말에 어이]]></content:encoded>
+            <title><![CDATA[NCT 쟈니·재현·정우, 세트 붕괴로 부상…광고주 P사 사과 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20221210070004191</link>
+            <guid>https://v.daum.net/v/20221210070004191</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 강다윤 기자] 그룹 NCT 멤버 쟈니, 재현, 정우의 광고 촬영 중 부상에 스포츠웨어 브랜드 P사 코리아가 사과했다. 9일 스포츠웨어 브랜드 P사 코리아는 "엠버서더로 활동 중인 NCT 127이 지난 12월 9일 광고 촬영 중 발생한 세트 구조물 문제로 멤버 쟈니, 재현, 정우, 태일이 사고를 입었다"고 공식입장을  밝혔다. 이어 "사고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[송중기, 신현빈과 재회…김신록 공금 횡령 수사 요청 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20221209231717815</link>
-            <guid>https://v.daum.net/v/20221209231717815</guid>
-            <pubDate>Fri, 09 Dec 2022 15:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 강다윤 기자] 진도준(송중기)와 서민영(신현빈)이 재회했다. 9일 방송된 종합편성채널 JBTC '재벌집 막내아들'(극본김태희 장은재 연출 정대윤 김상호)에서는 진도준이 서민영에게 진화영(김신록)의 공금 횡령 수사를 부탁하는 모습이 그려졌다. 이날 서민영은 서울중앙지법 금조부 검사가 됐지만 홍보 영상과 여성지 인터뷰, 화보 촬영에 내몰렸다]]></content:encoded>
+            <title><![CDATA['편스토랑' 박탐희, "연애 111일만에 결혼한 남편, 해외 출장多 싸울 시간 없어" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20221210065520134</link>
+            <guid>https://v.daum.net/v/20221210065520134</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김예솔 기자] 배우이자 사업가 박탐희가 남편에 대한 이야기를 전했다.&nbsp; 9일에 방송된 KBS2TV '신상출시 편스토랑'에서는 박탐희가 새로운 편셰프로 합류한 가운데 수려한 요리솜씨로 보는 이들을 감탄하게 만들었다.&nbsp; 이날 박탐희는 새로운 편셰프로 등장했다. 박탐희는 결혼 15년차로 남매를 키우고 있다고 말해 눈길을 끌었다. 박탐희는 남편과 연]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김래원, 이도엽 체포 성공 '통쾌한 사이다' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20221209231007786</link>
-            <guid>https://v.daum.net/v/20221209231007786</guid>
-            <pubDate>Fri, 09 Dec 2022 15:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 오수정 기자) '소방서 옆 경찰서'에서 김래원이 이도엽을 체포하는데 성공하며 사이다를 선사했다.&nbsp; 9일 방송된 SBS 금토드라마 '소방서 옆 경찰서' 8회에서는 끈질기게 물고 늘어진 끝에 마태화(이도엽 분)를 구속시키는데 성공하는 진호개(김래원)의 모습이 그려졌다.&nbsp; 지난 방송에서 진호개는 마태화를 긴급체포하는데 성공했지만, 마태화와의 몸싸움]]></content:encoded>
+            <title><![CDATA[율희 "라붐시절 약 먹고 기억 상실" 충격 고백 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20221210065029110</link>
+            <guid>https://v.daum.net/v/20221210065029110</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김수형 기자] ‘오은영의 금쪽 상담소'에서 율희와 최민환 부부가 삼남매 교육비에 대한 갈등을 보인 가운데, 특희 율희는 라붐시절 힘들었던 과거를 떠올리며 눈물 흘렸다.&nbsp; 9일 방송된 채널A 예능 '오은영의 금쪽 상담소'에서 율희가 지금껏 방송에서 하지 못했던 말을 전했다.&nbsp; 이날 MC들은 게스트에 대해 "연예계 최연소 부모"라며 소개,&nbsp; 바로]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[경찰+119대원 급 출동..母에 폭력 가한 금쪽이 "선 넘었다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20221210065014107</link>
+            <guid>https://v.daum.net/v/20221210065014107</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김수형 기자] '금쪽같은 내 새끼'에서 경찰과 119대원까지 출동한 사태가 벌어졌다. 금쪽이에게 "선 넘었다"며 우려할 정도.&nbsp; 9일 &nbsp;방송된 채널A 예능 '요즘 육아 금쪽같은 내 새끼'에서 역대급 폭력적인 금쪽이가 등장했다. 원인불명 호흡 곤란으로 4년째 고통받는 &nbsp;중2 아들인 금쪽이가 등장, 시작부터 위험한 상황이 계속됐다.&nbsp;엄마의 손에]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['나혼산' 전현무→박나래, 웅장한 박세리 하우스 '감탄'…박세리, "짝꿍 갖고파" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20221210064919099</link>
+            <guid>https://v.daum.net/v/20221210064919099</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김예솔 기자] 무지개 회원들이 박세리 하우스의 규모에 감탄했다.&nbsp; 9일에 방송된 MBC '나 혼자 산다'(이하 '나혼산')에서는 전현무, 박나래, 기안84, 코드쿤스트, 키가 박세리의 대전 하우스를 방문했다.&nbsp; 앞서 이날 무지개 회원들은 축구국가대표팀의 16강 진출에 감동한 이야기를 전했다. 박나래는 "황희찬 선수 사인볼을 안고 있었다. 가보]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[은지원, 썸녀 있나? "한 사람만 봐…3개월 뒤 연애할 것" 따로점에 흠칫 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20221210063305030</link>
+            <guid>https://v.daum.net/v/20221210063305030</guid>
+            <pubDate>Fri, 09 Dec 2022 23:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 박서연 기자] 가수 겸 화가 솔비가 타로점을 보고 은지원의 연애를 예언한다. 오는 11일 오전 9시 40분 방송되는 종합편성채널 MBN 힐링 예능 ‘뜨겁게 안녕’ 5회에서는 안녕지기 유진, 은지원, 황제성이 다섯 번째 게스트인 솔비와 그녀의 ‘동거인’ 배우 송이우를 만나, 그동안 공개되지 않았던 인생 이야기를 나누며 힐링을 나누는 모습이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코쿤, 전현무에 저주? “형만큼은 영원히 ‘나혼산’ 지켜주길” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
@@ -1772,95 +1911,46 @@
             <content:encoded><![CDATA[[뉴스엔 서유나 기자] 이경실, 박미선이 솔직한 입담으로 웃음을 유발했다. 12월 9일 방송된 TV조선 예능 '여행의 맛' 9회에서는 조동아리(김용만, 지석진, 김수용)와 센 언니들(이경실, 박미선, 조혜련)의 일본 도쿄 여행기가 이어졌다. 이날 약 2시간 차를 타고 이동한 조동아리와 센 언니들은 후지산 해발 2,300m의 오니와 정원에 도착했다. 1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘이봉원♥’ 박미선 솔직 돈 자랑 “집 넓고 재산 많아” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20221210060230802</link>
-            <guid>https://v.daum.net/v/20221210060230802</guid>
-            <pubDate>Fri, 09 Dec 2022 21:05:28 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 박미선이 솔직하게 재력을 과시했다. 12월 9일 방송된 TV조선 예능 '여행의 맛' 9회에서는 조동아리(김용만, 지석진, 김수용)와 센 언니들(이경실, 박미선, 조혜련)의 일본 도쿄 여행기가 이어졌다. 이날 박미선은 후지산 트레킹을 한 소감으로 "나 약간 울 뻔했다. 뭔가 마음이 울컥하면서 스트레스가 머리까지 쌓인 상태에서 왔는]]></content:encoded>
+            <title><![CDATA['영웅' 김고은 "일본어 대사, 극중 '이토 히로부미' 연기한 배우에게 도움 받아" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+            <link>https://v.daum.net/v/20221210080131755</link>
+            <guid>https://v.daum.net/v/20221210080131755</guid>
+            <pubDate>Fri, 09 Dec 2022 23:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[뮤지컬 '영웅'을 극화한, 공연을 넘어선 전율과 감동을 극대화한 영화 '영웅'에서 조선의 마지막 궁녀 '설희'를 연기한 김고은을 만났다. 영화를 통해 지금까지 보지 못한 새로운 모습을 선보이며 관객들을 매료시킨 김고은은 "대본에 집중했다. 노래를 하며 연기도 해야 했지만 영화에서는 '설희'의 서사나 감정선이 더 잘 살아나서 그걸 많이 고민했다. 국민]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박미선 “♥이봉원 깻잎 잡아주는 김희선 싫어, 조혜련은 허용” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20221210060202789</link>
-            <guid>https://v.daum.net/v/20221210060202789</guid>
-            <pubDate>Fri, 09 Dec 2022 21:05:28 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 박미선이 깻잎 논쟁에 대해서 사람에 따라 다른 반응을 보였다. 12월 9일 방송된 TV조선 예능 '여행의 맛' 9회에서는 조동아리(김용만, 지석진, 김수용)와 센 언니들(이경실, 박미선, 조혜련)의 일본 도쿄 여행기가 이어졌다. 이날 박미선은 차로 이동 중 MZ세대들이 자주 하는 밸런스 게임을 언급, 말 없이 스킨십만 하는 결혼]]></content:encoded>
+            <title><![CDATA['아는 맛, 익숙한 맛' 통했던 영화계 '시즌2' 대히트 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+            <link>https://v.daum.net/v/20221210080119748</link>
+            <guid>https://v.daum.net/v/20221210080119748</guid>
+            <pubDate>Fri, 09 Dec 2022 23:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 영화계의 한 해를 돌아보자. 코로나로 인해 2020년부터 급격한 냉각기를 맞이한 영화계는 2022년 봄부터 조금씩 해동되기 시작해 3년 만에 천만 관객 영화도 탄생시켰다. 5월 18일에 개봉한 '범죄도시2' (이상용 감독 / 배급: 주식회사 에이비오엔터테인먼트,플러스엠 엔터테인먼트)는 12,693,023명의 관객을 극장으로 불러들이며 화려한]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[전현무, "못된 시어머니 옆에 있는 며느리 같아"...77즈 박세리와 굴튀김으로 '티격태격' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20221210060102751</link>
-            <guid>https://v.daum.net/v/20221210060102751</guid>
-            <pubDate>Fri, 09 Dec 2022 21:05:28 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=신지원 기자]'나혼산'  박세리가 전현무와 티격태격 77즈의 우정을 보였다. 9일 오후 방송된 MBC 예능프로그램 '나 혼자 산다'에서는 77라인즈 주최 단합대회를 하는 박세리와 전현무, 기안84, 키, 코쿤의 모습이 그려졌다. 이날 박세리의 대전집을 찾은 멤버들은 본격적으로 음식준비에 나섰다. 전현무는 박세리를 보며 "사실 세리를 만나면 해주]]></content:encoded>
+            <title><![CDATA['아바타'와 붙는 '영웅', 연말 한국영화 자존심 챙길까 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+            <link>https://v.daum.net/v/20221210080024705</link>
+            <guid>https://v.daum.net/v/20221210080024705</guid>
+            <pubDate>Fri, 09 Dec 2022 23:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = '영웅'이 올 연말, 한국 영화의 자존심을 지킬 수 있을까. 올해 마지막 성수기 흥행 경쟁을 앞둔 극장가에는 두 편의 영화가 출격을 앞두고 있다. 14일 개봉할 할리우드 블록버스터 '아바타: 물의 길'(감독 제임스 캐머런)와 21일부터 본격적으로 관객들과 만날 한국 영화 '영웅'(감독 윤제균)이 해당 작품들이다. '아바]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[BTS RM "열등감 극복하려고…" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20221210060008697</link>
-            <guid>https://v.daum.net/v/20221210060008697</guid>
-            <pubDate>Fri, 09 Dec 2022 21:05:28 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 고향미 기자] 세계적인 아이돌 그룹 방탄소년단(BTS)의 리더 알엠(RM)이 열등감에 대해 입을 열었다. 9일 오후 방송된 케이블채널 tvN '알아두면 쓸데없는 신비한 인간 잡학사전 – 알쓸인잡'(이하 '알쓸인잡')에서 알엠은 "에미넴, 나스, 칸예 웨스트, 에픽하이 타블로 형을 보면서 자랐다"고 운을 뗐다. 알엠은 이어 "그런데 아무리]]></content:encoded>
+            <title><![CDATA['소옆경' 김래원이 보여준 검거의 종합예술..시청률 최고 10.2% (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+            <link>https://v.daum.net/v/20221210075208630</link>
+            <guid>https://v.daum.net/v/20221210075208630</guid>
+            <pubDate>Fri, 09 Dec 2022 23:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='소방서 옆 경찰서' '소방서 옆 경찰서' 김래원이 이도엽과 관련된 모든 것들을 처단한 뒤 아버지 조승연의 처단을 노리고 있다. 지난 9일 방송된 SBS 금토 드라마 (극본 민지은·연출 신경수, 제작 메가몬스터) 8회는 닐슨 코리아 기준 수도권 8.5%, 순간 최고 10.2%를 기록했다. 2049 시청률은 3.5%로 진호개]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[기안84 “전생에 너희 집 머슴이었나 봐” 박나래 칭찬에 열일 모드 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20221210055705669</link>
-            <guid>https://v.daum.net/v/20221210055705669</guid>
-            <pubDate>Fri, 09 Dec 2022 21:05:28 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 임유리 기자] 기안84가 박나래의 목소리를 들으면 일을 해야 될 것 같다고 털어놨다. 9일 밤 방송된 MBC 예능 프로그램 ‘나 혼자 산다’에서는 박세리의 집을 찾은 무지개 회원들이 각자 할 일을 찾아 열심히 요리를 하는 모습이 그려졌다. 이날 기안84는 요리 대신 장작 패기에 나섰다. 치는 족족 반 토막이 나는 장작을 보며 새우를]]></content:encoded>
+            <title><![CDATA['올빼미' 누적 215만 돌파 흥행…손익분기점 넘겼다 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+            <link>https://v.daum.net/v/20221210073807566</link>
+            <guid>https://v.daum.net/v/20221210073807566</guid>
+            <pubDate>Fri, 09 Dec 2022 23:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 조은애 기자] 영화 '올빼미'가 손익분기점을 넘기며 흥행에 성공했다. 10일 영진위 통합전산망 집계에 따르면 '올빼미'는 전날&nbsp;10만2533명의 관객을 모아 박스오피스 1위를 기록했다. 누적 관객 수는&nbsp;215만4496명이다. 유해진, 류준열 주연의 '올빼미'는 밤에만 앞이 보이는 맹인 침술사가 세자의 죽음을 목격한 후 진실을 밝히기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[RM "BTS, 전 세계 마이너리티 대변자 돼 정체성 혼란" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20221210055506660</link>
-            <guid>https://v.daum.net/v/20221210055506660</guid>
-            <pubDate>Fri, 09 Dec 2022 21:05:28 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 고향미 기자] 세계적인 아이돌 그룹 방탄소년단(BTS)의 리더 알엠(RM)이 그룹이 전 세계 마이너리티 대변자가 돼 정체성 혼란을 느꼈다고 고백했다. 9일 오후 방송된 케이블채널 tvN '알아두면 쓸데없는 신비한 인간 잡학사전 – 알쓸인잡'(이하 '알쓸인잡')에서 알엠은 "제가 한 2~3년 전에 가장 많이 고민했던 건데. 저희가 전 세계]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BTS RM "'결혼 안 할 수도' 생각 걷잡을 수 없이 들어" 왜? (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20221210055005645</link>
-            <guid>https://v.daum.net/v/20221210055005645</guid>
-            <pubDate>Fri, 09 Dec 2022 21:05:28 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 고향미 기자] 세계적인 아이돌 그룹 방탄소년단(BTS)의 리더 알엠(RM)이 결혼에 대한 생각을 공개했다. 9일 오후 방송된 케이블채널 tvN '알아두면 쓸데없는 신비한 인간 잡학사전 – 알쓸인잡'(이하 '알쓸인잡')에서 장항준은 출연자들에게 "이번 주제는 '우리는 어떤 인간을 사랑할까'다"라고 알린 후 "이 주제를 듣고 어떤 생각이 드셨]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박나래 “황희찬, 영국 울버햄튼 가서 32첩 반상 차려주고파” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20221210054305614</link>
-            <guid>https://v.daum.net/v/20221210054305614</guid>
-            <pubDate>Fri, 09 Dec 2022 21:05:28 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 임유리 기자] 박나래가 2022 카타르 월드컵에서 큰 활약을 보인 국가대표 축구선수 황희찬에게 32첩 반상을 차려주고 싶다고 말했다. 9일 밤 방송된 MBC 예능 프로그램 ‘나 혼자 산다’에서는 박나래를 비롯한 무지개 회원들이 앞서 등장했던 국가대표 축구선수 황희찬에 대해 이야기하는 모습이 그려졌다. 이날 박나래는 “기억나시죠? 내가]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이경실, 김용만에 "이번 생은 결혼 한 번으로 끝내야. 나는…" 조언 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20221210054005599</link>
-            <guid>https://v.daum.net/v/20221210054005599</guid>
-            <pubDate>Fri, 09 Dec 2022 21:05:28 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 고향미 기자] 개그우먼 이경실이 개그맨 김용만에게 결혼 생활 조언을 했다. 9일 오후 방송된 종합편성채널 TV조선 '여행의 맛'에서는 김용만, 지석진, 김수용과 이경실, 박미선, 조혜련의 일본 도쿄 여행 2일 차 모습이 그려졌다. 이날 방송에서 텐조산 파크 정상에 오른 이경실은 김용만에게 후지산을 중앙에 품은 그네를 타자고 제안했다. 이에]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한가인, 어릴 적 미공개 사진 깜짝 공개에 "우리 아들인 줄" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20221210053505585</link>
-            <guid>https://v.daum.net/v/20221210053505585</guid>
-            <pubDate>Fri, 09 Dec 2022 21:05:28 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 고향미 기자] 배우 연정훈의 아내인 배우 한가인의 미공개 어릴 적 사진이 공개됐다. 9일 오후 방송된 종합편성채널 JTBC '손 없는 날'에서 신동엽과 한가인은 서울 쌍문동을 찾았다. 이날 방송에서 신동엽은 한가인에게 "우리 제작진한테 지금 다양한 사연이 오잖아? 근데 사연 보낼 때 항상 우리가 사진도 함께 요청하는데, 되게 재밌는 사진을]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[신동엽 "직장 상사에 혼나고 있는 父 목격 후 철 확 들었다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20221210053004551</link>
-            <guid>https://v.daum.net/v/20221210053004551</guid>
-            <pubDate>Fri, 09 Dec 2022 21:05:28 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 고향미 기자] 개그맨 신동엽이 철이 든 계기를 공개했다. 9일 오후 방송된 종합편성채널 JTBC '손 없는 날'에서 신동엽과 한가인은 서울 쌍문동을 찾았다. 이날 방송에서 신동엽은 한가인에게 "나는 까불까불하고 그때도 뭐 친구들 웃기는 거 좋아했고. 그런데 5학년 때인가 철이 확 든 적이 있다"고 운을 뗐다. 신동엽은 이어 "우리 아버지가]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[15살 금쪽이, 母 위협하고 욕설+폭주→경찰까지 출동 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20221210052905538</link>
-            <guid>https://v.daum.net/v/20221210052905538</guid>
-            <pubDate>Fri, 09 Dec 2022 21:05:28 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 4년째 호흡 곤란을 호소한 금쪽이의 폭주로 경찰과 구급대까지 출동하는 상황이 벌어졌다. 12월 9일 방송된 채널A ‘요즘 육아-금쪽같은 내새끼’에서는 4년째원인불명의 호흡 곤란으로 고통받는 금쪽이가 분노 조절을 하지 못하는 모습을 그려졌다. 오랜만에 등교에 성공한 다음날 금쪽이는 엄마가 깨우자마자 화를 내고 한 시간째 실랑이를]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이호 교수, 첫 녹화 12시간 후유증 고백 “영육 분리되는 느낌” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20221210052808534</link>
-            <guid>https://v.daum.net/v/20221210052808534</guid>
-            <pubDate>Fri, 09 Dec 2022 21:05:28 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박정민 기자] 법의학자 이호 교수가 첫 녹화 후 후유증을 고백했다. 12월 9일 방송된 tvN '알아두면 쓸데없는 신비한 인간 잡학사전'(이하 '알쓸인잡')에서는 두 번째 만남이 그려졌다. 첫 만남에서 12시간 녹화를 한 후유증은 없을까. 이호는 "오전까지는 못 느꼈다. 점심 먹고 나서 몸이 영육이 분리된 느낌. 걸음의 속도를 영혼이 못 따라가]]></content:encoded>
+            <title><![CDATA['혈액암 투병' 안성기 인사..박해일→염정아, 후배들의 뜨거운 마음 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+            <link>https://v.daum.net/v/20221210072235458</link>
+            <guid>https://v.daum.net/v/20221210072235458</guid>
+            <pubDate>Fri, 09 Dec 2022 23:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진=대종상 영화제 혈액암 투병 중인 안성기가 대종상 공로상을 수상한 가운데, 박해일 이병헌, 염정아, 박소담 등 배우들이 뜨거운 마음으로 응원하는 모습이 포착 됐다. 안성기는 지난 9일 오후 서울 광진구 건국대학교 새천년홀에서 제58회 대종상 영화제에서 공로상을 수상했다. 투병 중인 안성기는 수상 후 영상으로 인사했다. 안성기]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['혈액암 투병' 안성기 "새로운 영화로 뵙겠다"…대종상 공로상 수상 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
@@ -1924,48 +2014,6 @@
             <guid>https://v.daum.net/v/20221209215512323</guid>
             <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[OSEN=선미경 기자] 영화 ‘헤어질 결심’이 제58회 대종상 영화제 최우수 작품상과 남우주연상을 포함해 3관왕을 기록했다. 박해일은 지난 달 진행된 제43회 청룡영화상에 이어 또 남우주연상을 받게 됐다. 제58회 대종상 영화제가 9일 오후 서울 건국대학교 새천년홀에서 진행됐다. 이날 시상식에서는 박찬욱 감독의 영화 ‘헤어질 결심’이 최우수 작품상을]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['제58회 대종상', 중요한 건 꺾이지 않는 마음 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-            <link>https://v.daum.net/v/20221209214515212</link>
-            <guid>https://v.daum.net/v/20221209214515212</guid>
-            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[세계를 향한 종의 울림을 담은 '대종상영화제'가 무사히 58회를 맞이했다. 이는 어려운 시기를 지나 도래하는 한국 영화계를 상징한다. 올해 "국민을 봅니다, 세계를 봅니다"라는 타이틀을 내세운 '대종상영화제'는 국내 로컬영화제로 세계에 접근하는 중이다. 9일 서울 건국대학교 새천년홀에서 '제58회 대종상영화제'가 개최됐다. 사회는 김태훈과 강나연이 맡았으]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['헤어질 결심', 작품상 등 3관왕…박해일·염정아 주연상 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-            <link>https://v.daum.net/v/20221209212737065</link>
-            <guid>https://v.daum.net/v/20221209212737065</guid>
-            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[제58회 대종상영화제 수상 및 시상자 단체 사진[이데일리 스타in 박미애 기자]2년 만에 개최한 대종상 최고의 영예는 박찬욱 감독의 ‘헤어질 결심’에 돌아갔다. ‘헤어질 결심’은 9일 서울 광진구 건국대 새천년홀에서 열린 ‘제58회 대종상영화제’ 시상식에서 작품상을 수상했다. 해외 촬영 일정으로 이날 시상식에 참석하지 못한 박찬욱 감독은 음성으로 “연말에]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['헤어질 결심' 작품상 포함 3관왕..박해일X염정아 男女 주연상 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-            <link>https://v.daum.net/v/20221209211806939</link>
-            <guid>https://v.daum.net/v/20221209211806939</guid>
-            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 윤성열 기자]  /사진=이동훈 기자 photoguy@박찬욱 감독의 영화 '헤어질 결심'이 제56회 대종상 영화제에서 작품상을 포함해 3관왕에 올랐다. '헤어질 결심'은 9일 오후 서울 광진구 건국대학교 새천년홀에서 열린 제58회 대종상 영화제에서 작품상을 수상했다. 해외 일정으로 시상식에 불참한 박찬욱 감독은 "연말에 큰 선물을 받은 기분"이라]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[캐머런 감독 "2년 뒤 '아바타' 3편 가지고 한국 다시 오겠다" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-            <link>https://v.daum.net/v/20221209211559920</link>
-            <guid>https://v.daum.net/v/20221209211559920</guid>
-            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 김정진 기자 = "('아바타') 3편까지 13년 안 기다리셔도 됩니다. 걱정하지 마십시오. 2년 뒤에 찾아뵙겠습니다." 영화 '아바타: 물의 길'('아바타 2') 홍보를 위해 한국을 방문한 제임스 캐머런 감독이 '아바타'의 세 번째 편에 대해 입을 열었다. 그는 9일 오후 서울 영등포구 타임스퀘어에서 열린 블루카펫 행사에서 국내 팬들과 만]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['헤어질 결심' 이변은 없었다… 작품상→ 주연상 쾌거 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-            <link>https://v.daum.net/v/20221209211515915</link>
-            <guid>https://v.daum.net/v/20221209211515915</guid>
-            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[제58회 대종상영화제가 선정한 최우수작품상에 영화 '헤어질 결심'이 이름을 올렸다. /사진=대종상영화제·제작사 제공영화 '헤어질 결심'이 제58회 대종상영화제에서 '작품상'을 품에 안으며 화려한 막을 장식했다. 9일 오후 6시 서울 광진구 건국대학교 새천년관에서 제58회 대종상영화제가 열렸다. 이번 시상식은 ENA에서 생중계됐으며 칼럼니스트 김태훈·강나연]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘대종상’ 작품상은 ‘헤어질 결심’..박해일·염정아 주연상 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-            <link>https://v.daum.net/v/20221209210601745</link>
-            <guid>https://v.daum.net/v/20221209210601745</guid>
-            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[대종상영화제가 선정한 올해의 최고 작품은 박찬욱 감독의 ‘헤어질 결심’이었다. 박해일·염정아는 각각 ‘헤어질 결심’과 ‘인생은 아름다워’로 남여주연상을 거머쥐었다. 박찬욱 감독이 9일 오후 5시 서울 건국대학교 새천년홀에서 개최된 제58회 대종상영화제(이하 ‘대종상’)에서 ‘헤어질 결심’으로 대상인 작품상의 영예를 안았다. 올해 작품상 후보에는 ‘헤어질 결]]></content:encoded>
         </item>
     </channel>
 </rss>
