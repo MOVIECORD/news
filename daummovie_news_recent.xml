@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-12-09T16:19:17.407Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 09 Dec 2022 17:06:35 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[TEN인터뷰] 사랑 받아 행복한 김고은 "윤제균 감독, 닮아가고 싶어요"]]></title>
+            <link>https://v.daum.net/v/20221210020301559</link>
+            <guid>https://v.daum.net/v/20221210020301559</guid>
+            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=강민경 기자] "2022년 개인적으로 참 의미가 있어요. '유미의 세포들', '작은 아씨들' 두 편의 드라마가 모두 사랑받았고, 영화 '영웅'까지 선보일 수 있게 돼 행복하게 바빴어요. 2023년에는 언제나 그랬듯이 열심히 작품을 하고, 많은 분이 봐주시고 사랑받을 수 있는 작품이 나왔으면 좋겠어요." 배우 김고은이 2022년을 돌아보고 참 행]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F10%2F10asia%2F20221210020304081lkki.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
