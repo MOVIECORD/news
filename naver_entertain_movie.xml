@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-12-10T19:10:30.780Z</updated>
+    <updated>2022-12-10T20:12:57.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브래드 피트 영화사 ‘플랜B’, 프랑스 기업에 지분 매각]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000854428</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000854428"/>
+        <updated>2022-12-10T20:12:05.710Z</updated>
+        <content type="html"><![CDATA[미국 할리우드 스타 브래드 피트가 설립한 영화 제작사 ‘플랜B 엔터테인먼트’가 지분 일부를 프랑스 기업에 매각했다고 블룸버그 통신 등이 10일(현지시간) 전했다. 매각되는 지분 규모와 거래 금액은 알려지지 않았다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['팔방미인' 테일러 스위프트, 장편영화 감독 데뷔…각본도 쓴다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011585451</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002375651"/>
         <updated>2022-12-10T02:18:30.217Z</updated>
         <content type="html"><![CDATA[서울독립영화제 상영작 : 장편 쇼케이스 &lt;겨울에 만나&gt; ▲ 서울독립영화제 상영작 &lt;겨울에 만나&gt; 스틸컷 ⓒ 서울독립영화제 01. 누군가의 존재를 모두 지워내는 데는 얼마나의 시간이 필요할까? 아니, 자신에게 남겨진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무대의 감동을 스크린까지…안중근 삶 그린 '영웅']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000573941</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000573941"/>
-        <updated>2022-12-10T02:18:30.221Z</updated>
-        <content type="html"><![CDATA['천만 감독' 윤제균이 8년 만에 신작을 들고 돌아왔습니다. 동명의 뮤지컬 '영웅'을 영화화한 작품인데요. 뮤지컬의 감동이 그대로 스크린에서 펼쳐집니다. 신새롬 기자입니다. [기자] &lt;영화 '영웅'&gt; "조국이 무엇입]]></content>
     </entry>
 </feed>
