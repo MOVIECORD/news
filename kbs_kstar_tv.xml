@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 23:09:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 02:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[tvN예능 '스킵'  "사랑에 빠지는 시간 단 3초, 속전속결 소개팅"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=239856</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=239856</guid>
+            <pubDate>Sat, 10 Dec 2022 02:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=239856">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221203081732_ae648c6f0692d2f246529266653bbf37.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=239856">tvN예능 '스킵'  "사랑에 빠지는 시간 단 3초, 속전속결 소개팅"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221203081732_ae648c6f0692d2f246529266653bbf37.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['재벌집 막내아들' 송중기, '순양을 향한 야망 격변의 후반부']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=240883</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=239251">"원작자가 응원합니다" ENA드라마 '사장님을 잠금해제'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221127071638_8220e50b98b57bd32fbc473a7c9fc596_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이정은, ‘미씽: 그들이 있었다2’  영혼마을 주민 '강은실']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=239010</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=239010</guid>
-            <pubDate>Thu, 01 Dec 2022 19:04:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=239010">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221125110226_14767202a2ed81f6100e2529c62c6f2f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=239010">이정은, ‘미씽: 그들이 있었다2’  영혼마을 주민 '강은실'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221125110226_14767202a2ed81f6100e2529c62c6f2f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
