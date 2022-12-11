@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-11T20:06:46.170Z</updated>
+    <updated>2022-12-11T21:05:15.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 '영웅', 정성화를 지우자 안중근이 보였다]]></title>
+        <id>https://v.daum.net/v/20221212060022597</id>
+        <link href="https://v.daum.net/v/20221212060022597"/>
+        <updated>2022-12-11T21:05:14.571Z</updated>
+        <content type="html"><![CDATA[[스포츠서울 | 조은별기자]한국에서는 어색한 뮤지컬 장르, 개그맨 출신 뮤지컬 배우 정성화의 첫 스크린 주연, 5000억 제작비를 투입한 할리우드 블록버스터 ‘아바타:물의 길’과 경쟁까지... 21일 개봉을 앞둔 영화 ‘영웅’은 쉽지 않은 길을 걸어야 한다. 최근 관객난을 겪는 극장가의 어려움은 굳이 보태지 않아도 될 정도다. 그러나 탁월한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 ‘올빼미’ 234만명 돌파…손익분기점 넘고 롱런]]></title>
         <id>https://v.daum.net/v/20221212003019145</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221211112401030"/>
         <updated>2022-12-11T03:21:43.178Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김나연 기자] 신예은 / 사진=앤피오엔터테인먼트배우 신예은의 4년, 성장 그리고 도전의 시간이었다. 결과보다 과정이 더 중요하다는 것을 깨달은 그는 꾸준하게 자신의 스펙트럼을 넓혀가고 있다. 최근 서울시 종로구 소격동의 한 카페에서 디즈니+ 오리지널 시리즈 '3인칭 복수'의 배우 신예은과 만나 다양한 이야기를 나눴다. '3인칭 복수'는 쌍]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['올빼미' 유해진X류준열, 누적 관객 234만 돌파…18일 연속 박스오피스 1위]]></title>
-        <id>https://v.daum.net/v/20221211111325858</id>
-        <link href="https://v.daum.net/v/20221211111325858"/>
-        <updated>2022-12-11T03:21:43.181Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 영화 '올빼미'가 18일 연속 박스오피스 1위 자리를 굳건히 지켜냈다. 11일 영화진흥위원회 통합전산망에 따르면, '올빼미'는 10일 19만 3225명을 동원하며 전체 박스오피스 1위에 올랐다. 개봉한 지 일주일 만에 관객 수 100만을 돌파했던 '올빼미'는 손익분기점 210만을 돌파, 누적관객수 234만 7713]]></content>
     </entry>
 </feed>

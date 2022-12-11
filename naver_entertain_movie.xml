@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-12-11T20:06:46.191Z</updated>
+    <updated>2022-12-11T21:05:15.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 '영웅', 정성화를 지우자 안중근이 보였다[SS리뷰]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000907676</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000907676"/>
+        <updated>2022-12-11T21:04:27.978Z</updated>
+        <content type="html"><![CDATA[한국에서는 어색한 뮤지컬 장르, 개그맨 출신 뮤지컬 배우 정성화의 첫 스크린 주연, 5000억 제작비를 투입한 할리우드 블록버스터 ‘아바타:물의 길’과 경쟁까지... 21일 개봉을 앞둔 영화 ‘영웅’은 쉽지 않은 길]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘연예인 매니저로 살아남기’ 메쏘드의 감초들]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000052018</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000631629"/>
         <updated>2022-12-11T04:07:14.320Z</updated>
         <content type="html"><![CDATA[‘압꾸정’ 임진순 감독이 영화에 대한 소개와 마동석에 대한 남다른 애정을 나타냈다. 11월 30일 개봉한 ‘압꾸정’은 샘솟는 사업 아이디어로 입만 살아있는 압구정 토박이 대국(마동석)이 실력 TOP 성형외과 의사 지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[더보기] ‘탄생’→‘영웅’ 실존인물 이야기, 연말 극장가 ‘진한 감동’]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003245597</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003245597"/>
-        <updated>2022-12-11T03:20:48.544Z</updated>
-        <content type="html"><![CDATA[실존 인물들의 이야기를 담은 묵직한 작품이 연이어 개봉, 극장가에 진한 감동을 선사하고 있다. 한국 최초의 신부인 김대건 신부의 이야기를 담은 ‘탄생’이 지난달 30일 개봉한 이후 종교영화라는 한계를 깨고 박스오피스]]></content>
     </entry>
 </feed>
