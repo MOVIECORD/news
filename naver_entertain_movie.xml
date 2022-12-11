@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-12-11T10:13:28.679Z</updated>
+    <updated>2022-12-11T12:24:06.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['조커2', 베일 벗었다…깡마른 호아킨 피닉스 사진 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000290312</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000290312"/>
+        <updated>2022-12-11T12:23:10.981Z</updated>
+        <content type="html"><![CDATA[배우 호아킨 피닉스가 인생 캐릭터 '조커'로 다시 돌아온다. 10일(이하 현지시간) '조커: 폴리 아 되'(이하 '조커2')의 메가폰을 잡은 토드 필립스 감독은 "Day 1. Our boy. #joker"라는 글과]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] '티아라 소연 불화설' 지연, '강남좀비' 홍보 못 한다…"개인 일정"(종합)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004756196</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003949162"/>
         <updated>2022-12-11T03:20:48.548Z</updated>
         <content type="html"><![CDATA[영화 '올빼미'가 18일 연속 박스오피스 1위 자리를 굳건히 지켜냈다. 11일 영화진흥위원회 통합전산망에 따르면, '올빼미'는 10일 19만 3225명을 동원하며 전체 박스오피스 1위에 올랐다. 개봉한 지 일주일 만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] ‘심야카페’ 신주환 “모든 기회 소중, 마스터 만나 행복”]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005058348</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005058348"/>
-        <updated>2022-12-11T03:20:48.549Z</updated>
-        <content type="html"><![CDATA[배우 신주환(36)이 영화 ‘패션왕’(2014) 이후 오랜만에 인터뷰에 나섰다. 자신에게 온 기회가 모두 소중하다는 그는 “홈런을 치는 배우는 아니”라면서도 “좋은 인연들”을 만나 지금까지 올 수 있었단다. “매일이]]></content>
     </entry>
 </feed>
