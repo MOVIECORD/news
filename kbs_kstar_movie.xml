@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 07:09:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 10:07:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장] '아바타: 물의 길' 한국 팬을 위한 특별한 '블루카펫']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=241253</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=241253</guid>
+            <pubDate>Mon, 12 Dec 2022 10:04:59 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=241253">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221212163544_6aa48d48cd07beeb68bd99fc05b1b072.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=241253">[현장] '아바타: 물의 길' 한국 팬을 위한 특별한 '블루카펫'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221212163544_6aa48d48cd07beeb68bd99fc05b1b072.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[왓챠 '사막의 왕- 비밀' 양동근-박예린, "딸과 아빠의 특별한 여정"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=240034</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=240624">티빙 '푸드 크로니클' 세상을 사로잡은 '스시의 비밀'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221208090401_a48e19ec7c70dbd99c8e683a28006d83.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["티빙은 시즌을 품고" 티빙, 케이티시즌 흡수 합병... .“NO.1 K콘텐츠 플랫폼” 박차]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=240660</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=240660</guid>
-            <pubDate>Thu, 08 Dec 2022 02:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=240660">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221208105415_07c8c3d94ac9d6f95bc59293c4d620a0.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=240660">"티빙은 시즌을 품고" 티빙, 케이티시즌 흡수 합병... .“NO.1 K콘텐츠 플랫폼” 박차</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221208105415_07c8c3d94ac9d6f95bc59293c4d620a0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
