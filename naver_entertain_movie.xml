@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-12-12T10:07:31.962Z</updated>
+    <updated>2022-12-12T11:10:31.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배우 김혜나, 영화인들 잔치 ‘한국영화 리덕스’ 시상식 참석]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000854721</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000854721"/>
+        <updated>2022-12-12T11:09:41.214Z</updated>
+        <content type="html"><![CDATA[배우 김혜나가 지난 8일 드래곤시티에서 열린한국을 대표하는 영화인들이 모인 ‘ 한국영화 리덕스 ’ 기념식 및 시상식에 참석했다. 한국 영화 리덕스는한국영화의 르네상스라고 불리는 2003년의 영화와영화인들을 돌아보며]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팝인터뷰]'커넥트' 김혜준 "이 악물고 액션..시즌2서 끝판왕 되고파"(종합)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003604204</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000052033"/>
         <updated>2022-12-12T10:06:37.359Z</updated>
         <content type="html"><![CDATA[14일 개봉하는 제임스 카메론 감독의 신작 &lt;아바타: 물의 길&gt;이 한국 영화팬을 위한 블루카펫 행사를 가졌다. 전 세계 역대 흥행 순위 1위를 기록하고 있는 &lt;아바타&gt;의 후속편 &lt;아바타: 물의 길&gt;은 전편에 이어 제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오늘 밤, 세계에서' 박스오피스 9위→2위..흥행 역주행 ing]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003112424</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003112424"/>
-        <updated>2022-12-12T10:06:37.366Z</updated>
-        <content type="html"><![CDATA['오늘 밤, 세계에서 이 사랑이 사라진다 해도'가 개봉 첫날 9위로 시작해 전체 박스오피스 2위를 달성하며 역주행 신드롬을 기록 중이다. 12일 영화진흥위원회 통합전산망에 따르면 전날 '오늘 밤, 세계에서 이 사랑이]]></content>
     </entry>
 </feed>
