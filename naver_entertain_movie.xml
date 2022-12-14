@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-12-14T16:08:10.355Z</updated>
+    <updated>2022-12-14T17:10:43.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘오징어 게임’ 이상희, 그로우이엔티 전속계약[공식]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000855275</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000855275"/>
+        <updated>2022-12-14T17:09:57.192Z</updated>
+        <content type="html"><![CDATA[‘오징어 게임’에서 인상적인 액팅을 펼친 배우 이상희가 매니지먼트사 그로우이엔티와 전속계약을 체결해 본격적인 연기활동에 나선다고 16일 전했다. 이상희는 연극계에서 연기력을 인정받아 영화 마이파더 시작으로 영화계 1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 '더 패뷸러스', "패션이 반"... 패션계 전문가가 참여한 프로덕션 비하인드]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000052094</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003950246"/>
         <updated>2022-12-14T09:15:15.474Z</updated>
         <content type="html"><![CDATA[윤제균(53) 감독이 "'영웅'은 부끄럽지 않은 'K-콘텐츠'로 남길 바란다"고 말했다. 윤제균 감독이 14일 오후 열린 한국 영화 최초 오리지널 뮤지컬 영화 '영웅'(JK필름 제작) 인터뷰에서 '영웅'의 탄생 과정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰①] 윤제균 감독 "8년만에 연출, 母투병에 1년 6개월간 간호→돌아가신 뒤 멘탈 흔들려"('영웅')]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003950245</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003950245"/>
-        <updated>2022-12-14T09:15:15.475Z</updated>
-        <content type="html"><![CDATA[윤제균(53) 감독이 "1년 6개월간 암 투병한 어머니 병간호에 '영웅' 늦어질 수밖에 없었다"고 말했다. 한국 영화 최초 오리지널 뮤지컬 영화 '영웅'(JK필름 제작)으로 8년 만에 스크린으로 돌아온 윤제균 감독.]]></content>
     </entry>
 </feed>
