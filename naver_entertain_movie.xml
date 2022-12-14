@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-12-14T20:06:43.735Z</updated>
+    <updated>2022-12-14T21:12:47.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[영화평 300]도무지 질리지 않는 럭셔리]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011592115</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011592115"/>
+        <updated>2022-12-14T21:11:58.156Z</updated>
+        <content type="html"><![CDATA[12월 3주차 개봉 영화 및 최신 개봉작 간단평을 정리했다. 슈퍼 럭셔리 스펙터클…아바타:물의 길(★★★★☆) 일단 돈 얘기부터 해야겠다. '아바타:물의 길'은 제작비로 약 4억 달러(약 5200억원)를 썼을 것으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헤어질결심, 크리틱스초이스 후보…우영우·파친코도 후보 올라]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013642520</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004757790"/>
         <updated>2022-12-14T10:04:36.463Z</updated>
         <content type="html"><![CDATA[올 겨울 ‘천만 감독’들의 스크린 복귀가 극장가의 열기를 지피고 있다. 국내에서는 윤제균 감독이, 북미에서는 제임스 카메론 감독이 각각 ‘영웅’, ‘아바타: 물의 길’(아바타2)을 내놓으며 관객과의 소통에 나섰다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팝's현장]'카지노' 최민식 연기 얼마나 리얼하길래..손석구 "연기처럼 안보여 신기"(종합)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003604610</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003604610"/>
-        <updated>2022-12-14T10:04:36.463Z</updated>
-        <content type="html"><![CDATA[손석구가 최민식과의 작업이 놀라웠다고 전했다. 디즈니+ 오리지널 시리즈 '카지노' 제작발표회가 14일 오전 서울 종로구 JW 메리어트 동대문 스퀘어 서울에서 열렸다. 강윤성 감독과 배우 최민식, 손석구, 이동휘, 허]]></content>
     </entry>
 </feed>

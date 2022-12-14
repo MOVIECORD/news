@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-14T20:06:43.731Z</updated>
+    <updated>2022-12-14T21:12:47.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘아바타: 물의 길’ 봤더니]]></title>
+        <id>https://v.daum.net/v/20221215060208864</id>
+        <link href="https://v.daum.net/v/20221215060208864"/>
+        <updated>2022-12-14T21:12:46.437Z</updated>
+        <content type="html"><![CDATA[13년 만에 판도라 행성이 돌아왔다. 이번엔 숲이 아닌 바다다. 영화 ‘아바타: 물의 길’(감독 제임스 카메론)은 연인에서 가족이 된 제이크 설리(샘 워싱턴)와 네이티리(조 샐다나)가 겪는 새로운 여정을 또 한 번 3D 영상으로 펼친다. 5편까지 계획된 시리즈 중 두 번째 영화다. 함께 제작한 3편을 내년 공개할 예정이다. 2조6000억원에 달하는 제작]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['풀잎들'·'동주'·'1번국도', 이유 있는 흑백 연출 영화들]]></title>
         <id>https://v.daum.net/v/20221215000036559</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221214171602360"/>
         <updated>2022-12-14T08:20:19.224Z</updated>
         <content type="html"><![CDATA[[텐아시아=최지예 기자] 윤제균 감독이 8년 만의 감독작인 오리지널 뮤지컬 영화 '영웅'에 대해 "가슴 뜨거워지는 영화"라고 자평했다. 윤제균 감독은 14일 오후 1시 서울 종로구 소격동 한 카페에서 진행된 영화 '영웅' 인터뷰에서 영화에 대한 이야기를 전했다. 이날 윤제균 감독은 이번 영화의 뮤지컬 넘버를 라이브 녹음하기로 결정하고 나서 큰 고통이 시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국은 '재벌집', 다른 나라는 다 '웬즈데이']]></title>
-        <id>https://v.daum.net/v/20221214170930206</id>
-        <link href="https://v.daum.net/v/20221214170930206"/>
-        <updated>2022-12-14T08:20:19.226Z</updated>
-        <content type="html"><![CDATA[[TV리포트=박설이 기자]한국 넷플릭스 1위를 '재벌집 막내아들'이 차지한 가운데, 나라 밖에서는 넷플릭스 '웬즈데이'가 난리다.&nbsp; OTT 플랫폼 넷플릭스를 통해 전 세계 89개국에 서비스되고 있는 '웬즈데이'는 지난 11월 23일 론칭 이래 전 세계 1억 5천만 구독자가 시청하며 센세이셔널한 반응을 이끌고 있다. 공개 일주일 만에 83개국에서 1위를 차지]]></content>
     </entry>
 </feed>
