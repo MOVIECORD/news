@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-12-16T20:04:52.859Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 16 Dec 2022 21:11:30 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[숫자로 보는 ‘아바타: 물의 길’ [I See, 아바타]]]></title>
+            <link>https://v.daum.net/v/20221217060219184</link>
+            <guid>https://v.daum.net/v/20221217060219184</guid>
+            <pubDate>Fri, 16 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지난 14일 영화 ‘아바타: 물의 길’(감독 제임스 카메론)이 국내 개봉했다. 개봉 전부터 예매율 80%를 넘어섰고, 3일 만에 100만명을 돌파하며 흥행 성공이 예상된다. 전작에 이어 또 1000만 관객을 넘을지, 제작비는 얼마인지, 3편도 나오는지 등 다양한 궁금증이 온라인을 달궜다. 해외에서 추정한 역대급 제작비부터 3시간이 넘는 긴 러닝타임, 감독이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F17%2Fkukinews%2F20221217060220309sbxe.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
