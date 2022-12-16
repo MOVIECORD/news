@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-16T11:06:23.790Z</updated>
+    <updated>2022-12-16T12:13:58.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘아바타2’ 개봉 3일 만에 100만 돌파]]></title>
+        <id>https://v.daum.net/v/20221216202702287</id>
+        <link href="https://v.daum.net/v/20221216202702287"/>
+        <updated>2022-12-16T12:13:58.212Z</updated>
+        <content type="html"><![CDATA[영화 ‘아바타:물의 길’(이하 ‘아바타2’)이 개봉 3일 만에 100만 돌파에 성공했다. 16일 오후 5시 10분 기준, ‘아바타2’는 누적관객수 100만 679명을 기록했다. 2009년 혁신적인 기술력으로 신드롬을 일으키며 월드와이드 역대 흥행 순위 1위를 기록한 ‘아바타’의 후속편인 영화는 전편에 이어 제임스 카메론 감독이 연출을 맡았다. 개봉과 동시에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최현욱, 투수 유망주에서 라이징 스타로…인생을 바꾼 순간들]]></title>
         <id>https://v.daum.net/v/20221216190305531</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221216141802838"/>
         <updated>2022-12-16T09:10:42.549Z</updated>
         <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 배우 황정민이 오늘날 자신을 있게 한 감독 임순례 감독과 21년 만에 영화 '교섭'으로 만났다. 두 사람이 함께 한 '교섭'은 최악의 피랍사건으로 탈레반의 인질이 된 한국인들을 구하기 위해 아프가니스탄으로 향한 외교관과 현지 국정원 요원의 교섭 작전을 그린 영화. "위기에 처한 국민을 구해야 하는 가장 기본적인 소명을 가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“초심 잃겠습니다” 권상우 180도 바뀐 인생‥‘스위치’ 메인 예고편]]></title>
-        <id>https://v.daum.net/v/20221216140407444</id>
-        <link href="https://v.daum.net/v/20221216140407444"/>
-        <updated>2022-12-16T07:10:16.626Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] 권상우 오정세 이민정 주연 '스위치' 메인 예고편이 공개됐다. 1월 4일 개봉하는 영화 '스위치'(감독 마대윤)는 캐스팅 0순위 천만배우이자 자타공인 스캔들 메이커, 화려한 싱글 라이프를 만끽하던 톱스타 ‘박강’이 크리스마스에 인생이 180도 뒤바뀌는 순간을 맞이하면서 벌어지는 이야기를 담은 작품. 개봉을 앞둔 12월 16일 공개된]]></content>
     </entry>
 </feed>
