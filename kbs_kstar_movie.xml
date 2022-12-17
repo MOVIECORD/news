@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 02:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 03:10:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['아바타:물의 길' 개봉 3일만에 100만 관객.. 어제까지 106만 관객]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=242106</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=242106</guid>
+            <pubDate>Sat, 17 Dec 2022 03:07:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=242106">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221217090511_f642b818c48b666511d23f845c7226a4.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=242106">'아바타:물의 길' 개봉 3일만에 100만 관객.. 어제까지 106만 관객 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221217090511_f642b818c48b666511d23f845c7226a4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["조훈현- 이창호의 승부, 이병헌-유아인의 승부"   넷플릭스  '승부']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=242053</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=241666">'아바타2', 개봉일 35만 관객이 '물의 길'을 보았다</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221215080319_cc4e8add6229c0e4d84c6ee831fce528_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장] 디즈니+ '카지노', "최민식 25년만의 드라마, 손석구의 신작, 이동휘의 대표작"  (제작발표회)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=241648</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=241648</guid>
-            <pubDate>Thu, 15 Dec 2022 04:07:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=241648">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221215074429_04f2dc6e805cd238e22a34261a3109be.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=241648">[현장] 디즈니+ '카지노', "최민식 25년만의 드라마, 손석구의 신작, 이동휘의 대표작"  (제작발표회)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221215074429_04f2dc6e805cd238e22a34261a3109be.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
