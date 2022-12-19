@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-12-19T11:15:10.638Z</updated>
+    <updated>2022-12-19T12:14:51.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팝's현장]"이병헌 요새 싸잖아"..'스위치' 이민정이 전한 이병헌의 찐반응]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003605537</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003605537"/>
+        <updated>2022-12-19T12:13:59.341Z</updated>
+        <content type="html"><![CDATA[이민정이 남편 이병헌이 거론된 대사에 대한 생각을 전했다. 영화 '스위치'(감독 마대윤/제작 하이브미디어코프) 언론배급시사회가 19일 오후 서울 광진구 롯데시네마 건대입구에서 열려 마대윤 감독과 배우 권상우, 오정세]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다비치 이해리, '영웅' 속 '그날을 기억하며' 커버..가슴 벅찬 전율]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003605534</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000909089"/>
         <updated>2022-12-19T10:10:03.702Z</updated>
         <content type="html"><![CDATA[권상우가 19일 롯데 시네마 건대입구에서 열린 영화 ‘스위치’ 언론시사회에서 포즈를 취하고 있다. ‘스위치’는 캐스팅 0순위 천만배우이자 자타공인 스캔들 메이커, 화려한 싱글 라이프를 만끽하던 톱스타 박강(권상우)이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 오정세, 가벼운 미소]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000909088</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000909088"/>
-        <updated>2022-12-19T10:10:03.702Z</updated>
-        <content type="html"><![CDATA[오정세가 19일 롯데 시네마 건대입구에서 열린 영화 ‘스위치’ 언론시사회에서 포즈를 취하고 있다. ‘스위치’는 캐스팅 0순위 천만배우이자 자타공인 스캔들 메이커, 화려한 싱글 라이프를 만끽하던 톱스타 박강(권상우)이]]></content>
     </entry>
 </feed>
