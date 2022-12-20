@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-12-20T12:17:45.484Z</updated>
+    <updated>2022-12-20T13:26:37.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[10억 뷰 신화 '상견니', 영화로 재탄생... 내년 개봉]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000713906</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000713906"/>
+        <updated>2022-12-20T13:25:40.311Z</updated>
+        <content type="html"><![CDATA[아시아를 휩쓴 메가히트 타임슬립 로맨스 '상견니'가 영화로 재탄생한다. 내년 초 국내 개봉을 확정해 상친자(상견니에 미친 자들)들의 기대감을 한껏 자극하고 있다. 대만에서 시작해 아시아 전역에서 폭발적인 사랑을 받은]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김유안, 영화 ‘기억의 시간’ OST ‘하나, 둘 셋!’ 21일 정오 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003247287</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003247287"/>
+        <updated>2022-12-20T13:25:40.312Z</updated>
+        <content type="html"><![CDATA[가수 김유안이 달콤한 설렘으로 겨울을 물들인다. 오는 21일 정오 각종 온라인 음원사이트를 통해 김유안이 참여한 영화 ‘기억의 시간’ OST ‘하나, 둘 셋!’이 발매된다. 김유안이 가창한 ‘하나, 둘 셋!’은 경쾌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Ms포토] 강기영 '교섭의 루키']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=445&amp;aid=0000090246</id>
@@ -90,7 +104,7 @@
         <content type="html"><![CDATA[황정민이 '교섭'에서 연기한 새로운 캐릭터 도전을 설명했다. 20일 서울 성동구 메가박스 성수에서 영화 '교섭'(감독 임순례) 제작보고회가 열렸다. 이 자리에는 임순례 감독과 배우 황정민, 현빈, 강기영이 참석했다.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[오영이] '영웅' 잊지 말아야 될 역사의 선율]]></title>
+        <title type="html"><![CDATA[[오영이](영상) '영웅' 잊지 말아야 될 역사의 선율]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004135766</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004135766"/>
         <updated>2022-12-20T10:10:54.016Z</updated>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003247231"/>
         <updated>2022-12-20T09:06:01.070Z</updated>
         <content type="html"><![CDATA[방탄소년단(BTS)의 영화가 글로벌 개봉한다. 방탄소년단의 지난 10월 ‘옛 투 컴 인 부산’ 공연의 실황을 담은 ‘방탄소년단: 옛 투 컴 인 시네마’가 2023년 2월 1일 전 세계 110개 국가/지역의 극장에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아바타’ 5편까지? 제임스 카메론이 직접 밝힌다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003247230</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003247230"/>
-        <updated>2022-12-20T09:06:01.071Z</updated>
-        <content type="html"><![CDATA[‘아바타’ 시리즈가 5편까지 제작될까. ‘아바타’ 시리즈의 메가폰을 잡은 제임스 카메론 감독은 20일 EBS ‘위대한 수업-그레이트 마인즈’에 출연해 ‘아바타’ 시리즈가 5부작으로 완성될 것임을 예고한다. 지난 14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팝업★]'교섭' 황정민X현빈, 배우로 만난 찐친 "짜릿하고 행복"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003605732</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003605732"/>
-        <updated>2022-12-20T09:06:01.072Z</updated>
-        <content type="html"><![CDATA[황정민, 현빈이 '교섭'으로 드디어 배우 대 배우로 만났다. 연예계 대표 절친으로 알려진 황정민, 현빈이 영화 '교섭'을 통해 처음으로 호흡을 맞췄다. '교섭'은 최악의 피랍사건으로 탈레반의 인질이 된 한국인들을 구]]></content>
     </entry>
 </feed>
