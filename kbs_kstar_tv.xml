@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 04:08:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 05:10:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신예 이우태, tvN ‘성스러운 아이돌’ 캐스팅]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=242437</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=242437</guid>
+            <pubDate>Thu, 22 Dec 2022 05:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=242437">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221219124248_c0a8f3fe71873d83fa3775eef2e65700.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=242437">신예 이우태, tvN ‘성스러운 아이돌’ 캐스팅</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221219124248_c0a8f3fe71873d83fa3775eef2e65700.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 MBC연기대상, 김성주-최수영 MC 확정... 12월 30일 영광의 주인공이 밝혀진다]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=242412</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=241882">tvN '일타 스캔들', 전도연-정경호 "로맨스인지 스캔들인지, 일단 시작"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221216073857_53368d47c00814307a048b0b817fc0f6_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아역배우 김시아, tvN '이번 생도 잘 부탁해' 캐스팅]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=241502</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=241502</guid>
-            <pubDate>Thu, 15 Dec 2022 15:05:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=241502">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221214073721_687a7c0c2ce8bc91245919acd713a1aa.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=241502">아역배우 김시아, tvN '이번 생도 잘 부탁해' 캐스팅</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221214073721_687a7c0c2ce8bc91245919acd713a1aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
