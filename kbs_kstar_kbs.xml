@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 16:09:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 17:08:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[슈퍼맨이 돌아왔다] 찐건나블리, 한국어, 영어, 독일어, 스페인어까지 끄떡없음!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=243074</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=243074</guid>
+            <pubDate>Fri, 23 Dec 2022 17:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243074">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221224001244_e9e3219760fe2a967442840f20ca7b79_1.PNG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=243074">[슈퍼맨이 돌아왔다] 찐건나블리, 한국어, 영어, 독일어, 스페인어까지 끄떡없음!</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221224001244_e9e3219760fe2a967442840f20ca7b79_1.PNG" length="0" type="image/PNG"/>
+        </item>
         <item>
             <title><![CDATA[[슈퍼맨이 돌아왔다] ‘너를 위해 준비 했어’ 카타르 전통 시장에 방문한 이동국과 시안이★]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=243070</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%84%B8%EC%BB%A8%20%ED%95%98%EC%9A%B0%EC%8A%A4">세컨 하우스</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221223000751_2ebe885a6b97a33758ad17870609a966_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[세컨 하우스] 차장금의 특별한 저녁 준비! 매운 연기에 공격당하는 예련과 상욱]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=242825</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=242825</guid>
-            <pubDate>Thu, 22 Dec 2022 22:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=242825">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221223000158_55bf60e3ca78454dc42a554d0f9b5763_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=242825">[세컨 하우스] 차장금의 특별한 저녁 준비! 매운 연기에 공격당하는 예련과 상욱</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%84%B8%EC%BB%A8%20%ED%95%98%EC%9A%B0%EC%8A%A4">세컨 하우스</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221223000158_55bf60e3ca78454dc42a554d0f9b5763_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
