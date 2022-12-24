@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-12-24T19:14:47.424Z</updated>
+    <updated>2022-12-24T21:10:19.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송강호 “홍상수 영화 3일 촬영, 3개월 연극연기 보다 출연료가 더 많더라” 데뷔시절 회상]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003681077</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003681077"/>
+        <updated>2022-12-24T21:09:34.235Z</updated>
+        <content type="html"><![CDATA[배우 송강호가 영화배우 데뷔시절을 회상했다. 그는 최근 미국 매체 베니티페어와 ‘커리어 타임라인’이라는 주제로 인터뷰에 나섰다. 연극배우로 활동하던 그는 1996년 홍상수 감독의 ‘돼지가 우물에 빠진 날’로 스크린에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["겨울 폭풍과 싸우는 '아바타2'"…美 연말 극장가 '꽁꽁']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013661369</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004762744"/>
         <updated>2022-12-24T06:07:15.881Z</updated>
         <content type="html"><![CDATA[24일 오후 서울 CGV 용산아이파크몰에서 영화 ‘영웅’ 무대인사가 진행됐다. 윤제균 감독이 미소를 짓고 있다. 2022.12.24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]정성화,'관객 직접 찾은 안중근 의사']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004762742</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004762742"/>
-        <updated>2022-12-24T06:07:15.883Z</updated>
-        <content type="html"><![CDATA[24일 오후 서울 CGV 용산아이파크몰에서 영화 ‘영웅’ 무대인사가 진행됐다. 배우 정성화가 박수를 치고 있다. 2022.12.24]]></content>
     </entry>
 </feed>
