@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-12-24T22:11:22.160Z</updated>
+    <updated>2022-12-24T23:15:44.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아바타:물의 길' 500만 돌파..조 샐다나 "한국 팬들 감동"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003116242</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003116242"/>
+        <updated>2022-12-24T23:14:54.049Z</updated>
+        <content type="html"><![CDATA[영화 '아바타:물의 길'이 누적 관객 500만명을 돌파했다. 25일 영화관입장권 통합전산망에 따르면 '아바타:물의 길'은 이날 오전7시 기준 누적 관객 수 537만 4611명을 기록, 500만명을 돌파했다. '아바타]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아바타: 물의 길', 80만↑ 동원 속 이틀 연속 1위…누적 480만명 [Nbox]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006538678</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006538678"/>
+        <updated>2022-12-24T23:14:54.049Z</updated>
+        <content type="html"><![CDATA[영화 '아바타: 물의 길'(감독 제임스 카메론)이 박스오피스 1위 자리를 지켰다. 25일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '아바타: 물의 길'은 전날 80만3187명의 관객을 동원하며 박스오피스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현빈·마동석·하정우·송중기·톰 크루즈…새해 극장가 찾는다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013661417</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004762749"/>
         <updated>2022-12-24T06:07:15.875Z</updated>
         <content type="html"><![CDATA[24일 오후 서울 CGV 용산아이파크몰에서 영화 ‘영웅’ 무대인사가 진행됐다. 배우 배정남이 미소를 짓고 있다. 2022.12.24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]관객 찾은 영화 '영웅'의 배우들]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004762747</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004762747"/>
-        <updated>2022-12-24T06:07:15.877Z</updated>
-        <content type="html"><![CDATA[24일 오후 서울 CGV 용산아이파크몰에서 영화 ‘영웅’ 무대인사가 진행됐다. 배우 이현우, 배정남, 조재윤, 정성화가 무대인사를 하고 있다. 2022.12.24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]대세 박진주,'크리스마스 노래 선물']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004762746</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004762746"/>
-        <updated>2022-12-24T06:07:15.878Z</updated>
-        <content type="html"><![CDATA[24일 오후 서울 CGV 용산아이파크몰에서 영화 ‘영웅’ 무대인사가 진행됐다. 배우 박진주가 노래를 부르고 있다. 2022.12.24]]></content>
     </entry>
 </feed>
