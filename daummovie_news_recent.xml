@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-12-24T21:10:19.194Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 24 Dec 2022 22:11:22 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현빈·마동석·하정우·송중기·톰 크루즈…새해 극장가 찾는다]]></title>
+            <link>https://v.daum.net/v/20221225070109105</link>
+            <guid>https://v.daum.net/v/20221225070109105</guid>
+            <pubDate>Sat, 24 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 양정우 김정진 기자 = 2023년 계묘년(癸卯年)에는 올해와 마찬가지로 최신작은 물론 코로나19 사태로 창고에 쌓여있던 영화들이 대거 관객을 만난다. 스타 감독과 배우들의 앙상블이 기대되는 대작은 물론 다양한 장르로 무장한 한국 영화들이 스크린에 오를 전망이다. 할리우드 대작도 시리즈물을 중심으로 극장가 공세에 나선다. 영화 팬들 입장에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F25%2Fyonhap%2F20221225070109311diwx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[OTT다방] 이순신 말고, 최민식의 새 인생 캐릭터가 탄생할 것만 같은 '카지노']]></title>
+            <link>https://v.daum.net/v/20221225070045097</link>
+            <guid>https://v.daum.net/v/20221225070045097</guid>
+            <pubDate>Sat, 24 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[서울경제] 직접 맛보고 추천하는 향긋한 작품 한 잔! 세상의 OTT 다 보고 싶은 'OTT다방'    자고로 범죄 느와르 장르는 속도감이 생명 아니던가. 조금 지겨울 순 있다. 하지만 우리에게는 '10초 앞으로' 버튼이 있다. 몇 번만 누르다 보면 디즈니플러스 오리지널 시리즈 '카지노'(극본/연출 강윤성)의 세계에 빠지기엔 충분하다. 차무식(최민식)이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F25%2Fseouleconomy%2F20221225070047776xdme.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
