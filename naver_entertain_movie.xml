@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-12-25T20:11:34.409Z</updated>
+    <updated>2022-12-25T21:14:58.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[OTT 그만 보고 영화관 가시죠…2023년 기대작 총정리]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011609591</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011609591"/>
+        <updated>2022-12-25T21:14:11.496Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 코로나 침체기 뒤로 하고 본격 새 영화 연초부터 한국·외국 기대작 개봉 대기 황정민·현빈 포문…슈퍼스타 총출동해 연초 아카데미 후보작 대거 공개 예정 마블 MCU 페이즈5 첫 번째 영화 선봬 할리우드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[왓챠 오리지널 다큐 '다음 빈칸을 채우시오'... " 아이돌 효정, 큐, 우영, 김채원 출연"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000052372</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=014&amp;aid=0004946593"/>
         <updated>2022-12-25T04:10:23.889Z</updated>
         <content type="html"><![CDATA[영화 '아바타'의 후속작 '아바타: 물의 길'(아바타2)이 성탄절인 25일 누적 관객 수 500만 명을 돌파했다. 25일 수입·배급사인 월트디즈니컴퍼니 코리아에 따르면 개봉 12일 차인 '아바타2'는 이날 오전 7시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아바타: 물의 길’, 500만 돌파…전작보다 빠른 속도]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002669939</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002669939"/>
-        <updated>2022-12-25T04:10:23.892Z</updated>
-        <content type="html"><![CDATA[영화 ‘아바타’의 후속작 ‘아바타: 물의 길’(이하 ‘아바타2’)이 누적관객수 500만을 돌파했다. 수입·배급사인 월트디즈니컴퍼니 코리아에 따르면 ‘아바타2’는 개봉 12일 차인 25일 오전 7시 기준 누적 관객 수]]></content>
     </entry>
 </feed>
