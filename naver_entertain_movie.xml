@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-12-25T10:12:40.760Z</updated>
+    <updated>2022-12-25T14:16:08.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[평창국제평화영화제 피프 피스 리스트 발표…새로운 활동 모색 첫발]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000943010</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000943010"/>
+        <updated>2022-12-25T14:15:16.481Z</updated>
+        <content type="html"><![CDATA[평창국제평화영화제(이하 영화제)가 ‘2022 피프 피스 리스트(PIPFF PEACE LIST)’를 발표, 다음달 상영회를 갖는다. 피프 리스트는 영화제가 올해 개봉한 한국영화 중 ‘평화’라는 테마에 가장 부합하는 작]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["No.1 가드"..'더 퍼스트 슬램덩크', 송태섭 비하인드 스토리 예고]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003116304</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005393637"/>
         <updated>2022-12-25T04:10:23.894Z</updated>
         <content type="html"><![CDATA[영화 ‘아바타’의 후속작 ‘아바타: 물의 길’(아바타2)이 누적 관객 수 500만명을 넘어섰다. 25일 월트디즈니컴퍼니 코리아에 따르면 개봉 12일 차인 ‘아바타2’는 이날 오전 7시 기준 누적 관객 수 537만40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아바타2’ 500만 넘었다! 24시간 만에 100만 관객 동원 ‘깜짝’]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003248136</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003248136"/>
-        <updated>2022-12-25T04:10:23.896Z</updated>
-        <content type="html"><![CDATA[영화 ‘아바타: 물의 길’이 성탄 특수를 제대로 누리고 있다. 25일 영화진흥위원회 영화관입장권 통합전산망에 따르면 ‘아바타: 물의 길’이 개봉 12일차인 이날 오전 7시께 537만 4611명의 관객을 넘어서며 50]]></content>
     </entry>
 </feed>
