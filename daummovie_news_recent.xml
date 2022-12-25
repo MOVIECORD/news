@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-12-25T21:14:58.978Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 25 Dec 2022 22:05:05 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘젠틀맨’ 주지훈 “육즙 가득한 몸 보여주려 노력했어요” [인터뷰]]]></title>
+            <link>https://v.daum.net/v/20221226063013644</link>
+            <guid>https://v.daum.net/v/20221226063013644</guid>
+            <pubDate>Sun, 25 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[극중 흥신소 사장 역을 맡은 주지훈과 특유의 능청스러운 캐릭터가 제법 잘 어울린다. 체력관리에 힘쓴 날렵한 몸은 그를 더욱 돋보이게 한다. 사진제공｜콘텐츠웨이브 배우 주지훈(40)과 박성웅(49)이 영화 ‘젠틀맨’(제작 트릭스터)을 무대로 살벌한 대립각을 세운다. 28일 개봉하는 영화에서 실종된 의뢰인을 찾기 위해 검사로 위장한 흥신소 사장 주지훈과 특수]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F26%2Fsportsdonga%2F20221226063015346mevx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘젠틀맨’ 박성웅 “주지훈 설득에 출연…결 다른 악역 만족” [인터뷰]]]></title>
+            <link>https://v.daum.net/v/20221226063011642</link>
+            <guid>https://v.daum.net/v/20221226063011642</guid>
+            <pubDate>Sun, 25 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 박성웅은 “이번 영화를 통해 선보이는 악역은 지금까지 해왔던 캐릭터와는 달라 자신감이 생긴다”고 힘주어 말했다. 사진제공｜콘텐츠웨이브 배우 주지훈(40)과 박성웅(49)이 영화 ‘젠틀맨’(제작 트릭스터)을 무대로 살벌한 대립각을 세운다. 28일 개봉하는 영화에서 실종된 의뢰인을 찾기 위해 검사로 위장한 흥신소 사장 주지훈과 특수부 검사 출신으로 막강]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202212%2F26%2Fsportsdonga%2F20221226063013419uvve.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
