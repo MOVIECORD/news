@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-12-25T19:11:02.061Z</updated>
+    <updated>2022-12-25T20:11:34.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[왓챠 오리지널 다큐 '다음 빈칸을 채우시오'... " 아이돌 효정, 큐, 우영, 김채원 출연"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000052372</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000052372"/>
+        <updated>2022-12-25T20:10:45.500Z</updated>
+        <content type="html"><![CDATA[왓챠가 인기 아이돌 오마이걸 효정, 더보이즈 큐, 에이티즈 우영, 르세라핌 김채원이 출연한 오리지널 다큐멘터리 &lt;다음 빈칸을 채우시오&gt; 을 내년 1월 3일 공개한다. 왓챠 오리지널 &lt;다음 빈칸을 채우시오&gt;는 고도로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 ‘아바타2’ 500만 돌파…박스오피스 1위 [연예뉴스 HOT]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001024020</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002669939"/>
         <updated>2022-12-25T04:10:23.892Z</updated>
         <content type="html"><![CDATA[영화 ‘아바타’의 후속작 ‘아바타: 물의 길’(이하 ‘아바타2’)이 누적관객수 500만을 돌파했다. 수입·배급사인 월트디즈니컴퍼니 코리아에 따르면 ‘아바타2’는 개봉 12일 차인 25일 오전 7시 기준 누적 관객 수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아바타2' 500만 돌파…감독·배우 "韓 놀라운 성원에 감동"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000191955</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000191955"/>
-        <updated>2022-12-25T04:10:23.893Z</updated>
-        <content type="html"><![CDATA[개봉 12일 만에 500만 돌파…연일 기록 경신 중 '아바타: 물의 길'이 500만 관객을 돌파한 가운데, 제임스 카메론 감독 등이 한국 팬들의 성원에 감사 인사를 전했다. 월트디즈니컴퍼니 코리아가 전한 영화관입장권]]></content>
     </entry>
 </feed>
