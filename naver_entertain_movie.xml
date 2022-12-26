@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-12-26T18:08:56.881Z</updated>
+    <updated>2022-12-26T19:12:31.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘아바타2’ 환상적 CG, 한국인 손에서 나왔다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001575900</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001575900"/>
+        <updated>2022-12-26T19:11:48.399Z</updated>
+        <content type="html"><![CDATA[13년 만에 돌아온 ‘아바타’ 속편 ‘아바타: 물의 길’(아바타2)이 전작보다 빠른 속도로 500만 관객을 돌파하며 흥행몰이 중이다. 전세계 관객을 사로잡은 완성도 높은 영화에는 장면마다 한국인의 손길이 묻어있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내년 쏟아지는 할리우드 초특급 대작들 “한국영화, 비켜”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=020&amp;aid=0003470334</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006541132"/>
         <updated>2022-12-26T08:20:19.776Z</updated>
         <content type="html"><![CDATA[(재)전주국제영화제조직위원회가 26일 민성욱·정준호 신임 집행위원장의 위촉식을 열었다. 우범기 조직위원장이 지난 14일 이사회 의결을 거쳐 선임된 이들 공동 집행위원장에게 위촉장을 수여했다. 우 위원장은 "국내 독립]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tech makes journey to Pandora, and Hollywood, easier]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000033080</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000033080"/>
-        <updated>2022-12-26T08:20:19.778Z</updated>
-        <content type="html"><![CDATA[At least two of the 2,000 artists who helped bring Pandora and the Na'vi to life in “Avatar: The Way of Water” have a Ko]]></content>
     </entry>
 </feed>
