@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-12-26T17:11:21.281Z</updated>
+    <updated>2022-12-26T18:08:56.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[내년 쏟아지는 할리우드 초특급 대작들 “한국영화, 비켜”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=020&amp;aid=0003470334</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=020&amp;aid=0003470334"/>
+        <updated>2022-12-26T18:08:09.085Z</updated>
+        <content type="html"><![CDATA[할리우드 대작 영화가 새해에 무서운 기세로 몰려온다. 할리우드 대작들은 내년 말까지 북미 개봉 일정을 확정하거나 아예 국내 개봉 일정까지 일찌감치 정한 뒤 글로벌 마케팅을 진행하며 존재감 알리기에 나섰다. 특히 내년]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[초장에 회를 꾹 찍어서 쩝쩝…강남 아바타 상영관서 벌어진 일]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005065925</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000033080"/>
         <updated>2022-12-26T08:20:19.778Z</updated>
         <content type="html"><![CDATA[At least two of the 2,000 artists who helped bring Pandora and the Na'vi to life in “Avatar: The Way of Water” have a Ko]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팝인터뷰]'아바타2' 韓스태프들 "제임스 카메론과의 작업 행운..다음 시리즈 더 놀랄 것"(종합)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003606732</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003606732"/>
-        <updated>2022-12-26T08:20:19.799Z</updated>
-        <content type="html"><![CDATA['아바타: 물의 길' 한국인 스태프들이 제임스 카메론 감독과 함께 한 꿈의 작업의 비화를 공개했다. 영화관입장권 통합전산망에 따르면 영화 '아바타: 물의 길'이 26일 오전 7시 기준 지난 23일~25일 3일간 19]]></content>
     </entry>
 </feed>
