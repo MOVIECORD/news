@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 02:06:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 03:11:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스 서바이벌 예능 '피지컬: 100'... "죽도록 싸우고 마지막까지 살아남아라!"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=243452</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=243452</guid>
+            <pubDate>Tue, 27 Dec 2022 03:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243452">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221227095055_25183ddb5075f5e78543b446a52ed7e8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=243452">넷플릭스 서바이벌 예능 '피지컬: 100'... "죽도록 싸우고 마지막까지 살아남아라!"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221227095055_25183ddb5075f5e78543b446a52ed7e8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 웨타FX 최종진-황정록 “제임스 카메론 감독과 함께 아바타를 창조했다”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=243425</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=242921">[현장] "웹툰을 찢고, 티빙 속으로" 김남길-이다희-차은우-성준 '아일랜드'로 들어가다</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221223090927_469e762164edec467ed84749320ddc92.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 '나이브스 아웃:글래스 어니언', 다니엘 크레이그의  '외딴 섬' 미스터리 추리극]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=242877</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=242877</guid>
-            <pubDate>Fri, 23 Dec 2022 08:08:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=242877">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221223092650_afb628b83107d3933b90c17f97600342.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=242877">넷플릭스 '나이브스 아웃:글래스 어니언', 다니엘 크레이그의  '외딴 섬' 미스터리 추리극</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221223092650_afb628b83107d3933b90c17f97600342.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
