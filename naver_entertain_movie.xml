@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-12-27T18:12:22.542Z</updated>
+    <updated>2022-12-27T21:11:12.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[영화평 300]에이, 쿨한 척해도 올드한 거 티 나요]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011613607</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011613607"/>
+        <updated>2022-12-27T21:10:25.549Z</updated>
+        <content type="html"><![CDATA[12월 5주차 개봉 영화 및 최신 개봉작 간단평을 정리했다. 더 일찍 나오시지…젠틀맨(★★☆) 약 10년 전에 국내에서 이런 영화가 유행한 적이 있다. 주인공은 동네 양아치처럼 건들 거리지만 비상한 머리를 가졌고 잘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“부산 영화 후반작업 시설 절실…배급사도 지원을”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000028902</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001539686"/>
         <updated>2022-12-27T10:06:34.892Z</updated>
         <content type="html"><![CDATA[영화 '아바타: 물의 길'(감독 제임스 카메론)이 600만 관객을 돌파했다. 27일 영진위 통합전산망에 따르면 '아바타: 물의 길'은 27일 오후 6시 기준 600만493명의 누적 관객수를 기록하며 600만 관객을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아바타2’ 600만 관객 돌파 [DA:박스]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001024437</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001024437"/>
-        <updated>2022-12-27T10:06:34.894Z</updated>
-        <content type="html"><![CDATA[‘아바타2’ 600만 관객 돌파 [DA:박스] 영화 ‘아바타: 물의 길’이 개봉 14일 만에 600만 관객을 돌파했다. 2009년 ‘아바타’의 후속편 ‘아바타: 물의 길’은 전편에 이어 제임스 카메론 감독이 13년]]></content>
     </entry>
 </feed>
