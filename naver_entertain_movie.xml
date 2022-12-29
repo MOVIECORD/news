@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-12-29T14:06:22.099Z</updated>
+    <updated>2022-12-29T16:09:38.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[새영화]몬스터 백작은 101번째 프로포즈 성공할 수 있을까]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000944160</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000944160"/>
+        <updated>2022-12-29T16:08:46.835Z</updated>
+        <content type="html"><![CDATA[이번 주 극장에는 거대 로펌의 추악한 범죄를 밝히기 위해 나서는 가짜 검사와 검사 중에 검사가 만나 펼치는 고품격 범죄 오락 영화 ‘젠틀맨’, 101번째 프로포즈의 성공만을 기다리는 ‘몬스터 신부:101번째 프로포즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘아바타: 물의 길’, 글로벌 흥행 수익 14일 만에 10억 달러 돌파]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001712620</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049281"/>
         <updated>2022-12-29T10:11:12.039Z</updated>
         <content type="html"><![CDATA[코로나19 이후 기존 극장 영화산업이 직격타를 맞으면서 부침을 겪던 투자배급사들도 각사의 전략에 따라 위드 코로나 시대를 맞이하고 있다. 2022년은 무작정 코로나 상황이 완화되기를 기다리며 개봉을 미룰 수만은 없는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가짜 페르시아어 가르친 유대인, 살기 위한 거짓말]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002377585</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002377585"/>
-        <updated>2022-12-29T09:05:07.909Z</updated>
-        <content type="html"><![CDATA[영화 &lt;페르시아어 수업&gt; 언어와 기억으로 강조하는 역사적 비극 ▲ 영화 &lt;페르시아어 수업&gt; 포스터 ⓒ 영화사 진진 유대인 질(나우엘 페레즈 비스카야트 분)은 포로 수송 차량에서 만난 남자에게 자신이 갖고 있던 샌드위]]></content>
     </entry>
 </feed>
