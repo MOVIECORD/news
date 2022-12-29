@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2022-12-29T19:05:18.973Z</updated>
+    <updated>2022-12-29T20:07:22.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[티빙 '아일랜드' 판타지 액션의 신기원, 오늘 열린다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000052473</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000052473"/>
+        <updated>2022-12-29T20:06:29.647Z</updated>
+        <content type="html"><![CDATA[티빙 오리지널 시리즈 &lt;아일랜드&gt;가 드디어 베일을 벗는다. 오늘(30일) 낮 12시 첫 공개되는 티빙 오리지널 시리즈 &lt;아일랜드&gt;는 윤인완, 양경일 작가의 동명 만화/웹툰 원작으로 세상을 멸망시키려는 악에 대항해 싸]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[새영화]몬스터 백작은 101번째 프로포즈 성공할 수 있을까]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000944160</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049282"/>
         <updated>2022-12-29T10:11:12.038Z</updated>
         <content type="html"><![CDATA[팬덤 ‘탑친자’(탑건에 미친 자)를 만들며 817만 관객을 모은 &lt;탑건: 매버릭&gt;(수입·배급)부터 누적 관객 726만명을 달성해 손익분기점을 넘기며 여름 극장가의 승자가 된 &lt;한산: 용의 출현&gt;(제공·배급)까지, 영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기획] 투자배급사 투자책임자 4인에게 물었다… 2023년 한국 영화산업 전망]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049281</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049281"/>
-        <updated>2022-12-29T10:11:12.039Z</updated>
-        <content type="html"><![CDATA[코로나19 이후 기존 극장 영화산업이 직격타를 맞으면서 부침을 겪던 투자배급사들도 각사의 전략에 따라 위드 코로나 시대를 맞이하고 있다. 2022년은 무작정 코로나 상황이 완화되기를 기다리며 개봉을 미룰 수만은 없는]]></content>
     </entry>
 </feed>
