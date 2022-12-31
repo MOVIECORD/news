@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2022-12-31T10:14:12.672Z</updated>
+    <updated>2022-12-31T11:13:40.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비천한 자들의 굴하지 않는 마음을 온누리에]]></title>
+        <id>https://v.daum.net/v/20221231200503336</id>
+        <link href="https://v.daum.net/v/20221231200503336"/>
+        <updated>2022-12-31T11:13:39.453Z</updated>
+        <content type="html"><![CDATA[☞한겨레S 뉴스레터를 구독해주세요. 지난 18일, 미국 뉴스 채널 &lt;시엔엔&gt;(CNN)은 한국의 고독사 문제를 다뤘다. &lt;시엔엔&gt;은 이를 지극히 한국적인 현상으로 판단했는지 ‘고독사’를 한국어 발음 그대로 ‘godoksa’로 표기하고 ‘lonely deaths’(외로운 죽음)로 번역했다. 고령화 사회와 인구 감소, 사회복지 격차, 빈곤 문제, 사회적 고립 등]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이유-이종석 '톱스타 커플' 탄생…"동료에서 연인으로"]]></title>
         <id>https://v.daum.net/v/20221231163630711</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221231091508934"/>
         <updated>2022-12-31T00:36:30.717Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 2022년 영화계는 속편들이 다 했다. 코로나19 여파로 인해 당분간은 메가 히트작이 없을 거라는 예상과 달리 마동석 주연 '범죄도시2'가 3년 만에 천만 돌파 성과를 이뤄냈고, 무려 13년 만에 돌아온 나비족, '아바타: 물의 길'의 흥행은 현재 진행형이다. 지난 5월 개봉한 영화 '범죄도시2'(감독 이상용)는 누적 관객 1,26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화에 눈이 먼 게 그렇게 나쁩니까 ‘탑친자의 등장’]]></title>
-        <id>https://v.daum.net/v/20221231090007770</id>
-        <link href="https://v.daum.net/v/20221231090007770"/>
-        <updated>2022-12-31T00:36:30.717Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 허민녕 기자] 이젠 영화 흥행을 위한 필요충분 조건이 됐다. 영화가 ‘아이돌화’된 격이다. ‘사랑엔 돈이 든다’ 했듯 격하게 아끼고 무엇보다 많이 사준다. ‘팬덤’이다. 특정영화의 무엇이 팬덤을 형성하는지는 정형화된 게 없다. 다만 다수가 인정하는 ‘웰메이드 무비’에만 허락된다는 점, 의도한다고 만들어지는 게 아닌 자연발생적 성격의 것임은 분명]]></content>
     </entry>
 </feed>
