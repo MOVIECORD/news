@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2022-12-31T21:06:44.001Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 31 Dec 2022 22:06:40 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['콘크리트 유토피아'·'밀수'…배급사·OTT별 2023년 라인업은 [신년특집-영화]①]]></title>
+            <link>https://v.daum.net/v/20230101070102500</link>
+            <guid>https://v.daum.net/v/20230101070102500</guid>
+            <pubDate>Sat, 31 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 지난 2022년은 팬데믹 기간 전후 완성된 영화들이 드디어 관객들을 만나기 시작한 해였다. 천만 영화 '범죄도시2'가 나오고 여름 성수기 영화였던 '헌트' '한산: 용의 출현' 등이 흥행하면서 표면적으로는 팬데믹이 촉발한 '극장 위기론'이 다소 식은 듯 했지만, 내부적으로는 불안감이 이어졌다. 여러 요인으로 인해 관객들의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F01%2FNEWS1%2F20230101070104019blvx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['교섭'·'원더랜드'·'승부'…배급사·OTT별 2023년 라인업은 [신년특집-영화]②]]></title>
+            <link>https://v.daum.net/v/20230101070046486</link>
+            <guid>https://v.daum.net/v/20230101070046486</guid>
+            <pubDate>Sat, 31 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 지난 2022년은 팬데믹 기간 전후 완성된 영화들이 드디어 관객들을 만나기 시작한 해였다. 천만 영화 '범죄도시2'가 나오고 여름 성수기 영화였던 '헌트' '한산: 용의 출현' 등이 흥행하면서 표면적으로는 팬데믹이 촉발한 '극장 위기론'이 다소 식은 듯 했지만, 내부적으로는 불안감이 이어졌다. 여러 요인으로 인해 관객들의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F01%2FNEWS1%2F20230101070048440vjsp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
