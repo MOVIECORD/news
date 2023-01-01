@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jan 2023 18:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jan 2023 19:08:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스톱모션 애니메이션 '엄마의 땅' 1월 개봉... "피와 땀과 시간의 결정판"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=243999</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=243999</guid>
+            <pubDate>Sun, 01 Jan 2023 19:05:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243999">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221230105314_fe51ec1e7e8eba1eb4d48d7f90a205e2.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=243999">스톱모션 애니메이션 '엄마의 땅' 1월 개봉... "피와 땀과 시간의 결정판" </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221230105314_fe51ec1e7e8eba1eb4d48d7f90a205e2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["지우학, 오겜, 그리고 우영우" 넷플릭스 한국콘텐츠 '2022년 최고의 순간들']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=244061</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=243517">이미경 CJ 부회장, 美 할리우드 리포터 ‘2022 엔터테인먼트 여성 파워 100인’ 선정</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221228072548_b175de74b9a3fab0699da4ab3cbefcc4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 서바이벌 예능 '피지컬: 100'... "죽도록 싸우고 마지막까지 살아남아라!"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=243452</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=243452</guid>
-            <pubDate>Tue, 27 Dec 2022 03:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=243452">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221227095055_25183ddb5075f5e78543b446a52ed7e8.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=243452">넷플릭스 서바이벌 예능 '피지컬: 100'... "죽도록 싸우고 마지막까지 살아남아라!"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20221227095055_25183ddb5075f5e78543b446a52ed7e8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
