@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-01-03T19:11:16.777Z</updated>
+    <updated>2023-01-03T20:08:08.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 몸짱 예능 '피지컬: 100'... “가장 완벽한 피지컬이란 무엇인가?”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000052594</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000052594"/>
+        <updated>2023-01-03T20:07:11.877Z</updated>
+        <content type="html"><![CDATA[넷플릭스(Netflix) 서바이벌 게임 예능 &lt;피지컬: 100&gt;이 극한의 순간에서 짜릿한 재미를 이끌어내는 피지컬 세계만의 강렬한 매력으로 전 세계 시청자들을 찾아온다. 은 가장 강력한 피지컬을 가진 최고의 ‘몸’을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘비운의 도로시’ 주디 갈랜드 출연 영화들]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000029486</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003723833"/>
         <updated>2023-01-03T10:11:56.827Z</updated>
         <content type="html"><![CDATA['호러' 하면 떠오르는 두 이름 제임스 완 감독과 블룸하우스의 협업으로 완성된 새해 첫 호러 '메간'이 오는 25일 개봉을 확정했다. '메간'(감독 제라드 존스톤)은 오직 케이디를 위해 프로그래밍 된 AI 로봇 메간]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['탑건2' 톰 크루즈, 2022년 가장 많이 돈 번 男배우 1위]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005399455</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005399455"/>
-        <updated>2023-01-03T10:11:56.834Z</updated>
-        <content type="html"><![CDATA[할리우드 배우 톰 크루즈가 2022년 한 해 가장 많은 돈을 번 남자 배우로 선정됐다. 지난달 28일(현지시간) 외신 매체 스터디파인즈는 2022년 한 해동안 영화 캐릭터로 가장 많은 수익을 거둔 남자 배우 5명을]]></content>
     </entry>
 </feed>
