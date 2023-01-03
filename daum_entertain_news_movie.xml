@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-03T10:12:47.519Z</updated>
+    <updated>2023-01-03T11:11:22.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['영웅' 안중근, 174만 관객 그 이상의 의미]]></title>
+        <id>https://v.daum.net/v/20230103200649522</id>
+        <link href="https://v.daum.net/v/20230103200649522"/>
+        <updated>2023-01-03T11:11:21.892Z</updated>
+        <content type="html"><![CDATA[안중근 의사의 이야기를 담은 '영웅'이 대중을 만나는 중이다. 174만 영화 마니아들을 만난 이 작품은 숫자로 나타낼 수 있는 관객 수 그 이상의 의미를 지니고 있다. 지난달 21일 개봉한 '영웅'은 1909년 10월, 하얼빈에서 이토 히로부미를 사살한 뒤 일본 법정의 사형 판결을 받고 순국한 안중근 의사가 거사를 준비하던 때부터 죽음을 맞이하던 순간까지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아바타2' 감독, 또 표절 논란 일었다]]></title>
         <id>https://v.daum.net/v/20230103183600239</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230103151208924"/>
         <updated>2023-01-03T06:18:48.278Z</updated>
         <content type="html"><![CDATA[[OSEN=연휘선 기자] '슬램덩크' 원작자 이노우에 다케히코 감독이 '더 퍼스트 슬램덩크' 제작비화를 직접 밝혔다. 3일 영화 '더 퍼스트 슬램덩크'(원작·각본·감독 이노우에 다케히코, 수입 에스엠지홀딩스, 배급 NEW) 측은 이노우에 다케히코 감독의 인터뷰 전문을 공개했다.&nbsp; '더 퍼스트 슬램덩크'는 만화 '슬램덩크'를 원작 삼아 애니메이션으로 만들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘스위치’ 개봉만 기다렸다‥권상우X이민정 4일부터 무대인사 출격]]></title>
-        <id>https://v.daum.net/v/20230103145946495</id>
-        <link href="https://v.daum.net/v/20230103145946495"/>
-        <updated>2023-01-03T06:18:48.280Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '스위치'가 개봉 당일부터 주말까지 무대인사를 통해 관객과 만난다. 1월 4일 개봉하는 '스위치'는 캐스팅 0순위 천만배우이자 자타공인 스캔들 메이커, 화려한 싱글 라이프를 만끽하던 톱스타 ‘박강’(권상우)이 크리스마스에 인생이 180도 뒤바뀌는 순간을 맞이하면서 벌어지는 이야기를 담은 작품. 개봉 당일 메가박스 코엑스, 롯데시네마]]></content>
     </entry>
 </feed>

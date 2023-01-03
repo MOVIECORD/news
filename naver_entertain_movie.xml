@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-01-03T10:12:47.509Z</updated>
+    <updated>2023-01-03T11:11:22.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[HI★초점] '영웅' 안중근, 174만 관객 그 이상의 의미]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000716469</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000716469"/>
+        <updated>2023-01-03T11:10:31.589Z</updated>
+        <content type="html"><![CDATA[안중근 의사의 이야기를 담은 '영웅'이 대중을 만나는 중이다. 174만 영화 마니아들을 만난 이 작품은 숫자로 나타낼 수 있는 관객 수 그 이상의 의미를 지니고 있다. 지난달 21일 개봉한 '영웅'은 1909년 10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신예 하서윤, 영화 ‘힘을 낼 시간’ 주연으로 데뷔]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005399489</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003118615"/>
         <updated>2023-01-03T10:11:56.862Z</updated>
         <content type="html"><![CDATA[배우 이도현이 '더 글로리'에서 열띤 호평을 받고 있는 가운데 비하인드 컷을 대방출했다. 소속사 위에화엔터테인먼트코리아는 3일 넷플릭스 오리지널 시리즈 '더 글로리'(극본 김은숙·연출 안길호)의 촬영 현장 속 이도현]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하서윤, 영화 ‘힘을 낼 시간’으로 데뷔]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000859105</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000859105"/>
-        <updated>2023-01-03T10:11:56.868Z</updated>
-        <content type="html"><![CDATA[신예 하서윤이 영화 ‘힘을 낼 시간’으로 데뷔한다. 영화 ‘힘을 낼 시간’은 국가인권위원회에서 제작하는 독립 장편으로, 2021년 영화 ‘십개월의 미래’를 통해 국내외 주요 영화제에 초청, 노미네이트 되며 주목 받은]]></content>
     </entry>
 </feed>
