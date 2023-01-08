@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 10:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jan 2023 11:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사장님 귀는 당나귀 귀] ‘100억 매출’ 보스 김우리, 일 처리 느린 직원에 답답...가격표 쓰는 데만 40분]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=245283</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=245283</guid>
+            <pubDate>Sun, 08 Jan 2023 11:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=245283">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230108200657_a0b5cd123d99220e3bf27634cac7082b_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=245283">[사장님 귀는 당나귀 귀] ‘100억 매출’ 보스 김우리, 일 처리 느린 직원에 답답...가격표 쓰는 데만 40분</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230108200657_a0b5cd123d99220e3bf27634cac7082b_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[불후의 명곡 '오디션 스타 패밀리 특집'... 박창근 형제 우승]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=245272</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230107094930_bbc56daefab9dcfe9d1fe785756dcaa5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘불후의 명곡’ 2023 신년특집 - "오디션 스타 패밀리 특집"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=245111</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=245111</guid>
-            <pubDate>Sat, 07 Jan 2023 04:06:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=245111">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230107082347_d8b02d4417195d6d4b11e74e2e385e62.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=245111">‘불후의 명곡’ 2023 신년특집 - "오디션 스타 패밀리 특집"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230107082347_d8b02d4417195d6d4b11e74e2e385e62.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
