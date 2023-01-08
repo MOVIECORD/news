@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-01-08T14:08:34.507Z</updated>
+    <updated>2023-01-08T15:10:16.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기대작-'교섭'(상)] 사상 최악의 작전…아프가니스탄에선 무슨 일이 있었나?]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000194483</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000194483"/>
+        <updated>2023-01-08T15:09:26.925Z</updated>
+        <content type="html"><![CDATA[2007년 샘물교회 선교단 피랍 사건 소재, '구하러 간 사람들의 이야기'에 방점 분쟁지역 아프가니스탄에서 한국인들이 탈레반에게 납치되는 전례 없던 사상 최악의 피랍사건을 다룬 영화 '교섭'이 개봉을 앞두고 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사카모토 류이치 “BTS슈가, 교만함 없는 호청년”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000860105</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013688075"/>
         <updated>2023-01-08T06:15:43.848Z</updated>
         <content type="html"><![CDATA[안중근 의사의 삶을 그린 영화 '영웅'이 누적 관객수 200만 명을 돌파한 8일 서울 시내 한 영화관에 '영웅' 포스터가 걸려 있다. 2023.1.8]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김은숙의 세계에서 펄떡이는 캐릭터들[스경연예연구소]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000860063</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000860063"/>
-        <updated>2023-01-08T06:15:43.849Z</updated>
-        <content type="html"><![CDATA[작가 김은숙이 창조한 캐릭터들이 온라인에서 핫하다. ‘로코여왕’ 김은숙이 내놓은 첫번째 장르물 넷플릭스 ‘더 글로리’가 연일 화제다. ‘더 글로리’는 지난달 30일 파트1 첫 공개 후 6일 만에 세계 넷플릭스 TV쇼]]></content>
     </entry>
 </feed>
