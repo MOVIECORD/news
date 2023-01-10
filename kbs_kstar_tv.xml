@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 09:07:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 10:11:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["코믹 보장"  김인권-차청화, "꼭두를 보필하라!" (MBC '꼭두의 계절')]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=245392</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=245392</guid>
+            <pubDate>Tue, 10 Jan 2023 10:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=245392">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230109082259_e70a52f9501229e59b91cfe0550583a3.JPG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=245392">"코믹 보장"  김인권-차청화, "꼭두를 보필하라!" (MBC '꼭두의 계절')</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230109082259_e70a52f9501229e59b91cfe0550583a3.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA['환혼2' 고윤정,  "빛의 순수함과 그림자의 힐링"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=245373</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=244723">김민재-김향기, "죽은 연애 세포도 살린다" (tvN 조선정신과의사유세풍2) </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230104072704_d2e4f4489fbb995cadb68b8aee853ac8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[tvN '일타 스캔들' 전도연, "밝고 긍정적인 캐릭터, 그리고 로맨틱 코미디"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=244585</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=244585</guid>
-            <pubDate>Wed, 04 Jan 2023 10:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=244585">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230103102814_ee7cc842475292a9297f852a55bd52bd.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=244585">tvN '일타 스캔들' 전도연, "밝고 긍정적인 캐릭터, 그리고 로맨틱 코미디"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230103102814_ee7cc842475292a9297f852a55bd52bd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
