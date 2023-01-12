@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-12T15:14:30.095Z</updated>
+    <updated>2023-01-12T16:23:31.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[韓 영화산업 매출 1조1602억…2019년 60% 수준]]></title>
+        <id>https://v.daum.net/v/20230113003012217</id>
+        <link href="https://v.daum.net/v/20230113003012217"/>
+        <updated>2023-01-12T16:23:30.698Z</updated>
+        <content type="html"><![CDATA[[동아닷컴] 지난해 한국 영화산업 매출이 코로나19 사태 이전인 20 19년의 60% 수준에 그친 것으로 나타났다. 12일 영화진흥위원회에 따르면 지난해 한국 영화산업 전체 누적 매출액은 1조1602억 원을 기록했다. 2021년에 비해 98.5% (5757억 원)증가했지만, 감염병 사태 이전인 2019년 전체 누적 매출의 60.6%에 그쳤다. 전체 누적]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['눈물·찬사'…김현주→류경수, '정이'팀이 故강수연을 추억하는 법]]></title>
         <id>https://v.daum.net/v/20230113000046904</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230112170751006"/>
         <updated>2023-01-12T08:21:13.366Z</updated>
         <content type="html"><![CDATA[[뉴스엔 허민녕 기자] 일명 ‘아재 팬덤’발 극장판 ‘슬램덩크’ 열풍에 이젠 하야오 이상으로 위협적인 신카이 마코토 신작 ’스즈메의 문단속’에 대한 관심이 ‘조기 점화’에 들어갔다. 애초에 관심작인데 여기에 기름마저 붓는 격. 각본집 또는 원작 출간 등 극장-서점간 콜라보가 대세며, 인기를 판가름하는 척도로도 인식되는 가운데 ‘스즈메의 문단속’ 책은 정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이하늬 "설경구와 액션…'용호상박' 대결로 보였으면 했죠"]]></title>
-        <id>https://v.daum.net/v/20230112164946435</id>
-        <link href="https://v.daum.net/v/20230112164946435"/>
-        <updated>2023-01-12T08:21:13.367Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 양정우 기자 = "'쥰지'(설경구)와 호텔 방에서 붙을 때는 정말 블록버스터 같은 연기였어요. 경구 선배한테 밀리면 절대 안 된다고 생각하고 들어갔죠." 오는 18일 개봉을 앞둔 영화 '유령'에서 배우 이하늬는 외딴 호텔 방에서 선배 설경구에게 맞서 살벌한 액션 연기를 선보인다. 극 중 '차경'역을 맡은 이하늬는 일본군 '쥰지' 역의 설]]></content>
     </entry>
 </feed>
