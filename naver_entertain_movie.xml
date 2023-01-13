@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-01-13T17:11:03.964Z</updated>
+    <updated>2023-01-13T18:18:20.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[현지서 4주간 1위 한 '몬스터 하우스2', 2월 개봉 [공식]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001241940</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001241940"/>
+        <updated>2023-01-13T18:17:33.631Z</updated>
+        <content type="html"><![CDATA[박스오피스 4주간 1위를 기록한 어드벤쳐 애니메이션 영화 '몬스터 하우스2: 인비져블 피닉스'(이하 '몬스터 하우스2')가 역대급 명콤비 탄생을 예고하며 시선을 모은다. '몬스터 하우스2'는 집을 지키고 돌보는 집]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["미소년처럼 보일까 걱정"..'교섭' 현빈, 덥수룩 수염 밀었더니 탄성이 [스타현장]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003121243</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001546117"/>
         <updated>2023-01-13T12:18:42.034Z</updated>
         <content type="html"><![CDATA[현빈이 '교섭'에서 선보일 자동차 액션을 귀띔했다. 13일 서울 강남구 메가박스 코엑스에서 영화 '교섭'(감독 임순례) 언론시사회가 열렸다. 이 자리에는 임순례 감독과 배우 황정민, 현빈, 강기영이 참석했다. '교섭]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘트랜스포머’ 마이클 베이, 伊 비둘기 죽인 혐의로 기소 위기]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=020&amp;aid=0003473868</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=020&amp;aid=0003473868"/>
-        <updated>2023-01-13T12:18:42.034Z</updated>
-        <content type="html"><![CDATA[‘트랜스포머’ 시리즈를 연출한 마이클 벤저민 베이 감독(59)이 비둘기 도살 혐의를 받고 있다. 12일(현지시간) 미국 매체 더랩 등에 따르면 베이 감독은 이탈리아 로마 촬영장에서 비둘기를 죽인 혐의로 기소될 위기에]]></content>
     </entry>
 </feed>

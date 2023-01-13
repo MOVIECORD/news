@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-01-13T17:11:03.959Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 13 Jan 2023 18:18:20 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현지서 4주간 1위 한 '몬스터 하우스2', 2월 개봉 [공식]]]></title>
+            <link>https://v.daum.net/v/20230114031030000</link>
+            <guid>https://v.daum.net/v/20230114031030000</guid>
+            <pubDate>Fri, 13 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=이수연 기자] 박스오피스 4주간 1위를 기록한 어드벤쳐 애니메이션 영화 '몬스터 하우스2: 인비져블 피닉스'(이하 '몬스터 하우스2')가 역대급 명콤비 탄생을 예고하며 시선을 모은다. '몬스터 하우스2'는 집을 지키고 돌보는 집 요정 '피닉'과 추리 소설에 푹 빠져 있는 인간 소녀 '크리스틴'이 마을에 일어난 미스터리한 사건과 보이지 않는 그것]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F14%2Ftvreport%2F20230114031032667zzzf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
