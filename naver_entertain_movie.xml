@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-01-13T21:06:16.990Z</updated>
+    <updated>2023-01-13T22:09:12.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더 퍼스트 슬램덩크', 일본 이어 한국서도 인기몰이 중…향수의 힘 [N초점]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006576214</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006576214"/>
+        <updated>2023-01-13T22:08:28.622Z</updated>
+        <content type="html"><![CDATA[극장판 애니메이션 '더 퍼스트 슬램덩크'(감독 이노우에 다케히코)의 기세가 심상찮다. 26년 만에 극장판 애니메이션으로 돌아온 이 작품은 '아바타: 물의 길'이라는 절대 강자가 존재함에도 불구, 개봉한지 약 일주일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주말의 OTT]고레에다 히로카즈가 만든 드라마]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011642491</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003609810"/>
         <updated>2023-01-13T12:18:42.018Z</updated>
         <content type="html"><![CDATA[황정민, 현빈이 배우 대 배우로 조우한 소감을 전했다. 영화 '교섭'(감독 임순례/제작 영화사 수박, 원테이크필름) 언론배급시사회가 13일 오후 서울 강남구 메가박스 코엑스에서 열려 임순례 감독과 배우 황정민, 현빈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['교섭' 임순례 감독 "이래서 황정민, 황정민 하는구나"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003121210</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003121210"/>
-        <updated>2023-01-13T12:18:42.019Z</updated>
-        <content type="html"><![CDATA[임순례 감독이 황정민의 영화 데뷔작 '와이키키 브라더스' 이후 '교섭'에서 다시 만난 가운데, "이래서 황정민 황정민 하는구나 생각했다"라고 말했다. 13일 오후 서울 강남구 메가박스 코엑스에서 영화 '교섭'(감독]]></content>
     </entry>
 </feed>
