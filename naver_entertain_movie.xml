@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-01-13T18:18:20.700Z</updated>
+    <updated>2023-01-13T19:11:06.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“아픈 역사, 고통스러워도 다음 세대에 공유해야”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001580009</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001580009"/>
+        <updated>2023-01-13T19:10:12.442Z</updated>
+        <content type="html"><![CDATA[“무슨 일이 있었는지 다음 세대에 이야기하고 희생자를 기릴 수 있게 해야 한다. 배신자가 누구였고 희생자는 누구였는지 알아야 역사의 다음 페이지로 넘어갈 수 있다. 아무 것도 적지 않고 페이지를 넘기는 건 이상한 일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현지서 4주간 1위 한 '몬스터 하우스2', 2월 개봉 [공식]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001241940</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004144930"/>
         <updated>2023-01-13T12:18:42.029Z</updated>
         <content type="html"><![CDATA[배우 황정민과 현빈이 영화 ‘교섭’을 통해 남다른 브로맨스 케미를 자랑한다. 13일 오후 서울 강남구 메가박스 코엑스에서 ‘교섭’ 언론배급시사회 및 기자간담회가 진행됐다. 배우 황정민, 현빈, 강기영과 임순례 감독이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현빈 "자동차 액션, '공조'는 자발적·'교섭'은 떠밀려서" (엑's 현장)[종합]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001546117</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001546117"/>
-        <updated>2023-01-13T12:18:42.034Z</updated>
-        <content type="html"><![CDATA[현빈이 '교섭'에서 선보일 자동차 액션을 귀띔했다. 13일 서울 강남구 메가박스 코엑스에서 영화 '교섭'(감독 임순례) 언론시사회가 열렸다. 이 자리에는 임순례 감독과 배우 황정민, 현빈, 강기영이 참석했다. '교섭]]></content>
     </entry>
 </feed>
