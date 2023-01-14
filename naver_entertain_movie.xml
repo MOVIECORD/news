@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-01-14T15:06:07.567Z</updated>
+    <updated>2023-01-14T16:07:46.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김옥빈-유태오 상극로맨스 '연애대전', 넷플릭스 2월 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000052824</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000052824"/>
+        <updated>2023-01-14T16:06:56.219Z</updated>
+        <content type="html"><![CDATA[김옥빈과 유태오가 주연을 맡은 넷플릭스(Netflix) 오리지널 시리즈 &lt;연애대전&gt;이 내달 10일 공개된다. 넷플릭스 &lt;연애대전&gt;은 남자에게 병적으로 지기 싫어하는 여자와 여자를 병적으로 의심하는 남자가 전쟁 같은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스파이 액션 '유령', 스파이는 글쎄, 액션은 성공 [TEN스타필드]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000591409</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003121340"/>
         <updated>2023-01-14T03:16:00.497Z</updated>
         <content type="html"><![CDATA[○...박찬욱 감독의 '헤어질 결심'의 골든글로브 비영어권 작품상 수상이 아쉽게 불발 됐다. 지난 10일(현지시간) 제80회 골든글로브(Golden Globes) 시상식이 미국 로스앤젤레스(LA) 비벌리 힐튼 호텔에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['헤어질 결심', 2월 美 재개봉..박찬욱X봉준호 대담 포함]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003121339</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003121339"/>
-        <updated>2023-01-14T03:16:00.498Z</updated>
-        <content type="html"><![CDATA[박찬욱 감독의 영화 '헤어질 결심'이 미국에서 2월 13일 재개봉한다. 13일(현지시간) 미국 매체 버라이어티는 "극장에서 상영되는 '헤어질 결심' 재개봉 버전에는 박찬욱 감독과 '기생충'의 봉준호 감독의 대담이 추]]></content>
     </entry>
 </feed>
