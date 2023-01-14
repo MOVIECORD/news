@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-01-14T13:17:10.241Z</updated>
+    <updated>2023-01-14T15:06:07.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스파이 액션 '유령', 스파이는 글쎄, 액션은 성공 [TEN스타필드]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000591409</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000591409"/>
+        <updated>2023-01-14T15:05:16.822Z</updated>
+        <content type="html"><![CDATA[≪최지예의 별몇개≫ 최지예 텐아시아 기자가 개봉 전 먼저 본 영화의 별점을 매기고, 한줄평을 남깁니다. 영화표 예매 전 꼭 확인하세요. 당신의 시간은 소중하니까!'유령' 별몇개? = ★★★☆☆ '유령' 한줄평 = 유]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[골든글로브 주연상 쾌거 ‘에에올’ 3월 재개봉 확정]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003251835</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003121339"/>
         <updated>2023-01-14T03:16:00.498Z</updated>
         <content type="html"><![CDATA[박찬욱 감독의 영화 '헤어질 결심'이 미국에서 2월 13일 재개봉한다. 13일(현지시간) 미국 매체 버라이어티는 "극장에서 상영되는 '헤어질 결심' 재개봉 버전에는 박찬욱 감독과 '기생충'의 봉준호 감독의 대담이 추]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[영화소식] 씨네큐브, 프랑스 거장 대표작 특별전]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013700147</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013700147"/>
-        <updated>2023-01-14T02:06:56.824Z</updated>
-        <content type="html"><![CDATA['다음 소희' 내달 8일 개봉 ▲ 씨네큐브, 프랑스 거장 대표작 특별전 = 예술영화관 씨네큐브 광화문은 프랑스 거장들의 대표작을 모은 '프랑스 클래식 시네마' 특별전을 오는 19일부터 31일까지 연다고 밝혔다. 이번]]></content>
     </entry>
 </feed>
