@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 04:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 05:06:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['두뇌공조' 곽선영, "설소정 경찰이 달라졌어요"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=246167</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=246167</guid>
+            <pubDate>Mon, 16 Jan 2023 05:05:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=246167">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230115193032_bee507a9a3d3d2f789b60de6dd3f8adf.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=246167">'두뇌공조' 곽선영, "설소정 경찰이 달라졌어요"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%91%90%EB%87%8C%EA%B3%B5%EC%A1%B0">월화드라마 두뇌공조</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230115193032_bee507a9a3d3d2f789b60de6dd3f8adf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[홍김동전]  물에는 안 빠졌지만 모든 룰을 어겨버린 홍진경 과장?! (세상 억울)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=246239</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230115082224_19b086c9194920856e453d7bfe6a730d_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘불후의 명곡’ 김연자 특집,  ‘아모르 파티’로 흥 폭발]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=246125</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=246125</guid>
-            <pubDate>Sun, 15 Jan 2023 03:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=246125">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230115081645_720cffd1ba0cd4bd96525149647a366f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=246125">‘불후의 명곡’ 김연자 특집,  ‘아모르 파티’로 흥 폭발</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230115081645_720cffd1ba0cd4bd96525149647a366f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
