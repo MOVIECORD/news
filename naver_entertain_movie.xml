@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-01-16T17:15:30.054Z</updated>
+    <updated>2023-01-16T18:14:18.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[방호정의 컬쳐 쇼크 & 조크] <106> 한국 웹툰을 원작으로 한 중국영화 ‘문맨’]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000030624</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000030624"/>
+        <updated>2023-01-16T18:12:57.946Z</updated>
+        <content type="html"><![CDATA[오랜만에 중국영화를 봤다. 체감상 거의 100년 만에 보는 것 같다. 중국영화에 대한 일말의 기대조차 사라진 건, 언제부턴가 중국 영화계가 해외 관객들은 전혀 공감할 수 없는 내수용 영화만을 고집스럽게 양산하기 시작]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[추위에 情마저 얼어붙었나…강원도 사랑의 온도탑, 전국 꼴찌]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000947333</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001546990"/>
         <updated>2023-01-16T10:06:43.788Z</updated>
         <content type="html"><![CDATA['에에올'이 잔잔하지만 뜨거운 열풍을 이어가고 있다. 영화 '에브리씽 에브리웨어 올 앳 원스'(이하 '에에올', 감독 다니엘 콴)는 미국에서 세탁소를 운영하던 에블린(양자경)이 세무당국의 조사에 시달리던 어느 날 남]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설에도 '아바타'만 볼거야? '유령''교섭' 온다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=014&amp;aid=0004956237</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=014&amp;aid=0004956237"/>
-        <updated>2023-01-16T10:06:43.790Z</updated>
-        <content type="html"><![CDATA[지난 2006년 아프가니스탄 한국인 피랍 사건을 소재로 한 황정민·현빈 주연의 '교섭'과 '유령'이 '아바타: 물의 길'의 독주를 끝낼 설 영화로 떠올랐다. '교섭'은 16일 영화진흥위원회 영화관입장권 통합전산망 실]]></content>
     </entry>
 </feed>
