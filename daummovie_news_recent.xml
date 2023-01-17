@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-01-17T20:14:50.427Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 17 Jan 2023 21:15:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] ‘유령’ 설경구 “여성 캐릭터 활약, 반갑고 통쾌하지 않나요?”]]></title>
+            <link>https://v.daum.net/v/20230118061003946</link>
+            <guid>https://v.daum.net/v/20230118061003946</guid>
+            <pubDate>Tue, 17 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[혼란과 교란. 영화 ‘유령’에서 배우 설경구가 연기한 캐릭터 쥰지를 한마디로 표현하자면 이렇게 말할 수 있을 것이다. 설경구는 자신이 가진 무게감을 십분 활용, 러닝타임 끝까지 ‘유령’에 긴장감을 불어넣었다. ‘유령’ 개봉을 앞두고 설경구를 최근 서울 종로구의 한 카페에서 만났다. 자신의 캐릭터에 대해 “기능적이었다”고 표현하면서도 어떠한 연기도 기능적]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F18%2Filgansports%2F20230118061006242gdwz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[박소담에게 ‘갑상선 유두암’이 남긴 것 (종합)[DA:인터뷰]]]></title>
+            <link>https://v.daum.net/v/20230118060013611</link>
+            <guid>https://v.daum.net/v/20230118060013611</guid>
+            <pubDate>Tue, 17 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[동아닷컴] 갑상선 유두암으로 인해 지난해 휴식기를 보낸 배우 박소담이 공백기를 돌아보며 영화 ‘유령’의 의미를 되짚었다. 16일 오후 서울 종로구 삼청동의 한 카페에서 진행된 영화 ‘유령’ 주연 배우 박소담의 인터뷰. 이날 박소담은 오전부터 이어진 인터뷰에 목 컨디션이 좋지 않았음에도 미소를 잃지 않고 성심성의껏 답변하며 열의를 다했다. ‘유령’은 19]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F18%2Fsportsdonga%2F20230118060015191jfkr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[암투병 박소담, "목소리 잃을 뻔 했지만...아프길 잘했다"[SS인터뷰]]]></title>
+            <link>https://v.daum.net/v/20230118060003581</link>
+            <guid>https://v.daum.net/v/20230118060003581</guid>
+            <pubDate>Tue, 17 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 조은별기자]배우 박소담(32)은 영화 ‘유령’을 촬영하던 2021년 상반기, 몸의 이상을 느꼈다. 데뷔 이후 쉬지 않고 소처럼 일했던 그는 당시만 해도 ‘번아웃’이라고 생각하고 이를 악물며 이겨내려고 했다. “현장에 나간 게 두려웠던 건 처음이었다. 몸이 계속해서 신호를 보내고 있었는데 정신적인 문제라고 생각했다. 매일 내]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F18%2FSPORTSSEOUL%2F20230118060010060tpzl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
