@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-01-17T17:06:56.181Z</updated>
+    <updated>2023-01-17T18:10:54.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주목할 만한 한국 독립영화, 온라인서 무료로 보세요]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000030764</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000030764"/>
+        <updated>2023-01-17T18:10:12.493Z</updated>
+        <content type="html"><![CDATA[국내 주목할 만한 독립영화 80여 편을 온라인에서 볼 수 있는 기획전이 열린다. 독립예술영화 유통배급지원센터 인디그라운드는 오는 20일부터 열흘간 ‘2022 독립영화 라이브러리’ 전 작품을 볼 수 있는 스페셜 위크]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대만 영화 ‘상견니’, 가가연·허광한 등 26일 내한 [연예뉴스 HOT]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001028241</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000947555"/>
         <updated>2023-01-17T10:06:43.405Z</updated>
         <content type="html"><![CDATA[최승열 강릉철강(주) 대표가 17일 강릉시청에서 강원도사회복지공동모금회에 1억원을 기부하고, 도내 99번째 고액기부자 모임인 아너소사이어티와 나눔명문기업 11호에 이름을 올렸다. 최승열 대표는 “모두가 어려운 시기를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[적수 없던 '아바타2', 한국 대작들 상대로도 흥행 이어갈까 [엑's 이슈]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001547416</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001547416"/>
-        <updated>2023-01-17T10:06:43.407Z</updated>
-        <content type="html"><![CDATA[제임스 카메론 감독의 영화 '아바타: 물의 길'(아바타2)이 세계적인 장기 집권을 이어가면서 월드와이드 19억 달러를 돌파한 가운데, 최종 흥행 성적과 3편에 대한 관심도 이어지고 있다. '아바타: 물의 길'은 13]]></content>
     </entry>
 </feed>
