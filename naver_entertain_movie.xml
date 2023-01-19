@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-01-19T12:14:43.086Z</updated>
+    <updated>2023-01-19T13:20:33.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[헤어질 결심, 영국 아카데미 감독상·외국어영화상 최종후보]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013712077</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013712077"/>
+        <updated>2023-01-19T13:19:45.057Z</updated>
+        <content type="html"><![CDATA[박찬욱 감독, '아가씨' 이어 두번째 도전 최윤정 특파원 = 박찬욱 감독의 영화 '헤어질 결심'이 영국 아카데미상에서 감독상과 외국어영화상 2개 부문 최종후보에 올랐다. 영국영화TV예술아카데미(BAFTA)는 19일(]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비상선언' 임시완, '폰 떨어뜨렸을 뿐인데'서 또 악역 변신]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001242700</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049417"/>
         <updated>2023-01-19T10:06:52.318Z</updated>
         <content type="html"><![CDATA[이광영 감독의 신작 &lt;사랑이라 말해요&gt;는 복수에 호기롭게 뛰어든 우주(이성경)가 미치도록 짠한 남자 동진(김영광)을 만나 서로의 상처를 치유하는 휴먼 멜로드라마다. 현실감 돋는 서사와 연출로 시청자들의 공감을 일으켰]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023 시리즈⑤] 이단 감독 ‘모범택시2’, “흥겹게, 멈추지 않고 달린다”]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049416</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049416"/>
-        <updated>2023-01-19T10:06:52.327Z</updated>
-        <content type="html"><![CDATA[목적지를 쉽게 가늠할 수 없는 김도기(이제훈)의 모범택시가 운영을 재개한다. 택시회사 ‘무지개 운수’ 장성철 대표(김의성)와 경리처럼 보이지만 온라인 곳곳을 헤집는 천재 해커 안고은(표예진), 그리고 두 정비실 엔지]]></content>
     </entry>
 </feed>
