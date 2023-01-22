@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-01-22T18:08:10.038Z</updated>
+    <updated>2023-01-22T20:10:56.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍콩 액션스타, 한국 '아침마당' 출격]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000052973</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000052973"/>
+        <updated>2023-01-22T20:10:07.795Z</updated>
+        <content type="html"><![CDATA['황비홍'에서 '엽문'까지, '소림사'에서 '금의위'까지. 홍콩 최고의 액션 스타 견자단이 신작 &lt;천룡팔부: 교봉전&gt;의 한국 개봉에 맞춰 다채로운 홍보활동을 펼친다. 그중 가장 이채는 KBS 1TV '아침마당' 출연]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['유령' 박해수·박소담·서현우·이하늬, 설날 즐거운 무대인사]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003690169</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003690169"/>
+        <updated>2023-01-22T20:10:07.803Z</updated>
+        <content type="html"><![CDATA[22일 오후 서울 CGV신촌에서 진행된 영화 ’유령’ 무대인사에 배우 박해수, 박소담, 서현우, 이하늬, 이해영 감독이 참석했다. '유령'은 1933년 경성, 조선총독부에 항일조직이 심어 놓은 스파이 '유령'으로 의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팝인터뷰]이하늬 "'외계+인' 2부서는 조금 더 활약..1부 궁금증 풀릴 것"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003611310</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004777593"/>
         <updated>2023-01-22T07:09:35.645Z</updated>
         <content type="html"><![CDATA[22일 오후 서울 CGV 신촌에서 영화 ’유령’ 무대인사가 진행됐다. 배우 박소담이 무대인사를 하고 있다. 2023.01.22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]박소담,'심쿵 눈맞춤']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004777591</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004777591"/>
-        <updated>2023-01-22T07:09:35.647Z</updated>
-        <content type="html"><![CDATA[22일 오후 서울 CGV 신촌에서 영화 ’유령’ 무대인사가 진행됐다. 배우 서현우가 무대인사를 하고 있다. 2023.01.22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]박해수,'카리스마 넘치는 블랙']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004777590</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004777590"/>
-        <updated>2023-01-22T07:09:35.652Z</updated>
-        <content type="html"><![CDATA[21일 오후 서울 CGV 신촌에서 영화 ’유령’ 무대인사가 진행됐다. 배우 박해수가 무대인사를 하고 있다. 2023.01.21]]></content>
     </entry>
 </feed>
