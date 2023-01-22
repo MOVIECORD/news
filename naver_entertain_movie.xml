@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-01-22T13:21:40.404Z</updated>
+    <updated>2023-01-22T15:06:41.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팝인터뷰]이하늬 "'외계+인' 2부서는 조금 더 활약..1부 궁금증 풀릴 것"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003611310</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003611310"/>
+        <updated>2023-01-22T15:05:51.560Z</updated>
+        <content type="html"><![CDATA[배우 이하늬가 '외계+인' 2부에 대해 귀띔했다. 이하늬는 지난해 여름 극장가에 출격한 영화 '외계+인' 1부에 출연한 바 있다. 비중이 크지는 않았던 가운데 연출을 맡은 최동훈 감독은 "이하늬는 2부에 더 많이 나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[故강수연 '정이' 세계 영화 1위...'씨받이' 왜 떴나?]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=014&amp;aid=0004959008</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004777590"/>
         <updated>2023-01-22T07:09:35.652Z</updated>
         <content type="html"><![CDATA[21일 오후 서울 CGV 신촌에서 영화 ’유령’ 무대인사가 진행됐다. 배우 박해수가 무대인사를 하고 있다. 2023.01.21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진]토끼 보다 귀여운 박소담]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004777589</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004777589"/>
-        <updated>2023-01-22T07:09:35.653Z</updated>
-        <content type="html"><![CDATA[21일 오후 서울 CGV 신촌에서 영화 ’유령’ 무대인사가 진행됐다. 배우 박소담이 무대인사를 하고 있다. 2023.01.21]]></content>
     </entry>
 </feed>
