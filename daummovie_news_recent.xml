@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-01-22T20:10:56.519Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 22 Jan 2023 21:11:36 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[TEN인터뷰] 소유진, 든든한 ♥백종원 서포트 받는 워킹맘 "설 연휴엔 아이들 봐야죠"]]></title>
+            <link>https://v.daum.net/v/20230123060101004</link>
+            <guid>https://v.daum.net/v/20230123060101004</guid>
+            <pubDate>Sun, 22 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=강민경 기자] "이번 설 연휴 중 하루 공연이 있어요. 학원도 쉬니까 아이들을 봐야죠. 저는 공연으로, 아이들은 학원 다녀서 바쁘지만 설 연휴에는 아이들과 있어야죠." 소유진에게 '배우', 'MC', '백종원 아내', '워킹맘' 등 여러 가지 수식어가 붙는다. 이번 설 연휴에 배우 소유진은 아내와 엄마로 돌아간다. 물론 공연이 없는 날 한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F23%2F10asia%2F20230123060103784fivv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
