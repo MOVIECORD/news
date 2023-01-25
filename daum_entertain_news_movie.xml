@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-01-25T14:07:19.517Z</updated>
+    <updated>2023-01-25T15:09:09.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배정남, '영웅' 촬영한 뒤 애국자 된 사연]]></title>
+        <id>https://v.daum.net/v/20230125233846800</id>
+        <link href="https://v.daum.net/v/20230125233846800"/>
+        <updated>2023-01-25T15:09:08.632Z</updated>
+        <content type="html"><![CDATA[배우 배정남(사진=CJ ENM)[이데일리 스타in 윤기백 기자] “이런 애국자 또 없습니다.” 매 작품 유쾌한 매력으로 활력소 역할을 톡톡히 해내고 있는 배우 배정남. 이젠 새로운 수식어를 붙여야 할 때가 된 듯하다. 바로 ‘애국자’다. 영화 ‘영웅’에서 백발백중의 사격 실력을 갖춘 독립군 최고의 명사수 조도선 역을 열연한 배정남은 촬영 이후에도 마치 독]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['헤어질 결심', 봉준호 '기생충'과 달랐나…美 오스카 최종 후보 불발]]></title>
         <id>https://v.daum.net/v/20230125205201048</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230125181202457"/>
         <updated>2023-01-25T09:13:08.355Z</updated>
         <content type="html"><![CDATA[[스포츠서울|조은별기자]한국영화가 세계시장을 뒤흔들고 있다. OTT(온라인 동영상 서비스)와 스크린을 통해 유통된 K무비의 우수함에 세계인의 이목이 집중되고 있다. 故 강수연의 유작인 SF 영화 ‘정이’는 올해 넷플릭스 세계 1위에 오른 첫 한국영화가 됐다. ‘정이’는 기후위기로 폐허가 된 지구에서 ‘전설의 용병’ 윤정이(김현주 분)의 뇌를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['정이' 김현주 "샌드백 치며 스트레스 해소, 격투기도 좋아해"]]></title>
-        <id>https://v.daum.net/v/20230125180001117</id>
-        <link href="https://v.daum.net/v/20230125180001117"/>
-        <updated>2023-01-25T09:13:08.363Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 김현주 / 사진=넷플릭스배우 김현주가 샌드백을 치며 스트레스를 해소한다고 밝혔다. 25일 서울시 종로구 소격동의 한 카페에서 스타뉴스와 만나 넷플릭스 영화 '정이'(감독 연상호)의 배우 김현주와 만나 다양한 이야기를 나눴다. '정이'는 기후변화로 폐허가 된 지구를 벗어나 이주한 쉘터에서 발생한 전쟁을 끝내기 위해 전설적인 용]]></content>
     </entry>
 </feed>

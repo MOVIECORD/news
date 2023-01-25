@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-01-25T14:07:19.513Z</updated>
+    <updated>2023-01-25T15:09:09.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배정남, '영웅' 촬영한 뒤 애국자 된 사연 [인터뷰]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005411986</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005411986"/>
+        <updated>2023-01-25T15:08:21.601Z</updated>
+        <content type="html"><![CDATA[배우 배정남(사진=CJ ENM) “이런 애국자 또 없습니다.” 매 작품 유쾌한 매력으로 활력소 역할을 톡톡히 해내고 있는 배우 배정남. 이젠 새로운 수식어를 붙여야 할 때가 된 듯하다. 바로 ‘애국자’다. 영화 ‘영]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 요선 인도 푸네 국제영화제 초청]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000948712</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001549956"/>
         <updated>2023-01-25T10:10:44.472Z</updated>
         <content type="html"><![CDATA[([엑's 인터뷰②]에 이어) 배우 김현주가 영화 '정이'에서 호흡을 맞춘 故 강수연에 대해 이야기했다. 김현주는 25일 오후 서울 종로구 소격동의 한 카페에서 열린 넷플릭스 영화 '정이'(감독 연상호) 인터뷰에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김현주 "연상호 감독, 내 팬이라고...캐스팅은 저도 의아" [엑's 인터뷰②]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001549955</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001549955"/>
-        <updated>2023-01-25T10:10:44.473Z</updated>
-        <content type="html"><![CDATA[([엑's 인터뷰①]에 이어) 배우 김현주가 영화 '정이' 시리즈화에 대해 입을 열었다. 김현주는 25일 오후 서울 종로구 소격동의 한 카페에서 열린 넷플릭스 영화 '정이'(감독 연상호) 인터뷰에서 다양한 이야기를]]></content>
     </entry>
 </feed>
