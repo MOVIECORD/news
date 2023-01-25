@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-01-25T19:10:28.397Z</updated>
+    <updated>2023-01-25T21:05:49.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[EN:터뷰]임순례 감독이 피랍자 '교섭'에 나선 공무원 그린 이유]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003730733</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003730733"/>
+        <updated>2023-01-25T21:05:02.100Z</updated>
+        <content type="html"><![CDATA[※ 스포일러 주의 아프가니스탄으로 단체 입국한 한국인들이 탈레반의 인질이 되는 사상 최악의 피랍사건이 발생했다. 피랍사건 발생 직후, 탈레반은 아프간에 주둔한 한국군의 철군 및 인질들과 같은 수의 탈레반 수감자를 석]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘오늘밤’ 슌스케 “한국 작품 출연하고 싶다”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001582269</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000681495"/>
         <updated>2023-01-25T11:10:55.788Z</updated>
         <content type="html"><![CDATA[홍상수 감독 29번째 장편영화 '물안에서'가 제73회 베를린국제영화제에 공식 초청됐다. 홍상수 감독이 연출하고 김민희가 제작실장으로 이름을 올린 영화 '물안에서'가 오는 2월 16일 열리는 제73회 베를린국제영화제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘카운트’ 진선규, 고향 진해서 물만났다‥겉바속촉 매력캐로]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000681494</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000681494"/>
-        <updated>2023-01-25T11:10:55.789Z</updated>
-        <content type="html"><![CDATA[충무로 대세 배우 진선규가 예측할 수 없는 매력으로 돌아온다. 2월 개봉하는 영화 '카운트'(감독 권혁재)는 금메달리스트 출신, 한번 물면 절대 놓지 않는 마이웨이 선생 ‘시헌’(진선규)이 오합지졸 핵아싸 제자들을]]></content>
     </entry>
 </feed>
