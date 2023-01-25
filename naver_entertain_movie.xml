@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-01-25T16:13:59.639Z</updated>
+    <updated>2023-01-25T18:11:37.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이교 집단 그린 호러 영화 '트윈', 2월 8일 개봉]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001243190</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001243190"/>
+        <updated>2023-01-25T18:10:47.809Z</updated>
+        <content type="html"><![CDATA[올겨울 가장 충격적인 오컬트 호러 '트윈'이 오는 2월 8일 개봉을 확정, 소름 끼치는 이야기를 예고하며 기대를 모은다. 영화 '트윈'은 쌍둥이 중 한 명을 잃고 새 출발 하려는 레이첼 가족에게 다가오는 이교 집단의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Ms앨범] 미치에다 슌스케, "천년돌의 위엄"...'클로즈업을 부르는 비주얼']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=445&amp;aid=0000093427</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003123961"/>
         <updated>2023-01-25T10:10:44.453Z</updated>
         <content type="html"><![CDATA[배우 장근석이 거친 남자로 돌아왔다. 25일 오후 서울 강남구 코엑스 메가박스에서 쿠팡플레이 시리즈 '미끼'(감독 김홍선) 시사회 및 기자간담회가 열렸다. 이날 행사에는 장근석, 허성태, 이엘리야, 김홍선 감독이 참]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘정이’ 3일만에 80개국 톱10 등극]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001029076</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001029076"/>
-        <updated>2023-01-25T10:10:44.455Z</updated>
-        <content type="html"><![CDATA[연상호 감독의 신작 넷플릭스(Netflix) '정이'가 공개 3일만에 80개국 톱10에 등극했다. 한국형 SF 장르의 새 지평을 연 연상호 감독의 신작 '정이'는 공개 3일 만에 1,930만 시청 시간을 기록하며 넷]]></content>
     </entry>
 </feed>
