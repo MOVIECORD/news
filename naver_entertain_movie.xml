@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-01-26T19:07:02.933Z</updated>
+    <updated>2023-01-26T20:11:16.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아바타2', 역대 흥행 5위…'어벤져스:인피니티 워' 제쳐]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013721212</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013721212"/>
+        <updated>2023-01-26T20:10:30.107Z</updated>
+        <content type="html"><![CDATA['톱5'에 '아바타', '타이타닉' 등 캐머런 감독 영화 3편 포진 정윤섭 특파원 = 제임스 캐머런 감독의 영화 '아바타:물의 길'('아바타2')이 26일(현지시간) 역대 글로벌 흥행 5위에 올랐다. 미국 연예 매체]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘아바타2’, 전편 ‘아바타’ 국내 흥행 수익 넘겨…글로벌 흥행수익 20억달러 돌파]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=016&amp;aid=0002095404</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006596831"/>
         <updated>2023-01-26T10:14:22.923Z</updated>
         <content type="html"><![CDATA[대만 배우 커자옌(가가연), 쉬광한(허광한), 스보위(시백우)가 한국을 찾아 드라마 '상견니'의 열풍을 영화로 이어간다. 26일 오후 서울 용산구 CGV용산아이파크몰에서 영화 '상견니'(감독 황천인) 내한 기자간담회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가가연의 마이크 바꿔주는 허광한 [포토]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001029364</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001029364"/>
-        <updated>2023-01-26T10:14:22.924Z</updated>
-        <content type="html"><![CDATA[배우 허광한이 26일 서울 용산구 CGV용산아이파크몰점에서 열린 영화 ‘상견니’ 내한 기자회견에서 가가연의 마이크를 바꿔주고 있다.]]></content>
     </entry>
 </feed>
