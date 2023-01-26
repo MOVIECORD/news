@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 20:11:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 22:05:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JTBC '신성한, 이혼' "3월, 유쾌한 휴먼 드라마가 온다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=246666</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=246666</guid>
+            <pubDate>Thu, 26 Jan 2023 22:03:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=246666">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230119101241_92be0956ba55a9f9d5ca7e96bfd89c47.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=246666">JTBC '신성한, 이혼' "3월, 유쾌한 휴먼 드라마가 온다"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230119101241_92be0956ba55a9f9d5ca7e96bfd89c47.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[tvN '청춘월담' 왕세자 박형식, 용의자 전소니]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=247197</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=246012">tvN '캐나다 체크인'  빼꼼이와 쿠키의 견(犬)생극장</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230114165504_510a2a5881b41990a196970d0dc286a6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[tvN 새 토일드라마 '일타 스캔들' 오늘 첫 방송... 전도연-정경호, 일촉즉발 첫 만남]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=246006</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=246006</guid>
-            <pubDate>Sat, 21 Jan 2023 07:03:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=246006">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230114165049_d14c72d23b6ea85394a079d1f22cc2c1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=246006">tvN 새 토일드라마 '일타 스캔들' 오늘 첫 방송... 전도연-정경호, 일촉즉발 첫 만남</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230114165049_d14c72d23b6ea85394a079d1f22cc2c1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
