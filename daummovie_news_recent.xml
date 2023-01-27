@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-01-27T20:15:41.048Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 27 Jan 2023 21:06:07 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주말의 OTT]심슨이 어벤져스를 만났다?!]]></title>
+            <link>https://v.daum.net/v/20230128055907285</link>
+            <guid>https://v.daum.net/v/20230128055907285</guid>
+            <pubDate>Fri, 27 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스] 손정빈 기자 = 1월 4주차 디즈니+·넷플릭스·왓챠 신작을 소개한다. 좋은 놈, 바트 놈, 로키 놈(디즈니+) 심슨 가족과 마블의 특별한 컬래버레이션 '좋은 놈, 바트 놈, 로키 놈'을 디즈니+에서 볼 수 있다. 아스가르드의 법률을 또 어긴 로키가 오딘에 의해 스프링필드로 추방, 심슨 가족의 뒷마당으로 떨어지게 되면서 벌어지는 이야기를]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F28%2Fnewsis%2F20230128055907936ddfz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>

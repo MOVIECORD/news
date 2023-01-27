@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-01-27T20:15:41.049Z</updated>
+    <updated>2023-01-27T21:06:07.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주말의 OTT]심슨이 어벤져스를 만났다?!]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011662383</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011662383"/>
+        <updated>2023-01-27T21:05:17.934Z</updated>
+        <content type="html"><![CDATA[1월 4주차 디즈니+·넷플릭스·왓챠 신작을 소개한다. 좋은 놈, 바트 놈, 로키 놈(디즈니+) 심슨 가족과 마블의 특별한 컬래버레이션 '좋은 놈, 바트 놈, 로키 놈'을 디즈니+에서 볼 수 있다. 아스가르드의 법률을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘아바타2’, 전편 넘어 국내 개봉 외화 누적 매출액 1위 올라]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001582791</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005080139"/>
         <updated>2023-01-27T10:07:02.134Z</updated>
         <content type="html"><![CDATA[“몇 번을 다시 보니 더 미쳤다. 그냥 내 생애 최고의 영화 중 하나.”, “추억이 되살아나 좋았다.”, “나의 10대와 함께한 그 시절 아직 나는 그 시절 추억과 함께 동시대를 살아가고 있다.” 포털 사이트 ‘더]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SC이슈] "제주 생활 청산? NO, 개인 일정"…곽도원, 음주운전 논란 동남아行 시끌]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003964724</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003964724"/>
-        <updated>2023-01-27T10:07:02.143Z</updated>
-        <content type="html"><![CDATA[음주운전으로 연기 활동을 중단하고 자숙 중인 배우 곽도원이 제주 생활을 청산하고 동남아에서 체류 중인 사실이 알려져 화제를 모았다. 곽도원은 지난해 12월 음주운전 혐의(도로교통법 위반)로 검찰에 송치됐다. 그는 그]]></content>
     </entry>
 </feed>
