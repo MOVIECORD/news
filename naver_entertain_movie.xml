@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-01-28T08:16:15.830Z</updated>
+    <updated>2023-01-28T09:06:49.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[슬램덩크, 박스오피스 1위…영웅은 300만 돌파]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000581453</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000581453"/>
+        <updated>2023-01-28T09:06:00.333Z</updated>
+        <content type="html"><![CDATA[일본 애니메이션 '더 퍼스트 슬램덩크'가 개봉 23일 만에 박스오피스 정상에 올랐습니다.지난 18일 개봉 이후 줄곧 박스오피스 선두를 달리던 황정민·현빈 주연의 교섭은 열흘 만에 2위로 내려앉았습니다.박스오피스 1위를 차지한 더 퍼스트 슬램덩크의 누적 관객수는 어제(27일) 기준으로 171만5천여명이었습니다.한편, 박스...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[천만 넘은 '아바타2'..흥행 어디까지 갈까 [위클리무비]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003124663</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001718783"/>
         <updated>2023-01-28T08:15:26.698Z</updated>
         <content type="html"><![CDATA[영화 ‘영웅’이 300만 관객을 돌파했고, 이를 자축했다. ‘영웅’은 1909년 10월, 하얼빈에서 이토 히로부미를 사살한 뒤 일본 법정의 사형 판결을 받고 순국한 안중근 의사가 거사를 준비하던 때부터 죽음을 맞이하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘영웅’ 300만 돌파, 장기 흥행 이어간다 [MK★박스오피스]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000919933</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000919933"/>
-        <updated>2023-01-28T08:15:26.698Z</updated>
-        <content type="html"><![CDATA[영화 ‘영웅’이 300만 관객을 돌파했다. ‘영웅’은 1909년 10월, 하얼빈에서 이토 히로부미를 사살한 뒤 일본 법정의 사형 판결을 받고 순국한 안중근 의사가 거사를 준비하던 때부터 죽음을 맞이하던 순간까지, 잊]]></content>
     </entry>
 </feed>
