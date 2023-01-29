@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-01-29T02:27:20.967Z</updated>
+    <updated>2023-01-29T03:12:47.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마지막으로 장애인과 대화한 게 언제인가요?]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002380411</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002380411"/>
+        <updated>2023-01-29T03:11:56.068Z</updated>
+        <content type="html"><![CDATA[&lt;나를 죽여줘&gt; 마지막으로 장애인을 만나본 게 언제인가. 대화를 해본 건 언제인가. 함께 식사를 한 건 언제인가. 인사를 나눈 건 또 언제인가. 기억이 마땅히 떠오르지 않는 이들이 바로 답할 수 있는 이보다 훨씬 더]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박근형 ‘사망설’ 허위정보 언급 “그래서 유튜브 안봐”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001582882</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=308&amp;aid=0000032148"/>
         <updated>2023-01-28T23:05:58.858Z</updated>
         <content type="html"><![CDATA[어느 날 TV로 디즈니 애니메이션 〈피노키오〉를 보았다. 착하고 바르게 행동한 덕분에 ‘진짜 소년’으로 다시 태어나는 나무 인형 이야기가 아이는 영 마음에 들지 않았다. 꼭 사람이 되어야 할까? 인형인 채로는 안 되]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[내가 본 '이하늬'] 엄마가 되니 비로소 보이는 것]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000197723</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000197723"/>
-        <updated>2023-01-28T16:10:39.507Z</updated>
-        <content type="html"><![CDATA["운명처럼 다가온 '유령', 연기하는 맛 있었던 '박차경'" 정제되지 않은 스타는 어떤 모습일까. 연예계는 대중의 관심을 받는 스타도 많고, 이들을 팔로우하는 매체도 많다. 모처럼 인터뷰가 잡혀도 단독으로 대면하는]]></content>
     </entry>
 </feed>
