@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 03:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 05:11:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니+ "사랑이라 말해요, 복수를"... 김영광, 이성경, 성준, 안희연, 김예원]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=247795</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=247795</guid>
+            <pubDate>Mon, 30 Jan 2023 05:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=247795">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230130074730_95e45a6c82edb30b4ff34cc08b6b97b8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=247795">디즈니+ "사랑이라 말해요, 복수를"... 김영광, 이성경, 성준, 안희연, 김예원</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230130074730_95e45a6c82edb30b4ff34cc08b6b97b8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["장부의 길, 300만 번 부르다"  윤제균 <영웅> 300만]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=247604</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=247081">'아바타:물의 길' 천만 관객  돌파  “팬데믹 이후 두 번째 영화”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230124080651_22df862c2c2d6d6a900d0bf3c832eae9_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왓챠 '다음 빈칸을 채우시오' 오마이걸 효정 편]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=246986</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=246986</guid>
-            <pubDate>Tue, 24 Jan 2023 00:30:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=246986">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230123152209_5d8e817719a21fdead9c70c795da411f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=246986">왓챠 '다음 빈칸을 채우시오' 오마이걸 효정 편</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230123152209_5d8e817719a21fdead9c70c795da411f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
