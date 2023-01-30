@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-01-30T15:06:35.783Z</updated>
+    <updated>2023-01-30T17:16:10.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전주국제영화제, 마스크 가급적 착용 권고 [연예뉴스 HOT]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001030100</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001030100"/>
+        <updated>2023-01-30T17:15:20.022Z</updated>
+        <content type="html"><![CDATA[실내 마스크 착용 의무가 권고로 전환되면서 4월 27일부터 5월 6일까지 열리는 제24회 전주국제영화제에서는 마스크를 벗고 영화를 관람할 수 있게 됐다. 다만 관람객의 건강을 위해 ‘가급적 착용’을 안내하는 등 정부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고(故) 윤정희와 영원한 작별]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013727134</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003612488"/>
         <updated>2023-01-30T12:18:33.595Z</updated>
         <content type="html"><![CDATA[변우석이 '소울메이트'를 통해 스크린에 도전장을 내밀었다. 영화 '소울메이트'는 첫 만남부터 서로를 알아본 두 친구 ‘미소(김다미)’와 ‘하은(전소니)’ 그리고 ‘진우(변우석)’가 기쁨, 슬픔, 설렘, 그리움까지 모]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 '부활' 구수환 감독 인터뷰 영상 200만뷰 돌파]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001551869</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001551869"/>
-        <updated>2023-01-30T12:18:33.605Z</updated>
-        <content type="html"><![CDATA[영화 '부활'의 감독으로도 유명한 이태석 재단 구수환 이사장의 인터뷰를 담은 유튜브 채널 체인지그라운드의 영상이 최근 조회수 200만뷰를 돌파했다. 이 영상은 1년 반 전 소개됐으며 조회수 150만을 기록해 화제를]]></content>
     </entry>
 </feed>
