@@ -1,8 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-01-30T19:03:54.691Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 30 Jan 2023 20:15:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인총자별에 맞서 아시아가 연대한다...영화 '아시아', 하반기 개봉]]></title>
+            <link>https://v.daum.net/v/20230131050531516</link>
+            <guid>https://v.daum.net/v/20230131050531516</guid>
+            <pubDate>Mon, 30 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=이수연 기자] 7개국 이상 다국적 스타들이 총출동하여 인종 혐오와 차별에 대한 다양한 인간 군상 이야기의 영화 '아시아' 티저 예고편과 포스터가 공개됐다. '아시아'에서는 인도의 탑 스타 아누쉬카 센, 태국 최정상 국민 배우 보이 팍콘, 말레이시아 최고의 루키 스타 배우 다이엔 트리샤와 션 리가 일부 한국 분량을 마쳤다. 또한 원빈 주연의 영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F31%2Ftvreport%2F20230131050533947uisg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['앤트맨3', 마블의 흥행 불패 계보이을까 [TF프리즘]]]></title>
+            <link>https://v.daum.net/v/20230131050021269</link>
+            <guid>https://v.daum.net/v/20230131050021269</guid>
+            <pubDate>Mon, 30 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['토르'·'어벤져스'·'스파이더맨'…시리즈 흥행 역사 계속될까 [더팩트｜원세나 기자] 세 번째 시리즈로 돌아온 영화 '앤트맨과 와스프: 퀀텀매니아'가 예비 관객들의 기대를 한 몸에 받고 있다. 2018년 544만 관객을 동원하며 세계적인 흥행 히트를 기록한 '앤트맨'이 '앤트맨과 와스프: 퀀텀매니아'로 시리즈의 맥을 잇는다. 압도적인 재미를 선사하며]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F31%2FTHEFACT%2F20230131050022887cmbp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[윤정희, 파리서 영면…딸 "엄마는 반짝이는 빛, 정신적 구세주"(종합)]]></title>
+            <link>https://v.daum.net/v/20230131043005007</link>
+            <guid>https://v.daum.net/v/20230131043005007</guid>
+            <pubDate>Mon, 30 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(파리=연합뉴스) 현혜란 특파원 = 영화배우 고(故) 윤정희(본명 손미자)가 30일(현지시간) 반평생을 살아온 프랑스 파리 인근 뱅센에서 영면에 들었다. 고인의 배우자인 피아니스트 백건우(77)와 하나뿐인 딸 진희(46) 씨, 진희 씨의 아들 등 유족은 이날 오전 뱅센 노트르담 성당에서 고인과 마지막 인사를 했다. 진희 씨는 가족과 지인 등 60여명이 참석]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F31%2Fyonhap%2F20230131043005443jlgk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[임순례표 블록버스터 ‘교섭’… “잔인한 죽음 안 담고 싶어”]]></title>
+            <link>https://v.daum.net/v/20230131041016962</link>
+            <guid>https://v.daum.net/v/20230131041016962</guid>
+            <pubDate>Mon, 30 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“아무렇지도 않게 사람을 죽이는 내용의 콘텐츠가 관객 입장에서 불편했다. 그런 장면이 보는 사람에게 강한 자극을 줄 수 있겠지만 난 잘 못하겠더라. 피가 난무하는 블록버스터보다 이유가 있는 액션을 해보고 싶었다.” 영화 ‘교섭’을 연출한 임순례 감독은 지난 16일 서울 종로구 한 카페에서 가진 인터뷰에서 이렇게 말했다. 설 연휴 직전인 18일 개봉한 ‘교]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F31%2Fkukminilbo%2F20230131041017597dgke.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘오늘밤’ ‘슬램덩크’… 신년 극장가 달구는 일본 영화들]]></title>
+            <link>https://v.daum.net/v/20230131040625924</link>
+            <guid>https://v.daum.net/v/20230131040625924</guid>
+            <pubDate>Mon, 30 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[연초 극장가는 국내 기대작뿐만 아니라 일본, 대만 등 해외 영화·애니메이션이 관객의 발길을 끌어모으고 있다. 특히 ‘오늘 밤 세계에서 이 사랑이 사라진다 해도’는 일본 영화로선 21년 만에 국내에서 100만 관객을 넘겼다. 30일 영화관입장권 통합전산망에 따르면 지난해 11월 30일 개봉한 이 영화는 누적 관객 수 100만966명(29일 기준)을 기록했다]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202301%2F31%2Fkukminilbo%2F20230131040627504hzby.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
