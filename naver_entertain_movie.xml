@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-01-31T12:22:53.293Z</updated>
+    <updated>2023-01-31T13:26:24.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘오징어게임’ 김주령, 美 유명 에이전시와 전속계약]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0005211761</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0005211761"/>
+        <updated>2023-01-31T13:25:36.420Z</updated>
+        <content type="html"><![CDATA[온라인동영상서비스(OTT) 넷플릭스 시리즈 '오징어게임'으로 글로벌 인지도를 쌓은 배우 김주령이 미국 유명 에이전시와 손잡고 해외 진출에 나선다. 31일 소속사 저스트엔터테인먼트는 "김주령이 A3 아티스트 에이전시와]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[메가박스, 마스크 착용 의무 해제 기념 프로모션 진행]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000864410</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000594046"/>
         <updated>2023-01-31T09:15:51.947Z</updated>
         <content type="html"><![CDATA[배우 배두나와 김시은이 답답하고 적나라한 실제 이야기를 영화 '다음 소희'를 통해 묵직한 메시지를 던진다. 이 이야기를 이제야 하게 된 건 늦었지만, 이제야 이야기를 알게 됐기 때문. 31일 오후 서울 용산구 CGV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​​​​'아바타: 물의 길', '범죄도시2' 넘고 국내 개봉작 매출액 3위…전 세계 흥행 TOP4]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001552256</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001552256"/>
-        <updated>2023-01-31T09:15:51.951Z</updated>
-        <content type="html"><![CDATA[영화 '아바타: 물의 길'(감독 제임스 카메론)이 코로나19 팬데믹 이후 개봉작 중 최고 매출액을 기록했던 '범죄도시2'를 넘으며 국내 개봉작 역대 매출액 3위를 달성한 동시에, 전 세계 역대 흥행 수익 TOP4에]]></content>
     </entry>
 </feed>
