@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-02-01T15:10:51.721Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 01 Feb 2023 17:20:23 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['타이타닉', 3D로 돌아온다...제임스 카메론 '아바타2' 흥행 이을까]]></title>
+            <link>https://v.daum.net/v/20230202010030857</link>
+            <guid>https://v.daum.net/v/20230202010030857</guid>
+            <pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=이수연 기자] 고전 명작 '타이타닉'이 개봉 25주년을 맞아 4K 3D 리마스터링 버전인 '타이타닉: 25주년'으로 개봉한다. '타이타닉: 25주년'은 세계 최고의 유람선 타이타닉호에서 잭(레오나르도 디카프리오 분)과 로즈(케이트 윈슬렛 분)의 운명적인 사랑과 예상치 못한 비극을 그리며 개봉 당시 전 세계 역대 흥행 1위를 기록한 '타이타닉'을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F02%2Ftvreport%2F20230202010032555mibj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
