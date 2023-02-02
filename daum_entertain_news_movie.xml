@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-02T14:06:12.325Z</updated>
+    <updated>2023-02-02T15:15:38.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연기 천재의 부단한 노력]]></title>
+        <id>https://v.daum.net/v/20230203000106143</id>
+        <link href="https://v.daum.net/v/20230203000106143"/>
+        <updated>2023-02-02T15:15:38.061Z</updated>
+        <content type="html"><![CDATA["배우로서 즐거움과 발견, 이상을 심어드리고 싶어요" 정제되지 않은 스타는 어떤 모습일까. 연예계는 대중의 관심을 받는 스타도 많고, 이들을 팔로우하는 매체도 많다. 모처럼 인터뷰가 잡혀도 단독으로 대면하는 경우가 드물다. 다수의 매체 기자가 함께 인터뷰를 하다 보니 내용도 비슷하다. 심지어 사진이나 영상마저 소속사에서 만들어 배포하는 경우가 다반사다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["해외 호평 예상"…'다음 소희' 배두나, 잘난 척해도 멋진 걸크러시]]></title>
         <id>https://v.daum.net/v/20230202205226570</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230202173002647"/>
         <updated>2023-02-02T09:12:34.295Z</updated>
         <content type="html"><![CDATA[(엑스포츠뉴스 이창규 기자) 마블 시네마틱 유니버스(MCU)와 히어로 시네마틱 유니버스 시장을 양분하던 워너브라더스의 DC 확장 유니버스(DCEU)가 결국 유니버스 명칭까지 바꿔가며 리부트를 결정했다. 31일(현지시간) DC 스튜디오는 공식 유튜브 채널을 통해 DC 유니버스(DCU)의 론칭을 알리는 영상을 게재했다. 공개된 영상에서 DC 스튜디오 공동 CE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘다음 소희’ 배두나 “연출 도전 NO, 20년 넘게 연기한 나 기특해”]]></title>
-        <id>https://v.daum.net/v/20230202171508212</id>
-        <link href="https://v.daum.net/v/20230202171508212"/>
-        <updated>2023-02-02T08:17:14.104Z</updated>
-        <content type="html"><![CDATA[배우 배두나가 연출 도전에 대한 생각을 밝혔다. 배두나는 2일 서울 종로구 삼청동 카페에서 영화 ‘다음 소희’(감독 정주리)에 대한 다양한 이야기를 나눴다. ‘다음 소희’는 당찬 열여덟 고등학생 소희(김시은)가 현장실습에 나가면서 겪게 되는 사건과 이를 조사하던 형사 유진(배두나)이 같은 공간, 다른 시간 속에서 마주하게 되는 강렬한 이야기를 그린다. 전주]]></content>
     </entry>
 </feed>
