@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-02-03T17:10:09.094Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 03 Feb 2023 20:11:55 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['만달로리안', 3월 공개...강력한 액션과 귀여움 예고]]></title>
+            <link>https://v.daum.net/v/20230204050530513</link>
+            <guid>https://v.daum.net/v/20230204050530513</guid>
+            <pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=이수연 기자] 디즈니+ '만달로리안' 시즌 3가 공개를 앞두고 시선을 사로잡았다. 3일 공개된 메인 포스터에는 보는 이를 압도하는 광활한 스케일은 물론 흑광선검을 쥔 딘 자린(페드로 파스칼 분)의 압도적인 존재감이 담겼다. 이에 이번 시즌 3 속 딘 자린의 여정에 흑광선검이 미칠 영향에 기대가 모아지고 있다. 딘 자린의 모습 뒤로는 그와 감격적]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F04%2Ftvreport%2F20230204050532672qiwd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
