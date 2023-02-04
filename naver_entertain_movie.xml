@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-02-04T14:12:57.901Z</updated>
+    <updated>2023-02-04T16:10:52.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[TF인터뷰] 박소담, 아프고 나서야 알게 된 '쉼과 비움']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000198988</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000198988"/>
+        <updated>2023-02-04T16:10:02.632Z</updated>
+        <content type="html"><![CDATA[갑상선 유두암 수술 후 약 1년 만에 반가운 복귀 배우 박소담이 건강하게 돌아왔다. 그의 복귀작이 된 '유령'은 그동안 보지 못했던 여성 서사 중심의 액션극으로 관객들을 매료시켰고, 이를 이끈 박소담은 새로운 얼굴로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰①] 김시은 “‘다음 소희’ 보고 울어주던 칸 관객 보며 감동”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003255375</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002680755"/>
         <updated>2023-02-04T03:16:15.169Z</updated>
         <content type="html"><![CDATA[제73회 베를린국제영화제 경쟁 부문에 초청받은 신카이 마코토 감독 신작 '스즈메의 문단속'이 '스즈메, 너의 모험을 응원해' 영상을 공개했다. 4일 공개된 영상은 주인공 스즈메의 이름을 부르는 수많은 사람들의 목소리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[할리웃POP]'아바타' 후속편, 스토리라인 나왔다 "불의 나비족, 빅 타임 점프, 지구 귀환"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003613281</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003613281"/>
-        <updated>2023-02-04T00:40:47.214Z</updated>
-        <content type="html"><![CDATA['아바타' 3편과 4편, 5편의 대략적인 스토리 라인이 공개됐다. 3일(한국시간) 미국 연예매체 버라이어티에 따르면 '아바타' 시리즈 프로듀서 존 랜도는 인터뷰를 통해 향후 남은 아바타 프로젝의 내용에 대해 간략히]]></content>
     </entry>
 </feed>
