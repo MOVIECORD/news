@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-02-04T12:12:03.430Z</updated>
+    <updated>2023-02-04T13:17:15.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[애프터스크리닝] '우리 사랑이 형기로 남을 때' 뻔하지만 의미있는 메시지 ★★]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000179454</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000179454"/>
+        <updated>2023-02-04T13:16:26.754Z</updated>
+        <content type="html"><![CDATA[▶ 줄거리 삶에 치여 제대로 된 연애 한 번 못해본 남자 ‘창수’(윤시윤). 낯선 이에게 받은 향수를 뿌리자마자 여자들이 달려든다?! 가족에 치여 누굴 좋아해본 적도 없는 것 같은 여자 ‘아라’(설인아). 어느 날,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['앤트맨과 와스프: 퀀텀매니아' 폴 러드 "10년 가까이 앤트맨 연기..새로운 경험"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003613332</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003693571"/>
         <updated>2023-02-04T00:40:47.220Z</updated>
         <content type="html"><![CDATA[영화의 나라, 프랑스에서 세계 3대 단편 영화제로 꼽히는, 제45회 클레르몽 페랑 국제 단편영화제가 9일간의 여정을 마치고 4일 끝이 났다. 클레르몽 페렁은 파리에서 기차로 3시간 반가량 떨어져 있는 중남부에 위치한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['슬램덩크', 오늘 '센과 치히로의 행방불명' 넘는다..역대 4위 기대 [Oh!쎈 이슈]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004783388</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004783388"/>
-        <updated>2023-02-04T00:40:47.221Z</updated>
-        <content type="html"><![CDATA[200만을 돌파한 '더 퍼스트 슬램덩크'가 오늘(4일) '센과 치히로의 행방불명'의 기록을 넘본다. 4일 오전 영화진흥위원회 영화관입장권통합전산망 집계에 따르면, '더 퍼스트 슬램덩크'는 지난 3일 하루 922개 스]]></content>
     </entry>
 </feed>
