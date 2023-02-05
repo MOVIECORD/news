@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Feb 2023 07:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 08:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["마늘과 쑥을 먹은 박성웅이 온다" 영화 '웅남이', 3월 개봉]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=248480</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=248480</guid>
+            <pubDate>Sun, 05 Feb 2023 08:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=248480">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230204080319_c933b71360499cf72642907e0f6a2119.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=248480">"마늘과 쑥을 먹은 박성웅이 온다" 영화 '웅남이', 3월 개봉</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230204080319_c933b71360499cf72642907e0f6a2119.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장] 윤시윤- 설인아 '우리 사랑이 향기로 남을 때' 시사회 " ‘향수’로 향수를 일으키는 영화"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=248500</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=247604">"장부의 길, 300만 번 부르다"  윤제균 &lt;영웅&gt; 300만 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230128162323_38a1eb3c50fa5f0ef2b50fa634c016b2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘아시아 프린스’ 장근석,  SNL코리아 '미끼']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=247588</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=247588</guid>
-            <pubDate>Sun, 29 Jan 2023 09:02:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=247588">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230128160426_550df037f1b3af656dd772e67c624389.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=247588">‘아시아 프린스’ 장근석,  SNL코리아 '미끼'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230128160426_550df037f1b3af656dd772e67c624389.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
