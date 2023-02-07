@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-02-07T12:14:04.503Z</updated>
+    <updated>2023-02-07T13:25:36.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['서치2' 북미 흥행 수익 2300만 달러↑..전작 기록 돌파 목전(공식)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003613786</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003613786"/>
+        <updated>2023-02-07T13:24:47.376Z</updated>
+        <content type="html"><![CDATA['서치2'가 북미 흥행 수익 2300만 달러를 넘어섰다. 영화 '서치2'가 지난 20일 북미에서 개봉한 이후 흥행 수익 23,017,094 달러를 기록했다. 이번 기록은 전작 '서치'에 이어 관객들의 뜨거운 입소문을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김다미X변우석X전소미, 싱그러운 청춘 케미...‘소울메이트’ 스틸]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000921585</id>
@@ -171,12 +178,5 @@
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000951015</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000951015"/>
         <updated>2023-02-07T08:18:16.877Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[영화소식] '존 윅4' 4월 개봉]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013743019</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013743019"/>
-        <updated>2023-02-07T08:18:16.902Z</updated>
-        <content type="html"><![CDATA[롯데시네마 2023 아카데미 기획전 ▲ '존 윅4' 4월 개봉 = 키아누 리브스 주연 '존 윅' 시리즈의 네 번째 이야기가 4월 국내 개봉한다. '존 윅' 시리즈는 전설적인 킬러 존 윅(키아누 리브스 분)의 이야기를]]></content>
     </entry>
 </feed>
