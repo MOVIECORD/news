@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-02-08T11:10:10.750Z</updated>
+    <updated>2023-02-08T12:14:46.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CJ CGV 지난해 영업손실 768억···매출 늘고 적자폭 감소]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000866057</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000866057"/>
+        <updated>2023-02-08T12:13:53.555Z</updated>
+        <content type="html"><![CDATA[코스피 상장사 CJ CGV는 연결 기준 지난해 영업손실이 768억원으로 전년 2천411억원에 비해 적자 폭이 감소한 것으로 잠정 집계됐다고 8일 공시했다. 매출은 1조2813억원으로 전년 대비 74.0％ 증가했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["방심하면 뒤집힌다"…조진웅X이성민X김무열 '대외비' 강렬한 메인 포스터X예고편 공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003969051</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003613951"/>
         <updated>2023-02-08T08:19:31.493Z</updated>
         <content type="html"><![CDATA[김옥빈이 '연애대전'을 통해 망가짐을 예고했다. 넷플릭스 시리즈 '연애대전' 제작발표회가 8일 오전 서울 용산구 CGV 용산아이파크몰에서 진행됐다. 김정권 감독과 배우 김옥빈, 유태오, 김지훈이 참석했다. '연애대전]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘앤트맨’ 스텔스 예매 시작에도 4만장 순삭 대흥행 청신호]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000686686</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000686686"/>
-        <updated>2023-02-08T08:19:31.495Z</updated>
-        <content type="html"><![CDATA[소리 없이 예매 전쟁이 시작됐다. 이렇다할 예고없이 IMAX, 4DX 등 특별상영관부터 오픈되기 시작한 디즈니-마블 야심작 ‘앤트맨과 와스프:퀀텀매니아’가 그것. 24시간도 채 안돼 어느덧 4만장을 돌파 실상 디즈니]]></content>
     </entry>
 </feed>
