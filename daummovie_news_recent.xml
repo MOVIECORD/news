@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-02-08T15:06:50.314Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 08 Feb 2023 17:16:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김옥빈이 코믹 댄스를?..유태오x김지훈과 썸&쌈 케미 ('연애대전')[종합]]]></title>
+            <link>https://v.daum.net/v/20230209012721680</link>
+            <guid>https://v.daum.net/v/20230209012721680</guid>
+            <pubDate>Wed, 08 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박소영 기자] 넷플릭스(Netflix) 시리즈 &lt;연애대전&gt;이 제작발표회를 성황리에 개최했다. 밸런타인데이를 앞두고 사랑을 꿈꾸는 모든 이들을 위해 김옥빈, 유태오, 김지훈, 김정권 감독이 &lt;연애대전&gt;이 펼쳐 보일 매콤, 달콤, 새콤한 ‘썸’과 ‘연애’의 모든 것에 대해 입을 열었다. 8일(수) CGV 용산아이파크몰에서 진행된 제작발표회에서 김]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F09%2Fpoctan%2F20230209012723038pnic.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['콜 제인', 3월 8일 '여성의 날' 개봉 확정...끈끈한 여성 연대 보여준다]]></title>
+            <link>https://v.daum.net/v/20230209010530576</link>
+            <guid>https://v.daum.net/v/20230209010530576</guid>
+            <pubDate>Wed, 08 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=이수연 기자] 영화 '콜 제인'이 오는 3월 8일 세계 여성의 날에 개봉을 확정 지었다. '콜 제인'은 임신으로 목숨을 잃을 뻔한 조이(엘리자베스 뱅크스 분)가 '제인스'를 만나 세상을 바꾼 변화의 불씨가 되어가는 여정을 그린 영화다. 이는 나이, 인종, 계층을 뛰어넘어 오직 여자라는 이유 하나만으로 연대한 이들의 놀라운 실화를 스크린으로 옮긴]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F09%2Ftvreport%2F20230209010532927sbit.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[유아인, 프로포폴 상습투약 경찰조사→출국 금지.."심려 끼쳐 죄송" [종합]]]></title>
+            <link>https://v.daum.net/v/20230209010000478</link>
+            <guid>https://v.daum.net/v/20230209010000478</guid>
+            <pubDate>Wed, 08 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 유아인 / 사진=UAA 배우 유아인이 프로포폴 상습투약 혐의로 경찰 조사를 받았다. 유아인의 소속사 측은 조사에 적극 협조할 예정이며 "심려 끼쳐 죄송하다"라는 입장을 밝혔다. 8일 오후 TV조선 '뉴스9'는 국내 정상급 남자 영화배우가 프로포폴 상습투약 혐의로 경찰 조사를 받았다고 보도했다. 보도에 따르면 강한 캐릭터와 연기력으]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F09%2Fstarnews%2F20230209010002145vshz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
