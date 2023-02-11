@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-11T00:35:19.530Z</updated>
+    <updated>2023-02-11T02:12:45.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘애프터썬’, 그해 여름 아빠의 촉감]]></title>
+        <id>https://v.daum.net/v/20230211095154353</id>
+        <link href="https://v.daum.net/v/20230211095154353"/>
+        <updated>2023-02-11T02:12:45.063Z</updated>
+        <content type="html"><![CDATA[[곽명동의 씨네톡] 영화가 시작되면, 캠코더를 작동시키는 소리와 함께 빛바랜 영상들이 스크린을 채운다. 20여 년 전 튀르키예에서 아빠 캘럼(폴 메스칼)와 보낸 소피(프랭키 코리오)의 여름이 재생될 참이다. 남매 사이로 오해받을 만큼 나이 차가 크지 않은 부녀, 어떤 이유인지 모르지만, 아빠 캘럼은 고향인 스코틀랜드를 떠나 런던에 자리를 잡으려 애쓰는 중]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더 퍼스트 슬램덩크', 15일 연속 1위…260만 돌파 눈앞]]></title>
         <id>https://v.daum.net/v/20230211081833409</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230210183901152"/>
         <updated>2023-02-10T11:11:51.462Z</updated>
         <content type="html"><![CDATA[[스타뉴스 김나연 기자] 배우 유아인이 2일 오후 서울 강서구 등촌동 KBS 아레나에서 열린 2021 Asia Artist Awards (2021 아시아 아티스트 어워즈, 2021 AAA) 시상식에서 AAA 올해의 배우 영화 부문을 수상하고 소감을 전하고 있다.  스타뉴스가 주최하고 AAA 조직위원회가 주관하는 AAA는 어디에서도 보지 못했던 새로운 무대를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신현준 "황장군, 슬픈 캐릭터인데…웃긴 짤로 돌아다녀"]]></title>
-        <id>https://v.daum.net/v/20230210183011035</id>
-        <link href="https://v.daum.net/v/20230210183011035"/>
-        <updated>2023-02-10T11:11:51.464Z</updated>
-        <content type="html"><![CDATA[(엑스포츠뉴스 김유진 기자) 신현준이 '살수'를 통해 56세의 나이에도 날렵한 액션을 보여주며 연기 열정을 내비쳤다. 10일 서울 광진구 롯데시네마 건대입구에서 영화 '살수'(감독 곽정덕) 언론시사회가 열렸다. 이 자리에는 곽정덕 감독과 배우 신현준, 이문식, 김민경, 홍은기가 참석했다. '살수'는 혼돈의 세상, 거스를 수 없는 운명의 앞에 놓인 조선 최고]]></content>
     </entry>
 </feed>
