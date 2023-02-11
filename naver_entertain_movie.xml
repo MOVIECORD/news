@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-02-11T11:11:18.416Z</updated>
+    <updated>2023-02-11T12:11:38.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['다음 소희' 배두나, 익산에서 서울까지 영화 보러 와준 관객에 '깜놀']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003696148</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003696148"/>
+        <updated>2023-02-11T12:10:46.109Z</updated>
+        <content type="html"><![CDATA[11일 오후 서울 용산구 CGV용산아이파크몰에서 진행된 영화 '다음 소희' 무대인사에 배우 배두나, 김시은, 정주리 감독이 참석했다. '다음 소희'는 당찬 열여덟 고등학생 소희가 한 콜센터에 현장실습을 나가면서 겪게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[25년만 귀환 ‘슬램덩크’, ‘하울..’ 꺾고 역대 흥행 2위[공식]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005087001</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013751054</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013751054"/>
         <updated>2023-02-11T00:34:25.256Z</updated>
-        <content type="html"><![CDATA[영화 '더 퍼스트 슬램덩크'에서 송태섭 역으로 참여한 엄상현 성우가 지난 8일 서울 서초구 예술의전당에서 연합뉴스와 인터뷰에 앞서 포즈를 취하고 있다. 2023.2.11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포즈 취하는 성우 엄상현]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013751053</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013751053"/>
-        <updated>2023-02-11T00:34:25.258Z</updated>
         <content type="html"><![CDATA[영화 '더 퍼스트 슬램덩크'에서 송태섭 역으로 참여한 엄상현 성우가 지난 8일 서울 서초구 예술의전당에서 연합뉴스와 인터뷰에 앞서 포즈를 취하고 있다. 2023.2.11]]></content>
     </entry>
 </feed>
