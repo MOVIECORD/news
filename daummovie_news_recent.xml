@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-02-11T21:10:11.148Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 11 Feb 2023 22:07:05 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진선규, 캐릭터 장인의 귀환…'카운트' 더 기대되는 이유 [N초점]]]></title>
+            <link>https://v.daum.net/v/20230212070042505</link>
+            <guid>https://v.daum.net/v/20230212070042505</guid>
+            <pubDate>Sat, 11 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = '캐릭터 장인' 진선규가 스크린 주연작으로 극장가를 찾아온다. 오는 22일 개봉하는 '카운트'가 그의 신작. '카운트'는 금메달리스트 출신, 한번 물면 절대 놓지 않는 마이웨이 선생 시헌(진선규 분)이 오합지졸 '핵아싸'(아웃사이더) 제자들을 만나 세상을 향해 유쾌한 한 방을 날리는 이야기를 그린 영화다. 이번에 선보일]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F12%2FNEWS1%2F20230212070043664aaxg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
