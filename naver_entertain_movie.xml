@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-02-11T19:06:37.595Z</updated>
+    <updated>2023-02-11T20:07:15.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['다음 소희' 김시은 "우리 영화로 조금이나마 변화 생겼으면…"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003696183</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003696183"/>
+        <updated>2023-02-11T20:06:25.022Z</updated>
+        <content type="html"><![CDATA[11일 오후 서울 용산구 CGV용산아이파크몰에서 진행된 영화 '다음 소희' 무대인사에 배우 배두나, 김시은, 정주리 감독이 참석했다. '다음 소희'는 당찬 열여덟 고등학생 소희가 한 콜센터에 현장실습을 나가면서 겪게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2주째 박스오피스 정상 오른 '슬램덩크' 아이맥스관 상영 협의]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=088&amp;aid=0000798044</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006625019"/>
         <updated>2023-02-11T00:34:25.243Z</updated>
         <content type="html"><![CDATA[일본 애니메이션 '더 퍼스트 슬램덩크'(감독 이노우에 다케히코)가 15일 연속 박스오피스 1위에 올랐다. 11일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '더 퍼스트 슬램덩크'는 전날 6만4905명의 관객]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['슬램덩크', 오늘 7년만에 '하울의 움직이는 성' 기록 깬다 [Oh!쎈 이슈]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004787332</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004787332"/>
-        <updated>2023-02-11T00:34:25.245Z</updated>
-        <content type="html"><![CDATA['더 퍼스트 슬램덩크'가 '하울의 움직이는 성'의 흥행을 오늘(11일) 뛰어 넘을 것으로 보인다. 11일 영화진흥위원회 영화관입장권통합전산망 집계에 따르면, '더 퍼스트 슬램덩크'는 지난 10일 하루 956개 스크린]]></content>
     </entry>
 </feed>
