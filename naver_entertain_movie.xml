@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-02-13T19:14:28.960Z</updated>
+    <updated>2023-02-13T20:18:18.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오나라 '핫핑크가 너무 잘 어울리는 그녀']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003696886</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003696886"/>
+        <updated>2023-02-13T20:17:26.765Z</updated>
+        <content type="html"><![CDATA[13일 오후 서울 용산구 CGV용산아이파크몰에서 영화 '카운트' 언론시사회에 참석한 배우 오나라가 포토타임을 가졌다. '카운트'는 금메달리스트 출신으로 한번 물면 절대 놓지 않는 마이웨이 선생 시헌이 오합지졸 핵아싸]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['블랙 팬서 2'에 뿔난 프랑스 국방장관…"프랑스군 오해 소지"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013754365</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013754234"/>
         <updated>2023-02-13T10:08:37.259Z</updated>
         <content type="html"><![CDATA[지난달 '1천만 관객'을 돌파한 할리우드 대작 '아바타: 물의 길'(아바타2)의 국내 누적 매출액이 전체 개봉작 중 역대 2위에 올랐다고 월트디즈니컴퍼니 코리아가 13일 밝혔다. 이날 영화관입장권 통합전산망 기준으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TEN피플] 박성광, 개그맨·♥이솔이 남편 아닌 감독…탈모·염증 부른 부담감]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000596278</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000596278"/>
-        <updated>2023-02-13T10:08:37.265Z</updated>
-        <content type="html"><![CDATA[박성광이 개그맨, 이솔이 남편이라는 수식어를 떼고 영화 '웅남이'로 첫 상업 영화에 도전한다. 박성광을 제외하면 개그맨으로서 영화감독에 도전한 사람은 이경규, 심형래, 김영희뿐이다. 이들은 엄청난 흥행에는 실패했다.]]></content>
     </entry>
 </feed>
