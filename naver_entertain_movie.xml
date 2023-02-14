@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-02-14T15:16:44.361Z</updated>
+    <updated>2023-02-14T16:12:27.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[돌풍 ‘슬램덩크’, 단행본 판매량 100만부 돌파 [연예뉴스 HOT]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001033102</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001033102"/>
+        <updated>2023-02-14T16:10:47.605Z</updated>
+        <content type="html"><![CDATA[애니메이션 영화 ‘더 퍼스트 슬램덩크’의 인기 속에 원작 만화인 ‘슬램덩크’ 단행본도 100만 부 이상 판매됐다. 14일 만화출판사 대원씨아이에 따르면 ‘슬램덩크 신장재편판’의 판매 부수는 이날 기준 100만 부를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[원세나의 연예공:감] 돌아온 '타이타닉'의 저력…'명작'의 힘]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000200841</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000636174"/>
         <updated>2023-02-14T09:07:33.807Z</updated>
         <content type="html"><![CDATA[2023년 최대 화제작, 뮤지컬 ‘베토벤; Beethoven Secret’이 품격 있는 여운으로 재관람을 끌어내며 흥행 중이다. 뮤지컬 ‘베토벤; Beethoven Secret’(이하 ‘베토벤’)은 평생 독신으로 살]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[佛 국방장관, '블랙 팬서2' 비판한 이유 "진실 오도하는 표현"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003129087</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003129087"/>
-        <updated>2023-02-14T09:07:33.809Z</updated>
-        <content type="html"><![CDATA[프랑스 국방장관이 영화 '블랙 팬서: 와칸다 포에버' 속 자국 군대 묘사에 대해 맹비난했다. 프랑스 국방장관 르코르뉘는 11일(현지시간) 자신의 트위터에 "나는 우리 군대에 대해 거짓되고, 오해의 소지가 있는 표현을]]></content>
     </entry>
 </feed>
