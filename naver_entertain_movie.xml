@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-02-14T14:06:38.554Z</updated>
+    <updated>2023-02-14T15:16:44.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[원세나의 연예공:감] 돌아온 '타이타닉'의 저력…'명작'의 힘]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000200841</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000200841"/>
+        <updated>2023-02-14T15:16:02.876Z</updated>
+        <content type="html"><![CDATA[25주년 4K 3D 리마스터링 재개봉, 추억 자극하며 흥행 친구끼리, 연인끼리, 가족끼리… 이 포즈 한번 해보지 않은 사람들이 있었을까? 전 세계 관객과 평단을 사로잡고 오랫동안 명작으로 사랑받고 있는 영화 '타이타]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[종합]"기적 같은 일"..'영웅' 정성화X김고은X배정남X박진주, 꾸준한 사랑에 감격]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003615083</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003129087"/>
         <updated>2023-02-14T09:07:33.809Z</updated>
         <content type="html"><![CDATA[프랑스 국방장관이 영화 '블랙 팬서: 와칸다 포에버' 속 자국 군대 묘사에 대해 맹비난했다. 프랑스 국방장관 르코르뉘는 11일(현지시간) 자신의 트위터에 "나는 우리 군대에 대해 거짓되고, 오해의 소지가 있는 표현을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가디언즈 오브 갤럭시3' 조 샐다나X크리스 프랫 투닥 재회라니..화려한 귀환]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003615041</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003615041"/>
-        <updated>2023-02-14T09:07:33.811Z</updated>
-        <content type="html"><![CDATA['가디언즈 오브 갤럭시: Volume 3'의 메인 예고편이 공개됐다. 영화 '가디언즈 오브 갤럭시: Volume 3'는 ‘가모라’를 잃고 슬픔에 빠져 있던 ‘피터 퀼’이 위기에 처한 은하계와 동료를 지키기 위해 다시]]></content>
     </entry>
 </feed>
