@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-18T21:10:14.087Z</updated>
+    <updated>2023-02-18T22:06:35.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[봉준호·박찬욱·황동혁, 월드 클래스 韓 감독들 근황은]]></title>
+        <id>https://v.daum.net/v/20230219070029279</id>
+        <link href="https://v.daum.net/v/20230219070029279"/>
+        <updated>2023-02-18T22:06:34.491Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = K콘텐츠의 전성기는 계속되고 있다. 글로벌 OTT라는 새로운 유통망을 힘입어 다양한 한국 콘텐츠들이 각광받고 있다. 이 같은 K콘텐츠 전성기의 도래는 최근 몇년간 '월드 클래스'로 우뚝 선 국내 정상급 크리에이터들의 결정적인 역할이 있어 가능했다. 봉준호, 박찬욱, 황동혁 감독 같은 이들이 대표 주자다. 이제는 우리나라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[앞으로 더욱 빛날 '대세 배우']]></title>
         <id>https://v.daum.net/v/20230219000015800</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230218110012004"/>
         <updated>2023-02-18T02:18:01.173Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 김정진 기자 = 영화 '멍뭉이'의 시작은 김주환 감독의 반려견 루니와 레이였다. 김 감독은 10여 년을 함께하다 세상을 떠난 두 강아지를 생각하며 시나리오를 집필했다. 자매였던 루니와 레이는 주인공 민수(유연석 분)가 오랫동안 함께했던 반려견, 진국(차태현)이 작은아버지로부터 돌봄을 부탁받은 강아지의 이름으로 각각 영화 속에 남게 됐다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신스틸러 ‘멍뭉이’, 웃기는 힘들어요]]></title>
-        <id>https://v.daum.net/v/20230218105400938</id>
-        <link href="https://v.daum.net/v/20230218105400938"/>
-        <updated>2023-02-18T02:18:01.176Z</updated>
-        <content type="html"><![CDATA[강력한 신스틸러의 존재에도 웃음이, 공감이 쉽지 않다. 바로 ‘멍뭉이’를 두고 하는 말이다. 영화 ‘멍뭉이’(감독 김주환)는 집사 인생 조기 로그아웃 위기에 처한 민수(유연석)와 인생 자체가 위기인 진국(차태현)이 사랑하는 반려견 루니의 완벽한 집사를 찾기 위해 면접을 시작하고, 뜻밖의 ‘견’명적인 만남을 이어가는 내용을 그린다. 동생 같은 반려견 루니를]]></content>
     </entry>
 </feed>
