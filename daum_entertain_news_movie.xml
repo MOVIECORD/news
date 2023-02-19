@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-02-19T18:16:47.701Z</updated>
+    <updated>2023-02-19T20:06:52.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[앤트맨3, 개봉 첫 주말 1천300억원 벌어…올해 첫 블록버스터]]></title>
+        <id>https://v.daum.net/v/20230220042503308</id>
+        <link href="https://v.daum.net/v/20230220042503308"/>
+        <updated>2023-02-19T20:06:51.543Z</updated>
+        <content type="html"><![CDATA[(뉴욕=연합뉴스) 강건택 특파원 = 마블 스튜디오의 히어로 영화 '앤트맨과 와스프: 퀀텀매니아'(이하 앤트맨3)가 올해 첫 블록버스터 데뷔에 성공했다. 19일(현지시간) CNBC방송 등에 따르면 앤트맨3는 개봉 첫 주말 북미 극장가에서 1억400만달러(약 1천352억원)의 흥행수입을 거뒀다. 올해 들어 개봉 첫 주말에 1억달러 이상을 번 영화는 앤트맨3가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍상수♥김민희, 독일 길거리 포착..모자 씌워주고 웃고]]></title>
         <id>https://v.daum.net/v/20230219195001426</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230219102704733"/>
         <updated>2023-02-19T03:16:43.539Z</updated>
         <content type="html"><![CDATA[[양형석 기자] 2002 한·일 월드컵 4강신화의 열기가 채 가시지 않았던 지난 2002년 8월 영화 &lt;오아시스&gt;가 개봉했다. &lt;오아시스&gt;는 &lt;초록물고기&gt;와 &lt;박하사탕&gt;을 만들었던 이창동 감독의 세 번째 장편영화로 이창동 감독은 이 영화를 통해 베니스영화제에서 특별감독상을, 한공주 역의 문소리는 신인배우상을 수상했다. &lt;박하사탕&gt;에 이어 문소리와 또 한 번]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['카운트'-'서치2'-'살수']]></title>
-        <id>https://v.daum.net/v/20230219100002287</id>
-        <link href="https://v.daum.net/v/20230219100002287"/>
-        <updated>2023-02-19T03:16:43.540Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김나연 기자] 사진=각 영화 포스터역시 마블은 마블이었다. '앤트맨과 와스프: 퀀텀매니아'가 개봉 첫날 17만 4875명의 관객을 동원하며 박스오피스 1위에 올랐고, 2023년 평일 기준 일일 최고 관객 수를 달성했다. 19일 연속 박스오피스 정상을 차지하며 2023년 최장기간 1위 기록을 세운 데 이어 개봉 44일차 누적 관객 수 300만을 돌]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-02-19T18:16:47.709Z</updated>
+    <updated>2023-02-19T20:06:52.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[앤트맨3, 개봉 첫 주말 1천300억원 벌어…올해 첫 블록버스터]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013766215</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013766215"/>
+        <updated>2023-02-19T20:05:42.188Z</updated>
+        <content type="html"><![CDATA[강건택 특파원 = 마블 스튜디오의 히어로 영화 '앤트맨과 와스프: 퀀텀매니아'(이하 앤트맨3)가 올해 첫 블록버스터 데뷔에 성공했다. 19일(현지시간) CNBC방송 등에 따르면 앤트맨3는 개봉 첫 주말 북미 극장가에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강원 대표 문화상품, 예산 삭감에 ‘휘청’]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000953312</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000868222"/>
         <updated>2023-02-19T06:15:45.082Z</updated>
         <content type="html"><![CDATA[배우 전도연이 베를린영화제서 카리스마 넘치는 턱시도 차림으로 한국 톱 배우의 위엄을 뽐냈다. 전도연은 18일(현지시간) 독일 베를린에서 열린 73회 베를린국제영화제(Berlin International Film Fe]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HI★PICK] 2월 로맨스 영화 매력 분석]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000724265</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000724265"/>
-        <updated>2023-02-19T06:15:45.082Z</updated>
-        <content type="html"><![CDATA[국내 로맨스 영화들이 2월의 극장가를 장식했다. 배우 윤시윤 설인아 주연의 '우리 사랑이 향기로 남을 때'와 이동휘 정은채가 이끈 '어쩌면 우린 헤어졌는지 모른다'가 그 주인공이다. 두 작품의 매력이 다른 만큼 골라]]></content>
     </entry>
 </feed>
