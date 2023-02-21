@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 07:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 08:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고 두뇌공조 14회] 정용화, 수상한 택배 상자 받다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=250751</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=250751</guid>
+            <pubDate>Tue, 21 Feb 2023 08:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=250751">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230221160512_271f5add10f4f9eccf49e14392104f86.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=250751">[예고 두뇌공조 14회] 정용화, 수상한 택배 상자 받다</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%91%90%EB%87%8C%EA%B3%B5%EC%A1%B0">월화드라마 두뇌공조</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230221160512_271f5add10f4f9eccf49e14392104f86.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[두뇌공조 13회]  “금명세의 딸이 위기에 빠졌다!”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=250687</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%83%9C%ED%92%8D%EC%9D%98%20%EC%8B%A0%EB%B6%80">일일드라마 태풍의 신부</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230220212813_8847fb6cb41484eae8c36d81b04747ec.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[태풍의 신부] 치매 증상 보이는 김영옥 “언니~ 나 배고파!” 최수린만 따르며 이상 행동]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=250595</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=250595</guid>
-            <pubDate>Mon, 20 Feb 2023 14:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=250595">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230220212123_e26fad286fbc60b3b73562fc6ed0385c_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=250595">[태풍의 신부] 치매 증상 보이는 김영옥 “언니~ 나 배고파!” 최수린만 따르며 이상 행동</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%83%9C%ED%92%8D%EC%9D%98%20%EC%8B%A0%EB%B6%80">일일드라마 태풍의 신부</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230220212123_e26fad286fbc60b3b73562fc6ed0385c_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
