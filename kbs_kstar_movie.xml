@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 06:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 07:10:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["피지컬 넘버1은 누구?" <피지컬: 100> 최종화 오늘 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=250746</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=250746</guid>
+            <pubDate>Tue, 21 Feb 2023 07:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=250746">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230221160023_745f2ddfcda9ca059644258c6e22c79d.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=250746">"피지컬 넘버1은 누구?" &lt;피지컬: 100&gt; 최종화 오늘 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230221160023_745f2ddfcda9ca059644258c6e22c79d.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[현장] 영화 ‘대외비’ 조진웅-이성민-김우열 “1992년 총선판을 짜다”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=250718</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=250063">[인터뷰] 김옥빈 “이것은 액션인가 로코인가!” (넷플릭스 ‘연애대전’)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230216105446_15b85887719c225fd67d707c03f802bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["수험생 '에일리언' 서바이벌의 탄생"  '방과 후 전쟁활동'  티빙 3월 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=250060</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=250060</guid>
-            <pubDate>Thu, 16 Feb 2023 00:34:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=250060">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230216085410_33d34145c10170109b7ff54977adb596.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=250060">"수험생 '에일리언' 서바이벌의 탄생"  '방과 후 전쟁활동'  티빙 3월 공개 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230216085410_33d34145c10170109b7ff54977adb596.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
