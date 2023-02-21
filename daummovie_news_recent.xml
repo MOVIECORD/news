@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-02-21T20:05:45.400Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 21 Feb 2023 22:05:22 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['앤트맨3' 박스오피스 1위..바짝 뒤쫓는 '슬램덩크' [★무비차트]]]></title>
+            <link>https://v.daum.net/v/20230222070059944</link>
+            <guid>https://v.daum.net/v/20230222070059944</guid>
+            <pubDate>Tue, 21 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] /사진='앤트맨과 와스프 : 퀀텀매니아' '앤트맨과 와스프: 퀀텀매니아'가 7일 연속 박스오피스 1위를 지켰다. 22일 영화진흥위원회 통합전산망에 따르면 '앤트맨과 와스프: 퀀텀매니아'는 지난 21일 5만 1765명의 관객을 동원했다. 누적관객수는 97만 5653명으로 이날 중 100만 관객을 돌파할 것으로 보인다. '앤트맨과]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F22%2Fstarnews%2F20230222070100790nwrw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[클로즈업 필름]아, 케이트 블란쳇…'TAR 타르']]></title>
+            <link>https://v.daum.net/v/20230222070027918</link>
+            <guid>https://v.daum.net/v/20230222070027918</guid>
+            <pubDate>Tue, 21 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스] 손정빈 기자 = 영화 'TAR 타르'의 제목은 어딘가 이상하다. 원제가 'Tár'이니까 일반적인 경우라면 한글로 '타르'가 돼야 하는 게 맞을테지만 같은 말이나 다름 없는 'TAR'를 굳이 붙여놓은 게 어딘가 어색하다. 다소 생소하게 느껴지는 이 작명법은 영화를 보기 전까지는 좀처럼 이해가 되지 않다가 영화를 다 보고나서 이 제목을 다]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F22%2Fnewsis%2F20230222070027320dihm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[겨울잠 깬 한국영화, 봄 극장가 상륙작전]]></title>
+            <link>https://v.daum.net/v/20230222063015528</link>
+            <guid>https://v.daum.net/v/20230222063015528</guid>
+            <pubDate>Tue, 21 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 12월 이후 한국영화가 좀처럼 기를 펴지 못하고 있다. 진선규 주연의 ‘카운트’와 조진웅·이성민이 주연한 ‘대외비’(왼쪽부터)가 외화의 강세에 선전할 수 있을지 시선이 쏠린다. 사진제공｜CJ ENM·플러스엠 엔터테인먼트 할리우드 블록버스터 ‘아바타: 물의 길’을 시작으로 일본 애니메이션 ‘더 퍼스트 슬램덩크’, 마블스튜디오의 ‘앤트맨과 와스프’ 등]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F22%2Fsportsdonga%2F20230222063017158hltc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[봄 극장가 출격 앞둔 '카운트'멍뭉이'대외비'…위기의 韓 영화 구할까]]></title>
+            <link>https://v.daum.net/v/20230222063010523</link>
+            <guid>https://v.daum.net/v/20230222063010523</guid>
+            <pubDate>Tue, 21 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(왼쪽부터) 영화 ‘카운트’, ‘멍뭉이’, ‘대외비’ 포스터.[이데일리 스타in 김보영 기자] 영화 ‘카운트’(감독 권혁재)부터 ‘멍뭉이’(감독 김주환), ‘대외비’(감독 이원태)까지. 한국 영화들이 봄바람이 부는 3월 대거 출사표를 던진다. 지난 연말부터 올해 초까지 극장가에선 외화들이 강세를 보이고 있다. 지난해 12월 개봉한 ‘아바타: 물의 길’(감]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F22%2FEdaily%2F20230222063013112leey.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
