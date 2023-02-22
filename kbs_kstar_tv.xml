@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 00:30:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 02:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["으랏차차 장미란!"  오늘 '유퀴즈온더블럭' 출연]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=250913</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=250913</guid>
+            <pubDate>Wed, 22 Feb 2023 02:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=250913">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230222080142_a5db32b508b440da0f984f9e30057a81.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=250913">"으랏차차 장미란!"  오늘 '유퀴즈온더블럭' 출연</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230222080142_a5db32b508b440da0f984f9e30057a81.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤찬영-방민아-김민석, 하이텐션 수사극 '딜리버리맨']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=250877</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=249272">티빙 '두발로 티켓팅' 뉴질랜드에서 게임하고, 일하고</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230210080641_fcd8bc165e26fb5ce1388f5f3a98d4fa_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["오늘의 엠카운트다운" 임창정-세븐틴 부석순 컴백무대]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=249201</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=249201</guid>
-            <pubDate>Thu, 09 Feb 2023 15:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=249201">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230209134739_c9334e7cd47fe2f32f889b0ae8c54ecf.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=249201">"오늘의 엠카운트다운" 임창정-세븐틴 부석순 컴백무대</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230209134739_c9334e7cd47fe2f32f889b0ae8c54ecf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
