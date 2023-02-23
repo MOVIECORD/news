@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 06:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 08:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[연중플러스 예고] 베를린에 간 전도연, 중국 K콘텐츠 불법유통, 서동주 개릴라 데이트]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=251022</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=251022</guid>
+            <pubDate>Thu, 23 Feb 2023 08:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=251022">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230223100959_088d8feae73f6ed85cb5813ff8a1c50f_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=251022">[연중플러스 예고] 베를린에 간 전도연, 중국 K콘텐츠 불법유통, 서동주 개릴라 데이트</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%97%B0%EC%A4%91%20%EB%9D%BC%EC%9D%B4%EB%B8%8C">연중 라이브</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230223100959_088d8feae73f6ed85cb5813ff8a1c50f_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장] KBS대기획 ‘히든 어스’ 제작발표회... 8K로 담아낸 한반도 30억 성상]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=251001</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EB%82%B4%20%EB%88%88%EC%97%90%20%EC%BD%A9%EA%B9%8D%EC%A7%80">일일연속극 내 눈에 콩깍지</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230221221800_b4b529ec8649dd842a9dd9f8b7990463.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[내 눈에 콩깍지] 술김에 애인(=최윤라)과 술 먹는다고 털어놓은 최진호에 폭발한 이아현 “이혼해!”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=250810</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=250810</guid>
-            <pubDate>Tue, 21 Feb 2023 14:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=250810">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230221221451_a437bedb87c63bf922c65aef8c78f266_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=250810">[내 눈에 콩깍지] 술김에 애인(=최윤라)과 술 먹는다고 털어놓은 최진호에 폭발한 이아현 “이혼해!”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EB%82%B4%20%EB%88%88%EC%97%90%20%EC%BD%A9%EA%B9%8D%EC%A7%80">일일연속극 내 눈에 콩깍지</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230221221451_a437bedb87c63bf922c65aef8c78f266_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
