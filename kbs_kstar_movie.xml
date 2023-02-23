@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 19:04:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 21:03:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니+ 만달로리안, "시즌3을 위해 나섰다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=250974</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=250974</guid>
+            <pubDate>Thu, 23 Feb 2023 21:02:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=250974">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230223073241_af41c8931bf5e968e9345f3e718f4bc9.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=250974">디즈니+ 만달로리안, "시즌3을 위해 나섰다"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230223073241_af41c8931bf5e968e9345f3e718f4bc9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['더 글로리 파트2'  3월 10일 복수는 이어진다...  “어서 와, 나의 지옥에 온 걸 환영해”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=251012</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=250416">파운드 푸티지 호러 영화,  "20년만에 건진  마루이 비디오"  (시사회 현장)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230219084000_b2cd11dbe5e13813d95cf45e41601c10.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전종서 헐리우드 진출작 '모나리자와 블러드 문', 3월 개봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=250401</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=250401</guid>
-            <pubDate>Sun, 19 Feb 2023 20:03:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=250401">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230219081155_95e9a2c8705b8db2bb8904f28fa2c584.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=250401">전종서 헐리우드 진출작 '모나리자와 블러드 문', 3월 개봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230219081155_95e9a2c8705b8db2bb8904f28fa2c584.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-02-23T19:04:02.911Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 23 Feb 2023 21:03:45 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['대외비' 이원태 감독 "권력 향한 욕망은 인간의 본성"]]></title>
+            <link>https://v.daum.net/v/20230224053028984</link>
+            <guid>https://v.daum.net/v/20230224053028984</guid>
+            <pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 김정진 기자 = "이 이야기는 지금뿐 아니라 앞으로도 유효하다고 생각합니다. 2천∼3천 년 전에도 세상은 이랬으니까요." 내달 1일 개봉을 앞둔 영화 '대외비'는 만년 국회의원 지망생인 해웅(조진웅 분)의 이야기다. 그는 대외비 문서와 행동파 조폭 필도(김무열)를 등에 업고 부산 정치판의 실세 순태(이성민)에 맞선다. 그러나 거대한 악에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F24%2Fyonhap%2F20230224053028647wwsm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[전종서의 폐쇄병동 탈출기...할리우드 진출작 '모나리자와 블러드 문']]></title>
+            <link>https://v.daum.net/v/20230224050226384</link>
+            <guid>https://v.daum.net/v/20230224050226384</guid>
+            <pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=이수연 기자] 배우 전종서의 할리우드 진출 포문이 열렸다. 23일 베니스 영화제 황금사자상 경쟁작이자 배우 전종서의 할리우드 데뷔작 '모나리자와 블러드 문'이 오는 3월 22일 국내 개봉을 확정 짓고 메인 포스터와 메인 예고편을 공개했다. '모나리자와 블러드 문'은 붉은 달이 뜬 밤, 폐쇄병동을 도망친 의문의 존재 '모나'(전종서 분)가 낯선]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202302%2F24%2Ftvreport%2F20230224050229121jdmn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
