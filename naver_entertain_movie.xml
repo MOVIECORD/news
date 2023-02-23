@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-02-23T15:09:04.025Z</updated>
+    <updated>2023-02-23T16:11:35.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배우 정다은, ‘어쩌면 우린 헤어졌는지 모른다’ 안나 캐릭터 호연]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000869363</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000869363"/>
+        <updated>2023-02-23T16:10:48.103Z</updated>
+        <content type="html"><![CDATA[배우 정다은이 영화 ‘어쩌면 우린 헤어졌는지 모른다’에서 MZ세대의 쿨하고 솔직한 사랑법으로 큰 공감을 얻고 있다. ‘어쩌면 우린 헤어졌는지 모른다’는 사랑하는 사람이 모르는 사람이 되기까지의 과정을 그린 현실 이별]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[새영화] 봄처럼 따뜻하고 가슴 뭉클한 웃음 펀치 한방]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000954459</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049626"/>
         <updated>2023-02-23T11:05:25.844Z</updated>
         <content type="html"><![CDATA[영화 2020 &lt;지푸라기라도 잡고 싶은 짐승들&gt; / 2019 &lt;이매몽&gt; / 2017 &lt;두개의 빛: 릴루미노&gt; 드라마 2023 &lt;택배기사&gt;(예정) / 2023 &lt;정신병동에도 아침이 와요&gt;(예정) / 2021~22 &lt;공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023라이징스타] 배우 홍승희, “공감을 끌어내는 힘”]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049625</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049625"/>
-        <updated>2023-02-23T11:05:25.844Z</updated>
-        <content type="html"><![CDATA[영화 2023 &lt;더 문&gt;(예정) 드라마 2023 &lt;밑도 끝도 없이, 너다&gt;(예정) / 2021 &lt;무드 투 헤븐: 나는 유품정리사입니다&gt; &lt;나빌레라&gt; &lt;메모리스트&gt; “우리 나무는요, 굉장히 에너지가 넘치고 그루(탕준상]]></content>
     </entry>
 </feed>
