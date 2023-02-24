@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-02-24T19:04:08.765Z</updated>
+    <updated>2023-02-24T21:03:37.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[한상언의 책과 사람들] ‘씨네마팬’이 불러온 영화잡지의 추억]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011710693</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011710693"/>
+        <updated>2023-02-24T21:02:50.672Z</updated>
+        <content type="html"><![CDATA[영화는 현실을 지독하게 사실적으로 반영해 보여주기도 하지만, 현실과 동떨어진 꿈과 환상을 관객들에게 펼쳐 보여주기도 한다. 그래서인지 영화관은 세상의 불합리한 진실을 알리고 학습하는 ‘학교’이면서, 현실에서 이루기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국계 美배우 스티븐 연, 마블 영화 '썬더볼츠' 출연]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013778505</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005093639"/>
         <updated>2023-02-24T12:11:15.813Z</updated>
         <content type="html"><![CDATA[배우 조우진·수지가 올해의 시리즈 부문 남녀 배우상을 수상했다. DGK(한국영화감독조합)가 주최하는 제21회 디렉터스컷 어워즈 시상식이 24일 저녁 충무아트센터1층 컨벤션 홀에서 열렸다. 봉만대 감독이 단독으로 진행]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['올해의 배우상' 조우진·수지 "처음으로 고집 부렸다..의미 커"[디렉터스컷]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003131945</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003131945"/>
-        <updated>2023-02-24T12:11:15.815Z</updated>
-        <content type="html"><![CDATA[배우 조우진, 수지가 제21회 디렉터스컷 어워즈에서 올해의 배우상 시리즈 부문을 수상했다. DGK(한국영화감독조합)가 주최하는 제21회 디렉터스컷 어워즈 시상식이 24일 오후 충무아트센터1층 컨벤션 홀에서 열린 가운]]></content>
     </entry>
 </feed>
