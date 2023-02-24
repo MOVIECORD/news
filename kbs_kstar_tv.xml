@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 10:06:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 12:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['운탄고도 마을호텔2' 오늘 영업 시작]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=251120</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=251120</guid>
+            <pubDate>Fri, 24 Feb 2023 12:10:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=251120">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230224191531_fb48d6de0bc9636bc4b12e53ec62f320.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=251120">'운탄고도 마을호텔2' 오늘 영업 시작</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230224191531_fb48d6de0bc9636bc4b12e53ec62f320.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[꼭두의 계절 예고] 김정현X임수향, "로맨스 다음은?"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=251097</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=249457">"멜로액션 말고 노래대전" 김옥빈-유태오-김지훈  (tvN ‘놀라운 토요일’) </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230211194151_66c1733518eea6a96b9f755cacedc553.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우도환, '유세풍2’ 특별출연 “’조선변호사’가 왜 여기서 나와?”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=249335</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=249335</guid>
-            <pubDate>Sat, 11 Feb 2023 03:03:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=249335">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230210135924_7b485e270a5f42a3475fe2aabb541c02.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=249335">우도환, '유세풍2’ 특별출연 “’조선변호사’가 왜 여기서 나와?”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230210135924_7b485e270a5f42a3475fe2aabb541c02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
