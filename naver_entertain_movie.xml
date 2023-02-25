@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-02-25T14:05:46.658Z</updated>
+    <updated>2023-02-25T15:05:44.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[내가 본 '차태현'] 꾸미지 않는 자연스러움, 28년의 비결]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000202826</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000202826"/>
+        <updated>2023-02-25T15:04:56.731Z</updated>
+        <content type="html"><![CDATA["장르적으로, 캐릭터적으로 변화줄 수 있는 작품 만나는 게 목표" 정제되지 않은 스타는 어떤 모습일까. 연예계는 대중의 관심을 받는 스타도 많고, 이들을 팔로우하는 매체도 많다. 모처럼 인터뷰가 잡혀도 단독으로 대면]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['마약류 혐의' 유아인, 이번엔 프로포폴 1년간 73차례 투약 의혹]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006651591</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=021&amp;aid=0002558546"/>
         <updated>2023-02-25T03:16:11.679Z</updated>
         <content type="html"><![CDATA[보안업계 “현실에 대부분 있는 기술, OS 업데이트 등 필요” 지난 17일 넷플릭스를 통해 공개된 영화 ‘스마트폰 떨어뜨렸을 뿐인데’가 흥행하면서 영화 속에서 사용된 스파이웨어가 실생활에서도 사용될 수 있는지 관심이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 글로리' 파트2, 송혜교 위기..염혜란 존재 발각→母 등장 '분노']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003132044</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003132044"/>
-        <updated>2023-02-25T03:16:11.679Z</updated>
-        <content type="html"><![CDATA['더 글로리'의 송혜교에게 위기가 찾아온다. 25일 방송된 KBS 2TV '영화가 좋다'에서는 공개를 앞둔 '더 글로리' 파트2를 소개하며 새로운 예고 영상이 등장했다. '더 글로리'는 유년 시절 폭력으로 영혼까지]]></content>
     </entry>
 </feed>
