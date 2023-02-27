@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 20:06:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 22:08:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['비밀의 여자' 신고은, "끊임없이 변하는 날씨 같은 드라마"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=251552</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=251552</guid>
+            <pubDate>Mon, 27 Feb 2023 22:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=251552">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230227083914_1312277d34ff6984681d557597a86613.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=251552">'비밀의 여자' 신고은, "끊임없이 변하는 날씨 같은 드라마"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B9%84%EB%B0%80%EC%9D%98%20%EC%97%AC%EC%9E%90">일일드라마 비밀의 여자</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230227083914_1312277d34ff6984681d557597a86613.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[개는 훌륭하다] 강형욱 명언 “개들은 어제 같은 오늘을 좋아한다” 일정한 루틴 속 안정감 찾는 반려견들]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=251728</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%83%9C%ED%92%8D%EC%9D%98%20%EC%8B%A0%EB%B6%80">일일드라마 태풍의 신부</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230227204644_b9b479982f5284e5903ba8c39c74f63c_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[태풍의 신부] “키워준 은혜는 갚아야지?” 천산화로 보답하라는 손창민에 “받은 만큼 꼭 돌려드릴게요” 동상이몽 약속하는 박하나]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=251631</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=251631</guid>
-            <pubDate>Mon, 27 Feb 2023 12:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=251631">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230227203629_99cf7b78e248fbacdddadcbd1dceb6ef.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=251631">[태풍의 신부] “키워준 은혜는 갚아야지?” 천산화로 보답하라는 손창민에 “받은 만큼 꼭 돌려드릴게요” 동상이몽 약속하는 박하나</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%83%9C%ED%92%8D%EC%9D%98%20%EC%8B%A0%EB%B6%80">일일드라마 태풍의 신부</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230227203629_99cf7b78e248fbacdddadcbd1dceb6ef.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
