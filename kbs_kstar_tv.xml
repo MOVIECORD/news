@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 20:07:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 21:04:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[tvN '판도라:조작된 낙원'  이지아-이상윤, "환상 케미"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=251324</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=251324</guid>
+            <pubDate>Tue, 28 Feb 2023 21:03:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=251324">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230226073753_6a1eecfb00eb569510803bd3d8fb11c4.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=251324">tvN '판도라:조작된 낙원'  이지아-이상윤, "환상 케미"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230226073753_6a1eecfb00eb569510803bd3d8fb11c4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["이들이 말하면..." JTBC "듣고, 보니, 그럴싸"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=251608</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=249968">"어설픈 유괴범과 천재소녀" ENA  '유괴의 날',  윤계상·박성훈·유나·김신록 캐스팅</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230215143725_2a72da1864f618a7778528ca8220334b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['유퀴즈 - 비상한 재능' 건축가 승효상, 배우 임시완]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=250005</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=250005</guid>
-            <pubDate>Thu, 16 Feb 2023 10:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=250005">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230215155509_30a780873085a36c88525a9494ec187c_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=250005">'유퀴즈 - 비상한 재능' 건축가 승효상, 배우 임시완</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230215155509_30a780873085a36c88525a9494ec187c_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
