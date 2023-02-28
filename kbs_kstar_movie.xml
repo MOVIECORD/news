@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 22:04:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 23:07:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['사랑이라 말해요' 김영광-이성경, "현실 속에서 만나는 감정"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=251975</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=251975</guid>
+            <pubDate>Tue, 28 Feb 2023 23:05:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=251975">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230301071757_9dbb971a1d0f6267e32f847c912a6dba.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=251975">'사랑이라 말해요' 김영광-이성경, "현실 속에서 만나는 감정"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230301071757_9dbb971a1d0f6267e32f847c912a6dba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카툰네트워크, ‘용감한 왕자 아이반도의 모험일기’ 론칭]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=251963</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=250940">디즈니+ '카지노' 시즌2-에피소드4 “모든 정황이 그를 가리키고 있다” </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230222164750_93569c7ea62343301c9a5836aa0d8d4a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['에에올' 다니엘스 감독, 미국감독조합상(DGA) 감독상 수상]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=250934</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=250934</guid>
-            <pubDate>Wed, 22 Feb 2023 11:06:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=250934">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230222163318_a4f6184304a96a319408ecc7c06895a9.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=250934">'에에올' 다니엘스 감독, 미국감독조합상(DGA) 감독상 수상</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230222163318_a4f6184304a96a319408ecc7c06895a9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
