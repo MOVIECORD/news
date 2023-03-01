@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-03-01T20:06:16.446Z</updated>
+    <updated>2023-03-01T21:07:58.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[노컷 리뷰]결말과 메시지 위해 '자기 합리화' 선택한 '멍뭉이']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003742931</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003742931"/>
+        <updated>2023-03-01T21:07:07.844Z</updated>
+        <content type="html"><![CDATA[※ 스포일러 주의 가족을 만들고 싶어서 제일 먼저 떠올린 선택지가 현재의 가족을 타인에게 보내는 것이라면 우리는 얼마나 공감하며 영화를 받아들일 수 있을까. 영화 '멍뭉이'가 가장 먼저 관객을 설득하고 넘어야 할 산]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[조재휘의 시네필] 동일본 대지진 이후의 삶…문 너머 상실을 치유하다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000034389</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000637425"/>
         <updated>2023-03-01T03:24:31.404Z</updated>
         <content type="html"><![CDATA[기존 격주로 진행하던 인물탐색-기업탐방면을 통합·확대한 와이드 인터뷰 ‘談談(담담)한 만남’을 매주 화요일에 게재합니다. 각 분야에서 묵묵히 일하는 사람들의 인생 역정과 애환, 기쁨을 담아내겠습니다. 첫번째 주자로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봄날처럼 싱그럽고·풋풋한 설렘 담긴 신작 ‘소울메이트’]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003788201</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003788201"/>
-        <updated>2023-03-01T03:24:31.406Z</updated>
-        <content type="html"><![CDATA[어린 시절 친구인 두 사람이 어른이 돼가며 겪는 관계의 굴곡 그려내 제주도의 아름다운 풍광, 주요 소재인 그림, 고양이 신스틸러 등 ‘눈길’ 영화 '소울메이트'. NEW 제공 봄날만큼 싱그럽고 풋풋한 설렘이 담긴 우]]></content>
     </entry>
 </feed>
