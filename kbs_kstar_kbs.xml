@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 10:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 11:03:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["박찬호와 함께 월드베이스볼클래식 분석" KBS, WBC 특집 ‘더 캠프’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=251946</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=251946</guid>
+            <pubDate>Wed, 01 Mar 2023 11:02:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=251946">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230301064238_be8eda371de9c362f66f78b88654eb84.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=251946">"박찬호와 함께 월드베이스볼클래식 분석" KBS, WBC 특집 ‘더 캠프’</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=2023%20%EC%9B%94%EB%93%9C%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%B3%BC%ED%81%B4%EB%9E%98%EC%8B%9D%20%ED%8A%B9%EC%A7%91%20%EB%8D%94%20%EC%BA%A0%ED%94%84">2023 월드베이스볼클래식 특집 더 캠프</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230301064238_be8eda371de9c362f66f78b88654eb84.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KBS 공영방송 50주년 기념 ‘KBS를 빛낸 50인’ 선정]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=251980</link>
@@ -347,23 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%83%9C%ED%92%8D%EC%9D%98%20%EC%8B%A0%EB%B6%80">일일드라마 태풍의 신부</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230228210434_4072d9cf909c7910d957aad764316914_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[정용화, '두뇌공조' 종영소감  “새로운 느낌 전달할 수 있어 행복했다”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=251822</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=251822</guid>
-            <pubDate>Tue, 28 Feb 2023 04:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=251822">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230228114231_576a1ccc57e9c28bb9651cc920dfda76.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=251822">정용화, '두뇌공조' 종영소감  “새로운 느낌 전달할 수 있어 행복했다” </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230228114231_576a1ccc57e9c28bb9651cc920dfda76.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
