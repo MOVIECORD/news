@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 00:38:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 02:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안소진, 손승웅 감독 신작 '천국: PARADISE' 캐스팅]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=252092</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=252092</guid>
+            <pubDate>Thu, 02 Mar 2023 02:23:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=252092">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230302105409_96992f8afc00bf67ac9ec6268e20109d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=252092">안소진, 손승웅 감독 신작 '천국: PARADISE' 캐스팅</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230302105409_96992f8afc00bf67ac9ec6268e20109d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["농구 조련사, 장항준 감독"  최약체 농구부의 기적 <리바운드>]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=252063</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=251074">"이것은 실화이다!"  장항준 감독 '리바운드' 4월 개봉</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230224085534_3ff431325362ce276f8174225e7527b2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니+ 만달로리안, "시즌3을 위해 나섰다"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=250974</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=250974</guid>
-            <pubDate>Thu, 23 Feb 2023 21:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=250974">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230223073241_af41c8931bf5e968e9345f3e718f4bc9.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=250974">디즈니+ 만달로리안, "시즌3을 위해 나섰다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230223073241_af41c8931bf5e968e9345f3e718f4bc9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
