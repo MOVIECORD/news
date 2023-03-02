@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 03:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 04:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[변성현 감독이 말하는 <길복순>, "킬러의 딜레머"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=252128</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=252128</guid>
+            <pubDate>Thu, 02 Mar 2023 04:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=252128">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230302125548_0830b82ef28c1b3948fe92d8eac03a39.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=252128">변성현 감독이 말하는 &lt;길복순&gt;, "킬러의 딜레머"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230302125548_0830b82ef28c1b3948fe92d8eac03a39.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안소진, 손승웅 감독 신작 '천국: PARADISE' 캐스팅]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=252092</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=251079">"정면에서, 왼쪽에서, 오른쪽에서~ 임영웅!" '아임 히어로 더 파이널'  스크린X 예고편 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230224164437_bf090e17895a7caeca8623a91a3f957d.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["이것은 실화이다!"  장항준 감독 '리바운드' 4월 개봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=251074</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=251074</guid>
-            <pubDate>Fri, 24 Feb 2023 00:30:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=251074">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230224085534_3ff431325362ce276f8174225e7527b2.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=251074">"이것은 실화이다!"  장항준 감독 '리바운드' 4월 개봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230224085534_3ff431325362ce276f8174225e7527b2.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
