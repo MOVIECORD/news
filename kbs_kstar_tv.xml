@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 23:04:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 02:29:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['텐트 밖은 유럽-스페인 편'  "배우들은 고생, 시청자는 힐링"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=252269</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=252269</guid>
+            <pubDate>Fri, 03 Mar 2023 02:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=252269">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230303112055_b82bbc7587374eebaeb93f4050be1d5b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=252269">'텐트 밖은 유럽-스페인 편'  "배우들은 고생, 시청자는 힐링"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230303112055_b82bbc7587374eebaeb93f4050be1d5b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장] JTBC 금토드라마 ‘신성한,이혼’... "신성한 관계와 인간의 존엄성"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=252154</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=250913">"으랏차차 장미란!"  오늘 '유퀴즈온더블럭' 출연</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230222080142_a5db32b508b440da0f984f9e30057a81.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤찬영-방민아-김민석, 하이텐션 수사극 '딜리버리맨']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=250877</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=250877</guid>
-            <pubDate>Tue, 21 Feb 2023 23:04:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=250877">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230222071945_bb38a46868cc2c82e829f2be86b9648d.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=250877">윤찬영-방민아-김민석, 하이텐션 수사극 '딜리버리맨' </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230222071945_bb38a46868cc2c82e829f2be86b9648d.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
