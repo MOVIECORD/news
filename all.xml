@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 19:07:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 21:05:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1016,7 +1016,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=252180</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=252180</guid>
             <pubDate>Thu, 02 Mar 2023 16:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=252180">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=252180">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230303010618_a10bb06183b06040402e6822b4d3f578_1.jpg" alt="대체 텍스트">
@@ -1034,7 +1034,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=252176</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=252176</guid>
             <pubDate>Thu, 02 Mar 2023 16:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=252176">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=252176">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230302234504_44370f4a393e9f19f034cba0f93bfc42_1.jpg" alt="대체 텍스트">
@@ -1110,6 +1110,20 @@
             <pubDate>Mon, 06 Feb 2023 00:40:16 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/369145" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/29/0a404aba-7867-45e2-b6a0-1366c4029faf.jpg" alt="">        <div class="text-box">            <span class="label"> 외화</span>            <p class="summary">'단순한 열정' 아니 에르노 원작과 영상으로 완성한 로맨틱 감성</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/12/29/0a404aba-7867-45e2-b6a0-1366c4029faf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주말의 OTT]신을 참칭한 악마들 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011722319</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011722319</guid>
+            <pubDate>Fri, 03 Mar 2023 21:04:52 GMT</pubDate>
+            <content:encoded><![CDATA[3월 첫 째주 넷플릭스·티빙·왓챠 신작을 정리했다. 나는 신이다:신이 배신한 사람들(넷플릭스) '나는 신이다:신이 배신한 사람들'은 스스로 신이라 부르며 대한민국을 뒤흔든 네 명의 사람과 이들을 둘러싼 피해자들의 비]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['슬램덩크'→'스즈메', 일본 애니 연이어 대박 낼까 [N초점] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006663619</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006663619</guid>
+            <pubDate>Fri, 03 Mar 2023 21:04:52 GMT</pubDate>
+            <content:encoded><![CDATA['더 퍼스트 슬램덩크'가 국내에서 370만을 돌파하며 올해 초부터 일본 애니메이션 흥행을 이끌고 있는 가운데, 신카이 마코토 감독의 신작 '스즈메의 문단속'도 개봉을 앞두고 있다. 이에 따라 일본 애니메이션이 올해]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[외계인과 친구 되는 법...힐링 애니 '리틀 엘렌', 호평 일색 (네이버TV연예 ─ 영화)]]></title>
@@ -1273,193 +1287,207 @@
             <content:encoded><![CDATA['소울메이트'의 스페셜 포스터가 공개됐다. 영화 '소울메이트'는 첫 만남부터 서로를 알아본 두 친구 ‘미소(김다미)’와 ‘하은(전소니)’ 그리고 ‘진우(변우석)’가 기쁨, 슬픔, 설렘, 그리움까지 모든 것을 함께 한]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘대외비’ 조진웅은 ‘열일중’ (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000870866</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000870866</guid>
-            <pubDate>Fri, 03 Mar 2023 08:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[배우 조진웅이 영화 ‘대외비’의 적극적인 홍보에 나섰다. 지난 1일 배우 조진웅 주연의 영화 ‘대외비’가 베일을 벗었다. 조진웅은 ‘대외비’의 순조로운 출발을 위해 열혈 홍보 활동으로 힘을 보태고 있다. 그는 매거진]]></content:encoded>
+            <title><![CDATA[[주말의 OTT]신을 참칭한 악마들 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011722319</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011722319</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:01 GMT</pubDate>
+            <content:encoded><![CDATA[3월 첫 째주 넷플릭스·티빙·왓챠 신작을 정리했다. 나는 신이다:신이 배신한 사람들(넷플릭스) '나는 신이다:신이 배신한 사람들'은 스스로 신이라 부르며 대한민국을 뒤흔든 네 명의 사람과 이들을 둘러싼 피해자들의 비]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["전세계 영웅시대"…'아임 히어로 더 파이널' 글로벌 개봉 확정 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000182141</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000182141</guid>
-            <pubDate>Fri, 03 Mar 2023 08:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[임영웅 영화 '아임 히어로 더 파이널'이 국내에 이어 전 세계 팬들과 만난다. 이미 말레이시아, 홍콩, 미국, 태국 4개국에서 4월 중순 개봉을 확정했다. 3월 1일 개봉 전부터 국내 관객들의 뜨거운 사전 예매 열기]]></content:encoded>
+            <title><![CDATA['슈돌' 전문가 "김준호 아내, 임산부가 심각한 우울상태…안타까워" [SC리뷰] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003977414</link>
+            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003977414</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:01 GMT</pubDate>
+            <content:encoded><![CDATA[김준호의 아내 정현이 스트레스 지수 검사에서 충격적인 결과를 들었다. 3일 방송된 KBS2 '슈퍼맨이 돌아왔다'(이하 '슈돌')에서는 '너만의 속도로 성장해도 괜찮아'가 공개됐다. 김준호는 "은우가 현재 개월 수에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[안재욱 "띵동" 한 마디에 딸만 분주? 아빠 체력 지켜주는 '꼼수놀이' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011722287</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011722287</guid>
-            <pubDate>Fri, 03 Mar 2023 19:06:33 GMT</pubDate>
-            <content:encoded><![CDATA[한유진 인턴 기자 = 오은영 박사와 함께하는 놀이 처방전 '꼼수 놀이'가 공개된다. 7일 오후 8시 30분 방송하는 ENA 예능 '오은영 게임'에서는 패널들이 직접 준비해온 '꼼수 놀이'들을 공유한다. 아빠 문희준Ｘ]]></content:encoded>
+            <title><![CDATA[‘슈돌’ 김준호 부부, 전문가도 놀란 스트레스 지수 “우울감 높아”[어제TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696959</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696959</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:01 GMT</pubDate>
+            <content:encoded><![CDATA[김준호 부부가 아들 은우의 영유아 발달 검사 도중 뜻밖의 결과를 받아들였다. 3월 3일 방송된 KBS 2TV 예능프로그램 '슈퍼맨이 돌아왔다'(이하 슈돌)에서는 펜싱 국가대표 김준호 아들 은우가 영유아 발달 검사에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[오늘의 채널A]전복죽 팔아 연 45억 버는 비결은… (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=020&amp;aid=0003483189</link>
-            <guid>https://entertain.naver.com/now/read?oid=020&amp;aid=0003483189</guid>
-            <pubDate>Fri, 03 Mar 2023 19:06:33 GMT</pubDate>
-            <content:encoded><![CDATA[전복죽 단일 메뉴로 연 매출 45억 원을 올린 정애영 씨를 소개한다. 부산 기장군에 있는 그의 식당에서는 전복죽을 주문하면 멍게 소라 물회 등 다양한 해산물이 포함된 푸짐한 한상차림을 맛볼 수 있다. 그는 전복 손질]]></content:encoded>
+            <title><![CDATA[[TV엿보기] '전참시' 이영자, 송은이 신사옥 출격…트럭 대동한 선물 정체는? (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=119&amp;aid=0002689083</link>
+            <guid>https://entertain.naver.com/now/read?oid=119&amp;aid=0002689083</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:01 GMT</pubDate>
+            <content:encoded><![CDATA[방송인 송은이의 신사옥들이에 '전참시' 참견인들이 함께 한다. 4일 방송되는 MBC 예능프로그램 '전지적 참견 시점'(이하 '전참시') 237회에서는 CEO 송은이의 왁자지껄 신사옥들이가 공개된다. '전참시' 측에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유재석 "나를 중심으로 마무리"…'땡처리 엔터' 대표 겸 멤버로 출격 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011722286</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011722286</guid>
-            <pubDate>Fri, 03 Mar 2023 19:06:33 GMT</pubDate>
-            <content:encoded><![CDATA[한유진 인턴 기자 = 유재석이 '땡처리 엔터테인먼트' 대표 겸 보이그룹 멤버 JS로 출격한다. 4일 오후 6시 25분 방송하는 MBC 예능 '놀면 뭐하니?'에서는 유재석이 3년 전 성사되지 못한 틴탑 '투유(To Y]]></content:encoded>
+            <title><![CDATA[‘편스토랑’ 차장금 차예련, ♥주상욱 위해 김치+수육 만든 사랑꾼[어제TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696958</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696958</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:01 GMT</pubDate>
+            <content:encoded><![CDATA[배우 차예련이 남편 주상욱을 위해 김치와 수육을 뚝딱 만들어냈다. 3월 3일 방송된 KBS 2TV 예능프로그램 '신상출시 편스토랑'(이하 편스토랑)에서는 차예련이 해장 메뉴를 만드는 모습이 공개됐다. 이날 잠에서 깨]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[노사연 "이무송과 키스? 기능 잃었다"…입은 먹방에 집중 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011722283</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011722283</guid>
-            <pubDate>Fri, 03 Mar 2023 17:03:44 GMT</pubDate>
-            <content:encoded><![CDATA[한유진 인턴 기자 = 노사연이 남편 이무송을 떠올리며 입술 무용론을 전한다. 4일 오후 5시에 방송하는 티캐스트 E채널 '토요일은 밥이 좋아'에서는 흑돼지 스테이크 맛에 매료되는 먹방 여행이 공개된다. 노사연은 흑돼]]></content:encoded>
+            <title><![CDATA[안재모 “‘야인시대’ 시청률 65%↑, 김두한 버릴 수 없어”(백반기행)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696957</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696957</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:01 GMT</pubDate>
+            <content:encoded><![CDATA[배우 안재모가 '야인시대'의 인기를 자랑했다. 3월 3일 방송된 TV조선 '식객 허영만의 백반기행'(이하 '백반기행') 191회에서는 배우 안재모가 고양 왕릉 밥상 기행에 함께했다. 이날 안재모는 "안재모 씨 얘기하]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["오길 잘했다" 김광규, MZ 따라 간 우도여행기 '大만족' (나 혼자 산다)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001564293</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001564293</guid>
-            <pubDate>Fri, 03 Mar 2023 17:03:44 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김광규가 MZ세대를 따라 우도여행을 떠났다. 3일 방송된 MBC '나 혼자 산다'에서는 김광규의 우도 여행기가 전파를 탔다. 이날 김광규는 성산항에 도착, MZ세대들이 많이 간다는 우도를 가겠다고 나섰다. MZ]]></content:encoded>
+            <title><![CDATA[정형돈, 쌍둥이 딸 육아 고충 “첫째 칭찬에 둘째 눈물”(금쪽상담소)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696956</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696956</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:01 GMT</pubDate>
+            <content:encoded><![CDATA[정형돈이 서로에게 질투를 느끼는 쌍둥이 딸의 반응을 공개했다. 3월 3일 방송된 채널A ‘오은영의 금쪽상담소’에서 정형돈이 쌍둥이 딸의 일상을 언급했다. 박남정 둘째 딸 박시우는 자신의 외적 동기가 언니인 스테이씨]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[채널 히스토리, 미국서 외계인·미스터리 주제 전시 ‘에일리언콘’ 개최 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=022&amp;aid=0003789039</link>
-            <guid>https://entertain.naver.com/now/read?oid=022&amp;aid=0003789039</guid>
-            <pubDate>Fri, 03 Mar 2023 17:03:44 GMT</pubDate>
-            <content:encoded><![CDATA[에이앤이 네트웍스의 팩츄얼 엔터테인먼트 채널 히스토리가 외계인과 미스터리를 주제로 한 컨벤션 전시인 ‘에일리언콘(AlienCon)’을 오는 4일과 5일(현지시간) 미국 캘리포니아 패서디나 컨벤션 센터에서 개최한다.]]></content:encoded>
+            <title><![CDATA[박남정 딸 시우 “1등 집착·대학 5곳 합격, 언니 시은 부러웠다”(금쪽상담소)[어제TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696955</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696955</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:01 GMT</pubDate>
+            <content:encoded><![CDATA[가수 박남정 둘째 딸 박시우가 자신을 극한으로 내몰며 입시를 준비했던 이유를 밝혔다. 3월 3일 방송된 채널A ‘오은영의 금쪽상담소’에서는 박남정, 박시우 부녀가 출연했다. 방송에서 이윤지는 “자식 농사가 대박이 나]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[펜싱 김준호, 둘째 임신 아내 스트레스 지수에 미안함..."더 신경써야겠다"('슈돌') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000599342</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000599342</guid>
-            <pubDate>Fri, 03 Mar 2023 17:03:44 GMT</pubDate>
-            <content:encoded><![CDATA[펜싱 선수 김준호가 임신 6개월의 아내에게 미안해했다. 3일 오후 방송된 KBS 2TV 예능 프로그램 '슈퍼맨이 돌아왔다'에는 김준호가 아내와 아들 은우의 영유아 발달 검사를 받기 위해 나서는 모습이 담겼다. 엄마]]></content:encoded>
+            <title><![CDATA[서지석 “양쪽 무릎 파열→갈비뼈 골절, 통증도 좋아” 심각한 운동 중독(금쪽상담소) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696954</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696954</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:01 GMT</pubDate>
+            <content:encoded><![CDATA[배우 서지석이 운동을 향한 집착으로 걱정했다. 3월 3일 방송된 채널A ‘오은영의 금쪽상담소’에서는 서지석의 출연이 예고 됐다. 이날 방송 말미 공개된 예고 영상에서 서지석은 “만신창이가 됐다. 양쪽 무릎이 파열되고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['박남정 둘째 딸' 박시우 "언니 박시은, 관심 독차지…부러워" (금쪽상담소)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001564292</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001564292</guid>
-            <pubDate>Fri, 03 Mar 2023 17:03:44 GMT</pubDate>
-            <content:encoded><![CDATA[박남정의 둘째 딸이 언니 박시은이 부러웠다고 고백했다. 3일 방송된 채널A '오은영의 금쪽상담소'에서는 가수 박남정과 둘째 딸 박시우가 오은영 박사를 만났다. 박남정의 딸이자 스테이씨(STAYC) 박시은의 동생 박시]]></content:encoded>
+            <title><![CDATA[안재모 “15년간 카레이서 생활” 연예인 최초 우승까지(백반기행)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696952</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696952</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:01 GMT</pubDate>
+            <content:encoded><![CDATA[배우 안재모가 놀라운 카레이서 이력을 전했다. 3월 3일 방송된 TV조선 '식객 허영만의 백반기행'(이하 '백반기행') 191회에서는 배우 안재모가 고양 왕릉 밥상 기행에 함께했다. 이날 허영만을 따라 국제종합전시장]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김광규, MZ 따라잡기 위해 우도行..BTS·유재석도 왔었네 (나혼산)[★밤TView] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003133524</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003133524</guid>
-            <pubDate>Fri, 03 Mar 2023 17:03:44 GMT</pubDate>
-            <content:encoded><![CDATA[배우 김광규가 MZ 따라잡기에 나섰다. 3일 오후 방송된 MBC 예능 프로그램 '나 혼자 산다'에는 김광규가 우도를 여행하는 장면이 담겼다. 이날 김광규는 인터뷰에서 "MZ 세대가 우도를 많이 간다고 한다. 우도에서]]></content:encoded>
+            <title><![CDATA[오은영, 거식증 금쪽이에 “정서적 거식상태, 키우기 어려운 아이”(금쪽)[어제TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696951</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696951</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:01 GMT</pubDate>
+            <content:encoded><![CDATA[오은영 박사가 금쪽이가 키우기 어려운 아이라고 분석했다. 3월 3일 방송된 채널A ‘요즘 육아 - 금쪽같은 내새끼’에서는 갑자기 거식 증세를 보이며 18kg이 된 11세 딸의 두 번째 이야기가 공개됐다. 두 달 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이유진, "父=배우 이효정, 굉장히 따뜻한 면 갖고 있는 분"('나혼산') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000599341</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000599341</guid>
-            <pubDate>Fri, 03 Mar 2023 17:03:44 GMT</pubDate>
-            <content:encoded><![CDATA[이유진이 아버지 배우 이효정과의 끈끈한 부정을 드러냈다. 3일에 방송된 MBC ‘나 혼자 산다’에서는 자취 1년차 배우 이유진이 월세 35만원 반지하방 라이프를 공개했다. 이날 이유진은 모든 인테리어를 셀프로 진행했]]></content:encoded>
+            <title><![CDATA[이유진, 월세 35만원 반지하 집 셀프 인테리어→父 이효정 반전 취미 공개(나혼산)[어제TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696949</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696949</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:01 GMT</pubDate>
+            <content:encoded><![CDATA[이유진이 감성 가득한 자취 일상을 공개했다. 3월 3일 방송된 MBC ‘나 혼자 산다’에서는 배우 이유진이 출연해 셀프 인테리어 실력을 뽐냈다. 스튜디오에 출연한 자취 1년차 이유진은 “‘나 혼자 산다’가 저한테 꿈]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김광규, 우도 여행지서 인기 실감…해외팬 사진 요청에 "나름 한류" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006663583</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006663583</guid>
-            <pubDate>Fri, 03 Mar 2023 17:03:44 GMT</pubDate>
-            <content:encoded><![CDATA[김광규가 인기를 실감했다. 3일 오후 방송된 MBC 예능 프로그램 '나 혼자 산다'에서는 배우 김광규가 우도 여행을 떠나 이목을 끌었다. 김광규는 MZ세대들이 요즘 들어 우도를 많이 찾는다며 '핫플' 위주로 구경을]]></content:encoded>
+            <title><![CDATA[‘공항도둑’ 근황 공개, 유명세 이용 유튜버 활동 “숨지 않아”(진상월드) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696947</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696947</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:01 GMT</pubDate>
+            <content:encoded><![CDATA['공항도둑' 근황이 공개됐다. 3월 3일 방송된 MBN '우리가 몰랐던 세계-진상월드'에서는 감정 노동의 최전선 판매직 진상에 대해 파헤쳤다. 한 진상 고객은 휴대전화 이용 요금 결제를 거부하며 폭언을 퍼부었다. 알]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이서진·정유미, 손님 행렬에 '멘붕'...BTS 뷔, 완벽 수습 '활약' (서진이네)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001564289</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001564289</guid>
-            <pubDate>Fri, 03 Mar 2023 17:03:44 GMT</pubDate>
-            <content:encoded><![CDATA['서진이네' 직원들이 손님 행렬에 멘붕에 빠졌다. 3일 방송된 tvN '서진이네'에서는 1일 차 영업을 마무리하고 2일 차 영업을 개시했다. 1일 차 영업을 마친 직원들은 숙소로 돌아왔다. 직원들은 숙소에서 쉬는 도]]></content:encoded>
+            <title><![CDATA[전현무 “블랙핑크 ‘감수광’ 리메이크 해줬으면” 키X코쿤과 세대차(나혼산) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696946</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696946</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:01 GMT</pubDate>
+            <content:encoded><![CDATA[전현무가 키, 코드 쿤스트와 세대 차를 느꼈다. 3월 3일 방송된 MBC ‘나 혼자 산다’에는 우도에 방문한 김광규의 모습이 공개 됐다. 김광규는 MZ세대에 핫한 여행지로 손꼽히는 우도를 가기 위해 성산항에 도착했다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["우리 가족 오랜 친구"…'오뚜기 3세' 함연지, 장미란과 15년 인연 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011722282</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011722282</guid>
-            <pubDate>Fri, 03 Mar 2023 17:03:44 GMT</pubDate>
-            <content:encoded><![CDATA[뮤지컬 배우 함연지가 '역도 여제' 장미란과 오랜 인연을 자랑했다. 2일 채널 '햄연지'에 공개된 '유퀴즈 나온 장미란 언니와'라는 제목의 영상에서 함연지가 용인대 교수로 재직 중인 장미란을 만나러 가는 모습이 그려]]></content:encoded>
+            <title><![CDATA[‘백화점 갑질 난동녀’ 조울증 고백→부매니저에 사과(진상월드)[어제TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696945</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696945</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:01 GMT</pubDate>
+            <content:encoded><![CDATA[일명 '백화점 맨발녀'가 방송 최초 공개됐다. 3월 3일 방송된 MBN '우리가 몰랐던 세계-진상월드'에서는 올해 초 화제된 ’백화점 갑질 난동녀 사건‘을 파헤쳤다. 피해 매장 매니저는 "1월 초 구두 장식이 불편하]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이유진, 알고보니 배우 집안 “父 이효정=일산의 이연복, 작은 아버지는 이기영”(나혼산) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696935</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696935</guid>
-            <pubDate>Fri, 03 Mar 2023 17:03:44 GMT</pubDate>
-            <content:encoded><![CDATA[이유진이 아버지 이효정의 요리 실력을 공개했다. 3월 3일 방송된 MBC ‘나 혼자 산다’에서는 이유진이 아버지인 이효정과 출연했다. 이유진은 3~40분 거리에 있는 본가에 도착했다. 이유진의 아버지로 이효정이 등장]]></content:encoded>
+            <title><![CDATA[이유진 “1년간 작품 못해 철거 일, 버틸 수 있을까 생각”(나혼산)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696944</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696944</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:01 GMT</pubDate>
+            <content:encoded><![CDATA[이유진이 긴 공백기로 철거 일을 했던 사연을 털어놨다. 3월 3일 방송된 MBC ‘나 혼자 산다’에서는 이유진이 출연해 일상을 공개했다. 이유진은 직접 셀프 인테리어한 집을 공개했다. 감각적인 인테리어와 달리 영화]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이제훈X표예진, 부동산 청약 범죄 파헤치려 신혼부부 위장...김도윤, "당신들 부부 아니지?"('모범택시2') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000599340</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000599340</guid>
-            <pubDate>Fri, 03 Mar 2023 17:03:44 GMT</pubDate>
-            <content:encoded><![CDATA[이제훈과 표예진이 신혼부부로 나섰다. 3일 방송된 SBS 금토드라마 '모범택시2'에서는 김도기(이제훈 분)과 안고은(표예진 분)이 신혼부부 행세를 하다 들통날 위기에 처했다. 이날 김도기, 안고은, 온하준(신재하 분]]></content:encoded>
+            <title><![CDATA[김구라 “서비스 줘야 사인해주는 연예인 있어” 폭로(진상월드)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696943</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696943</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:01 GMT</pubDate>
+            <content:encoded><![CDATA['진상월드' MC 김구라가 연예인들 중에도 진상이 있다고 폭로했다. 3월 3일 방송된 MBN '우리가 몰랐던 세계-진상월드'에서는 감정 노동의 최전선 판매직 진상에 대해 파헤쳤다. 가구 매장에서 일을 했다는 한 직원]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박남정 딸, 수면욕·식욕 억제까지.."父 망신당하면 안 돼" [★밤TView] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003133522</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003133522</guid>
-            <pubDate>Fri, 03 Mar 2023 17:03:44 GMT</pubDate>
-            <content:encoded><![CDATA[가수 박남정이 둘째 딸에 대한 고민을 털어놨다. 3일 방송된 채널A 예능 프로그램 '오은영의 금쪽 상담소'에서는 박남정과 둘째 딸 박시우가 함께 상담소를 찾아와 고민을 상담하는 장면이 그려졌다. 박남정의 첫째 딸은]]></content:encoded>
+            <title><![CDATA[‘슈돌’ 사유리 아들 젠, 배변 교육 실시→가짜 대변 손에 묻자 오열 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696942</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696942</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:01 GMT</pubDate>
+            <content:encoded><![CDATA[사유리 아들 젠이 남다른 배변 교육을 했다. 3월 3일 방송된 KBS 2TV 예능프로그램 '슈퍼맨이 돌아왔다'(이하 슈돌)에서는 사유리 아들 젠이 본격적인 배변 교육을 실시하는 모습이 공개됐다. 이날 사유리는 "젠이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“반지하 중 가장 멋져” ‘나혼산’ 이유진, 일당 모아 꾸민 자취집 '금손 인증' [종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001247222</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001247222</guid>
-            <pubDate>Fri, 03 Mar 2023 17:03:44 GMT</pubDate>
-            <content:encoded><![CDATA[전현무가 코쿤 앰버서더의 면모를 드러냈다. 또 배우 이유진이 셀프 인테리어로 꾸민 반지하 자취 하우스를 공개했다. 3일 MBC '나 혼자 산다‘에선 코드쿤스트의 서래 아울렛을 다녀온 전현무의 근황이 소환됐다. 전현무]]></content:encoded>
+            <title><![CDATA[대박난 ‘서진이네’ 오픈런+웨이팅까지‥뷔 “비행기편 알아봐” 도망 고민[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696941</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696941</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:01 GMT</pubDate>
+            <content:encoded><![CDATA['서진이네'의 대박에 뷔와 박서준이 도망을 고심해 웃음을 자아냈다. 3월 3일 방송된 tvN 예능 '서진이네' 2회 말미 예고편에서는 오픈런에 웨이팅까지 생긴 '서진이네'의 모습이 공개됐다. 사장 이서진을 필두로 한]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유재석 애착인형 총집합 '찐 웃음' 폭발…"우리 애들 귀엽죠?" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011722281</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011722281</guid>
-            <pubDate>Fri, 03 Mar 2023 17:03:44 GMT</pubDate>
-            <content:encoded><![CDATA[한유진 인턴 기자 = 유재석의 애착인형들이 총집합한다. 4일 오후 6시 25분 방송하는 MBC 예능 '놀면 뭐하니?'에서는 '땡처리 엔터테인먼트' 대표이자 보이그룹 멤버 JS로 나선 유재석이 3년 전 춤 연습을 함께]]></content:encoded>
+            <title><![CDATA[안재모 “몽골 대통령이 5천평 땅+별장 선물” 딱 1번 방문 이유(백반)[어제TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696940</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696940</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:01 GMT</pubDate>
+            <content:encoded><![CDATA[배우 안재모가 몽골 대통령에게 별장 선물을 받고도 찾아가지 못하는 웃픈(웃기면서 슬픈) 사연을 공개했다. 3월 3일 방송된 TV조선 '식객 허영만의 백반기행'(이하 '백반기행') 191회에서는 배우 안재모가 고양 왕]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["240만 원 셀프인테리어" 이유진, 감성 뿜뿜 '반지하 월셋집' (나 혼자 산다)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001564287</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001564287</guid>
-            <pubDate>Fri, 03 Mar 2023 17:03:44 GMT</pubDate>
-            <content:encoded><![CDATA[연기자 이유진이 감성 넘치는 반지하 월셋집을 공개했다. 3일 방송된 MBC '나 혼자 산다'에서는 이유진의 일상이 공개돼 눈길을 끌었다. 이날 이유진은 혼자 산 지 딱 1년이라고 밝히면서 현재 살고 있는 집을 공개했]]></content:encoded>
+            <title><![CDATA[“엄청 유명” BTS 뷔 알아본 손님들, 최우식 오자마자 설거지옥行(서진이네)[어제TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696939</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696939</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:01 GMT</pubDate>
+            <content:encoded><![CDATA[BTS 뷔를 알아보는 손님들이 점점 늘어나는 가운데, 최우식은 합류하자마자 '설거지옥'에 갇혔다. 3월 3일 방송된 tvN 예능 '서진이네' 2회에서는 '윤식당' 이사에서 사장으로 승진한 이서진과 직원 정유미, 박서]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빅뱅 대성, 동거에 대한 생각은? "일단 ○○를 얼려" 현실적 조언 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011722280</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011722280</guid>
-            <pubDate>Fri, 03 Mar 2023 17:03:44 GMT</pubDate>
-            <content:encoded><![CDATA[한유진 인턴 기자 = 조성호＆이상미 커플의 혼을 빼놓는 입담 재주꾼 4명이 찾아온다. 6일 오후 9시 10분 방송하는 채널 A 예능 '결혼 말고 동거' 에서는 빅뱅의 대성, 비원에이포(B1A4)의 신우, 비투비 은광]]></content:encoded>
+            <title><![CDATA[오은영, 인형에 하소연하는 금쪽이에 “엄마에서 통제대상 이동한 것”(금쪽같은) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696938</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696938</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:01 GMT</pubDate>
+            <content:encoded><![CDATA[금쪽이가 인형과의 대화를 하며 이상행동을 보였다. 3월 3일 방송된 채널A ‘요즘 육아 - 금쪽같은 내새끼’에서는 갑자기 거식 증세를 보이며 18kg이 된 11세 딸의 두 번째 이야기가 공개됐다. 동생과 요리를 하다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘세계는 지금’ 미국의 대중국 경계 강화 원인은 ‘정찰 풍선’?···튀르키예-시리아 지진 그 이후 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000870973</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000870973</guid>
-            <pubDate>Fri, 03 Mar 2023 17:03:44 GMT</pubDate>
-            <content:encoded><![CDATA[4일 오후 9시 40분 KBS1 ‘특파원보고 세계는 지금’에서는 미국과 중국 사이의 갈등과 국제 사회 외면 속 고통받는 시리아 아이들을 조명한다. 중국 ‘정찰 풍선’ 의혹으로 미국의 대(對)중국 경계가 강화되는 추세]]></content:encoded>
+            <title><![CDATA[금쪽이 “동생이 왜 있는 거냐고” 적대감 폭발→오열(요즘육아) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696937</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696937</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:01 GMT</pubDate>
+            <content:encoded><![CDATA[동생에 대한 금쪽이의 적대감이 폭발했다. 3월 3일 방송된 채널A ‘요즘 육아 - 금쪽같은 내새끼’에서는 갑자기 거식 증세를 보이며 18kg이 된 11세 딸의 두 번째 이야기가 공개됐다. 이날 동생과 미니어처 공방에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['나혼산' 이유진, 과거 진로 고민 "작품 없어 철거 일했다" [별별TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003133521</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003133521</guid>
-            <pubDate>Fri, 03 Mar 2023 17:03:44 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이유진이 과거 진로에 대해 고민했다고 털어놨다. 3일 오후 방송된 MBC 예능 프로그램 '나 혼자 산다'에는 이유진의 싱글 라이프가 펼쳐졌다. 이날 이유진은 자신의 집 앞마당을 직접 꾸몄다. 이유진은 인터뷰에서]]></content:encoded>
+            <title><![CDATA['차이나는 클라스'서 파헤치는 두얼굴의 리더 '무함마드 빈 살만' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011722304</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011722304</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:01 GMT</pubDate>
+            <content:encoded><![CDATA[문예빈 인턴 기자 = ‘차이나는 클라스’가 화제의 인물 ‘무함마드 빈 살만’에 대해 살펴본다. 5일 저녁 6시 40분 새롭게 돌아오는 '차이나는 클라스-질문 있습니다(이하 '차이나는 클라스')'에는 한국외대 김수완]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이유진, 감성 인테리어→반지하 '반전'…"작품 없을때 철거 일까지"(종합) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006663581</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006663581</guid>
-            <pubDate>Fri, 03 Mar 2023 17:03:44 GMT</pubDate>
-            <content:encoded><![CDATA[이유진이 '나혼산'에 출격했다. 3일 오후 방송된 MBC 예능 프로그램 '나 혼자 산다'에서는 자취 1년차 배우 이유진의 일상이 공개됐다. 이유진은 무지개 회원들을 만나 출연 소감부터 밝혔다. "사실 저한테 '나혼산]]></content:encoded>
+            <title><![CDATA[BTS 뷔, 식후 라면 4봉지 먹방에 이서진 “또 먹어?” 깜짝(서진이네)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696936</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696936</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:01 GMT</pubDate>
+            <content:encoded><![CDATA[식후 라면을 즐기는 뷔의 라면 사랑에 이서진이 깜짝 놀랐다. 3월 3일 방송된 tvN 예능 '서진이네' 2회에서는 식후 라면을 즐기는 직원들의 모습이 그려졌다. 첫날 영업을 마치고 귀가한 사장 이서진은 직원들을 위해]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['나혼산' 이유진, 240만원으로 셀프 인테리어 "몰딩+바닥 고쳤다" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003133520</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003133520</guid>
-            <pubDate>Fri, 03 Mar 2023 17:03:44 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이유진이 자신의 집을 직접 인테리어 했다고 밝혔다. 3일 오후 방송된 MBC 예능 프로그램 '나 혼자 산다'에는 이유진의 싱글 라이프가 펼쳐졌다. 이날 이유진은 "자취 1년 차가 된 배우 이유진입니다"라며 자신]]></content:encoded>
+            <title><![CDATA[송중기 이보영으로 재미 본 JTBC, 이번엔 조승우 ‘신성한, 이혼’이다[TV보고서] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696960</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696960</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:09 GMT</pubDate>
+            <content:encoded><![CDATA[조승우부터 정문성까지 믿고 보는 배우들이 나선 ‘신성한, 이혼’이 JTBC의 3연타 흥행을 노린다. JTBC 새 토일드라마 ‘신성한, 이혼(극본 유영아, 연출 이재훈)’이 3월 4일 드디어 베일을 벗는다. ‘신성한,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박성광·이솔이 푸켓의 낮과 밤 섭렵…코랄섬 투어→찰바 야시장까지 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011722279</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011722279</guid>
-            <pubDate>Fri, 03 Mar 2023 15:04:54 GMT</pubDate>
-            <content:encoded><![CDATA[한유진 인턴 기자 = 개그맨 박성광 부부가 허니문 여행을 즐긴다. 4일 오후 10시 40분 방송하는 KBS 2TV '배틀트립2'에서는 박성광＆이솔이 부부가 태국 푸켓으로 여행을 떠난다. 이날 박성광과 이솔이 부부는]]></content:encoded>
+            <title><![CDATA[“고급 아파트 33채?” 표예진, 역대급 부자 빌런 등장에 깜짝(모범택시2)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696953</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696953</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:09 GMT</pubDate>
+            <content:encoded><![CDATA[표예진이 역대급 부자 빌런 등장에 깜짝 놀랐다. 3월 3일 방송된 SBS 금토드라마 '모범택시2'(극본 오상호, 연출 이단) 5회에서는 부동산 일타강사 강프로(강필승, 김도연 분)이 새로운 빌런으로 등장했다. 이날]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이제훈X표예진, 잉꼬 커플룩 입고 신혼 행세하다 들통 ‘위기’(모범택시2)[어제TV] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696950</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696950</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:09 GMT</pubDate>
+            <content:encoded><![CDATA[이제훈, 표예진이 잉꼬 커플로 변신했지만 거짓말임이 들통날 위기에 처했다. 3월 3일 방송된 SBS 금토드라마 '모범택시2'(극본 오상호, 연출 이단) 5회에서는 의문의 남성들에게 쫓기며 첫 등장한 어린 소녀가 무지]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[“코인으로 다 날려” 이제훈, 단기간에 3억 자산 증발 변명(모범택시2)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696948</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000696948</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:09 GMT</pubDate>
+            <content:encoded><![CDATA[이제훈이 단기간에 사라진 3억 자산에 대해 웃픈(웃기고 슬픈) 변명을 했다. 3월 3일 방송된 SBS 금토드라마 '모범택시2'(극본 오상호, 연출 이단) 5회에서는 새로운 빌런으로 등장한 부동산 일타강사 강프로(강필]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이제훈, 표예진에 “나랑 결혼해 줄래요?” 잉꼬부부로 변신 (‘모범택시2’) (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
@@ -1609,32 +1637,12 @@
             <content:encoded><![CDATA['태풍의 신부' 박하나가 로즈마리 어워즈에서 우승하자 손창민이 분노했다. 3일 오후 방송된 KBS 2TV 일일드라마 '태풍의 신부'에서는 고운의 대표 은서연(박하나 분)이 로즈마리 어워즈 결승전에 늦는 모습이 담겼다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박하나, 결선 승리→손창민 악행 CCTV 폭로… "이제 만족하시나요?" (태풍의 신부) (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001564251</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001564251</guid>
-            <pubDate>Fri, 03 Mar 2023 12:13:38 GMT</pubDate>
-            <content:encoded><![CDATA['태풍의 신부' 박하나가 손창민의 악행을 폭로했다. 3일 방송된 KBS 2TV '태풍의 신부'에서는 강백산(손창민 분)의 악행을 폭로하는 은서연(전 강바람, 박하나)의 모습이 그려졌다. 은서연은 강백산의 살해 계략에]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['마녀의게임' 오창석 위기..천하그룹 가짜 손자 들통나나 [★밤TView] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003133488</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003133488</guid>
-            <pubDate>Fri, 03 Mar 2023 12:13:38 GMT</pubDate>
-            <content:encoded><![CDATA['마녀의 게임' 오창석이 위기를 맞았다. 3일 오후 방송된 MBC 일일드라마 '마녀의 게임'에서는 주세영(한지완 분)이 천하그룹 명예회장을 맡고 있는 마현덕(반효정 분)에게 강지호(오창석 분)가 천하그룹 친손자가 아]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘마녀의 게임’ 한지완, 가짜 손자 오창석 정체 폭로...반효정 ‘혼란’ (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000925133</link>
-            <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000925133</guid>
-            <pubDate>Fri, 03 Mar 2023 12:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[‘마녀의 게임’ 한지완이 오창석 정체를 폭로했다. 3일 방송된 MBC 일일드라마 ‘마녀의 게임’에서는 마현덕 (반효정 분)이 주세영(한지완 분)에게 유지호(오창석 분) 정체를 듣고 혼란스러워하는 모습이 그려졌다. 마]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘마녀의 게임’ 오창석, 또 유전자 검사 조작? 이현석 “이번엔 절대 안 돼”[종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000182162</link>
-            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000182162</guid>
-            <pubDate>Fri, 03 Mar 2023 12:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[김규선과 이현석이 오창석의 비밀을 알게 됐다. 3일(금) 방송된 MBC 일일드라마 ‘마녀의 게임(연출 이형선/극본 이도현)’ 92회에서 유인하(이현석 분)가 유지호(오창석 분) 몰래 유전자 검사를 의뢰하는 모습이 그]]></content:encoded>
+            <title><![CDATA['슬램덩크'→'스즈메', 일본 애니 연이어 대박 낼까 [N초점] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20230304060020634</link>
+            <guid>https://v.daum.net/v/20230304060020634</guid>
+            <pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = '더 퍼스트 슬램덩크'가 국내에서 370만을 돌파하며 올해 초부터 일본 애니메이션 흥행을 이끌고 있는 가운데, 신카이 마코토 감독의 신작 '스즈메의 문단속'도 개봉을 앞두고 있다. 이에 따라 일본 애니메이션이 올해 연이어 극장가에서 흥행 기록을 세울지 주목된다. 올해 1월4일 개봉한 '더 퍼스트 슬램덩크'(감독 이노우에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F04%2FNEWS1%2F20230304060023610wgri.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA[외계인과 친구 되는 법...힐링 애니 '리틀 엘렌', 호평 일색 (다음영화 뉴스 ─ 최신)]]></title>
@@ -1643,6 +1651,34 @@
             <pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[TV리포트=이수연 기자] 어린 자녀를 둔 부모가 주목해야 할 재미있는 애니메이션 영화가 나왔다. 지난 1일 외로운 소년 '엘렌'이 인간 안테나로 변신하여 외계인 소녀 '브리트니'에게 교신하며 일어나는 소동을 그린 판타지 어드벤처 애니메이션 영화 '리틀 엘렌: 외계인과 안테나 대소동'이 개봉한 가운데, 실관람객의 호평이 끊기질 않는다. 개봉 전부터 이어진]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F04%2Ftvreport%2F20230304030532755wxka.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[송중기 이보영으로 재미 본 JTBC, 이번엔 조승우 ‘신성한, 이혼’이다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20230304055814585</link>
+            <guid>https://v.daum.net/v/20230304055814585</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:31 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 조승우부터 정문성까지 믿고 보는 배우들이 나선 ‘신성한, 이혼’이 JTBC의 3연타 흥행을 노린다. JTBC 새 토일드라마 ‘신성한, 이혼(극본 유영아, 연출 이재훈)’이 3월 4일 드디어 베일을 벗는다. ‘신성한, 이혼’은 예민한 아티스트 출신의 이혼 전문 변호사 신성한이 마주하는 상상 이상의 이혼 의뢰들과 부질없이 찰떡인 세]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[“고급 아파트 33채?” 표예진, 역대급 부자 빌런 등장에 깜짝 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20230304055608550</link>
+            <guid>https://v.daum.net/v/20230304055608550</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:31 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 표예진이 역대급 부자 빌런 등장에 깜짝 놀랐다. 3월 3일 방송된 SBS 금토드라마 '모범택시2'(극본 오상호, 연출 이단) 5회에서는 부동산 일타강사 강프로(강필승, 김도연 분)이 새로운 빌런으로 등장했다. 이날 김도기(이제훈 분)은 우연히 만난 소녀 서연이에게 동생 소망이를 찾아달라는 의뢰를 받았다. 사연조차 모르는 막막한]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이제훈X표예진, 잉꼬 커플룩 입고 신혼 행세하다 들통 ‘위기’ (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20230304055512538</link>
+            <guid>https://v.daum.net/v/20230304055512538</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:31 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 이제훈, 표예진이 잉꼬 커플로 변신했지만 거짓말임이 들통날 위기에 처했다. 3월 3일 방송된 SBS 금토드라마 '모범택시2'(극본 오상호, 연출 이단) 5회에서는 의문의 남성들에게 쫓기며 첫 등장한 어린 소녀가 무지개 히어로즈의 새로운 의뢰인이 됐다. 이날 김도기의 차에 치일 뻔하며 만남을 가진 허름한 행색의 소녀는 "저 소망이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[“코인으로 다 날려” 이제훈, 단기간에 3억 자산 증발 변명 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20230304055307524</link>
+            <guid>https://v.daum.net/v/20230304055307524</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:31 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 이제훈이 단기간에 사라진 3억 자산에 대해 웃픈(웃기고 슬픈) 변명을 했다. 3월 3일 방송된 SBS 금토드라마 '모범택시2'(극본 오상호, 연출 이단) 5회에서는 새로운 빌런으로 등장한 부동산 일타강사 강프로(강필승, 김도연 분)에게 접근하기 위해 신혼부부로 위장한 김도기(이제훈 분), 안고은(표예진 분)의 모습이 그려졌다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이제훈, 표예진에 “나랑 결혼해 줄래요?” 잉꼬부부로 변신 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
@@ -1722,143 +1758,122 @@
             <content:encoded><![CDATA[[OSEN=박근희 기자] '모범택시2’ 이제훈이 표예진에게 결혼을 해달라고 말했다. 3일 전파를 SBS 드라마 '모범택시2’에서는 부동산 일타강사’로 통하는 아파트 불법 청약 브로커에게 접근하기 위해 신혼부부인 척 하는 김도기(이제훈 분)와 안고은(표예진 분)의 모습이 그려졌다. 사건의 실마리를 풀기 위해 이야기를 하던 중 김도기는 “서연이는 진실만을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['모범택시2' 신재하, 이제훈과 이웃사촌 "자주 놀러 와도 돼요?" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20230303223825945</link>
-            <guid>https://v.daum.net/v/20230303223825945</guid>
-            <pubDate>Fri, 03 Mar 2023 14:05:19 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 이상은 기자] /사진=SBS 금토드라마 '모범택시2' 방송화면'모범택시2' 신재하가 이제훈과 이웃사촌이 됐다. 3일 방송된 SBS 금토드라마 '모범택시2'에서는 무지개 운수에 새롭게 취직한 신입 일반 택시 기사 온하준(신재하 분)이 이사 떡을 돌리는 모습이 담겼다. 이날 윗집을 찾아간 온하준은 김도기(이제훈 분)를 보고 반갑게 인사했다. 온하]]></content:encoded>
+            <title><![CDATA['전참시' 이영자, 송은이 신사옥 출격…트럭 대동한 선물 정체는? (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230304055848593</link>
+            <guid>https://v.daum.net/v/20230304055848593</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:36 GMT</pubDate>
+            <content:encoded><![CDATA[방송인 송은이의 신사옥들이에 '전참시' 참견인들이 함께 한다. 4일 방송되는 MBC 예능프로그램 '전지적 참견 시점'(이하 '전참시') 237회에서는 CEO 송은이의 왁자지껄 신사옥들이가 공개된다. '전참시' 측에 따르면 최근 진행된 녹화에서는 송은이의 신사옥 개관을 축하하기 위해 이영자, 전현무, 유병재, 송성호 실장이 총출동했다. 송은이와 매니저는 손님]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['모범택시2' 이제훈, 실종 아동 보호…학대 단서 찾았다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20230303223647934</link>
-            <guid>https://v.daum.net/v/20230303223647934</guid>
-            <pubDate>Fri, 03 Mar 2023 14:05:19 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이이진 기자) '모범택시2' 이제훈이&nbsp; 3일 방송된 SBS 금토드라마 '모범택시2' 5회에서는 김도기(이제훈 분)가 길에서 미아가 된 황서연을 만난 모습이 그려졌다. 이날 김도기는 안고은(표예진)과 온하준(신재하)을 태우고 차를 몰던 중 사고를 피하기 위해 급정거했다. 세 사람은 차 앞에 서 있는 황서연을 발견했고, 회사로 데려갔다. 특히 장]]></content:encoded>
+            <title><![CDATA[‘슈돌’ 김준호 부부, 전문가도 놀란 스트레스 지수 “우울감 높아” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230304055808584</link>
+            <guid>https://v.daum.net/v/20230304055808584</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:36 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 김명미 기자] 김준호 부부가 아들 은우의 영유아 발달 검사 도중 뜻밖의 결과를 받아들였다. 3월 3일 방송된 KBS 2TV 예능프로그램 '슈퍼맨이 돌아왔다'(이하 슈돌)에서는 펜싱 국가대표 김준호 아들 은우가 영유아 발달 검사에 나서는 모습이 공개됐다. 이날 김준호는 "은우와 매일 같이 못 있어서 어떻게 더 친해질 수 있을지"라는 고민을 고백했고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘나혼산’ 이유진, 알고 보니 이효정 아들…“아빠는 일산 이연복” (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20230303221802736</link>
-            <guid>https://v.daum.net/v/20230303221802736</guid>
-            <pubDate>Fri, 03 Mar 2023 14:05:19 GMT</pubDate>
-            <content:encoded><![CDATA[3일 방송되는 MBC 예능프로그램 ‘나 혼자 산다’에서는 ‘본가 털이’에 나선 1년 차 자취생 배우 이유진의 모습이 그려진다. 이유진은 자취하는 집에서 30~40분 거리에 있는 본가를 방문한다. 비밀번호를 누르고 들어간 본가에선 낯익은 인물이 이유진을 반긴다. 이유진은 “아시는 분들은 아시겠지만, 우리 아버지가 배우 이효정”이라고 소개한다. 본가 곳곳엔 청]]></content:encoded>
+            <title><![CDATA[‘편스토랑’ 차장금 차예련, ♥주상욱 위해 김치+수육 만든 사랑꾼 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230304055723571</link>
+            <guid>https://v.daum.net/v/20230304055723571</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:36 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 김명미 기자] 배우 차예련이 남편 주상욱을 위해 김치와 수육을 뚝딱 만들어냈다. 3월 3일 방송된 KBS 2TV 예능프로그램 '신상출시 편스토랑'(이하 편스토랑)에서는 차예련이 해장 메뉴를 만드는 모습이 공개됐다. 이날 잠에서 깨어난 차예련은 미처 치우지 못한 술병을 보더니 "누가 보면 주정뱅이인 줄 알겠다"며 민망함을 드러냈다. 이어 차예련은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[손창민, 박하나 이어 자식들에 배신 당하나 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20230303205001652</link>
-            <guid>https://v.daum.net/v/20230303205001652</guid>
-            <pubDate>Fri, 03 Mar 2023 12:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이나영 인턴기자) '태풍의 신부' 손창민의 추락이 시작됐다.&nbsp; 3일 방송된 KBS 2TV '태풍의 신부'에서는 은서연(전 강바람, 박하나 분)의 반격으로 추락하기 시작한 강백산(손창민)의 모습이 그려졌다.&nbsp; 은서연은 강백산의 살해 계략에도 로즈마리 어워즈 결선에 참가했다. 자신의 예상과 다른 은서연의 모습에 강백산은 "강바람, 네가 어떻게?"]]></content:encoded>
+            <title><![CDATA[안재모 “‘야인시대’ 시청률 65%↑, 김두한 버릴 수 없어” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230304055719569</link>
+            <guid>https://v.daum.net/v/20230304055719569</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:36 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 배우 안재모가 '야인시대'의 인기를 자랑했다. 3월 3일 방송된 TV조선 '식객 허영만의 백반기행'(이하 '백반기행') 191회에서는 배우 안재모가 고양 왕릉 밥상 기행에 함께했다. 이날 안재모는 "안재모 씨 얘기하면 역시 '야인시대' 아니냐"는 말에 "맞다. 버릴 수도 없고 버리지도 못하고 버려서도 안 되는 (존재)"라고 인정]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[백화점 맨발 난동女, '진상월드' 직접 출연.."조울증때문, 진심으로 죄송" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230304012327810</link>
-            <guid>https://v.daum.net/v/20230304012327810</guid>
-            <pubDate>Fri, 03 Mar 2023 17:04:20 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김나연 기자] '백화점 맨발 난동녀'가 '진상월드'에 직접 출연해 사과했다. 3일 방송된 MBN '진상월드'는 '판매직'을 주제로&nbsp;다양한 분야에서 판매직으로 일하고 있는 직원들이 게스트로 출연해 진상 에피소드를 공유했다. 이날 방송에서는 가장 첫 진상 사례로&nbsp;'백화점 맨발녀 갑질 난동사건'이 등장해 눈길을 끌었다.&nbsp;이는 지난 1월 12일&nbsp;백화]]></content:encoded>
+            <title><![CDATA[정형돈, 쌍둥이 딸 육아 고충 “첫째 칭찬에 둘째 눈물” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230304055716568</link>
+            <guid>https://v.daum.net/v/20230304055716568</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:36 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 정형돈이 서로에게 질투를 느끼는 쌍둥이 딸의 반응을 공개했다. 3월 3일 방송된 채널A ‘오은영의 금쪽상담소’에서 정형돈이 쌍둥이 딸의 일상을 언급했다. 박남정 둘째 딸 박시우는 자신의 외적 동기가 언니인 스테이씨 시은이라고 밝히며 입시, 연습생 생활, 드라마 촬영 등을 병행한 언니를 보며 자신도 더 열심히 해야겠다고 다짐했던]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["오길 잘했다" 김광규, MZ 따라 간 우도여행기 '大만족' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230304011003791</link>
-            <guid>https://v.daum.net/v/20230304011003791</guid>
-            <pubDate>Fri, 03 Mar 2023 17:04:20 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 원민순 기자) 배우 김광규가 MZ세대를 따라 우도여행을 떠났다. 3일 방송된 MBC '나 혼자 산다'에서는 김광규의 우도 여행기가 전파를 탔다. 이날 김광규는 성산항에 도착, MZ세대들이 많이 간다는 우도를 가겠다고 나섰다. MZ세대들이 왜 우도로 여행을 많이 가는지 그 이유가 궁금하기도 하고 제주도에서 작품 촬영을 하기는 했어도 우도는 처음]]></content:encoded>
+            <title><![CDATA[박남정 딸 시우 “1등 집착·대학 5곳 합격, 언니 시은 부러웠다” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230304055712567</link>
+            <guid>https://v.daum.net/v/20230304055712567</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:36 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 가수 박남정 둘째 딸 박시우가 자신을 극한으로 내몰며 입시를 준비했던 이유를 밝혔다. 3월 3일 방송된 채널A ‘오은영의 금쪽상담소’에서는 박남정, 박시우 부녀가 출연했다. 방송에서 이윤지는 “자식 농사가 대박이 나셨다. 제일 부럽다”라며 최근 박시우가 대학교 다섯 군데에 합격한 것을 언급했다. 박남정은 합격통지서까지 공개하며]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['나혼산' 이유진, "1년 간 작품 없어 철거 일하며 버텨" 월세 반지하 35만원 집 공개 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230304010526765</link>
-            <guid>https://v.daum.net/v/20230304010526765</guid>
-            <pubDate>Fri, 03 Mar 2023 17:04:20 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김예솔 기자] 이유진이 작품이 없어 철거 일을 한 적이 있다고 말했다.&nbsp; 3일에 방송된 MBC ‘나 혼자 산다’에서는 배우 이유진이 등장한 가운데 과거 1년 동안 배우 일이 없어 철거 일을 했던 경험을 이야기했다.&nbsp; 이날 이유진은 240만원에 셀프 인테리어로 집을 고쳤다고 말해 주위를 깜짝 놀라게 했다. 이유진의 집은 모던 미드 센추리 스타일]]></content:encoded>
+            <title><![CDATA[서지석 “양쪽 무릎 파열→갈비뼈 골절, 통증도 좋아” 심각한 운동 중독 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230304055707566</link>
+            <guid>https://v.daum.net/v/20230304055707566</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:36 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 배우 서지석이 운동을 향한 집착으로 걱정했다. 3월 3일 방송된 채널A ‘오은영의 금쪽상담소’에서는 서지석의 출연이 예고 됐다. 이날 방송 말미 공개된 예고 영상에서 서지석은 “만신창이가 됐다. 양쪽 무릎이 파열되고 갈비뼈가 두 번 부러지고, 어깨 큰 인대가 세 번이 나갔다”라며 운동으로 인한 부상 경험을 고백했다. 평소 서지]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[펜싱 김준호, 둘째 임신 아내 스트레스 지수에 미안함..."더 신경써야겠다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230304005502688</link>
-            <guid>https://v.daum.net/v/20230304005502688</guid>
-            <pubDate>Fri, 03 Mar 2023 17:04:20 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=신지원 기자]펜싱 선수 김준호가 임신 6개월의 아내에게 미안해했다. 3일 오후 방송된 KBS 2TV 예능 프로그램 '슈퍼맨이 돌아왔다'에는 김준호가 아내와 아들 은우의 영유아 발달 검사를 받기 위해 나서는 모습이 담겼다. 엄마 아빠가 나가도 울지도 않고 놀이에 집중하는 은우를 보고 김준호는 "아무나 따라갈 것 같다"라고 걱정을 드러냈다. 이에]]></content:encoded>
+            <title><![CDATA[안재모 “15년간 카레이서 생활” 연예인 최초 우승까지 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230304055519542</link>
+            <guid>https://v.daum.net/v/20230304055519542</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:36 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 배우 안재모가 놀라운 카레이서 이력을 전했다. 3월 3일 방송된 TV조선 '식객 허영만의 백반기행'(이하 '백반기행') 191회에서는 배우 안재모가 고양 왕릉 밥상 기행에 함께했다. 이날 허영만을 따라 국제종합전시장 킨텍스를 찾은 안재모는 "저도 많이 가봤다. 레이싱 슈트 입고, 저희 팀 레이싱 카 전시를 해서"라며 프로 카레이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['박남정 둘째 딸' 박시우 "언니 박시은, 관심 독차지…부러워" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230304005003673</link>
-            <guid>https://v.daum.net/v/20230304005003673</guid>
-            <pubDate>Fri, 03 Mar 2023 17:04:20 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 노수린 기자) 박남정의 둘째 딸이 언니 박시은이 부러웠다고 고백했다. 3일 방송된 채널A '오은영의 금쪽상담소'에서는 가수 박남정과 둘째 딸 박시우가 오은영 박사를 만났다. 박남정의 딸이자 스테이씨(STAYC) 박시은의 동생 박시우는 완벽주의에 시달린다고 토로했다. 박시우는 "박남정의 딸이라는 것을 주변에서 알고 있어서, 가족이 나 때문에 망]]></content:encoded>
+            <title><![CDATA[오은영, 거식증 금쪽이에 “정서적 거식상태, 키우기 어려운 아이” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230304055516540</link>
+            <guid>https://v.daum.net/v/20230304055516540</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:36 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 오은영 박사가 금쪽이가 키우기 어려운 아이라고 분석했다. 3월 3일 방송된 채널A ‘요즘 육아 - 금쪽같은 내새끼’에서는 갑자기 거식 증세를 보이며 18kg이 된 11세 딸의 두 번째 이야기가 공개됐다. 두 달 전 오은영은 생존에 필요한 기본적인 체중을 회복하는 것이 우선이므로, 강력하게 입원 치료를 권한 바 있다. 입원 5일 차,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김광규, MZ 따라잡기 위해 우도行..BTS·유재석도 왔었네 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230304004518662</link>
-            <guid>https://v.daum.net/v/20230304004518662</guid>
-            <pubDate>Fri, 03 Mar 2023 17:04:20 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 이빛나리 기자] /사진='나 혼자 산다' 방송화면배우 김광규가 MZ 따라잡기에 나섰다. 3일 오후 방송된 MBC 예능 프로그램 '나 혼자 산다'에는 김광규가 우도를 여행하는 장면이 담겼다. 이날 김광규는 인터뷰에서 "MZ 세대가 우도를 많이 간다고 한다. 우도에서 드라마와 영화를 찍었지만 여행을 해본 적은 없다. 올해 첫 여행지로 우도를 택했]]></content:encoded>
+            <title><![CDATA[이유진, 월세 35만원 반지하 집 셀프 인테리어→父 이효정 반전 취미 공개 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230304055509537</link>
+            <guid>https://v.daum.net/v/20230304055509537</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:36 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 이유진이 감성 가득한 자취 일상을 공개했다. 3월 3일 방송된 MBC ‘나 혼자 산다’에서는 배우 이유진이 출연해 셀프 인테리어 실력을 뽐냈다. 스튜디오에 출연한 자취 1년차 이유진은 “‘나 혼자 산다’가 저한테 꿈인 프로그램이었다. 꿈이 이뤄진 순간이라 떨리고 행복하다”라고 출연 소감을 전한 뒤 자신의 일상을 공개했다. 이유진]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이유진, "父=배우 이효정, 굉장히 따뜻한 면 갖고 있는 분" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230304004202647</link>
-            <guid>https://v.daum.net/v/20230304004202647</guid>
-            <pubDate>Fri, 03 Mar 2023 17:04:20 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=신지원 기자]이유진이 아버지 배우 이효정과의 끈끈한 부정을 드러냈다. 3일에 방송된 MBC ‘나 혼자 산다’에서는 자취 1년차 배우 이유진이 월세 35만원 반지하방 라이프를 공개했다. 이날 이유진은 모든 인테리어를 셀프로 진행했음을 밝히며 모던 센추리 풍의 내부를 공개했다. 그는 "두 달치 월세만 가지고 들어갔다"라면서도 "처음 들어왔을]]></content:encoded>
+            <title><![CDATA[BTS 뷔, 김밥 소스 '개발'…손님 전투적으로 '냠냠' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230304055505536</link>
+            <guid>https://v.daum.net/v/20230304055505536</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:36 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 고향미 기자] 세계적인 아이돌 그룹 방탄소년단(BTS) 뷔가 김밥 소스를 개발했다. 3일 오후 방송된 케이블채널 tvN '서진이네'에서는 멕시코 바칼라르에서 영업 2일 차를 맞은 이서진, 정유미, 박서준, 최우식, 뷔의 모습이 그려졌다. 이날 방송에서 뷔는 제작진에게 "아니면 이거랑 마요랑 섞는 건 어때?"라고 물었다. 전날 밤 뷔는 "내]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[차예련 "♥주상욱=차예련 남편, 솔직히‥" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230304004021642</link>
-            <guid>https://v.daum.net/v/20230304004021642</guid>
-            <pubDate>Fri, 03 Mar 2023 17:04:20 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최지연 기자] 배우 차예련이 배우자 주상욱보다 높은 인지도에 기분이 좋다고 털어놨다.&nbsp; 3일 방송된 KBS2 '신상출시 편스토랑‘(이하 '편스토랑')에서는 차예련이 주상욱을 응원하기 위해 요리를 하는 모습이 그려졌다. 그는 케일 김치와 항정수육을 선보여&nbsp;눈길을 끌었다. 차예련은 “요즘에 남편이 '편스토랑'을 약간 욕심내는 것 같다. '세컨 하]]></content:encoded>
+            <title><![CDATA[‘공항도둑’ 근황 공개, 유명세 이용 유튜버 활동 “숨지 않아” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230304055212507</link>
+            <guid>https://v.daum.net/v/20230304055212507</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:36 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박수인 기자] '공항도둑' 근황이 공개됐다. 3월 3일 방송된 MBN '우리가 몰랐던 세계-진상월드'에서는 감정 노동의 최전선 판매직 진상에 대해 파헤쳤다. 한 진상 고객은 휴대전화 이용 요금 결제를 거부하며 폭언을 퍼부었다. 알고 보니 해당 진상 고객은 2014년 4월 인천공항의 한 편의점에서 물건 절도 행위가 적발되자 오히려 적반하장으로 욕설]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이유진, 박살 난 핸드폰에 망연자실 “어이가 없네” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230304003906633</link>
-            <guid>https://v.daum.net/v/20230304003906633</guid>
-            <pubDate>Fri, 03 Mar 2023 17:04:20 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이유진이 갑작스러운 사고에 당황했다. 3일(금) 방송된 MBC 예능 프로그램 ‘나 혼자 산다’ 485회에서는 이유진의 ‘무지개 라이브’, 김광규의 ‘우도 하루살이’ 편이 전파를 탔다. 이날 ‘자취 1년 차’ 이유진은 감각적으로 직접 꾸민 집을 공개해 눈길을 끌었다. 또한, 본가를 찾아 아버지이자 배우인 이효정과 함께 짜장면을 먹으며 훈훈한 부자]]></content:encoded>
+            <title><![CDATA[전현무 “블랙핑크 ‘감수광’ 리메이크 해줬으면” 키X코쿤과 세대차 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230304055207506</link>
+            <guid>https://v.daum.net/v/20230304055207506</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:36 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 전현무가 키, 코드 쿤스트와 세대 차를 느꼈다. 3월 3일 방송된 MBC ‘나 혼자 산다’에는 우도에 방문한 김광규의 모습이 공개 됐다. 김광규는 MZ세대에 핫한 여행지로 손꼽히는 우도를 가기 위해 성산항에 도착했다. 우도행 배 표를 끊으려고 간 김광규는 “실제로 보니까 잘 생기셨다”라는 칭찬에 여행 시작부터 즐거워 했다. 우]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이서진·정유미, 손님 행렬에 '멘붕'...BTS 뷔, 완벽 수습 '활약' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230304003003610</link>
-            <guid>https://v.daum.net/v/20230304003003610</guid>
-            <pubDate>Fri, 03 Mar 2023 17:04:20 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 노수린 기자) '서진이네' 직원들이 손님 행렬에 멘붕에 빠졌다. 3일 방송된 tvN '서진이네'에서는 1일 차 영업을 마무리하고 2일 차 영업을 개시했다. 1일 차 영업을 마친 직원들은 숙소로 돌아왔다. 직원들은 숙소에서 쉬는 도중 "라면을 먹자"고 제안했다. 이를 보던 이서진은 "어떻게 매일 밤 라면을 먹냐"고 감탄했다. 라면 두 봉지를 먹]]></content:encoded>
+            <title><![CDATA[뷔 "난 머쉿는 사람"·박서준 "굉장히 나이수" 죽이 척척 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230304055129494</link>
+            <guid>https://v.daum.net/v/20230304055129494</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:36 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 고향미 기자] 세계적인 아이돌 그룹 방탄소년단(BTS) 뷔와 배우 박서준이 환상의 케미를 보였다. 3일 오후 방송된 케이블채널 tvN '서진이네'에서는 멕시코 바칼라르에서 영업 1일 차를 맞은 이서진, 정유미, 박서준, 뷔의 모습이 그려졌다. 이날 방송에서 설거지를 하던 뷔는 곁을 지키고 있는 박서준에게 "당분간 내가 설거지 해줘야겠어(?]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이유진, 알고보니 배우 집안 “父 이효정=일산의 이연복, 작은 아버지는 이기영” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230304002326581</link>
-            <guid>https://v.daum.net/v/20230304002326581</guid>
-            <pubDate>Fri, 03 Mar 2023 17:04:20 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 이유진이 아버지 이효정의 요리 실력을 공개했다. 3월 3일 방송된 MBC ‘나 혼자 산다’에서는 이유진이 아버지인 이효정과 출연했다. 이유진은 3~40분 거리에 있는 본가에 도착했다. 이유진의 아버지로 이효정이 등장하자, 박나래를 비롯한 무지개 회원들은 깜짝 놀랐다. 이유진은 작은 아버지도 배우인 이기영이었다. 수준급 그림 실]]></content:encoded>
+            <title><![CDATA[‘백화점 갑질 난동녀’ 조울증 고백→부매니저에 사과 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230304055108491</link>
+            <guid>https://v.daum.net/v/20230304055108491</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:36 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 일명 '백화점 맨발녀'가 방송 최초 공개됐다. 3월 3일 방송된 MBN '우리가 몰랐던 세계-진상월드'에서는 올해 초 화제된 ’백화점 갑질 난동녀 사건‘을 파헤쳤다. 피해 매장 매니저는 "1월 초 구두 장식이 불편하다고 하길래 구두를 가지고 방문을 해달라고 요청했다. 문제는 수선할 구두를 들고 와야 하는데 신고 와서는 맡기고 갈테]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박남정 딸, 수면욕·식욕 억제까지.."父 망신당하면 안 돼" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230304002314580</link>
-            <guid>https://v.daum.net/v/20230304002314580</guid>
-            <pubDate>Fri, 03 Mar 2023 17:04:20 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 이지현 기자] /사진='오은영의 금쪽 상담소' 방송 화면가수 박남정이 둘째 딸에 대한 고민을 털어놨다. 3일 방송된 채널A 예능 프로그램 '오은영의 금쪽 상담소'에서는 박남정과 둘째 딸 박시우가 함께 상담소를 찾아와 고민을 상담하는 장면이 그려졌다. 박남정의 첫째 딸은 걸 그룹 스테이씨의 메인 보컬로 활동 중이며, 둘째 딸은 명문대를 포함해]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이제훈X표예진, 부동산 청약 범죄 파헤치려 신혼부부 위장...김도윤, "당신들 부부 아니지?" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230304002301578</link>
-            <guid>https://v.daum.net/v/20230304002301578</guid>
-            <pubDate>Fri, 03 Mar 2023 17:04:20 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=신지원 기자]이제훈과 표예진이 신혼부부로 나섰다. 3일 방송된 SBS 금토드라마 '모범택시2'에서는 김도기(이제훈 분)과 안고은(표예진 분)이 신혼부부 행세를 하다 들통날 위기에 처했다. 이날 김도기, 안고은, 온하준(신재하 분)은 집을 보러 다니다 차 앞으로 뛰어든 여자 아이를 칠 뻔했다. 그 아이는 김도기에게 "저 소망이한테 가야 돼요]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[백화점 맨발 난동女 "조울증으로 입원중"..김구라 "동정유도?" 의심 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230304001328522</link>
-            <guid>https://v.daum.net/v/20230304001328522</guid>
-            <pubDate>Fri, 03 Mar 2023 17:04:20 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김나연 기자] 백화점 맨발 난동으로 사회적 이슈가 됐던 진상 고객이 '진상월드'에 모습을 드러냈다. 3일 방송된 MBN '진상월드'는 '자연인' 이승윤이 게스트로 출연한 가운데 '판매직'을 주제로 이야기를 나눴다. 이날 방송에는 다양한 분야에서 판매직으로 일하고 있는 직원들이 게스트로 출연해 진상 에피소드를 공유했다. 그러던 중 큰 화제를 모]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이유진, "父=배우 이효정" 셀프 인테리어→월세 35만원 나를 아끼는 삶 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230304001146514</link>
-            <guid>https://v.daum.net/v/20230304001146514</guid>
-            <pubDate>Fri, 03 Mar 2023 17:04:20 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김예솔 기자] 이유진이 자신의 집을 공개했다.&nbsp; 3일에 방송된 MBC ‘나 혼자 산다’에서는 배우 이유진이 등장한 가운데 아버지인 배우 이효정도 함께 등장했다.&nbsp; 이날 이유진은 월세 35만원에 반지하방에 살고 있지만 셀프 인테리어로 감성 인테리어를 선보여 눈길을 끌었다. 인테리어를 마친 이유진은 밖으로 나와 트럭을 탔다. 코드쿤스트는 "솔직히]]></content:encoded>
+            <title><![CDATA['슬램덩크'→'스즈메', 일본 애니 연이어 대박 낼까 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+            <link>https://v.daum.net/v/20230304060020634</link>
+            <guid>https://v.daum.net/v/20230304060020634</guid>
+            <pubDate>Fri, 03 Mar 2023 21:05:41 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 고승아 기자 = '더 퍼스트 슬램덩크'가 국내에서 370만을 돌파하며 올해 초부터 일본 애니메이션 흥행을 이끌고 있는 가운데, 신카이 마코토 감독의 신작 '스즈메의 문단속'도 개봉을 앞두고 있다. 이에 따라 일본 애니메이션이 올해 연이어 극장가에서 흥행 기록을 세울지 주목된다. 올해 1월4일 개봉한 '더 퍼스트 슬램덩크'(감독 이노우에]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[외계인과 친구 되는 법...힐링 애니 '리틀 엘렌', 호평 일색 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
             <link>https://v.daum.net/v/20230304030530134</link>
             <guid>https://v.daum.net/v/20230304030530134</guid>
-            <pubDate>Fri, 03 Mar 2023 19:07:15 GMT</pubDate>
+            <pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[TV리포트=이수연 기자] 어린 자녀를 둔 부모가 주목해야 할 재미있는 애니메이션 영화가 나왔다. 지난 1일 외로운 소년 '엘렌'이 인간 안테나로 변신하여 외계인 소녀 '브리트니'에게 교신하며 일어나는 소동을 그린 판타지 어드벤처 애니메이션 영화 '리틀 엘렌: 외계인과 안테나 대소동'이 개봉한 가운데, 실관람객의 호평이 끊기질 않는다. 개봉 전부터 이어진]]></content:encoded>
         </item>
         <item>
@@ -1951,13 +1966,6 @@
             <guid>https://v.daum.net/v/20230303120607042</guid>
             <pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[티브이데일리 최하나 기자] 일본 애니메이션이 국내 박스오피스를 점령했다. ‘슬친자’들의 저력 ‘더 퍼스트 슬램덩크’부터 ‘귀멸의 칼날: 상현 집결, 그리고 도공 마을로’가 흥행 열풍을 보이며 관객몰이 중이다. 먼저 영화 ‘더 퍼스트 슬램덩크’가 영화진흥위원회 통합전상망에 따르면 지난 2일 누적 관객수 372만 명을 기록했다. 이는 역대 국내 개봉 애니메이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['스마트폰을 떨어뜨렸을 뿐인데', 원작과 무엇이 다를까 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-            <link>https://v.daum.net/v/20230303114205062</link>
-            <guid>https://v.daum.net/v/20230303114205062</guid>
-            <pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[김성호 기자] 대중매체 속 깡패가 모두 전라도 사투리를 쓰던 시절이 있었다. 그로부터 30여 년이 흘러 영화에서 그려지는 범죄자 가운데 상당수가 연변 사투리를 쓴다. 살인 등 흉악범죄와 마주하여 조현병이며 지체장애인을 가해자로 그리는 사례도 적지 않다. 이들 가운데 충실한 취재며 통계를 바탕으로 한 작품이 얼마나 되는지를 살펴보면 황당함을 감출 길 없다.]]></content:encoded>
         </item>
     </channel>
 </rss>
