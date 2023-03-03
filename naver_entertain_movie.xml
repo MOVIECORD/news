@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-03-03T10:05:24.041Z</updated>
+    <updated>2023-03-03T12:14:13.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[독립영화관] 불도저에 탄 소녀, 분노의 소녀 (박이웅 감독,2021)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000053892</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000053892"/>
+        <updated>2023-03-03T12:13:20.730Z</updated>
+        <content type="html"><![CDATA[오늘 밤 KBS 1TV 독립영화관 시간에는 김혜윤 주연의 &lt;불도저에 탄 소녀&gt;가 방송된다. 이 영화는 2021년 제 26회 부산국제영화제에서 처음 소개된 박이웅 감독의 장편 데뷔작이다. 영화가 시작되면 즉심재판정에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[톰 크루즈, 개인 헬기 타고 美 항공모함 行..'미임파8' 촬영[★할리우드]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003133483</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049680"/>
         <updated>2023-03-03T08:09:37.466Z</updated>
         <content type="html"><![CDATA[최근 워너브러더스 디스커버리(이하 WBD)의 4분기 실적 발표가 있었다. 가장 화제가 된 소식은 올해 발매한 게임 &lt;호그와트 레거시&gt;가 2주 만에 8억5천만달러를 기록했다는 것, 그리고 게임의 흥행에 힘입어 HBO]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화제에 부는 교체 바람]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049679</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049679"/>
-        <updated>2023-03-03T08:09:37.468Z</updated>
-        <content type="html"><![CDATA[영화제에 인사 교체의 바람이 불고 있다. 오는 9월14일부터 21일까지 열리는 DMZ국제다큐멘터리영화제는 정상진 전 집행위원장에 이어 장해랑 전 세명대학교 교수를 신임 집행위원장으로 선임했다. 장해랑 신임 집행위원장]]></content>
     </entry>
 </feed>
