@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-04T19:06:39.692Z</updated>
+    <updated>2023-03-04T21:05:21.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연이은 흥행 부진, '마블민국' 흔들리나]]></title>
+        <id>https://v.daum.net/v/20230305060033068</id>
+        <link href="https://v.daum.net/v/20230305060033068"/>
+        <updated>2023-03-04T21:05:21.082Z</updated>
+        <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = '마블민국'이 흔들리고 있다. 대한민국은 한 때 '마블민국'이라 불릴 만큼 마블 영화의 인기가 높았던 국가다. '아이언맨'(2008)부터 시작해 '어벤져스'(2012) '토르: 다크 월드'(2013) '캡틴 아메리카: 윈터 솔저'(2014) '가디언즈 오브 갤럭시'(2014) 등을 거쳐 '닥터 스트레인지'(2016)와]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현빈·조진웅 탓? 부진의 늪 빠진 韓영화, 진짜 문제는]]></title>
         <id>https://v.daum.net/v/20230304180901840</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230304093827880"/>
         <updated>2023-03-04T02:13:49.841Z</updated>
         <content type="html"><![CDATA[[스타뉴스 한해선 기자] /사진=CGV 가수 임영웅의 콘서트 실황을 담은 영화 '아임 히어로 더 파이널'이 개봉 3일째에 톱5 안의 순위를 지켰다. 4일 영진위 영화관입장권 통합전산망에 따르면 '아임 히어로 더 파이널'은 지난 3일 1만 4121명을 모으고 박스오피스 4위를 기록했다. 누적 관객수는 8만 2966명. '아임 히어로 더 파이널'은 지난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘더 웨일’, 모비딕과 함께 사는 방법]]></title>
-        <id>https://v.daum.net/v/20230304090104494</id>
-        <link href="https://v.daum.net/v/20230304090104494"/>
-        <updated>2023-03-04T00:31:12.199Z</updated>
-        <content type="html"><![CDATA[[곽명동의 씨네톡] 2012년 뉴욕의 한 작은 극장에서 미국 극작가 사무엘 D. 헌터의 연극 '더 웨일'이 오프브로드웨이에 데뷔했다. 이 작품은 고도 비만을 앓고 있는 영문학 교수 찰리가 인생의 마지막 날을 맞아 소원해진 딸과 다시 만나기 위해 노력하는 이야기였다. 이 연극은 헌터의 비만, 동성애, 근본주의 기독교에 대한 개인사가 부분적으로 반영됐다. 헌]]></content>
     </entry>
 </feed>

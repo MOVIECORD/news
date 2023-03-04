@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-03-04T19:06:39.651Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 04 Mar 2023 21:05:21 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연이은 흥행 부진, '마블민국' 흔들리나 [N초점]]]></title>
+            <link>https://v.daum.net/v/20230305060033068</link>
+            <guid>https://v.daum.net/v/20230305060033068</guid>
+            <pubDate>Sat, 04 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = '마블민국'이 흔들리고 있다. 대한민국은 한 때 '마블민국'이라 불릴 만큼 마블 영화의 인기가 높았던 국가다. '아이언맨'(2008)부터 시작해 '어벤져스'(2012) '토르: 다크 월드'(2013) '캡틴 아메리카: 윈터 솔저'(2014) '가디언즈 오브 갤럭시'(2014) 등을 거쳐 '닥터 스트레인지'(2016)와]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F05%2FNEWS1%2F20230305060035281gmma.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
