@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-03-05T20:08:33.611Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 05 Mar 2023 21:04:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[클로즈업 필름]양쯔충, 오스카 유리천장을 저격하다]]></title>
+            <link>https://v.daum.net/v/20230306055207477</link>
+            <guid>https://v.daum.net/v/20230306055207477</guid>
+            <pubDate>Sun, 05 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스] 손정빈 기자 = 배우 윤여정이 2021년 제93회 미국 아카데미 시상식에서 영화 '미나리'로 여우조연상을 받은 건 아카데미 역사를 새로 쓴 대사건이었다. 윤여정 이전에 아시아 국적을 가진 배우가 오스카 연기상을 받은 경우는 한 번도 없었다. 물론 벤 킹즐리처럼 아시아 피가 섞여 있거나 우메키 미요시처럼 아시아계 배우들은 있었지만, 이들]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F06%2Fnewsis%2F20230306055207579tbio.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>

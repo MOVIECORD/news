@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-05T20:08:33.637Z</updated>
+    <updated>2023-03-05T21:04:00.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[양쯔충, 오스카 유리천장을 저격하다]]></title>
+        <id>https://v.daum.net/v/20230306055207477</id>
+        <link href="https://v.daum.net/v/20230306055207477"/>
+        <updated>2023-03-05T21:04:00.236Z</updated>
+        <content type="html"><![CDATA[[서울=뉴시스] 손정빈 기자 = 배우 윤여정이 2021년 제93회 미국 아카데미 시상식에서 영화 '미나리'로 여우조연상을 받은 건 아카데미 역사를 새로 쓴 대사건이었다. 윤여정 이전에 아시아 국적을 가진 배우가 오스카 연기상을 받은 경우는 한 번도 없었다. 물론 벤 킹즐리처럼 아시아 피가 섞여 있거나 우메키 미요시처럼 아시아계 배우들은 있었지만, 이들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김희원 "매 작품 임시완과 대척점… 의형제 연기하고파"]]></title>
         <id>https://v.daum.net/v/20230305235520578</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230305095405716"/>
         <updated>2023-03-05T02:29:28.542Z</updated>
         <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] 각 분야의 전문가 수십 명이 모여 하나의 작품을 완성해 나간다는 점에서 오케스트라와 영화판은 일견 닮은 구석이 있다. 두 분야의 주요 롤을 대입해 보자면, 감독은 전체를 이끄는 지휘자의 역할을 한다고 볼 수 있다. 그러나 어떤 영화에서는 한 사람의 배우가 영화 전체의 흐름과 완성도를 쥐고 흔드는 경우가 있다. 'TAR 타]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 퍼스트 슬램덩크' 381만명…국내 개봉 日애니 중 최고 흥행]]></title>
-        <id>https://v.daum.net/v/20230305093825422</id>
-        <link href="https://v.daum.net/v/20230305093825422"/>
-        <updated>2023-03-05T02:29:28.544Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 양정우 기자 = 영화 '더 퍼스트 슬램덩크'가 그간 국내에서 개봉한 일본 애니메이션의 최고 흥행 기록을 새로 썼다. 5일 영화관입장권 통합전산망에 따르면 '더 퍼스트 슬램덩크'는 이날 오전 누적 관람객 수 381만8천여명을 기록하며 역대 국내 개봉 일본 애니 중 흥행 1위에 올라섰다. 종전 기록은 2017년 신카이 마코토 감독의 '너의 이]]></content>
     </entry>
 </feed>
