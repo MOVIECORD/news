@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Mar 2023 23:06:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 02:29:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아트나인 기획전 '재팬무비페스티벌'.. 오시마 나기사, 기타노 다케시, 그리고 '오늘 밤, 세계에서 이 사랑이 사라진다 해도'까지]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=252441</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=252441</guid>
+            <pubDate>Sun, 05 Mar 2023 02:27:59 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=252441">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230305082549_89dcd639319686231917e663bb13718b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=252441">아트나인 기획전 '재팬무비페스티벌'.. 오시마 나기사, 기타노 다케시, 그리고 '오늘 밤, 세계에서 이 사랑이 사라진다 해도'까지</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230305082549_89dcd639319686231917e663bb13718b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["컬러풀 킬복순" 넷플릭스 <길복순> 캐릭터 포스터 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=252427</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=251807">"웹소설에서, 웹툰으로, 그리고 재패니메이션?"  '외과의사 엘리제' IP의 진화 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230228105824_c821ed249b29e19eb579018b74ae105a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["시의적절 복수극" '더 글로리' 파트2' 3월 10일 시작..  "손명오의 실종, 하도영의 선택, 그리고 윤소희의 시신은?"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=251801</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=251801</guid>
-            <pubDate>Tue, 28 Feb 2023 02:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=251801">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230228103723_bc1485d8d2e4b06ad477ba5b1d07af7b.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=251801">"시의적절 복수극" '더 글로리' 파트2' 3월 10일 시작..  "손명오의 실종, 하도영의 선택, 그리고 윤소희의 시신은?"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230228103723_bc1485d8d2e4b06ad477ba5b1d07af7b.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
