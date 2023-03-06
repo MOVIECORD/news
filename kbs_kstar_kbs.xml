@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 21:04:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 00:35:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤다영, KBS1 일일드라마 ‘금이야 옥이야’ 주인공 캐스팅]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=252119</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=252119</guid>
+            <pubDate>Mon, 06 Mar 2023 00:34:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=252119">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230302122244_7ce7f7526ce9fbc9e70c92ed9db519cd.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=252119">윤다영, KBS1 일일드라마 ‘금이야 옥이야’ 주인공 캐스팅 </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EA%B8%88%EC%9D%B4%EC%95%BC%20%EC%98%A5%EC%9D%B4%EC%95%BC">일일연속극 금이야 옥이야</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230302122244_7ce7f7526ce9fbc9e70c92ed9db519cd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['진짜가 나타났다!' 백진희-안재현 러블리 포스터 "진짜, 우리 아기 맞다니까요!"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=251766</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230305085719_8b518cdfc3a3e6476d3cc0f6b30885fb_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[배틀트립2] 박성광-이솔이 부부, 푸켓 ‘로컬 핫 플레이스’ 칠바 야시장 탐험...관광객보다 현지인이 더 많다?]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=252453</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=252453</guid>
-            <pubDate>Sun, 05 Mar 2023 02:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=252453">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230305085018_dd3f2dcc422b957ca7980c237ede9ec9_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=252453">[배틀트립2] 박성광-이솔이 부부, 푸켓 ‘로컬 핫 플레이스’ 칠바 야시장 탐험...관광객보다 현지인이 더 많다? </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230305085018_dd3f2dcc422b957ca7980c237ede9ec9_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
