@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 22:05:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 23:05:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['판도라:조작된 낙원' 장희진-박기웅, "위기의 부부"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=252998</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=252998</guid>
+            <pubDate>Tue, 07 Mar 2023 23:03:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=252998">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230308071844_f8f241f8720b1bd9820a2551889cf1e3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=252998">'판도라:조작된 낙원' 장희진-박기웅, "위기의 부부"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230308071844_f8f241f8720b1bd9820a2551889cf1e3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[제작발표회] tvN ‘판도라:조작된 낙원’ “김순옥표 ‘복잡’ 장르 드라마”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=252851</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=251311">드라마 '딜리버리맨',  "반전의 하이텐션 수사극"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230226072632_e1c9c24a5622dd06a0b98394ab265de6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JTBC '신성한, 이혼' 한혜진  "이서진은 새장 속에 갇힌 예쁜 새 한 마리 같은 캐릭터"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=251337</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=251337</guid>
-            <pubDate>Sat, 25 Feb 2023 23:06:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=251337">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230226075232_2406c193d9f32519192afbad231ebc95.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=251337">JTBC '신성한, 이혼' 한혜진  "이서진은 새장 속에 갇힌 예쁜 새 한 마리 같은 캐릭터"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230226075232_2406c193d9f32519192afbad231ebc95.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
