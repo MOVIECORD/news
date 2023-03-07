@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 07:04:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 08:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] 더 웨일, 역겨운 육신과 위~대한 유산 (대런 애로노프스키 감독,2022)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=252865</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=252865</guid>
+            <pubDate>Tue, 07 Mar 2023 08:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=252865">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230307164836_da611a88b21330450730d19c13e529c8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=252865">[리뷰] 더 웨일, 역겨운 육신과 위~대한 유산 (대런 애로노프스키 감독,2022)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230307164836_da611a88b21330450730d19c13e529c8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["마이클 조단에게 이걸 신겨라!"  맷 데이먼+벤 애플렉 영화 '에어' 4월 개봉]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=252824</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=252092">안소진, 손승웅 감독 신작 '천국: PARADISE' 캐스팅</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230302105409_96992f8afc00bf67ac9ec6268e20109d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["농구 조련사, 장항준 감독"  최약체 농구부의 기적 <리바운드>]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=252063</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=252063</guid>
-            <pubDate>Thu, 02 Mar 2023 00:36:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=252063">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230302093031_943fb57d7a66b98803f7b0a52e64ec4b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=252063">"농구 조련사, 장항준 감독"  최약체 농구부의 기적 &lt;리바운드&gt; </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230302093031_943fb57d7a66b98803f7b0a52e64ec4b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
