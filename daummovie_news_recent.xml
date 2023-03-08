@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-03-08T18:13:32.359Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 08 Mar 2023 19:09:35 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[폭탄 제거반과 테러리스트의 대결...승자는? ('블라스트')]]></title>
+            <link>https://v.daum.net/v/20230309040826143</link>
+            <guid>https://v.daum.net/v/20230309040826143</guid>
+            <pubDate>Wed, 08 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=이예은 기자] 폭탄제거반과 테러리스트의 팽팽한 사투를 다룬 영화 '블라스트: 폭탄제거반'이 극장가를 찾아온다.&nbsp; 8일 영화 배급사 풍경소리는 이달에 개봉하는 영화 '블라스트: 폭탄제거반'의 보도 스틸 14종을 전격 공개했다.&nbsp; 자동차 안에서 무언가를 발견해 놀란 아이의 표정이 포착된 스틸컷은 궁금증을 자극한다.&nbsp;또 차량 외부에서 아이들을 안전하]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F09%2Ftvreport%2F20230309040831615xljt.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
