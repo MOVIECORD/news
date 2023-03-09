@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-03-09T16:11:28.580Z</updated>
+    <updated>2023-03-09T18:11:26.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배우 이민지, 성숙한 분위기 반전 매력 새 프로필[화보]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000872282</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000872282"/>
+        <updated>2023-03-09T18:10:35.619Z</updated>
+        <content type="html"><![CDATA[배우 이민지 새 프로필 사진이 공개되어 눈길을 끈다. 소속사 눈컴퍼니는 지난 6일 배우 이민지의 새로운 프로필을 공개했다. 사진 속 한껏 성숙한 분위기의 이민지는 그동안의 밝고 쾌활한 이미지와 반전되는 색다른 매력을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[새영화]재난을 막기 위한 여고생 스즈메의 문단속 여정]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000957068</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049714"/>
         <updated>2023-03-09T10:08:09.442Z</updated>
         <content type="html"><![CDATA[남우주연상 후보 &lt;엘비스&gt; 오스틴 버틀러,&lt;이니셰린의 밴시&gt; 콜린 패럴, &lt;더 웨일&gt; 브렌던 프레이저, &lt;애프터썬&gt; 폴 메스칼, &lt;리빙&gt; 빌 나이 아마도, 아카데미의 선택, &lt;더 웨일&gt; 브렌던 프레이저 의 브렌던 프]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기획] '씨네21'의 선택 VS 아카데미의 선택: 여우주연상 부문]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049713</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049713"/>
-        <updated>2023-03-09T10:08:09.443Z</updated>
-        <content type="html"><![CDATA[여우주연상 후보 케이트 블란쳇, &lt;블론드&gt; 아나 데 아르마스, &lt;투 레슬리&gt; 앤드리아 라이즈버러, &lt;파벨만스&gt; 미셸 윌리엄스, &lt;에브리씽 에브리웨어 올 앳 원스&gt; 양자경 아마도, 아카데미의 선택, &lt;에브리씽 에브리웨]]></content>
     </entry>
 </feed>

@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 16:11:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 18:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[연중 플러스] 암을 극복한 스타 1위는? 양희은!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=253149</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=253149</guid>
+            <pubDate>Thu, 09 Mar 2023 18:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=253149">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230310011411_bac734b81eb39ab35e359b198355fcbe_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=253149">[연중 플러스] 암을 극복한 스타 1위는? 양희은!</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%97%B0%EC%A4%91%20%ED%94%8C%EB%9F%AC%EC%8A%A4">연중 플러스</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230310011411_bac734b81eb39ab35e359b198355fcbe_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[연중 플러스] 연극 ‘파우스트’의 배우, 유인촌과의 인터뷰!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=253145</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B9%84%EB%B0%80%EC%9D%98%20%EC%97%AC%EC%9E%90">일일드라마 비밀의 여자</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230307074312_aa0ec3d4efa6d7906eefdf693c5b00f8_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오아시스] 4년 만에 출소해 추영우 찾아간 장동윤 “성공해서 갚는다며? 당장 사시 준비해”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=252945</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=252945</guid>
-            <pubDate>Tue, 07 Mar 2023 16:05:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=252945">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230308005354_75db3abe21d0cfb1cae1f73b9e34bc88.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=252945">[오아시스] 4년 만에 출소해 추영우 찾아간 장동윤 “성공해서 갚는다며? 당장 사시 준비해”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%98%A4%EC%95%84%EC%8B%9C%EC%8A%A4">월화드라마 오아시스</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230308005354_75db3abe21d0cfb1cae1f73b9e34bc88.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
