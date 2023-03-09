@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-03-09T12:16:32.811Z</updated>
+    <updated>2023-03-09T13:20:00.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[TEN인터뷰] 송혜교가 연기 칭찬한 전소니 "김다미, 나의 가장 큰 파트너"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000600338</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000600338"/>
+        <updated>2023-03-09T13:19:08.867Z</updated>
+        <content type="html"><![CDATA["사람한테 영향을 많이 받아요. 어른이 되어갈수록 마음을 닫으려고 하는 것도 있어요. 영향을 받게 되니 겁이 나기도 했어요. 아무래도 아직 다미가 가장 큰 파트너예요." 배우 전소니가 영화 '소울메이트'를 통해 김다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다른 장르·테마지만 긴 여운 남기는 ‘삼색 영화’]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003790844</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049710"/>
         <updated>2023-03-09T10:08:09.454Z</updated>
         <content type="html"><![CDATA[제95회 아카데미 시상식 후보가 공개됐을 때 &lt;헤어질 결심&gt;과 &lt;놉&gt;이 어떤 부문에도 호명되지 못한 결과를 두고 국내외에서 논란이 불거졌다. 오스카 전초전으로 불리는 유력 비평가협회 시상식에서 선전한 두 영화가 아예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메가박스, 유럽 클래식 콘서트 투어 기획전 마련]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000638271</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000638271"/>
-        <updated>2023-03-09T10:08:09.456Z</updated>
-        <content type="html"><![CDATA[메가박스는 유럽 주요 도시를 배경으로 클래식 연주자들의 연주를 선보이는 '유럽 클래식 콘서트 투어 기획전'을 중계 상영한다고 9일 전했다. 메가박스 큐레이션 브랜드 '클래식 소사이어티' 일환으로 마련한 기획전이다.]]></content>
     </entry>
 </feed>
