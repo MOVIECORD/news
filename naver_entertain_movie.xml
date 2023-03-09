@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-03-09T22:06:30.976Z</updated>
+    <updated>2023-03-09T23:06:01.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스즈메의 문단속', 7만↑ 동원하며 이틀 연속 1위 [Nbox]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006675943</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006675943"/>
+        <updated>2023-03-09T23:05:07.177Z</updated>
+        <content type="html"><![CDATA[일본 애니메이션 '스즈메의 문단속'이 이틀 연속 1위 자리를 지켰다. 10일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 일본 애니메이션 '스즈메의 문단속'(감독 신카이 마코토)은 전날 7만5180명의 관객을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오!뜨뜨] “연진아, 기다렸지?” 마침내 올 송혜교의 복수 ‘더 글로리2’]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003261500</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049721"/>
         <updated>2023-03-09T10:08:09.414Z</updated>
         <content type="html"><![CDATA[“이 책은 고발도, 고백도 아니다. 비록 포탄은 피했다 하더라도 전쟁으로 파멸한 세대에 대한 보고일 뿐이다.” 에리히 마리아 레마르크의 동명 소설을 바탕으로 한 넷플릭스 영화 &lt;서부 전선 이상 없다&gt;가 지난 2월19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기획] 스티븐 스필버그의 자전적 영화 '파벨만스'를 보기 전에 알아두면 좋을 네 가지 이야기]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049720</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049720"/>
-        <updated>2023-03-09T10:08:09.417Z</updated>
-        <content type="html"><![CDATA[를 스티븐 스필버그가 만든 가장 개인적인 영화라고 정의할 수 있을까? &lt;파벨만스&gt;는 스필버그의 개인사를 전면에 내세운 첫 작품이지만, 영화가 복기하는 그의 청소년기는 그가 천착해온 주제나 무의식, 궁극적으로 연출 철]]></content>
     </entry>
 </feed>
