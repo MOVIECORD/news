@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-03-10T12:12:30.997Z</updated>
+    <updated>2023-03-10T13:18:50.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[리뷰] ‘파로호’ 흐릿함과 혼돈, 그리고 겨울호수 (KBS 독립영화관)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000054063</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000054063"/>
+        <updated>2023-03-10T13:17:58.407Z</updated>
+        <content type="html"><![CDATA[오늘밤 12시 10분 KBS 1TV 독립영화관 시간에는 임상수 감독의 &lt;파로호&gt;가 시청자를 찾는다. ‘그때 그 사람들’과 ‘하녀’의 그 임상수가 아니다. 동명이인의 신인감독이다. &lt;파로호&gt;는 작년 극장에서 개봉된 신]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전소니 "부침도 겪었지만... '소울메이트' 안에서 행복했다"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002384812</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003261583"/>
         <updated>2023-03-10T06:10:04.954Z</updated>
         <content type="html"><![CDATA[대런 애로노프스키 감독의 영화 ‘더 웨일’이 손익 분기점을 한참 뛰어넘는 데 성공했다. ‘블랙 스완’ 대런 애로노프스키 감독의 신작이자 ‘미이라’ 브렌든 프레이저가 주연을 맡은 ‘더 웨일’이 글로벌 박스오피스에서 3]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘소울메이트’ 김다미X전소니, 관객과 직접 소통‥무대인사·메가토크 진행]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000699122</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000699122"/>
-        <updated>2023-03-10T06:10:04.956Z</updated>
-        <content type="html"><![CDATA['소울메이트' 김다미, 전소니가 직접 '쏠친'을 만난다. 3월 15일 영화 '소울메이트'(감독 민용근)가 개봉하는 가운데, 주역 김다미와 전소니, 민용근 감독이 개봉 첫 주 관객들에게 감사 인사를 직접 전할 예정이다]]></content>
     </entry>
 </feed>
