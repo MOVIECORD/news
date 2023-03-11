@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-03-11T14:06:23.707Z</updated>
+    <updated>2023-03-11T15:04:23.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[내가 본 '조진웅'] '대외비' 될 수 없는 좋은 배우·선한 사람]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000205308</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000205308"/>
+        <updated>2023-03-11T15:03:26.947Z</updated>
+        <content type="html"><![CDATA[만년 국회의원 후보 해웅 역을 맡아 열연 "자신을 깊게 들여다볼 수 있는 계기이자 기회가 되길" 정제되지 않은 스타는 어떤 모습일까. 요즘 연예계는 스타도 많고, 연예 매체도 많다. 모처럼 연예인 인터뷰가 잡혀도 단]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아내 살해 혐의' 美 배우 블레이크, 심장병 사망..향년 90세[★할리우드]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003135398</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003261658"/>
         <updated>2023-03-11T04:05:53.269Z</updated>
         <content type="html"><![CDATA[재조명, RE(Re examination). 일이나 사물의 가치를 다시 들추어 살펴본다는 이 말을 스타에 대입해 보려 합니다. 아니, 스타보다는 한 인물을 재조명한다는 말이 더 적합하겠군요. TV·영화·연극·뮤지컬·]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[리뷰IS] TV판 요약 ‘귀멸의 칼날’, 그럼에도 극장 달려가는 이유]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003261657</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003261657"/>
-        <updated>2023-03-11T04:05:53.273Z</updated>
-        <content type="html"><![CDATA[이미 공개된 애니메이션을 스크린으로 옮겨놓았을 뿐인데, 사람들은 왜 극장으로 향할까. ‘귀멸의 칼날’ 찐팬(열성 팬)에게도 드는 생각이지만 영화를 한 번 보고 나면 모든 의문이 해결된다. 10일 영화진흥위원회 영화관]]></content>
     </entry>
 </feed>
