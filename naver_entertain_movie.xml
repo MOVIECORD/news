@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-03-12T11:05:37.046Z</updated>
+    <updated>2023-03-12T12:12:24.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘슬램덩크’ 日 애니 최초 400만 관객 달성... 꺾이지 않는 영광]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001247805</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001247805"/>
+        <updated>2023-03-12T12:11:32.846Z</updated>
+        <content type="html"><![CDATA[영화 '더 퍼스트 슬램덩크'가 개봉 68일 만에 누적 관객 400만 명을 달성했다. 이쯤 되면 장기 상영의 새 역사라 칭할 만하다. 12일 NEW에 따르면 '더 퍼스트 슬램덩크'는 이날 오후 4시께 누적 관객수 40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이거 봤어?] JMS·유영철·N번방...영화보다 더 극적인 (엑:스피디아)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001567814</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004165938"/>
         <updated>2023-03-12T05:06:28.495Z</updated>
         <content type="html"><![CDATA[오(OTT부터 극장까지), 스(타들이 보여준 다양한 재능을), 카(테고리별로 수상하는 시상식)! 정지은 기자의 '오.스.카' 이쯤 되면 '진해의 아들'이라고 칭해도 되지 않을까. 진해에서 나고 자라 진해를 스크린으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[종합] "신카이 마코토 마법 또 통했다"…'스즈메의 문단속' 土극장 30만명 동원..3월 최고 일일 스코어]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003981006</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003981006"/>
-        <updated>2023-03-12T05:06:28.496Z</updated>
-        <content type="html"><![CDATA[애니메이션 '스즈메의 문단속'(신카이 마코토 감독)이 극장가를 제대로 사로잡았다. 12일 영화진흥위원회 영화관입장권 통합전산망에 따르면 '스즈메의 문단속'은 지난 11일 30만5352명을 동원해 전체 박스오피스 1위]]></content>
     </entry>
 </feed>
