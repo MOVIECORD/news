@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-03-12T08:10:52.793Z</updated>
+    <updated>2023-03-12T09:07:37.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘슬램덩크’ 누적관객 400만명 넘었다…장기흥행, 왜?]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005440904</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005440904"/>
+        <updated>2023-03-12T09:06:53.041Z</updated>
+        <content type="html"><![CDATA[‘더 퍼스트 슬램덩크’ 포스터 이미지(사진=배급사 NEW). 일본 애니메이션 ‘더 퍼스트 슬램덩크’가 누적 관객 수 400만 명을 돌파했다. 배급사 NEW는 ‘더 퍼스트 슬램덩크’가 개봉 68일째인 이날 오후 4시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘슬램덩크’ 마침내 400만 돌파..강백호 후속작 나올까[MK무비]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005100259</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000872652"/>
         <updated>2023-03-12T03:11:39.915Z</updated>
         <content type="html"><![CDATA[신카이 마코토 감독의 신작 애니 영화 ‘스즈메의 문단속’이 좋은 기세를 이어가고 있다. 영화진흥위원회 영화관입장권통합전산망의 12일 집계에 따르면 ‘스즈메의 문단속’은 전날 전국 1,480개 스크린에서 30만 5,3]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[후IS] ‘더 웨일’ 브렌든 프레이저, 흰 고래 모비딕 같은 존재감]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003261699</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003261699"/>
-        <updated>2023-03-12T03:11:39.920Z</updated>
-        <content type="html"><![CDATA[고래가 하늘 위로 물기둥을 뿜으며 솟아오를 때 사람들은 비로소 알게 된다. 그가 얼마나 깊은 심해에서 숨죽이고 있었는지. 폭발하듯 터져오르는 물줄기와 포효. 브렌든 프레이저는 영화 ‘더 웨일’에서 마치 수톤에 달하는]]></content>
     </entry>
 </feed>
