@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-12T09:07:37.925Z</updated>
+    <updated>2023-03-12T11:05:37.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[JMS·유영철·N번방...영화보다 더 극적인]]></title>
+        <id>https://v.daum.net/v/20230312195002429</id>
+        <link href="https://v.daum.net/v/20230312195002429"/>
+        <updated>2023-03-12T11:05:36.323Z</updated>
+        <content type="html"><![CDATA[(엑스포츠뉴스 윤현지 기자) [이거 봤어?] 넘치는 콘텐츠 시대, OTT 속 수많은 작품들은 어딘가의 관상용 전시품처럼 느껴지기도 합니다. 포스터만 훑다가 뒤로가기 누르지 않도록, 신작부터 추억의 프로그램까지 모두 살펴보는 시간을 가져봅니다. 오늘도 OTT의 작품 목록만 스크롤 하는 당신, 이건 어때요?&nbsp; ■ 넷플릭스 '나는 신이다: 신이 배신한 사람들']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘슬램덩크’ 마침내 400만 돌파..강백호 후속작 나올까]]></title>
         <id>https://v.daum.net/v/20230312165703809</id>
@@ -88,12 +95,5 @@
         <link href="https://v.daum.net/v/20230312000017390"/>
         <updated>2023-03-11T15:04:23.221Z</updated>
         <content type="html"><![CDATA[만년 국회의원 후보 해웅 역을 맡아 열연 "자신을 깊게 들여다볼 수 있는 계기이자 기회가 되길" 정제되지 않은 스타는 어떤 모습일까. 요즘 연예계는 스타도 많고, 연예 매체도 많다. 모처럼 연예인 인터뷰가 잡혀도 단독으로 하는 경우도 드물다. 다수의 매체 기자가 함께 인터뷰를 하다 보니 대부분의 내용이 비슷하다. 심지어 사진이나 영상도 소속사에서 미리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아내 살해 혐의' 美 배우 블레이크, 심장병 사망..향년 90세]]></title>
-        <id>https://v.daum.net/v/20230311191327441</id>
-        <link href="https://v.daum.net/v/20230311191327441"/>
-        <updated>2023-03-11T11:05:33.965Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김노을 기자] /사진=공식 홈페이지아내를 살해한 혐의를 받았던 미국 배우 로버트 블레이크가 세상을 떠났다. 향년 90세. 10일(현지시간) AP 통신 등에 따르면 고인은 미국 로스앤젤리스(LA) 자택에서 가족들 곁에서 숨을 거뒀다. 사인은 심장병이다. 로버트 블레이크는 영화 '인 콜드 블러드' TV 시리즈 '바레타' 등에 출연, 에미상을 수상]]></content>
     </entry>
 </feed>
