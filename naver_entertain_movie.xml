@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-03-12T20:07:50.065Z</updated>
+    <updated>2023-03-12T21:04:24.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플TV+ 디스토피아 드라마 '지하창고 사일로의 비밀']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000054118</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000054118"/>
+        <updated>2023-03-12T21:03:33.266Z</updated>
+        <content type="html"><![CDATA[레베카 퍼거슨이 총괄 제작이자 주연으로 참여한 Apple TV+의 새로운 디스토피아 시리즈 ‘지하창고 사일로의 비밀’(원제: Silo)이 5월 5일 공개된다. ‘지하창고 사일로의 비밀’은 모든 곳이 폐허가 되고 독성]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제95회 아카데미 시상식…'에브리씽' 11개 최다 후보]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013809238</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000638414"/>
         <updated>2023-03-12T07:02:57.274Z</updated>
         <content type="html"><![CDATA[배우 임시완이 아역 연기에 대한 소감을 전했다. 넷플릭스 오리지널 영화 ‘스마트폰을 떨어뜨렸을 뿐인데’(김태준 감독)는 평범한 회사원 나미(천우희)이 자신의 모든 개인 정보가 담긴 휴대전화를 분실한 뒤 일상 전체를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] ‘구경이’ 성초이 작가가 요즘 꽂혀있다는 작품들]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049745</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049745"/>
-        <updated>2023-03-12T07:02:57.276Z</updated>
-        <content type="html"><![CDATA[차기작은 초국적 첩보액션물 이들에게 이야기는 “자신이 가장 잘할 수 있는 것”이자 “전부”(B)다. B는 어릴 때부터 뭐든 이야기로 풀어내는 걸 좋아했다. “학교에서 수행평가를 할 때 논설문 같은 것 쓰라고 하잖아요]]></content>
     </entry>
 </feed>
