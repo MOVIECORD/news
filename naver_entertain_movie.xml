@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-03-13T13:17:18.295Z</updated>
+    <updated>2023-03-13T14:08:04.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오스카 사로잡은 B급 감성 코미디…'에브리씽' 7관왕]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000588481</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000588481"/>
+        <updated>2023-03-13T14:07:10.543Z</updated>
+        <content type="html"><![CDATA[올해 아카데미 시상식은 이름도 긴 영화 '에브리씽 에브리웨어 올앳원스'가 휩쓸다시피 했습니다. 양자경은 아시아 배우 최초로 여우주연상을 수상했고, 남녀조연상과 작품상, 감독상 등을 가져가며 7관왕에 올랐습니다. 박효]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[SC할리웃] 레이디 가가, 레드카펫서 넘어진 사진기자 부축…섬세한 배려로 오스카 빛냈다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003981694</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003619346"/>
         <updated>2023-03-13T10:06:43.319Z</updated>
         <content type="html"><![CDATA[스티븐 스필버그 감독의 자전적 이야기를 담은 ‘파벨만스’를 '이동진의 언택트톡'에서 만나볼 수 있다. CGV는 '이동진의 언택트톡' 11번째 작품으로 영화 ‘파벨만스’를 선정하고, 오는 18일 프리미어 상영한다고 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브렌든 프레이저, 오스카 남우주연상..227kg 거구로 변신 [95th 아카데미 시상식]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003135804</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003135804"/>
-        <updated>2023-03-13T10:06:43.322Z</updated>
-        <content type="html"><![CDATA[할리우드 배우 브렌든 프레이저가 오스카 남우주연상을 수상했다. 12일(현지시각) 오후 미국 LA 할리우드 돌비극장에서 제 95회 아카데미 시상식이 열렸다. 이날 시상식 남우주연상 후보로는 '엘비스' 오스틴 버틀러,]]></content>
     </entry>
 </feed>
