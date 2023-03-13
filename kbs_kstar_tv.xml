@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 07:03:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 08:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['청춘월담' 박형식-전소니, "청춘 구원 로맨스 2막 시작"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=253612</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=253612</guid>
+            <pubDate>Mon, 13 Mar 2023 08:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=253612">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230313164527_251208fc26f579725dd61424d6495624.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=253612">'청춘월담' 박형식-전소니, "청춘 구원 로맨스 2막 시작"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230313164527_251208fc26f579725dd61424d6495624.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['종이달' 김서형 드라마로... "가짜 행복을 위해 진짜 인생을 배신할 수 있을까"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=253101</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=251331">tvN '판도라:조작된 낙원'  "이지아는 킬러였다!"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230226074402_27665725e603e204df87b45fd1967f7f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["어서와 영국친구들은 처음이지" 스펙 끝판왕, 신사의 품격  (MBC에브리원 ‘어서와 한국은 처음이지’)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=251952</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=251952</guid>
-            <pubDate>Wed, 01 Mar 2023 15:05:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=251952">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230301064558_fe49da3116b63143dbfe77486ad26211.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=251952">"어서와 영국친구들은 처음이지" 스펙 끝판왕, 신사의 품격  (MBC에브리원 ‘어서와 한국은 처음이지’)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230301064558_fe49da3116b63143dbfe77486ad26211.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
