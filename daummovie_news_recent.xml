@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-03-14T19:03:38.255Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 14 Mar 2023 20:09:03 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공포영화 '곰돌이 푸: 피와 꿀', 4월 개봉...살인광 '푸' 모습은?]]></title>
+            <link>https://v.daum.net/v/20230315050327660</link>
+            <guid>https://v.daum.net/v/20230315050327660</guid>
+            <pubDate>Tue, 14 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=이예은 기자] 귀여운 곰돌이 푸와 피글렛이 살인광으로 돌아와 동심파괴를 예고했다.&nbsp; 14일 팝엔터테인먼트가 영화 '곰돌이 푸: 피와 꿀' 티저 포스터를 공개했다.&nbsp;포스터 속 꿀단지는 달달한 꿀을 담은 대신 시뻘건 피가 뚝뚝 흘러넘치고 있다.&nbsp;무엇보다 "꿀 같던 과거는 잊어"라는 문구에서 우리들의 기억 속에 있는 귀여운 푸와 다정한 피글렛의 모습]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F15%2Ftvreport%2F20230315050331783masw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>

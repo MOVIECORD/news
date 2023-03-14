@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-03-14T19:03:38.261Z</updated>
+    <updated>2023-03-14T20:09:03.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공포영화 '곰돌이 푸: 피와 꿀', 4월 개봉...살인광 '푸' 모습은?]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001248029</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001248029"/>
+        <updated>2023-03-14T20:08:21.738Z</updated>
+        <content type="html"><![CDATA[귀여운 곰돌이 푸와 피글렛이 살인광으로 돌아와 동심파괴를 예고했다. 14일 팝엔터테인먼트가 영화 '곰돌이 푸: 피와 꿀' 티저 포스터를 공개했다. 포스터 속 꿀단지는 달달한 꿀을 담은 대신 시뻘건 피가 뚝뚝 흘러넘치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장항준·김은희가 반한 감동 실화, '농구 붐' 이어갈 '리바운드'(종합)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000205830</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049772"/>
         <updated>2023-03-14T10:08:58.033Z</updated>
         <content type="html"><![CDATA[1. 함께 쓰기-크리에이터 송편 윤성호는 함께 쓴다. 정확히는 2012년 MBC에브리원에서 &lt;할 수 있는 자가 구하라&gt;를 9회작으로 제작하면서다. “세상에서 제일 싫어하는 것이 혼자 밤에 글 쓰는 것”이라는 윤성호에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘이렇게 된 이상 청와대로 간다’ 윤성호 작가 [22 WRITERS⑪]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049771</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049771"/>
-        <updated>2023-03-14T10:08:58.033Z</updated>
-        <content type="html"><![CDATA[독립영화를 챙겨 보지 않더라도 ‘윤성호’란 이름은 한번쯤 들어봤을 듯하다. 2021년 공개된 12회작 웨이브 오리지널 드라마 &lt;이렇게 된 이상 청와대로 간다&gt;(이하 &lt;이상청&gt;)가 초창기 웨이브 신규 유료 가입자 수를]]></content>
     </entry>
 </feed>
