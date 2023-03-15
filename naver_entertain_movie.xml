@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-03-15T17:09:03.846Z</updated>
+    <updated>2023-03-15T18:12:43.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[조재휘의 시네필] 272㎏ 육신은 영혼의 감옥이었다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000035636</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000035636"/>
+        <updated>2023-03-15T18:11:55.331Z</updated>
+        <content type="html"><![CDATA[‘그가 죄인임은 알지 못하나, 분명한 건 내가 장님이었다는 것과 이제는 앞을 볼 수가 있다는 것입니다.’ - ‘요한복음’ 9장 25절 대런 아로노프스키의 ‘더 웨일’(2022)은 이해받지 못한 한 사람의 고독에 관한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쏜애플, 올림픽홀 매진부터 영화 개봉까지···정상급 아티스트 입지 다져]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000873598</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049786"/>
         <updated>2023-03-15T10:06:09.827Z</updated>
         <content type="html"><![CDATA[확장성 보여주려 대본 네편 후다닥 써 이 작가는 10년 전 방송(전교 1등과 꼴찌가 주인공인 다큐멘터리)이라도 유튜브 알고리즘에 의해 언제든 다시 인기를 끌 수 있는 ‘역주행’ 현상을 소재로 삼는 등 바로 지금 우리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘그 해 우리는’ 이나은 작가 [22 WRITERS⑭]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049785</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049785"/>
-        <updated>2023-03-15T10:06:09.827Z</updated>
-        <content type="html"><![CDATA[많은 자본이 투입되는 드라마 시장에서 작가와 연출자의 ‘이름값’은 중요하다. OTT가 일으킨 변화 가운데 하나는 이름값보다 본질적인 ‘이야기의 힘’에 주목하는 이가 늘었다는 것. 드라마 방영 전부터 배우 최우식(최웅]]></content>
     </entry>
 </feed>
