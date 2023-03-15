@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-03-15T20:06:32.530Z</updated>
+    <updated>2023-03-15T21:06:29.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["연진아, 중국이 또 훔쳐 본대"…'더 글로리', 불법유출에 또 몸살]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003262740</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003262740"/>
+        <updated>2023-03-15T21:05:36.851Z</updated>
+        <content type="html"><![CDATA[한국을 넘어 전세계적으로 흥행하고 있는 넷플릭스 드라마 ‘더 글로리’를 수십만 명의 중국인이 훔쳐보고 있다는 문제가 제기됐다. 앞서 ‘재벌집 막내아들’ ‘이상한 변호사 우영우’ 등 최근 방영돼 인기를 끈 다른 드라마]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['마루이 비디오'·'팔로우드'…극장가, '페이크 다큐' 주목 [TF프리즘]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000206085</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049788"/>
         <updated>2023-03-15T10:06:09.825Z</updated>
         <content type="html"><![CDATA[이 작가에게 스토리를 만드는 행위는 자연스레 “어디선가 누군가 겪고 있는 이야기를 수집해 나만의 언어로 들려주는 것”을 의미한다. “저는 세상에 없던 걸 만들어내는 개발자가 아니라, 이미 구전으로나 경험으로 존재하는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] ‘그 해 우리는’ 이나은 작가가 대본을 쓰다가 막히면 참고한다는 선배 작가의 드라마 대본집은?]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049787</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049787"/>
-        <updated>2023-03-15T10:06:09.825Z</updated>
-        <content type="html"><![CDATA[이 작가는 &lt;그사세&gt; 대본집에서 신(scene)을 나누고 번호를 붙이는 법, 내레이션 기호([N]) 등 대본집 용어를 습득했다. 회당 20~30분짜리 드라마의 “호흡이 궁금해서” 넷플릭스 오리지널 &lt;빌어먹을 세상 따]]></content>
     </entry>
 </feed>
