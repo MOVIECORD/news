@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-03-15T19:07:33.154Z</updated>
+    <updated>2023-03-15T20:06:32.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마루이 비디오'·'팔로우드'…극장가, '페이크 다큐' 주목 [TF프리즘]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000206085</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000206085"/>
+        <updated>2023-03-15T20:05:40.571Z</updated>
+        <content type="html"><![CDATA[허구를 실제처럼 가공, 직접 경험하는 듯한 느낌 전달 허구의 상황을 실제 현실처럼 구현해낸 페이크 다큐멘터리 영화가 속속 스크린에 걸리며 공포 영화 마니아들의 발길을 극장가로 이끌고 있다. 먼저 지난달 22일 개봉한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[조재휘의 시네필] 272㎏ 육신은 영혼의 감옥이었다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000035636</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049787"/>
         <updated>2023-03-15T10:06:09.825Z</updated>
         <content type="html"><![CDATA[이 작가는 &lt;그사세&gt; 대본집에서 신(scene)을 나누고 번호를 붙이는 법, 내레이션 기호([N]) 등 대본집 용어를 습득했다. 회당 20~30분짜리 드라마의 “호흡이 궁금해서” 넷플릭스 오리지널 &lt;빌어먹을 세상 따]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 이나은 작가가 웹드라마 ‘전지적 짝사랑 시점’ 부터 ‘그 해 우리는’까지 집필하게 된 과정]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049786</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049786"/>
-        <updated>2023-03-15T10:06:09.827Z</updated>
-        <content type="html"><![CDATA[확장성 보여주려 대본 네편 후다닥 써 이 작가는 10년 전 방송(전교 1등과 꼴찌가 주인공인 다큐멘터리)이라도 유튜브 알고리즘에 의해 언제든 다시 인기를 끌 수 있는 ‘역주행’ 현상을 소재로 삼는 등 바로 지금 우리]]></content>
     </entry>
 </feed>
