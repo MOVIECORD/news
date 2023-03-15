@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-03-15T11:06:30.825Z</updated>
+    <updated>2023-03-15T12:15:32.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독]'상업영화 데뷔' 박성광, 박명수 만난다..'라디오쇼' 출격]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003136530</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003136530"/>
+        <updated>2023-03-15T12:14:44.109Z</updated>
+        <content type="html"><![CDATA[상업 영화 감독으로 데뷔한 개그맨 박성광이 '박명수의 라디오쇼'에 출격한다. 15일 스타뉴스 취재 결과, 박성광은 오는 20일 방송되는 KBS 쿨FM '박명수의 라디오쇼'에 게스트로 출연한다. 박성광은 오는 22일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亞최초 女주연상 양자경 '에에올', 오스카 7관왕 이후 예매량 560% 증가→역주행 흥행]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0003982714</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049782"/>
         <updated>2023-03-15T10:06:09.843Z</updated>
         <content type="html"><![CDATA[- 데뷔 이래 늘 2~3년 주기로 신작을 발표했는데 신작 &lt;별들에게 물어봐&gt;는 그보다 오랜 시간이 걸렸습니다. = 네, 후반작업을 공들여 마치고 2024년에 공개될 것 같은데 그렇게 되면 &lt;기름진 멜로&gt; 이후 7년]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멀티플렉스 3사, 한국영화 지원 나선다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013816836</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013816836"/>
-        <updated>2023-03-15T10:06:09.844Z</updated>
-        <content type="html"><![CDATA[리바운드·킬링로맨스·드림 등 3편에 개봉지원금 지급 CGV·롯데시네마·메가박스중앙 등 멀티플렉스 3사가 한국영화산업 활성화를 위해 국내 작품 지원에 나선다. 15일 한국영화관산업협회에 따르면, 멀티플렉스 3사는 내달]]></content>
     </entry>
 </feed>
