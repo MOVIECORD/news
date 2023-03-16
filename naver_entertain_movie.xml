@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-03-16T12:11:41.573Z</updated>
+    <updated>2023-03-16T13:19:19.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메가박스, ‘2023 시네 도슨트’ 서울-대전 확대 오픈]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000873923</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000873923"/>
+        <updated>2023-03-16T13:18:37.038Z</updated>
+        <content type="html"><![CDATA[극장을 넘어 공간 플랫폼을 지향하는 메가박스(대표 홍정인)가 메가박스의 클래식 소사이어티 렉처 프로그램 ‘2023 시네 도슨트’를 진행한다고 16일 밝혔다. ‘시네 도슨트’는 세계 곳곳의 유명 미술관들의 작품과 예술]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["내 생각 맞았다"…'웅남이' 박성광, 선입견 넘고 40억 첫 상업작 완성(종합)[인터뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004809022</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000958350"/>
         <updated>2023-03-16T10:08:53.969Z</updated>
         <content type="html"><![CDATA[사회적협동조합 모두는 원주아카데미극장에서 촬영된 영화 '유령극'이 제24회 전주국제영화제 단편 경쟁에 선정됐다고 16일 밝혔다. 김현정 감독의 신작 유령극은 할아버지와 손자가 극장에 영화를 보러 오면서 일어나는 이야]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한일 정상회담] OTT 올라탄 욘사마 나올까…문화교류도 '훈풍' 전망]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013819596</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013819596"/>
-        <updated>2023-03-16T09:10:12.879Z</updated>
-        <content type="html"><![CDATA[보아 잇는 K팝 차세대 스타들…'슬램덩크' 등 일본 애니 인기 지속 '커넥트'·'브로커' 등 일본감독-한국배우 협업작…"일본 IP 활용도 가능" 양정우 강애란 안정훈 기자 = 16일 한일 정상회담을 계기로 민간 교류]]></content>
     </entry>
 </feed>
