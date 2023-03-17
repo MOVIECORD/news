@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-03-17T19:05:50.021Z</updated>
+    <updated>2023-03-17T21:06:07.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주말의 OTT]보스턴 살인마, 그는 누구인가]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011749502</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011749502"/>
+        <updated>2023-03-17T21:05:11.975Z</updated>
+        <content type="html"><![CDATA[3월 3주차 디즈니+·넷플릭스·티빙 신작을 정리했다. 보스턴 교살자(디즈니+) 디즈니+ 오리지널 영화 '보스턴 교살자'는 미국 역사상 가장 악명 높은 범죄를 일으킨 이른바 '보스턴 교살자'를 최초 보도한 두 저널리스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스페인 버전 '더 글로리'...리벤지 스릴러 '피기', 4월 26일 개봉]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001248475</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005103210"/>
         <updated>2023-03-17T09:06:17.739Z</updated>
         <content type="html"><![CDATA[소중한 일상, 기억해야할 ‘희생’ 바싹 움츠린 그 모습 잊혀지질 않아.. 일본 애니메이션 영화 ‘스즈메의 문단속’이 올해 개봉작 중 최단기간 100만 관객 동원에 성공하며 박스오피스를 점령했다. ‘스즈메의 문단속’은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['만달로리안 3' 정이삭 "윤여정, '스타워즈'로 초대하고 싶다"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003748710</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003748710"/>
-        <updated>2023-03-17T09:06:17.740Z</updated>
-        <content type="html"><![CDATA[핵심요약 오스카 여우조연상 배출한 '미나리' 정이삭 감독, '만달로리안 3' 연출 맡아 '스타워즈' 시리즈 '만달로리안 3'로 돌아온 '미나리' 정이삭 감독이 함께 작업했던 배우 윤여정을 은하계로 초대하고 싶다는 소]]></content>
     </entry>
 </feed>
