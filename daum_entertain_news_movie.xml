@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-17T11:04:23.020Z</updated>
+    <updated>2023-03-17T12:12:16.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["부끄러운 마음 컸다... '다음 소희' 지켜주신 분들께 감사"]]></title>
+        <id>https://v.daum.net/v/20230317203602381</id>
+        <link href="https://v.daum.net/v/20230317203602381"/>
+        <updated>2023-03-17T12:12:15.389Z</updated>
+        <content type="html"><![CDATA[[이선필 기자] ▲ &nbsp;영화 &lt;다음소희&gt;를 연출한 정주리 감독.ⓒ (주)트윈플러스파트너스한국에서 발생한 비극적인 사건을 다룬 영화에 프랑스가 먼저 반응했다. 영화 &lt;다음 소희&gt;의 월드 프리미어 상영이 있었던 제75회 칸영화제 비평가주간에선 특히나 청년층 관객의 반응이 뜨거웠다. 한 관객은 상영 직후 감독을 붙잡고 "우리 세대 이야기를 해주어 감사하다"는 말을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘샤잠2’에 #### 카메오 등장…마케팅 도박 성공할까?]]></title>
         <id>https://v.daum.net/v/20230317184330788</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230317161219420"/>
         <updated>2023-03-17T09:07:00.774Z</updated>
         <content type="html"><![CDATA[[OSEN=하수정 기자] '스즈메의 문단속'이 개봉 이후 10일 연속 흥행 1위를 지키고 있는&nbsp;가운데, '슬램덩크'의 기록을 따라가고 있다. 17일 영화진흥위원회 영화관입장권통합전산망 집계에 따르면, '스즈메의 문단속'는 지난 16일 하루 1,227개 스크린에서 5만 7,794을 동원해 누적관객수 123만 8,679명을 기록, 박스오피스 1를 유지했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘더 글로리’ 임지연 “송혜교의 대단함 느껴”]]></title>
-        <id>https://v.daum.net/v/20230317161203414</id>
-        <link href="https://v.daum.net/v/20230317161203414"/>
-        <updated>2023-03-17T09:07:00.775Z</updated>
-        <content type="html"><![CDATA[“와, 송혜교 언니요? 원래도 찐 팬이었지만 함께 연기하면서 정말 사랑하게 됐어요. 그 묵직함, 내공, 아우라, 배려심...선배의 대단함을 절실히 느꼈죠.” (인터뷰①에 이어)배우 임지연이 송혜교에 대한 강한 신뢰와 존경심을 드러냈다. 임지연은 넷플릭스 시리즈 ‘더 글로리’(극본 김은숙, 연출 안길호)에서 학창 시절 문동은(송혜교 분)에게 지옥을 선사했던]]></content>
     </entry>
 </feed>
