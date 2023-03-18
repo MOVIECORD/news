@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 20:03:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 21:03:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["전국노래자랑~" 이찬원, 오늘은 초대가수로 (강원도 철원군 편)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=254245</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=254245</guid>
+            <pubDate>Sat, 18 Mar 2023 21:02:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=254245">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230317080941_4a08e643c4c34c22f15e93cbb2a337f0.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=254245">"전국노래자랑~" 이찬원, 오늘은 초대가수로 (강원도 철원군 편)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A0%84%EA%B5%AD%EB%85%B8%EB%9E%98%EC%9E%90%EB%9E%91">전국노래자랑</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230317080941_4a08e643c4c34c22f15e93cbb2a337f0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[살림하는 남자들 2] 재혼 이후 악플에 힘들어하는 이다은·· 윤남기 “탈퇴해”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=254486</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%20%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상 출시 편스토랑</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230317233741_59480e17980e0541c2efcf6bfb9e9797_1.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[[신상출시 편스토랑] 워킹맘 차예련의 따라 하기 쉽지만 있.어.보.이.는. 효녀 레시피!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=254320</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=254320</guid>
-            <pubDate>Fri, 17 Mar 2023 15:04:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=254320">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230317232811_56df8d4140e28bf81acbe1049e87b712_1.PNG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=254320">[신상출시 편스토랑] 워킹맘 차예련의 따라 하기 쉽지만 있.어.보.이.는. 효녀 레시피! </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%20%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상 출시 편스토랑</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230317232811_56df8d4140e28bf81acbe1049e87b712_1.PNG" length="0" type="image/PNG"/>
         </item>
     </channel>
 </rss>
