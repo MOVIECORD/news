@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-03-17T22:06:53.492Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 18 Mar 2023 00:34:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['에에올' 아카데미 7관왕 예매량 800% 폭증..역주행 이변]]></title>
+            <link>https://v.daum.net/v/20230318091029369</link>
+            <guid>https://v.daum.net/v/20230318091029369</guid>
+            <pubDate>Sat, 18 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=하수정 기자] 이 시대의 새로운 시네마 파라다이스이자 전 세계를 사로잡은 탁월한 걸작 '에브리씽 에브리웨어 올 앳 원스+'(감독 다니엘 콴·다니엘 쉐이너트, 수입 (주)더쿱디스트리뷰션, 배급 워터홀컴퍼니(주))가 제95회 아카데미 시상식 작품상을 비롯한 주요 부문 수상 이후 박스오피스 기록을 역주행하며 화제의 중심에 당당히 섰다. 전 세계 최]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F18%2Fpoctan%2F20230318091029962zkci.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[IS리뷰] ‘웅남이’ B급 코미디에 스치는 개콘의 향기]]></title>
+            <link>https://v.daum.net/v/20230318090003201</link>
+            <guid>https://v.daum.net/v/20230318090003201</guid>
+            <pubDate>Sat, 18 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[생각 없이 웃으며 볼 수 있는 영화가 나왔다. 개그맨 박성광 감독의 첫 장편 영화 ‘웅남이’다. 하지만 ‘폭소’는 기대하지 말자. ‘웅남이’는 인간을 초월하는 짐승 같은 능력으로 국제 범죄 조직에 맞서는 웅남이의 좌충우돌 코미디 영화다. 산에 풀어둔 쌍둥이 곰 형제는 마늘과 쑥을 먹고 사람이 된다. 두 형제 중 웅남이는 나복천 박사가, 웅북이는 사냥을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F18%2Filgansports%2F20230318090007651panf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[양자경, 亞 최초 오스카 여우주연상 기쁨 外 [위클리 무비]]]></title>
+            <link>https://v.daum.net/v/20230318090000197</link>
+            <guid>https://v.daum.net/v/20230318090000197</guid>
+            <pubDate>Sat, 18 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김미화 기자] 양자경 /사진=/AFPBBNews=뉴스1=스타뉴스 한 주 간의 영화계 소식 [김미화 스타뉴스 기자] ○... 양자경이 동양인 최초로 오스카 여우주연상 트로피를 거머쥐었다. 양자경은 지난 12일 (현지시각) 오후 미국 LA 할리우드 돌비극장에서 열린 제 95회 아카데미 시상식에서 여우 주연상을 거머쥐었다. 이날 양자경은 '타르' 케]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F18%2Fstarnews%2F20230318090002647mkjj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘이니셰린의 밴시’, 예기치않은 관계의 파국과 인간미의 여운[MD칼럼]]]></title>
+            <link>https://v.daum.net/v/20230318084908130</link>
+            <guid>https://v.daum.net/v/20230318084908130</guid>
+            <pubDate>Fri, 17 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[곽명동의 씨네톡] 1923년 4월, 아일랜드의 외딴 섬마을 이니셰린. 본토에선 내전이 한창 진행중인 가운데 주민 모두가 인정하는 절친 파우릭(콜린 파렐)과 콜름(브렌단 글리슨)은 하루도 빠짐없이 함께 술을 마시며 수다를 떨 정도로 다정하고 돈독한 사이다. 어느날, 콜름은 파우릭에게 절교를 선언한다. “더 이상 너를 보기 싫어졌어.” 스스로 다정하고 인간]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F18%2Fmydaily%2F20230318084908986lkif.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[스티븐 스필버그, 영화 그 자체가 되다…'파벨만스']]></title>
+            <link>https://v.daum.net/v/20230318083008988</link>
+            <guid>https://v.daum.net/v/20230318083008988</guid>
+            <pubDate>Fri, 17 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 김정진 기자 = '죠스', 'E.T.', '인디아나 존스' 시리즈, '쥬라기 공원', '쉰들러 리스트', '라이언 일병 구하기', '마이너리티 리포트'…. 수많은 흥행작을 만들어낸 할리우드 대표 거장, 스티븐 스필버그 감독의 자전적 이야기가 담긴 영화가 극장을 찾는다. '파벨만스'는 영화와 사랑에 빠진 한 소년의 이야기를 그린다. 유대인]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F18%2Fyonhap%2F20230318083008857rgeb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['꼭두의 계절' 김정현 가슴에 박힌 임수향 머리꽂이 '사랑 위해 운명 항복' [종합]]]></title>
+            <link>https://v.daum.net/v/20230318082439957</link>
+            <guid>https://v.daum.net/v/20230318082439957</guid>
+            <pubDate>Fri, 17 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김현정 기자) '꼭두의 계절' 김정현이 임수향을 위해 영원한 이별을 고했다. 17일 방송한 MBC 금토드라마 ‘꼭두의 계절’에서는 꼭두(김정현 분)가 한계절(임수향)로부터 영영 사라지고자 죽음으로 저승의 문을 두드린 한편, 이별의 틈에서 평화로운 한 때를 그린 순간은 애틋한 감정을 선사했다. 운명처럼 만난 머리꽂이로 설희(임수향)의 시간을 모]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F18%2Fxportsnews%2F20230318082441623mzuk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[스한:BOX] '스즈메의 문단속' 10일째 정상…'더 퍼스트 슬램덩크' 2위로]]></title>
+            <link>https://v.daum.net/v/20230318082024933</link>
+            <guid>https://v.daum.net/v/20230318082024933</guid>
+            <pubDate>Fri, 17 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 조은애 기자] '스즈메의 문단속'이 10일 연속 극장가 선두를 달리고 있다. 18일 영진위 통합전산망 집계에 따르면 '스즈메의 문단속'은 전날&nbsp;10만1727명의 관객을 동원해 박스오피스 1위를 차지했다. 누적 관객 수는&nbsp;134만406명이다. '스즈메의 문단속'은 우연히 재난을 부르는 문을 열게 된 소녀 스즈메가 일본 각지에서 발생하는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F18%2FSpoHankook%2F20230318082027027ueuz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['모범택시2' 이제훈, 악질 사이비 잡는 '무당도기' 등판 폭소 [종합]]]></title>
+            <link>https://v.daum.net/v/20230318081621902</link>
+            <guid>https://v.daum.net/v/20230318081621902</guid>
+            <pubDate>Fri, 17 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김현정 기자) ‘모범택시2' 이제훈이 악질 사이비를 응징하기 위해 '무지개 팀'의 신통한 능력을 총 동원하는 한편, 새로운 부캐 '무당도기'를 출격시켰다. 17일 오후 10시에 방송한 SBS 금토드라마 ‘모범택시2’에서는 김도기(이제훈 분)과 '무지개 모범택시' 팀이 사이비 종교단체에 빠진 언니 이진선(정지우)을 되찾고자 하는 동생 이진희(김]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F18%2Fxportsnews%2F20230318081622968hasa.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[임영웅 '아임 히어로 더 파이널', 20만 관객 돌파…"'자막 싱어롱 상영회' 확정" [공식]]]></title>
+            <link>https://v.daum.net/v/20230318080817830</link>
+            <guid>https://v.daum.net/v/20230318080817830</guid>
+            <pubDate>Fri, 17 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] 가수 임영웅의 전국 투어 앙코르 공연 '아임 히어로'(IM HERO)를 담은 영화 '아임 히어로 더 파이널'이 압도적인 화력으로 20만 관객을 돌파했다. 18일 영진위 영화관입장권 통합전산망 집계에 따르면 17일 '아임 히어로 더 파이널'은 2,482명의 관객을 동원했다. 누적 관객 수는 20만 2,174명. 앞서 지난달 1]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F18%2Fmydaily%2F20230318080817597zqca.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['슬덩'→'스즈메의 문단속', 日 애니메이션 왜 뜨거울까 [N초점]]]></title>
+            <link>https://v.daum.net/v/20230318080019712</link>
+            <guid>https://v.daum.net/v/20230318080019712</guid>
+            <pubDate>Fri, 17 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 연초부터 시작된 일본 애니메이션의 인기가 3월에도 지속되고 있다. 3월 박스오피스에서는 일본 애니메이션 두 편의 쌍끌이가 돋보인다. '스즈메의 문단속'과 '더 퍼스트 슬램덩크'다. 지난 8일 개봉한 '스즈메의 문단속'은 9일째 박스오피스 1위(이하 영화진흥위원회 영화관 입장권 통합 전산망 16일 기준)를 자리를 지키고]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F18%2FNEWS1%2F20230318080020798qqda.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 영화계 침체에 한국으로 발길 돌리는 일본 감독들]]></title>
+            <link>https://v.daum.net/v/20230318080011701</link>
+            <guid>https://v.daum.net/v/20230318080011701</guid>
+            <pubDate>Fri, 17 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 김정진 기자 = 최근 한일 정상회담을 계기로 양국 간 문화적 교류 또한 확대될 것으로 예상되는 가운데 영화계에서는 단순한 교류를 넘어선 '협업' 사례가 이어지고 있다. 특히 국내에도 익히 알려진 고레에다 히로카즈, 미이케 다카시, 사부, 유키사다 이사오 등 유명 일본 감독들의 한국 진출이 활발해지는 모양새다. 전문가들은 이 같은 흐름에 대]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F18%2Fyonhap%2F20230318080011694tbpd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['8년째 불륜' 홍상수♥김민희, 4월 12일 韓관객들 만난다…"'물안에서' 개봉 확정" [공식]]]></title>
+            <link>https://v.daum.net/v/20230318075543649</link>
+            <guid>https://v.daum.net/v/20230318075543649</guid>
+            <pubDate>Fri, 17 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 김나라 기자] '불륜 커플' 홍상수 감독과 배우 김민희가 12번째 협업작 '물안에서'를 오는 4월 12일 한국 관객들에게 선보인다. '물안에서'는 다음 달 12일 개봉 확정 소식과 함께 포스터와 예고편을 공개했다. '물안에서'는 2022년 4월에 제주도에서 6회차, 10일간 촬영되었다. 홍상수 감독과 김민희가 벌써 12번째 함께하는 작품으]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F18%2Fmydaily%2F20230318075543345riyj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
