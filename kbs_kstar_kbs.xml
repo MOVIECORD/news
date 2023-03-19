@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 16:06:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Mar 2023 20:04:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KBS2 '진짜가 나타났다!' 백진희-안재현, '계약 로맨스가 시작된다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=254181</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=254181</guid>
+            <pubDate>Sun, 19 Mar 2023 20:03:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=254181">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230316160155_b290d7379744d9bddd11db97fddf845c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=254181"> KBS2 '진짜가 나타났다!' 백진희-안재현, '계약 로맨스가 시작된다"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EC%A7%9C%EA%B0%80%20%EB%82%98%ED%83%80%EB%82%AC%EB%8B%A4">주말드라마 진짜가 나타났다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230316160155_b290d7379744d9bddd11db97fddf845c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[삼남매가 용감하게] 이하나&임주환, 김소은&김승수 결혼...이유진&왕빛나 2세 탄생 ‘완벽 해피엔딩’]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=254622</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%B4%EB%A6%BC%ED%95%98%EB%8A%94%20%EB%82%A8%EC%9E%90%EB%93%A4">살림하는 남자들</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230319005105_93ef909f74876ba1525ca5faa926d3e3_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[살림하는 남자들 2] ‘지금까지 이런 살림남은 없었다’·· 아내 이다은보다 윤남기 & 딸 리은이 더 애틋한 이유]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=254482</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=254482</guid>
-            <pubDate>Sat, 18 Mar 2023 20:02:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=254482">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230319004518_4086172dd48aaa021d31bac5d581f1d2_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=254482">[살림하는 남자들 2] ‘지금까지 이런 살림남은 없었다’·· 아내 이다은보다 윤남기 &amp; 딸 리은이 더 애틋한 이유</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%B4%EB%A6%BC%ED%95%98%EB%8A%94%20%EB%82%A8%EC%9E%90%EB%93%A4">살림하는 남자들</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230319004518_4086172dd48aaa021d31bac5d581f1d2_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
