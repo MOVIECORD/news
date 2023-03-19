@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-03-19T10:05:01.645Z</updated>
+    <updated>2023-03-19T11:04:14.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신혜선·이준영 '용감한 시민' 예고편 유출…웨이브 "강력 대응" [공식]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006692966</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006692966"/>
+        <updated>2023-03-19T11:03:26.783Z</updated>
+        <content type="html"><![CDATA[웨이브 측이 영화 '용감한 시민'(감독 박진표)의 예고편이 유출된 것과 관련해 입장을 밝혔다. 웨이브 측 관계자는 19일 오후 뉴스1에 "본 예고편은 사전 신청자들에 한해 참석 가능한 B2B 마켓에서 유출된 영상"이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독]신혜선·이준영 '용감한 시민' 예고편 유출..빠르게 확산 중]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003137344</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005445225"/>
         <updated>2023-03-19T02:17:33.857Z</updated>
         <content type="html"><![CDATA[영화 ‘스즈메의 문단속’이 11일 연속 박스오피스 1위를 차지하며 흥행 독주를 이어가고 있다. 19일 영화진흥위원회 영화관입장권 통합전산망에 따르면 ‘스즈메의 문단속’은 전날 31만 4494명의 관객을 동원하며 11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스즈메의 문단속' 200만 동원 거뜬…'슬램덩크' 넘고 1위 탈환할까[Oh!쎈 이슈]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004810584</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004810584"/>
-        <updated>2023-03-19T02:17:33.858Z</updated>
-        <content type="html"><![CDATA[영화 ‘스즈메의 문단속’이 오늘 200만 관객을 동원할 수 있을지 관심이 모인다. 그러나 일요일에는 토요일보다 관객수가 비교적 적게 들기 때문에 내일(월)까지 시간이 더 필요할 전망이다. 19일 영화진흥위원회 영화관]]></content>
     </entry>
 </feed>
