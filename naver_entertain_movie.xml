@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-03-20T15:04:27.003Z</updated>
+    <updated>2023-03-20T16:13:27.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘스즈메의 문단속’ 200만 관객 돌파... ‘더 퍼스트 슬램덩크’ 이어 두 번째]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001248702</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001248702"/>
+        <updated>2023-03-20T16:12:37.780Z</updated>
+        <content type="html"><![CDATA[일본 애니메이션 ‘스즈메의 문단속’이 200만 관객을 달성했다. 20일 영화관입장권 통합전산망에 따르면 ‘스즈메의 문단속’은 오후 6시 30분 기준 누적 관객 수 200만 132명을 기록했다. 2023년 개봉작 중]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3월 극장가, 각양각색 감독 신작 총출동 [TF프리즘]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000206886</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003620696"/>
         <updated>2023-03-20T10:06:37.335Z</updated>
         <content type="html"><![CDATA['더 웨일'이 4만 관객을 돌파했다. 영화 '더 웨일'이 지난 18일 4만 고지를 넘어섰다. '더 웨일'은 272kg의 거구로 세상을 거부한 채 살아가는 대학 강사가 9년 만에 만난 10대 딸과 쓰는 마지막 에세이를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모모랜드 출신 태하, 영화 ‘사랑의 온도 82℃’ 출연]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000874546</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000874546"/>
-        <updated>2023-03-20T10:06:37.339Z</updated>
-        <content type="html"><![CDATA[모모랜드 출신 태하가 영화 ‘사랑의 온도 82℃’(제작사 부일컨텐츠)로 충무로에 데뷔를 한다고 20일 전했다. 배우 김명호와 호흡을 함께 하는 ‘사랑의 온도 82℃’는 시니어 세대 지고지순한 사랑과 MZ세대의 비즈니]]></content>
     </entry>
 </feed>
