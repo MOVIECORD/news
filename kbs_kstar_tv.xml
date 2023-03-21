@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 19:03:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 21:04:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JTBC '닥터슬럼프'  박형식-박신혜-윤박-공성하  "슬럼프가 뭐지? 로코"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=254086</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=254086</guid>
+            <pubDate>Tue, 21 Mar 2023 21:03:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=254086">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230316105402_bdd5e71d20d5293b8c2aa81cb1fcc609.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=254086">JTBC '닥터슬럼프'  박형식-박신혜-윤박-공성하  "슬럼프가 뭐지? 로코"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230316105402_bdd5e71d20d5293b8c2aa81cb1fcc609.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SBS ‘낭만닥터 김사부3’, 낭만의사 한석규가 돌아왔다]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=254419</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=253367">tvN ‘놀라운 토요일’ 트와이스 지효-정연-다현 "깜짝 받아쓰기"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230311124314_e9ba12df1d15b42427a553f9f1912ba2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤박, tvN 새 월화드라마 ‘이로운 사기’ 캐스팅]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=253165</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=253165</guid>
-            <pubDate>Thu, 09 Mar 2023 23:04:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=253165">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230310074517_794a3315b39982429bc8e78cd4852d02.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=253165">윤박, tvN 새 월화드라마 ‘이로운 사기’ 캐스팅 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230310074517_794a3315b39982429bc8e78cd4852d02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
