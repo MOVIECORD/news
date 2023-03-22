@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-03-22T17:07:57.935Z</updated>
+    <updated>2023-03-22T18:13:37.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이원 기자의 Ent 프리즘] 학창시절·설화…일본 애니 ‘닮은꼴 정서’로 인기몰이]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000036230</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000036230"/>
+        <updated>2023-03-22T18:12:49.208Z</updated>
+        <content type="html"><![CDATA[1위 ‘스즈메의 문단속’, 2위 ‘더 퍼스트 슬램덩크’, 4위 ‘귀멸의 칼날: 상현집결, 그리고 도공 마을로’. 세 편의 일본 애니메이션 제목 때문에 일본 박스오피스 순위라고 생각할 수 있겠지만 이것은 지난 20일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['웅남이', 스크린에 걸린 신인 감독 박성광의 열정[TF씨네리뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000207352</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000602502"/>
         <updated>2023-03-22T11:06:29.382Z</updated>
         <content type="html"><![CDATA[배우 허성태가 22일 오후 서울 강남구 CGV청담씨네시티에서 열린 디즈니+의 오리지널 시리즈 &lt;카지노&gt; 시즌 2 ‘흥행 잭팟 시사회’ 무대인사에 참석하고 있다. 조준원 기자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TEN 포토] 이동휘 '카지노와 최민식 선배에게 감사해요']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000602500</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000602500"/>
-        <updated>2023-03-22T11:06:29.383Z</updated>
-        <content type="html"><![CDATA[배우 이동휘가 22일 오후 서울 강남구 CGV청담씨네시티에서 열린 디즈니+의 오리지널 시리즈 &lt;카지노&gt; 시즌 2 ‘흥행 잭팟 시사회’ 무대인사에 참석하고 있다. 조준원 기자]]></content>
     </entry>
 </feed>
