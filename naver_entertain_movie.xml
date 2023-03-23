@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-03-23T14:07:42.861Z</updated>
+    <updated>2023-03-23T15:05:30.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[새영화]아들을 잃고 난 후 세상 밖으로 나가 정의를 외친 어머니]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000959883</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000959883"/>
+        <updated>2023-03-23T15:04:44.321Z</updated>
+        <content type="html"><![CDATA[이번 주 극장에는 간이 쏙 빠지게 웃긴 영화와 눈물 쏙 빠지게 슬픈 영화가 찾아온다. 개그맨 박성광이 감독으로 선보이는 첫 영화 ‘웅남이’와 영화 A.I. 이후 20년 만에 스티븐 스필버그 감독이 각본에 참여한 자전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배우 박종환, 영화 ‘컨버세이션’·‘모범택시2’, 빌런 캐릭터 호연]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000875422</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011760252"/>
         <updated>2023-03-23T09:05:55.008Z</updated>
         <content type="html"><![CDATA[문예빈 인턴 기자 = 지브리 스튜디오 애니메이션 원작의 '귀를 기울이면'이 오는 4월 국내 개봉을 확정했다. 영화 '귀를 기울이면'은 1995년 공개된 지브리 스튜디오 애니메이션을 원작으로 리메이크된 영화다. 동화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["봄꽃 명소에서 영화 감상"…울산울주산악영화제 '봄극장' 진행]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013834026</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013834026"/>
-        <updated>2023-03-23T09:05:55.010Z</updated>
-        <content type="html"><![CDATA['움프의 봄극장' 포스터[울산울주세계산악영화제 제공. 재판매 및 DB 금지](울산=연합뉴스) 허광무 기자 = 울산울주세계산악영화제(UMFF)는 울산지역의 봄꽃 명소에서 영화를 상영하는 '움프의 봄극장'을 진행한다고 23일 밝혔다. 움프의 봄극장은 25일과 26일 울주군 작천정 수남벚꽃길, 31일과 4월 1일 남구 선암호수...]]></content>
     </entry>
 </feed>
