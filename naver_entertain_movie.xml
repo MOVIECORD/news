@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-03-24T17:05:49.614Z</updated>
+    <updated>2023-03-24T19:07:14.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 '라스트 필름 쇼', 인도판 '시네마 천국'으로 불리며 극찬 쏟아져]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001249212</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001249212"/>
+        <updated>2023-03-24T19:06:25.304Z</updated>
+        <content type="html"><![CDATA[희대의 명작 '시네마천국'의 뒤를 이을 영화 '라스트 필름 쇼'가 로튼토마토 신선도 지수 100%를 기록하고 93%를 유지하고 있다. 영화 '라스트 필름 쇼'는 자유로운 영혼을 가진 주인공 사메이가 극장에서 우연히]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['호텔 르완다' 실제 주인공 석방…테러연루 혐의 25년형 복역중]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013836863</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001572882"/>
         <updated>2023-03-24T09:07:14.648Z</updated>
         <content type="html"><![CDATA[이선균의 망가짐이 모두의 걱정을 야기했다. 24일 오전 11시 서울 광진구 롯데시네마 건대입구에서 영화 '킬링 로맨스'(감독 이원석) 제작보고회가 열렸다. 이 자리에는 이원석 감독과 배우 이하늬, 이선균, 배유람이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["스티븐 스필버그, 존 포드, 그리고 데이비드 린치!" 영화 '파벨만스'의 비밀]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000054382</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000054382"/>
-        <updated>2023-03-24T09:07:14.650Z</updated>
-        <content type="html"><![CDATA[세계적인 거장 스티븐 스필버그의 반(半) 자전적 영화 &lt;파벨만스&gt;가 영화매니아의 주목을 받고 있다. 스티븐 스필버그 감독에게 가장 큰 영향을 준 인물인 존 포드 감독(1894~1973)은 &lt;리버티 벨런스를 쏜 사나이]]></content>
     </entry>
 </feed>
