@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 12:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 13:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230316080219_a128adae12f1cf8d33130aa3212e8633.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[진짜가 나타났다] 인강계의 슈퍼루키 백진희! 두 마리 토끼를 잡는 꿈? 태몽? (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=255226</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=255226</guid>
+            <pubDate>Sat, 25 Mar 2023 13:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=255226">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230325220042_d838227b6ffe2cc1bb054b6b43c451c8_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=255226">[진짜가 나타났다] 인강계의 슈퍼루키 백진희! 두 마리 토끼를 잡는 꿈? 태몽? </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EC%A7%9C%EA%B0%80%20%EB%82%98%ED%83%80%EB%82%AC%EB%8B%A4">주말드라마 진짜가 나타났다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230325220042_d838227b6ffe2cc1bb054b6b43c451c8_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[불후의 명곡] 절친 김다현-전유진, ‘어리다고 얕보지 마’ 특집 공동 우승 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=255222</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=255222</guid>
@@ -1030,24 +1048,6 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230324201848_9cf34bdd866417cab4e32136284cc9ec.PNG" length="0" type="image/PNG"/>
         </item>
         <item>
-            <title><![CDATA[장희정, 주말드라마 ﻿‘삼남매가 용감하게’  종영소감 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=255005</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=255005</guid>
-            <pubDate>Fri, 24 Mar 2023 09:06:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=255005">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230324151828_ce0f1cab09bade7fa92966e0e8105394.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=255005">장희정, 주말드라마 ﻿‘삼남매가 용감하게’  종영소감</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%82%BC%EB%82%A8%EB%A7%A4%EA%B0%80%20%EC%9A%A9%EA%B0%90%ED%95%98%EA%B2%8C">주말드라마 삼남매가 용감하게</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230324151828_ce0f1cab09bade7fa92966e0e8105394.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[전종서 "'모나리자와 블러드 문', 큰 도전이었다" [일문일답] (MBC 연예 ─ 영화)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/376923</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/376923</guid>
@@ -1287,179 +1287,221 @@
             <content:encoded><![CDATA[일본 애니메이션 영화 열풍이 대단하다. 25일 기준 국내 박스오피스 10위권 내 3편이 일본 애니메이션 영화다. 1위는 ‘스즈메의 문단속’(감독 신카이 마코토)으로, 지난 20일 200만 관객을 돌파하며 신카이 마코]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우열 못 가렸나…김다현·전유진, 이례적 공동 우승 "말도 안 돼" (불후)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001573301</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001573301</guid>
-            <pubDate>Sat, 25 Mar 2023 12:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[가수 김다현·전유진이 최종 우승을 차지했다. 25일 방송된 KBS 2TV '불후의 명곡' 599회는 '어리다고 얕보지 마' 특집으로 꾸며졌다. 이번 특집에는 전유진, 오유진, 김다현, 김태연, 안율, 김유하 등 총]]></content:encoded>
+            <title><![CDATA['아는 형님' 윤성빈 "스켈레톤 경기 중 방귀…그날 1등 했다" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006706179</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006706179</guid>
+            <pubDate>Sat, 25 Mar 2023 13:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[윤성빈이 경기 중 발생한 돌발상황에 대해 얘기했다. 25일 방송된 JTBC '아는 형님'에는 이종 격투기 선수 추성훈과 스켈레톤 금메달리스트 윤성빈이 출연했다. 이상민은 스켈레톤을 타다가 방귀가 나오면 어떡하냐고 물]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['진짜가 나타났다' 백진희, 안재현 차에 빨간 매직으로 '바람둥이' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006706156</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006706156</guid>
-            <pubDate>Sat, 25 Mar 2023 12:11:06 GMT</pubDate>
-            <content:encoded><![CDATA['진짜가 나타났다' 백진희와 안재현이 악연으로 얽혔다. 25일 방송된 KBS 2TV 주말드라마 '진짜가 나타났다'(극본 조정주/연출 한준서)에서는 오연두(백진희 분)가 착오로 공태경(안재현 분)의 차에 낙서를 했다.]]></content:encoded>
+            <title><![CDATA[현진영 “20년전 아내가 정신병원 보내, 공황장애→인성 인격장애”(살림남2) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000705013</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000705013</guid>
+            <pubDate>Sat, 25 Mar 2023 13:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[현진영이 과거 아내 때문에 정신병원에 갔던 사연을 공개했다. 3월 25일 방송된 KBS 2TV ‘살림하는 남자들 시즌2’에서는 현진영, 오서운 부부가 등장했다. 현진영 아내 오서운은 더러운 현진영의 작업실에 한숨을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[백진희, 안재현 차에 ‘바람둥이 타고 있어요’ 낙서...악연 시작 (진짜가 나타났다!) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000875786</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000875786</guid>
-            <pubDate>Sat, 25 Mar 2023 12:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[‘진짜가 나타났다!’ 안재현이 오해를 받았다. 25일 오후 첫 방송된 KBS2 주말드라마 ‘진짜가 나타났다!’에서는 안재현 차를 정의제 차라고 오해하고 바람둥이라 낙서 한 백진희의 모습이 전파를 탔다. 이날 바람을]]></content:encoded>
+            <title><![CDATA[추성훈, ♥야노 시호 수입 언급 "나보다 돈 잘 벌어"[아는형님] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003139133</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003139133</guid>
+            <pubDate>Sat, 25 Mar 2023 13:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[추성훈이 일본인 아내 야노 시호의 수입을 우회적으로 언급했다. 25일 오후 방송된 JTBC 예능 프로그램 '아는 형님'에는 넷플릭스 오리지널 예능 '피지컬: 100' 출연으로 화제를 모은 추성훈, 윤성빈이 게스트로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[경맑음♥정성호, 이 애교에 다섯을 낳았나…중학생 딸 볼뽀뽀에 "아빠 쓰러진다" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000603007</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000603007</guid>
-            <pubDate>Sat, 25 Mar 2023 12:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[개그맨 정성호 아내 경맑음이 딸의 애교 모습을 공개했다. 경맑음은 25일 "이런 사진 귀합니다♥ 요즘, 중학생 호르몬이 Smile 인가봅니다"라고 적었다. 함께 공개한 사진 속에는 정성호가 중학생 딸에게 볼 뽀뽀를]]></content:encoded>
+            <title><![CDATA['살림남2' 현진영 "20년 전 아내가 정신병원 보내..인성 인격장애 진단" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003139132</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003139132</guid>
+            <pubDate>Sat, 25 Mar 2023 13:10:40 GMT</pubDate>
+            <content:encoded><![CDATA['살림남2' 가수 현진영이 인성 인격장애를 진단 받았다고 털어놨다. 25일 방송된 KBS 2TV '살림하는 남자들 시즌2'에서 대한민국 1세대 힙합 뮤지션인 음악 프로듀서 현진영과 그의 아내 오서운이 새로운 살림남]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[안재현, 프러포즈 한 여친과 이별 “난 예외 없는 비혼 주의자” (진짜가 나타났다!) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000875785</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000875785</guid>
-            <pubDate>Sat, 25 Mar 2023 12:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[‘진짜가 나타났다!’ 안재현이 결혼을 요구하는 여자 친구와 헤어졌다. 25일 오후 첫 방송된 KBS2 주말드라마 ‘진짜가 나타났다!’에서는 프러포즈하는 여자 친구에게 이별을 선언하는 안재현의 모습이 전파를 탔다. 이]]></content:encoded>
+            <title><![CDATA[현진영, 널찍 거실+침실 인천 집 공개‥쓰레기 쌓인 작업실 깜짝(살림남2) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000705011</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000705011</guid>
+            <pubDate>Sat, 25 Mar 2023 13:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[현진영이 최근 이사한 집을 공개했다. 3월 25일 방송된 KBS 2TV ‘살림하는 남자들 시즌2’에서는 현진영, 오서운 부부가 출연했다. 이날 방송에는 인천 검단 신도시에 거주 중인 현진영의 집이 공개 됐다. 하얀색]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이효리 "오늘 새벽부터 모여서 촬영"…'댄스가수유랑단' 본격 시작 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006706155</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006706155</guid>
-            <pubDate>Sat, 25 Mar 2023 12:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[가수 김완선, 엄정화, 이효리, 보아, 화사가 본격적인 시작을 알렸다. '댄스가수 유랑단'은 25일 오후 8시 유튜브 TEO 채널을 통해 라이브 방송을 진행했다. 방송인 홍현희는 진행을 맡았다. 이날 이효리는 "지금]]></content:encoded>
+            <title><![CDATA[‘판도라’ 장희진, 사망한 한수연 불륜 알았다...박기웅 범죄 의심 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000875789</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000875789</guid>
+            <pubDate>Sat, 25 Mar 2023 13:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[‘판도라 : 조작된 낙원’ 장희진이 한수연-박기웅 관계를 알았다. 25일 오후 방송된 tvN 주말드라마 ‘판도라 : 조작된 낙원’에서는 한수연-박기웅 불륜을 알게 된 장희진의 모습이 전파를 탔다. 이날 천둥치는 저녁]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[넉살, 子 이름 최초 공개…김동현 주니어와 돌려막기 의혹도 (놀토) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001573298</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001573298</guid>
-            <pubDate>Sat, 25 Mar 2023 12:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[래퍼 넉살 아들의 이름이 최초로 공개됐다. 25일 방송된 tvN 예능 '놀라운 토요일'에는 코드쿤스트와 그룹 엑소 카이가 게스트로 출연했다. 이날 MC 붐이 넉살에게 "아이는 잘 크고 있냐"고 물었고, 샤이니 키 역]]></content:encoded>
+            <title><![CDATA['피지컬:100' 출연료 논란?…윤성빈 "없었다"vs추성훈 "받았다" (아형)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001573305</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001573305</guid>
+            <pubDate>Sat, 25 Mar 2023 13:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[추성훈, 윤성빈이 '피지컬:100' 출연료와 관련해 상반된 반응을 보였다. 25일 방송된 JTBC ‘아는 형님’에는 넷플릭스 '피지컬:100'으로 모은 추성훈, 윤성빈이 출연해 다양한 이야기를 나눴다. 이날 '피지컬]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["까불지 마라" 현주엽, 도발하는 김경진에 엄포 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011763324</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011763324</guid>
-            <pubDate>Sat, 25 Mar 2023 12:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[이경규·배성재·이만기·김기태의 생생한 경기 중계와 함께, 종목의 명예를 건 7개 팀의 '모래판 전쟁'이 펼쳐진다. 25일 오후 9시 방송되는 '천하제일장사2' 첫 회에서는 농구팀 '뉴페이스'이자 '대장'으로 새롭게]]></content:encoded>
+            <title><![CDATA[[HI★첫방] '진짜가 나타났다!' 아쉬운 1화, 백진희·안재현 연기력 논란 지울까 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=469&amp;aid=0000730447</link>
+            <guid>https://entertain.naver.com/now/read?oid=469&amp;aid=0000730447</guid>
+            <pubDate>Sat, 25 Mar 2023 13:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[배우 백진희와 안재현이 '진짜가 나타났다!'를 통해 연기력 논란을 벗을 수 있을까. 시청자들은 1화 속 두 사람을 향해 아쉬움 섞인 목소리를 냈다. 25일 KBS2 새 드라마 '진짜가 나타났다!'가 첫 방송됐다. 이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['주주 시크릿' 박진주X이미주, 고대 행사서 깜짝 데뷔 '대박 조짐' (놀뭐) [종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001573297</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001573297</guid>
-            <pubDate>Sat, 25 Mar 2023 12:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[배우 박진주와 러블리즈 출신 이미주가 결성한 주주 시크릿이 고려대학교 동아리 박람회에서 무대를 선보였다. 25일 방송된 MBC '놀면 뭐하니?'(이하 '놀뭐')에서는 '땡처리 엔터' 특집으로 꾸며진 가운데 주주 시크]]></content:encoded>
+            <title><![CDATA[지상렬 “이덕화, 돈 없어서 탈모겠냐…머리에 공사 허가가 안 난다”(모내기클럽) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000705010</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000705010</guid>
+            <pubDate>Sat, 25 Mar 2023 13:10:40 GMT</pubDate>
+            <content:encoded><![CDATA['모내기클럽' 지상렬이 탈모에 대해 말했다. 3월 25일 방송된 MBN-LG헬로비전 ‘모내기클럽’에는 ‘탈모 in 멜로디’ 팀 지상렬, 슬리피, 보이비와 ‘빠진 녀석들’ 팀 신범식, 김원중, 전우재가 출연했다. 이날]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘한국인의 식판’ 팀, 손흥민 제외 시킨 이유…한국 연예인 최초 위해 ‘폭소’ (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000705002</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000705002</guid>
-            <pubDate>Sat, 25 Mar 2023 12:11:06 GMT</pubDate>
-            <content:encoded><![CDATA['한국인의 식판' 팀이 손흥민을 제외(?)시켰다. 3월 25일 방송된 JTBC '한국인의 식판'에서는 영국 울버햄튼FC 구단으로 첫 번째 식판 대장정을 떠난 멤버들이 그려졌다. 이날 방송서 이연복 셰프, 김민지 영양]]></content:encoded>
+            <title><![CDATA[현진영 아내 등장…과거 '내 이름은 김삼순' 현빈과 소개팅 (살림남2) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001573304</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001573304</guid>
+            <pubDate>Sat, 25 Mar 2023 13:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[가수 현진영이 새롭게 합류했다. 25일 방송된 KBS 2TV '살림하는 남자들 시즌2'(이하 '살림남2')에서는 현진영이 새롭게 합류한 장면이 전파를 탔다. 이날 현진영은 "힙합 문익점 현진영이다"라며 소개했다. 현]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[황희찬, 손목 키스+타투 공개…상탈 화제 될 줄 몰라 “브래지어인 줄”(한국인의식판) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000705001</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000705001</guid>
-            <pubDate>Sat, 25 Mar 2023 12:11:06 GMT</pubDate>
-            <content:encoded><![CDATA['한국인의 식판' 황희찬이 세리머니 비하인드를 밝혔다. 3월 25일 방송된 JTBC '한국인의 식판'에서는 영국 울버햄튼FC 구단으로 첫 번째 식판 대장정을 떠난 멤버들이 그려졌다. 이날 방송서 이연복 셰프, 김민지]]></content:encoded>
+            <title><![CDATA[현진영 "과거 공황장애·우울증으로 정신병원…인성 인격장애도 있다고" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006706176</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006706176</guid>
+            <pubDate>Sat, 25 Mar 2023 13:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[가수 현진영이 정신병원에 가게 된 사연을 고백했다. 25일 오후 방송된 KBS 2TV '살림하는 남자들 시즌2'에서는 현진영 오서운 부부가 출연해 일상을 공개했다. 오서운은 과거에 쓴 연습장을 보고 "이거 버려라"라]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[츄, 어깨 드러낸 오프숄더 드레스…댕댕미 벗고 고혹미 장착 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000603006</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000603006</guid>
-            <pubDate>Sat, 25 Mar 2023 12:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 이달의 소녀 출신 가수 츄가 반전 매력을 드러냈다. 츄는 24일 "Cosmopolitan♥"이라는 글과 함께 여러 장의 사진을 게재했다. 함께 공개한 사진 속에는 그레이 컬러의 드레스를 착용한 츄가 거울 셀카를]]></content:encoded>
+            <title><![CDATA[‘판도라’ 장희진, 죽은 한수연=박기웅 내연녀 사실 알았다 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005106763</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005106763</guid>
+            <pubDate>Sat, 25 Mar 2023 13:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[한수연이 죽은 가운데, 장희진은 한수연이 박기웅의 내연녀였다는 사실을 알았다. 25일 방송된 tvN ‘판도라: 조작된 낙원’에서 엄상배(성창훈)는 홍유라(한수연)에게 USB를 전달받은 뒤 “그 분이 전해달랬어. 그동]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["전 세계 아저씨들 위해"…추성훈, '피지컬:100' 출연 이유 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011763323</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011763323</guid>
-            <pubDate>Sat, 25 Mar 2023 12:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[추성훈, 윤성빈이 '피지컬: 100' 비하인드 스토리를 전한다. 25일 오후 8시 50분 방송되는 JTBC TV 예능물 '아는 형님'에서는 최강 피지컬을 겨루는 예능프로그램 출연으로 화제를 모은 추성훈, 윤성빈이 프]]></content:encoded>
+            <title><![CDATA[박민혁(라키), 친동생 속한 하우 지원사격…후속곡 ‘Wanna Be Love’ 응원 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001731138</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001731138</guid>
+            <pubDate>Sat, 25 Mar 2023 13:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 HAWW(하우)가 후속곡 ‘Wanna Be Love’의 첫 활동에서 팬들의 마음을 또 한 번 사로잡았다. HAWW(하우)는 지난 24일 오후 방송된 아리랑 TV ‘심플리 케이팝’과 KBS 2TV ‘뮤직뱅크’에서]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코드 쿤스트, 제작진 음원 조작 의혹 제기 "개수작 有"(놀토)[★밤TView] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003139125</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003139125</guid>
-            <pubDate>Sat, 25 Mar 2023 12:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[프로듀서 코드 쿤스트가 제작진의 음원 조작론을 제기했다. 25일 오후 방송된 tvN 예능 프로그램 '놀라운 토요일'에는 엑소 카이와 프로듀서 코드 쿤스트가 출연했다. 이날 코드 쿤스트는 "여기 나올 때마다 항상 잘]]></content:encoded>
+            <title><![CDATA[‘4세대 짐승돌’ TAN, 물오른 성숙미…‘Fix YOU’(음악중심) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001731137</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001731137</guid>
+            <pubDate>Sat, 25 Mar 2023 13:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 TAN(티에이엔)이 성숙해진 매력을 뽐냈다. TAN(창선·주안·재준·성혁·현엽·태훈·지성)은 25일 오후 방송된 MBC ‘쇼! 음악중심’에 출연, 컴백 타이틀곡 ‘Fix YOU’ 무대를 공개했다. 이날 무대에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“되게 짜증났다” 이연복의 K급식→김민지 영양사 태클에 폭발 예고(한국인의식판) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000705000</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000705000</guid>
-            <pubDate>Sat, 25 Mar 2023 12:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[이연복 셰프와 김민지 영양사의 갈등이 예고됐다. 3월 25일 방송된 JTBC '한국인의 식판'에서는 영국 울버햄튼FC 구단으로 첫 번째 식판 대장정을 떠난 멤버들이 그려졌다. 이날 방송서 50년 경력의 이연복은 '한]]></content:encoded>
+            <title><![CDATA[추성훈 “딸 사랑, 인기에 트라우마”→강호동 子 사윗감으로 관심(아형) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000705009</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000705009</guid>
+            <pubDate>Sat, 25 Mar 2023 13:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[격투기 선수 추성훈이 강호동과 사돈 맺기에 관심을 보였다. 3월 25일 방송된 JTBC 예능 '아는 형님'(이하 '아형') 376회에는 추성훈, 윤성빈이 게스트로 출연했다. 이날 추성훈은 딸 사랑이의 근황을 묻자 "]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이병헌♥이민정 子, 곧 '아빠키 따라잡겠네'…엄마도 "뒷모습이 청소년 같은" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003986607</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003986607</guid>
-            <pubDate>Sat, 25 Mar 2023 12:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이민정이 듬직하게 큰 아들을 자랑했다. 25일 이민정은 "이제는 뒷모습이... 청소년 같은"이라고 했다. 이민정은 인천 국제공항에서 캐리어를 끌고 걸어가는 아들을 뒤따라가며 성장에 감탄했다. 이민정 이병헌의 아]]></content:encoded>
+            <title><![CDATA['아는 형님' 추성훈 "딸 사랑이, 한국에서 인기 이제 슬슬 알아" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006706175</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006706175</guid>
+            <pubDate>Sat, 25 Mar 2023 13:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[추사랑이 어린 시절 한국에서 받은 사랑을 알고 있다고 추성훈이 밝혔다. 25일 방송된 JTBC '아는 형님'에는 이종 격투기 선수 추성훈과 스켈레톤 금메달리스트 윤성빈이 출연했다. 추사랑은 어릴 때 자기가 한국에서]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['불후' 절친 김다현·전유진, 무승부로 공동 우승[★밤TView] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003139124</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003139124</guid>
-            <pubDate>Sat, 25 Mar 2023 11:04:24 GMT</pubDate>
-            <content:encoded><![CDATA['불후의명곡' 김다현과 전유진이 공동 우승을 차지했다. 25일 오후 방송된 KBS 2TV 예능 프로그램 '불후의 명곡' 599회에서는 '어리다고 얕보지 마' 특집이 꾸며졌다. 이번 특집에서는 전유진, 오유진, 김다현]]></content:encoded>
+            <title><![CDATA[신범식 “시켜서 어쩔 수 없이…고소영 심은하 김혜수 납치”(모내기클럽) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000705008</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000705008</guid>
+            <pubDate>Sat, 25 Mar 2023 13:10:40 GMT</pubDate>
+            <content:encoded><![CDATA['모내기클럽' 신범식이 자주 맡은 배역에 대해 이야기했다. 3월 25일 방송된 MBN-LG헬로비전 ‘모내기클럽’에는 ‘탈모 in 멜로디’ 팀 지상렬, 슬리피, 보이비와 ‘빠진 녀석들’ 팀 신범식, 김원중, 전우재가]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['서정희 딸' 서동주, 얼굴은 청순한데 몸매는 글래머…다 가졌네 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000603005</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000603005</guid>
-            <pubDate>Sat, 25 Mar 2023 11:04:24 GMT</pubDate>
-            <content:encoded><![CDATA[변호사 겸 방송인 서동주가 근황을 전했다. 서동주는 25일 "이른 생파 렛츠고"라는 글과 함께 한 장의 사진을 게재했다. 함께 공개한 사진 속에는 차량 안에서 셀카를 촬영 중인 서동주의 모습이 담겼다. 긴 웨이브 머]]></content:encoded>
+            <title><![CDATA[안재홍, 장항준 신작 ‘리바운드’ 작품 위해 10kg 증량…달라진 외모는? (전참시) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001731136</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001731136</guid>
+            <pubDate>Sat, 25 Mar 2023 13:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[‘전참시’가 장항준 감독의 신작 ‘리바운드’ 제작보고회 비하인드를 공개한다. 25일 방송되는 MBC 예능 프로그램 ‘전지적 참견 시점’(기획 박정규 / 연출 김윤집, 이준범, 이경순, 김해니 / 작가 여현전 / 이하]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“내가 믿는 친구들”... ‘놀뭐’ 이미주·박진주, 유재석의 신뢰에 보답하다[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001249240</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001249240</guid>
-            <pubDate>Sat, 25 Mar 2023 11:04:24 GMT</pubDate>
-            <content:encoded><![CDATA[주주시크릿 이미주와 박진주가 유재석의 믿음에 완벽하게 보답했다. 25일 MBC ‘놀면 뭐하니?’에선 땡처리 엔터 자체점검 시간이 펼쳐졌다. 이날 주주시크릿 박진주와 이미주의 ‘밤이 무서워요’ 첫 무대가 공개된 가운ㄷ]]></content:encoded>
+            <title><![CDATA[이제훈, '대리수술' 의사 응징 위해 병원 침투…'모범택시2' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011763341</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011763341</guid>
+            <pubDate>Sat, 25 Mar 2023 13:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[이제훈·김의성·표예진·장혁진·배유람이 대리수술 범죄를 저지른 악마의사를 응징하기 위해 병원을 장악한다. 25일 오후 10시 방송되는 SBS TV 금토드라마 '모범택시2' 측이 대리수술이라는 악질적 범죄를 교묘하게 은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘놀면 뭐하니?’ 주주 시크릿, 대학 행사 깜짝 데뷔 “우리도 몰랐다”[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000875783</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000875783</guid>
-            <pubDate>Sat, 25 Mar 2023 11:04:24 GMT</pubDate>
-            <content:encoded><![CDATA[‘놀면 뭐하니?’ 주주 시크릿이 대학무대에 올랐다. 25일 오후 방송된 MBC 예능프로그램 ‘놀면 뭐하니?’에서는 땡처리 엔터 연습생 최종 평가가 전파를 탔다. 이날 자체 평가 7일 전 박진주와 이미주는 1절 안무를]]></content:encoded>
+            <title><![CDATA[‘진짜가 나타났다!’ 백진희, 바람피운 정의제 아이 가졌다 ‘충격’[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000875787</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000875787</guid>
+            <pubDate>Sat, 25 Mar 2023 13:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[‘진짜가 나타났다!’ 백진희가 임신했다. 25일 오후 첫 방송된 KBS2 주말드라마 ‘진짜가 나타났다!’에서는 바람피운 정의제와 이별한 백진희가 임신 사실을 알게 된 장면을 전파를 탔다. 이날 오연두(백진희)는 토끼]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[종합] ‘놀면 뭐하니’ 주주 시크릿 완벽 데뷔 무대...3년 만에 완성된 원탑 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005106759</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005106759</guid>
-            <pubDate>Sat, 25 Mar 2023 11:04:24 GMT</pubDate>
-            <content:encoded><![CDATA[원탑과 주주 시크릿이 자체 평가를 훌륭하게 마쳤다. 특히 주주 시크릿은 대학교에서 데뷔 무대를 치르기도 했다. 25일 방송된 MBC ‘놀면 뭐하니?’에서 유재석을 비롯한 원탑 멤버들, 그리고 주주 시크릿 멤버들이 모]]></content:encoded>
+            <title><![CDATA['진짜가 나타났다' 백진희, 바람난 정의제와 이별→임신 '충격'(종합) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006706168</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006706168</guid>
+            <pubDate>Sat, 25 Mar 2023 13:10:40 GMT</pubDate>
+            <content:encoded><![CDATA['진짜가 나타났다' 백진희가 정의제와 이별한 뒤 임신한 사실을 알게 됐다. 25일 방송된 KBS 2TV 주말드라마 '진짜가 나타났다'(극본 조정주/연출 한준서)에서는 오연두(백진희 분)가 공태경(안재현 분)의 차를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['놀뭐' 이미주X박진주, 고려대 떴다..'주주 시크릿' 성공적 데뷔 [★밤TView] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003139123</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003139123</guid>
-            <pubDate>Sat, 25 Mar 2023 11:04:24 GMT</pubDate>
-            <content:encoded><![CDATA['놀면뭐하니' 주주 시크릿이 데뷔 무대를 선보였다. 25일 오후 방송된 MBC 예능 프로그램 '놀면 뭐하니?'에서는 땡처리 엔터테인먼트의 자체 평가 무대가 그려졌다. 이날 방송에서는 땡처리 엔터테인먼트 걸그룹 '주주]]></content:encoded>
+            <title><![CDATA[추성훈 ‘피지컬100’ 출연료 無라는 윤성빈에 깜짝 “난 받긴 받아”(아형) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000705006</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000705006</guid>
+            <pubDate>Sat, 25 Mar 2023 13:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[추성훈이 '피지컬:100'의 출연료를 안 받았다는 윤성빈에 수상한 반응을 보여 눈길을 끌었다. 3월 25일 방송된 JTBC 예능 '아는 형님'(이하 '아형') 376회에는 추성훈, 윤성빈이 게스트로 출연했다. 이날]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정의제 품에 안긴 백진희, 감동→충격 왜?…'진짜가 나타났다' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011763317</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011763317</guid>
-            <pubDate>Sat, 25 Mar 2023 11:04:24 GMT</pubDate>
-            <content:encoded><![CDATA[백진희와 정의제가 좌충우돌 프러포즈 현장을 예고했다. 25일 오후 8시 5분 첫 방송되는 KBS 2TV 새 주말드라마 '진짜가 나타났다!'에서는 배 속 아기 '진짜'를 둘러싼 미혼모와 비혼남의 가짜 계약 로맨스를 다]]></content:encoded>
+            <title><![CDATA[이수근, 추성훈 시계 훔치려다 적발 "아저씨 무시 마"(아형)[별별TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003139130</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003139130</guid>
+            <pubDate>Sat, 25 Mar 2023 13:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[추성훈이 이수근을 한손으로 제압했다. 25일 오후 방송된 JTBC 예능 프로그램 '아는 형님'에는 넷플릭스 오리지널 예능 '피지컬: 100' 출연으로 화제를 모은 추성훈, 윤성빈이 게스트로 나섰다. 이날 추성훈은 7]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['놀면뭐하니' 주주시크릿, '고려대 축제'로 데뷔무대…반응 엄청나 [종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=076&amp;aid=0003986596</link>
-            <guid>https://entertain.naver.com/now/read?oid=076&amp;aid=0003986596</guid>
-            <pubDate>Sat, 25 Mar 2023 11:04:24 GMT</pubDate>
-            <content:encoded><![CDATA[주주시크릿이 대학 축제 무대로 데뷔했다. 25일 방송된 MBC '놀면 뭐하니?'에서는 땡처리 엔터테인먼트의 자체평가가 그려졌다. 주주 시크릿은 걸그룹 출신인 미주 덕에 순조롭게 흘러갔다. 박진주는 틈틈이 실수가 있었]]></content:encoded>
+            <title><![CDATA[이수근, 추성훈 시비에 무당 母로 협박 “귀신 푼다”(아는 형님) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000705005</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000705005</guid>
+            <pubDate>Sat, 25 Mar 2023 13:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[이수근이 귀신을 무서워하는 추성훈에 무당인 친모를 언급했다. 3월 25일 방송된 JTBC 예능 '아는 형님'(이하 '아형') 376회에는 추성훈, 윤성빈이 게스트로 출연했다. 이날 이수근은 추성훈에게 "횡단보도 귀신]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘놀면 뭐하니?’ 주주 시크릿, 첫 공식 스케줄 성료…유재석 만족 [M+TView] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001731115</link>
-            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001731115</guid>
-            <pubDate>Sat, 25 Mar 2023 11:04:24 GMT</pubDate>
-            <content:encoded><![CDATA[‘놀면 뭐하니?’ 주주 시크릿(박진주, 이미주)의 첫 공식 스케줄로 대학교 행사 무대를 뛰었다. 25일 오후 방송된 MBC 예능프로그램 ‘놀면 뭐하니?’에서는 땡처리 엔터 JS(유재석) 대표가 야심 차게 기획한 걸그]]></content:encoded>
+            <title><![CDATA[‘진짜가 나타났다!’ 안재현, 백진희 오해로 바람둥이 오명…강부자 “난봉꾼이냐” 분노 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=057&amp;aid=0001731132</link>
+            <guid>https://entertain.naver.com/now/read?oid=057&amp;aid=0001731132</guid>
+            <pubDate>Sat, 25 Mar 2023 13:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[‘진짜가 나타났다!’ 안재현이 백진희로 인해 곤란한 상황에 빠졌다. 25일 오후 방송된 KBS 2TV 새 주말드라마 ‘진짜가 나타났다!’에서는 오연두(백진희 분) 때문에 공태경(안재현 분)이 봉변을 당하는 모습이 그]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[“영부인 될 수 있게 도와줄게” 장희진, 이지아 딸 미끼로 협박 (판도라) (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000705012</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000705012</guid>
+            <pubDate>Sat, 25 Mar 2023 13:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔 유경상 yooks@ 장희진이 이지아의 딸을 미끼로 반 협박을 가했다. 3월 25일 방송된 tvN 토일드라마 ‘판도라 조작된 낙원’ 5회(극본 현지민/연출 최영훈)에서 고해수(장희진 분)는 홍태라(이지아 분)를]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[진짜가 나타났다] 인강계의 슈퍼루키 백진희! 두 마리 토끼를 잡는 꿈? 태몽? (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=438&amp;aid=0000054408</link>
+            <guid>https://entertain.naver.com/now/read?oid=438&amp;aid=0000054408</guid>
+            <pubDate>Sat, 25 Mar 2023 13:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[백진희가 두 마리 토끼를 잡는 꿈을 꿨다. 25일 첫 방송된 KBS2TV 새 주말드라마 ‘진짜가 나타났다!’(연출 한준서/ 극본 조정주)는 ‘진짜’를 둘러싼 미혼모와 비혼남의 가짜 계약 로맨스를 다룬 이야기를 선보였]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘진짜가 나타났다!’ 백진희, 바람피운 정의제에 분노→안재현 차에 “바람둥이 타고 있다” 낙서 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000183967</link>
+            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000183967</guid>
+            <pubDate>Sat, 25 Mar 2023 13:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[백진희와 안재현의 악연이 시작됐다. 25일(토) 첫 방송된 KBS 2TV 주말드라마 ‘진짜가 나타났다!’에서는 오연두(백진희)가 남자친구 김준하(정의제)가 바람피운 사실을 알게 됐다. 이날 오연두는 자기 방으로 오라]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[첫방 '진짜가' 백진희, 바람핀 정의제 아이 가졌다..안재현과 ‘악연’으로 첫만남 [종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004814730</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004814730</guid>
+            <pubDate>Sat, 25 Mar 2023 13:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[‘진짜가 나타났다!’ 백진희가 정의제의 아이를 가졌다. 25일 첫 방송된 KBS2 새 주말드라마 ‘진짜가 나타났다!’(연출 한준서/ 극본 조정주/ 제작 빅토리콘텐츠)에서는 공태경(안재현 분)과 오연두(백진희 분)가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[첫방 ‘진짜가’ 차주영·정의제 키스에 백진희 실신, 안재현 임신 알았다 (종합) (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000705007</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000705007</guid>
+            <pubDate>Sat, 25 Mar 2023 13:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔 유경상 yooks@ 백진희가 전남친 정의제와 차주영의 키스를 보고 안재현 앞에서 실신 후 임신을 알았다. 3월 25일 첫 방송된 KBS 2TV 새 주말드라마 ‘진짜가 나타났다!’ 1회(극본 조정주/연출 한준서]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['진짜가' 백진희, 외도한 전남친 정의제 子 임신..안재현 '충격' [★밤TView] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003139131</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003139131</guid>
+            <pubDate>Sat, 25 Mar 2023 13:10:49 GMT</pubDate>
+            <content:encoded><![CDATA['진짜가 나타났다!' 배우 백진희가 임신 사실을 알게 됐다. 25일 오후 첫 방송된 KBS 2TV 주말드라마 '진짜가 나타났다!'에서는 국어 이타강사 오연두(백진희 분)의 모습이 그려졌다. 오연두는 이날 토끼가 품에]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[안재현 “난 예외없는 비혼주의자”, 여자친구 프러포즈 거절 (‘진짜가 나타났다’) (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
@@ -1593,48 +1635,6 @@
             <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003711436</guid>
             <pubDate>Sat, 25 Mar 2023 11:04:32 GMT</pubDate>
             <content:encoded><![CDATA[‘진짜가 나타났다!’의 백진희가 첫 방송부터 위기 상황에 빠진다. 25일(오늘) 저녁 8시 5분 첫 방송되는 KBS 2TV 새 주말드라마 ‘진짜가 나타났다!’(연출 한준서 / 극본 조정주/ 제작 빅토리콘텐츠)는 배]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이혼한 한혜진, 노부부 앞에서 고개 푹…드리워진 혼돈의 그림자 ('신성한 이혼') (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000602988</link>
-            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000602988</guid>
-            <pubDate>Sat, 25 Mar 2023 11:04:32 GMT</pubDate>
-            <content:encoded><![CDATA[한혜진이 의뢰인 가족을 찾아 병원으로 향한다. JTBC 토일드라마 '신성한, 이혼' 7회에서는 신성한(조승우 분) 사무실에서 상담실장으로 재직 중인 이서진(한혜진 분) 앞에 근심 가득한 사건이 벌어질 예정이다. 라디]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['모범택시2' 이제훈, 이번엔 '나이롱 의사' 잡는다 '사이다 예고' (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003139091</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003139091</guid>
-            <pubDate>Sat, 25 Mar 2023 07:06:37 GMT</pubDate>
-            <content:encoded><![CDATA['모범택시2'에서 이제훈-김의성-표예진-장혁진-배유람이 대리수술 범죄를 저지른 악마의사를 응징하기 위해, 전원 부캐플레이로 병원을 장악한다. SBS 금토드라마 '모범택시2'(극본 오상호/연출 이단/제작 스튜디오S,]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[차주영, 정의제와 파격 키스..차안에서 후끈 [진짜가 나타났다!] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003139090</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003139090</guid>
-            <pubDate>Sat, 25 Mar 2023 07:06:37 GMT</pubDate>
-            <content:encoded><![CDATA['진짜가 나타났다!' 차주영과 정의제가 파격적인 키스신을 선보인다. 25일 첫 방송되는 KBS 2TV 새 주말드라마 '진짜가 나타났다!'(극본 조정주, 연출 한준서)는 배 속 아기 '진짜'를 둘러싼 미혼모와 비혼남의]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['일타 스캔들' 이채민 "10년 뒤? 내 매력으로 승부하는 배우되고 싶어" [엑's 인터뷰②] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001573227</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001573227</guid>
-            <pubDate>Sat, 25 Mar 2023 07:06:37 GMT</pubDate>
-            <content:encoded><![CDATA['일타 스캔들' 이채민이 매력 있는 배우가 되고 싶다는 바람을 드러냈다. tvN '일타 스캔들'은 입시지옥에 뒤늦게 입문한 국가대표 반찬가게 열혈 여사장과 대한민국 사교육 1번지에서 별이 된 일타강사의 달콤쌉싸름한]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['일타 스캔들' 이채민 "母 장영남 연기에 압도당해, 실제로는 따뜻하신 분" [엑's 인터뷰①] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001573226</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001573226</guid>
-            <pubDate>Sat, 25 Mar 2023 07:06:37 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이채민이 장영남의 연기에 압도당한 기억을 떠올렸다. tvN '일타 스캔들'은 입시지옥에 뒤늦게 입문한 국가대표 반찬가게 열혈 여사장과 대한민국 사교육 1번지에서 별이 된 일타강사의 달콤쌉싸름한 스캔들을 그린 드]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김희재, ‘진짜가 나타났다!’ 첫 번째 OST 주자 발탁 '그대 발길이 머무는 곳에' 재해석 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003711401</link>
-            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003711401</guid>
-            <pubDate>Sat, 25 Mar 2023 07:06:37 GMT</pubDate>
-            <content:encoded><![CDATA[백진희, 안재현 주연의 KBS 2TV 주말드라마 '진짜가 나타났다!'의 첫 번째 OST가 25일 각종 음원사이트를 통해 발매된다. 첫번째로 공개되는 OST는 김희재가 '가왕’ 조용필의 '그대 발길 머무는 곳에'를 리]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘노추’ 휴그랜트 VS 반가운 ‘브리저튼’ 레게 장 페이지, 유쾌하지만 유치하지 않은 ‘던전 앤 드래곤:도적들의 명예’ [SS리뷰] (다음영화 뉴스 ─ 최신)]]></title>
@@ -1797,6 +1797,34 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F25%2Fstartoday%2F20230325070304804pmaz.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
+            <title><![CDATA[“영부인 될 수 있게 도와줄게” 장희진, 이지아 딸 미끼로 협박 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20230325220122174</link>
+            <guid>https://v.daum.net/v/20230325220122174</guid>
+            <pubDate>Sat, 25 Mar 2023 13:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[장희진이 이지아의 딸을 미끼로 반 협박을 가했다. 3월 25일 방송된 tvN 토일드라마 ‘판도라 조작된 낙원’ 5회(극본 현지민/연출 최영훈)에서 고해수(장희진 분)는 홍태라(이지아 분)를 위협했다. 고해수는 부친 고태선(차광수 분)을 살해한 킬러 오영이 홍태라라는 사실을 알고 홍태라의 딸 표지우(김시우 분)를 인질 삼았다. 홍태라는 이성을 잃고 고해]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[첫방 '진짜가' 백진희, 바람핀 정의제 아이 가졌다..안재현과 ‘악연’으로 첫만남 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20230325214108027</link>
+            <guid>https://v.daum.net/v/20230325214108027</guid>
+            <pubDate>Sat, 25 Mar 2023 13:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박하영 기자] ‘진짜가 나타났다!’ 백진희가 정의제의 아이를 가졌다. 25일 첫 방송된 KBS2 새 주말드라마 ‘진짜가 나타났다!’(연출 한준서/ 극본 조정주/ 제작 빅토리콘텐츠)에서는 공태경(안재현 분)과 오연두(백진희 분)가 ‘악연’으로 만나는 모습이 그려졌다. 이날 진수지(차민지 분)는 오픈된 장소에서 만남에 대해 의문을 품는 공태경에 “]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[첫방 ‘진짜가’ 차주영·정의제 키스에 백진희 실신, 안재현 임신 알았다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20230325213800009</link>
+            <guid>https://v.daum.net/v/20230325213800009</guid>
+            <pubDate>Sat, 25 Mar 2023 13:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[백진희가 전남친 정의제와 차주영의 키스를 보고 안재현 앞에서 실신 후 임신을 알았다. 3월 25일 첫 방송된 KBS 2TV 새 주말드라마 ‘진짜가 나타났다!’ 1회(극본 조정주/연출 한준서)에서 오연두(백진희 분)는 연인 김준하(정의제 분)와 이별 후 임신을 알았다. 오연두는 국어 이타강사로 강의를 준비하다가 토끼가 달려와 안기는 꿈을 꿨다. 토끼는]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['진짜가' 백진희, 외도한 전남친 정의제 子 임신..안재현 '충격' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20230325212937964</link>
+            <guid>https://v.daum.net/v/20230325212937964</guid>
+            <pubDate>Sat, 25 Mar 2023 13:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 이시호 기자] /사진=KBS2 '진짜가 나타났다!' 방송 화면 캡처 [이시호 스타뉴스 기자] '진짜가 나타났다!' 배우 백진희가 임신 사실을 알게 됐다. 25일 오후 첫 방송된 KBS 2TV 주말드라마 '진짜가 나타났다!'에서는 국어 이타강사 오연두(백진희 분)의 모습이 그려졌다. 오연두는 이날 토끼가 품에 안기며 두 마리로 변하는 꿈을 꿨]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[안재현 “난 예외없는 비혼주의자”, 여자친구 프러포즈 거절 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
             <link>https://v.daum.net/v/20230325210926854</link>
             <guid>https://v.daum.net/v/20230325210926854</guid>
@@ -1874,137 +1902,109 @@
             <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 25년 만에 드라마 '카지노'로 복귀한 최민식이 자신이 연기한 차무식, 그리고 함께한 배우들과의 이야기를 전했다. 24일 오전 서울 종로구 삼청동의 한 카페에서 디즈니+ 오리지널 시리즈 '카지노'(감독 강윤성) 최민식과의 인터뷰가 진행됐다. '카지노'는&nbsp;'카지노'는&nbsp;우여곡절 끝에 카지노의 왕이 된 한 남자가 일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[차주영-정의제, 첫방부터 파격적인 키스신 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20230325163815735</link>
-            <guid>https://v.daum.net/v/20230325163815735</guid>
-            <pubDate>Sat, 25 Mar 2023 11:04:55 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 곽명동 기자]‘진짜가 나타났다!’의 백진희가 첫 방송부터 위기 상황에 빠진다. 25일(오늘) 저녁 8시 5분 첫 방송되는 KBS 2TV 새 주말드라마 ‘진짜가 나타났다!’(연출 한준서 / 극본 조정주/ 제작 빅토리콘텐츠)는 배 속 아기 ‘진짜’를 둘러싼 미혼모와 비혼남의 가짜 계약 로맨스를 다룬 이야기로 임신-출산-육아를 통해 ‘애벤져스]]></content:encoded>
+            <title><![CDATA[‘리틀 임영웅’ 안율 “임영웅은 내 롤모델” 이찬원 씁쓸 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230325221006226</link>
+            <guid>https://v.daum.net/v/20230325221006226</guid>
+            <pubDate>Sat, 25 Mar 2023 13:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 임유리 기자] 안율이 임영웅을 좋아한다고 밝히자 이찬원이 씁쓸해했다. 25일 방송된 KBS2TV 예능 프로그램 ‘불후의 명곡’은 ‘어리다고 얕보지 마’ 특집으로 꾸며졌다. 이날 MC 이찬원은 출연한 가요계 신동들의 이력을 소개했다. 이찬원은 “안율 군의 이력도 상당하다”며, 2020 제29회 인천 청소년가요제 동상 수상, 2021]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[차주영, 정의제와 파격 키스..차안에서 후끈 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20230325153749025</link>
-            <guid>https://v.daum.net/v/20230325153749025</guid>
-            <pubDate>Sat, 25 Mar 2023 07:06:59 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 최혜진 기자] /사진=빅토리콘텐츠[최혜진 스타뉴스 기자] '진짜가 나타났다!' 차주영과 정의제가 파격적인 키스신을 선보인다. 25일 첫 방송되는 KBS 2TV 새 주말드라마 '진짜가 나타났다!'(극본 조정주, 연출 한준서)는 배 속 아기 '진짜'를 둘러싼 미혼모와 비혼남의 가짜 계약 로맨스를 다룬 이야기로 임신-출산-육아를 통해 '애벤져스'로]]></content:encoded>
+            <title><![CDATA[추성훈, ♥야노 시호 수입 언급 "나보다 돈 잘 벌어" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230325220401194</link>
+            <guid>https://v.daum.net/v/20230325220401194</guid>
+            <pubDate>Sat, 25 Mar 2023 13:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 김노을 기자] /사진=JTBC 방송화면[김노을 스타뉴스 기자] 추성훈이 일본인 아내 야노 시호의 수입을 우회적으로 언급했다. 25일 오후 방송된 JTBC 예능 프로그램 '아는 형님'에는 넷플릭스 오리지널 예능 '피지컬: 100' 출연으로 화제를 모은 추성훈, 윤성빈이 게스트로 나섰다. 이날 추성후은 아오키 신야와 대결에서 이긴 것을 언급하며]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['일타 스캔들' 이채민 "10년 뒤? 내 매력으로 승부하는 배우되고 싶어" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20230325153009909</link>
-            <guid>https://v.daum.net/v/20230325153009909</guid>
-            <pubDate>Sat, 25 Mar 2023 07:06:59 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 황수연 기자) '일타 스캔들' 이채민이 매력 있는 배우가 되고 싶다는 바람을 드러냈다. tvN '일타 스캔들'은 입시지옥에 뒤늦게 입문한 국가대표 반찬가게 열혈 여사장과 대한민국 사교육 1번지에서 별이 된 일타강사의 달콤쌉싸름한 스캔들을 그린 드라마. 이채민은 엄마가 시키는 대로 의대에 가기 위해 공부하는 모범생 이선재 역에 분했다. 단짝 친]]></content:encoded>
+            <title><![CDATA[현진영 “20년전 아내가 정신병원 보내, 공황장애→인성 인격장애” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230325220354193</link>
+            <guid>https://v.daum.net/v/20230325220354193</guid>
+            <pubDate>Sat, 25 Mar 2023 13:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 현진영이 과거 아내 때문에 정신병원에 갔던 사연을 공개했다. 3월 25일 방송된 KBS 2TV ‘살림하는 남자들 시즌2’에서는 현진영, 오서운 부부가 등장했다. 현진영 아내 오서운은 더러운 현진영의 작업실에 한숨을 쉬며, 20년 된 손때 묻은 노트를 버리라고 잔소리를 했다. 현진영은 “이거 기억 안 나냐. 네가 나 정신병원 보냈]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['일타 스캔들' 이채민 "母 장영남 연기에 압도당해, 실제로는 따뜻하신 분" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20230325153003903</link>
-            <guid>https://v.daum.net/v/20230325153003903</guid>
-            <pubDate>Sat, 25 Mar 2023 07:06:59 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 황수연 기자) 배우 이채민이 장영남의 연기에 압도당한 기억을 떠올렸다.&nbsp; tvN '일타 스캔들'은 입시지옥에 뒤늦게 입문한 국가대표 반찬가게 열혈 여사장과 대한민국 사교육 1번지에서 별이 된 일타강사의 달콤쌉싸름한 스캔들을 그린 드라마. 이채민은 엄마가 시키는 대로 의대에 가기 위해 공부하는 모범생 이선재 역에 분했다. 단짝 친구 남해이(노윤]]></content:encoded>
+            <title><![CDATA[이찬원, 가요계 신동들 데뷔 연차에 당황→깍듯 인사 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230325220350192</link>
+            <guid>https://v.daum.net/v/20230325220350192</guid>
+            <pubDate>Sat, 25 Mar 2023 13:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 임유리 기자] 이찬원이 가요계 신동들의 데뷔 연차를 듣고 깜짝 놀랐다. 25일 방송된 KBS2TV 예능 프로그램 ‘불후의 명곡’은 ‘어리다고 얕보지 마’ 특집으로 꾸며졌다. 이날 MC 이찬원은 가수들은 나이보다 데뷔 연차가 중요하다며 신동들에게 데뷔 연차를 묻기 시작했다. 김다현에게 데뷔 연차를 묻자 김다현은 “나는 4년 차다”라며]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[추성훈, 책상 던지며 등장…서장훈 "JTBC 재산인데" 당황 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230325211010861</link>
-            <guid>https://v.daum.net/v/20230325211010861</guid>
-            <pubDate>Sat, 25 Mar 2023 12:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이예진 기자) '아는 형님' 추성훈이 강렬하게 등장했다. 25일 방송된 JTBC ‘아는 형님’에는 넷플릭스 '피지컬:100'으로 모은 추성훈, 윤성빈이 출연해 다양한 이야기를 나눴다. 이날 추성훈은 7년 전 '아는 형님'에 출연했을 때와 같이 책상을 들며 등장했다.&nbsp; 일촉즉발 상황에 서장훈은 "JTBC 재산인데"라고 말해 웃음을 자아냈다. 강]]></content:encoded>
+            <title><![CDATA[현진영, 길거리 흡연자 중고생으로 오해 "너 몇 살이야!" 소리 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230325220307186</link>
+            <guid>https://v.daum.net/v/20230325220307186</guid>
+            <pubDate>Sat, 25 Mar 2023 13:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=오세진 기자] '살림남2' 가수 현진영이 흡연 중인 행인을 오해하는 일이 생겼다. 25일 방영된 KBS2TV 예능 '살림남2'에서는 가수 현진영이 등장했다. 현진영과 그의 아내 오서운은 외출하기 전에 하나의 다짐을 읽었다. 바로 인성 인격장애를 앓는 현진영을 침착하게 만드는 주문이었다. 이 중 '낯선 사람에게 말 걸지 않기'가 있었지만, 현진]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[엑소 카이, 미모·예능감으로 "고정 자리 납니까"→코쿤, 잔잔한 웃음 추가 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230325210622838</link>
-            <guid>https://v.daum.net/v/20230325210622838</guid>
-            <pubDate>Sat, 25 Mar 2023 12:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=오세진 기자] ‘놀라운 토요일' 엑소 카이와 코드 쿤스트가 놀라운 예능감을 선보였다. 25일 방영된 tvN 예능 ‘놀라운 토요일’(이하 '놀토')에서는 연예계 패셔니스타 두 사람인&nbsp;엑소 카이와 코드 쿤스트가 등장했다. 각각 네 번, 세 번 째 출연한 이들은 소감을 전했다. 카이는 “사실 나올 때마다 정말 고맙다. 저처럼 실력 없는 사람을 네]]></content:encoded>
+            <title><![CDATA[이찬원 “1년 선배 정동원, 처음 만났을 때 ‘선배님’이라고 불렀다” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230325215823153</link>
+            <guid>https://v.daum.net/v/20230325215823153</guid>
+            <pubDate>Sat, 25 Mar 2023 13:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 임유리 기자] 이찬원이 정동원과의 첫 만남을 회상했다. 25일 방송된 KBS2TV 예능 프로그램 ‘불후의 명곡’은 ‘어리다고 얕보지 마’ 특집으로 꾸며졌다. 이날 MC 김준현이 “우리 찬원 MC는 모두와 굉장한 인연이 있다”고 하자 이찬원은 “그렇다. 내가 키운 사람들이다”라고 외쳐 웃음을 자아냈다. 이찬원은 “이 친구들이 오디션]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘댄스가수 유랑단’ 라방부터 뜨거운 열기..대학 축제→콘서트 게스트까지 '관심 집중' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230325210252816</link>
-            <guid>https://v.daum.net/v/20230325210252816</guid>
-            <pubDate>Sat, 25 Mar 2023 12:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김채연 기자] ‘댄스가수 유랑단’이 방송 전 라방을 통해 팬들을 만났다. 25일 유튜브 채널 ‘TEO’를 통해 김완선, 엄정화, 이효리, 보아, 화사가 출연하는 tvN ‘댄스가수 유랑단’의 라이브 영상이 진행됐다. 진행은 홍현희가 맡았다. 이날 멤버들은 지난주부터 SNS를 통해 받은 사연을 읽으면서 함께 유랑하면 좋을 장소를 추천받았다. 먼저]]></content:encoded>
+            <title><![CDATA['살림남2' 현진영 "20년 전 아내가 정신병원 보내..인성 인격장애 진단" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230325215638139</link>
+            <guid>https://v.daum.net/v/20230325215638139</guid>
+            <pubDate>Sat, 25 Mar 2023 13:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 정은채 인턴기자] /사진='살림남2' 방송화면 캡쳐[정은채 스타뉴스 인턴기자] '살림남2' 가수 현진영이 인성 인격장애를 진단 받았다고 털어놨다. 25일 방송된 KBS 2TV '살림하는 남자들 시즌2'에서 대한민국 1세대 힙합 뮤지션인 음악 프로듀서 현진영과 그의 아내 오서운이 새로운 살림남 부부로 출연했다. 이날 오서운은 현진영의 작업실 방]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우열 못 가렸나…김다현·전유진, 이례적 공동 우승 "말도 안 돼" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230325205002729</link>
-            <guid>https://v.daum.net/v/20230325205002729</guid>
-            <pubDate>Sat, 25 Mar 2023 12:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김현숙 인턴기자) 가수 김다현·전유진이 최종 우승을 차지했다. 25일 방송된 KBS 2TV '불후의 명곡' 599회는 '어리다고 얕보지 마' 특집으로 꾸며졌다. 이번 특집에는 전유진, 오유진, 김다현, 김태연, 안율, 김유하 등 총 6명의 신동이 출격했다. 이날 김다현이 앞서 김유하와 동갑내기 김유진을 꺾고 2연승을 차지했다.&nbsp; 다음 순서로는]]></content:encoded>
+            <title><![CDATA['피지컬:100' 출연료 논란?…윤성빈 "없었다"vs추성훈 "받았다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230325215002091</link>
+            <guid>https://v.daum.net/v/20230325215002091</guid>
+            <pubDate>Sat, 25 Mar 2023 13:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이예진 기자) 추성훈, 윤성빈이 '피지컬:100' 출연료와 관련해 상반된 반응을 보였다. 25일 방송된 JTBC ‘아는 형님’에는 넷플릭스 '피지컬:100'으로 모은 추성훈, 윤성빈이 출연해 다양한 이야기를 나눴다. 이날 '피지컬:100' 출연 이후 반응에 대해 윤성빈은 "어머니가 왜 저렇게 생고생을 시키냐고 하더라"라고 이야기했다. 서장훈은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“틴탑보다 연습 많이” ‘놀뭐’ 원탑, 3년만 무대에 뭉클..유재석 원픽은 양세형? (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230325204822724</link>
-            <guid>https://v.daum.net/v/20230325204822724</guid>
-            <pubDate>Sat, 25 Mar 2023 12:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김채연 기자] 유재석이 완벽 무대를 선보인 원탑에 뭉클한 모습을 보였다. 25일 방송된 MBC ‘놀면 뭐하니?’에서는 땡처리 엔터 유재석 대표가 야심차게 기획한 그룹 원탑과 주주 시크릿의 자체 평가 무대가 공개됐다 앞서 유재석은&nbsp;3년 전 애착 동생들을 모아 연습을 시작한 미완성의 틴탑&nbsp;‘To You(투유)’를 땡처리 엔터에서 다시 개시했다.&nbsp;유]]></content:encoded>
+            <title><![CDATA[현진영 아내 등장…과거 '내 이름은 김삼순' 현빈과 소개팅 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230325214759083</link>
+            <guid>https://v.daum.net/v/20230325214759083</guid>
+            <pubDate>Sat, 25 Mar 2023 13:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이이진 기자) 가수 현진영이 새롭게 합류했다. 25일 방송된 KBS 2TV '살림하는 남자들 시즌2'(이하 '살림남2')에서는 현진영이 새롭게 합류한 장면이 전파를 탔다. 이날 현진영은 "힙합 문익점 현진영이다"라며 소개했다. 현진영은 작업실에서 노래를 불렀고, 오서운은 "지금 시끄럽게 자꾸 음악을 틀어놓으면 어떻게 하냐. 아래에서 올라오면]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[넉살, 子 이름 최초 공개…김동현 주니어와 돌려막기 의혹도 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230325203129628</link>
-            <guid>https://v.daum.net/v/20230325203129628</guid>
-            <pubDate>Sat, 25 Mar 2023 12:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김현숙 인턴기자) 래퍼 넉살 아들의 이름이 최초로 공개됐다. 25일 방송된 tvN 예능 '놀라운 토요일'에는 코드쿤스트와 그룹 엑소 카이가 게스트로 출연했다.&nbsp; 이날 MC 붐이 넉살에게 "아이는 잘 크고 있냐"고 물었고, 샤이니 키 역시 "아이 이름이 뭐냐"고 궁금해했다.&nbsp; 이에 넉살이 "이름은 윤우다"라고 최초로 아들의 이름을 공개했다.&nbsp;]]></content:encoded>
+            <title><![CDATA[윤성빈 "'더 글로리' 재밌게 봤다‥이상형 임지연♥" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230325214746082</link>
+            <guid>https://v.daum.net/v/20230325214746082</guid>
+            <pubDate>Sat, 25 Mar 2023 13:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최지연 기자] '아는 형님' 윤성빈이 임지연을 이상형이라고 밝혔다.&nbsp; 25일 방송된 JTBC 예능 '아는 형님'(이하 '아형')에는 예능과 피지컬을 합친 동아리 '예지컬'로 추성훈, 윤성빈이 게스트로 출연한 가운데 윤성빈이 임지연을 이상형이라 밝혀 눈길을 끌었다.&nbsp; 이날 형님들은 윤성빈에게 연애 중이냐고 물었다. 그러자 윤성빈은 아니라고 대답]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['주주 시크릿' 박진주X이미주, 고대 행사서 깜짝 데뷔 '대박 조짐' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230325203002621</link>
-            <guid>https://v.daum.net/v/20230325203002621</guid>
-            <pubDate>Sat, 25 Mar 2023 12:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이이진 기자) 배우 박진주와 러블리즈 출신 이미주가 결성한 주주 시크릿이 고려대학교 동아리 박람회에서 무대를 선보였다. 25일 방송된 MBC '놀면 뭐하니?'(이하 '놀뭐')에서는 '땡처리 엔터' 특집으로 꾸며진 가운데 주주 시크릿(박진주, 이미주)과 원탑(유재석, 하하, 양세형, 조세호, 이이경, 황광희, 유병재)이 자체 평가 무대를 공개한]]></content:encoded>
+            <title><![CDATA[지상렬 “이덕화, 돈 없어서 탈모겠냐…머리에 공사 허가가 안 난다” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230325214732078</link>
+            <guid>https://v.daum.net/v/20230325214732078</guid>
+            <pubDate>Sat, 25 Mar 2023 13:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이슬기 기자] '모내기클럽' 지상렬이 탈모에 대해 말했다. 3월 25일 방송된 MBN-LG헬로비전 ‘모내기클럽’에는  ‘탈모 in 멜로디’ 팀 지상렬, 슬리피, 보이비와 ‘빠진 녀석들’ 팀 신범식, 김원중, 전우재가 출연했다. 이날 지상렬은 과거 머리숱이 아주 많았다며 드레드 머리를 하던 시절을 추억했다. 이어 그는 "존경하는 덕화 형님이 "세월]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[황희찬, 손목 키스+타투 공개…상탈 화제 될 줄 몰라 “브래지어인 줄” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230325202703608</link>
-            <guid>https://v.daum.net/v/20230325202703608</guid>
-            <pubDate>Sat, 25 Mar 2023 12:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이슬기 기자] '한국인의 식판' 황희찬이 세리머니 비하인드를 밝혔다. 3월 25일 방송된 JTBC '한국인의 식판'에서는 영국 울버햄튼FC 구단으로 첫 번째 식판 대장정을 떠난 멤버들이 그려졌다. 이날 방송서 이연복 셰프, 김민지 영양사, 홍진경, 허경환, 몬스타엑스 주헌은 황희찬의 의뢰를 받고 영국으로 찾아갔다. 이날 멤버들은 황희찬의 트레이]]></content:encoded>
+            <title><![CDATA['살림남2' 현진영, 인성 인격장애 고백 "14살에 인격 멈춰···아내 이별할까 정신병원 가" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230325214439049</link>
+            <guid>https://v.daum.net/v/20230325214439049</guid>
+            <pubDate>Sat, 25 Mar 2023 13:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=오세진 기자] '살림남2' 가수 현진영이 인성 인격장애를 고백했다. 25일 방영된 KBS2TV 예능 '살림남2'에서는 K-POP의 원조 격인 현진영이 등장했다. 각종 유행을 불러 일으켰던 그는 대마초 등 마약 관련 범죄를 저질러 한 때 방송에 나오지 않았다. 이어 아내를 만났던 현진영은 아내 덕분에 정신병원에서 치료를 받게 됐다. 마약 범죄자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['놀토' 엑소 카이, 게임은 못해도 "감"으로 해냈다···보답 성공 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230325202026574</link>
-            <guid>https://v.daum.net/v/20230325202026574</guid>
-            <pubDate>Sat, 25 Mar 2023 12:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=오세진 기자] ‘놀라운 토요일' 엑소 카이가 '놀토' 제작진에게 보답을 했다. 25일 방영된 tvN 예능 ‘놀라운 토요일’(이하 '놀토')에서는 연예계 패셔니스타 코드 쿤스트(이하 '코쿤')와 엑소 카이가 등장했다.&nbsp;카이는 “사실 나올 때마다 정말 고맙다. 저처럼 실력 없는 사람을 네 번이나 부르다니, 정말 정 있는 프로그램이다”라고 말하더니]]></content:encoded>
+            <title><![CDATA[추성훈 “딸 사랑, 인기에 트라우마”→강호동 子 사윗감으로 관심 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230325214229037</link>
+            <guid>https://v.daum.net/v/20230325214229037</guid>
+            <pubDate>Sat, 25 Mar 2023 13:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 격투기 선수 추성훈이 강호동과 사돈 맺기에 관심을 보였다. 3월 25일 방송된 JTBC 예능 '아는 형님'(이하 '아형') 376회에는 추성훈, 윤성빈이 게스트로 출연했다. 이날 추성훈은 딸 사랑이의 근황을 묻자 "엄청 많이 컸고 이제 12살이 돼서 곧 있음 중학교에 올라간다. 엄마를 닮아 팔 다리가 너무 길다"고 자랑했다. 추]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이연복X김민지, 울버햄튼FC 홈구장 찾아 당황 "오븐으로 밥을 짓는다고?" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230325202024573</link>
-            <guid>https://v.daum.net/v/20230325202024573</guid>
-            <pubDate>Sat, 25 Mar 2023 12:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최지연 기자] '한국인의 식판' 이연복과 김민지가 오븐으로 밥을 해야된다는 말에 놀랐다.&nbsp; 25일&nbsp;방송된 JTBC 새 예능프로그램 '한국인의 식판'(이하 '식판')에는 황희찬 선수의 의뢰를 받고 울버햄튼FC로 찾아간 급식군단의 모습이 보여졌다.&nbsp; 이날&nbsp;홍진경은 "우리가 K급식 홍보하러 가잖아, 급식에 랍스타가 나오고 하니까 전 세계 사람들이]]></content:encoded>
+            <title><![CDATA[신범식 “시켜서 어쩔 수 없이…고소영 심은하 김혜수 납치” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230325214020022</link>
+            <guid>https://v.daum.net/v/20230325214020022</guid>
+            <pubDate>Sat, 25 Mar 2023 13:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이슬기 기자] '모내기클럽' 신범식이 자주 맡은 배역에 대해 이야기했다. 3월 25일 방송된 MBN-LG헬로비전 ‘모내기클럽’에는  ‘탈모 in 멜로디’ 팀 지상렬, 슬리피, 보이비와 ‘빠진 녀석들’ 팀 신범식, 김원중, 전우재가 출연했다. 이날 박명수는 "기억에 남는 대사가 있으신가요?"라고 전우재와 신범식에게 물었다. 전우재는 자신 만의 명대]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코드 쿤스트, 제작진 음원 조작 의혹 제기 "개수작 有" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230325202001568</link>
-            <guid>https://v.daum.net/v/20230325202001568</guid>
-            <pubDate>Sat, 25 Mar 2023 12:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 김노을 기자] /사진=tvN 방송화면[김노을 스타뉴스 기자] 프로듀서 코드 쿤스트가 제작진의 음원 조작론을 제기했다. 25일 오후 방송된 tvN 예능 프로그램 '놀라운 토요일'에는 엑소 카이와 프로듀서 코드 쿤스트가 출연했다. 이날 코드 쿤스트는 "여기 나올 때마다 항상 잘 못했다"고 운을 뗐다. 그는 "최근 방송을 좀 챙겨봤는데 제작진들이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“되게 짜증났다” 이연복의 K급식→김민지 영양사 태클에 폭발 예고 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230325201321511</link>
-            <guid>https://v.daum.net/v/20230325201321511</guid>
-            <pubDate>Sat, 25 Mar 2023 12:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이슬기 기자] 이연복 셰프와 김민지 영양사의 갈등이 예고됐다. 3월 25일 방송된 JTBC '한국인의 식판'에서는 영국 울버햄튼FC 구단으로 첫 번째 식판 대장정을 떠난 멤버들이 그려졌다. 이날 방송서 50년 경력의 이연복은 '한국인의 식판' 원정대를 이끌 셰프로 등장했다. 여이게 고등학교 영양사 재직 당시 명품 급식으로 화제를 일으킨 김민지 영]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코쿤, 엑소 카이에 "신은 다 안 줘"→신동엽 "오프닝에 춤 췄잖아"···효자돌 등극 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230325200805459</link>
-            <guid>https://v.daum.net/v/20230325200805459</guid>
-            <pubDate>Sat, 25 Mar 2023 12:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=오세진 기자] ‘놀라운 토요일' 엑소 카이의 텅 빈 받쓰판에 코쿤은 신의 공평함을 느꼈다. 25일 방영된 tvN 예능 ‘놀라운 토요일’(이하 '놀토')에서는 연예계 패셔니스타 카이와 코드 쿤스트(이하 '코쿤')가 등장했다.&nbsp;카이는 “사실 나올 때마다 정말 고맙다. 저처럼 실력 없는 사람을 네 번이나 부르다니, 정말 정 있는 프로그램이다”라고]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['불후' 절친 김다현·전유진, 무승부로 공동 우승 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230325200308414</link>
-            <guid>https://v.daum.net/v/20230325200308414</guid>
-            <pubDate>Sat, 25 Mar 2023 11:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 정은채 인턴기자] /사진='불후의명곡' 방송화면 캡쳐[정은채 스타뉴스 인턴 기자] '불후의명곡' 김다현과 전유진이 공동 우승을 차지했다. 25일 오후 방송된 KBS 2TV 예능 프로그램 '불후의 명곡' 599회에서는 '어리다고 얕보지 마' 특집이 꾸며졌다. 이번 특집에서는 전유진, 오유진, 김다현, 김태연, 안율, 김유하 등 평균 연령 12.3]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘놀면 뭐하니’ 현직 아이돌 뺨치는 ‘주주 시크릿’..대학 행사서 첫 데뷔 무대 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230325195725359</link>
-            <guid>https://v.daum.net/v/20230325195725359</guid>
-            <pubDate>Sat, 25 Mar 2023 11:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김채연 기자] 주주 시크릿(이미주, 박진주)가 소속사 자체 평가 무대부터 첫 데뷔 무대로 대학교 행사까지 완벽하게 마무리했다. 25일 방송된 MBC ‘놀면 뭐하니?’에서는 땡처리 엔터 유재석 대표가 야심차게 기획한 걸그룹 주주 시크릿의 ‘밤이 무서워요’ 첫 데뷔 무대가 공개됐다. 앞서 유재석은&nbsp;3년 전 애착 동생들을 모아 연습을 시작한 미완성의]]></content:encoded>
+            <title><![CDATA[추성훈 "조그만 XX가" VS 이수근 "母한테 말해서 귀신 푼다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230325214017019</link>
+            <guid>https://v.daum.net/v/20230325214017019</guid>
+            <pubDate>Sat, 25 Mar 2023 13:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최지연 기자] '아는 형님' 이수근이 귀신을 무서워하는 추성훈을 협박했다.&nbsp; 25일 방송된 JTBC 예능 '아는 형님'(이하 '아형')에는 예능과 피지컬을 합친 동아리 '예지컬'로 추성훈, 윤성빈이 게스트로 출연해 눈길을 끌었다.&nbsp; 이날 이수근은 추성훈에게 "횡단보도 귀신 다시 안 봤냐"고 물었다. 추성훈은&nbsp;7년 전 '아형'에 출연해 횡단보도]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘노추’ 휴그랜트 VS 반가운 ‘브리저튼’ 레게 장 페이지, 유쾌하지만 유치하지 않은 ‘던전 앤 드래곤:도적들의 명예’ (다음 연예 ─ 뉴스 ─ 영화)]]></title>
