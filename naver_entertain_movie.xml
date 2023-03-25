@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-03-25T14:03:45.614Z</updated>
+    <updated>2023-03-25T15:03:54.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“이정재=꼭 알아야 할 한국 배우”, 글로벌 존재감+행보]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001040721</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001040721"/>
+        <updated>2023-03-25T15:03:04.116Z</updated>
+        <content type="html"><![CDATA[배우 이정재가 '글로벌 스타' 존재감을 보여줬다. 이정재는 최근 아르헨티나 대표 매체 라나시온이 꼽은 "꼭 알아야 할 한국 배우 10명"로 선정됐다. 라나시온은 이정재에 대해 "에미상과 배우 조합상(SAG)을 수상한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[영화리뷰] 영화 ‘웅남이’, 지친 하루 ‘무해한 웃음’을 원한다면]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000639683</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003139049"/>
         <updated>2023-03-25T01:59:04.790Z</updated>
         <content type="html"><![CDATA[○...마약 투약 혐의로 경찰 조사를 받고 있는 배우 유아인이 지난 24일로 예정됐던 경찰 소환조사 일정을 연기했다. 유아인 법률대리인을 맡고 있는 법률사무소 인피니티는 23일 공식입장을 통해 "유아인은 현재 서울경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[온더레코드]박성광 감독 "개그맨 출신 편견 이겨내야죠"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0005235962</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0005235962"/>
-        <updated>2023-03-25T01:59:04.791Z</updated>
-        <content type="html"><![CDATA[코미디언 박성광(41)은 2007년 KBS 22기 공채 개그맨에 합격해 이름을 알렸다. 그는 남다른 비주얼로 일찍이 '개그콘서트'에서 주목받았고, "1등만 기억하는 더러운 세상"이라는 유행어를 남기며 승승장구했다.]]></content>
     </entry>
 </feed>
