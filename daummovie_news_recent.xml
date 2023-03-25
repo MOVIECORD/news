@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-03-25T20:04:35.344Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 25 Mar 2023 21:07:58 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웃음 사냥꾼들 등판…'리바운드'·'킬링~'·'드림', 4월 韓 영화 살릴까 [N초점]]]></title>
+            <link>https://v.daum.net/v/20230326060026387</link>
+            <guid>https://v.daum.net/v/20230326060026387</guid>
+            <pubDate>Sat, 25 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 웃음 사냥꾼들은 흔들리는 한국 영화의 위상을 바로잡을 수 있을까. 3월에도 한국 영화의 부진은 계속되고 있다. 현재 극장가를 꽉 잡고 있는 것은 일본 애니메이션들이다. 지난 1월에 개봉해 아직까지 박스오피스 상위권에 머물고 있는 '더 퍼스트 슬램덩크'는 420만여명의 누적 관객(이하 24일 영화관 입장권 통합전산망 기준]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F26%2FNEWS1%2F20230326060027708uduk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
