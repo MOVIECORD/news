@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-03-25T13:11:23.231Z</updated>
+    <updated>2023-03-25T14:03:45.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[영화리뷰] 영화 ‘웅남이’, 지친 하루 ‘무해한 웃음’을 원한다면]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000639683</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000639683"/>
+        <updated>2023-03-25T14:03:01.976Z</updated>
+        <content type="html"><![CDATA[영화 ‘웅남이’(박성웅 감독)는 단군신화를 유쾌하게 재해석한 영화다. 100일 동안 마늘과 쑥을 먹고 곰에서 사람이 된 웅남이와 웅북이의 이야기를 그렸다. 종복 기술원에서 비밀리에 관리하던 쌍둥이 반달곰이 사라진다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모나리자와 블러드 문' 전종서, 이 분위기 美쳤다..할리우드서도 독보적]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003621822</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0005235962"/>
         <updated>2023-03-25T01:59:04.791Z</updated>
         <content type="html"><![CDATA[코미디언 박성광(41)은 2007년 KBS 22기 공채 개그맨에 합격해 이름을 알렸다. 그는 남다른 비주얼로 일찍이 '개그콘서트'에서 주목받았고, "1등만 기억하는 더러운 세상"이라는 유행어를 남기며 승승장구했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스즈메·슬램덩크·귀칼, 日 애니 뜨는데 한국은 뭐하냐고요? [SE★초점]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004171242</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004171242"/>
-        <updated>2023-03-25T01:59:04.793Z</updated>
-        <content type="html"><![CDATA[일본 애니메이션 영화 열풍이 대단하다. 25일 기준 국내 박스오피스 10위권 내 3편이 일본 애니메이션 영화다. 1위는 ‘스즈메의 문단속’(감독 신카이 마코토)으로, 지난 20일 200만 관객을 돌파하며 신카이 마코]]></content>
     </entry>
 </feed>
