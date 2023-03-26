@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 20:03:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 21:03:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김혜은, KBS ‘어쩌다 마주친, 그대’ 특별출연]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=254967</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=254967</guid>
+            <pubDate>Sun, 26 Mar 2023 21:02:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=254967">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230324135148_212cf10ea614934d0ea69be0724645d0.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=254967">김혜은, KBS ‘어쩌다 마주친, 그대’ 특별출연 </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%96%B4%EC%A9%8C%EB%8B%A4%20%EB%A7%88%EC%A3%BC%EC%B9%9C%20%EA%B7%B8%EB%8C%80">월화드라마 어쩌다 마주친 그대</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230324135148_212cf10ea614934d0ea69be0724645d0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[걸어서 환장 속으로] 아이들이 울건 말건 물놀이에 진심인 문희준?!...가족들 원성만 가득]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=255339</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230326102611_463b6b0d570cc87f735e8fc499b86de6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[배틀트립2] 신봉선—한해, 2인 50만원 베트남 여행 시작...봉인 해제 여행]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=255263</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=255263</guid>
-            <pubDate>Sun, 26 Mar 2023 02:08:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=255263">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230326101928_30daf16f5251fd75651cd9c780a21e7f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=255263">[배틀트립2] 신봉선—한해, 2인 50만원 베트남 여행 시작...봉인 해제 여행</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230326101928_30daf16f5251fd75651cd9c780a21e7f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
