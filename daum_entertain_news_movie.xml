@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-03-27T19:05:48.215Z</updated>
+    <updated>2023-03-27T20:04:11.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['에어' 벤 애플렉 "마이클 조던과의 만남···기억에 남을 만한 시간"]]></title>
+        <id>https://v.daum.net/v/20230328050307114</id>
+        <link href="https://v.daum.net/v/20230328050307114"/>
+        <updated>2023-03-27T20:04:10.524Z</updated>
+        <content type="html"><![CDATA[[서울경제] 영화 '에어’ 감독이자 주연 배우 밴 애플렉이 역사상 최고의 스포츠 스타 마이클 조던과 협업했던 순간을 회상했다. 28일 오전 (한국 시간) '에어'(감독 벤 애플렉)의 화상 라이브 컨퍼런스가 열렸다. 이날 행사는 감독이자 주연 배우인 벤 애플렉, 각본을 맡은 알렉스 콘베리, 그리고 배우 멧 데이먼, 비올라 데이비스, 말론 웨이언스, 줄리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[못생겼지만 사랑스러워...'슈렉' 인기 이을 애니 '오글리스']]></title>
         <id>https://v.daum.net/v/20230328031330278</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230327182513193"/>
         <updated>2023-03-27T10:05:35.343Z</updated>
         <content type="html"><![CDATA[(서울=연합뉴스) 양정우 김정진 기자 = 일본 애니메이션 '스즈메의 문단속'이 300만 관객을 돌파했다. 27일 영화관입장권 통합전산망 등에 따르면 신카이 마코토 감독의 '스즈메의 문단속'은 이날 오후 4시 30분 기준 누적 관객 수 300만명을 넘어섰다. 신카이 감독은 이날 감사 영상을 통해 "한국 분들이 영화를 잘 즐겨주신다는 것을 실감하며 날마다 행복]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스즈메' 300만 돌파..신카이 마코토 감독 내한 '어게인'→약속 지킨다]]></title>
-        <id>https://v.daum.net/v/20230327182308141</id>
-        <link href="https://v.daum.net/v/20230327182308141"/>
-        <updated>2023-03-27T10:05:35.345Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 김미화 기자] /사진='스즈메의 문단속' [김미화 스타뉴스 기자] 애니메이션 '스즈메의 문단속'이 2023년 개봉작 중 최단기간 300만 관객을 돌파했다. '스즈메의 문단속'은 개봉 후 계속 박스오피스 1위를 지키고 있는 가운데, 신카이 마코토 감독이 재내한을 확정했다. '스즈메의 문단속'은 개봉 20일째인 27일 누적관객수 300만 명을 돌파]]></content>
     </entry>
 </feed>
