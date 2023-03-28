@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 19:03:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 20:06:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['어쩌다 마주친, 그대'  진기주, 1987년 여고생 백윤영 변신]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=254896</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=254896</guid>
+            <pubDate>Tue, 28 Mar 2023 20:05:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=254896">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230324081722_24bc0b8499ecc8d5c2aecd4d2034de23.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=254896">'어쩌다 마주친, 그대'  진기주, 1987년 여고생 백윤영 변신</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%96%B4%EC%A9%8C%EB%8B%A4%20%EB%A7%88%EC%A3%BC%EC%B9%9C%20%EA%B7%B8%EB%8C%80">월화드라마 어쩌다 마주친 그대</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230324081722_24bc0b8499ecc8d5c2aecd4d2034de23.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오아시스] “깡패 그만두면 나랑 살아줄래?” 감춰왔던 마음 털어놓는 장동윤, 키스로 화답하는 설인아]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=255725</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">개는 훌륭하다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230328014937_6b21388884b17bd5ee649b691d430896.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[개는 훌륭하다] 동네 깡패도 이보다는 친절해~ 귀청 떨어지는 수삼이의 위험천만 산책길]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=255543</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=255543</guid>
-            <pubDate>Mon, 27 Mar 2023 17:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=255543">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230328014611_e5bc79b58f10780f6f9ea37948ab623e_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=255543">[개는 훌륭하다] 동네 깡패도 이보다는 친절해~ 귀청 떨어지는 수삼이의 위험천만 산책길</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">개는 훌륭하다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230328014611_e5bc79b58f10780f6f9ea37948ab623e_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
