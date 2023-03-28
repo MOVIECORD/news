@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-03-28T20:06:33.842Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 28 Mar 2023 23:04:22 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스페인 출신 美 감독, 韓에서 할리우드 영화 찍을 결심 [인터뷰]]]></title>
+            <link>https://v.daum.net/v/20230329080010999</link>
+            <guid>https://v.daum.net/v/20230329080010999</guid>
+            <pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 스타in 이영훈 기자] 산티아고 마네스 모레노 감독 인터뷰[이데일리 스타in 김보영 기자] “다섯 번 정도 방문하면서 느낀 한국의 이미지는 굉장히 근미래적이었어요. 사람들의 편의를 최대한 살린 실용적인 공간과 서비스가 많은, 창의성 넘치는 도시였죠. 다른 국가는 물론 한국인조차 잘 알지 못하는 한국이란 공간의 매력을 SF 장르에 담아내고 싶었어]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F29%2FEdaily%2F20230329080012507dyok.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘몸값’ 칸 간다, 국제 시리즈 장편 경쟁부문 초청]]></title>
+            <link>https://v.daum.net/v/20230329075956973</link>
+            <guid>https://v.daum.net/v/20230329075956973</guid>
+            <pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘몸값’이 칸으로 간다. 티빙은 오리지널 시리즈 ‘몸값’이 국내 OTT 오리지널 시리즈로는 처음으로 칸 국제 시리즈 페스티벌 장편 경쟁부문에 공식 초청됐다고 28일 밝혔다. 티빙 오리지널 시리즈 ‘몸값’은 28일(현지 시간) 칸 국제 시리즈 페스티벌 측의 발표로 장편 경쟁 부문에 공식 초청을 받았다. ‘몸값’은 장편 경쟁 부문 후보작 10편과 경합을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F29%2Fsportskhan%2F20230329075957526tzno.png" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['스즈메의 문단속' 307만 동원 21일 연속 1위…'웅남이' 2위[美친 box]]]></title>
+            <link>https://v.daum.net/v/20230329075751952</link>
+            <guid>https://v.daum.net/v/20230329075751952</guid>
+            <pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자] ‘스즈메의 문단속’이 21일 연속으로 1위 자리를 지키고 있어 눈길을 끈다. 29일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날(28일) ‘스즈메의 문단속’은 5만 2312명을 동원해 일별 박스오피스 1위를 유지했다. ‘스즈메의 문단속’(감독 신카이 마코토, 수입 미디어캐슬, 배급 쇼박스)은 우연히 재난을 부르는 문을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F29%2Fpoctan%2F20230329075751129nmhg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[종합] '마약 혐의 인정' 유아인, 살아보지 못한 '건강한 순간' 호소에 가려진 중요한 쟁점]]></title>
+            <link>https://v.daum.net/v/20230329071916355</link>
+            <guid>https://v.daum.net/v/20230329071916355</guid>
+            <pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 배우 유아인이 길고 긴 시간 끝에 죄를 인정했다. 프로포폴, 대마, 코카인, 케타민 등 4가지의 마약 투약 혐의로 논란이 된 그는 50일 만에 입을 열고 자신이 살아보지 못한 '건강한 순간'을 살 수 있는 기회를 달라며 호소했다. 유아인은 27일 오전 9시 20분께 서울경찰청 마포청사에 출석했다. 피의자 신분 첫 비]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F29%2FSpoChosun%2F20230329071916375xrsb.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[중국판 '인터스텔라' 개봉한다...'유랑지구2', 오는 5월 개봉]]></title>
+            <link>https://v.daum.net/v/20230329071330271</link>
+            <guid>https://v.daum.net/v/20230329071330271</guid>
+            <pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=이예은 기자] 중국판 영화 '인터스텔라'로 불리는 SF 블록버스터 영화 '유랑지구2'가 오는 5월 국내에서 개봉된다.&nbsp; 영화 '유랑지구2'는 태양계 소멸로 지구가 멸망 위기에 봉착, 인류가 생존을 위해 지구의 궤도를 옮기는 범우주적 생존 프로젝트를 진행 중 달과의 충돌이라는 끔찍한 대재앙에 휩싸인 이야기를 그린다. 이번 작품은 SF 소설의 거장]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F29%2Ftvreport%2F20230329071334559ecak.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['스즈메의 문단속' 21일 연속 1위…'웅남이' 20만 돌파 목전 [Nbox]]]></title>
+            <link>https://v.daum.net/v/20230329070657169</link>
+            <guid>https://v.daum.net/v/20230329070657169</guid>
+            <pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 일본 애니메이션 영화 '스즈메의 문단속'이 21일 연속 박스오피스 1위를 수성했다. 29일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 '스즈메의 문단속'은 지난 28일 1357개 스크린에서 5만2311명의 관객을 동원하며 누적관객수 307만4515명을 기록, 박스오피스 1위를 지켰다. '스즈메의 문단속'은 우]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F29%2FNEWS1%2F20230329070658418vjcu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['감독 데뷔' 손미나 "나는 이야기꾼…창작의 행복 느껴"]]></title>
+            <link>https://v.daum.net/v/20230329070508148</link>
+            <guid>https://v.daum.net/v/20230329070508148</guid>
+            <pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 김정진 기자 = "처음부터 영화를 만들려고 한 건 아니었어요. 그냥 기록해야겠다고 생각했죠. 극장 상영은 더더욱 생각 안 했는데 갑자기 입봉을 '당한' 거죠. (웃음)" 연예계 대표 '팔방미인' 손미나에게 영화감독이라는 새로운 타이틀이 더해졌다. 첫 연출작은 29일 개봉하는 다큐멘터리 '엘 카미노'다. 영화는 손미나가 800㎞에 달하는 산]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F29%2Fyonhap%2F20230329070508635hmys.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘슬램덩크’ 예매율 1위 탈환…일본도 놀란 인기]]></title>
+            <link>https://v.daum.net/v/20230329063014691</link>
+            <guid>https://v.daum.net/v/20230329063014691</guid>
+            <pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘더 퍼스트 슬램덩크’가 장기 흥행을 이어가기 위해 다양한 이벤트를 진행한다. 사진제공｜NEW 올해 개봉작 중 최고 흥행 기록을 쓴 일본 애니메이션 영화 ‘더 퍼스트 슬램덩크’의 인기가 꺾일 줄 모른다. 팬들의 뜨거운 성원에 힘입어 아이맥스 확대 상영을 확정하고, 예매율 1위까지 탈환했다. 이 같은 영화의 인기에 일본까지 놀란 눈치다. 28일 영화관입장]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F29%2Fsportsdonga%2F20230329063017019uowc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[후IS ] 미셸 로드리게스, 걸크러시의 화신 ③]]></title>
+            <link>https://v.daum.net/v/20230329062013611</link>
+            <guid>https://v.daum.net/v/20230329062013611</guid>
+            <pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[미셸 로드리게스가 가장 잘 하는 ‘걸 크러시’를 또 한번 해냈다. 오는 29일 개봉하는 영화 ‘던전 앤 드래곤: 도적들의 명예’에서다. 롤 플레잉 게임을 원작으로 한 영화답게 극 중에서 다양하고 매력적인 캐릭터가 등장하지만, 그중에서도 미셸 로드리게스는 강인한 전사 바바리안 ‘홀가’ 역을 맡아 눈길을 끌었다. ‘던전 앤 드래곤: 도적들의 명예’는 오래전]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F29%2Filgansports%2F20230329062017782oruf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[빌런이 대머리인 이유가 있다...‘던전 앤 드래곤’ 속 재밌는 설정 ②]]></title>
+            <link>https://v.daum.net/v/20230329062007605</link>
+            <guid>https://v.daum.net/v/20230329062007605</guid>
+            <pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘던전 앤 드래곤: 도적들의 명예’는 미국에서 1970~80년대에 유행한 TRPG게임 ‘던전 앤 드래곤’을 원작으로 만들었다. 영화 자체는 게임 ‘던전 앤 드래곤’을 몰라도 감상할 수 있지만, 게임 속 세계관과 캐릭터 설정을 잘 녹여냈다. 미리 알아두면 더 재미있는 ‘던전 앤 드래곤’ 속 설정을 소개한다. ◇ ‘던전 앤 드래곤’ 속 가장 유명한 세]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F29%2Filgansports%2F20230329062010226qowv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 추억의 게임 ‘던전 앤 드래곤’은 무엇?...한국 ‘공책게임’과 비슷 ①]]></title>
+            <link>https://v.daum.net/v/20230329062003603</link>
+            <guid>https://v.daum.net/v/20230329062003603</guid>
+            <pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[할리우드 판타지 영화 ‘던전 앤 드래곤: 도적들의 명예’(이하 ‘던전 앤 드래곤’)가 오는 29일 개봉한다. ‘던전 앤 드래곤’은 오래전 사라진 유물을 차지하기 위해 한 팀이 된 도적들이 전혀 예상치 못한 모험을 펼치게 되는 이야기를 담았다. 음유시인이자 비밀결사 ‘하퍼즈’ 소속인 에드긴(크리스 파인)은 사랑하는 아내를 잃은 후 긍지를 버리고 좀도둑으로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F29%2Filgansports%2F20230329062005286xzbs.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[안재홍 개인기에 기댄 '리바운드'…농놀 품은 코미디]]></title>
+            <link>https://v.daum.net/v/20230329060257380</link>
+            <guid>https://v.daum.net/v/20230329060257380</guid>
+            <pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['라이터를 켜라'(2002)로 영화 연출을 시작해 예능프로그램에서 활약해온 장항준(53) 감독이 국내 첫 농구 소재 스포츠 영화 '리바운드'에 도전했다. 코미디에서 장기를 발휘해온 장 감독의 도전은 관객에게 어떤 평가를 받을까. 어깨가 무겁다. 4월 첫 주자로 나서는 영화가 한국영화의 신뢰를 회복하고 극장가에 활력을 불어넣을지 주목된다. 장 감독은 28일]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202303%2F29%2Fakn%2F20230329060258377wapx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
