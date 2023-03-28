@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-03-28T17:07:24.545Z</updated>
+    <updated>2023-03-28T19:03:20.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[키아누 리브스 '존 윅4' 美 흥행에 속편 기대 '솔솔']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013844023</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013844023"/>
+        <updated>2023-03-28T19:02:28.248Z</updated>
+        <content type="html"><![CDATA[미국 개봉 첫 주 960억 원 수익, 역대 2위 임미나 특파원 = 할리우드 스타 키아누 리브스가 주연한 영화 '존 윅4'가 미국에서 기대 이상의 흥행 성적을 내면서 속편 제작 가능성이 점쳐지고 있다. 28일(현지시간]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘슬램덩크’ 잇는 뭉클한 기적의 농구영화 ‘리바운드’[이 영화]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=014&amp;aid=0004988306</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003622361"/>
         <updated>2023-03-28T10:06:46.485Z</updated>
         <content type="html"><![CDATA[오합지졸 팀원들이 농구에 대한 열정 하나로 하나가 되어가는 성장 과정을 통해 따뜻한 감동을 안겨준다. 영화 '리바운드'(감독 장항준/제작 비에이엔터테인먼트, 워크하우스컴퍼니) 언론배급시사회가 28일 오후 서울 용산구]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['리바운드' 장항준X안재홍 "소년들의 열망은 누구보다 뜨거웠다" [종합]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001574211</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001574211"/>
-        <updated>2023-03-28T10:06:46.495Z</updated>
-        <content type="html"><![CDATA['리바운드' 뜨거운 청춘들의 인생 반란이 펼쳐진다. 28일 오후 서울 용산구 CGV용산아이파크몰에서 영화 '리바운드'(감독 장항준) 언론시사회가 열렸다. 이 자리에는 장항준 감독과 배우 안재홍, 이신영, 정진운, 김]]></content>
     </entry>
 </feed>
