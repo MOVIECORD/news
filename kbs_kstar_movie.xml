@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 00:31:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 02:04:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제10회 마리끌레르 영화제 4월 개막... "배두나 특별전"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=255607</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=255607</guid>
+            <pubDate>Tue, 28 Mar 2023 02:03:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=255607">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230328100721_d884cc7821bcee29fe8347312cb77670.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=255607">제10회 마리끌레르 영화제 4월 개막... "배두나 특별전"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230328100721_d884cc7821bcee29fe8347312cb77670.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 '돌풍'은 계속된다... 설경구-김희애 캐스팅]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=255592</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=254394">"쇼타임~ 서울시장 갑시다!"  김희애-문소리 '퀸메이커'...  4월 넷플릭스 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230318080156_145a0e95641d0beb40e44a1ad08f5221.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍상수 감독, 29번째 장편영화 '물안에서' 4월 개봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=254438</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=254438</guid>
-            <pubDate>Mon, 20 Mar 2023 22:04:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=254438">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230318193922_909a22c36a066328aeff69ec4645b868.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=254438">홍상수 감독, 29번째 장편영화 '물안에서' 4월 개봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230318193922_909a22c36a066328aeff69ec4645b868.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
