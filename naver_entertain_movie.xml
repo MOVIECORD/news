@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-03-30T15:08:27.230Z</updated>
+    <updated>2023-03-30T16:09:25.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마이클 패스벤더·정호연 나홍진 영화 합류 [연예뉴스 HOT]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001042069</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001042069"/>
+        <updated>2023-03-30T16:08:35.330Z</updated>
+        <content type="html"><![CDATA[배우 황정민, 조인성, 정호연 그리고 할리우드 배우 마이클 패스벤더와 알리시아 비칸데르 부부가 나홍진 감독의 신작 ‘호프’에 출연한다. 30일 투자배급사 플러스엠 엔터테인먼트에 따르면 이들은 최근 영화 출연을 확정했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[새영화] 공소시효 만료 후 3년, 우연히 범인 만나 복수…삶 포기하려는 남자 이웃 관심에 변화 과정 그려]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000961383</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049924"/>
         <updated>2023-03-30T10:04:59.613Z</updated>
         <content type="html"><![CDATA[_2001 21세기 스필버그의 분기점. 2001년 &lt;필름 코멘트&gt; 투표에서 5위를 차지한 는 어둡고 묵직한 전개로 대중에겐 외면을, 평단에선 지지를 받았다. 스탠리 큐브릭의 유작이 될 수도 있었던 이야기는 스필버그의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기획] 스티븐 스필버그 감독 필모그래피 총정리: 90년대]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049923</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049923"/>
-        <updated>2023-03-30T10:04:59.615Z</updated>
-        <content type="html"><![CDATA[_1991 동화 &lt;피터팬&gt;을 어른의 시각에서 각색한 &lt;후크&gt;는 동심을 바라보는 스필버그의 태도와 철학이 진하게 묻어나는 작품이다. &lt;컬러 퍼플&gt;(1985), &lt;태양의 제국&gt;(1987) 등 80년대 작품이 연달아 참패]]></content>
     </entry>
 </feed>
