@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-03-31T21:05:30.520Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 31 Mar 2023 22:06:26 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스포츠영화 봇물…성공한 ‘스포츠 영화’들 공통점은 [N초점]]]></title>
+            <link>https://v.daum.net/v/20230401063012022</link>
+            <guid>https://v.daum.net/v/20230401063012022</guid>
+            <pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = '국가대표'(2009)나 '우생순'(2008) 같은 스포츠 영화들의 성공 전례가 10여년 만에 재현될 수 있을까. 한동안 스릴러나 범죄 영화 같은 장르에 치중돼 있던 한국 영화지만, 올해는 다양한 스포츠 영화들이 개봉을 했거나 앞두고 있어 눈길을 끈다. 올해 최고 흥행작은 일본 애니메이션 '더 퍼스트 슬램덩크'다. 농구]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F01%2FNEWS1%2F20230401063013935yopu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
