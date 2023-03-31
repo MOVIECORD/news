@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-03-31T20:07:22.971Z</updated>
+    <updated>2023-03-31T21:05:30.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["단편영화 마니아 모여라"…BISFF 시네필 배지 신청 접수]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011777278</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011777278"/>
+        <updated>2023-03-31T21:04:40.111Z</updated>
+        <content type="html"><![CDATA[기사내용 요약 오는 10일까지…1일 4편 감상 가능 부산국제단편영화제(BISFF)는 오는 10일까지 '시네필 배지' 신청을 받는다고 1일 밝혔다. 올해 시네필 배지 패키지는 세 가지 종류로, 각각 다른 구성품으로 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[애프터스크리닝] '길복순' 스타일리쉬의 정점을 찍는 액션과 미술, 전도연X변성현이 만들어 낸 수작 ★★★☆]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000184571</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049937"/>
         <updated>2023-03-31T10:07:08.369Z</updated>
         <content type="html"><![CDATA[- ‘박연진 사직서’는 이미 많은 직장인들의 밈이 되기도 했는데. (웃음) = 직장 다니는 친구들로부터 많은 호응을 받았다. 자기도 그만두면 꼭 저렇게 그만둘 거라면서. (웃음) - 연진은 자신이 가진 모든 것을 잃]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] ‘더 글로리’ 임지연, “나만의 빌런을 그리고 싶었다”]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049936</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000049936"/>
-        <updated>2023-03-31T10:07:08.372Z</updated>
-        <content type="html"><![CDATA[교실에서 어른들로부터 보호받지 못하는 친구를 귀신같이 찾아내 무자비하게 괴롭히고도, 정작 자신은 아무 일도 없다는 듯 딸에게 “강아지!”라 부르는 박연진의 이중성은 순수악에 가깝다. 이 순수성의 농도가 짙을수록 악을]]></content>
     </entry>
 </feed>
