@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-04-01T14:03:12.625Z</updated>
+    <updated>2023-04-01T15:04:20.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[TF인터뷰] '와이 낫?'...박성웅, 도전정신 깃든 빼곡한 필모그래피]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000209270</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000209270"/>
+        <updated>2023-04-01T15:03:33.857Z</updated>
+        <content type="html"><![CDATA["'웅남이'는 사활을 건 작품, 코미디지만 짠하고 찡해" 배우 박성웅은 매력적인 빌런부터 마성적인 무당까지, 매 작품 한계 없는 연기 변주를 꾀하며 새로운 얼굴을 선보이고 있다. 늘 오픈 마인드로 대본을 읽고 배우로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장국영 20주기, ‘거짓말 같은’ 죽음에 꺼지지 않는 추모열기]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000877343</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002387296"/>
         <updated>2023-04-01T03:05:14.689Z</updated>
         <content type="html"><![CDATA[더숲 아트시네마 이호준 프로그래머 코로나19 팬데믹 이후 극장 산업이 위축됐다는 위기의식이 팽배해진 요즈음, 국내에 몇 안 되는 독립예술영화 전용관들은 더욱 어려운 상황에 처해 있습니다. 출구가 보이지 않을 것만 같]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘스즈메의 문단속’, 주말 극장가서 독주 전망…장기 흥행 조짐]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003798400</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003798400"/>
-        <updated>2023-04-01T02:31:44.523Z</updated>
-        <content type="html"><![CDATA[적수 없는 ‘스즈메의 문단속’, 24일 연속 박스오피스 ‘정상’ 유지 오랜만에 판타지 액션 블록버스터 ‘던전 앤 드래곤’, 2위에 올라 ‘더 퍼스트 슬램덩크’, ‘중꺾마’ 원조 답게 장기 흥행 뒷심 발휘 애니메이션]]></content>
     </entry>
 </feed>
