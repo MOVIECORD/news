@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 02:24:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 04:05:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['리치 언니' 박세리, '개는 훌륭하다' MC 합류]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=256470</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=256470</guid>
+            <pubDate>Mon, 03 Apr 2023 04:04:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=256470">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230403121840_9e7efa45fa362084be1f01a3db17f0cf.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=256470">'리치 언니' 박세리, '개는 훌륭하다' MC 합류</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230403121840_9e7efa45fa362084be1f01a3db17f0cf.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[걸어서 환장 속으로] 문희준 딸 문희율, 뉴진스 ‘Ditto’ 커버 댄스…아빠엄마 끼 고스란히]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=256308</link>
@@ -348,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EC%A7%9C%EA%B0%80%20%EB%82%98%ED%83%80%EB%82%AC%EB%8B%A4">주말드라마 진짜가 나타났다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230402082232_d1c802cfd2ae5e4bb7d06fdaaf237bde.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['영상앨범 산' 남도의 정취, 진도 동석산을 오르다]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=256038</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=256038</guid>
-            <pubDate>Sat, 01 Apr 2023 22:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=256038">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230331133523_b1f02529d621479bd32ff2a5c16445df.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=256038">'영상앨범 산' 남도의 정취, 진도 동석산을 오르다 </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%81%EC%83%81%EC%95%A8%EB%B2%94%20%EC%82%B0">영상앨범 산</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230331133523_b1f02529d621479bd32ff2a5c16445df.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

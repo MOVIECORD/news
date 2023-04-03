@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 02:24:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 04:05:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 '드림' 박서준과 아이유, "우리에겐 없는 것이 많습니다!"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=256497</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=256497</guid>
+            <pubDate>Mon, 03 Apr 2023 04:03:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=256497">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230403130138_109c2718f8a86d9f31e32b30ed199913.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=256497">영화 '드림' 박서준과 아이유, "우리에겐 없는 것이 많습니다!"  </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230403130138_109c2718f8a86d9f31e32b30ed199913.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 '택배기사' "5월 12일 산소 배송 시작"... 김우빈, 송승헌, 강유석, 이솜]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=256427</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=255607">제10회 마리끌레르 영화제 4월 개막... "배두나 특별전"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230328100721_d884cc7821bcee29fe8347312cb77670.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 '돌풍'은 계속된다... 설경구-김희애 캐스팅]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=255592</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=255592</guid>
-            <pubDate>Tue, 28 Mar 2023 00:29:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=255592">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230328090916_7be43a981c7bf961ea613fb45415a14c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=255592">넷플릭스 '돌풍'은 계속된다... 설경구-김희애 캐스팅</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230328090916_7be43a981c7bf961ea613fb45415a14c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
