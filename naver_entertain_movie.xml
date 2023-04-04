@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-04-04T16:06:23.341Z</updated>
+    <updated>2023-04-04T17:03:09.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[테일러 러셀, 나홍진 신작 '호프' 합류..황정민→정호연과 호흡]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003141794</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003141794"/>
+        <updated>2023-04-04T17:02:21.377Z</updated>
+        <content type="html"><![CDATA[배우 테일러 러셀이 나홍진 감독의 신작 영화 '호프(HOPE, 가제)'에 캐스팅 됐다. 4일(현지시간) 미국 매체 데드라인은 "테일러 러셀이 '호프'에 캐스팅 됐으며 '오징어 게임'의 스타 정호연, 마이클 패스벤더,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[메가박스, 봄맞이 ‘스프링 뮤직 필름 페스타’···‘위대한 쇼맨’, ‘비긴 어게인’, ‘레미제라블’, ‘라라랜드’]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000878028</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000184828"/>
         <updated>2023-04-04T08:09:05.736Z</updated>
         <content type="html"><![CDATA[▶ 줄거리 전국 제패를 꿈꾸는 북산고 농구부 5인방의 꿈과 열정, 멈추지 않는 도전을 그린 영화. ▶ 비포스크리닝 1990년부터 1996년까지 ‘주간 소년 점프’(슈에이샤)에서 연재된 만화 ‘슬램덩크’는 한 번도 농]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Suzume' is now second highest-grossing Japanese film in Korea]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000036899</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000036899"/>
-        <updated>2023-04-04T08:09:05.738Z</updated>
-        <content type="html"><![CDATA[“Suzume” (2022) became the second highest-grossing Japanese film in Korea as of Tuesday, surpassing the 2016 animated fi]]></content>
     </entry>
 </feed>
