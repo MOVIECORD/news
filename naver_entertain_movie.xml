@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-04-04T14:04:07.539Z</updated>
+    <updated>2023-04-04T15:04:29.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메가박스, 봄맞이 ‘스프링 뮤직 필름 페스타’···‘위대한 쇼맨’, ‘비긴 어게인’, ‘레미제라블’, ‘라라랜드’]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000878028</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000878028"/>
+        <updated>2023-04-04T15:03:41.122Z</updated>
+        <content type="html"><![CDATA[극장을 넘어 공간 플랫폼을 지향하는 메가박스(대표 홍정인)가 ‘스프링 뮤직 필름 페스타’를 개최한다고 4일 밝혔다. ‘스프링 뮤직 필름 페스타’는 겨우내 잠들어 있던 리듬 세포를 깨워 줄 봄맞이 음악 영화 기획전으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마블이건 DC건...'화무십일홍'으로 끝날 판 [엑's 초점]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001577370</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000036899"/>
         <updated>2023-04-04T08:09:05.738Z</updated>
         <content type="html"><![CDATA[“Suzume” (2022) became the second highest-grossing Japanese film in Korea as of Tuesday, surpassing the 2016 animated fi]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부, 국내 OTT 화질 개선 등 지원]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000877955</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000877955"/>
-        <updated>2023-04-04T08:09:05.740Z</updated>
-        <content type="html"><![CDATA[문화체육관광부는 국내 온라인 동영상 서비스(OTT) 콘텐츠의 유통 경쟁력을 강화하고자 올해 40억 원 규모의 ‘국내 OTT 라이브러리 강화 후반작업 지원사업’을 새로 추진한다. 전병극 문체부 제1차관은 4일 서울 중]]></content>
     </entry>
 </feed>
