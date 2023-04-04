@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-04-04T17:03:09.942Z</updated>
+    <updated>2023-04-04T18:06:26.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['인생 영화' 라라랜드, 영화관서 다시 본다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001250318</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001250318"/>
+        <updated>2023-04-04T18:05:32.093Z</updated>
+        <content type="html"><![CDATA[영화관 메가박스가 '스프링 뮤직 필름 페스타'를 개최한다. 메가박스는 4일 봄맞이 음악 영화 기획전으로 메가박스 코엑스, 성수를 포함한 40여 개의 지점에서 4월 10일부터 24일까지 '스프링 뮤직 필름 페스타'를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[테일러 러셀, 나홍진 신작 '호프' 합류..황정민→정호연과 호흡]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003141794</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006727199"/>
         <updated>2023-04-04T08:09:05.733Z</updated>
         <content type="html"><![CDATA[오묘하다. 홍상수 감독의 스물아홉번째 장편 영화 '물안에서'를 본 뒤에 드는 생각이다. 어떻게 받아들여야 할까. 예술가의 실험은 관객들에게 신선한 영감을 주는 반면, 주파수가 조금 다를 때는 거부감을 일으키기도 한다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[애프터스크리닝] 더 퍼스트 슬램덩크 IMAX 재개봉! "뚫어, N차는 거들 뿐"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000184828</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000184828"/>
-        <updated>2023-04-04T08:09:05.736Z</updated>
-        <content type="html"><![CDATA[▶ 줄거리 전국 제패를 꿈꾸는 북산고 농구부 5인방의 꿈과 열정, 멈추지 않는 도전을 그린 영화. ▶ 비포스크리닝 1990년부터 1996년까지 ‘주간 소년 점프’(슈에이샤)에서 연재된 만화 ‘슬램덩크’는 한 번도 농]]></content>
     </entry>
 </feed>
