@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 20:08:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 21:06:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[칸영화제 황금종려상 '슬픔의 삼각형' 5월 개봉]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=256889</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=256889</guid>
+            <pubDate>Wed, 05 Apr 2023 21:05:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=256889">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230405105956_95b90b2d3654a7ec2c81e1ab56e1959d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=256889">칸영화제 황금종려상 '슬픔의 삼각형' 5월 개봉</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230405105956_95b90b2d3654a7ec2c81e1ab56e1959d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티빙 다큐 '아워게임 : LG트윈스'... “내가 LG트윈스의 팬인 이유가 다 담겼다!”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=256231</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=256090">티빙 '우리가 사랑했던 모든 것' 레트로 감성 “열여덟, 그 시절”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230401063828_9f55f2edfa28ecba07c81a6ff68ed4d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 슈가 다큐멘터리 'SUGA: Road to D-DAY'... 올 상반기 디즈니+ 통해 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=256201</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=256201</guid>
-            <pubDate>Sun, 02 Apr 2023 00:32:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=256201">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230402080851_6fc33c625c6d5028abf8db5ac05c90bc.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=256201">BTS 슈가 다큐멘터리 'SUGA: Road to D-DAY'... 올 상반기 디즈니+ 통해 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230402080851_6fc33c625c6d5028abf8db5ac05c90bc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
