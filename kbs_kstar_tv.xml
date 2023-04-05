@@ -4,7 +4,7 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 22:07:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 01:42:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,23 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=256372">SBS ‘낭만닥터 김사부3’ 이성경, ‘차쌤의 귀환'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230403084605_da45249802a1ba58a7264ef2042e4c19.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JTBC '듣고, 보니, 그럴싸'  "충정아파트와 얽힌 희대의 사기극!"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=256402</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=256402</guid>
+            <pubDate>Wed, 05 Apr 2023 01:41:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=256402">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230403091400_c64b4e33f0e94f7fbc3c19b1be949a4b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=256402">JTBC '듣고, 보니, 그럴싸'  "충정아파트와 얽힌 희대의 사기극!"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230403091400_c64b4e33f0e94f7fbc3c19b1be949a4b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["김완선-엄정화-이효리-보아-화사, 게릴라 콘서트!"...  tvN ‘댄스가수 유랑단’ 5월 첫 방송]]></title>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=255797">'유퀴즈' 명불허전 특집 "배우 전도연, 경주 최부자댁 후손 최창호 이사"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230329170112_113ec444fdcc338122e5146cf508239a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[tvN '구미호뎐1938' "이동욱, 혼돈의 시대에 불시착"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=255630</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=255630</guid>
-            <pubDate>Wed, 29 Mar 2023 08:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=255630">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230328104354_210d723b4c0025680c2867f10131150d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=255630">tvN '구미호뎐1938' "이동욱, 혼돈의 시대에 불시착"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230328104354_210d723b4c0025680c2867f10131150d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
