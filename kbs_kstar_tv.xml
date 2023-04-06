@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 20:06:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 22:08:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[tvN ‘패밀리’ "흥행불패 장혁-장나라"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=256990</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=256990</guid>
+            <pubDate>Thu, 06 Apr 2023 22:06:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=256990">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230406082750_4a73a2950005b0a292e3250aea84e020.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=256990">tvN ‘패밀리’ "흥행불패 장혁-장나라" </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230406082750_4a73a2950005b0a292e3250aea84e020.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JTBC '닥터 차정숙' 김병철, ‘엄금진’ 외과 과장]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=256446</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=255974">천호진, MBC사극 '조선변호사' 최고권력자 유제세</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230331094250_edef14987f36e8d8e4c9b69443936cdb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신예 박주원, JTBC드라마 '닥터 차정숙' 합류]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=255619</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=255619</guid>
-            <pubDate>Fri, 31 Mar 2023 05:06:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=255619">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230328103338_ae2badc08d1c4a9062ffed8d91dbf8e9.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=255619">신예 박주원, JTBC드라마 '닥터 차정숙' 합류</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230328103338_ae2badc08d1c4a9062ffed8d91dbf8e9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
