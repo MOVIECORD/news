@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-04-07T21:05:10.011Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 07 Apr 2023 23:06:15 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단원고 엄마들이 내 아이를 연기하다]]></title>
+            <link>https://v.daum.net/v/20230408080506674</link>
+            <guid>https://v.daum.net/v/20230408080506674</guid>
+            <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[☞한겨레S 뉴스레터를 구독해주세요. 검색창에 ‘에스레터’를 쳐보세요. 세월호 9주기다. 때 맞춰 ‘4·16 가족극단 노란리본’의 활동을 담은 다큐멘터리 &lt;장기자랑&gt;이 개봉했다. 극장 불이 꺼지고 다큐가 시작될 때 손수건을 잊었다는 사실이 떠올랐다. “곤란하네. 분명 눈물 콧물 다 흘릴 텐데, 마스크 속이 또 무참해지겠어” 싶었다. 엔딩 자막이 올라가고 극]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F08%2Fhani%2F20230408080508084wctv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘스즈메의 문단속’, ‘슬램덩크’보다 빨리 400만 관객 돌파[공식]]]></title>
+            <link>https://v.daum.net/v/20230408075207521</link>
+            <guid>https://v.daum.net/v/20230408075207521</guid>
+            <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=강서정 기자] 최장기간 박스오피스 1위 기록을 나날이 경신중인 영화 ‘스즈메의 문단속’(감독 시카이 마코토)이 개봉 31일째인 지난 7일 400만 관객을 돌파했다. ‘스즈메의 문단속’은 우연히 재난을 부르는 문을 열게 된 소녀 '스즈메'가 일본 각지에서 발생하는 재난을 막기 위해 필사적으로 문을 닫아가는 이야기.&nbsp;영화관입장권 통합전산망에 따르]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F08%2Fpoctan%2F20230408075207360lxzo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[관객 빗장 풀기 어렵네…호평일색 '리바운드'도 초반 난항 [N초점]]]></title>
+            <link>https://v.daum.net/v/20230408070016124</link>
+            <guid>https://v.daum.net/v/20230408070016124</guid>
+            <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 장항준 감독의 신작 '리바운드'가 개봉 첫주 기대보다 아쉬운 성적표를 받았다. 지난 5일 개봉한 '리바운드'는 2012년 전국 고교농구대회, 아무도 주목하지 않았던 최약체 농구부의 신임 코치와 6명의 선수가 쉼 없이 달려간 8일간의 기적 같은 이야기를 그린 감동 실화. 장항준 감독이 연출을 맡고 그의 아내이자 '킹덤' ']]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F08%2FNEWS1%2F20230408070017917saqq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['스즈메의 문단속' 31일 만에 400만 관객 돌파…역대 애니메이션 TOP 8위]]></title>
+            <link>https://v.daum.net/v/20230408070010115</link>
+            <guid>https://v.daum.net/v/20230408070010115</guid>
+            <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 최장기간 박스오피스 1위 기록을 경신 중인 영화 '스즈메의 문단속'(감독 신카이 마코토)이 개봉 31일째인 7일 400만 관객을 돌파했다. 영진위 통합전산망에 따르면 지난 달 8일 개봉한 '스즈메의 문단속'은 7일 오후 10시 누적 관객 수 400만156명을 동원하며 개봉 31일 만에 400만 관객을 돌파했다.&nbsp; 특히 이 기록은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F08%2Fxportsnews%2F20230408070011977ifkj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
