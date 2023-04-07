@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 00:26:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 01:58:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에이핑크 'D N D', 오늘 '뮤직뱅크' 출격]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=257111</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=257111</guid>
+            <pubDate>Fri, 07 Apr 2023 01:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=257111">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230407100920_2eac2e4723531350333efa7e623ce156_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=257111">에이핑크 'D N D', 오늘 '뮤직뱅크' 출격</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230407100920_2eac2e4723531350333efa7e623ce156_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['어쩌다 마주친, 그대' 이원정  "1987년의 백희섭"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=256979</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230405232057_55487aecab038b1664b1edacb7dcb64e_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[옥탑방의 문제아들] 주현영 표 ‘아르바이트 앱’ 콘티 대공개! “오늘도 할 수 있어”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=256910</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=256910</guid>
-            <pubDate>Wed, 05 Apr 2023 15:07:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=256910">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230405231729_8969ba96ca10c4181aadc1460ebe38fb_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=256910">[옥탑방의 문제아들] 주현영 표 ‘아르바이트 앱’ 콘티 대공개! “오늘도 할 수 있어”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230405231729_8969ba96ca10c4181aadc1460ebe38fb_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
