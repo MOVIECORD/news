@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 20:05:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 21:05:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박상영 연작소설 '대도시의 사랑법', 충무로 감독들이 만든다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=257085</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=257085</guid>
+            <pubDate>Fri, 07 Apr 2023 21:03:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=257085">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230407080257_7e20799afd47a6624b7dcfbd7c473e4a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=257085">박상영 연작소설 '대도시의 사랑법', 충무로 감독들이 만든다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230407080257_7e20799afd47a6624b7dcfbd7c473e4a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘미끼’ 파트2 오늘 대공개 "노상천을 살아있는가?"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=257146</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=256846">"정치는 쇼다" 김희애-문소리  정치 드라마 '퀸메이커'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230405080802_6c237d98e7a62778b3f5c5de47512a37.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["발그레~" 신동엽+성시경이 간다...  넷플릭스 미드폼 예능 '성+인물']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=256839</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=256839</guid>
-            <pubDate>Wed, 05 Apr 2023 01:41:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=256839">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230405075211_dd5f1316e9218a5f71e7a96f8d15bd6b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=256839">"발그레~" 신동엽+성시경이 간다...  넷플릭스 미드폼 예능 '성+인물'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230405075211_dd5f1316e9218a5f71e7a96f8d15bd6b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
