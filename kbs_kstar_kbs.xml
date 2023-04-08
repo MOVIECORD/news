@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Apr 2023 10:04:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 11:05:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['진짜가 나타났다!'  딸 차주영-아빠 김창완, 이들 부녀 관계 심상찮다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=257306</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=257306</guid>
+            <pubDate>Sat, 08 Apr 2023 11:04:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=257306">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230408195313_e722d1244585e0ee2a41acb30e319abd.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=257306">'진짜가 나타났다!'  딸 차주영-아빠 김창완, 이들 부녀 관계 심상찮다</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%A7%84%EC%A7%9C%EA%B0%80%20%EB%82%98%ED%83%80%EB%82%AC%EB%8B%A4">주말드라마 진짜가 나타났다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230408195313_e722d1244585e0ee2a41acb30e319abd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["오사카에 가면..."  배틀트립2, 강지영-허영지 '미식 격파']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=257254</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%85%B8%EB%A8%B8%EB%8B%88%20%EB%85%B8%EC%95%84%ED%8A%B8">노머니 노아트</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230407013018_a977994af17dae01f8e43ce226aa0eb4_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[노머니 노아트] 유리 천장에 도전하다! 김펄 작가의 그림에 담겨진 뜻?]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=257045</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=257045</guid>
-            <pubDate>Thu, 06 Apr 2023 17:02:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=257045">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230407012401_92c907ac959b0ebf8f5383164f1bbc86_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=257045">[노머니 노아트] 유리 천장에 도전하다! 김펄 작가의 그림에 담겨진 뜻?</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%85%B8%EB%A8%B8%EB%8B%88%20%EB%85%B8%EC%95%84%ED%8A%B8">노머니 노아트</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230407012401_92c907ac959b0ebf8f5383164f1bbc86_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
