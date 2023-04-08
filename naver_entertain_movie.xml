@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-04-08T14:03:57.820Z</updated>
+    <updated>2023-04-08T15:05:58.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[TF인터뷰] 안재홍이라 가능한, '하찮은 따뜻함']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000210580</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000210580"/>
+        <updated>2023-04-08T15:05:04.752Z</updated>
+        <content type="html"><![CDATA['리바운드' 강양현 코치 역 맡아 열연 "농구에 자신이 사랑하는 걸 대입하면 더 뜨겁게 즐길 수 있을 것" "'리바운드'가 많은 분께 큰 사랑 받았으면 좋겠습니다." 영화 '리바운드'(감독 장항준) 개봉을 앞둔 지난]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 '제비' 시사회 현장 .. "1983년의 그들, 2023년 잘 살고 있는가"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000054789</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011791375"/>
         <updated>2023-04-08T01:51:37.530Z</updated>
         <content type="html"><![CDATA[기사내용 요약 7일 6만2626명 추가 누적 400만명 넘겨 일본 애니메이션 영화 '스즈메의 문단속'이 400만 관객 고지를 밟았다. 개봉 31일만이다. '스즈메의 문단속'은 7일 6만2626명(영화진흥위원회 기준)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스즈메의 문단속' 초고속 400만 돌파…더빙판도 온다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003756977</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003756977"/>
-        <updated>2023-04-08T01:51:37.532Z</updated>
-        <content type="html"><![CDATA[일본 애니메이션 '스즈메의 문단속'이 400만 관객 고지를 돌파했다. 8일 영화진흥위원회 영화관입장권 통합전산망에 따르면 '스즈메의 문단속'이 개봉 31일째인 7일 오후 10시 기준 누적 관객 수 400만 명을 넘어]]></content>
     </entry>
 </feed>
