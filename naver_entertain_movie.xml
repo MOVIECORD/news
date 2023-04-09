@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-04-09T11:05:50.950Z</updated>
+    <updated>2023-04-09T12:13:39.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['길복순'을 움직이는 건 모성애가 아니다 [SE★초점]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004176969</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004176969"/>
+        <updated>2023-04-09T12:12:48.902Z</updated>
+        <content type="html"><![CDATA[지난달 31일 영화 ‘길복순’(감독 변성현)이 넷플릭스를 통해 공개됐다. 넷플릭스 측에 따르면 ‘길복순’은 공개 3일 만에 넷플릭스 글로벌 톱 10 영화(비영어) 부문에서 1위를 차지하며 글로벌한 인기를 누리고 있다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스즈메의 문단속' 418만 돌파... 래드윔프스 내한 확정]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000733131</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013868505</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013868505"/>
         <updated>2023-04-09T06:10:03.768Z</updated>
-        <content type="html"><![CDATA[일본 애니메이션 '스즈메의 문단속' 수입사 미디어캐슬은 이 작품이 지난 7일 오후 누적 관객 수 400만을 넘어섰다고 밝혔다. 이로써 '스즈메의 문단속'은 '더 퍼스트 슬램덩크'에 이어 국내 개봉 일본 영화 중 관객]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스즈메의 문단속' 400만 돌파]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013868504</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013868504"/>
-        <updated>2023-04-09T06:10:03.771Z</updated>
         <content type="html"><![CDATA[일본 애니메이션 '스즈메의 문단속' 수입사 미디어캐슬은 이 작품이 지난 7일 오후 누적 관객 수 400만을 넘어섰다고 밝혔다. 이로써 '스즈메의 문단속'은 '더 퍼스트 슬램덩크'에 이어 국내 개봉 일본 영화 중 관객]]></content>
     </entry>
 </feed>
