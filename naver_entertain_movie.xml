@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-04-10T17:07:13.203Z</updated>
+    <updated>2023-04-10T18:05:57.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[결국 잡힌 키아누 리브스?...'존 윅 4' 시리즈 중 가장 재밌다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001250927</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001250927"/>
+        <updated>2023-04-10T18:05:10.166Z</updated>
+        <content type="html"><![CDATA['존 윅 4'가 시리즈 최고의 작품으로 찬사 받고 있는 가운데 미공개 스틸이 공개됐다. 전체 예매율 압도적 1위로, 예비 관객들의 기대감을 입증하고 있는 '존 윅 4' 측은 10일 오는 4월 12일 개봉을 앞두고 미]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘리바운드’ 에이스 이신영, 반전 근육질 몸매 [화보]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001044328</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005460415"/>
         <updated>2023-04-10T09:04:07.584Z</updated>
         <content type="html"><![CDATA[이선균, 이하늬 주연 영화 ‘킬링 로맨스’(감독 이원석)가 기대 속에서 오늘(10일) 처음 베일을 벗었다. 필모 사상 처음 제대로 망가진 이선균과 배우계의 팔방미인 이하늬가 멀티 장르 무비 ‘킬링 로맨스’를 통해 어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[400만 넘은 '스즈메의 문단속' 5주 연속 정상]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000593150</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000593150"/>
-        <updated>2023-04-10T09:04:07.588Z</updated>
-        <content type="html"><![CDATA[일본 애니메이션 '스즈메의 문단속'이 5주 연속 주말 박스오피스 정상을 차지했습니다. 영화진흥위원회에 따르면 '스즈메의 문단속'은 지난 주말 사흘 동안 관객 40만4천여 명을 모아 박스오피스 1위 자리를 지켰습니다.]]></content>
     </entry>
 </feed>
