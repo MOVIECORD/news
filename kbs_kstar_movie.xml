@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 00:31:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 02:30:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 전도연 “살인은 심플해. 애 키우는 것에 비하면...” (넷플릭스 길복순)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=257714</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=257714</guid>
+            <pubDate>Tue, 11 Apr 2023 02:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=257714">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230411095839_17f307d7a843e58c447291e6a067abe3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=257714">[인터뷰] 전도연 “살인은 심플해. 애 키우는 것에 비하면...” (넷플릭스 길복순) </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230411095839_17f307d7a843e58c447291e6a067abe3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["스펙 제로의 직장인, 이연희입니다" 디즈니플러스 '레이스']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=257687</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=257065">"슈가의 음악, 슈가의 여정, 슈가의 로드무비" 디즈니+ 'SUGA: Road to D-DAY'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230407072757_d06fdeee2ad843d44254e3027e68a51c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정형석 감독 '이상한 여자' 전주국제영화제에서 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=256946</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=256946</guid>
-            <pubDate>Thu, 06 Apr 2023 22:06:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=256946">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230406071802_74373110e04fe5b8dc95c06aea5c7530_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=256946"> 정형석 감독 '이상한 여자' 전주국제영화제에서 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230406071802_74373110e04fe5b8dc95c06aea5c7530_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
