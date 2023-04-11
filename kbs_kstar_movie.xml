@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 21:04:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 22:05:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홍종현, "대기업 홍보팀 에이스입니다" 디즈니+ '레이스' 내달 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=257693</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=257693</guid>
+            <pubDate>Tue, 11 Apr 2023 22:03:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=257693">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230411080004_016812ad19911e0b26abc5ad61c3dce4.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=257693">홍종현, "대기업 홍보팀 에이스입니다" 디즈니+ '레이스' 내달 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230411080004_016812ad19911e0b26abc5ad61c3dce4.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[해리슨 포드 '인디아나 존스: 운명의 다이얼' 메인 에고편 공개... “전설이 운명을 마주하다”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=257768</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=257079">"한국형 다크 히어로 탄생" 디즈니플러스 '비질란테'... 남주혁 – 유지태 – 이준혁 – 김소진 캐스팅</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230407075447_fbf4b66ae3f6cb76027d086646a9a78f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임영웅 '아임 히어로 더 파이널', 글로벌 상영]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=257073</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=257073</guid>
-            <pubDate>Thu, 06 Apr 2023 23:02:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=257073">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230407073643_13e0a1af93b29f983b92b72dd4aca716.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=257073">임영웅 '아임 히어로 더 파이널', 글로벌 상영</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230407073643_13e0a1af93b29f983b92b72dd4aca716.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
