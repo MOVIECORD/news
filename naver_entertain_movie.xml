@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-04-12T16:06:11.863Z</updated>
+    <updated>2023-04-12T18:06:23.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[조재휘의 시네필] 공동체적 관계, 삶의 진상]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000038155</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000038155"/>
+        <updated>2023-04-12T18:05:32.267Z</updated>
+        <content type="html"><![CDATA[어느 날, 절친한 친구이자 이웃이 절교를 선언한다. 하루아침에 돌변해버린 태도에 당황한 당신은 이유를 묻지만, 일방적으로 관계를 끊은 그는 답변을 꺼리고 냉담을 유지할 뿐. 지속되는 갈등은 오해와 불신을 낳고, 양측]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“작은 기억들과 큰 추억들을 모아 다박골에게”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000963992</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002702135"/>
         <updated>2023-04-12T09:03:59.965Z</updated>
         <content type="html"><![CDATA[웹툰 '옥수역 귀신'이 스크린을 통해 부활했다. 12일 오후 서울 용산구 CGV 용산아이파크몰에서 영화 '옥수역 귀신' 언론배급시사회 및 기자간담회가 진행, 정용기 감독, 김보라, 김재현, 신소율이 참석했다. '옥수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김보라, 차분한 입장 [포토]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001044955</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001044955"/>
-        <updated>2023-04-12T09:03:59.967Z</updated>
-        <content type="html"><![CDATA[배우 김보라가 12일 서울 용산구 CGV 용산아이파크몰점에서 열린 영화 ‘옥수역귀신’ 언론시사회에서 무대에 오르고 있다.]]></content>
     </entry>
 </feed>
