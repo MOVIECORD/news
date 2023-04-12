@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-04-12T18:06:23.971Z</updated>
+    <updated>2023-04-12T20:04:30.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 극장광고업체 NCM 파산보호신청…"부채 재조정·운영 지속"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013877244</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013877244"/>
+        <updated>2023-04-12T20:03:41.403Z</updated>
+        <content type="html"><![CDATA[팬데믹 끝나고 영화산업은 회복세…발표 이후 주가 반등 임미나 특파원 = 미국 최대 영화관 광고업체 '내셔널 시네미디어'(NCM)가 누적된 부채 문제로 법원에 파산보호를 신청했다. NCM은 지난 11일(현지시간) 회사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[조재휘의 시네필] 공동체적 관계, 삶의 진상]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000038155</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006744114"/>
         <updated>2023-04-12T09:03:59.963Z</updated>
         <content type="html"><![CDATA[영화 '옥수역 귀신'은 클래식한 공포 영화의 인기를 되살릴 수 있을까. 12일 오후 서울 용산구 CGV용산아이파크몰에서 영화 '옥수역 귀신'(감독 정용기)의 언론배급시사회 및 기자간담회가 열렸다. 이 자리에는 정용기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[D:현장] 김보라·김재현·신소율 '옥수역 귀신', 4월의 잔혹극 극장가 출격]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002702135</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002702135"/>
-        <updated>2023-04-12T09:03:59.965Z</updated>
-        <content type="html"><![CDATA[웹툰 '옥수역 귀신'이 스크린을 통해 부활했다. 12일 오후 서울 용산구 CGV 용산아이파크몰에서 영화 '옥수역 귀신' 언론배급시사회 및 기자간담회가 진행, 정용기 감독, 김보라, 김재현, 신소율이 참석했다. '옥수]]></content>
     </entry>
 </feed>
