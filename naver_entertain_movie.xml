@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-04-12T13:14:09.100Z</updated>
+    <updated>2023-04-12T16:06:11.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“작은 기억들과 큰 추억들을 모아 다박골에게”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000963992</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000963992"/>
+        <updated>2023-04-12T16:05:20.237Z</updated>
+        <content type="html"><![CDATA[지금은 볼 수 없지만, 아기자기하고 정겨웠던 동네를 추억하는 기획전이 마련됐다. 원주 독립영화 상영 플랫폼 고씨네가 오는 22일까지 ‘재개발’을 주제로 한 단편기획전 ‘다박골’을 선보인다. 이번 기획전에서는 ‘작년에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅 영화, 안방서도 본다…18일 IPTV·VOD 서비스 오픈]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005115714</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001044955"/>
         <updated>2023-04-12T09:03:59.967Z</updated>
         <content type="html"><![CDATA[배우 김보라가 12일 서울 용산구 CGV 용산아이파크몰점에서 열린 영화 ‘옥수역귀신’ 언론시사회에서 무대에 오르고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김보라, 여러분 반가워요 [포토]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001044954</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001044954"/>
-        <updated>2023-04-12T09:03:59.972Z</updated>
-        <content type="html"><![CDATA[배우 김보라가 12일 서울 용산구 CGV 용산아이파크몰점에서 열린 영화 ‘옥수역귀신’ 언론시사회에서 인사말을 하고 있다.]]></content>
     </entry>
 </feed>
