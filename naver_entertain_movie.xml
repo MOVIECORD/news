@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-04-12T12:11:32.369Z</updated>
+    <updated>2023-04-12T13:14:09.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임영웅 영화, 안방서도 본다…18일 IPTV·VOD 서비스 오픈]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005115714</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005115714"/>
+        <updated>2023-04-12T13:13:18.329Z</updated>
+        <content type="html"><![CDATA[임영웅 영화 ‘아임 히어로 더 파이널’이 안방에서도 공개된다. 극장에 가지 않아도 안방 1열에서 편안하게 감상할 수 있다. 다시 보고 싶다면 언제든지 돌려봐도 된다. 오는 18일부터 극장 동시 IPTV와 OTT TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘퀀메이커’, 강한 두 여성의 충돌과 연대의 과정 담았다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=016&amp;aid=0002129561</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001044954"/>
         <updated>2023-04-12T09:03:59.972Z</updated>
         <content type="html"><![CDATA[배우 김보라가 12일 서울 용산구 CGV 용산아이파크몰점에서 열린 영화 ‘옥수역귀신’ 언론시사회에서 인사말을 하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김보라, 여러분 반가워요 [포토]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001044953</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001044953"/>
-        <updated>2023-04-12T09:03:59.984Z</updated>
-        <content type="html"><![CDATA[배우 김보라가 12일 서울 용산구 CGV 용산아이파크몰점에서 열린 영화 ‘옥수역귀신’ 언론시사회에서 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>
