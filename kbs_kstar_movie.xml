@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 02:29:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 04:05:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['분노의 질주: 라이드 오어 다이'  5월 개봉... "가족을 위해 싸우다, 복수를 위해 달리다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=258128</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=258128</guid>
+            <pubDate>Thu, 13 Apr 2023 04:04:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=258128">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230413125611_4e00706df831a7179c807b2946ae1d01.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258128">'분노의 질주: 라이드 오어 다이'  5월 개봉... "가족을 위해 싸우다, 복수를 위해 달리다"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230413125611_4e00706df831a7179c807b2946ae1d01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[종영소감] 성준 "사랑이라 말해요, 힐링이라 말해요"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=258112</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=257178">티빙 '더 타임 호텔' 미스터리 호텔 생존게임... "10명의 투숙객, 최후의 1인"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230407163527_b9e6378df74bc3524b00efcb473524f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 변성현 감독 “일일이 설명하고 싶지 않지만, 사실은 이렇다” (넷플릭스 ‘길복순’)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=257473</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=257473</guid>
-            <pubDate>Mon, 10 Apr 2023 00:31:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=257473">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230410085928_100df2da6cc6699ea586c0915bc9cccc.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=257473">[인터뷰] 변성현 감독 “일일이 설명하고 싶지 않지만, 사실은 이렇다” (넷플릭스 ‘길복순’)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230410085928_100df2da6cc6699ea586c0915bc9cccc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
