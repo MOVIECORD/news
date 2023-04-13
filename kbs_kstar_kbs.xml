@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 23:04:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 00:29:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['어쩌다 마주친, 그대' 김동욱-진기주, "눈앞에서 펼쳐진, 1987년"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=258100</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=258100</guid>
+            <pubDate>Thu, 13 Apr 2023 00:27:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=258100">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230413084152_d522ac246f105502d1517563006bd33d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258100">'어쩌다 마주친, 그대' 김동욱-진기주, "눈앞에서 펼쳐진, 1987년"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%96%B4%EC%A9%8C%EB%8B%A4%20%EB%A7%88%EC%A3%BC%EC%B9%9C%20%EA%B7%B8%EB%8C%80">월화드라마 어쩌다 마주친 그대</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230413084152_d522ac246f105502d1517563006bd33d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[금이야옥이야 13회]  서준영- 윤다영 "딸에게는 비밀로 해 주세요, 부탁드리겠습니다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=258039</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EA%B8%88%EC%9D%B4%EC%95%BC%20%EC%98%A5%EC%9D%B4%EC%95%BC">일일연속극 금이야 옥이야</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230411230358_dc89176ccff4d84099d433a41803e58a_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[금이야 옥이야] 최종환과 이응경 연애 사실에 기뻐하는 김호영 “당장 결혼식 올려라!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=257834</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=257834</guid>
-            <pubDate>Tue, 11 Apr 2023 14:04:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=257834">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230411225854_9238be99bc0bf399d9c8c30108583463_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=257834">[금이야 옥이야] 최종환과 이응경 연애 사실에 기뻐하는 김호영 “당장 결혼식 올려라!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EA%B8%88%EC%9D%B4%EC%95%BC%20%EC%98%A5%EC%9D%B4%EC%95%BC">일일연속극 금이야 옥이야</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230411225854_9238be99bc0bf399d9c8c30108583463_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
