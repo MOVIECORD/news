@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 15:05:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 16:04:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티빙 '우리가 사랑했던 모든 것'  오세훈-조준영-장여빈 "우정이 사랑이 되는 열여덟"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=258123</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=258123</guid>
+            <pubDate>Thu, 13 Apr 2023 16:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=258123">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230413092006_44fe3e81ebd2fbdb4a5981f02603f78c.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258123">티빙 '우리가 사랑했던 모든 것'  오세훈-조준영-장여빈 "우정이 사랑이 되는 열여덟"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230413092006_44fe3e81ebd2fbdb4a5981f02603f78c.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] No.29 ‘물안에서’ “홍상수의 최신 실험, 300만 원짜리 명예”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=258138</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=257497">"디즈니플러스는 한국을 포기하지 않는다" 디즈니+ K-콘텐츠 라인업</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230410094144_6a27be80f7255031636b2c96821e8dcc.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유해진-이제훈의 새 '모럴해저드' "부도위기의 회사를 지켜라!"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=257265</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=257265</guid>
-            <pubDate>Mon, 10 Apr 2023 00:31:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=257265">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230408190731_6576bc7ac7021a62d396a8eed99ada05.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=257265">유해진-이제훈의 새 '모럴해저드' "부도위기의 회사를 지켜라!"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230408190731_6576bc7ac7021a62d396a8eed99ada05.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
