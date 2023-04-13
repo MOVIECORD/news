@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-04-13T20:08:30.202Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 13 Apr 2023 21:06:13 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무섭거나, 혹은 귀엽거나..정진운의 이면 [IS인터뷰]]]></title>
+            <link>https://v.daum.net/v/20230414053404693</link>
+            <guid>https://v.daum.net/v/20230414053404693</guid>
+            <pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[단 일주일 차이로 배우 정진운의 두 개의 얼굴을 보게 됐다. 지난 5일 개봉한 ‘리바운드’에서 정진운은 열정적이면서 반항기 있는, 그러면서도 앳된 얼굴의 귀여운 고등학생의 얼굴이다. 그리고 지난 12일 개봉한 ‘나는 여기에 있다’에서는 연쇄살인마의 세포와 싸우는 섬뜩한 청년의 얼굴로 바뀐다. 최근 서울 삼청동 한 카페에서 정진운을 만났다. 일주일 차이로]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F14%2Filgansports%2F20230414053407756fmbf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
