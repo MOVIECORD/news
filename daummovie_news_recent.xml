@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-04-14T15:07:33.091Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 14 Apr 2023 16:05:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['빛의 마술사' 신카이 감독, 한국 관객을 사로잡다]]></title>
+            <link>https://v.daum.net/v/20230415003709913</link>
+            <guid>https://v.daum.net/v/20230415003709913</guid>
+            <pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 김정진 기자 = 일본 애니메이션 대표 주자인 신카이 마코토 감독이 '스즈메의 문단속'으로 또 한 번 한국 관객을 사로잡았다. 15일 영화진흥위원회 영화관입장권 통합전산망에 따르면 '스즈메의 문단속'은 '더 퍼스트 슬램덩크'를 꺾고 역대 국내에서 개봉한 일본 영화 중 최고 흥행작에 올랐다. 이로써 신카이 감독은 '더 퍼스트 슬램덩크'에 빼앗]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F15%2Fyonhap%2F20230415003709339icxe.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['스즈메의 문단속', 국내 개봉 일본 영화 중 역대 흥행 1위 올라]]></title>
+            <link>https://v.daum.net/v/20230415002659870</link>
+            <guid>https://v.daum.net/v/20230415002659870</guid>
+            <pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 양정우 김정진 기자 = 일본 애니메이션 '스즈메의 문단속'이 '더 퍼스트 슬램덩크'가 세운 국내 개봉 일본 영화 중 최고 흥행 성적을 40일 만에 갈아치웠다. 15일 영화관입장관 통합전산망에 따르면 신카이 마코토 감독이 연출한 '스즈메의 문단속'의 누적 관객 수는 전날까지 448만2천여 명을 기록했다. 이는 지난달 8일 개봉 이후 38일만]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F15%2Fyonhap%2F20230415002700069mtut.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
