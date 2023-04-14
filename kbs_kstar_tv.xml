@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 07:04:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 08:08:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["테니스 예능은 처음이지?"  MBN ‘내일은 위닝샷’ 오늘 첫 방송... 김호중 축하무대도!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=258293</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=258293</guid>
+            <pubDate>Fri, 14 Apr 2023 08:07:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=258293">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230414165100_621ff4201f3fa2345d12c896f46b06f0.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258293">"테니스 예능은 처음이지?"  MBN ‘내일은 위닝샷’ 오늘 첫 방송... 김호중 축하무대도!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230414165100_621ff4201f3fa2345d12c896f46b06f0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ENA '보라! 데보라'  데보라와 이수혁, 날 선 재회]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=258159</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=256996">tvN ‘패밀리’  서열을 알려주마... "국정원이 센가, 장나라가 센가" </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230406083341_6af0e3c35a9fb25f236edd0489412d2f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JTBC '닥터 차정숙' 명세빈, 가정의학과 최승희 교수]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=256452</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=256452</guid>
-            <pubDate>Sun, 09 Apr 2023 00:31:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=256452">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230403105250_af7330dc6ac6e0120753ed808bc9c9d9_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=256452">JTBC '닥터 차정숙' 명세빈, 가정의학과 최승희 교수</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230403105250_af7330dc6ac6e0120753ed808bc9c9d9_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
