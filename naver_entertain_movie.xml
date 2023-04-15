@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-04-15T11:05:21.589Z</updated>
+    <updated>2023-04-15T12:14:24.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["민주당 비판, 불편할 수 있겠지만... 한계 인정해야"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002388937</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002388937"/>
+        <updated>2023-04-15T12:13:36.688Z</updated>
+        <content type="html"><![CDATA[영화 &lt;제비&gt; 이송희일 감독 ▲ '제비' 이송희일 감독 영화 &lt;제비&gt;의 이송희일 감독이 13일 오후 서울 종로구 시네마달 사무실에서 포즈를 취하고 있다. &lt;제비&gt;는 사랑을 꿈꾸는 1983년의 혁명가와 프락치, 그리고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘스즈메의 문단속’ 관객 문단속도 성공... 역대 日 애니메이션 흥행 1위 등극]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001251483</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003269349"/>
         <updated>2023-04-15T04:03:45.519Z</updated>
         <content type="html"><![CDATA[“민트초코같은 영화” 배우 이하늬가 정의한 ‘킬링 로맨스’의 한줄평이다. 그만큼 호불호가 확실히 갈리는 영화라는 얘기다. 그래서 온갖 투자사에서 ‘킬링 로민스’ 시나리오를 보고 거절했다. 이 ‘미친’ 시나리오는 워너]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[달밤에 나타난 도우너(‘아기공룡 둘리 : 얼음별 대모험 리마스터링’)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004830119</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004830119"/>
-        <updated>2023-04-15T04:03:45.520Z</updated>
-        <content type="html"><![CDATA[국민 애니메이션 '아기공룡 둘리 : 얼음별 대모험 리마스터링'이 범우주적 캐릭터 도우너의 세계관을 잇는 2종의 포스터를 공개했다. 앞서 과학 저널 콘셉트의 ‘월간 멀티버스’ 도우너 포스터에서 차세대 우주망원경 제임스]]></content>
     </entry>
 </feed>
