@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-04-15T09:04:36.600Z</updated>
+    <updated>2023-04-15T10:07:45.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘스즈메의 문단속’ 관객 문단속도 성공... 역대 日 애니메이션 흥행 1위 등극]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001251483</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001251483"/>
+        <updated>2023-04-15T10:06:54.847Z</updated>
+        <content type="html"><![CDATA[영화 ‘스즈메의 문단속’이 448만 명의 관객을 동원하며 역대 일본 애니메이션 흥행 1위에 등극했다. 15일 영화진흥위원회 통합전산망에 따르면 ‘스즈메 문단속’은 지난 14일 자정 기준 누적 관객 수 448만 2,0]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스즈메의 문단속' 448만 돌파, 역대 일본영화 흥행 1위 등극 "최애 영화"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003719435</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004830119"/>
         <updated>2023-04-15T04:03:45.520Z</updated>
         <content type="html"><![CDATA[국민 애니메이션 '아기공룡 둘리 : 얼음별 대모험 리마스터링'이 범우주적 캐릭터 도우너의 세계관을 잇는 2종의 포스터를 공개했다. 앞서 과학 저널 콘셉트의 ‘월간 멀티버스’ 도우너 포스터에서 차세대 우주망원경 제임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘킬링 로맨스’ Z세대 취향 저격 도른 맛 영화 탄생]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000713239</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000713239"/>
-        <updated>2023-04-15T04:03:45.522Z</updated>
-        <content type="html"><![CDATA[Z세대 취향 저격 영화가 베일을 벗었다. 영화 '킬링 로맨스'가 4월 14일 개봉했다. '킬링 로맨스'는 섬나라 재벌 조나단(이선균 분)과 운명적 사랑에 빠져 돌연 은퇴를 선언한 톱스타 여래(이하늬 분)가 팬클럽 3]]></content>
     </entry>
 </feed>
