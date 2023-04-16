@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Apr 2023 14:07:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2023 16:06:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[걸어서 환장 속으로] 완전 엄마 모먼트...? 마치 아들 챙기듯 강남에 ‘오구오구’ 하는 이상화]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=258548</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=258548</guid>
+            <pubDate>Sun, 16 Apr 2023 16:05:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=258548">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230416230706_4ed5f210288f424acdd4a9d7f20229ee_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258548">[걸어서 환장 속으로] 완전 엄마 모먼트...? 마치 아들 챙기듯 강남에 ‘오구오구’ 하는 이상화</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B1%B8%EC%96%B4%EC%84%9C%20%ED%99%98%EC%9E%A5%20%EC%86%8D%EC%9C%BC%EB%A1%9C">걸어서 환장 속으로</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230416230706_4ed5f210288f424acdd4a9d7f20229ee_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[걸어서 환장 속으로] 강남-이상화 초심찾기 여행...처음 만났던 곳이 정글이니까 ‘필리핀’ 여행 GOGO]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=258544</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230416082555_49d4417b93a31218f4921f2ac6ed9adf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[배틀트립2] 다영 팀장 리드 하에 찾아온 곳? 추억의 롤러 스케이트장!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=258433</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=258433</guid>
-            <pubDate>Sun, 16 Apr 2023 00:30:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=258433">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230416082414_6e74a42f367d06439221dc9352cdbff9.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258433">[배틀트립2] 다영 팀장 리드 하에 찾아온 곳? 추억의 롤러 스케이트장!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230416082414_6e74a42f367d06439221dc9352cdbff9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
