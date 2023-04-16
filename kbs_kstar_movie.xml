@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Apr 2023 21:06:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2023 23:04:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["스타로드도, 가모라도, 맨티스도, 그루트도 컴백!"  가디언즈 오브 갤럭시3, 5월 3일 개봉]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=258453</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=258453</guid>
+            <pubDate>Sun, 16 Apr 2023 23:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=258453">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230416160112_3232d6e05cbdaf23325307a03b722e00.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258453"> "스타로드도, 가모라도, 맨티스도, 그루트도 컴백!"  가디언즈 오브 갤럭시3, 5월 3일 개봉</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230416160112_3232d6e05cbdaf23325307a03b722e00.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[티빙 '몸값' 칸 시리즈 페스티벌 진출,  공식 레이스 시작]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=258473</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=257714">[인터뷰] 전도연 "일은 심플해. 애 키우는 것에 비하면...” (넷플릭스 길복순) </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230411095839_17f307d7a843e58c447291e6a067abe3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["스펙 제로의 직장인, 이연희입니다" 디즈니플러스 '레이스']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=257687</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=257687</guid>
-            <pubDate>Mon, 10 Apr 2023 23:02:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=257687">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230411075356_5b6459aa545cf49029eabf5da606350e.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=257687">"스펙 제로의 직장인, 이연희입니다" 디즈니플러스 '레이스'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230411075356_5b6459aa545cf49029eabf5da606350e.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
