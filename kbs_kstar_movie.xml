@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 18:07:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 21:08:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["세상에서 가장 달콤한 전쟁" 티빙 '더 디저트'...  디저트 서바이벌 리얼리티!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=259069</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=259069</guid>
+            <pubDate>Thu, 20 Apr 2023 21:06:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=259069">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230420084732_634d251e4854a5a62f70922d1189501c.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259069">"세상에서 가장 달콤한 전쟁" 티빙 '더 디저트'...  디저트 서바이벌 리얼리티!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230420084732_634d251e4854a5a62f70922d1189501c.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[티빙 오리지널, 파라마운트+ 타고 글로벌 유통... '운수 오진 날', '우씨왕후']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=259142</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258094">"만달로리안 다음엔, 아소카!" 디즈니플러스 '아소카' 여름 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230413083154_1a7d4bb7186d3e7bdfc3caa13bb549ea_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["김지운 감독+송강호, 손잡고 칸으로" 신작 <거미집> 칸 영화제 초청]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=258240</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=258240</guid>
-            <pubDate>Fri, 14 Apr 2023 00:29:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=258240">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230414081932_74172697284d5528267f1acf6693968b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258240">"김지운 감독+송강호, 손잡고 칸으로" 신작 &lt;거미집&gt; 칸 영화제 초청</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230414081932_74172697284d5528267f1acf6693968b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
