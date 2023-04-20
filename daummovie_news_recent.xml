@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-04-20T21:08:06.794Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 20 Apr 2023 22:05:10 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로맨스 대신 공포…봄날, 호러가 뜬다]]></title>
+            <link>https://v.daum.net/v/20230421063012109</link>
+            <guid>https://v.daum.net/v/20230421063012109</guid>
+            <pubDate>Thu, 20 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘옥수역 귀신’ 포스터. 사진제공｜㈜스마일이엔티 ‘공포=여름 영화’라는 공식은 깨진지 오래다. 이제는 ‘봄날의 호러’가 뜬다. 봄 극장가의 빈틈을 노리는 각국의 다양한 호러 영화들이 잇달아 관객을 만난다. 대규모 블록버스터들이 여름 성수기 극장을 독점하면서 상대적으로 작은 규모의 호러 영화들이 비수기 봄 극장을 택하고 있기 때문이다. 국산 호러 ‘]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F21%2Fsportsdonga%2F20230421063014523bxwt.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
