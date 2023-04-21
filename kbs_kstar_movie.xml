@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 20:03:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 22:05:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김우빈  '블랙 나이트'되다... 넷플릭스 '택배기사' 5월 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=259217</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=259217</guid>
+            <pubDate>Fri, 21 Apr 2023 22:04:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=259217">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230421080034_f8f5578b4f54cf0bb19f2193aea5e2b3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259217">김우빈  '블랙 나이트'되다... 넷플릭스 '택배기사' 5월 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230421080034_f8f5578b4f54cf0bb19f2193aea5e2b3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[일문일답] 이성욱 '미끼'  "강종훈 차장은 좋은 놈? 나쁜 놈?"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=259310</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258556">이연희-홍종현-문소리-정윤호 '레이스'... 디즈너플러스에서 5월 10일 시작</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230417080523_7b05b33ea1302d750d581bff05427b63.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["스타로드도, 가모라도, 맨티스도, 그루트도 컴백!"  가디언즈 오브 갤럭시3, 5월 3일 개봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=258453</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=258453</guid>
-            <pubDate>Sun, 16 Apr 2023 23:02:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=258453">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230416160112_3232d6e05cbdaf23325307a03b722e00.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258453"> "스타로드도, 가모라도, 맨티스도, 그루트도 컴백!"  가디언즈 오브 갤럭시3, 5월 3일 개봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230416160112_3232d6e05cbdaf23325307a03b722e00.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
