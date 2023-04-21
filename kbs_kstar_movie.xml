@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 00:32:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 01:59:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 허성태, 수줍은 악당 연기자 “장덕수, 서태석, 노상천” (쿠팡플레이 ‘미끼’)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=259255</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=259255</guid>
+            <pubDate>Fri, 21 Apr 2023 01:57:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=259255">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230421095443_381fb2bb2df1e3c4cd05aa4c5a629963.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259255">[인터뷰] 허성태, 수줍은 악당 연기자 “장덕수, 서태석, 노상천” (쿠팡플레이 ‘미끼’) </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230421095443_381fb2bb2df1e3c4cd05aa4c5a629963.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["세상에서 가장 달콤한 전쟁" 티빙 '더 디저트'...  디저트 서바이벌 리얼리티!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=259069</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258473">티빙 '몸값' 칸 시리즈 페스티벌 진출,  공식 레이스 시작</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230416171625_b70141fc21d8096cfc17748d8592e2ec.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["만달로리안 다음엔, 아소카!" 디즈니플러스 '아소카' 여름 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=258094</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=258094</guid>
-            <pubDate>Sun, 16 Apr 2023 00:30:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=258094">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230413083154_1a7d4bb7186d3e7bdfc3caa13bb549ea_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258094">"만달로리안 다음엔, 아소카!" 디즈니플러스 '아소카' 여름 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230413083154_1a7d4bb7186d3e7bdfc3caa13bb549ea_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
