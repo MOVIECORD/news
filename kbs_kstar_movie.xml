@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 01:59:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 02:29:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[일문일답] 이성욱 '미끼'  "강종훈 차장은 좋은 놈? 나쁜 놈?"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=259310</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=259310</guid>
+            <pubDate>Fri, 21 Apr 2023 02:27:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=259310">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230421110336_62d1c2d708108abf24bf73efb46c376a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259310">[일문일답] 이성욱 '미끼'  "강종훈 차장은 좋은 놈? 나쁜 놈?"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230421110336_62d1c2d708108abf24bf73efb46c376a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 허성태, 수줍은 악당 연기자 “장덕수, 서태석, 노상천” (쿠팡플레이 ‘미끼’)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=259255</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258453"> "스타로드도, 가모라도, 맨티스도, 그루트도 컴백!"  가디언즈 오브 갤럭시3, 5월 3일 개봉</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230416160112_3232d6e05cbdaf23325307a03b722e00.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 '몸값' 칸 시리즈 페스티벌 진출,  공식 레이스 시작]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=258473</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=258473</guid>
-            <pubDate>Sun, 16 Apr 2023 09:04:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=258473">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230416171625_b70141fc21d8096cfc17748d8592e2ec.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258473">티빙 '몸값' 칸 시리즈 페스티벌 진출,  공식 레이스 시작</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230416171625_b70141fc21d8096cfc17748d8592e2ec.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
