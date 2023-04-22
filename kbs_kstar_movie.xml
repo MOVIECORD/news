@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Apr 2023 21:06:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Apr 2023 23:06:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["넷플릭스니까!"  신동엽+성시경 인물 토크쇼 '성+인물']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=258898</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=258898</guid>
+            <pubDate>Sat, 22 Apr 2023 23:05:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=258898">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230419083017_2495bfee3167e3cc55abcf84992a6c2b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258898">"넷플릭스니까!"  신동엽+성시경 인물 토크쇼 '성+인물' </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230419083017_2495bfee3167e3cc55abcf84992a6c2b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김우빈  '블랙 나이트'되다... 넷플릭스 '택배기사' 5월 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=259217</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258580">"완벽한 협연"  빈 필하모닉 오케스트라 정기연주회, CGV에서 즐긴다</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230417084729_bee723f30b2e651920b5a4c674f830b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이연희-홍종현-문소리-정윤호 '레이스'... 디즈너플러스에서 5월 10일 시작]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=258556</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=258556</guid>
-            <pubDate>Mon, 17 Apr 2023 01:58:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=258556">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230417080523_7b05b33ea1302d750d581bff05427b63.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258556">이연희-홍종현-문소리-정윤호 '레이스'... 디즈너플러스에서 5월 10일 시작</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230417080523_7b05b33ea1302d750d581bff05427b63.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
