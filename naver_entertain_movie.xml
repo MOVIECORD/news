@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-04-23T09:05:23.038Z</updated>
+    <updated>2023-04-23T10:04:10.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스칼렛 요한슨, 마블 영화 은퇴 선언 "해야 할 모든 것을 했다"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000294632</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000294632"/>
+        <updated>2023-04-23T10:03:23.260Z</updated>
+        <content type="html"><![CDATA[마블 영화에서 '블랙 위도우'로 활약했던 스칼렛 요한슨이 마블 시네마틱 유니버스(MCU)에 이별을 고했다. 지난 21일 기네스 팰트로가 운영하는 팟캐스트 '구프'에 출연한 스칼렛 요한슨은 "나의 마블 영화 시절은 끝]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[논란ing 스타들, 은근슬쩍 복귀…흥행 가능할까[SS초점]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000938671</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000715941"/>
         <updated>2023-04-23T00:31:03.828Z</updated>
         <content type="html"><![CDATA[키아누 리브스 주연 '존 윅 4'가 개봉 11일 째 누적 관객 100만 명을 돌파했다. 4월 22일 영화진흥위원회 통합전산망 집계 기준, 영화 '존 윅 4'(감독 체드 스타헬스키)가 누적 관객 111만8,054명을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개봉할수록 흥행하는 ‘존 윅’시리즈..1편 12만명→4편 111만명]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003270995</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003270995"/>
-        <updated>2023-04-23T00:31:03.829Z</updated>
-        <content type="html"><![CDATA[키아누 리브스 주연의 영화 ‘존 윅4’이 개봉 11일만에 누적 관객수 100만명을 돌파하며 역대 시리즈 중 최대 흥행을 이어가고 있다. ‘존 윅’ 시리즈는 ‘속편은 망한다’는 공식을 깨고 편을 거듭할수록 인기를 얻고]]></content>
     </entry>
 </feed>
