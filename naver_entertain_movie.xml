@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-04-24T16:09:03.956Z</updated>
+    <updated>2023-04-24T17:03:39.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신성훈 감독, ‘짜장면 고맙습니다’ 전국 투어 토크 콘서트 개최]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000882581</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000882581"/>
+        <updated>2023-04-24T17:02:50.314Z</updated>
+        <content type="html"><![CDATA[신성훈 감독이 전국 투어 토크 콘서트를 개최 한다. 첫 공연은 오는 28일 오후6시 인천시에 위치한 방송통신위원회 시청자미디어재단 다목적홀에서 2시간가량 ‘감독과의 대화 토크 콘서트’를 통해 영화 팬들과 만나게 된다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[TEN 포토] 유인나 '작은얼굴에 꽉 찬 예쁨']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000607705</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000607682"/>
         <updated>2023-04-24T16:08:15.236Z</updated>
         <content type="html"><![CDATA[배우 한지혜가 24일 오후 서울 강남구 메가박스 코엑스에서 진행된 영화 ‘드림’ VIP시사회에 참석하고 있다. '드림'은 개념 없는 전직 축구선수 홍대(박서준 분)와 열정 없는 PD 소민(이지은 분)이 집 없는 오합]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베이징 한국영화전용관 개관…한중갈등 속 中관료는 불참]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013900198</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013900198"/>
-        <updated>2023-04-24T16:08:15.250Z</updated>
-        <content type="html"><![CDATA[한국문화원에 80석 규모로 마련…한국영화 상시 상영 조준형 특파원 = 대만 문제를 둘러싸고 한중간에 냉기류가 흐르는 가운데, 중국 수도 베이징의 한국문화원에 한국영화 전용상영관(이하 전용관)이 문을 열었다. 24일]]></content>
     </entry>
 </feed>
