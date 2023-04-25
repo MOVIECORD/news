@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-04-25T16:05:21.858Z</updated>
+    <updated>2023-04-25T17:08:01.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스즈메의 문단속', 해외에서만 '2242억' 벌었다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001252689</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001252689"/>
+        <updated>2023-04-25T17:07:11.808Z</updated>
+        <content type="html"><![CDATA[영화 '스즈메의 문단속'이 해외 총 누적 관객 수 3,000만 명을 돌파하며 전 세계적인 흥행을 이어가고 있다. '스즈메의 문단속'은 우연히 재난을 부르는 문을 열게 된 소녀 스즈메가 일본 각지에서 발생하는 재난을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["신선한 체험 하길"...장동윤X박유나의 언택트 연애 '롱디'(종합)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000213665</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003147444"/>
         <updated>2023-04-25T10:06:45.895Z</updated>
         <content type="html"><![CDATA[중앙그룹의 지속적인 콘텐트 투자가 빛을 보고 있다. 칸 영화제 초청 및 칸 시리즈 수상이 이어지며 눈길을 끈다. 오는 5월 개막하는 제76회 칸 국제영화제에 한국영화 5편이 초청받은 가운데, 이 중 중앙그룹이 제작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['롱디' 감독 "우리는 젊은 영화, '서치'와 다른 점은…"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004837111</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=015&amp;aid=0004837111"/>
-        <updated>2023-04-25T10:06:45.897Z</updated>
-        <content type="html"><![CDATA['롱디' 연출자인 임재완 감독이 새로운 형식에 대한 자신감을 드러냈다. 임재완 감독은 25일 서울시 용산구 CGV용산에서 진행된 영화 '롱디' 시사회 및 간담회에서 "우리는 대한민국 최초 스크린 라이프 로맨틱 코미디]]></content>
     </entry>
 </feed>
