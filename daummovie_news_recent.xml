@@ -1,8 +1,115 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-04-26T20:04:15.821Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 26 Apr 2023 23:04:59 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하마구치 류스케가 추천하는 영화는…관객과 대화도]]></title>
+            <link>https://v.daum.net/v/20230427075455499</link>
+            <guid>https://v.daum.net/v/20230427075455499</guid>
+            <pubDate>Wed, 26 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기사내용 요약 시네마테크의 친구들 영화제 5월에 열려 하마구치 류스케·김지운 감독 등 참석해 1940~80년대 전 세계 걸작 25편 상영해 [서울=뉴시스] 손정빈 기자 = 하마구치 류스케·김지운·변영주 감독 등이 추천하는 영화를 극장에서 볼 수 있는 자리가 생겼다. 서울아트시네마는 '제16회 시네마테크의 친구들 영화제'를 다음 달 11일 연다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F27%2Fnewsis%2F20230427075455586cbrw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식] 박서준·아이유 '드림', 韓 영화로 50일 만에 전체 박스오피스 '1위']]></title>
+            <link>https://v.daum.net/v/20230427075202457</link>
+            <guid>https://v.daum.net/v/20230427075202457</guid>
+            <pubDate>Wed, 26 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=강민경 기자] 영화 '드림'(감독 이병헌)이 한국 영화로 50일 만에 박스오피스 1위를 탈환했다. 27일 배급사 플러스엠엔터테인먼트에 따르면 지난 26일 개봉한 '드림'이 9만 3417명을 동원, 전체 박스오피스 1위에 등극했다. (영화진흥위원회 영화관입장권 통합전산망 기준) 동시기&nbsp;개봉작 '슈퍼 마리오 브라더스'는 물론, 쟁쟁한 외화 경쟁]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F27%2F10asia%2F20230427075206268hzgi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[아이유·박서준 '드림', 개봉 첫날 1위…누적관객 10만↑ [Nbox]]]></title>
+            <link>https://v.daum.net/v/20230427074548349</link>
+            <guid>https://v.daum.net/v/20230427074548349</guid>
+            <pubDate>Wed, 26 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 안태현 기자 = 영화 '드림'(감독 이병헌)이 개봉 첫날 박스오피스 정상에 올랐다. 27일 영화진흥위원회 영화관 입장권 통합전산망 집계에 따르면 '드림'은 개봉일인 지난 26일 하루동안 9만3417명의 관객을 동원하면서 박스오피스 1위에 올랐다. 누적관객수는 10만1277명이다. '드림'은 개념 없는 전직 축구선수 홍대(박서준 분)와 열]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F27%2FNEWS1%2F20230427074549554bubx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[박서준·아이유 '드림', '존 윅 4' 제쳤다…개봉 첫날 1위[TEN무비차트]]]></title>
+            <link>https://v.daum.net/v/20230427074401314</link>
+            <guid>https://v.daum.net/v/20230427074401314</guid>
+            <pubDate>Wed, 26 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=강민경 기자] 이병헌 감독 신작이자 박서준, 아이유 주연 영화 '드림'이 개봉 첫날 박스오피스 1위를 차지했다. 27일 영화진흥위원회 영화관입장권 통합전산망에 따르면 지난 26일 개봉한 '드림'은 9만 3420명을 동원했다. 같은 날 개봉한 '슈퍼 마리오 브라더스'는 2위에 이름을 올렸다. '슈퍼 마리오 브라더스'는 8만 9692명을 불러 모]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F27%2F10asia%2F20230427074403853vrrv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['드림' 개봉 첫날 1위 차지…'슈퍼 마리오 브라더스' 2위[美친 box]]]></title>
+            <link>https://v.daum.net/v/20230427074154278</link>
+            <guid>https://v.daum.net/v/20230427074154278</guid>
+            <pubDate>Wed, 26 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘드림’이 개봉 첫날 1위를 차지했다. 27일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날 개봉한 ‘드림’은 9만 3420명을 동원해 일별 박스오피스 1위에 올랐다. 이날까지 누적 관객수는 10만 1280명. ‘드림’(감독 이병헌, 제공배급 플러스엠 엔터테인먼트, 제작 옥토버시네마)은 개념 없는 전직 축구선수 홍]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F27%2Fpoctan%2F20230427074155012fgea.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[“‘드림’이 ‘극한직업’만큼 안 웃기다고요?”[편파적인 디렉터스뷰]]]></title>
+            <link>https://v.daum.net/v/20230427073540132</link>
+            <guid>https://v.daum.net/v/20230427073540132</guid>
+            <pubDate>Wed, 26 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이병헌 감독에겐 ‘극한직업’은 견뎌내야 할 왕관의 무게다. 1626만 명이 관람하며 역대 국내영화 박스오피스 2위를 차지한 덕분에, 신작이 나와도 늘 비교 대상일 수밖에 없다. 영화 ‘드림’도 그렇다. ‘극한직업’과 비교되는 평가들이 나오자, 이 감독은 최근 SNS에 “이 영화의 핸디캡은 홈리스가 아닌 이병헌 감독이었다. 사회적 문제를 다루고도 얼마]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F27%2Fsportskhan%2F20230427073542076teig.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[드림·슈퍼마리오, 공개 첫 날 1·2위…쌍끌이 흥행 간다]]></title>
+            <link>https://v.daum.net/v/20230427071729865</link>
+            <guid>https://v.daum.net/v/20230427071729865</guid>
+            <pubDate>Wed, 26 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기사내용 요약 아이유·박서준 '드림' 9만3417명 1위 '슈퍼 마리오 브라더스' 8만9693명 2위 예매 순위도 TOP2…주말 쌍끌이 기대 [서울=뉴시스] 손정빈 기자 = 한국영화 '드림'과 할리우드 애니메이션 영화 '슈퍼 마리오 브라더스'가 '존 윅 4'를 주저앉히며 개봉 첫 날 나란히 1·2위에 올랐다. '드림'은 26일 9만3417명(영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F27%2Fnewsis%2F20230427071729374lert.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[전주국제영화제 오늘 '봄날의 개막'…감독·배우 레드카펫 선다]]></title>
+            <link>https://v.daum.net/v/20230427070005557</link>
+            <guid>https://v.daum.net/v/20230427070005557</guid>
+            <pubDate>Wed, 26 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(전주=연합뉴스) 임채두 기자 = '독립·예술 영화인의 축제' 제24회 전주국제영화제가 27일 막을 올리고 열흘간의 여정을 시작한다. 영화제 개막식은 이날 오후 6시 30분 한국소리문화의전당에서 열린다. 유명 영화감독과 배우, 영화제 심사위원, 영화제 조직위원장 등이 개막식장으로 입장하는 '레드카펫'도 성대하게 치러질 예정이다. 올해는 배우 진구, 공승연,]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F27%2Fyonhap%2F20230427070005781fyhd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[전주국제영화제, 오늘(27일) 개막..진구·공승연MC→다르덴 형제 내한]]></title>
+            <link>https://v.daum.net/v/20230427070001544</link>
+            <guid>https://v.daum.net/v/20230427070001544</guid>
+            <pubDate>Wed, 26 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 김미화 기자] 진구 공승연전주국제영화제가 개막한다. 27일 오후 6시 30분 전주 한국소리문화의전당 '모악당'에서  제 24회 전주국제영화제(공동집행위원장 민성욱·정준호) 개막식이 개최된다. 이날 개막식 MC로 배우 진구와 공승연이 나선다. /사진=전주국제영화제 제24회 전주국제영화제는 개막식을 시작으로 4월 27일 부터 5월 6일 까지 전]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F27%2Fstarnews%2F20230427070002661bvto.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[디즈니코리아, ‘스타워즈  데이’ 맞아 전주국제영화제서  풍성한 행사]]></title>
+            <link>https://v.daum.net/v/20230427062534067</link>
+            <guid>https://v.daum.net/v/20230427062534067</guid>
+            <pubDate>Wed, 26 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[월트디즈니 컴퍼니 코리아(이하 디즈니코리아)가 오는 5월 4일 스타워즈 데이(Star Wars Day)를 맞아 제24회 전주국제영화제에서 다채로운 이벤트를 전개한다. 매년 5월 4일 펼쳐지는 ‘스타워즈 데이(Star Wars Day)’는 스타워즈 영화 속 유명 대사인 “포스가 당신과 함께 하기를(May the Force be with you)”의 영어]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F27%2Fsportskhan%2F20230427062535640cgoj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[영화X여행X음악 ‘24회 전주국제영화제’ 놀러오세요!②]]></title>
+            <link>https://v.daum.net/v/20230427061503935</link>
+            <guid>https://v.daum.net/v/20230427061503935</guid>
+            <pubDate>Wed, 26 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘전주국제영화제’는 다양한 즐길거리가 갖춰져 있다. 영화 관람 및 출연진, 제작진이 함께 하는 행사는 기본이다. 맛과 멋의 고장으로 유명한 전주의 이미지에 걸맞게 영화제 기간 다양한 볼거리, 즐길거리로 관람객들을 유혹한다. 27일 개막하는 전주국제영화제의 프로그램은 물론 영화와 전주의 문화유산을 접목한 전주 씨네투어, 영화와 함께 즐기는 음악까지. 영화제]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F27%2Filgansports%2F20230427061507623rbgc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[영화평 300]얘는 착하고, 얘는 귀여워!]]></title>
+            <link>https://v.daum.net/v/20230427060310772</link>
+            <guid>https://v.daum.net/v/20230427060310772</guid>
+            <pubDate>Wed, 26 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스] 손정빈 기자 = 4월 5주차 개봉 영화 및 최신 개봉작 간단평을 정리했다. 틀린 말은 아니지만…드림(★★☆) '드림'은 예상을 벗어나지 않는다. 한 때 노숙자였던 이들이 인생 재기를 꿈꾸며 홈리스 월드컵에 나간다는 실화를 영화로 만들기로 했을 때 어느 정도는 정해진 수순이었을 것이다. 좋게 보면 기승전결이 안정적이라고 할 수 있지만, 반]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F27%2Fnewsis%2F20230427060310743chmy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[IS인터뷰] ‘드림’ 이병헌 감독 “한국영화 위기? 너나없이 응원하는 마음”]]></title>
+            <link>https://v.daum.net/v/20230427054602399</link>
+            <guid>https://v.daum.net/v/20230427054602399</guid>
+            <pubDate>Wed, 26 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘드림’의 이병헌 감독이 한국 영화를 응원했다. 이병헌 감독은 최근 ‘드림’ 개봉을 앞두고 서울 종로구의 한 카페에서 진행한 인터뷰에서 “요즘 한국 영화가 위기인데 부담감이 없느냐”는 질문에 “그것보다는 요즘은 모두 내 영화, 네 영화 할 것 없이 서로 응원해 주는 마음이 큰 것 같다”고 답했다. 이병헌 감독은 ‘드림’을 오래 전부터 구상했다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202304%2F27%2Filgansports%2F20230427054603690uqcm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
