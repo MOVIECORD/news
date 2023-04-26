@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 05:07:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 06:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 이선균 “에브리싱 에브리웨어, 잇츠 굿~”  (영화 '킬링 로맨스')]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=259945</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=259945</guid>
+            <pubDate>Wed, 26 Apr 2023 06:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=259945">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230426144611_1479d85ef89d44b1358890fd8031b79a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259945">[인터뷰] 이선균 “에브리싱 에브리웨어, 잇츠 굿~”  (영화 '킬링 로맨스')</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230426144611_1479d85ef89d44b1358890fd8031b79a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["1980년 5월 24일, 광주 송암동" 논픽션 시네마 <송암동>]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=259024</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259035">티빙 '야구'다큐 '아워게임 : LG트윈스'... ‘투수 왕국’의 불펜 투수들</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230420075600_77389f9c9afa26561aec3f0056f66d87_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['가디언즈 오브 갤럭시: Volume 3' 마블 역대급 한국 팬 서비스 진행]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=259112</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=259112</guid>
-            <pubDate>Thu, 20 Apr 2023 07:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=259112">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230420153508_0e2addb15f9b48755b562604e43ccbe7_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259112">'가디언즈 오브 갤럭시: Volume 3' 마블 역대급 한국 팬 서비스 진행</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230420153508_0e2addb15f9b48755b562604e43ccbe7_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
