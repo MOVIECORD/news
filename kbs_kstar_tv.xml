@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 00:30:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 02:01:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JTBC '나쁜엄마'  안은진,  “가족, 사랑, 코미디 등 많은 것이 담긴 작품"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=259937</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=259937</guid>
+            <pubDate>Wed, 26 Apr 2023 02:00:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=259937">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230426105904_7840501ed367d30cea5833f0a5893820.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259937">JTBC '나쁜엄마'  안은진,  “가족, 사랑, 코미디 등 많은 것이 담긴 작품"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230426105904_7840501ed367d30cea5833f0a5893820.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['나쁜엄마' 이도현, "따뜻하고 행복한 드라마가 될 것"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=259847</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258568">장혁-장나라 "우리는 평범한 가족이 아니다" ...  tvN ‘패밀리’ 오늘 첫 방송</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230417082216_2d5fa8e174a450ea6f5681bb64dfb184.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[tvN ‘패밀리’, 차태현 특별출연 "장혁을 위해 나섰다"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=258369</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=258369</guid>
-            <pubDate>Sun, 16 Apr 2023 23:02:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=258369">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230415172809_5bb94f078cf9856e711ed41fe920d5f3.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258369">tvN ‘패밀리’, 차태현 특별출연 "장혁을 위해 나섰다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230415172809_5bb94f078cf9856e711ed41fe920d5f3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

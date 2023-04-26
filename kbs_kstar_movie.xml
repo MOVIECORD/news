@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 00:30:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 02:01:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["1980년 5월 24일, 광주 송암동" 논픽션 시네마 <송암동>]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=259024</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=259024</guid>
+            <pubDate>Wed, 26 Apr 2023 01:59:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=259024">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230420074117_852bfa53af7327343ef8f1de8867a782.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259024"> "1980년 5월 24일, 광주 송암동" 논픽션 시네마 &lt;송암동&gt;</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230420074117_852bfa53af7327343ef8f1de8867a782.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['퀸메이커' 서이숙, "은성그룹 절대권력, 회장님의 카리스마"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=259883</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259112">'가디언즈 오브 갤럭시: Volume 3' 마블 역대급 한국 팬 서비스 진행</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230420153508_0e2addb15f9b48755b562604e43ccbe7_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['인시디어스' 다섯 번째 문은 '빨간 문'... 7월 개봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=259104</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=259104</guid>
-            <pubDate>Thu, 20 Apr 2023 07:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=259104">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230420152658_5ac436d4359e274238b5e4e11fb2d807.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259104">'인시디어스' 다섯 번째 문은 '빨간 문'... 7월 개봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230420152658_5ac436d4359e274238b5e4e11fb2d807.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
