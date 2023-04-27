@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-04-27T17:07:09.146Z</updated>
+    <updated>2023-04-27T19:05:21.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“부산 영화인의 발버둥, 잡지로 알릴 거예요”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000039468</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000039468"/>
+        <updated>2023-04-27T19:04:27.954Z</updated>
+        <content type="html"><![CDATA[- 영화학도 뭉쳐 창간준비호 발간 - 상반기 1호 채비… 웹진도 구상 - 독립예술 전용극장 확대 강조 ‘젊은 동료가, 부산의 사람들이 영화를 위해 각자의 자리에서 발버둥 치는 모습만은 종이에 각인하고 싶었다. (중략]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[새영화]뜻밖의 풋볼 월드컵 우승 위한 의기투합]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000967309</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013909021"/>
         <updated>2023-04-27T13:09:20.750Z</updated>
         <content type="html"><![CDATA[영화 '파미르'에 출연한 장동윤, 이주승 배우가 27일 오후 전북 전주시 덕진구 한국소리문화의전당에서 열린 제24회 전주국제영화제(JIFF) 개막식에 입장하고 있다. 2023.4.27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['영화 너를 줍다, 주목해주세요']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013909020</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013909020"/>
-        <updated>2023-04-27T13:09:20.751Z</updated>
-        <content type="html"><![CDATA[영화 '너를 줍다'를 연출한 심혜정 감독(가운데)과 배우 김재경, 현우가 27일 오후 전북 전주시 덕진구 한국소리문화의전당에서 열린 제24회 전주국제영화제(JIFF) 개막식에 입장하고 있다. 2023.4.27]]></content>
     </entry>
 </feed>
