@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 05:05:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 06:09:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘편스토랑’ 르세라핌 사쿠라, 스페셜MC 출격]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=260225</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=260225</guid>
+            <pubDate>Fri, 28 Apr 2023 06:08:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=260225">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230428144221_ded57206357ad4e53ff481deeaf78030.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=260225">‘편스토랑’ 르세라핌 사쿠라, 스페셜MC 출격 </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%20%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상 출시 편스토랑</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230428144221_ded57206357ad4e53ff481deeaf78030.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임영웅, KBS 단독 리얼리티 예능... "가정의 달 맞이 특급 선물"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=260159</link>
@@ -346,24 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B3%BC%ED%95%99%EC%88%98%EC%82%AC%EB%8C%80%20%EC%8A%A4%EB%AA%A8%ED%82%B9%20%EA%B1%B4">과학수사대 스모킹 건</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230427015314_796dee96e58eb35ec3dfcbcea87ce00c_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[옥탑방의 문제아들] ‘그럴 만했겠지’ 이해 요정 금희가 모든 상황을 이해하는 방법]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=259986</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=259986</guid>
-            <pubDate>Wed, 26 Apr 2023 16:05:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=259986">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230426233030_c7da78663f52d372551bfeb78c206330_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259986">[옥탑방의 문제아들] ‘그럴 만했겠지’ 이해 요정 금희가 모든 상황을 이해하는 방법</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230426233030_c7da78663f52d372551bfeb78c206330_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
