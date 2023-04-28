@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 19:06:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 22:05:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['불후의 명곡'  송창식 편  "한국 가요계의 태산, 포크계의 뿌리"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=260214</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=260214</guid>
+            <pubDate>Fri, 28 Apr 2023 22:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=260214">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230428142752_dfdfc5e7acbe704bcdefbff79d75d6fa.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=260214">'불후의 명곡'  송창식 편  "한국 가요계의 태산, 포크계의 뿌리"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230428142752_dfdfc5e7acbe704bcdefbff79d75d6fa.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[슈퍼맨이 돌아왔다] 스페셜 손님으로 찾아온 원조 슈퍼맨 송일국!]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=260324</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%85%B8%EB%A8%B8%EB%8B%88%20%EB%85%B8%EC%95%84%ED%8A%B8">노머니 노아트</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230428014419_0fdb14aa3d51a5aa56ed3beda232dcac_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[노머니 노아트] 비범을 넘는 평범 - 강태구몬]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=260089</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=260089</guid>
-            <pubDate>Thu, 27 Apr 2023 17:06:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=260089">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230428013657_d8e3d10d86e73b207b3696b11212c661_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=260089">[노머니 노아트] 비범을 넘는 평범 - 강태구몬 </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%85%B8%EB%A8%B8%EB%8B%88%20%EB%85%B8%EC%95%84%ED%8A%B8">노머니 노아트</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230428013657_d8e3d10d86e73b207b3696b11212c661_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
