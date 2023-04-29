@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-04-29T10:06:17.472Z</updated>
+    <updated>2023-04-29T11:03:13.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스즈메의 문단속' 신카이 마코토 "아이브 'I AM' 무한반복…아저씨가 들어도 좋아"('뉴스룸')[종합]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004840470</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004840470"/>
+        <updated>2023-04-29T11:02:29.440Z</updated>
+        <content type="html"><![CDATA[영화 ‘스즈메의 문단속’을 연출한 일본 신카이 마코토 감독이 국내 관객들에게 감사의 인사를 전한 가운데, 걸그룹 아이브의 최신곡에 빠져 있다는 근황을 전했다. 신카이 마코토 감독은 29일 오후 방송된 JTBC 뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[종합]"'도깨비'서 영감 얻어" 신카이 마코토 감독, '스즈메' 500만 돌파에 감사('뉴스룸')]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003628724</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006777987"/>
         <updated>2023-04-29T05:03:34.232Z</updated>
         <content type="html"><![CDATA[영화 '스즈메의 문단속'이 500만 관객을 돌파했다. 29일 영화관입장권 통합전산망에 따르면 '스즈메의 문단속'(감독 신카이 마코토)은 이날 0시 누적 관객 수 500만7193명을 기록하며 500만 관객을 돌파했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스즈메의 문단속', 국내 개봉 日 영화 최초 500만 관객 돌파]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=417&amp;aid=0000917073</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=417&amp;aid=0000917073"/>
-        <updated>2023-04-29T05:03:34.242Z</updated>
-        <content type="html"><![CDATA[일본 애니메이션 영화 '스즈메의 문단속'이 누적 관객 500만명을 넘어서며 신기록을 세웠다. 29일 영화진흥위원회 영화관입장권 통합전산망에 따르면 스즈메의 문단속은 지난 28일 자정 기준 누적 관객 500만7193명]]></content>
     </entry>
 </feed>
