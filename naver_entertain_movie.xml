@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-04-29T11:03:13.471Z</updated>
+    <updated>2023-04-29T12:13:37.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中 애국주의 영화 '장공의 왕', 노동절 연휴 흥행수입 1위 올라]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013912194</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013912194"/>
+        <updated>2023-04-29T12:12:44.601Z</updated>
+        <content type="html"><![CDATA[첨단 전투기 개발 과정 다뤄 자긍심 고취 박종국 특파원 = 중국 노동절(5월 1일) 연휴에 맞춰 개봉한 애국주의 영화 '장공의 왕(長空之王)'이 단숨에 박스오피스 1위에 올랐다. 29일 중국 온라인 티켓 판매 플랫폼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스즈메의 문단속' 신카이 마코토 "아이브 'I AM' 무한반복…아저씨가 들어도 좋아"('뉴스룸')[종합]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004840470</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003807762"/>
         <updated>2023-04-29T05:03:34.230Z</updated>
         <content type="html"><![CDATA[지난해 우리 곁을 갑작스럽게 떠난 고(故) 강수연 배우의 1주기 추모전 ‘강수연, 영화롭게 오랫동안’이 열린다. 5월 6일부터 5월 9일까지 한국영상자료원과 메가박스 성수에서 11편의 영화가 상영되고, 함께 했던 감]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스즈메의 문단속' 日 영화 최초 500만 돌파 신기록…"한국 관객 감사"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006777987</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006777987"/>
-        <updated>2023-04-29T05:03:34.232Z</updated>
-        <content type="html"><![CDATA[영화 '스즈메의 문단속'이 500만 관객을 돌파했다. 29일 영화관입장권 통합전산망에 따르면 '스즈메의 문단속'(감독 신카이 마코토)은 이날 0시 누적 관객 수 500만7193명을 기록하며 500만 관객을 돌파했다.]]></content>
     </entry>
 </feed>
