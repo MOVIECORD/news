@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Apr 2023 08:04:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Apr 2023 09:04:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['닥터 차정숙' 엄정화, 닥터의 길 계속 가나]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=260345</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=260345</guid>
+            <pubDate>Sat, 29 Apr 2023 09:02:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=260345">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230429173006_79a1213a382cdd3fe787597e5464f38f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=260345">'닥터 차정숙' 엄정화, 닥터의 길 계속 가나</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230429173006_79a1213a382cdd3fe787597e5464f38f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[tvN '구미호뎐1938' 이동욱, 1938년 불시착... “형은 너 절대 포기 안 해”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=259895</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258882">‘종이달’ 김서형, "아슬아슬한 유이화, 압도적 연기"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230419081203_7af96ec84c0d526ee96a6ca39fc5b5c6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김소연 '모범택시 1호 기사' 특별출연]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=258714</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=258714</guid>
-            <pubDate>Tue, 18 Apr 2023 07:03:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=258714">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230418153946_b27f34dddc134b5e359306e4734ea00d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=258714">김소연 '모범택시 1호 기사' 특별출연</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230418153946_b27f34dddc134b5e359306e4734ea00d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

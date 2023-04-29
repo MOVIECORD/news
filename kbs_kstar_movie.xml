@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Apr 2023 08:04:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Apr 2023 09:04:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[류준열, '올빼미'로 백상예술대상 최우수연기상 수상]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=260339</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=260339</guid>
+            <pubDate>Sat, 29 Apr 2023 09:02:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=260339">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230429172225_b6932998f8697ccca5691115a0ae5305.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=260339">류준열, '올빼미'로 백상예술대상 최우수연기상 수상</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230429172225_b6932998f8697ccca5691115a0ae5305.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디즈니+ '레이스' 고하, 쿨하고 의리 있는 기자 최혜영]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=260178</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259572">[인터뷰] 박서준  "말의 호흡, 필드의 속도감, 그리고 열정" (영화 '드림')</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230424083821_da5d799d1f9fbe0039c8d292e615aa8f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박훈정 감독 광기의 추적극, 김선호 주연  '귀공자' 6월 개봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=259493</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=259493</guid>
-            <pubDate>Sun, 23 Apr 2023 22:06:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=259493">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230423140304_6f082f79dd72f7be7f3e1addb1ffec3c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=259493">박훈정 감독 광기의 추적극, 김선호 주연  '귀공자' 6월 개봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230423140304_6f082f79dd72f7be7f3e1addb1ffec3c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
