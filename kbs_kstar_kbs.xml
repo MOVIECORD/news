@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Apr 2023 21:05:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 22:06:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['어쩌다 마주친, 그대'  진기주-이원정,티격태격 케미 예고]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=260251</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=260251</guid>
+            <pubDate>Sun, 30 Apr 2023 22:05:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=260251">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230428151602_a9374ccca0f22b07bea1854d7ff4ffb3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=260251">'어쩌다 마주친, 그대'  진기주-이원정,티격태격 케미 예고</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%96%B4%EC%A9%8C%EB%8B%A4%20%EB%A7%88%EC%A3%BC%EC%B9%9C%20%EA%B7%B8%EB%8C%80">월화드라마 어쩌다 마주친 그대</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230428151602_a9374ccca0f22b07bea1854d7ff4ffb3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[진짜가 나타났다] “3개월이면 끝?” 산모수첩에 적힌 백진희의 메모를 발견한 차주영...안재현 거짓 부부 들통 위기]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=260542</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230428145346_25fea45e4faca48968ae719a9a0f4f98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['영상앨범 산'  홍콩 란타우 국립공원... "도심 속 숲의 낙원"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=260208</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=260208</guid>
-            <pubDate>Sat, 29 Apr 2023 22:04:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=260208">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230428142203_2bd0a6953d25b5e0b9acffe10a45b727.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=260208">'영상앨범 산'  홍콩 란타우 국립공원... "도심 속 숲의 낙원"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%81%EC%83%81%EC%95%A8%EB%B2%94%20%EC%82%B0">영상앨범 산</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230428142203_2bd0a6953d25b5e0b9acffe10a45b727.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
