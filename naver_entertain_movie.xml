@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-04-30T15:05:13.479Z</updated>
+    <updated>2023-04-30T16:06:18.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[문화인터뷰] “양양 해변에서 새로운 문화의 파도 느낄 수 있길”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000967711</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000967711"/>
+        <updated>2023-04-30T16:05:25.756Z</updated>
+        <content type="html"><![CDATA[오는 4일 양양 하조대에서는 제1회 양양 유럽영화제(Yangyang European Film Festival)가 열린다. 양양 복합문화공간 더 스탠드가 주최, 총 12개국 유럽연합회원국 대사관과 헝가리 문화원이 협력]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[웃음도 감동도 적정선을 넘지 않는 '드림'[TF씨네리뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000214554</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003148776"/>
         <updated>2023-04-30T05:03:03.641Z</updated>
         <content type="html"><![CDATA['존 윅 4'가 개봉 19일차에 '앤트맨과 와스프: 퀀텀매니아'를 뛰어넘고 애니메이션을 제외한 2023년 외화 흥행 1위를 차지했다. 시리즈 흥행을 뛰어넘어 폭발적 흥행을 이어가고 있는 '존 윅 4'가 애니메이션 제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘메마데바’ 허광한, 귀국 하루 만에 내한 결정…5월 12일 ‘밋 앤 그릿’ 개최(공식)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000935224</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000935224"/>
-        <updated>2023-04-30T05:03:03.643Z</updated>
-        <content type="html"><![CDATA[‘메마데바’ 허광한이 귀국 하루 만에 내한을 결정했다. 30일 리안컨텐츠에 따르면 영화 ‘메리 마이 데드 바디’(이하 ‘메마데바’)의 주연 배우 허광한, 감독 청웨이하오, 그리고 프로듀서 진바이런이 5월 12일 내한]]></content>
     </entry>
 </feed>
