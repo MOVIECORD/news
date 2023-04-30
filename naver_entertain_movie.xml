@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-04-30T12:12:45.344Z</updated>
+    <updated>2023-04-30T14:06:41.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“주인공 상처 치유하는 과정, 韓 관객 마음 움직인 듯”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003807954</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003807954"/>
+        <updated>2023-04-30T14:05:54.200Z</updated>
+        <content type="html"><![CDATA[‘스즈메…’ 신카이 마코토 흥행 감사 내한 ‘재난 3부작’ 애니메이션 완결판 지난 3월 개봉… 관객 500만 돌파 “봉준호 작품 비하면 부족한 퀄리티 메시지 잘 받아준 한국 관객 다정해 국적 초월해 콘텐츠 질 자체를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[너무 비싼 푯값... 그럼에도 내가 영화관에 가는 이유]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002390701</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001739142"/>
         <updated>2023-04-30T05:03:03.644Z</updated>
         <content type="html"><![CDATA[‘슈퍼 마리오 브라더스’가 1위에 올랐다. 영화 ‘슈퍼 마리오 브라더스’가 지난 29일 박서준, 아이유 주연의 ‘드림’을 꺾고 박스오피스 1위에 등극했다. 영화진흥위원회 통합전산망에 따르면 ‘슈퍼 마리오 브라더스’는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허광한 내한확정, ‘상견니’ 후 3개월만 신작 ‘메마데바’로 韓 팬 만난다(공식)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001739141</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001739141"/>
-        <updated>2023-04-30T05:03:03.646Z</updated>
-        <content type="html"><![CDATA[‘메마데바’ 허광한이 내한을 확정했다. 30일 리안컨텐츠에 따르면 영화 ‘메리 마이 데드 바디’(이하 ‘메마데바’)의 주연 배우 허광한, 감독 청웨이하오, 그리고 프로듀서 진바이런이 5월 12일 내한을 최종 확정했다]]></content>
     </entry>
 </feed>
