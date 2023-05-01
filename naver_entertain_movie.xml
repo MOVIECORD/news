@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-05-01T11:03:33.161Z</updated>
+    <updated>2023-05-01T12:11:29.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘슈퍼 마리오 브라더스’ 개봉 첫 주 1위]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003808304</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003808304"/>
+        <updated>2023-05-01T12:10:40.430Z</updated>
+        <content type="html"><![CDATA[닌텐도 게임 영화화… 관객 76만 이병헌 감독 신작 ‘드림’ 뒤이어 닌텐도 게임을 영화화한 ‘슈퍼 마리오 브라더스(사진)’가 개봉 첫 주말 박스오피스 1위에 올랐다. 한국영화의 구원투수로 주목받은 박서준·아이유 주연]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이유 "'드림' 헝가리 촬영 중 눈 통증..정신 건강은 좋아"[스타이슈]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003149090</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001587662"/>
         <updated>2023-05-01T05:05:07.511Z</updated>
         <content type="html"><![CDATA[영화 '슈퍼마리오'가 압도적으로 박스오피스 1위를 차지하며 흥행을 이어가고 있다. 1일 영화진흥위원회 영화관입장권 통합전산망 집계결과 ‘슈퍼마리오 브라더스’는 61만4612명이 관람해 박스오피스 1위를 차지했다. ‘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마리오' 1위, '가오갤3' 예매 1위...맥 못 추는 韓 '드림' [종합]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001253304</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001253304"/>
-        <updated>2023-05-01T05:05:07.512Z</updated>
-        <content type="html"><![CDATA[한국 영화 침체기가 지속될까. 지난주 개봉한 한국 영화의 희망 '드림'이 또 외화의 벽에 부딪쳤다. 1일 오전 7시 영화진흥위원회 통합전산망에 따르면 '슈퍼 마리오 브라더스'는 국내 개봉 첫 주 주말 76만 관객을]]></content>
     </entry>
 </feed>
