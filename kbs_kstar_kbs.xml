@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Apr 2023 23:05:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 02:03:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드라마 '어쩌다 마주친, 그대' 오늘 첫 방송... 1987년에 떨어진 진기주, 엄마와 만날 수 있을까?]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=260605</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=260605</guid>
+            <pubDate>Mon, 01 May 2023 02:02:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=260605">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230501105626_d40887a4d438e4764bd9c17ff7f253a3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=260605">드라마 '어쩌다 마주친, 그대' 오늘 첫 방송... 1987년에 떨어진 진기주, 엄마와 만날 수 있을까?</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%96%B4%EC%A9%8C%EB%8B%A4%20%EB%A7%88%EC%A3%BC%EC%B9%9C%20%EA%B7%B8%EB%8C%80">월화드라마 어쩌다 마주친 그대</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230501105626_d40887a4d438e4764bd9c17ff7f253a3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['어쩌다 마주친, 그대'  진기주-이원정,티격태격 케미 예고]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=260251</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%96%B4%EC%A9%8C%EB%8B%A4%20%EB%A7%88%EC%A3%BC%EC%B9%9C%20%EA%B7%B8%EB%8C%80">월화드라마 어쩌다 마주친 그대</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230428151229_3802616255407dc07202c5c3b32de614.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['1박 2일'  운수 좋은 날, 유채꽃밭 오프닝]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=260238</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=260238</guid>
-            <pubDate>Sat, 29 Apr 2023 22:04:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=260238">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230428145346_25fea45e4faca48968ae719a9a0f4f98.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=260238">'1박 2일'  운수 좋은 날, 유채꽃밭 오프닝</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230428145346_25fea45e4faca48968ae719a9a0f4f98.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
