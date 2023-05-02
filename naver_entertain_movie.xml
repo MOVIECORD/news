@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-05-02T14:03:56.957Z</updated>
+    <updated>2023-05-02T15:05:51.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[10년간 바래지 않은 '가오갤3'의 색채, 마지막까지 따뜻했다[정승민의 정감록]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=445&amp;aid=0000109774</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=445&amp;aid=0000109774"/>
+        <updated>2023-05-02T15:05:02.695Z</updated>
+        <content type="html"><![CDATA['정승민의 정감록(鄭監錄)'은 개봉을 앞두거나 새로 공개된 영화, 드라마 등 작품의 간략한 줄거리와 함께 솔직한 리뷰를 담습니다. 마음 아픈 로켓의 과거사부터 '가디언즈' 팀의 마지막 여정까지. 시리즈 최종 편으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘가오갤3’ 우주 별종들의 뜨거운 안녕[MK무비]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005124961</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000941024"/>
         <updated>2023-05-02T10:03:26.859Z</updated>
         <content type="html"><![CDATA[중국에서 배우 마동석으로 ‘프로필 바꾸기’ 열풍 네티즌 “프로필 사진 바꾸고 상대가 정중해졌다” 마동석, 중국 내에서 인기…이종석 제치고 4위 범죄도시 마동석이 지난달 28일 영종도 파라다이스시티에서 열린 제59회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['문재인입니다' 감독 "'다스뵈이다' 공개 영상, 편집 NO…애초 안들어가" [N현장]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006783313</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006783313"/>
-        <updated>2023-05-02T10:03:26.859Z</updated>
-        <content type="html"><![CDATA['문재인입니다' 이창재 감독이 '김어준의 다스뵈이다'에 나왔던 영화 속 영상은 애초부터 본 작품에는 들어가지 않는 장면이었다고 밝혔다. 이창재 감독은 2일 오후 서울 성동구 왕십리로 메가박스 성수에서 진행된 다큐멘터]]></content>
     </entry>
 </feed>
