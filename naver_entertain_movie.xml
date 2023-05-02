@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-05-02T16:09:43.577Z</updated>
+    <updated>2023-05-02T17:06:56.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[봄의 여신 임윤아[화보]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001049169</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001049169"/>
+        <updated>2023-05-02T17:06:10.068Z</updated>
+        <content type="html"><![CDATA[매거진 싱글즈가 소녀시대 멤버 겸 배우 임윤아와 함께한 싱글즈 커버 및 뷰티 화보를 공개했다. 임윤아는 결점 없는 피부 표현과 함께 립 컬러에 따라 다채로운 매력을 선보여 시선을 이끈다. 이번 화보에서 임윤아는 럭셔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10년간 바래지 않은 '가오갤3'의 색채, 마지막까지 따뜻했다[정승민의 정감록]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=445&amp;aid=0000109774</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003149417"/>
         <updated>2023-05-02T10:03:26.858Z</updated>
         <content type="html"><![CDATA[배우 클라라가 자신이 출연한 중국 영화 '유랑지구2'를 응원하기 위해 CGV 용산에 출격한다. 오는 3일 오후 CGV용산아이파크몰에서 진행되는 영화 '유랑지구2' 일반 시사에 클라라가 무대인사를 위해 나선다. '유랑]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“마동석으로 프로필 사진 바꾸고 진상 손님 없어졌다”…中, SNS 프로필 바꾸기 열풍]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000941024</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000941024"/>
-        <updated>2023-05-02T10:03:26.859Z</updated>
-        <content type="html"><![CDATA[중국에서 배우 마동석으로 ‘프로필 바꾸기’ 열풍 네티즌 “프로필 사진 바꾸고 상대가 정중해졌다” 마동석, 중국 내에서 인기…이종석 제치고 4위 범죄도시 마동석이 지난달 28일 영종도 파라다이스시티에서 열린 제59회]]></content>
     </entry>
 </feed>
