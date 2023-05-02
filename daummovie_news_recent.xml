@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-05-02T19:05:05.661Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 02 May 2023 20:05:26 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시리즈 자체 드라마와 캐릭터 서사에 중점 둔 ‘가오갤3’]]></title>
+            <link>https://v.daum.net/v/20230503040716539</link>
+            <guid>https://v.daum.net/v/20230503040716539</guid>
+            <pubDate>Tue, 02 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“난 괴물이야. 난 이상한 사람이야. 도대체 난 여기서 뭘 하고 있는걸까.” 라디오헤드의 ‘크립’을 나직이 흥얼거리는 로켓(브래들리 쿠퍼)으로부터 이번 이야기는 시작된다. 유전자 변형 실험을 위해 잡혀 온 어린 로켓은 연구소에서 같은 처지에 있는 친구들을 사귄다. 새로운 세상으로 나갈 날을 꿈꾸며 이들은 무섭고 외로운 감옥 생활을 함께 버틴다. 그러던 어]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F03%2Fkukminilbo%2F20230503040718460ujnm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
