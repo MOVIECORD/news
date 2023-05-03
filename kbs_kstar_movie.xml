@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 01:58:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 03:08:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] ‘리턴 투 서울’ 내 마음의 안식처는 어디인가 (데이비 추 감독, 2022)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=260977</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=260977</guid>
+            <pubDate>Wed, 03 May 2023 03:07:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=260977">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230503105901_1d8c4a979d83bea35c017d434d989d0e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=260977">[리뷰] ‘리턴 투 서울’ 내 마음의 안식처는 어디인가 (데이비 추 감독, 2022)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230503105901_1d8c4a979d83bea35c017d434d989d0e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성룡 무한질주 '라이드 온'... 노브레이크 코믹액션 펼친다]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=260960</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=260178">디즈니+ '레이스' 고하, 쿨하고 의리 있는 기자 최혜영</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230428132843_f0889a631a8cc42f17199f46d1da5fba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다르덴 형제 감독 '토리와 로키타' 전주에서 빛나다]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=260276</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=260276</guid>
-            <pubDate>Fri, 28 Apr 2023 22:04:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=260276">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230428164852_35614d2ac670c98d43a6a6f649a288e6.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=260276">다르덴 형제 감독 '토리와 로키타' 전주에서 빛나다</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230428164852_35614d2ac670c98d43a6a6f649a288e6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
