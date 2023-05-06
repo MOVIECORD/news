@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-05-06T19:03:29.065Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 06 May 2023 21:07:08 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도경수, 꼴통 불량 검사→우주에 고립된 사나이…4년만 스크린 컴백[TEN피플]]]></title>
+            <link>https://v.daum.net/v/20230507060102789</link>
+            <guid>https://v.daum.net/v/20230507060102789</guid>
+            <pubDate>Sat, 06 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=강민경 기자] 그룹 엑소 멤버 겸 배우 도경수(D.O.)가 영화 '더 문'(감독 김용화)으로 4년 만에 스크린으로 돌아온다. 배급사 CJ ENM에 따르면 '더 문'이 오는 8월 2일 개봉을 확정 지었다. '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원 선우(도경수 역)와 필사적으로 그를 구하려는 전 우주센터장 재국(설경구&nbsp;역)의 사투를]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F07%2F10asia%2F20230507060104411xsli.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['월드스타' 故 강수연, 1주기…추모전·추모집으로 더해가는 그리움]]></title>
+            <link>https://v.daum.net/v/20230507060020762</link>
+            <guid>https://v.daum.net/v/20230507060020762</guid>
+            <pubDate>Sat, 06 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 7일은 배우 고(故) 강수연의 1주기다. 고 강수연은 뇌출혈에 따른 심정지로 병원에 이송된지 사흘 만인 지난해 5월7일 오후 세상을 떠났다. 향년 56세였다. 1966년생인 강수연은 아역 배우로 데뷔, 영화 '고래 사냥2'(1985), '미미와 철수의 청춘 스케치'(1987) 등을 통해 당대 청춘스타로 부상했다. 또한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F07%2FNEWS1%2F20230507060022014emxv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
