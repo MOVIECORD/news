@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-05-06T13:05:42.813Z</updated>
+    <updated>2023-05-06T15:07:09.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰 in JIFF] 김성웅·마츠이 카즈에 "일본 사법제도의 허점, 한국 관객들이 알아줬으면"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004187159</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004187159"/>
+        <updated>2023-05-06T15:06:18.773Z</updated>
+        <content type="html"><![CDATA[김성웅 감독과 마츠이 카즈에 홍보 담당자가 '사쿠라이 쇼지씨의 어떤 기념일'으로 전주국제영화제를 찾았다. 지난달 29일 전주에 위치한 한 카페에서 '사쿠라이 쇼지씨의 어떤 기념일'의 감독인 김성웅 감독과 홍보물 비주]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이유 "제 30대요? 어떻게 될지 모르죠" [TEN인터뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000609281</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013924430"/>
         <updated>2023-05-06T05:03:17.726Z</updated>
         <content type="html"><![CDATA['탑건: 매버릭'·'아바타 2'와 비슷한 속도 마블 스튜디오 신작 '가디언즈 오브 갤럭시: 볼륨 3'(이하 '가오갤 3')가 올해 개봉한 작품 가운데 가장 빠른 속도로 100만 관객을 돌파했다. 6일 배급사 월트디즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전도연·이병헌에 물었다…美에 치이고 日에 밀리는 韓 영화 어쩌죠? [TEN초점]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000609249</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000609249"/>
-        <updated>2023-05-06T04:05:27.838Z</updated>
-        <content type="html"><![CDATA[영화 '드림'이 어렵사리 버티고 있지만, 한국 영화의 부진이 끝 모르는 늪에 빠졌다. 어린이날 연휴이자 주말을 앞둔 4일 기준 박스오피스 톱5 중 한국 영화는 '드림'(3위) 뿐이다. 1위는 '가디언즈 오브 갤럭시3]]></content>
     </entry>
 </feed>
