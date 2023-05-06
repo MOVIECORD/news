@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-05-06T12:09:46.031Z</updated>
+    <updated>2023-05-06T13:05:42.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이유 "제 30대요? 어떻게 될지 모르죠" [TEN인터뷰]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000609281</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000609281"/>
+        <updated>2023-05-06T13:04:48.142Z</updated>
+        <content type="html"><![CDATA["제 30대요? 어떻게 될지 모르죠!" 오버 사이즈의 검정색 점퍼를 벗은 배우 아이유는 색조 없는 깨끗한 얼굴에 베이지색 니트를 입고 바른 자세로 의자에 앉았다. 목소리가 조금 잠겨 있었지만 "컨디션은 매우 좋은 상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['토리와 로키타', '이동진의 언택트톡' 12번째 작품 선정..개봉 전야 상영(공식)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003629890</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000609249"/>
         <updated>2023-05-06T04:05:27.838Z</updated>
         <content type="html"><![CDATA[영화 '드림'이 어렵사리 버티고 있지만, 한국 영화의 부진이 끝 모르는 늪에 빠졌다. 어린이날 연휴이자 주말을 앞둔 4일 기준 박스오피스 톱5 중 한국 영화는 '드림'(3위) 뿐이다. 1위는 '가디언즈 오브 갤럭시3]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가오갤3', 개봉 4일 만에 100만 돌파…2023년 최단 기록[공식]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004844547</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004844547"/>
-        <updated>2023-05-06T04:05:27.839Z</updated>
-        <content type="html"><![CDATA[전세계 최초로 한국 개봉한 영화 '가디언즈 오브 갤럭시: Volume 3'(가오갤3)가 상영 4일째 100만 관객을 돌파했다. 이는 올해 개봉작들 중 가장 빠른 속도로, 시리즈 작품을 향한 관객들의 뜨거운 사랑을 실]]></content>
     </entry>
 </feed>
