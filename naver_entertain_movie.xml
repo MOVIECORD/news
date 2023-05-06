@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-05-06T11:03:58.952Z</updated>
+    <updated>2023-05-06T12:09:46.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['토리와 로키타', '이동진의 언택트톡' 12번째 작품 선정..개봉 전야 상영(공식)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003629890</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003629890"/>
+        <updated>2023-05-06T12:09:03.296Z</updated>
+        <content type="html"><![CDATA['토리와 로키타'가 '이동진의 언택트톡' 12번째 작품으로 선정됐다. CGV는 다르덴 형제 감독의 영화 '토리와 로키타'를 오는 9일 개봉 전야 상영한다고 밝혔다. '이동진의 언택트톡'은 CGV만의 비대면 시네마톡으]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전주국제영화제 오늘 막 내렸다…폐막식 레드카펫도 '성황'(종합)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013924613</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004844547"/>
         <updated>2023-05-06T04:05:27.839Z</updated>
         <content type="html"><![CDATA[전세계 최초로 한국 개봉한 영화 '가디언즈 오브 갤럭시: Volume 3'(가오갤3)가 상영 4일째 100만 관객을 돌파했다. 이는 올해 개봉작들 중 가장 빠른 속도로, 시리즈 작품을 향한 관객들의 뜨거운 사랑을 실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘가오갤3’ 눈물 없인 볼 수 없는 마지막 여정…역대급 호평 속 100만 돌파]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000187916</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000187916"/>
-        <updated>2023-05-06T04:05:27.840Z</updated>
-        <content type="html"><![CDATA[영화 ‘가디언즈 오브 갤럭시: Volume 3’가 100만 관객을 돌파했다. 영화관입장권 통합전산망에 따르면 영화 ‘가디언즈 오브 갤럭시: Volume 3’는 개봉 4일째인 6일 오전 0시 기준, 누적 관객 수 1,]]></content>
     </entry>
 </feed>
