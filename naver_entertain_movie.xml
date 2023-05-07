@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-05-07T13:05:46.499Z</updated>
+    <updated>2023-05-07T14:04:21.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['가오갤 3' 올 개봉작 최단 기간 100만 관객]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0005255488</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0005255488"/>
+        <updated>2023-05-07T14:03:30.794Z</updated>
+        <content type="html"><![CDATA[마블 스튜디오 신작 '가디언즈 오브 갤럭시: 볼륨 3'이 올해 개봉작 가운데 가장 빠른 속도로 100만 관객을 돌파했다. 7일 영화진흥위원회 영화관입장권 통합전산망에 따르면 개봉 나흘째인 전날 누적 관객 130만65]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“배우는 죽을 때까지 최고의 자리를 향해 간다”…韓 영화계 ‘가오’ 故강수연의 생전 메시지 [SS현장]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000942057</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003273818"/>
         <updated>2023-05-07T02:06:45.230Z</updated>
         <content type="html"><![CDATA[허광한과 아이유의 영화가 ‘출발! 비디오 여행’에서 한데 묶여 소개된다. 7일 방송되는 MBC ‘출발! 비디오 여행’의 코너 ‘영화 대 영화’에서는 영화 ‘메리 마이 데드 바디’와 ‘드림’이 함께 다뤄진다. 두 영화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[집 나갔던 마블팬 돌아왔다..'가오갤3', 4일만에 130만명 [Oh!쎈 이슈]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004844964</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004844964"/>
-        <updated>2023-05-07T02:06:45.234Z</updated>
-        <content type="html"><![CDATA['가디언즈 오브 갤럭시3'가 마블의 자존심을 세우며 벌써 130만 명을 돌파했다. 7일 영화진흥위원회 영화관입장권통합전산망 집계에 따르면, '가디언즈 오브 갤럭시3'는 지난 6일 하루 1,815개 스크린에서 43만]]></content>
     </entry>
 </feed>
