@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 May 2023 22:05:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 23:07:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['어쩌다 마주친...' 김동욱, '잔소리대마왕' 국어선생님]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=261561</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=261561</guid>
+            <pubDate>Sun, 07 May 2023 23:06:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=261561">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230508074732_b56560873fe19cef9748b8011914b081.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=261561">'어쩌다 마주친...' 김동욱, '잔소리대마왕' 국어선생님</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%96%B4%EC%A9%8C%EB%8B%A4%20%EB%A7%88%EC%A3%BC%EC%B9%9C%20%EA%B7%B8%EB%8C%80">월화드라마 어쩌다 마주친 그대</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230508074732_b56560873fe19cef9748b8011914b081.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[걸어서 환장 속으로] 강남 “이상화 등근육 보고 결혼에 확신 생겼다...등이 사람 얼굴처럼 보여”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=261544</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230507085605_3875741dca3d8b9ed14e458fa121e847_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[배틀트립2] 히밥, 홍콩서 한끼 식사에 10그릇 이상...미식투어가 아니라 음식 부수기 투어?]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=261474</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=261474</guid>
-            <pubDate>Sun, 07 May 2023 02:06:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=261474">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230507084130_323419e11d384cd2f9a0263b61e8ce3c_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=261474">[배틀트립2] 히밥, 홍콩서 한끼 식사에 10그릇 이상...미식투어가 아니라 음식 부수기 투어? </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230507084130_323419e11d384cd2f9a0263b61e8ce3c_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
