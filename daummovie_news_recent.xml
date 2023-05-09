@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-05-09T17:04:18.652Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 09 May 2023 19:03:45 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“여장부 같았던 강수연” 1주기 추모전, 영화인들 대거 참가해 고인을 추억]]></title>
+            <link>https://v.daum.net/v/20230510025115539</link>
+            <guid>https://v.daum.net/v/20230510025115539</guid>
+            <pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[헤럴드경제 = 서병기 선임기자]지난해 세상을 떠난 한국영화계 최초 월드스타 배우 강수연의 1주기 추모전 ‘강수연, 영화롭게 오랫동안’이 6~9일 서울 성동구 메가박스 성수점에서 열렸다. 7일의 개막식에는 영화인 300여명이 참가해 고인을 추억했다. 이번 추모전은 배우 강수연의 업적과 위상을 현재의 시점에서 새롭게 조명하고자 기획됐다. 많은 관객들의 참여와]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F10%2Fned%2F20230510025118124vuaf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
