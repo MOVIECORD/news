@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-05-09T19:03:45.141Z</updated>
+    <updated>2023-05-09T20:06:49.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘왕들의 귀환’… 올해 더 화려해진 칸영화제 초청작들]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000738436</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000738436"/>
+        <updated>2023-05-09T20:05:56.083Z</updated>
+        <content type="html"><![CDATA[‘왕들의 귀환’이라 할 만하다. 황금종려상 수상 감독 신작만 5편이다. 경쟁 부문에 초청된 21편 중 25%가량이다. 무관의 제왕이라 할 감독들의 신작이 다수 포함돼 있기도 하다. 16일 오후(현지시간) 프랑스 남부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영상위가 주목한 ‘부산표 영화’ 10편…장편·다큐 등 총 7억3200만 원 지원]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000040514</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=445&amp;aid=0000111321"/>
         <updated>2023-05-09T10:03:54.488Z</updated>
         <content type="html"><![CDATA['범죄도시3'가 지난 2편처럼 극장가의 침체를 시원하게 날리기 위해 돌아온다. 9일 오전 서울 강남구 메가박스 코엑스에서 '범죄도시3' 제작보고회가 열렸다. 이날은 이상용 감독, 마동석, 이준혁, 아오키 무네타카가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘드림’ 박서준X아이유 토요일에 뜬다..13일 서울 무대인사 출격]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003274385</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003274385"/>
-        <updated>2023-05-09T10:03:54.489Z</updated>
-        <content type="html"><![CDATA[개성 넘치는 캐릭터 군단의 활약, 꿈을 향한 멈추지 않는 도전을 담은 유쾌한 스토리로 뜨거운 호평을 불러일으키고 있는 영화 ‘드림’이 개봉 3주차 주말인 13일 무대인사를 확정했다. ‘드림’은 개념 없는 전직 축구선]]></content>
     </entry>
 </feed>
