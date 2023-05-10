@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-05-10T09:08:40.240Z</updated>
+    <updated>2023-05-10T10:07:34.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부산아시아영화학교 출신 영화인, 칸 영화제 입성 잇달아]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006798928</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006798928"/>
+        <updated>2023-05-10T10:06:44.690Z</updated>
+        <content type="html"><![CDATA[부산영상위원회가 운영하는 부산아시아영화학교(AFiS) ‘국제 영화비즈니스 아카데미(IFBA)’에서 배출한 영화인들이 칸 영화제에서 두각을 나타내고 있다. 10일 부산영상위원회에 따르면 부산아시아영화학교의 재학생과 졸]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스파이더맨: 어크로스 더 유니버스' 6월 개봉..새로운 멀티버스 시작(공식)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003630595</id>
@@ -171,12 +178,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001590994"/>
         <updated>2023-05-10T08:10:25.467Z</updated>
         <content type="html"><![CDATA[동명의 만화를 원작으로 하는 영화 '세인트 세이야: 더 비기닝'(감독 토멕 바진스키)이 오는 31일 개봉을 확정하고 메인 포스터와 메인 예고편을 공개했다. 공개된 포스터는 푸른색 갑옷을 입고 날개를 펼치고 있는 듯한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어느 날 그녀가 우주에서' 휴스턴영화제 백금상 수상]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0005257223</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0005257223"/>
-        <updated>2023-05-10T08:10:25.470Z</updated>
-        <content type="html"><![CDATA[영화 '어느 날 그녀가 우주에서'가 제56회 휴스턴영화제에서 로맨틱코미디 부문 백금상을 수상했다. 휴스턴영화제는 샌프란시스코·뉴욕 영화제와 함께 북미에서 가장 긴 역사를 지닌 전통 있는 3대 국제영화제 중 하나다.]]></content>
     </entry>
 </feed>
