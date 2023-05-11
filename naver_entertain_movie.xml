@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-05-11T10:04:41.033Z</updated>
+    <updated>2023-05-11T11:05:03.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['드림', 개봉 3주차 100만 관객 돌파…올해 韓 영화 두번째]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005483655</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005483655"/>
+        <updated>2023-05-11T11:04:12.860Z</updated>
+        <content type="html"><![CDATA[박서준, 아이유 주연 영화 ‘드림’(감독 이병헌)이 개성 넘치는 캐릭터 군단의 활약, 꿈을 향한 멈추지 않는 도전을 담은 유쾌한 스토리로 뜨거운 호평을 받아 오늘(11일) 100만 관객을 돌파했다. 한국 영화가 10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지역박물관이 만든 단편영화 '사르후 전투', 온라인서 흥행]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000598147</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=417&amp;aid=0000920138"/>
         <updated>2023-05-11T08:10:39.442Z</updated>
         <content type="html"><![CDATA[K팝 대표 걸그룹 블랙핑크의 멤버 제니가 제76회 칸 국제영화제 참석을 확정했다. 11일 OSEN에 따르면 연기 데뷔작으로 제76회 칸영화제에 초청된 제니가 오는 22일(현지시각) 밤 10시30분 프랑스 칸에서 진행]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인어공주' 극찬 쏟아졌다, “꿈을 꾸는 모든 소녀들에게 바치는 찬사!”]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003728150</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003728150"/>
-        <updated>2023-05-11T08:10:39.444Z</updated>
-        <content type="html"><![CDATA[전 세계가 사랑해온 동명의 애니메이션 원작을 실사화한 디즈니 실사 뮤지컬 영화 '인어공주'가 지난 8일 로스앤젤레스에서 진행된 월드 프리미어에서 최초 공개된 이후 폭발적인 소셜 미디어 리액션을 얻고 있다. '인어공주]]></content>
     </entry>
 </feed>
