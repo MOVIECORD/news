@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-05-12T20:03:36.404Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 12 May 2023 22:07:58 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[능력자 너구리, 인간중심주의를 반격하다]]></title>
+            <link>https://v.daum.net/v/20230513070501495</link>
+            <guid>https://v.daum.net/v/20230513070501495</guid>
+            <pubDate>Fri, 12 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[☞한겨레S 뉴스레터를 구독해주세요. 검색창에 ‘에스레터’를 쳐보세요. 여기, 말하는 너구리가 있다. 장비와 부품만 있다면 무엇이든 고치고, 무엇이든 만든다. 남의 물건에 손을 대는 일쯤은 아무렇지도 않은 무법자지만, 동료들과 함께라면 가끔씩 우주를 구하는 영웅이 되기도 한다. 그러나 그의 과거는 거의 알려지지 않았다. 제임스 건은 처음 &lt;가디언즈 오브]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F13%2Fhani%2F20230513070505374jqyk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
