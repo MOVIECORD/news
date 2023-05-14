@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-05-14T04:06:19.947Z</updated>
+    <updated>2023-05-14T05:03:45.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[농촌주민도 ‘최신 영화’ 보고 싶다…전남 ‘작은영화관’ 누적관람객 175만명]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003223364</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003223364"/>
+        <updated>2023-05-14T05:03:01.540Z</updated>
+        <content type="html"><![CDATA[전남 농촌 지역에서 들어서고 있는 ‘작은영화관’이 주민들의 문화 갈증을 해소해 주고 있다. 2015년 첫 개관한 전남 작은영화관은 누적관람객 175만명을 돌파했다. 전남도는 “영화관이 없는 농촌 지역에 들어서고 있는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['슈퍼 마리오 브라더스', 누적관객 200만명↑…올해 네 번째]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011857145</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002392101"/>
         <updated>2023-05-14T00:34:29.897Z</updated>
         <content type="html"><![CDATA[F.게리 그레이 감독의 심리 스릴러 &lt;모범시민&gt; 대한민국 법원은 재판을 통해 억울한 사람이 생기지 않도록 같은 사건에 대해 총 세 번의 판결을 받을 수 있는 '3심제'를 택하고 있다. 지방법원의 판결을 받아들이지 못]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가오갤3', 11일 연속 박스오피스 1위..시리즈 3연타 흥행[★무비차트]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003152126</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003152126"/>
-        <updated>2023-05-14T00:34:29.899Z</updated>
-        <content type="html"><![CDATA['가디언즈 오브 갤럭시'가 시리즈 3연타 흥행에 성공했다. '가디언즈 오브 갤럭시: Volume 3'가 11일 연속 박스오피스 1위를 기록했다. 14일 영화진흥위원회 영화관입장권 통합전산망에 따르면 전날 '가디언즈]]></content>
     </entry>
 </feed>
