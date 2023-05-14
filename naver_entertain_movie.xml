@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-05-14T14:07:24.083Z</updated>
+    <updated>2023-05-14T15:07:16.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기대작-'분노의 질주10'(상)] 다시 한번 그들의 질주가 시작된다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000216722</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000216722"/>
+        <updated>2023-05-14T15:06:25.625Z</updated>
+        <content type="html"><![CDATA['분노의 질주' 시리즈 열 번째 작품, 17일 한국서 최초 개봉 액션 블록버스터 '분노의 질주: 라이드 오어 다이'가 오는 17일 전 세계 최초 개봉해 국내 관객들을 만난다. 할리우드 대표 배우들의 합류로 시리즈 최]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['플래시' 플래시·배트맨·슈퍼걸, 개성 넘치는 비주얼..3人3色 캐릭터포스터]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003631238</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003152149"/>
         <updated>2023-05-14T02:06:11.455Z</updated>
         <content type="html"><![CDATA[배우 김우빈이 묵직한 카리스마를 드러내며 '택배기사'의 중심을 이끌고 있다. 지난 12일 공개된 넷플릭스 시리즈 '택배기사'는 극심한 대기 오염으로 산소호흡기 없이는 살 수 없는 미래의 한반도, 전설의 택배기사 '5]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공식] 소리 없이 강한 '슈퍼 마리오', 오늘(14일) 200만 돌파 성공..'슬램덩크'보다 빠르다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0004007006</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0004007006"/>
-        <updated>2023-05-14T02:06:11.456Z</updated>
-        <content type="html"><![CDATA[애니메이션 '슈퍼 마리오 브라더스'(아론 호바스·마이클 제레닉 감독)가 오늘(14일) 200만 관객을 돌파했다. 전 세대 관객들을 사로잡으며 장기 흥행 질주를 이어가고 있는 '슈퍼 마리오 브라더스'가 14일 누적 관]]></content>
     </entry>
 </feed>
