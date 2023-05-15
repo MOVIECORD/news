@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-05-15T17:04:07.582Z</updated>
+    <updated>2023-05-15T19:09:19.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[평등? 웃기고 더럽고 서글프네]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=023&amp;aid=0003763826</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=023&amp;aid=0003763826"/>
+        <updated>2023-05-15T19:08:27.894Z</updated>
+        <content type="html"><![CDATA[영화 ‘슬픔의 삼각형’ ‘헤어질 결심’을 누르고 작년 칸 영화제 황금종려상을 받은 이 영화는 웃기고 더럽고 서글프다. 이 영화처럼 모든 배역이 재수 없고 같잖은 영화도 드물 것이다. 그런데도 다들 어디선가 한 번쯤]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한승연·이지훈, 기막힌 동거 시작한다...'옆집 X' 7월 개봉]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001254835</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005130369"/>
         <updated>2023-05-15T09:05:42.131Z</updated>
         <content type="html"><![CDATA[부산국제영화제(BIFF)를 5개월 앞두고 이용관 이사장이 사의를 표명했다. 이 이사장은 최근 벌어진 허문영 집행위원장 사의 표명 사태와 관련해 15일 열린 간담회에서 “이번 사태의 모든 책임을 지고 이사장직에서 물러]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산국제영화제, 집행위원장 이어 이사장도 사퇴]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000887060</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000887060"/>
-        <updated>2023-05-15T09:05:42.132Z</updated>
-        <content type="html"><![CDATA[오는 10월 5일 개막이 예정이 된 제28회 부산국제영화제(BIFF)가 집행위원장의 사의 표명에 이어 이사장의 조기 사퇴로 최대 위기를 맞았다. 이용관 부산국제영화제 이사장은 15일 허문영 집행위원장 사의 표명, 이]]></content>
     </entry>
 </feed>
