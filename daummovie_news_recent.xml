@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-05-17T19:03:40.761Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 17 May 2023 20:05:54 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['크레이지 리치 아시안 2', 제작 논의 중 [할리웃통신]]]></title>
+            <link>https://v.daum.net/v/20230518050215744</link>
+            <guid>https://v.daum.net/v/20230518050215744</guid>
+            <pubDate>Wed, 17 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=유비취 기자] 배우 아콰피나가 할리우드에서 아시안의 활약에 뿌듯함을 드러냈다. 지난 15일(현지 시간) ABC '굿모닝 아메리카'에 출연한 아콰피나(34)가 영화 '크레이지 리치 아시안' 속편 제작에 대해 입을 열었다. 진행자는 영화 '크레이지 리치 아시안'의 성공을 축하하며 아콰피나에게 후속작에서 고펙 린 역을 다시 맡을 것인지 물었다. 이에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F18%2Ftvreport%2F20230518050219346lpmi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[6월 개봉 '스파이더맨', 애니메이션 흥행 바통이을까 [TF프리즘]]]></title>
+            <link>https://v.daum.net/v/20230518050118697</link>
+            <guid>https://v.daum.net/v/20230518050118697</guid>
+            <pubDate>Wed, 17 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['슬램덩크'·'스즈메' 이어 2023 애니 영화 흥행 기대주&nbsp; [더팩트｜원세나 기자] 2023년 극장가에 애니메이션 영화 흥행 돌풍이 불고 있는 가운데 영화 '스파이더맨: 어크로스 더 유니버스'가 그 바통을 이어갈지 주목된다. 2023년 1월 극장가의 포문을 화려하게 연 '더 퍼스트 슬램덩크'와 2023년 최고 흥행작인 '스즈메의 문단속'에 이어, 전]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F18%2FTHEFACT%2F20230518050119132wftz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
