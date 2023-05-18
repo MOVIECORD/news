@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 20:08:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 21:07:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KBS드라마 '가슴이 뛴다' 옥택연,  “나 사람 될래!”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=263171</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=263171</guid>
+            <pubDate>Thu, 18 May 2023 21:06:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=263171">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230518194145_f66580ae9bb07143312070cce771557e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=263171">KBS드라마 '가슴이 뛴다' 옥택연,  “나 사람 될래!”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%B0%80%EC%8A%B4%EC%9D%B4%20%EB%9B%B4%EB%8B%A4">월화드라마 가슴이 뛴다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230518194145_f66580ae9bb07143312070cce771557e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[노머니 노아트] 그리움으로 위로를 표현하다. 또 다른 감정의 위로? - 심봉민]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=263211</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%A7%88%EC%9D%B4%20%EB%A6%AC%ED%8B%80%20%ED%9E%88%EC%96%B4%EB%A1%9C">마이 리틀 히어로</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230517084702_fa122c3a08344dad69a56764107ad0f5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KBS드라마 '가슴이 뛴다' 옥택연, 인간이 되고픈 ‘반인 뱀파이어’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=263018</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=263018</guid>
-            <pubDate>Wed, 17 May 2023 00:35:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=263018">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230517081954_df72aea30fa0179c347246c7c11b731d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=263018">KBS드라마 '가슴이 뛴다' 옥택연, 인간이 되고픈 ‘반인 뱀파이어’ </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%B0%80%EC%8A%B4%EC%9D%B4%20%EB%9B%B4%EB%8B%A4">월화드라마 가슴이 뛴다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230517081954_df72aea30fa0179c347246c7c11b731d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
