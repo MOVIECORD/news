@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 05:05:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 06:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니 ‘인어공주’ OST 앨범 오늘 발매]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=263318</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=263318</guid>
+            <pubDate>Fri, 19 May 2023 06:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=263318">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230519144147_a35013076ba81b6ca54dde97247d726a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=263318">디즈니 ‘인어공주’ OST 앨범 오늘 발매 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230519144147_a35013076ba81b6ca54dde97247d726a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 청웨이하오 감독 “호러를 좋아하지 않는데 이런 영화만 찍었네요” (메리 마이 데드 바디)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=263293</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=262780">노윤서, '일타스캔들' 다음은 넷플릭스 '택배기사' 슬아 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230516075151_b8855ecf665caf5c09a983036e8d2dea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신예 홍사빈, '화란'으로 칸 영화제 진출]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=262773</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=262773</guid>
-            <pubDate>Mon, 15 May 2023 23:04:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=262773">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230516074109_fe2c296d8bee92d438ccde6a38c38587.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=262773">신예 홍사빈, '화란'으로 칸 영화제 진출</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230516074109_fe2c296d8bee92d438ccde6a38c38587.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
