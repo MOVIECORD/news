@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 22:09:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 01:57:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['인어공주' 에리얼, 세상 밖 모험을 꿈꾸다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=263442</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=263442</guid>
+            <pubDate>Sat, 20 May 2023 01:56:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=263442">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230520101313_b3db103c32814203738770a2f1ab284c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=263442">'인어공주' 에리얼, 세상 밖 모험을 꿈꾸다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230520101313_b3db103c32814203738770a2f1ab284c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["중절모와 채찍, 인디아나 존스 컴백" 칸에서 월드프리미어 상영... 해리슨 포드 명예 황금종려상]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=263308</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=262977">'너의 눈을 들여다보면' 내달 개봉... "귀는 안 들리지만 문제 없습니다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230517071336_770ef09358b335d5762bcbc646feeae7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] '메리 마이 데드 바디', 허광한이 귀신과 공조수사를 하게된 기이한 사연 (청웨이하오 감독,2022)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=262818</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=262818</guid>
-            <pubDate>Tue, 16 May 2023 00:30:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=262818">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230516091455_0352141a764b072bc8bfd83e0113eaa4.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=262818">[리뷰] '메리 마이 데드 바디', 허광한이 귀신과 공조수사를 하게된 기이한 사연 (청웨이하오 감독,2022)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230516091455_0352141a764b072bc8bfd83e0113eaa4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
