@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-05-20T11:04:54.572Z</updated>
+    <updated>2023-05-20T12:10:24.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[100만 200만 300만 관객도 가장 빨리 동원…'가오갤 3' 흥행 비결은]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=088&amp;aid=0000815287</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=088&amp;aid=0000815287"/>
+        <updated>2023-05-20T12:09:29.323Z</updated>
+        <content type="html"><![CDATA[마블 스튜디오 신작 '가디언즈 오브 갤럭시: 볼륨 3'(이하 '가오갤 3')가 올해 개봉작 중 가장 빨리 300만 관객을 동원한 것으로 나타났다. 19일 배급사 월트디즈니컴퍼니 코리아에 따르면 지난 3일 개봉 이후]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[80세 해리슨포드, ‘인디아나존스’로 칸영화제 명예황금종려상 수상 ‘눈물’ [SS칸이슈]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000945697</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006818467"/>
         <updated>2023-05-20T01:56:41.694Z</updated>
         <content type="html"><![CDATA[영화 '분노의 질주: 라이드 오어 다이'가 3일째 박스오피스 1위를 지켰다. 20일 영화진흥위원회 영화관 입장권 통합 전산망예 따르면 '분노의 질주: 라이드 오어 다이'는 지난 19일 하루 12만5570명을 동원해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영진위 "한국영화 최대 위기 봉착…극복 위해 협의회 구성" [칸 현장]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006818464</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006818464"/>
-        <updated>2023-05-20T01:56:41.705Z</updated>
-        <content type="html"><![CDATA[영화진흥위원회가 '한국영화 재도약 협의회'를 구성하고 한국영화 산업의 위기를 타개하기 위해 움직인다. 19일 오후 4시(현지시간, 한국시간 19일 오후 11시) 프랑스 남부 칸 팔레 데 페스티발(Palais des]]></content>
     </entry>
 </feed>
