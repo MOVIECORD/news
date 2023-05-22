@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 22:06:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 23:04:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[칸으로 간 '탈출: PROJECT SILENCE' "환상적인 한국영화!"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=263850</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=263850</guid>
+            <pubDate>Mon, 22 May 2023 23:02:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=263850">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230523072016_961bf6bbc57ed2f5a1ffb0f8219da9a1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=263850">칸으로 간 '탈출: PROJECT SILENCE' "환상적인 한국영화!"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230523072016_961bf6bbc57ed2f5a1ffb0f8219da9a1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["재밌거나, 신선하거나"  롯데 크리에이티브 공모전... "총 상금 2억원!"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=263839</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=263231">"원! 투! 스트레이트 액션" 넷플릭스 '사냥개들'...  우도환-이상이 "우리는 불법 사채를 잡는다!" </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230519070745_ce0cd2101d1b4819ab843eec499a5842_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['SLL' 타운홀미팅, 홍정도 부회장 ""궁극적인 목표는 대한민국의 디즈니가 되는 것"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=263224</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=263224</guid>
-            <pubDate>Thu, 18 May 2023 22:06:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=263224">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230519070520_82cb3a86e20c70608ebcec4b21e2c02b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=263224">'SLL' 타운홀미팅, 홍정도 부회장 ""궁극적인 목표는 대한민국의 디즈니가 되는 것"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230519070520_82cb3a86e20c70608ebcec4b21e2c02b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
