@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-05-24T16:05:55.526Z</updated>
+    <updated>2023-05-24T17:06:26.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블랙핑크 제니의 뜨거운 인기…연기 도전작 '디 아이돌'은 혹평 [칸 현장]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006827854</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006827854"/>
+        <updated>2023-05-24T17:05:27.724Z</updated>
+        <content type="html"><![CDATA[그룹 블랙핑크 제니의 연기 도전작 '디 아이돌'(The Idol)이 공개 이후 혹평을 받고 있다. 제니는 지난 22일 오후 10시30분(이하 현지시간, 한국시간 23일 오전 5시30분) 프랑스 남부 칸 팔레 데 페스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['레이스' 이연희 "♥남편=든든한 조력자, 마음의 여유 생겨" [인터뷰①]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003154833</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003633210"/>
         <updated>2023-05-24T10:07:04.477Z</updated>
         <content type="html"><![CDATA['분노의 질주: 라이드 오어 다이'가 100만 고지를 넘어섰다. 영화진흥위원회 통합전산망 24일 오후 6시 기준 영화 '분노의 질주: 라이드 오어 다이'가 개봉 7일째 100만 관객을 돌파했다. 이로써 466만 관객]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['귀공자' 김강우, 역대급 빌런 탄생..김선호 "또 한번 새로운 모습 보여줘"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003633207</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003633207"/>
-        <updated>2023-05-24T10:07:04.479Z</updated>
-        <content type="html"><![CDATA['귀공자' 김강우가 역대급 빌런 캐릭터의 탄생을 알린다. 영화 '귀공자'는 필리핀 불법 경기장을 전전하는 복싱 선수 ‘마르코’ 앞에 정체불명의 남자 ‘귀공자’를 비롯한 각기 다른 목적을 지닌 세력들이 나타나 광기의]]></content>
     </entry>
 </feed>
