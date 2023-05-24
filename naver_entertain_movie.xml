@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-05-24T17:06:26.032Z</updated>
+    <updated>2023-05-24T18:09:19.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[조재휘의 시네필] 민중의 짓밟힌 꿈…오늘날과 닮은꼴]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000041940</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000041940"/>
+        <updated>2023-05-24T18:08:29.360Z</updated>
+        <content type="html"><![CDATA[‘자전거 도둑’(1948) 재개봉을 맞아 영화의전당(부산 해운대구)에 들렀다. 35㎜ 오리지널 카메라 네거티브 필름을 다시 4K 스캔하고 디지털 복원한 새 판본이라고는 하지만, 그럼에도 세월의 흔적을 감추지 못하는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블랙핑크 제니의 뜨거운 인기…연기 도전작 '디 아이돌'은 혹평 [칸 현장]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006827854</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000189717"/>
         <updated>2023-05-24T10:07:04.475Z</updated>
         <content type="html"><![CDATA['화란' 비비가 연기자 선배 송중기의 눈빛에 압도당했다. 제76회 칸 국제영화제 주목할 만한 시선(Un Certain Regard) 부문에 송중기, 홍사빈, 김형서(가수 비비)의 영화 '화란'(김창훈 감독)이 공식]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['분노의 질주10' 개봉 7일째 100만 돌파..韓팬들 위한 깜짝 감사인사(공식)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003633210</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003633210"/>
-        <updated>2023-05-24T10:07:04.477Z</updated>
-        <content type="html"><![CDATA['분노의 질주: 라이드 오어 다이'가 100만 고지를 넘어섰다. 영화진흥위원회 통합전산망 24일 오후 6시 기준 영화 '분노의 질주: 라이드 오어 다이'가 개봉 7일째 100만 관객을 돌파했다. 이로써 466만 관객]]></content>
     </entry>
 </feed>
