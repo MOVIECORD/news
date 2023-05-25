@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-05-25T12:15:47.885Z</updated>
+    <updated>2023-05-25T14:06:17.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고아라 ‘귀공자’로 스크린 복귀...“선보인 적 없던 캐릭터”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005135744</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005135744"/>
+        <updated>2023-05-25T14:05:25.749Z</updated>
+        <content type="html"><![CDATA[배우 고아라가 ‘귀공자’로 오랜만에 스크린 나들이에 나선다. 드라마 ‘반올림’에서 감수성 풍부한 유쾌 발랄한 중학생 옥림이를 시작으로, ‘응답하라 1994’ 털털함이 무기인 신촌 하숙집 주인의 ‘개딸’ 성나정, ‘미]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[막바지 향하는 칸영화제…황금종려상은 누구에게]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013965442</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006830411"/>
         <updated>2023-05-25T12:14:50.823Z</updated>
         <content type="html"><![CDATA[= 제 76회 칸 국제영화제 ‘주목할 만한 시선’에 초청된 영화 ‘화란’ 김형서(비비)가 25일(현지시간) 프랑스 남부 칸 ‘팔레 데 페스티발’(Palais des Festival)에서 열린 포토콜 행사에 참석해 포]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[칸영화제 '화란' 포토콜, 포즈 취하는 송중기]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006830410</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006830410"/>
-        <updated>2023-05-25T12:14:50.843Z</updated>
-        <content type="html"><![CDATA[= 제 76회 칸 국제영화제 ‘주목할 만한 시선’에 초청된 영화 ‘화란’ 송중기가 25일(현지시간) 프랑스 남부 칸 ‘팔레 데 페스티발’(Palais des Festival)에서 열린 포토콜 행사에 참석해 포즈를 취]]></content>
     </entry>
 </feed>
