@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-05-25T18:09:35.630Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 25 May 2023 20:07:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["노래도 연기도 잘해" 제니x비비, 칸 영화제 불태운 K팝★[스타이슈]]]></title>
+            <link>https://v.daum.net/v/20230526050007434</link>
+            <guid>https://v.daum.net/v/20230526050007434</guid>
+            <pubDate>Thu, 25 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 안윤지 기자] (칸=뉴스1) 이준성 기자 = 23일(현지시간) 제76회 칸 국제영화제가 열리고 있는 프랑스 남부 소도시 칸 ‘팔레 데 페스티발’(Palais des Festival)에서 열린 HBO ‘디 아이돌’(The Idol) 포토콜 행사에서 제니가 포즈를 취하고 있다. 2023.5.23/뉴스1  Copyright (C) 뉴스1. All]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F26%2Fstarnews%2F20230526050008734uhyw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['배우 데뷔' 제니 "블랙핑크, 우리는 좋은 가족" 말한 이유 [스타이슈]]]></title>
+            <link>https://v.daum.net/v/20230526050002428</link>
+            <guid>https://v.daum.net/v/20230526050002428</guid>
+            <pubDate>Thu, 25 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 김나연 기자] (칸=뉴스1) 이준성 기자 = 22일 오전(현지시간) 프랑스 남부 소도시 칸 ‘팔레 데 페스티발’(Palais des Festival) 뤼미에르 대극장에서 열린 HBO ‘디 아이돌’(The Idol) 월드 프리미어 시사회에서 블랙핑크 제니가 레드 카펫에 오르고 있다. 2023.5.23/뉴스1  Copyright (C) 뉴스1.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F26%2Fstarnews%2F20230526050005221rthw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
