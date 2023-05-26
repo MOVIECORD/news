@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-05-26T10:06:30.336Z</updated>
+    <updated>2023-05-26T11:05:28.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[무비] ‘외화 놀이터’…1위부터 5위까지 내줬다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000645425</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000645425"/>
+        <updated>2023-05-26T11:04:37.588Z</updated>
+        <content type="html"><![CDATA[이 정도면 외화놀이터다. 박스오피스 1위부터 5위까지 모두 외화가 점령했다. 5월인데도 국내영화계의 봄은 멀었다. 26일 영화진흥위원회 통합전산망에 따르면 ‘분노의 질주: 라이드 오어 다이’(루이스 리터리어 감독)은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['가오갤3', 350만 돌파…팀 '가디언즈', 흥행 신드롬 계속]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000431086</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013967128"/>
         <updated>2023-05-26T09:06:37.479Z</updated>
         <content type="html"><![CDATA[마고 로비·라이언 고슬링 출연…OST '바비 드림스' 불러 그룹 피프티 피프티가 그레타 거윅 감독의 신작 영화 '바비'의 오리지널사운드트랙(OST)에 참여한다고 소속사 어트랙트가 26일 밝혔다. 지난 25일(현지 시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가오갤3', 박스오피스 2위 탈환… 350만 돌파 '쾌속질주']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005495084</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005495084"/>
-        <updated>2023-05-26T09:06:37.481Z</updated>
-        <content type="html"><![CDATA[영화 ‘가디언즈 오브 갤럭시: Volume 3’(이하 개오갤3)가 350만 관객을 돌파, 시리즈 최고 흥행 기록을 연일 갱신 중이다. 26일 영화관입장권 통합전산망에 따르면 ‘가오갤3’는 이날 오후 1시께 누적 관객]]></content>
     </entry>
 </feed>
