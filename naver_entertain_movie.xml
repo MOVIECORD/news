@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-05-26T14:05:15.067Z</updated>
+    <updated>2023-05-26T18:07:43.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마고 로비, 경찰서 가나?...'바비' 예고편 전격 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001256372</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001256372"/>
+        <updated>2023-05-26T18:06:45.760Z</updated>
+        <content type="html"><![CDATA[배우 마고 로비가 '싱크로율 100%' 바비로 돌아온다. 7월 최고 기대작으로 손꼽히고 있는 영화 '바비'가 26일 메인 예고편을 전격 공개했다. '바비'는 원하는 무엇이든 될 수 있는 '바비랜드'에서 살아가던 바비]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우리의 하루' 홍상수 "김민희·기주봉 사진 보고 시작된 영화"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013967309</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006832443"/>
         <updated>2023-05-26T14:04:31.724Z</updated>
         <content type="html"><![CDATA[제76회 칸 국제영화제 폐막을 하루 앞둔 26일 오후(현지시간) 프랑스 남부 소도시 칸 ‘팔레 데 페스티발’(Palais des Festival)에서 열린 ‘거미집’(Coweb) 포토콜 행사에서 김지운 감독(왼쪽 세]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[입장하는 오정세]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006832441</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006832441"/>
-        <updated>2023-05-26T14:04:31.726Z</updated>
-        <content type="html"><![CDATA[= 제76회 칸 국제영화제 폐막을 하루 앞둔 26일 오후(현지시간) 프랑스 남부 소도시 칸 ‘팔레 데 페스티발’(Palais des Festival)에서 열린 ‘거미집’(Coweb) 포토콜 행사에서 배우 오정세가 행]]></content>
     </entry>
 </feed>
