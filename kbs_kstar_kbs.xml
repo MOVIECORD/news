@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 03:08:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 05:05:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘편스토랑’ 오윤아와 손연재 "스트레칭과 건강식"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=264372</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=264372</guid>
+            <pubDate>Fri, 26 May 2023 05:04:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264372">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230526140334_ff0b17b7fba5fb1bf98991e51d7cb8c5_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=264372">‘편스토랑’ 오윤아와 손연재 "스트레칭과 건강식"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상출시 편스토랑</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230526140334_ff0b17b7fba5fb1bf98991e51d7cb8c5_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['다큐ON'  산사(山寺), 봄의 맛]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=264356</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230524230930_ce4bb26fb8faad219036a75143bc518a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[옥탑방의 문제아들] 추성훈이 가장 많이 듣는 잔소리는? 성훈에게 시합 규칙보다 어려운 분리수거]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=264154</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=264154</guid>
-            <pubDate>Wed, 24 May 2023 16:04:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264154">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230524230612_7dec13e4455067aaa7ba419add5facb1_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=264154">[옥탑방의 문제아들] 추성훈이 가장 많이 듣는 잔소리는? 성훈에게 시합 규칙보다 어려운 분리수거 </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230524230612_7dec13e4455067aaa7ba419add5facb1_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
