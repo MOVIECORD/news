@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 00:29:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 02:03:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['다큐ON'  산사(山寺), 봄의 맛]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=264356</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=264356</guid>
+            <pubDate>Fri, 26 May 2023 02:02:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264356">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230526093624_7a5433a96084f22d7726f72b498b43f6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=264356">'다큐ON'  산사(山寺), 봄의 맛</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8B%A4%ED%81%90%20%EC%98%A8">다큐 온</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230526093624_7a5433a96084f22d7726f72b498b43f6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['세컨 하우스' 시즌2,  "더 강력해진 웃음과 힐링으로 돌아온다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=264332</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230524230612_7dec13e4455067aaa7ba419add5facb1_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[옥탑방의 문제아들] 운동인 성훈에게 예능 훈수 받는 예능인 광희~ 두 사람이 친해진 계기는?]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=264150</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=264150</guid>
-            <pubDate>Wed, 24 May 2023 16:04:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264150">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230524230220_c45b47f3b96a270b79bbbb46ef0ab210_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=264150">[옥탑방의 문제아들] 운동인 성훈에게 예능 훈수 받는 예능인 광희~ 두 사람이 친해진 계기는?</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230524230220_c45b47f3b96a270b79bbbb46ef0ab210_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
