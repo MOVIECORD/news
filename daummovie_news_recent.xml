@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-05-27T20:07:41.179Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 27 May 2023 21:07:24 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다시 여성에게…쥐스틴 트리에 감독 칸 황금종려상(종합)]]></title>
+            <link>https://v.daum.net/v/20230528052624404</link>
+            <guid>https://v.daum.net/v/20230528052624404</guid>
+            <pubDate>Sat, 27 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스] 손정빈 기자 = 프랑스 쥐스틴 트리에(Justine Triet·45) 감독의 영화 '아나토미 오브 어 폴'(Anatomy of a Fall)이 올해 칸영화제 최고상을 거머쥐었다. '아나토미 오브 어 폴'은 27일(현지 시각) 오후에 열린 제76회 칸국제영화제 폐막식에서 황금종려상(Palme d‘Or)을 받았다. 여성 감독이 연출한 영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F28%2Fnewsis%2F20230528052624258ymug.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['아나토미 오브 어 폴' 황금종려상…역대 3번째 여성 감독 작품(종합) [칸 현장]]]></title>
+            <link>https://v.daum.net/v/20230528050722306</link>
+            <guid>https://v.daum.net/v/20230528050722306</guid>
+            <pubDate>Sat, 27 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(칸=뉴스1) 고승아 기자 = 프랑스 여성 감독 쥐스틴 트리에(45) 영화 '아나토미 오브 어 폴'이 제76회 칸 국제영화제의 최고상인 황금종려상을 수상했다. 27일 오후 8시30분(이하 현지시간, 한국시간 28일 오전 3시30분) 프랑스 남부 칸 팔레 드 페스티벌에서 제76회 칸 영화제 폐막식이 열렸다. 이날 황금종려상은 쥐스틴 트리에 감독의 프랑스]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F28%2FNEWS1%2F20230528050724157tlsx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[송강호,  3년 연속 칸영화제 폐막식 참석…여우주연상 시상 [칸 현장]]]></title>
+            <link>https://v.daum.net/v/20230528050704305</link>
+            <guid>https://v.daum.net/v/20230528050704305</guid>
+            <pubDate>Sat, 27 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(칸=뉴스1) 고승아 기자 = 배우 송강호가 제76회 칸 국제영화제 폐막식 시상자로 나서 여우주연상을 시상했다. 송강호는 27일 오후(이하 현지시간, 한국시간 28일 오전) 프랑스 남부 칸 팔레 데 페스티벌에서 진행되는 칸 영화제 폐막식에 시상자로 참석했다. 이날 턱시도를 입고 등장한 송강호는 시상을 위해 레드카펫에 섰다. 이어 여우주연상 시상을 진행,]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202305%2F28%2FNEWS1%2F20230528050706324mvsh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
