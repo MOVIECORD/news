@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-05-28T17:03:32.947Z</updated>
+    <updated>2023-05-28T19:03:20.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올해 칸 황금종려상, 쥐스틴 트리에 품에]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000042225</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000042225"/>
+        <updated>2023-05-28T19:02:28.200Z</updated>
+        <content type="html"><![CDATA[27일(현지시간) 폐막한 세계 최고 권위의 제76회 칸국제영화제에서 ‘아나토미 오브 어 폴’을 연출한 프랑스의 여성 감독 쥐스틴 트리에가 최고상인 황금종려상을 거머쥐었다. 여성 감독이 황금종려상을 받은 사례는 ‘피아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[And 문화] “먼저, 상대방 말을 듣고 말해야 바른 말을 할 수 있죠”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001611834</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013968478"/>
         <updated>2023-05-28T05:06:46.398Z</updated>
         <content type="html"><![CDATA[28일 서울 강남구 세텍(SETEC)에서 열린 제5회 서울코스트릿에서 코스튬 플레이어들이 행사를 즐기고 있다. 2023.5.28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개성 넘치는 코스프레]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013968477</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013968477"/>
-        <updated>2023-05-28T05:06:46.399Z</updated>
-        <content type="html"><![CDATA[28일 서울 강남구 세텍(SETEC)에서 열린 제5회 서울코스트릿에서 코스튬 플레이어들이 포즈를 취하고 있다. 2023.5.28]]></content>
     </entry>
 </feed>
