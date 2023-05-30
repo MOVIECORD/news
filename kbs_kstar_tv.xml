@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 18:07:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 20:06:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JTBC '킹더랜드'  "우정과 사랑의 티키타카"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=264495</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=264495</guid>
+            <pubDate>Tue, 30 May 2023 20:04:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264495">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230527074113_8031f1e98ed22bf2bee4127f70bb7ba7.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=264495">JTBC '킹더랜드'  "우정과 사랑의 티키타카"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230527074113_8031f1e98ed22bf2bee4127f70bb7ba7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[tvN ‘벌거벗은 세계사’ 천재 조각가 로댕과 그의 연인 클로델]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=264950</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=264115">ENA '행복배틀' 메인 포스터 공개.. ‘행복을 지키려는 그녀들의 전쟁’</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230524100912_559173f613c7ba1bd016d9f2af7129a6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ENA '행복배틀' 김윤철 감독,  “인생에 정말 중요한 것이 무엇인지 찾을 수 있는 드라마”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=264103</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=264103</guid>
-            <pubDate>Fri, 26 May 2023 00:28:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264103">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230524094316_e06b7a852800456f7a045700fda4ff1e_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=264103">ENA '행복배틀' 김윤철 감독,  “인생에 정말 중요한 것이 무엇인지 찾을 수 있는 드라마”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230524094316_e06b7a852800456f7a045700fda4ff1e_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
