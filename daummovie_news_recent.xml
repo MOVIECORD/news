@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-05-31T15:04:50.225Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 31 May 2023 19:03:31 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['범죄도시3' 개봉 첫날 누적 120만 명 돌파, 日 73만 명 동원 [박스오피스]]]></title>
+            <link>https://v.daum.net/v/20230601002909195</link>
+            <guid>https://v.daum.net/v/20230601002909195</guid>
+            <pubDate>Wed, 31 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] ‘범죄도시3’가 개봉 첫날 100만 고지를 넘어섰다. 1일 영화진흥위원회 통합전산망에 따르면 영화 ‘범죄도시3’(감독 이상용)가 개봉 첫날인 지난 31일 73만4607명의 관객을 동원하면서 박스오피스 1위를 기록했다. 이번 작품은 대체불가 괴물형사 마석도(마동석)가 서울 광역수사대로 이동 후, 신종 마약 범죄 사건의 배후인]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F01%2Ftvdaily%2F20230601002912356zynk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
