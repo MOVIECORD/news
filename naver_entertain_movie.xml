@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-06-01T03:31:21.031Z</updated>
+    <updated>2023-06-01T04:07:04.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰]이준혁, 불안은 나의 힘]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011891766</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011891766"/>
+        <updated>2023-06-01T04:06:15.645Z</updated>
+        <content type="html"><![CDATA["전 종종 제가 최악의 연기자가 아닐까 생각할 때가 있어요. 그날도 그런 날이었죠. 앞으로 어떻게 살아야 할까, 고민하고 있는 바로 그날에 전화가 온 겁니다. 그 전화 한 통으로 상상도 못 했던 일이 벌어진 거예요.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['범죄도시3', 개봉 첫날 74만 명 돌파...역대 1위 '명량' 뛰어넘었다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001256838</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000432053"/>
         <updated>2023-06-01T02:45:40.168Z</updated>
         <content type="html"><![CDATA[최강 액션 블록버스터 '미션 임파서블: 데드 레코닝 PART ONE'이 오는 7월 12일 대한민국 개봉을 확정했다. 여름 블록버스터의 대명사이자 올여름 관객들이 가장 기대하는 할리우드 블록버스터 '미션 임파서블: 데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['범죄도시 3', '명량' 뛰어넘고 개봉일 74만↑ 압도적 흥행]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003775964</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003775964"/>
-        <updated>2023-06-01T02:45:40.168Z</updated>
-        <content type="html"><![CDATA[마동석의 시원한 펀치 액션이 돋보이는 영화 '범죄도시 3'이 개봉 첫날부터 압도적인 스코어로 박스오피스 정상에 올랐다. 1일 영화진흥위원회 영화관 입장권 통합전산망에 따르면 전날 정식 개봉한 '범죄도시 3'(감독 이]]></content>
     </entry>
 </feed>
