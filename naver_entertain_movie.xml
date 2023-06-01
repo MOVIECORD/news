@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-06-01T12:14:56.078Z</updated>
+    <updated>2023-06-01T13:11:44.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이나영 '박하경 여행기', CGV 단독 개봉..4화까지 러닝타임 100분(공식)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003634557</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003634557"/>
+        <updated>2023-06-01T13:10:51.386Z</updated>
+        <content type="html"><![CDATA[‘박하경 여행기’가 CGV에서 상영될 예정이다. CGV가 웨이브 오리지널 드라마 ‘박하경 여행기’를 오는 7일 단독 개봉한다고 1일 밝혔다. CGV와 웨이브가 손잡고 극장에서 선보이는 첫 번째 콘텐츠다. 배우 이나영]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팝인터뷰]송승헌 "임지연, '더 글로리'로 전성기 박수쳐줄 일..송혜교한테도 연락해"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003634554</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001599499"/>
         <updated>2023-06-01T09:03:44.683Z</updated>
         <content type="html"><![CDATA[영화 '거미집'(감독 김지운)이 영화의 예측불가 스토리와 캐릭터들의 관계를 미리 엿볼 수 있는 해외 예고편을 공개했다. '거미집'은 1970년대, 다 찍은 영화 '거미집'의 결말만 다시 찍으면 걸작이 될 거라 믿는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해리슨 포드의 마지막 모험…'인디아나 존스 5' 28일 개봉]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013977963</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0013977963"/>
-        <updated>2023-06-01T09:03:44.689Z</updated>
-        <content type="html"><![CDATA[할리우드 어드벤처 영화 '인디아나 존스: 운명의 다이얼'이 28일 개봉한다고 배급사 월트디즈니컴퍼니 코리아가 1일 밝혔다. 전편 '인디아나 존스: 크리스탈 해골의 왕국'(2008) 이후 15년 만에 나오는 이 시리즈]]></content>
     </entry>
 </feed>
