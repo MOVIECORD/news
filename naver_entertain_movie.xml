@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-06-01T17:05:49.089Z</updated>
+    <updated>2023-06-01T18:07:56.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 '플래시'에 원조 배트맨 등장...DC 멀티버스 펼쳐진다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001256955</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001256955"/>
+        <updated>2023-06-01T18:07:06.230Z</updated>
+        <content type="html"><![CDATA[초광속 액션 블록버스터 '플래시'가 알고 보면 더 재미있는 알쓸'플'잡을 공개했다. '플래시'는 빛보다 더 빠른 속도를 자랑하는 스피드스터 히어로 플래시가 자신의 과거를 바꾸기 위해 시간을 역행하면서 우주의 모든 시]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이나영 드라마 ‘박하경 여행기’ 극장서 상영 [연예뉴스 HOT]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001054961</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000050377"/>
         <updated>2023-06-01T10:05:51.432Z</updated>
         <content type="html"><![CDATA[한스 크리스티안 안데르센의 동화 &lt;인어공주&gt;에서 막내 공주는 원래 말이 많지 않았다. 다섯 언니들과 달리 그는 늘 조용히 생각에 잠겨 있었다. 15살이 되어야 바다 위로 나갈 수 있기 때문에 인어공주는 늘 먼저 뭍의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기획] 실사영화 ‘인어공주’에서 확장된 의미와 캐스팅 논란, 캐릭터 변화 살펴보기]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000050376</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000050376"/>
-        <updated>2023-06-01T10:05:51.434Z</updated>
-        <content type="html"><![CDATA[캐스팅 단계부터 뜨거운 이슈가 됐던 실사영화 &lt;인어공주&gt;가 공개됐다. 동명의 애니메이션에서 빨간 머리의 백인이었던 에리얼 캐릭터를 흑인 가수 핼리 베일리가 연기하는 것을 두고 원작 훼손이라거나 지나친 정치적 공정성을]]></content>
     </entry>
 </feed>
