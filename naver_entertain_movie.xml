@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-06-05T17:07:24.375Z</updated>
+    <updated>2023-06-05T18:04:26.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[방호정의 컬쳐 쇼크 & 조크] <125> 웨이브 오리지널 시리즈 ‘박하경 여행기’]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000042962</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000042962"/>
+        <updated>2023-06-05T18:03:35.122Z</updated>
+        <content type="html"><![CDATA[워낙 드문드문 활동하는 것이 조금 불만이긴 하지만, 이나영은 내가 참 좋아하는 배우다. ‘네 멋대로 해라’의 전경, ‘아는 여자’의 한이연, ‘로맨스는 별책부록’의 강단이 역처럼 이나영은 어쩌면 자신과 꼭 맞고, 자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['명탐정 코난' 6월 23일 개봉…미스터리 가득 메인 포스터[공식]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004864424</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004864357"/>
         <updated>2023-06-05T09:03:35.287Z</updated>
         <content type="html"><![CDATA[영화 '범죄도시3'(제공: 에이비오엔터테인먼트 l 배급: 에이비오엔터테인먼트, 플러스엠 엔터테인먼트 l 제작: 빅펀치픽쳐스, 홍필름, 비에이엔터테인먼트 l 감독: 이상용)가 개봉 6일째인 5일 오후 4시 40분, 5]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준혁, '범죄도시3' 500만 돌파 기념...남다른 그림 실력 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001257412</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001257412"/>
-        <updated>2023-06-05T09:03:35.287Z</updated>
-        <content type="html"><![CDATA[영화 '범죄도시3'가 개봉 6일째인 5일 오후 4시 40분, 500만 관객을 돌파했다. 영화 '범죄도시3'가 영진위 통합 전산망 기준, 2일째 100만, 3일째 200만, 4일째 300만, 5일째 400만에 이어 개]]></content>
     </entry>
 </feed>
