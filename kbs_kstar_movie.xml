@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 23:06:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 00:36:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 언브레이커블 마동석  “액션, 개그, 그리고 할리우드 시나리오” (범죄도시3)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=265678</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=265678</guid>
+            <pubDate>Mon, 05 Jun 2023 00:34:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=265678">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230605090335_61e025c19775c4eef580649f5f1fbd38.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=265678">[인터뷰] 언브레이커블 마동석  “액션, 개그, 그리고 할리우드 시나리오” (범죄도시3)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230605090335_61e025c19775c4eef580649f5f1fbd38.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[톰 크루즈,  '미션 임파서블' 신작으로 11번째 내한]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=265676</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=264753">디즈니-픽사 신작  '엘리멘탈' 칸 영화제에서 호평... "“비주얼, 메시지, 유머까지 다 갖췄다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230529083849_997fab4cf6a46b42bdcec3984a9a85b6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김지운 감독 '거미집', 칸 영화제 포토콜-기자회견]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=264646</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=264646</guid>
-            <pubDate>Sun, 28 May 2023 00:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=264646">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230528081101_d8e0e5cb29dec1bb7dcf7a2f798716b2.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=264646">김지운 감독 '거미집', 칸 영화제 포토콜-기자회견 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230528081101_d8e0e5cb29dec1bb7dcf7a2f798716b2.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
