@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Jun 2023 19:08:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jun 2023 20:07:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['가슴이 뛴다' 옥택연-원지안-박강현-윤소희, "붉은 드라마"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=265833</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=265833</guid>
+            <pubDate>Tue, 06 Jun 2023 20:06:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=265833">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230606065657_9762ef35ae0b18e20cdf62b564206184.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=265833"> '가슴이 뛴다' 옥택연-원지안-박강현-윤소희, "붉은 드라마"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%B0%80%EC%8A%B4%EC%9D%B4%20%EB%9B%B4%EB%8B%A4">월화드라마 가슴이 뛴다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230606065657_9762ef35ae0b18e20cdf62b564206184.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[어쩌다 마주친 그대] “오빠 끝낼 수 있게 도와줘!” 살인 목격하고도 모른 척 입막음 시킨 지혜원]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=266002</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%B0%80%EC%8A%B4%EC%9D%B4%20%EB%9B%B4%EB%8B%A4">월화드라마 가슴이 뛴다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230606063704_fd7a924424bca4a51a44ab073b48b0b4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[어쩌다 마주친 그대] ‘책을 읽는 여자는 위험하다’ 봉봉다방 성냥갑 속 숨겨진 진범의 메시지]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=265799</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=265799</guid>
-            <pubDate>Mon, 05 Jun 2023 16:03:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=265799">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230606000328_62c2bf4658ed76174f1d0dcf07f52063.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=265799">[어쩌다 마주친 그대] ‘책을 읽는 여자는 위험하다’ 봉봉다방 성냥갑 속 숨겨진 진범의 메시지</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%96%B4%EC%A9%8C%EB%8B%A4%20%EB%A7%88%EC%A3%BC%EC%B9%9C%20%EA%B7%B8%EB%8C%80">월화드라마 어쩌다 마주친 그대</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230606000328_62c2bf4658ed76174f1d0dcf07f52063.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
