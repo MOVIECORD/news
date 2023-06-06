@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Jun 2023 20:07:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jun 2023 21:05:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["뭔가 독특해!" 웨스 앤더슨 신작  '애스터로이드 시티' 포스터 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=265825</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=265825</guid>
+            <pubDate>Tue, 06 Jun 2023 21:04:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=265825">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230606064655_77077d2d4e368cb33a8084c530195aa6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=265825">"뭔가 독특해!" 웨스 앤더슨 신작  '애스터로이드 시티' 포스터 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230606064655_77077d2d4e368cb33a8084c530195aa6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["군산의 역사!" 다큐멘터리 '군산전기' 7월 극장 개봉]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=265806</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=265043">"DC가 달려온다 휙!"   플래시, 슈퍼걸, 그리고 조드 장군</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230531072415_3589caa28b44eb0ca37a1974ce801dae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["바디체인지!" 장동윤-오대환 영화 '악마들' 7월 개봉... “내 몸을 뺏어갔어”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=265032</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=265032</guid>
-            <pubDate>Tue, 30 May 2023 23:02:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=265032">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230531071638_923bd6ffbd95c5bf05e6aef0c66a45d6.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=265032">"바디체인지!" 장동윤-오대환 영화 '악마들' 7월 개봉... “내 몸을 뺏어갔어”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230531071638_923bd6ffbd95c5bf05e6aef0c66a45d6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
