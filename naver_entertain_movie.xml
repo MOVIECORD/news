@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-06-09T14:05:17.719Z</updated>
+    <updated>2023-06-09T16:06:13.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[웨스 앤더슨 감독 '애스터로이드 시티', '이동진의 언택트톡' 상영(공식)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003636097</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003636097"/>
+        <updated>2023-06-09T16:05:26.682Z</updated>
+        <content type="html"><![CDATA[웨스 앤더슨 감독의 신작 '애스터로이드 시티'가 '이동진의 언택트톡'에서 상영된다. CGV는 영화 '애스터로이드 시티'를 '이동진의 언택트톡' 13번째 작품으로 선정하고, 오는 17일 국내 프리미어 상영한다고 9일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[리뷰] ‘빅브라더’ 형은 하늘을 날 수 있을까 (궁유정 감독,2021)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000056388</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003158394"/>
         <updated>2023-06-09T10:04:16.109Z</updated>
         <content type="html"><![CDATA[배우 윤성모가 9일 오후 서울 용산구 아이파크몰 CGV에서 진행된 영화 '나비효과' 언론시사회에 참석해 인사말을 하고 있다. ‘나비효과’는 어느 실력파 인디밴드의 성공을 위한 분투기를 그려낸 청춘 힐링 음악영화다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오지호, '연쇄살인마'로 변신...서효림과 호흡 맞춘다 ('인드림')]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001258074</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001258074"/>
-        <updated>2023-06-09T10:04:16.113Z</updated>
-        <content type="html"><![CDATA[스릴러 영화 '인드림'의 무거운 분위기가 돋보이는 스틸이 공개됐다. 9일 공개된 '인드림' 스틸은 꿈과 현실을 오가며 쫓고 쫓기는 추적을 담았다. 목격자도 단서도 없는 연쇄살인 현장을 형사 상준(김승수 분)이 지켜보]]></content>
     </entry>
 </feed>
