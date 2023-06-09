@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 09:06:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 10:05:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘편스토랑’ 오윤아-유선-신은정, 워킹맘의 유쾌한 수다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=266304</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=266304</guid>
+            <pubDate>Fri, 09 Jun 2023 10:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=266304">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230609181231_79adc40a579f2debbf97474edf18d75f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=266304">‘편스토랑’ 오윤아-유선-신은정, 워킹맘의 유쾌한 수다</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상출시 편스토랑</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230609181231_79adc40a579f2debbf97474edf18d75f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['가슴이 뛴다' 옥택연, 반인뱀파이어 ‘선우혈’ "지고지순 사랑꾼"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=265893</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B3%BC%ED%95%99%EC%88%98%EC%82%AC%EB%8C%80%20%EC%8A%A4%EB%AA%A8%ED%82%B9%20%EA%B1%B4">과학수사대 스모킹 건</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230607090249_0ca66515d075904eff6e4efb31200146.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[어쩌다마주친그대 12회] 김동욱-진기주,  “나는 애틋하게 생각해요”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=266033</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=266033</guid>
-            <pubDate>Wed, 07 Jun 2023 02:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=266033">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230607080549_9252a74bf2501d35371a05efc440ca4d.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=266033">[어쩌다마주친그대 12회] 김동욱-진기주,  “나는 애틋하게 생각해요” </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%96%B4%EC%A9%8C%EB%8B%A4%20%EB%A7%88%EC%A3%BC%EC%B9%9C%20%EA%B7%B8%EB%8C%80">월화드라마 어쩌다 마주친 그대</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230607080549_9252a74bf2501d35371a05efc440ca4d.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
