@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-06-10T08:09:04.537Z</updated>
+    <updated>2023-06-10T09:04:25.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마동석 '범죄도시3' 살린 韓영화…김혜수→하정우, 올 여름 누가 흥행할까(종합)[Oh!쎈 초점]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004867436</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004867436"/>
+        <updated>2023-06-10T09:03:33.071Z</updated>
+        <content type="html"><![CDATA[‘범죄도시3’가 지난해 선보인 2편에 이어 또 한 번 천만 관객을 돌파할 것으로 전망되면서 다시금 활기를 띠고 있다. 한국영화에 뚝 끊긴 관객들의 관심을 모으는 데 ‘범죄도시’ 시리즈가 큰 역할을 하고 있는 셈이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘범죄도시3’ 올해 첫 700만 관객 돌파 성공, 천만갈까]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000734794</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000942925"/>
         <updated>2023-06-10T06:04:48.837Z</updated>
         <content type="html"><![CDATA[‘범죄도시3’가 700만 관객을 돌파한 가운데 마동석, 이준혁, 전석호, 이상용 감독 등의 인증샷이 공개됐다. 영화 ‘범죄도시3’(감독 이상용)가 영진위 통합전산망 기준, 6월 10일 오후 12시 10분 기준 700]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘범죄도시3’ 700만 돌파, 올해 국내 영화 첫 기록…마동석→이준혁 인증샷 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001748206</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001748206"/>
-        <updated>2023-06-10T06:04:48.839Z</updated>
-        <content type="html"><![CDATA[‘범죄도시3’가 700만 관객을 돌파했다. 영화 ‘범죄도시3’(감독 이상용)가 영진위 통합전산망 기준, 6월 10일 오후 12시 10분 기준 700만 관객을 돌파하며 올해 첫 700만 관객 돌파 영화의 탄생을 알렸다]]></content>
     </entry>
 </feed>
