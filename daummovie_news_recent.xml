@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-06-10T22:03:39.601Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 10 Jun 2023 23:05:48 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이준혁 "영화는 친구 같은 존재…제가 정말 잘해줬다니까요!" [엑's 인터뷰②]]]></title>
+            <link>https://v.daum.net/v/20230611073158157</link>
+            <guid>https://v.daum.net/v/20230611073158157</guid>
+            <pubDate>Sat, 10 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) (인터뷰①에 이어) 2007년 데뷔 이후 16년의 시간이 흘렀다. 올해 필모그래피에 '범죄도시3'를 더하기까지 배우 이준혁은 역할과 크기, 비중에 상관없이 새로운 모습을 보여줄 수 있는 작품이라면 어디든 달려가 다양한 인물들로 변신하며 꾸준히 대중과 만나왔다. '수상한 삼형제'(2009)와 '적도의 남자'(2012), '비밀의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F11%2Fxportsnews%2F20230611073200131ugey.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이준혁 "다신 못 볼 것 같은 내 모습, 사랑하는 사람과 헤어진 느낌" [엑's 인터뷰①]]]></title>
+            <link>https://v.daum.net/v/20230611073011142</link>
+            <guid>https://v.daum.net/v/20230611073011142</guid>
+            <pubDate>Sat, 10 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) "안녕하세요. 와, 이게 무슨 일이야, 이게."&nbsp; 배우 이준혁이 이른 오전 인터뷰 일정을 위해 자리를 찾은 취재진들을 부지런히 살피며 혼잣말처럼 나직이 말한다. 영화 '범죄도시3'(감독 이상용) 개봉을 하루 앞두고 마주했던 이준혁은 안팎으로 쉴 틈 없는 일정을 소화하며 작품을 알리기 위해 분주히 움직이고 있었다. 이준혁은 5월]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F11%2Fxportsnews%2F20230611073013183mutg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[김선호·김새론·조병규, '논란' 배우들의 새로운 복귀 기준 되나  [기자수첩-연예]]]></title>
+            <link>https://v.daum.net/v/20230611070257941</link>
+            <guid>https://v.daum.net/v/20230611070257941</guid>
+            <pubDate>Sat, 10 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전 여자친구의 폭로로 부침을 겪은 김선호부터, 음주 운전 혐의로 벌금형을 선고 받은 김새론, 그리고 학교 폭력(학폭) 가해자로 지목돼 아직 진실공방 중인 조병규까지 물의를 일으킨 배우들이 작품 출연으로 다시 대중 앞에 섰다. 다른 대안이 마땅히 없으며 많은 스태프들의 피와 땀을 고려해 리스크를 안고 가기 위한 선택이 주효한 이유로 꼽힌다. 이렇게 된 이상,]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F11%2Fdailian%2F20230611070300679vfxx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
