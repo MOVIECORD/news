@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-10T02:14:49.355Z</updated>
+    <updated>2023-06-10T03:05:29.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘귀공자’ 맑은 눈의 추격자, 김선호가 쫓아온다]]></title>
+        <id>https://v.daum.net/v/20230610113107748</id>
+        <link href="https://v.daum.net/v/20230610113107748"/>
+        <updated>2023-06-10T03:05:28.991Z</updated>
+        <content type="html"><![CDATA[‘맑은 눈의 광인.’ 반짝이는 눈을 갖고 있지만, 알 수 없는 광기가 느껴지는 사람을 뜻한다. 게다가 무슨 생각을 하는지도 알 수 없다. 영화 ‘귀공자’에도 이런 인물이 한 명 등장한다. 쓰리피스 슈트에 한정판 명품 구두를 신고, 누구냐는 질문에 항상 “친구”라고 대답하는 귀공자 역의 김선호 이야기다. 영화는 병든 어머니를 돌보기 위해 필리핀의 불법 경]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['변론을 시작하겠습니다' 이대로 묻히기엔 아깝다]]></title>
         <id>https://v.daum.net/v/20230610102702086</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230610063117898"/>
         <updated>2023-06-09T22:03:53.111Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 정유진 기자 = 영화 '범죄도시3'(감독 이상용)가 요즘 극장가에서 마동석의 강펀치 만큼이나 큰 파급력을 발휘 중이다. 이번 주말 벌써 800만 돌파를 예고하고 있는 이 영화는 이달 안에 천만 관객 동원에 성공할 가능성도 높다. '범죄도시3'는 지난 5월31일 개봉 이래 약 2주간 지속적으로 새 기록을 써왔다. 개봉 첫날에는 74만874]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준혁에게 듣는 ‘범죄도시3’ 그리고 그 후]]></title>
-        <id>https://v.daum.net/v/20230610060423750</id>
-        <link href="https://v.daum.net/v/20230610060423750"/>
-        <updated>2023-06-09T22:03:53.111Z</updated>
-        <content type="html"><![CDATA[이따금씩 삶은 사소한 계기 하나로 변화를 맞는다. 배우 이준혁에게는 전화 한 통이 그랬다. 사소한 고민이 눈덩이처럼 커지던 날, 그는 뜻밖의 인물에게 연락을 받았다. 내용은 단순했다. “어 준혁아, ‘범죄도시’ 3편을 만들 거야. 근데 네가 빌런(악당)을 맡아줬으면 해.” 홀린 듯 그가 내놓은 대답은 “알겠어요.” 2편이 나오지도 않은 상황이었다. 아무]]></content>
     </entry>
 </feed>
