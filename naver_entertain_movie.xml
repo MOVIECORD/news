@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-06-11T08:05:12.048Z</updated>
+    <updated>2023-06-11T09:06:12.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“IT로 하나 돼, 모두가 함께 성장하는 아름다운 세상을 꿈꿉니다”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000975922</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000975922"/>
+        <updated>2023-06-11T09:05:16.328Z</updated>
+        <content type="html"><![CDATA[“IT로 소통하며, 차별없는 세상 향해 나아갑니다” 강원특별자치도와 강원일보가 주최하고 강원도장애인재활협회가 주관하는 ‘19회 강원도 장애인 IT 경진대회’가 지난 10일 춘천시 서면 강원창작개발센터에서 열려 IT를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마동석, 쌍천만 향해 펀치..왜 '범죄도시'를 좋아할까 [김미화의 날선무비]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003158739</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011906498"/>
         <updated>2023-06-11T05:02:58.264Z</updated>
         <content type="html"><![CDATA[11일 오전 서울 시내 한 영화관에을 찾은 시민들이 영화 '범죄도시3' 티켓을 구매하고 있다. '범죄도시3'는 개봉 11일 만에 730만 1천435명의 관객을 동원, 올해 첫 누적 관객 700만을 넘어서며 1000만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[범죄도시3 개봉 11일 만에 730만 관객 돌파]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011906497</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0011906497"/>
-        <updated>2023-06-11T05:02:58.264Z</updated>
-        <content type="html"><![CDATA[11일 오전 서울 시내 한 영화관에 영화 '범죄도시3'의 포스터가 게시되고 있다. '범죄도시3'는 개봉 11일 만에 730만 1천435명의 관객을 동원, 올해 첫 누적 관객 700만을 넘어서며 1000만 관객 달성]]></content>
     </entry>
 </feed>
