@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-06-12T19:04:21.265Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 12 Jun 2023 23:08:02 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마고 로비→라이언 고슬링 7월 한국 온다 ‘바비’로 생애 첫 내한[공식]]]></title>
+            <link>https://v.daum.net/v/20230613080658800</link>
+            <guid>https://v.daum.net/v/20230613080658800</guid>
+            <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '바비' 개봉을 앞두고 마고 로비와 라이언 고슬링이 한국을 찾는다. 영화 '바비' 연출을 맡은 그레타 거윅 감독을 비롯해 주연 배우인 마고 로비, 라이언 고슬링, 아메리카 페레라가 7월 2일 대한민국을 찾아온다. 생애 처음으로 대한민국에 방문하는 것으로 그 특별함을 더하고 있다. 7월 개봉에 앞서 처음으로 한국 팬들을 만날 이들은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F13%2Fnewsen%2F20230613080659061gncv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['범죄도시3', 천만 향한 흥행 질주..800만 관객 눈앞[★무비차트]]]></title>
+            <link>https://v.daum.net/v/20230613080113699</link>
+            <guid>https://v.daum.net/v/20230613080113699</guid>
+            <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 김나연 기자] 범죄도시3 / 사진=영화 포스터'범죄도시3'가 800만 관객 돌파를 앞두고 있다. 13일 영화진흥위원회 통합전산망에 따르면 전날 영화 '범죄도시3'는 14만 3293명의 관객을 동원해 박스오피스 1위를 기록했다. 누적 관객 수는 792만 6142명. 개봉 13일 연속 박스오피스 1위를 독주하고 있는 '범죄도시3'는 이날]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F13%2Fstarnews%2F20230613080115011elos.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이병헌·박서준·박보영 '콘크리트 유토피아', 개봉 전 152개국 선판매[공식]]]></title>
+            <link>https://v.daum.net/v/20230613075209531</link>
+            <guid>https://v.daum.net/v/20230613075209531</guid>
+            <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;이병헌, 박서준, 박보영의 만남으로 기대를 모으는 영화 '콘크리트 유토피아'가 오는 8월 개봉에 앞서 152개국에서 선판매되며 글로벌 관객들을 만날 채비를 마쳤다. '콘크리트 유토피아'(감독 엄태화, 제작 클라이맥스 스튜디오, 공동제작 BH엔터테인먼트, 제공배급 롯데엔터테인먼트)는 대지진으로 폐허가 되어 버린 서울, 유일하게 남]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F13%2Fpoctan%2F20230613075209771frvp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['바비' 마고 로비∙라이언 고슬링, 생애 첫 내한..한국 팬들 직접 만난다]]></title>
+            <link>https://v.daum.net/v/20230613074607451</link>
+            <guid>https://v.daum.net/v/20230613074607451</guid>
+            <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp;영화 '바비'(원제: Barbie, 감독: 그레타 거윅, 주연: 마고 로비, 라이언 고슬링, 아메리카 페레라, 케이트 맥키넌, 잇사 레이, 두아 리파, 시무 리우 외, 수입/배급: 워너브러더스 코리아㈜)가 그레타 거윅 감독부터 마고 로비, 라이언 고슬링, 아메리카 페레라까지 작품 주역들의 내한을 확정했다. 여기에 한국 팬 만을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F13%2Fpoctan%2F20230613074608976uffc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['범죄도시3' 13일 연속 박스오피스 1위…800만 돌파 눈앞 [Nbox]]]></title>
+            <link>https://v.daum.net/v/20230613074152401</link>
+            <guid>https://v.daum.net/v/20230613074152401</guid>
+            <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 윤효정 기자 = 영화 '범죄도시3'(감독 이상용)가 800만 관객 돌파를 앞두고 있다. 13일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 영화 '범죄도시3'는 지난 12일 전국 1968개 스크린에서 14만3293명을 동원하며 박스오피스 1위를 지켰다. 누적 관객수는 792만6142명이다. 지난달 27~29일 유료 시사회를 진]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F13%2FNEWS1%2F20230613074153713vxmm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['범죄도시3' 오늘 800만 돌파…13일 연속 박스오피스 1위[美친 box]]]></title>
+            <link>https://v.daum.net/v/20230613073908371</link>
+            <guid>https://v.daum.net/v/20230613073908371</guid>
+            <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자] 영화 ‘범죄도시3’가 오늘 800만 관객을 동원한다. 13일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날(12일) ‘범죄도시3’는 14만 3293명을 동원해 일별 박스오피스 1위를 차지했다. 지난달 31일 개봉한 ‘범죄도시3’는 13일 연속으로 박스오피스 1위 자리를 차지하며 순항 중이다. 어제까지 누적 관객수는 79]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F13%2Fpoctan%2F20230613073908804xfxs.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['응팔' 이동휘x'슈룹' 강찬희, 블랙 코미디 '메소드연기' 투톱 확정 [공식]]]></title>
+            <link>https://v.daum.net/v/20230613073849358</link>
+            <guid>https://v.daum.net/v/20230613073849358</guid>
+            <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박소영 기자] 영화&nbsp;'메소드연기'(각본/감독 이기혁&nbsp;|&nbsp;제작 ㈜런업컴퍼니,&nbsp;공동제작 ㈜위지윅스튜디오)가 배우 이동휘,&nbsp;강찬희 등의 출연을 확정 짓고 지난&nbsp;5일 크랭크인 했다. 제작사 ㈜런업컴퍼니 측은&nbsp;13일 보도자료를 통해&nbsp;"배우 이동휘,&nbsp;강찬희 등의 캐스팅을 확정한&nbsp;'메소드연기'가 지난&nbsp;5일 크랭크인 했다"고 전했다. 영화&nbsp;'메소드연기'는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F13%2Fpoctan%2F20230613073850932isfe.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[스한:BOX] '범죄도시3' 800만 돌파 임박…'트랜스포머: 비스트의 서막' 2위]]></title>
+            <link>https://v.daum.net/v/20230613073458305</link>
+            <guid>https://v.daum.net/v/20230613073458305</guid>
+            <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 조은애 기자] 영화 '범죄도시3'가 800만 관객 돌파를 앞뒀다. 13일 영진위 통합전산망 집계에 따르면 '범죄도시3'는 전날&nbsp;14만3290명의 관객을 모아 박스오피스 1위를 차지했다. 누적 관객 수는&nbsp;792만6139명이다. 앞서 지난달 31일 개봉한 '범죄도시3'는 13일째 압도적인 기세로 흥행 독주 중이다. 이날 800만 관객을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F13%2FSpoHankook%2F20230613073459444ospk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['귀공자' 김선호 "총기 액션, 조교 경험 덕분 익숙했죠" [인터뷰③]]]></title>
+            <link>https://v.daum.net/v/20230613070901989</link>
+            <guid>https://v.daum.net/v/20230613070901989</guid>
+            <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 김나연 기자] 배우 김선호가 12일 오전 서울 종로구 삼청동의 한 카페에서 진행된 영화 '귀공자' 개봉 관련 인터뷰를 위해 포즈를 취하고 있다.  김선호는 극 중 마르코(강태주 분)를 쫓는, 갑자기 나타난 맑은 눈의 광인 '귀공자'(김선호 분) 역할을 맡았다.   '귀공자'는 필리핀 불법 경기장을 전전하는 복싱 선수 '마르코' 앞에 정체불명의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F13%2Fstarnews%2F20230613070902980qvrr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘귀공자’ 김선호 “욕설 연기 어색…영화 ‘신세계’ 참고했죠”]]></title>
+            <link>https://v.daum.net/v/20230613063009515</link>
+            <guid>https://v.daum.net/v/20230613063009515</guid>
+            <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘귀공자’에서 무자비한 킬러를 연기한 김선호가 “싸이코패스를 다룬 영화 ‘시계태엽오렌지’와 욕설이 많이 나오는 영화 ‘신세계’를 보고 참고했다”고 밝혔다. 사진제공｜스튜디오앤뉴 온 몸에 피 칠갑을 하고도 태연하다. 따뜻했던 눈빛은 시종일관 광기로 번뜩인다. 드라마 속 다정하고 로맨틱했던 배우 김선호(37)가 무자비한 킬러 역을 맡아 데뷔 이후 가장]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F13%2Fsportsdonga%2F20230613063010890fwoe.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[매력 터진 플래시, '삼트맨' 등장까지…DC 전환점 될까 [시네마 프리뷰]]]></title>
+            <link>https://v.daum.net/v/20230613060111077</link>
+            <guid>https://v.daum.net/v/20230613060111077</guid>
+            <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = DC코믹스의 히어로 '플래시'의 첫 솔로 무비가 베일을 벗었다. 플래시는 DC와 마블을 통틀어 코믹스 사상 최초의 스피드스터 히어로다. 지난 1940년 '플래시 코믹스'를 통해 처음 등장, 슈퍼맨과 원더우먼, 사쟘 등을 제치고 가장 빠른 스피드를 보유한 DC의 대표 히어로이기도 하다. 오는 14일 개봉하는 '플래시'는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F13%2FNEWS1%2F20230613060112720frwo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['밀수'→'콘크리트 유토피아', 여름 극장가 韓 영화 대전 [★FOCUS]]]></title>
+            <link>https://v.daum.net/v/20230613060010029</link>
+            <guid>https://v.daum.net/v/20230613060010029</guid>
+            <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 김나연 기자] 사진=영화 포스터올 여름, 무더위를 물리칠 한국영화 대작들이 잇달아 관객들을 찾아온다. '범죄도시3'로 회복의 물꼬를 튼 극장가에 다양한 장르와 배우들이 총출동해 여름 대전에 불이 붙은 모양새다. '밀수'부터 '더 문', '비공식 작전', '콘크리트 유토피아'까지 이른바 '빅4 영화'가 확정된 가운데 한국영화 흥행의 불씨를 이어]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F13%2Fstarnews%2F20230613060013290ioxo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
