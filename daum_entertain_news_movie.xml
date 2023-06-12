@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-06-12T09:04:21.045Z</updated>
+    <updated>2023-06-12T10:04:38.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['인어공주' 아직도 적자...'인종차별' 때문일까]]></title>
+        <id>https://v.daum.net/v/20230612181508229</id>
+        <link href="https://v.daum.net/v/20230612181508229"/>
+        <updated>2023-06-12T10:04:38.111Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이수연 기자] 디즈니 실사 영화 '인어공주'가 아직 손익분기점을 넘기지 못했다. '인어공주'가 전 세계 수익 4억 달러(한화 약 5,158억 원)을 돌파했다(박스 오피스 모조 기준). 하지만 해외 수익은 12일(현지 시간) 기준 불과 1억 8,540만 달러(한화 약 2,390억 원)으로 전 세계 수익의 절반 이상이 자국인 미국에서 벌어들인 수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['범죄도시' 효과···韓 텐트폴 영화 줄개봉]]></title>
         <id>https://v.daum.net/v/20230612175739601</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230612155431874"/>
         <updated>2023-06-12T07:06:45.676Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 최민영 / 사진=넷플릭스배우 최민영이 "넷플릭스의 힘을 느꼈다"고 밝혔다. 8일 서울시 강남구 사람엔터테인먼트 사옥에서 넷플릭스 시리즈 '엑스오, 키티'에서 열연을 펼친 배우 최민영과 만나 다양한 이야기를 나눴다. '엑스오, 키티'는 '사랑 맺어주기'가 특기인 키티가 지구 반대편으로 날아가 남자친구와 재회하고 새로운 경험]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톰 크루즈 드림팀 모였다 ‘미션 임파서블:데드 레코닝’ 메인 포스터]]></title>
-        <id>https://v.daum.net/v/20230612150501731</id>
-        <link href="https://v.daum.net/v/20230612150501731"/>
-        <updated>2023-06-12T07:06:45.677Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '미션 임파서블: 데드 레코닝 PART ONE' 메인 포스터가 공개됐다. 7월 12일 개봉하는 영화 '미션 임파서블: 데드 레코닝 PART ONE'(감독 크리스토퍼 맥쿼리)은 모든 인류를 위협할 새로운 무기가 잘못된 자의 손에 넘어가지 않도록 추적하던 에단 헌트(톰 크루즈)와 IMF팀이 미스터리하고 강력한 적을 만나게 되면서 팀의]]></content>
     </entry>
 </feed>
