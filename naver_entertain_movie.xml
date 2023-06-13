@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-06-13T17:04:28.886Z</updated>
+    <updated>2023-06-13T18:06:56.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 배우 트리트 윌리엄스, 오토바이 사고로 사망…향년 71세]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014000094</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014000094"/>
+        <updated>2023-06-13T18:06:07.922Z</updated>
+        <content type="html"><![CDATA[드라마 '에버우드'·영화 '헤어' 등 120여편 출연…"배우들의 배우" 임미나 특파원 = 영화와 드라마 120여편에 출연한 할리우드 배우 트리트 윌리엄스가 불의의 교통사고로 별세했다. 향년 71세. 13일(현지시간)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 '메소드연기' 이동휘·강찬희 캐스팅 확정…5일 크랭크인]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001258615</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000191464"/>
         <updated>2023-06-13T09:03:30.840Z</updated>
         <content type="html"><![CDATA[대한민국 대표 범죄 오락 액션 영화 '범죄도시3'가 개봉 14일째인 6월 13일(화) 오후 3시, 800만 관객을 돌파했다. [제공: 에이비오엔터테인먼트 l 배급: 에이비오엔터테인먼트, 플러스엠 엔터테인먼트 l 제작]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초유의 관객수 조작 의혹…밴드웨건 효과 노렸나 [TEN이슈]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000614100</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000614100"/>
-        <updated>2023-06-13T09:03:30.844Z</updated>
-        <content type="html"><![CDATA[영화계가 관객수 조작 사태로 발칵 뒤집어진 가운데, 그 배경으로 '밴드웨건 효과를 노린 것 아니겠느냐'는 관측이 나오고 있다. 서울경찰청 반부패·공공범죄수사대는 용산CGV 사무실, 송파구 롯데시네마 본사 내 유관 부]]></content>
     </entry>
 </feed>
