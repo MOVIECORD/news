@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-06-14T19:03:59.550Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 14 Jun 2023 20:04:20 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 흥행 부진 '인어공주', 유튜버들이 고개 젓는 이유는?]]></title>
+            <link>https://v.daum.net/v/20230615050215142</link>
+            <guid>https://v.daum.net/v/20230615050215142</guid>
+            <pubDate>Wed, 14 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[【서울=뉴시스】강운지 리포터 = 지난달 24일 개봉한 할리 베일리 주연의 뮤지컬 영화 '인어공주'가 3주째 국내서 기대에 못 미치는 성적을 거두고 있다. 유튜브에는 인어공주의 개봉 직후부터 영화 리뷰 유튜버들의 관람 후기나 분석 영상이 잇따르고 있는데 대부분은 혹평이다. 14일 기준, 인어공주의 국내 누적 관객 수는 불과 약 63만명이다. 2019년]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F15%2Fnewsis%2F20230615050215288sygy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
