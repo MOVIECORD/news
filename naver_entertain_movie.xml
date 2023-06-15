@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-06-15T18:08:13.993Z</updated>
+    <updated>2023-06-15T19:03:16.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[北 정치범수용소 다룬 애니메이션, 뉴욕서 상영회]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014005776</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014005776"/>
+        <updated>2023-06-15T19:02:24.255Z</updated>
+        <content type="html"><![CDATA[총영사관서 '트루 노스' 상영 후 감독이 관객들과 대화 강건택 특파원 = 미국 뉴욕에서 북한 인권 문제의 실상을 알리기 위한 목적으로 북한 정치범수용소를 소재로 한 애니메이션 상영회가 열렸다. 주뉴욕총영사관은 14일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“영진위, 실패한 사업에 24억 낭비”, 문체부 “영화기금 방만… 전면 정비”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=020&amp;aid=0003503873</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000050472"/>
         <updated>2023-06-15T11:03:38.426Z</updated>
         <content type="html"><![CDATA[은 1960년대 후반 미국으로 이민 갔던 피터 손 감독의 부모로부터 시작한 영화다. 식료품 가게를 운영하며 미국 사회에 자리 잡은 한국인 이민자 가족의 정체성이 영화 전반에 투영돼 있다. 물, 불, 공기, 흙 등 각]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기획] ‘엘리멘탈’, 디즈니·픽사가 선택한 공존의 방식]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000050471</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000050471"/>
-        <updated>2023-06-15T11:03:38.427Z</updated>
-        <content type="html"><![CDATA[은 물, 불, 공기, 흙 등 4원소가 함께 어울려 살아가는 엘리멘트 시티의 이야기를 담고 있다. 앰버(리아 루이스)는 더 나은 삶을 살기 위해 이주를 결정한 부모 밑에서 자랐고, 모든 것을 이분법적으로 바라보는 부모]]></content>
     </entry>
 </feed>
