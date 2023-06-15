@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 23:04:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 00:36:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['세컨 하우스2' 일당백 일꾼 박군 출격]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=267057</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=267057</guid>
+            <pubDate>Thu, 15 Jun 2023 00:35:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=267057">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230615090415_4fd55fda37b243bf6505d30000d68fd2.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=267057">'세컨 하우스2' 일당백 일꾼 박군 출격</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%84%B8%EC%BB%A8%20%ED%95%98%EC%9A%B0%EC%8A%A4">세컨 하우스</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230615090415_4fd55fda37b243bf6505d30000d68fd2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드라마 '가슴이 뛴다' 포스터 촬영현장... '반짝반짝’ 옥택연-원지안-박강현-윤소희]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=266739</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230613232435_551bb3937d0100a6f658a84da8a8521e_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[슈퍼맨이 돌아왔다] 거실+소파 제물 삼아 힘겹게 탄생한 단연남매 수타 짜장면]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=266859</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=266859</guid>
-            <pubDate>Tue, 13 Jun 2023 17:03:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=266859">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230613232149_271f8717db4c33da0890080f76c41743_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=266859">[슈퍼맨이 돌아왔다] 거실+소파 제물 삼아 힘겹게 탄생한 단연남매 수타 짜장면 </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230613232149_271f8717db4c33da0890080f76c41743_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
