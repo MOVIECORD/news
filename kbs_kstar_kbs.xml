@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 05:04:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 07:07:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘장바구니 집사들’  홍석천 맹활약 "군침 폭발 아귀찜"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=267165</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=267165</guid>
+            <pubDate>Thu, 15 Jun 2023 07:06:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=267165">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230615154218_a4cda84c09b7706d2cad8659f8034832.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=267165">‘장바구니 집사들’  홍석천 맹활약 "군침 폭발 아귀찜"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B3%B5%EC%98%81%EB%B0%A9%EC%86%A1%2050%EC%A3%BC%EB%85%84%20%ED%8A%B9%EB%B3%84%EA%B8%B0%ED%9A%8D%20%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88%20%EC%A7%91%EC%82%AC%EB%93%A4">공영방송 50주년 특별기획 장바구니 집사들</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230615154218_a4cda84c09b7706d2cad8659f8034832.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘편스토랑’ 이정현이 돌아왔다]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=267105</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230613234328_7951af435d741aa26849af626e701568.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[슈퍼맨이 돌아왔다] 쓴줌마 제이쓴+준범+홍현희 완전체 가족의 첫 동물원 방문!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=266869</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=266869</guid>
-            <pubDate>Tue, 13 Jun 2023 17:03:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=266869">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230613234220_4270578e62cb59698bd87b37eba4d0e6.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=266869">[슈퍼맨이 돌아왔다] 쓴줌마 제이쓴+준범+홍현희 완전체 가족의 첫 동물원 방문!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230613234220_4270578e62cb59698bd87b37eba4d0e6.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
