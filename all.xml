@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 12:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 13:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230612085209_b7c93a7379cd89ad4ab2907a4f893f2c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[뮤직뱅크] 힘차게 열린 렌, 거침없이 나아갈 준비 완료 ♪Ready to Move (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=267301</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=267301</guid>
+            <pubDate>Fri, 16 Jun 2023 13:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=267301">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230616221051_ba6e28205c156d939f89231cfb008c48_1.PNG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=267301">[뮤직뱅크] 힘차게 열린 렌, 거침없이 나아갈 준비 완료 ♪Ready to Move</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230616221051_ba6e28205c156d939f89231cfb008c48_1.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
             <title><![CDATA['살림하는 남자들', '핵인싸' 김수찬표 템플스테이 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=267297</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=267297</guid>
@@ -1030,24 +1048,6 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230614232637_0f197b905f2960e97159e0142e718e36.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[옥탑방의 문제아들] 프로 N잡러 손미나! 영화감독 미나가 시사회에서 들은 감동적인 이야기 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=266988</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=266988</guid>
-            <pubDate>Wed, 14 Jun 2023 15:03:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=266988">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230614231800_1a5da4a480074296a889093b554ab5df_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=266988">[옥탑방의 문제아들] 프로 N잡러 손미나! 영화감독 미나가 시사회에서 들은 감동적인 이야기</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230614231800_1a5da4a480074296a889093b554ab5df_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[영화평론가 이동진 "'범죄도시3'에 후한 평점? 좋았기 때문" 반박 [이슈iN] (MBC 연예 ─ 영화)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/384627</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/384627</guid>
@@ -1110,6 +1110,13 @@
             <pubDate>Tue, 18 Apr 2023 07:03:30 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/379466" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/18/6a405cd6-e41b-4381-9a58-878331579d26.jpg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">'사랑의 고고학' 김현민·이화정→위근우, 연인 간의 불완전한 권력관계 탐구</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/18/6a405cd6-e41b-4381-9a58-878331579d26.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부산국제영화제, 조종국 운영위원장 해촉 26일 논의 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000893847</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000893847</guid>
+            <pubDate>Fri, 16 Jun 2023 13:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[부산국제영화제(BIFF·이사장 이용관) 이사회는 오는 26일 열리는 임시총회에서 조종국 운영위원장 해촉 안건을 상정했다고 16일 전했다. 부산국제영화제 이사회는 15일 회의를 열어 조 운영위원장 해촉(안)과 집행위원]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[김희정 "같이 춤 추던 허니제이, 결혼에 출산까지…신기해" [엑's 인터뷰] (네이버TV연예 ─ 영화)]]></title>
@@ -1280,193 +1287,186 @@
             <content:encoded><![CDATA[영화 '범죄도시3'로 주목받은 배우 고규필(41)이 가수 에이민(32·민수연)과 열애 중이다. 고규필은 18일 뉴스1과 통화에서 에이민과의 열애 소식이 알려진 것에 대해 "워낙 오래 만난 사이이고 지인들과도 함께 만]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2023 서울국제 블루스 페스티벌, 6월30일부터 한강 노들섬 라이브하우스에서 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000050480</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000050480</guid>
-            <pubDate>Fri, 16 Jun 2023 10:04:53 GMT</pubDate>
-            <content:encoded><![CDATA['2023 서울국제블루스페스티벌'이 6월30일부터 7월2일까지 사흘 동안 한강 노들섬 라이브하우스에서 열린다. 이번 페스티벌에는 1세대 블루스부터 MZ세대까지 각 세대를 대표하는 블루스 뮤지션들이 한 무대에 오른다.]]></content:encoded>
+            <title><![CDATA[외로움에 가상친구 만든 난독증 초4 금쪽이, 온 집안 낙서한 이유(금쪽같은) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737399</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737399</guid>
+            <pubDate>Fri, 16 Jun 2023 13:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[오은영이 집 전체에 그림을 그린 초등학교 4학년 금쪽이의 행동을 부석했다. 6월 16일 방송된 채널A ‘요즘 육아-금쪽같은 내 새끼’에는 난독증 초등학교 4학년 금쪽이의 사연이 공개 됐다. 이날 공개된 영상에서 금쪽]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[3년 만에 차 바꾸고 신난 전혜빈…어떤 차길래? (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011918873</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011918873</guid>
-            <pubDate>Fri, 16 Jun 2023 12:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[배우 전혜빈이 새로 산 차량을 자랑했다. 전헤빈은 16일 소셜미디어에 "3년 반만에 드디어"라고 적으며 새 차 앞에서 찍은 사진을 올렸다. 그는 시트비닐도 뜯지 않은 차 앞에서 아들을 안고 신나는 표정으로 포즈를 취]]></content:encoded>
+            <title><![CDATA[오은영 "인형놀이는 그만, 금쪽이 난독증보다 母 과보호가 더 심각" (금쪽같은)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001605588</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001605588</guid>
+            <pubDate>Fri, 16 Jun 2023 13:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[오은영 박사 금쪽이의 난독증보다 어머니의 과보호가 더 심각하다고 진단했다. 16일 방송된 채널A '요즘 육아 금쪽같은 내새끼'(이하 '금쪽같은')에서는 아기로 살아가는 난독증 초4 딸의 사연이 소개됐다. 금쪽이는 아]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘편스토랑’ 11승 류수영, 부모님 화환 자랑 “父, 내 요리 기가 막히다고” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001259136</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001259136</guid>
-            <pubDate>Fri, 16 Jun 2023 12:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[류수영이 판박이 미남 아버지를 공개하며 요리 실력 역시 아버지를 를 닮았음을 드러냈다. 16일 KBS2 예능 ‘신상출시 편스토랑’에선 류수영이 부모님이 보내주신 11승 기념 화환을 자랑했다. 11승을 기록하며 어남선]]></content:encoded>
+            <title><![CDATA['편스토랑' 이정현 여전사 포스 "한 번에 5가지 요리"→3살 연하 남편 최초 공개 [★밤TView] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003160364</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003160364</guid>
+            <pubDate>Fri, 16 Jun 2023 13:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[가수 겸 배우 이정현이 여전사 포스를 풍겼다. 16일 방송된 KBS 2TV 예능 프로그램 '신상출시 편스토랑'에는 이정현이 방송 최초로 남편을 공개했다. 이날 MC 이연복은 이정현의 등장에 "정말 안 변한다. 변함이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[류수영, 경영학과 교수 父 공개…훈훈 비주얼+동 대표 '판박이' (편스토랑) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001605555</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001605555</guid>
-            <pubDate>Fri, 16 Jun 2023 12:14:44 GMT</pubDate>
-            <content:encoded><![CDATA['편스토랑' 류수영이 아버지를 공개했다. 16일 방송된 KBS 2TV '신상출시 편스토랑'(이하 '편스토랑')에서는 아버지에 대한 이야기를 하는 류수영의 모습이 전파를 탔다. 이날 류수영은 '편스토랑' 11승 기념으]]></content:encoded>
+            <title><![CDATA[이천수, ‘전국노래자랑’서 마이크 잡은 사연 (살림남2)[채널예약] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000893848</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000893848</guid>
+            <pubDate>Fri, 16 Jun 2023 13:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[오는 17일 방송되는 KBS2 ‘살림하는 남자들 시즌2’(이하 ‘살림남’)에서는 이천수 어머니 박희야 여사의 ‘전국노래자랑’ 예심 도전기가 펼쳐진다. 이천수는 ‘가수 희야’로서 첫 스케줄이 잡힌 어머니를 위해 특급]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[TV 엿보기] '나 혼자 산다' 코쿤, 색소폰 도전…낙원상가서 악기 플렉스 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=119&amp;aid=0002722261</link>
-            <guid>https://entertain.naver.com/now/read?oid=119&amp;aid=0002722261</guid>
-            <pubDate>Fri, 16 Jun 2023 12:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[MBC ‘나 혼자 산다’ 코드 쿤스트가 뮤지션 코쿤으로 컴백(?)한다. 16일 오후 방송하는 MBC ‘나 혼자 산다’에서는 ‘낙원상가 큰손’으로 등극한 코드 쿤스트의 일상이 공개된다. 코드 쿤스트는 “팜유에게 베트남]]></content:encoded>
+            <title><![CDATA[강남 “3년간 대변 보고 물 안 내려, ♥이상화도 기겁”(금쪽상담소) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737398</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737398</guid>
+            <pubDate>Fri, 16 Jun 2023 13:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[강남이 어머니에게 거는 과한 장난이 충격을 안겼다. 6월 16일 방송된 채널A 예능프로그램 '오은영의 금쪽상담소'에서는 가수 강남과 어머니 권명숙 모자의 고민이 공개됐다. 이날 강남 어머니는 "아들이 좋게 말하면 철]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빅뱅 태양 ‘그냥 지나칠 수 없는 너무 귀여운 강아지’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737393</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737393</guid>
-            <pubDate>Fri, 16 Jun 2023 12:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[빅뱅(BIGBANG) 멤버 태양(TAEYANG)이 6월 16일 오후 인천 중구 운서동 인천국제공항 제 1여객터미널을 통해 2023 SEEN FESTIVAL IN HOI AN 일정 참석 차 베트남 다낭으로 출국하고 있]]></content:encoded>
+            <title><![CDATA[강남母 “강남, 3년째 큰 볼일 보고 변기 물 안 내려..이상화도 기겁해”(금쪽상담소) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000952921</link>
+            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000952921</guid>
+            <pubDate>Fri, 16 Jun 2023 13:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[강남의 어머니인 권명숙이 아들의 장난에 심경을 토로했다. 16일 방송된 채널A ‘오은영의 금쪽상담소’에는 가수 강남과 강남의 어머니 권명숙이 출연했다. 이날 권명숙은 강남이 철이 너무 없다고 힘들어했다. 그는 “태어]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빅뱅 태양 ‘하늘에 뜬 태양보다 더 강렬’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737392</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737392</guid>
-            <pubDate>Fri, 16 Jun 2023 12:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[빅뱅(BIGBANG) 멤버 태양(TAEYANG)이 6월 16일 오후 인천 중구 운서동 인천국제공항 제 1여객터미널을 통해 2023 SEEN FESTIVAL IN HOI AN 일정 참석 차 베트남 다낭으로 출국하고 있]]></content:encoded>
+            <title><![CDATA[‘금쪽같은’ 아기로 살아가는 난독증 초4딸...父 눈물 “나 닮아서, 딸에 미안” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001259137</link>
+            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001259137</guid>
+            <pubDate>Fri, 16 Jun 2023 13:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[난독증 초4 딸의 모습에 금쪽이 아빠가 딸에게 미안하다며 눈물을 쏟았다. 16일 채널A '요즘 육아-금쪽같은 내새끼'에서는 아기로 살아가는 난독증 초등학교 4학년 딸의 사연을 다뤘다. 11살 7살 자매를 둔 부부가]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오은영, 난독증 금쪽이 등장에 긴급 영상 중단 “길찾기도 어려워”(금쪽같은) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737391</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737391</guid>
-            <pubDate>Fri, 16 Jun 2023 12:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[오은영이 초등학교 4학년 금쪽이를 난독증이라고 진단했다. 6월 16일 방송된 채널A ‘요즘 육아-금쪽같은 내 새끼’에는 난독증 금쪽이가 출연했다. 금쪽이는 엄마와 함께 독서 토론 학원을 갔다. 책을 릴레이로 읽는 연]]></content:encoded>
+            <title><![CDATA[‘배틀트립2’ 뱀뱀X예인 VS 닉쿤X백호, 태국 여행 현지인 대결 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000893846</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000893846</guid>
+            <pubDate>Fri, 16 Jun 2023 13:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[‘배틀트립2’ 뱀뱀, 예인이 아이돌 혼성 여행팀을 결성한다. 오는 17일 방송되는 KBS2 ‘배틀트립2’는 ‘레벨업! 태국 여행 현지인 대결’로 꾸며지는 가운데 뱀뱀과 예인은 치앙마이, 치앙라이로, 닉쿤과 백호는 방]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[태양 ‘인사에서도 느껴지는 그의 완벽함’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737390</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737390</guid>
-            <pubDate>Fri, 16 Jun 2023 12:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[빅뱅(BIGBANG) 멤버 태양(TAEYANG)이 6월 16일 오후 인천 중구 운서동 인천국제공항 제 1여객터미널을 통해 2023 SEEN FESTIVAL IN HOI AN 일정 참석 차 베트남 다낭으로 출국하고 있]]></content:encoded>
+            <title><![CDATA[강남 母 “아들, 공항서 내 치마 지퍼 확 내렸다” 충격(금쪽상담소) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737397</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737397</guid>
+            <pubDate>Fri, 16 Jun 2023 13:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[강남 어머니가 아들의 어린 시절 '금쪽이' 일화를 공개했다. 6월 16일 방송된 채널A 예능프로그램 '오은영의 금쪽상담소'에서는 가수 강남과 어머니 권명숙 모자의 고민이 공개됐다. 강남은 오은영 박사에게 "제 편을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[11살 금쪽이 심각한 난독증, 유전이었다…父 "날 닮은 것 같아" 눈물 (금쪽같은)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001605553</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001605553</guid>
-            <pubDate>Fri, 16 Jun 2023 12:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[금쪽이의 아버지가 딸의 난독증에 눈물을 흘렸다. 16일 방송된 채널A '요즘 육아 금쪽같은 내새끼'(이하 '금쪽같은')에서는 아기로 살아가는 난독증 초4 딸의 사연이 소개됐다. 이날 사연자로 11살, 7살 자녀를 둔]]></content:encoded>
+            <title><![CDATA[강남, 어린 시절 짱구 실사판..."공항서 母 치마 지퍼 내리기도" (금쪽상담소) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001605580</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001605580</guid>
+            <pubDate>Fri, 16 Jun 2023 13:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[강남의 어린 시절 일화가 공개됐다. 16일 방송된 채널A '오은영의 금쪽상담소'에서는 강남과 권명숙 모자가 출연해 오은영 박사를 만났다. 강남의 어린 시절 별명은 짱구였다고. 패널들은 "사진만 봐도 장난꾸러기라는 것]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[안유진, 이은지 한강뷰 집에 감탄 "돈이 얼마나 있는 거야?" (지구오락실2) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001605552</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001605552</guid>
-            <pubDate>Fri, 16 Jun 2023 12:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[안유진이 이은지의 집에 감탄했다. 16일 방송된 tvN '뿅뿅 지구오락실2'에서는 지구 용사 4인방(이은지, 미미, 이영지, 안유진)이 이은지의 집에서 다시 모였다. 미미는 집들이 선물로 각종 생활용품 세트를 선물했]]></content:encoded>
+            <title><![CDATA[박나래 "강남이 심한 말썽꾸러기? 어린 시절 '벨튀'는 기본" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006871259</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006871259</guid>
+            <pubDate>Fri, 16 Jun 2023 13:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[개그우먼 박나래가 가수 강남 못지않은 말썽꾸러기였다고 회상했다. 16일 오후 방송된 채널A 예능 프로그램 '오은영의 금쪽 상담소'에서는 강남과 그의 어머니가 게스트로 출연해 고민을 털어놨다. 이날 MC들은 "강남의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[태양 ‘여주의 아들 매니저형과 토크 타임’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737389</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737389</guid>
-            <pubDate>Fri, 16 Jun 2023 12:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[빅뱅(BIGBANG) 멤버 태양(TAEYANG)이 6월 16일 오후 인천 중구 운서동 인천국제공항 제 1여객터미널을 통해 2023 SEEN FESTIVAL IN HOI AN 일정 참석 차 베트남 다낭으로 출국하고 있]]></content:encoded>
+            <title><![CDATA[이영지, 랜덤 플레이 댄스 게임서 ‘괄괄댄스’로 용돈 획득(지구오락실2) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000893845</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000893845</guid>
+            <pubDate>Fri, 16 Jun 2023 13:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[‘뿅뿅 지구오락실2’의 이영지가 ‘괄괄댄스’로 용돈을 사수했다. 16일 방송된 tvN 예능 ‘뿅뿅 지구오락실2’에서는 발리로 떠나 사용할 용돈을 걸고 아이돌 랜덤 플레이 댄스 게임이 펼쳐졌다. ‘오마이걸’의 ‘Dun]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[류수영, 선남선녀 부모님 공개‥교수 父 동대표+사랑꾼 DNA 똑닮았네(편스토랑) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737388</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737388</guid>
-            <pubDate>Fri, 16 Jun 2023 12:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[류수영이 선남선녀의 부모님을 공개했다. 6월 16일 방송된 KBS 2TV 예능 '신상출시 편스토랑'(이하 '편스토랑') 180회에서는 류수영이 본인과 똑닮은 아버지를 공개했다. 이날 류수영은 커다란 화분과 함께 등장]]></content:encoded>
+            <title><![CDATA[강남 “♥이상화에 엄청 혼나고 참아…할 얘기 많다” 답답(금쪽상담소) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737396</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737396</guid>
+            <pubDate>Fri, 16 Jun 2023 13:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[강남이 아내 이상화에게 많이 혼나고 있다고 털어놨다. 6월 16일 방송된 채널A 예능프로그램 '오은영의 금쪽상담소'에서는 가수 강남과 어머니 권명숙 모자의 고민이 공개됐다. 강남은 오은영 박사에게 "제 편을 많이 들]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[류수영, 경영학과 교수 父 공개 “외모에 동대표까지 판박이”(편스토랑) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000952912</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000952912</guid>
-            <pubDate>Fri, 16 Jun 2023 12:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[출처| KBS2 류수영이 판박이 아버지를 공개했다. 16일 방송된 KBS2 ‘신상출시 편스토랑’에 류수영이 출연했다. 이날 류수영은 외모뿐 아니라 성격까지 판박이인 아버지를 공개했다. 요리 시작 전 인터뷰에서 류수영]]></content:encoded>
+            <title><![CDATA[배우 김희정, ‘오랫동안 당신을 기다렸습니다’ 피장미 역출연[공식] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000893844</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000893844</guid>
+            <pubDate>Fri, 16 Jun 2023 13:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[배우 김희정이 ‘오랫동안 당신을 기다렸습니다’에 합류, 연기 변신을 꾀한다. 김희정의 소속사 인연엔터테인먼트 측은 16일 “김희정이 ENA 새 수목드라마 ‘오랫동안 당신을 기다렸습니다’의 ‘피장미’ 역으로 출연을 확]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[권상우♥손태영 딸, 기럭지·패션까지 母랑 붕어빵 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0011918852</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0011918852</guid>
-            <pubDate>Fri, 16 Jun 2023 12:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[배우 손태영이 딸과 함께 한 뉴욕일상을 전했다. 손태영은 16일 소셜미디어에 "선물"이라고 적으며 딸과 함께 거리를 걷고, 지인과 쇼핑을 하는 모습이 담긴 여러 장의 사진을 올렸다. 손태영은 딸과 검정색의 긴 원피스]]></content:encoded>
+            <title><![CDATA[‘풀어파일러3’ 메인 포스터 공개···서장훈 “조금 더 단단한 팀워크” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000893843</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000893843</guid>
+            <pubDate>Fri, 16 Jun 2023 13:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[크라임 퀴즈쇼 ‘풀어파일러3’ (이하 ‘풀어파일러3’)가 오는 29일 첫 방송을 확정하며 강렬한 모습을 담은 메인 포스터를 공개해 기대감을 고조시키고 있다. 16일 공개된 포스터는 극악 무도한 범죄자들의 심리를 낱낱]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[류수영, 경영학과 교수 출신 父 공개…"젊었을 땐 나보다 훨씬 잘생겨" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006871161</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006871161</guid>
-            <pubDate>Fri, 16 Jun 2023 12:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[배우 류수영이 경영학과 교수 출신 아버지를 공개했다. 16일 오후 방송된 KBS 2TV 예능 프로그램 '신상출시 편스토랑'에서는 류수영이 새로운 레시피를 공개하기 전 화환을 자랑해 궁금증을 유발했다. 그는 거실에 있]]></content:encoded>
+            <title><![CDATA['지락실2' 이영지, 이은지 한강뷰 집에 "칠천 번다고?" 깜짝 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003160362</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003160362</guid>
+            <pubDate>Fri, 16 Jun 2023 13:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[이영지가 이은지의 집에 감탄했다. 16일 방송된 tvN 예능 프로그램 '뿅뿅 지구오락실2' 6회에서는 지구 용사 4인방(이은지, 미미, 이영지, 안유진)이 이은지의 집에서 홈파티를 즐기는 모습이 그려졌다. 이날 방송]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['편스토랑' 엔하이픈 성훈, 피겨선수 출신 "인기 많았다" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003160357</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003160357</guid>
-            <pubDate>Fri, 16 Jun 2023 12:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 엔하이픈 성훈이 피겨스케이팅 국가대표 상비군 출신이라고 밝혔다. 16일 방송된 KBS 2TV 예능 프로그램 '신상출시 편스토랑'에는 엔하이픈 성훈이 스페셜 MC로 출연했다. 이날 MC 붐은 "처음 오신 분이 있]]></content:encoded>
+            <title><![CDATA[“순한 정해인 느낌” 이정현, ♥3살 연하 의사 남편 최초 공개(편스토랑) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000952919</link>
+            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000952919</guid>
+            <pubDate>Fri, 16 Jun 2023 13:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[출처| KBS2 이정현이 3살 연하의 의사 남편을 최초로 공개했다. 16일 방송된 KBS2 ‘신상출시 편스토랑’에 배우 이정현이 스폐셜 세프로 등장했다. 오랜만에 편스토랑 인터뷰에 나선 이정현은 “장 보러 전통시장에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빅뱅 태양 ‘태양이 태양을 가리는 방법’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737387</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737387</guid>
-            <pubDate>Fri, 16 Jun 2023 12:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[빅뱅(BIGBANG) 멤버 태양(TAEYANG)이 6월 16일 오후 인천 중구 운서동 인천국제공항 제 1여객터미널을 통해 2023 SEEN FESTIVAL IN HOI AN 일정 참석 차 베트남 다낭으로 출국하고 있]]></content:encoded>
+            <title><![CDATA['편스토랑' 류수영, 택시 기사로 변신..돼지불백 한상차림 공개 [별별TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003160361</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003160361</guid>
+            <pubDate>Fri, 16 Jun 2023 13:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[배우 류수영이 택시 기사로 변신했다. 16일 방송된 KBS 2TV 예능 프로그램 '신상출시 편스토랑'에는 류수영이 기사식당 대표 메뉴 돼지불백 만들기에 도전했다. 이날 류수영은 노란색 셔츠를 입고 선글라스를 착용하고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빅뱅 태양 ‘분위기에서 느껴지는 포스’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737386</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737386</guid>
-            <pubDate>Fri, 16 Jun 2023 12:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[빅뱅(BIGBANG) 멤버 태양(TAEYANG)이 6월 16일 오후 인천 중구 운서동 인천국제공항 제 1여객터미널을 통해 2023 SEEN FESTIVAL IN HOI AN 일정 참석 차 베트남 다낭으로 출국하고 있]]></content:encoded>
+            <title><![CDATA[이정현, 정해인 닮은 3세 연하 의사 남편 공개‥부부가 나란히 동안(편스) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737395</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737395</guid>
+            <pubDate>Fri, 16 Jun 2023 13:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[가수 겸 배우 이정현이 남편을 최초 공개했다. 6월 16일 방송된 KBS 2TV 예능 '신상출시 편스토랑'(이하 '편스토랑') 180회에서는 엄마가 된 이정현의 일상이 공개됐다. 이날 남편과 나란히 침대에 누워 자다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신고은, 영혼 뒤바뀐 사실 알고 최윤영에게 “이선호와 헤어져”(비밀의 여자)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000893836</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000893836</guid>
-            <pubDate>Fri, 16 Jun 2023 12:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[‘비밀의 여자’ 신고은이 잃어버린 기억을 되찾고 최윤영과 영혼이 뒤바뀐 것을 안 뒤, 최윤영에게 이선호와 헤어지라고 요구했다. 오세린(최윤영 분)은 16일 방송된 KBS2 드라마 ‘비밀의 여자’에서 정겨울(신고은 분]]></content:encoded>
+            <title><![CDATA[이정현, '의사 남편' 박유정 공개했다…"정해인 닮은 훈남" 깜짝 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0006871234</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0006871234</guid>
+            <pubDate>Fri, 16 Jun 2023 13:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[이정현 남편이 공개됐다. 16일 오후 방송된 KBS 2TV 예능 프로그램 '신상출시 편스토랑'에서는 가수 겸 배우 이정현이 오랜만에 컴백했다. 이정현은 시청자들에게 반가운 인사를 건넸다. 그러면서 "그 사이에 제가]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“역대급 센세이션 판타지 멜로”...‘아씨 두리안’ 임성한 작가 온다 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005145190</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005145190</guid>
-            <pubDate>Fri, 16 Jun 2023 12:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[‘아씨 두리안’이 역대급 ‘판타지 멜로 드라마’ 등극을 예고하는 ‘기대 포인트’ 세 가지를 공개했다. 오는 24일 첫 방송될 TV CHOSUN 새 주말미니시리즈 ‘아씨 두리안’(극본 피비(Phoebe, 임성한), 연]]></content:encoded>
+            <title><![CDATA[‘훅 까놓고 말해서’ 변호사 한문철, 인생의 훅 “징징대지 말자” 노래 최초 공개 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000893842</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000893842</guid>
+            <pubDate>Fri, 16 Jun 2023 13:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[첫 방송부터 ‘훅까말’이 막강한 지원자 라인업을 자랑한다. 오는 17일 오후 6시 25분 첫 방송되는 MBC 새 예능 파일럿 ‘훅 까놓고 말해서’(기획 김영진 / 연출 권락희, 이신지, 이하 ‘훅까말’) 1회에서는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빅뱅 태양 ‘걷기만 해도 저절로 빛이 번쩍’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737385</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737385</guid>
-            <pubDate>Fri, 16 Jun 2023 12:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[빅뱅(BIGBANG) 멤버 태양(TAEYANG)이 6월 16일 오후 인천 중구 운서동 인천국제공항 제 1여객터미널을 통해 2023 SEEN FESTIVAL IN HOI AN 일정 참석 차 베트남 다낭으로 출국하고 있]]></content:encoded>
+            <title><![CDATA['의사♥' 이정현, 43세에 얻은 딸 '애틋'…밤샘 촬영에도 이유식은 직접 (편스토랑)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001605572</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001605572</guid>
+            <pubDate>Fri, 16 Jun 2023 13:12:38 GMT</pubDate>
+            <content:encoded><![CDATA['편스토랑' 이정현이 딸에 대한 애정을 드러냈다. 16일 방송된 KBS 2TV '신상출시 편스토랑'(이하 '편스토랑')에서는 스페셜 MC로는 산다라박이 출연했다. 산다라박은 "나름 미식가다"며 자부심을 드러냈다. 이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘심플리케이팝’ 커맨더맨(CMDM), 청량 지수 200% 신곡 ‘얼레리꼴레리 (Already go ready)’ 무대 선사 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000893834</link>
-            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000893834</guid>
-            <pubDate>Fri, 16 Jun 2023 12:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[아이돌그룹 커맨더맨(CMDM)이 ‘완성형 신인’다운 존재감을 뽐냈다. 커맨더맨(병훈, 현하, 준형, 희주, 노율, 승호)은 오후 유튜브 채널 ARIRANG K-POP에서 방송된 ‘심플리케이팝’에서 데뷔 싱글 ‘BAC]]></content:encoded>
+            <title><![CDATA[‘지구오락실2’ 아이돌 분장 선택권을 건 콜백 게임의 승자는? (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000893841</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000893841</guid>
+            <pubDate>Fri, 16 Jun 2023 13:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[‘뿅뿅 지구오락실2’의 이은지, ‘오마이걸’ 미미, 이영지, ‘아이브’ 안유진이 분장 선택권을 걸고 콜백 게임에 나섰다. 16일 방송된 tvN 예능 ‘뿅뿅 지구오락실2’에서는 코미디언 이은지의 집들이를 하는 모습이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빅뱅 태양 ‘선글라스 뚫고 나오는 카리스마’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737384</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737384</guid>
-            <pubDate>Fri, 16 Jun 2023 12:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[빅뱅(BIGBANG) 멤버 태양(TAEYANG)이 6월 16일 오후 인천 중구 운서동 인천국제공항 제 1여객터미널을 통해 2023 SEEN FESTIVAL IN HOI AN 일정 참석 차 베트남 다낭으로 출국하고 있]]></content:encoded>
+            <title><![CDATA[미미·이영지·안유진, 이은지 '한강뷰 하우스'에 감탄..."자본주의 노예 됐다" (지구오락실2)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001605568</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001605568</guid>
+            <pubDate>Fri, 16 Jun 2023 13:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[미미, 이영지, 안유진이 이은지의 한강 뷰 하우스에 감탄했다. 16일 방송된 tvN '뿅뿅 지구오락실2'에서는 지구 용사 4인방(이은지, 미미, 이영지, 안유진)이 이은지의 집에서 다시 모였다. 나PD와 스태프들이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[장영란 “아들이 누나 가슴 왜 때리면 안되냐 물어” 남매 성교육 고민(금쪽같은) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737383</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737383</guid>
-            <pubDate>Fri, 16 Jun 2023 12:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[장영란이 자녀 성교육에 대해 고민했다. 6월 16일 방송된 채널A ‘요즘 육아-금쪽같은 내 새끼’에서는 남매를 키우고 있는 장영란의 고민이 공개 됐다. 이날 방송에서 장영란은 ‘A급 육아 비법’ 코너를 통해 자녀의]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[장영란, 매니저가 직접 밝힌 미담 “직원 월급 인상+부모님 병원도 모셔다드려”(A급장영란) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000952899</link>
-            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000952899</guid>
-            <pubDate>Fri, 16 Jun 2023 12:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[장영란이 매니저와 돈독한 관계를 자랑했다. 16일 ‘A급 장영란’에는 ‘평범했던 장영란이 초미녀로 변신하는 방법(청담메이크업 꿀팁,성형화장)’이라는 제목의 영상이 게재됐다. 이날 장영란은 민얼굴로 카메라 앞에 섰다.]]></content:encoded>
+            <title><![CDATA[‘의사♥’ 이정현, 43세에 얻은 딸 너무 소중 “이유식 다 직접 해먹여”(편스토랑) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737394</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000737394</guid>
+            <pubDate>Fri, 16 Jun 2023 13:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[이정현이 놀라운 딸사랑을 드러냈다. 6월 16일 방송된 KBS 2TV 예능 '신상출시 편스토랑'(이하 '편스토랑') 180회에서는 엄마가 된 이정현의 일상이 공개됐다. 이날 남편과 나란히 침대에 누워서 자다가 알람소]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘비밀의 여자’ 신고은, 이채영 이간질에 속았다...“내가 정겨울” (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
             <link>https://entertain.naver.com/now/read?oid=410&amp;aid=0000944164</link>
             <guid>https://entertain.naver.com/now/read?oid=410&amp;aid=0000944164</guid>
             <pubDate>Fri, 16 Jun 2023 12:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[‘비밀의 여자’ 신고은이 영혼 뒤바뀐 사실 알고 최윤영에게 분노했다. 16일 방송된 KBS2 ‘비밀의 여자’에서는 주애라(이채영 분)이 정겨울(최윤영 분)을 모함하는 모습이 그려졌다. 주애라는 오세린(신고은 분)이]]></content:encoded>
+            <content:encoded><![CDATA[‘비밀의 여자’ 신고은이 영혼 뒤바뀐 사실 알고 최윤영에게 분노했다. 16일 방송된 KBS2 ‘비밀의 여자’에서는 주애라(이채영 분)가 정겨울(최윤영 분)을 모함하는 모습이 그려졌다. 주애라는 오세린(신고은 분)이]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['부모님 말이 법' 이도현 "학창시절, PC방도 못가봐…무조건 10시 전에 귀가"[인터뷰④] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
@@ -1902,6 +1902,97 @@
             <content:encoded><![CDATA[고규필(왼쪽) 에이민[이데일리 스타in 김가영 기자] 배우 고규필이 싱어송라이터 민수연과 열애 중이다. 16일 고규필 소속사 빅보스엔터테인먼트 측 관계자는 이데일리에 “민수연 씨와 열애 중이 맞다”고 전했다. 두 사람은 오래 알고 지내다 연인으로 발전한 것으로 알려졌다. 고규핀은 1993년 영화 ‘키드캅’으로 데뷔해 드라마 ‘38사기동대’, ‘라이프 온]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['편스토랑' 이정현 여전사 포스 "한 번에 5가지 요리"→3살 연하 남편 최초 공개 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230616220525425</link>
+            <guid>https://v.daum.net/v/20230616220525425</guid>
+            <pubDate>Fri, 16 Jun 2023 13:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 이빛나리 기자] /사진='신상출시 편스토랑' 방송화면가수 겸 배우 이정현이 여전사 포스를 풍겼다. 16일 방송된 KBS 2TV 예능 프로그램 '신상출시 편스토랑'에는 이정현이 방송 최초로 남편을 공개했다. 이날 MC 이연복은 이정현의 등장에 "정말 안 변한다. 변함이 없어"라며 감탄했다. 이정현은 "제가 출산을 했다. 임신 준비하면서 걱정]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[외로움에 가상친구 만든 난독증 초4 금쪽이, 온 집안 낙서한 이유 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230616220503416</link>
+            <guid>https://v.daum.net/v/20230616220503416</guid>
+            <pubDate>Fri, 16 Jun 2023 13:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 오은영이 집 전체에 그림을 그린 초등학교 4학년 금쪽이의 행동을 부석했다. 6월 16일 방송된 채널A ‘요즘 육아-금쪽같은 내 새끼’에는 난독증 초등학교 4학년 금쪽이의 사연이 공개 됐다. 이날 공개된 영상에서 금쪽이 집에는 거실과 방 벽은 물론 가전제품에도 낙서가 가득했다. 집 낙서의 90% 이상은 금쪽이가 그린 것이었다. 금]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오은영 "인형놀이는 그만, 금쪽이 난독증보다 母 과보호가 더 심각" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230616220317385</link>
+            <guid>https://v.daum.net/v/20230616220317385</guid>
+            <pubDate>Fri, 16 Jun 2023 13:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 황수연 기자) 오은영 박사 금쪽이의 난독증보다 어머니의 과보호가 더 심각하다고 진단했다.&nbsp; 16일 방송된 채널A '요즘 육아 금쪽같은 내새끼'(이하 '금쪽같은')에서는 아기로 살아가는 난독증 초4 딸의 사연이 소개됐다. 금쪽이는 아버지의 유전으로 심각한 난독증을 겪고 있는 가운데 영상에서는 금쪽이 어머니가 11살 딸을 신생아를 대하듯 하는 모]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[정형돈 "강남, 모친에 대한 학대" 쓴소리로 일침한 사연? (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230616220004278</link>
+            <guid>https://v.daum.net/v/20230616220004278</guid>
+            <pubDate>Fri, 16 Jun 2023 13:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김수형 기자]'오은영의 금쪽 상담소'에서 정형돈이 강남의 과한 장난에 일침했다.&nbsp; 16일 방송된 채널A 예능 '오은영의 금쪽 상담소'가 전파를 탔다.&nbsp; 이날 주인공을 소개,바로 강남과 강남의 모친이었다.&nbsp; 모친은 36세인 아들 강남. 결혼해도 철이 들지 않는다는 고민이었다. 말을 안 듣는다는 것. 모친은 과거 강남의 별명이 ‘짱구’였다며 장난]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[강남 “3년간 대변 보고 물 안 내려, ♥이상화도 기겁” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230616215708184</link>
+            <guid>https://v.daum.net/v/20230616215708184</guid>
+            <pubDate>Fri, 16 Jun 2023 13:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 김명미 기자] 강남이 어머니에게 거는 과한 장난이 충격을 안겼다. 6월 16일 방송된 채널A 예능프로그램 '오은영의 금쪽상담소'에서는 가수 강남과 어머니 권명숙 모자의 고민이 공개됐다. 이날 강남 어머니는 "아들이 좋게 말하면 철이 안 들었다"며 아들의 과한 장난을 언급했다. 이에 강남은 "역효과다. 엄마가 나를 이렇게 만들었다. 엄마가 어른스럽]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[강남, 어린 시절 짱구 실사판..."공항서 母 치마 지퍼 내리기도" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230616215024037</link>
+            <guid>https://v.daum.net/v/20230616215024037</guid>
+            <pubDate>Fri, 16 Jun 2023 13:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 노수린 기자) 강남의 어린 시절 일화가 공개됐다. 16일 방송된 채널A '오은영의 금쪽상담소'에서는 강남과 권명숙 모자가 출연해 오은영 박사를 만났다. 강남의 어린 시절 별명은 짱구였다고. 패널들은 "사진만 봐도 장난꾸러기라는 것이 느껴진다"고 입을 모았다. 강남의 엄마 권명숙은 "태어날 때부터 말썽꾸러기였다. 이틀 간의 진통 끝에 아이를 낳]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[강남 母 “아들, 공항서 내 치마 지퍼 확 내렸다” 충격 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230616215010034</link>
+            <guid>https://v.daum.net/v/20230616215010034</guid>
+            <pubDate>Fri, 16 Jun 2023 13:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 김명미 기자] 강남 어머니가 아들의 어린 시절 '금쪽이' 일화를 공개했다. 6월 16일 방송된 채널A 예능프로그램 '오은영의 금쪽상담소'에서는 가수 강남과 어머니 권명숙 모자의 고민이 공개됐다. 강남은 오은영 박사에게 "제 편을 많이 들어달라. 할 얘기가 많다"며 본인을 어필했다. 이에 지지 않고 어머니는 "강남은 태어날 때부터 말썽 피웠다"고]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[강남 “♥이상화에 엄청 혼나고 참아…할 얘기 많다” 답답 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230616214512923</link>
+            <guid>https://v.daum.net/v/20230616214512923</guid>
+            <pubDate>Fri, 16 Jun 2023 13:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 김명미 기자] 강남이 아내 이상화에게 많이 혼나고 있다고 털어놨다. 6월 16일 방송된 채널A 예능프로그램 '오은영의 금쪽상담소'에서는 가수 강남과 어머니 권명숙 모자의 고민이 공개됐다. 강남은 오은영 박사에게 "제 편을 많이 들어달라. 할 얘기가 많다"며 본인을 어필했다. 이에 지지 않고 어머니 권명숙은 "강남은 태어날 때부터 말썽 피웠다"고]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['지락실2' 이영지, 이은지 한강뷰 집에 "칠천 번다고?" 깜짝 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230616214010838</link>
+            <guid>https://v.daum.net/v/20230616214010838</guid>
+            <pubDate>Fri, 16 Jun 2023 13:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 김지은 인턴기자] /사진='지구오락실2' 화면 캡처이영지가 이은지의 집에 감탄했다. 16일 방송된 tvN 예능 프로그램 '뿅뿅 지구오락실2' 6회에서는 지구 용사 4인방(이은지, 미미, 이영지, 안유진)이 이은지의 집에서 홈파티를 즐기는 모습이 그려졌다. 이날 방송에서 미미는 집들이 선물로 이은지에 각종 생활용품 세트를 선물했다. 거실에서]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['편스토랑' 류수영, 택시 기사로 변신..돼지불백 한상차림 공개 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230616214008835</link>
+            <guid>https://v.daum.net/v/20230616214008835</guid>
+            <pubDate>Fri, 16 Jun 2023 13:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 이빛나리 기자] /사진='신상출시 편스토랑' 방송화면배우 류수영이 택시 기사로 변신했다. 16일 방송된 KBS 2TV 예능 프로그램 '신상출시 편스토랑'에는 류수영이 기사식당 대표 메뉴 돼지불백 만들기에 도전했다. 이날 류수영은 노란색 셔츠를 입고 선글라스를 착용하고 등장했다. 택시 기사로 변신한 류수영은 "오늘 소개할 메뉴는 바로 기사식]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이정현, 정해인 닮은 3세 연하 의사 남편 공개‥부부가 나란히 동안 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230616213801794</link>
+            <guid>https://v.daum.net/v/20230616213801794</guid>
+            <pubDate>Fri, 16 Jun 2023 13:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 가수 겸 배우 이정현이 남편을 최초 공개했다. 6월 16일 방송된 KBS 2TV 예능 '신상출시 편스토랑'(이하 '편스토랑') 180회에서는 엄마가 된 이정현의 일상이 공개됐다. 이날 남편과 나란히 침대에 누워 자다가 알람소리가 들리자마자 벌떡 일어난 이정현은 곧장 부엌으로 들어갔다. 일단 딸 서아의 이유식부터 꺼내 먹인 이정현]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미미·이영지·안유진, 이은지 '한강뷰 하우스'에 감탄..."자본주의 노예 됐다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230616213057645</link>
+            <guid>https://v.daum.net/v/20230616213057645</guid>
+            <pubDate>Fri, 16 Jun 2023 13:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 노수린 기자) 미미, 이영지, 안유진이 이은지의 한강 뷰 하우스에 감탄했다. 16일 방송된 tvN '뿅뿅 지구오락실2'에서는 지구 용사 4인방(이은지, 미미, 이영지, 안유진)이 이은지의 집에서 다시 모였다. 나PD와 스태프들이 이은지의 집을 찾았다. 이은지는 "유진이한테 전화가 왔다. '커피 머신 있냐'고 묻길래 있다고 했더니 '왜 있냐'고]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘의사♥’ 이정현, 43세에 얻은 딸 너무 소중 “이유식 다 직접 해먹여” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20230616212352504</link>
+            <guid>https://v.daum.net/v/20230616212352504</guid>
+            <pubDate>Fri, 16 Jun 2023 13:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 이정현이 놀라운 딸사랑을 드러냈다. 6월 16일 방송된 KBS 2TV 예능 '신상출시 편스토랑'(이하 '편스토랑') 180회에서는 엄마가 된 이정현의 일상이 공개됐다. 이날 남편과 나란히 침대에 누워서 자다가 알람소리가 들리자마자 벌떡 일어난 이정현은 곧장 부엌으로 들어갔다. 이는 딸 서아의 이유식을 준비하기 위해서. 이정현은]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[“한강뷰+필라테스 방까지” 이은지, NEW하우스 집들이… 돈이 얼마나 많은거야? (다음 연예 ─ 뉴스 ─ 예능)]]></title>
             <link>https://v.daum.net/v/20230616210307097</link>
             <guid>https://v.daum.net/v/20230616210307097</guid>
@@ -1916,115 +2007,24 @@
             <content:encoded><![CDATA[MBC ‘나 혼자 산다’ 코드 쿤스트가 뮤지션 코쿤으로 컴백(?)한다. 16일 오후 방송하는 MBC ‘나 혼자 산다’에서는 ‘낙원상가 큰손’으로 등극한 코드 쿤스트의 일상이 공개된다. 코드 쿤스트는 “팜유에게 베트남 같은 곳”이라며 낙원상가로 향한다. 악기의 천국인 낙원상가에서 동심(?)이 폭발한 코드 쿤스트의 천진난만한 미소가 눈길을 모은다. 코드 쿤스트]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[류수영, 경영학과 교수 父 공개…훈훈 비주얼+동 대표 '판박이' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230616210142054</link>
-            <guid>https://v.daum.net/v/20230616210142054</guid>
-            <pubDate>Fri, 16 Jun 2023 12:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이나영 기자) '편스토랑' 류수영이 아버지를 공개했다.&nbsp; 16일 방송된 KBS 2TV '신상출시 편스토랑'(이하 '편스토랑')에서는 아버지에 대한 이야기를 하는 류수영의 모습이 전파를 탔다. 이날 류수영은 '편스토랑' 11승 기념으로 부모님이 보내주신 화환을 자랑하기도 했다. 아버지는 류수영만큼이나 훤칠한 미모를 보여줘 감탄을 자아냈다. 류수]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[급기야 오은영 경악.."엄마가 딸에 인형놀이하고 있어" 불편 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230616210109047</link>
-            <guid>https://v.daum.net/v/20230616210109047</guid>
-            <pubDate>Fri, 16 Jun 2023 12:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김수형 기자] &nbsp;‘오은영의 금쪽같은 내 새끼'에서 난독증인 금쪽이가 등장, 모친은 고학년 딸을 마치 아기처럼 대하기도 했다.&nbsp;&nbsp; 16일 방송된 채널A 예능 '오은영의 금쪽 같은 내새끼'가 금쪽이 부모가 출연, 금쪽이는 11세 첫째였다.&nbsp;금쪽이 일상을 들여다봤다.&nbsp; 학교에서 돌아온 금쪽이. 온 벽이 낙서되어 있음에도 또 다시 벽에 그림을 그리겠]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[오은영, 난독증 금쪽이 등장에 긴급 영상 중단 “길찾기도 어려워” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230616205742993</link>
-            <guid>https://v.daum.net/v/20230616205742993</guid>
-            <pubDate>Fri, 16 Jun 2023 12:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 오은영이 초등학교 4학년 금쪽이를 난독증이라고 진단했다. 6월 16일 방송된 채널A ‘요즘 육아-금쪽같은 내 새끼’에는 난독증 금쪽이가 출연했다. 금쪽이는 엄마와 함께 독서 토론 학원을 갔다. 책을 릴레이로 읽는 연습을 시작한 후 다른 친구들은 자신 있게 읽었지만 금쪽이는 단어를 틀리거나 한 문장을 통째로 건너뛰는 등 간단한 문]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['우결' PD, 연애 리얼리티 '학연' 선보인다…참가자 접수중 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230616205718988</link>
-            <guid>https://v.daum.net/v/20230616205718988</guid>
-            <pubDate>Fri, 16 Jun 2023 12:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] MBC가 새로운 연애 리얼리티 '학연'의 하반기 편성을 확정지었다. 16일 MBC는 "올 가을 '학연'이 시청자들의 마음을 설레게 할 예정이다"라고 밝혔다. '학연'은 학창시절의 친구가 연인이 되는 솔로 동창회. 누구에게나 있는 학창시절의 추억,&nbsp;그 시절의 풋풋함,&nbsp;그리고 과거를 뛰어넘어 현재로 연결될 사랑을 찾아보는 콘셉트로]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[11살 금쪽이 심각한 난독증, 유전이었다…父 "날 닮은 것 같아" 눈물 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230616205643959</link>
-            <guid>https://v.daum.net/v/20230616205643959</guid>
-            <pubDate>Fri, 16 Jun 2023 12:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 황수연 기자) 금쪽이의 아버지가 딸의 난독증에 눈물을 흘렸다. 16일 방송된 채널A '요즘 육아 금쪽같은 내새끼'(이하 '금쪽같은')에서는 아기로 살아가는 난독증 초4 딸의 사연이 소개됐다. 이날 사연자로 11살, 7살 자녀를 둔 부부가 등장했다. 금쪽이 어머니는 "딸이 학교생활을 힘들어해서 전학을 보내야 하는지 홈스쿨링을 해야 하는지 고민하]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[안유진, 이은지 한강뷰 집에 감탄 "돈이 얼마나 있는 거야?" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230616205639957</link>
-            <guid>https://v.daum.net/v/20230616205639957</guid>
-            <pubDate>Fri, 16 Jun 2023 12:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 노수린 기자) 안유진이 이은지의 집에 감탄했다. 16일 방송된 tvN '뿅뿅 지구오락실2'에서는 지구 용사 4인방(이은지, 미미, 이영지, 안유진)이 이은지의 집에서 다시 모였다. 미미는 집들이 선물로 각종 생활용품 세트를 선물했다. 이영지는 "집이 왜 이렇게 좋냐. 출세했냐"고 감탄하며 "월세가 얼마냐"고 부러워했다. 마지막 손님으로 도착한]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[류수영, 선남선녀 부모님 공개‥교수 父 동대표+사랑꾼 DNA 똑닮았네 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230616205443913</link>
-            <guid>https://v.daum.net/v/20230616205443913</guid>
-            <pubDate>Fri, 16 Jun 2023 12:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 류수영이 선남선녀의 부모님을 공개했다. 6월 16일 방송된 KBS 2TV 예능 '신상출시 편스토랑'(이하 '편스토랑') 180회에서는 류수영이 본인과 똑닮은 아버지를 공개했다. 이날 류수영은 커다란 화분과 함께 등장했다. "부모님이 보내주신 11승 기념 화환"이라고. 류수영은 "감사합니다 어머니 아버지"라고 방송을 통해 다시 한]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['편스토랑' 엔하이픈 성훈, 피겨선수 출신 "인기 많았다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230616205107859</link>
-            <guid>https://v.daum.net/v/20230616205107859</guid>
-            <pubDate>Fri, 16 Jun 2023 12:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 이빛나리 기자] /사진='신상출시 편스토랑' 방송화면그룹 엔하이픈 성훈이 피겨스케이팅 국가대표 상비군 출신이라고 밝혔다. 16일 방송된 KBS 2TV 예능 프로그램 '신상출시 편스토랑'에는 엔하이픈 성훈이 스페셜 MC로 출연했다. 이날 MC 붐은 "처음 오신 분이 있다. 데뷔 후 최단기간에 두 개의 앨범을 밀리언 셀러에 등극한 월드 스타다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[오은영, '긴급' 모니터 도중 STOP "문제가 많다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230616203911631</link>
-            <guid>https://v.daum.net/v/20230616203911631</guid>
-            <pubDate>Fri, 16 Jun 2023 12:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김수형 기자] &nbsp;‘오은영의 금쪽같은 내 새끼'에서 난독증을 보이는 금쪽이가 출연했다.&nbsp; 16일 방송된 채널A 예능 '오은영의 금쪽 같은 내새끼'가 전파를 탔다. 금쪽이 부모가 출연, 금쪽이는 11세 첫째였다. 학교생활이 힘들어 전학 혹은 홈스쿨링을 할지 고민이라고 했다.조언을 듣고 싶다는 것.&nbsp;&nbsp;독서교육을 하는 금쪽이. 초등학교 4학년임에도]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['런닝맨' 양세찬x전소민x덱스, 핑크빛 무드 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230616203130493</link>
-            <guid>https://v.daum.net/v/20230616203130493</guid>
-            <pubDate>Fri, 16 Jun 2023 12:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김보라 기자] 전소민과 이루어질 짝은 누구일까. 18일 방송되는 SBS 예능 ‘런닝맨’에서는 ‘나는 솔로지옥’의 최종 선택이 공개된다. 지난주 방송은 ‘예능 솔로’ 일번지를 찾아온 멤버들과 게스트 이세희, 한지은, 덱스가 예능 짝꿍을 찾는 나는 솔로지옥 레이스로 꾸며져 화제를 모은 바 있다. 온라인상에서 시청자들도 "양세찬 전소민 둘이 잘 맞]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[장영란 “아들이 누나 가슴 왜 때리면 안되냐 물어” 남매 성교육 고민 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230616202801411</link>
-            <guid>https://v.daum.net/v/20230616202801411</guid>
-            <pubDate>Fri, 16 Jun 2023 12:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 장영란이 자녀 성교육에 대해 고민했다. 6월 16일 방송된 채널A ‘요즘 육아-금쪽같은 내 새끼’에서는 남매를 키우고 있는 장영란의 고민이 공개 됐다. 이날 방송에서 장영란은 ‘A급 육아 비법’ 코너를 통해 자녀의 성교육에 대해 질문했다. 장영란은 “저도 예전에 배워서 아이들 같이 목욕도 안 시키고, 시키더라도 속옷을 입히고 하]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[장영란 "아들, 누나 가슴 때리지 말라니까 '왜?'라고 물어" 고민 상담 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230616202315305</link>
-            <guid>https://v.daum.net/v/20230616202315305</guid>
-            <pubDate>Fri, 16 Jun 2023 12:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 황수연 기자) 장영란이 성교육을 주제로 자녀들의 고민을 상담했다.&nbsp; 16일 방송된 채널A '요즘 육아 금쪽같은 내새끼'(이하 '금쪽같은')에서는 '초등맘 장영란의 A급 육아 비법' 코너가 진행됐다.&nbsp; 이날 장영란은 '자녀의 성교육'을 주제로 오은영에게 조언을 구했다. 그는 "예전에 (선생님께 배운 이후에) 아이들을 같이 목욕을 안 시키게 됐다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['이승기 처형' 이유비, 과감 메이크업+노출 가득 패션…무슨 일이야? (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20230616200901990</link>
-            <guid>https://v.daum.net/v/20230616200901990</guid>
-            <pubDate>Fri, 16 Jun 2023 12:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=차혜영 기자] 배우 이유비가 과즙미 가득한 비주얼을 자랑했다. 이유비는 16일 "한모네 #7인의탈출"라고 적었다. 함께 공개한 사진 속에는 퍼 소재의 민소매에 짧은 스커트를 매치한 이유비가 다양한 포즈를 취하고 있다. 특히 핑크색이 가득한 인테리어에 옷까지 핑크색으로 맞춘 이유비는 인간 핑크 그 자체인 러블리한 비주얼로 이목을 사로잡는다.]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[김희정 "같이 춤 추던 허니제이, 결혼에 출산까지…신기해" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
             <link>https://v.daum.net/v/20230616205003841</link>
             <guid>https://v.daum.net/v/20230616205003841</guid>
-            <pubDate>Fri, 16 Jun 2023 12:15:28 GMT</pubDate>
+            <pubDate>Fri, 16 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 김희정이 춤으로 인연을 맺었던 댄서 허니제이의 결혼과 출산을 바라보며 시간에 대해 느끼는 신기한 마음을 털어놓았다. 김희정은 16일 오후 서울 종로구 삼청동의 한 카페에서 열린 영화 '라방'(감독 최주연) 인터뷰에서 다양한 이야기를 전했다. '라방'은 프리랜서 PD 동주(박선호 분)가 우연히 받은 링크에서 여자친구 수진(김]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['어른동화' 원작자 "작품 빼앗겨...다른 작가들도 당할까 봐 불안해" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
             <link>https://v.daum.net/v/20230616203531572</link>
             <guid>https://v.daum.net/v/20230616203531572</guid>
-            <pubDate>Fri, 16 Jun 2023 12:15:28 GMT</pubDate>
+            <pubDate>Fri, 16 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[TV리포트=신은주 기자] "다른 작가들도 제 사례를 주의 깊게 보고 있어요. '저작권 갖고 있어도 작품을 뺏길 수가 있다고?'라고 불안해하면서요" 배우 박지현, 최시원, 성동일이 출연하는 영화 '어른동화'의 원작자가 제작사로부터 '갑질'을 당했다고 주장하면서 논란이 되고 있다. 원작자 A 씨는 16일, TV리포트와의 인터뷰에 응했다. 이날 A 씨는 "내]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['어른동화' 원작자, 갑질 호소..."'검정고무신' 작가와 상황 같아" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
             <link>https://v.daum.net/v/20230616203030462</link>
             <guid>https://v.daum.net/v/20230616203030462</guid>
-            <pubDate>Fri, 16 Jun 2023 12:15:28 GMT</pubDate>
+            <pubDate>Fri, 16 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[TV리포트=신은주 기자] "돌아가신 '검정고무신' 작가와 저의 차이점은 딱 하나입니다. 제가 살아있다는 것이요" 배우 최시원, 박지현, 성동일이 출연하는 영화 '어른동화'가 논란에 휩싸였다. '어른동화'의 원작자는 제작사의 '갑질'을 주장하고 있고 제작사는 이를 부인하고 있다. 16일 TV리포트는 원작자 A 씨와 인터뷰를 진행했다. 이날 A 씨는 제작사의]]></content:encoded>
         </item>
         <item>
