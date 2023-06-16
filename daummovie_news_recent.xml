@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-06-16T18:05:14.909Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 16 Jun 2023 20:07:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘전도연’ 없이 존재할 수 없는 영화…넷플릭스 ‘길복순’ [영화광장]]]></title>
+            <link>https://v.daum.net/v/20230617050135994</link>
+            <guid>https://v.daum.net/v/20230617050135994</guid>
+            <pubDate>Fri, 16 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp; 영화는 스크린에만 머물지 않습니다. 1895년 처음 인류와 만난 영화는 태생부터 혼자 존재할 수 없는 예술이었습니다. 스크린을 바라보며 반응할 사람이 없다면, 그 영화는 상영되는 의미가 없기 때문입니다. 이제 한 편의 영화는 때와 장소를 가리지 않고 수도 없이 상영되면서 전 세계 어느 누구와도 만나는 소통의 창이 됐습니다. 영화는 영화 자체로도 이야]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F17%2Fkyeonggi%2F20230617050136628hrom.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
