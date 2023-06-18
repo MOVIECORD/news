@@ -1,8 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-06-17T22:03:27.930Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 18 Jun 2023 00:38:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['범죄도시3', 18일 연속 적수 없이 1위…누적 868만 돌파 [Nbox]]]></title>
+            <link>https://v.daum.net/v/20230618090547998</link>
+            <guid>https://v.daum.net/v/20230618090547998</guid>
+            <pubDate>Sun, 18 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 황미현 기자 = 영화 '범죄도시3'(감독 이상용)이 18일 연속 박스오피스 정상을 지켰다. 18일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '범죄도시3'는 지난 17일 하루 27만8732명을 동원, 박스오피스 1위 자리를 지켰다. 누적 관객수는 868만603명이다. '범죄도시3'는 대체불가 괴물형사 마석도(마동석 분)가 서울 광]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F18%2FNEWS1%2F20230618090547415jpdk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[동일인물 한규원 맞나?..'범죄도시3' 이준혁 오른팔→'김사부3' 알찬 존재감]]></title>
+            <link>https://v.daum.net/v/20230618085710798</link>
+            <guid>https://v.daum.net/v/20230618085710798</guid>
+            <pubDate>Sat, 17 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박소영 기자] 연기파 한규원이 840만 관객을 돌파하며 사랑받고 있는 영화 '범죄도시3'과 6월 17일 인기리 종영한 SBS 금토드라마 '낭만닥터 김사부3'에서 동일인물임이 믿기 힘든 '극과 극 열연'을 펼쳐 시선을 집중시킨다.&nbsp; 먼저&nbsp;대한민국&nbsp;대표&nbsp;범죄&nbsp;액션&nbsp;영화&nbsp;'범죄도시3' (제공:&nbsp;에이비오엔터테인먼트&nbsp;l&nbsp;배급:&nbsp;에이비오엔터테인먼트,&nbsp;플]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F18%2Fpoctan%2F20230618085711282qlcf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[임시완·강하늘·박성훈·양동근, ‘오징어게임2’ 합류[공식]]]></title>
+            <link>https://v.daum.net/v/20230618082700569</link>
+            <guid>https://v.daum.net/v/20230618082700569</guid>
+            <pubDate>Sat, 17 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 신드롬을 일으킨 넷플릭스 K-시리즈 ‘오징어 게임’의 두번째 시즌을 이끌 뉴페이스 명단이 공개됐다. 바로 임시완, 강하늘, 박성훈, 양동근이다. 넷플릭스는 17일(현지시간) 브라질 상파울루에서 열린 글로벌 팬 이벤트 투둠(Tudum)에서 공개한 영상을 통해 이 같은 사실을 알렸다. 앞서 ‘오징어 게임’ 시즌1으로 제74회 프라임타임 에미상 남우주연상]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F18%2Fstartoday%2F20230618082704850wmrr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘범죄도시3’ 868만 돌파‥천만 보인다[박스오피스]]]></title>
+            <link>https://v.daum.net/v/20230618081700501</link>
+            <guid>https://v.daum.net/v/20230618081700501</guid>
+            <pubDate>Sat, 17 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '범죄도시3'가 868만 관객을 돌파했다. 6월 18일 영화진흥위원회 통합전산망 집계에 따르면 17일 영화 '범죄도시3'(감독 이상용)가 27만8,732명을 동원하며 전체 1위를 차지했다. 누적 관객 868만603명을 기록하며 900만 돌파를 앞두고 있는 가운데, 1천만 돌파를 이뤄낼 수 있을지 주목된다. 앞서 '범죄도시3'는 올해]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F18%2Fnewsen%2F20230618081701256tvei.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘쌍천만’ 향하는 ‘범죄도시’ 시리즈 향한 씁쓸한 시선 [기자수첩-문화]]]></title>
+            <link>https://v.daum.net/v/20230618070257964</link>
+            <guid>https://v.daum.net/v/20230618070257964</guid>
+            <pubDate>Sat, 17 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[시즌2에 이어 시즌3의 천만 돌파 또한 확실해졌다. ‘범죄도시’가 세 시즌 연속 흥행에 성공하면서, 국내에도 드디어 장기적 인기를 누리는 대표 프랜차이즈 영화가 탄생했다. 지난 2017년 개봉한 ‘범죄도시’는 청소년 관람불가라는 한계를 딛고, 600만이 넘는 관객을 동원하며 흥행 영화에 등극했다. 형사 마석도(마동석 분)가 하얼빈에서 넘어온 악랄한 조직 두]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F18%2Fdailian%2F20230618070300563hqap.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
