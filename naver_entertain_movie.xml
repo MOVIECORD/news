@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-06-18T16:06:41.429Z</updated>
+    <updated>2023-06-18T18:07:56.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성 “극장용 LED스크린 오닉스로 디즈니 신작 ‘엘리멘탈’ 감상하세요”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=020&amp;aid=0003504280</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=020&amp;aid=0003504280"/>
+        <updated>2023-06-18T18:07:09.050Z</updated>
+        <content type="html"><![CDATA[삼성전자는 영화관용 발광다이오드(LED) 스크린 ‘오닉스(Oynx·사진)’를 통해 디즈니·픽사의 신작 애니메이션 ‘엘리멘탈’을 감상할 수 있다고 18일 밝혔다. 오닉스는 영사 방식인 빔 프로젝터와 달리 스크린에 직접]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[갯벌에 기대사는 생명의 위대함]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=654&amp;aid=0000043405</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000647295"/>
         <updated>2023-06-18T07:03:49.199Z</updated>
         <content type="html"><![CDATA[각종 신작의 개봉 속에서도 굳건하다. ‘범죄도시3’가 18일 연속 1위를 지켜냈다. 더불어 관객 수 900만을 향한 카운트다운도 시작됐다. 18일 영화진흥위원회 통합전산망에 따르면 영화 ‘범죄도시3’는 전날 27만8]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“흥분돼 못 기다려” ‘오징어게임 시즌2’ 라인업 공개에 전세계 들썩]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000894176</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000894176"/>
-        <updated>2023-06-18T07:03:49.202Z</updated>
-        <content type="html"><![CDATA[넷플릭스 시리즈 ‘오징어 게임’ 시즌2 라인업이 공개되자 전세계가 들썩였다. 넷플릭스는 17일 오후 5시 30분(현지 시간) 브라질 상파울루에서 열린 글로벌 팬 이벤트 투둠(Tudum)에서 공개한 영상에서 임시완,]]></content>
     </entry>
 </feed>
