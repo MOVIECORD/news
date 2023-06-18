@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-06-18T12:10:29.318Z</updated>
+    <updated>2023-06-18T14:06:27.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[흑인 인어공주·그을린 백설공주…'월드 꼰대' 위기 맞은 월트 디즈니 [TEN스타필드]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000614586</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000614586"/>
+        <updated>2023-06-18T14:05:34.447Z</updated>
+        <content type="html"><![CDATA[≪최지예의 시네마톡≫ 최지예 텐아시아 기자가 영화 이야기를 전합니다. 현장 속 생생한 취재를 통해 영화의 면면을 분석하고, 날카로운 시각이 담긴 글을 재미있게 씁니다. 소위 꼰대라는 사람들이 '라떼는'을 시전할 때]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스파이더맨: 어크로스 더 유니버스', 개봉 D-3 전체 예매율 1위 등극 "흥행 멀티버스 예고"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003741402</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003160619"/>
         <updated>2023-06-18T05:05:32.457Z</updated>
         <content type="html"><![CDATA[넷플릭스(Netflix)의 글로벌 팬 이벤트 Tudum(투둠) 성황리에 개최된 가운데, '오징어 게임2' 캐스팅에 대한 전 세계의 관심이 모아지고 있다. 3년 만에 팬들과 직접 만난 넷플릭스 글로벌 팬 이벤트 Tud]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘범죄도시3’ 이준혁 오른팔 한규원, ‘김사부’에선 공무원으로 180도 다른 얼굴]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000737736</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000737736"/>
-        <updated>2023-06-18T05:05:32.460Z</updated>
-        <content type="html"><![CDATA['범죄도시3' 한규원이 '낭만닥터 김사부3'에서 '극과 극' 열연을 펼쳐 주목받고 있다. 한규원은 900만 관객 돌파를 앞둔 영화 '범죄도시3' (감독 이상용)에서 3세대 빌런 '주성철'(이준혁 분)의 충직한 오른팔]]></content>
     </entry>
 </feed>
