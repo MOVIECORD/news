@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-06-19T19:04:43.344Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 19 Jun 2023 22:05:32 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김선호·김강우·강태주·고아라, 모두가 ‘귀공자’였다 [솔직리뷰]]]></title>
+            <link>https://v.daum.net/v/20230620070305205</link>
+            <guid>https://v.daum.net/v/20230620070305205</guid>
+            <pubDate>Mon, 19 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김선호의 광기 어린 눈빛은 ‘귀공자’ 그 자체였다. 여유로운 듯 촉박하게 쫓고 쫓기는 반전의 추격전은 심장을 쫄깃하게 만들기 충분했다. 영화 ‘신세계’로 한국 범죄 누아르의 지평을 쓴 박훈정 감독은 ‘마녀’ 시리즈, ‘낙원의 밤’에 이어 ‘귀공자’를 탄생시켰다. ‘귀공자’는 반전의 반전을 거듭하는 전개와 묘하게 웃음을 자아내는 블랙 코미디가 조화를 이뤘다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F20%2Fmksports%2F20230620070307828urhc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["'범죄도시'는 내 삶 그자체"..'괴물 형사' 마동석은 계속된다 [스타이슈]]]></title>
+            <link>https://v.daum.net/v/20230620064000906</link>
+            <guid>https://v.daum.net/v/20230620064000906</guid>
+            <pubDate>Mon, 19 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 김나연 기자] 사진='범죄도시3' 글로벌 흥행 감사 쇼케이스 온라인 생중계900만 관객을 앞둔 '범죄도시3'의 주역들이 관객들에게 고마운 마음을 전했다. 19일 서울시 강남구 메가박스 코엑스에서 영화 '범죄도시3' 글로벌 흥행 감사 쇼케이스가 진행됐다. 이 자리에는 이상용 감독을 비롯해 마동석, 이준혁, 김민재, 전석호, 안세호가 출연해]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F20%2Fstarnews%2F20230620064003667cvdi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[“흥행 키 한국시장 선점하라”…개봉 앞둔 할리우드 영화들 내한 러시]]></title>
+            <link>https://v.daum.net/v/20230620063012819</link>
+            <guid>https://v.daum.net/v/20230620063012819</guid>
+            <pubDate>Mon, 19 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[톰 크루즈(왼쪽)·마고 로비. 사진=게티이미지코리아 신작 개봉을 앞두고 할리우드 인기 배우들의 잇달아 한국을 찾는다. 글로벌 개봉을 앞두고 전 세계에서 가장 중요한 영화 시장으로 꼽히는 한국을 먼저 선점하려는 할리우드의 움직임 덕분이다. 지난해 ‘탑건: 매버릭’으로 내한한 톰 크루즈는 7월 12일 개봉하는 첩보 액션 블록버스터 ‘미션 임파서블: 데드 레코]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F20%2Fsportsdonga%2F20230620063014263sgoe.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[모 아니면 도…여름 한국영화 '빅4' 대전 열린다]]></title>
+            <link>https://v.daum.net/v/20230620062309757</link>
+            <guid>https://v.daum.net/v/20230620062309757</guid>
+            <pubDate>Mon, 19 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[서울=뉴시스] 손정빈 기자 = 김혜수·이병헌·염정아·하정우·주지훈·설경구·도경수·박정민…한국영화계 슈퍼스타가 총출동한다. '베테랑' 류승완 감독, '신과 함께' 시리즈 김용화 등 1000만 감독도 출격한다. 스릴러·액션·디스토피아SF·우주SF 등 장르도 다양하다. 영화계 최대 성수기인 여름 방학 시즌 한국영화 라인업이 사실상 확정됐다. 올해도 '빅4]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F20%2Fnewsis%2F20230620062309538nujn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
