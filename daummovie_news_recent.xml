@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-06-20T15:04:16.387Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 20 Jun 2023 16:05:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문화센터 노래교실 분위기...김혜수-염정아 물 공포증까지 극복한 '밀수'(종합)]]></title>
+            <link>https://v.daum.net/v/20230621002007936</link>
+            <guid>https://v.daum.net/v/20230621002007936</guid>
+            <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(MHN스포츠 정승민 기자) 물에 대한 공포를 극복할 정도로 작품에 열성껏 임한&nbsp;'밀수' 출연진들이 남다른 팀워크를 뽐냈다. 20일 오전 서울 광진구 롯데시네마 건대입구에서 '밀수' 제작보고회가 열렸다. 이날은 김혜수, 염정아, 조인성, 박정민, 김종수, 고민시, 류승완 감독이 참석했으며, 진행은 방송인 박경림이 맡았다. '밀수'는 바다에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F21%2FHockeyNewsKorea%2F20230621002009881xznv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
