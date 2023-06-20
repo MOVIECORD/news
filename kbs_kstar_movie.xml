@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 20:06:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 21:06:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니플러스 '형사록2'  김신록, 금오서 여청계 팀장]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=266809</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=266809</guid>
+            <pubDate>Tue, 20 Jun 2023 21:04:59 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=266809">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230613111415_f2bbf98b77e86a37dad526b337e98733_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=266809">디즈니플러스 '형사록2'  김신록, 금오서 여청계 팀장</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230613111415_f2bbf98b77e86a37dad526b337e98733_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장]  영화 '밀수' 제작보고회 "저 바다에 삶이 있고, 극장에 영화가 있다"...  김혜수-염정아-조인성-박정민-고민시-김종수]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=267789</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=267087">넷플릭스 '셀러브리티',  파워 인플루언서의 충격 라이브 방송</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230615095346_2844dbac0af69a5cabfd5c4e4f72b723.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["제이홉의 박스, 슈가의 길" 솔로 다큐멘터리, 롯데시네마 단독 개봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=267069</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=267069</guid>
-            <pubDate>Thu, 15 Jun 2023 02:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=267069">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230615100417_4624d50aa45f4885cdd06bb84adea7bf.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=267069">"제이홉의 박스, 슈가의 길" 솔로 다큐멘터리, 롯데시네마 단독 개봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230615100417_4624d50aa45f4885cdd06bb84adea7bf.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
