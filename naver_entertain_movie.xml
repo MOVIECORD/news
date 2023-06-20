@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-06-20T18:05:31.341Z</updated>
+    <updated>2023-06-20T19:03:16.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['귀공자' 글로벌 인기 노린다...아시아 주요 국가 개봉 확정]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001259551</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001259551"/>
+        <updated>2023-06-20T19:02:34.531Z</updated>
+        <content type="html"><![CDATA[오늘 개봉하는 영화 '귀공자'가 아시아 주요 지역 개봉을 확정했다. '귀공자'는 21일 한국과 더불어 대만, 인도네시아, 베트남, 필리핀, 싱가포르, 말레이시아, 홍콩 등 아시아 주요 13개국에서 동시기 개봉을 확정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BIFF 행사 직접 기획할 관객 프로그래머 찾아요]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000044347</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002723258"/>
         <updated>2023-06-20T12:10:48.856Z</updated>
         <content type="html"><![CDATA['신세계', '마녀' 시리즈', '낙원의 밤' 등 한국 영화계에 스타일리시한 누아르 영역을 넓혀가고 있는 박훈정 감독이 이번에는 김선호를 전면에 내세워 '귀공자'로 돌아왔다. 귀공자(김선호 분)를 비롯해 한이사(김강]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['밀수' 조인성 "김혜수·염정아 외엔 시간 남는 배우들이 출연해" 너스레]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003742001</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003742001"/>
-        <updated>2023-06-20T09:03:45.808Z</updated>
-        <content type="html"><![CDATA[20일 오전 서울 광진구 롯데시네마 건대입구에서 진행된 영화 '밀수' 제작보고회에 참석한 배우 조인성이 캐스팅 비하인드를 전했다. 영화 '밀수'는 바다에 던져진 밀수품을 건지며 생계를 이어가던 사람들 앞에 일생일대의]]></content>
     </entry>
 </feed>
