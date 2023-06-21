@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-06-21T11:06:10.801Z</updated>
+    <updated>2023-06-21T12:16:19.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['토이스토리5', 떠났던 우디 돌아온다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001259741</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001259741"/>
+        <updated>2023-06-21T12:15:30.955Z</updated>
+        <content type="html"><![CDATA['토이 스토리 5'의 메인 캐릭터, 우디가 복귀를 확정했다. 픽사 스튜디오의 최고 크리에이티브 책임자(CCO) 피트 닥터는 최근 미국 매체 버라이어티와의 인터뷰를 통해 '토이 스토리 5'에 대해 언급했다. 그는 관객]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박서준·박보영 "콘크리트유토피아 출연이유? 이병헌이 8할, 6할"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003742412</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000739083"/>
         <updated>2023-06-21T10:07:36.365Z</updated>
         <content type="html"><![CDATA[도경수가 '더 문'에서 달에 발을 디딘 첫 대한민국 우주 대원으로 분한다. 8월 2일 개봉하는 영화 '더 문'(감독 김용화)은 사고로 인해 홀로 달에 고립된 우주 대원 선우와 필사적으로 그를 구하려는 전 우주센터장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1980:1 ‘귀공자’ 강태주, 오디션계 로또 확률…박훈정 감독 원픽인 이유]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000647716</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000647716"/>
-        <updated>2023-06-21T08:10:57.090Z</updated>
-        <content type="html"><![CDATA['귀공자' 강태주가 데뷔 후 처음으로 스크린에 출격할 만반의 준비를 마쳤다. 바로 오늘(21일), 올여름 극장가에 활력을 불어넣을 영화 '귀공자'가 개봉한다. 개봉 전부터 한국영화 예매율 1위 등극 및 해외 34개국]]></content>
     </entry>
 </feed>
