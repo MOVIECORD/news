@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 23:07:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 00:35:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['시크릿 인베이젼' 오늘 공개... "돌아온 닉 퓨리와  분열된 스크럴"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=267919</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=267919</guid>
+            <pubDate>Wed, 21 Jun 2023 00:34:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=267919">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230621091225_3e2e9b4387b30e369aa61d744c32e320.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=267919">'시크릿 인베이젼' 오늘 공개... "돌아온 닉 퓨리와  분열된 스크럴"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230621091225_3e2e9b4387b30e369aa61d744c32e320.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[김용화 감독 '더 문'.. 설경구, “우린 다시 달 앞면으로 간다”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=267912</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=267247">"이것은 정치영화가 아니다!" 강하늘-유해진-박해준, 영화 '야당' </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230616064056_ff5004c124373453caaf040b9195bccf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니+ '형사록 시즌2' 티저 공개... "원하는 게 뭐야?"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=266798</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=266798</guid>
-            <pubDate>Sat, 17 Jun 2023 00:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=266798">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230613110556_8d7974309b6b5ef9fe6346f56bafef89.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=266798">디즈니+ '형사록 시즌2' 티저 공개... "원하는 게 뭐야?"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230613110556_8d7974309b6b5ef9fe6346f56bafef89.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
