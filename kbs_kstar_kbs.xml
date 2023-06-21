@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 07:04:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 08:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KBS '가슴이 뛴다' 김하나 작가, “혈기 왕성 에너지 불어 넣어줄 드라마”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=267769</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=267769</guid>
+            <pubDate>Wed, 21 Jun 2023 08:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=267769">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230620090012_7079bb13cca9419cce1cd6779eb15fdf.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=267769">KBS '가슴이 뛴다' 김하나 작가, “혈기 왕성 에너지 불어 넣어줄 드라마”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%B0%80%EC%8A%B4%EC%9D%B4%20%EB%9B%B4%EB%8B%A4">월화드라마 가슴이 뛴다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230620090012_7079bb13cca9419cce1cd6779eb15fdf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[종영소감] 김동욱, 추격 스릴러부터 달달한 로맨스까지… "종착지에 안전하게 잘 도착한 것 같아"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=267939</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B9%84%EB%B0%80%EC%9D%98%20%EC%97%AC%EC%9E%90">일일드라마 비밀의 여자</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230620214224_121e8fc70096466c48b3eba04a0f5ca2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['어쩌다 마주친...' 서지혜, “지금까지 순애를 응원해 주셔서 감사!”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=267808</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=267808</guid>
-            <pubDate>Tue, 20 Jun 2023 08:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=267808">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230620162502_0d1204652f00a9b933a3d6311c75110d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=267808">'어쩌다 마주친...' 서지혜, “지금까지 순애를 응원해 주셔서 감사!”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%96%B4%EC%A9%8C%EB%8B%A4%20%EB%A7%88%EC%A3%BC%EC%B9%9C%20%EA%B7%B8%EB%8C%80">월화드라마 어쩌다 마주친 그대</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230620162502_0d1204652f00a9b933a3d6311c75110d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
