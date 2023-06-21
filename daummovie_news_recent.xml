@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-06-21T15:03:55.371Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 21 Jun 2023 17:05:42 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이병헌 중심으로 모였다...'이병헌 유토피아' 혹은 '콘크리트 유토피아'(종합)]]></title>
+            <link>https://v.daum.net/v/20230622004005034</link>
+            <guid>https://v.daum.net/v/20230622004005034</guid>
+            <pubDate>Wed, 21 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(MHN스포츠 정승민 기자) '콘크리트 유토피아' 출연진들이&nbsp;'이병헌 유토피아'를 만든 가운데, 유튜버 수스와 열애설이 불거진 박서준이 공식 석상에 모습을 드러냈다. 21일 오전 서울 광진구 롯데시네마 건대입구에서 영화 '콘크리트 유토피아' 제작보고회가 열렸다. 이날은 엄태화 감독, 이병헌, 박서준, 박보영, 김선영, 박지후, 김도윤이 참석했으며]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F22%2FHockeyNewsKorea%2F20230622004007490dsub.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
