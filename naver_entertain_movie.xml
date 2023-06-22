@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-06-22T17:05:30.580Z</updated>
+    <updated>2023-06-22T18:08:02.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['작은정원' 평균 75세 할머니들의 영화 제작 도전기]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001259953</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001259953"/>
+        <updated>2023-06-22T18:07:06.562Z</updated>
+        <content type="html"><![CDATA[평균 나이 75세 언니들의 다큐멘터리 제작 도전기를 담은 영화 '작은정원'이 따뜻한 웃음을 선사할 전망이다. '작은정원'은 강릉의 구도심 명주동, 평균 나이 75세 할머니들이 어떤 청춘보다 뜨거운 꿈과 열정을 가지고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['밀수 해녀 변신 염정아, 생존 위한 비장한 눈빛]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001259952</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003638407"/>
         <updated>2023-06-22T10:04:56.201Z</updated>
         <content type="html"><![CDATA[테드 서랜도스가 한국 콘텐츠에 대한 지속적인 투자를 하겠다며 애정을 뽐내면서도 망 이용대가, 콘텐츠의 지적재산권(IP) 독점 문제에 대해서는 말을 아꼈다. 넷플릭스와 한국 콘텐츠 이야기 간담회가 22일 오전 서울 종]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더 문' 김희애, 새로운 도전 "날 신인배우처럼 만드는 신선한 자극"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003638405</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003638405"/>
-        <updated>2023-06-22T10:04:56.208Z</updated>
-        <content type="html"><![CDATA['더 문' 김희애의 캐릭터 스틸이 공개됐다. 영화 '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원 선우와 필사적으로 그를 구하려는 전 우주센터장 재국의 사투를 그린 작품. 김희애가 극중 NASA 달 궤도선 메인]]></content>
     </entry>
 </feed>
