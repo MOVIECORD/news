@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-06-22T15:05:59.478Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 22 Jun 2023 16:17:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['야마삐' 야마시타 토모히사-아라키 유코 내한...韓-日 하나 된 'SEE HEAR LOVE'(종합)]]></title>
+            <link>https://v.daum.net/v/20230623004005477</link>
+            <guid>https://v.daum.net/v/20230623004005477</guid>
+            <pubDate>Thu, 22 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(MHN스포츠 정승민 기자) 한일 합작 로맨스 영화 'SEE HEAR LOVE'(시 히어 러브)를 통해 내한한 '야마삐' 야마시타 토모히사와 아라키 유코가 뒷이야기를 밝혔다. 22일 오후 서울 강남구 인터컨티넨탈 서울코엑스에서 영화 'SEE HEAR LOVE' 기자간담회가 열렸다. 이날은 야마시타 토모히사, 아라키 유코가 참석했다. 영화 'SE]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F23%2FHockeyNewsKorea%2F20230623004007926hjcr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
