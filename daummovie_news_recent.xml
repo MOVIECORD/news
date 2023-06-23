@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-06-23T21:05:45.214Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 23 Jun 2023 23:04:21 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마고 로비 영화에 피프티 피프티 노래…할리우드-K팝 협업 확산]]></title>
+            <link>https://v.daum.net/v/20230624080015055</link>
+            <guid>https://v.daum.net/v/20230624080015055</guid>
+            <pubDate>Fri, 23 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 오보람 기자 = K팝 가수들이 할리우드 대작 영화의 OST(오리지널 사운드트랙)에 참여하는 사례가 늘고 있다. 거대한 팬덤 덕에 영화 홍보 효과가 큰 데다, 가수 입장에서도 글로벌 이미지를 굳힐 수 있어 '윈윈'이기 때문이라는 분석이 나온다. 걸그룹 피프티 피프티가 부른 '바비 드림스'(Barbie Dreams)는 다음 달 19일 개봉하는]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F24%2Fyonhap%2F20230624080015928ekqz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['범죄도시' 시리즈 대박친 마동석, 한국은 좁다…할리우드 가는 '제작자'[TEN피플]]]></title>
+            <link>https://v.daum.net/v/20230624072101800</link>
+            <guid>https://v.daum.net/v/20230624072101800</guid>
+            <pubDate>Fri, 23 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=강민경 기자] '제작자' 마동석이 이제 할리우드로 나간다. 청소년 관람 불가 등급 판정받은 '범죄도시'(688만 명)를 시작으로 '범죄도시2'(1269만 명)까지 연달아 성공했다. 현재 '범죄도시3'는 1000만 관객을 향해 순항 중이다. '범죄도시'를 떠올리면 가장 먼저 생각나는 건 배우 마동석이다. 마동석은 '범죄도시' 시리즈 공동 제작]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F24%2F10asia%2F20230624072104388zpyi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['범죄도시3' 930만 돌파..주말 천만 넘을까 [★무비차트]]]></title>
+            <link>https://v.daum.net/v/20230624071553765</link>
+            <guid>https://v.daum.net/v/20230624071553765</guid>
+            <pubDate>Fri, 23 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 김미화 기자] /사진='범죄도시3' 영화 '범죄도시3'가 930만 명의 누적관객수를 돌파했다. 주말께 천만을 넘을 수 있을지 관심이 집중된다. 24일 영진위 영화관입장권 통합전산망에 따르면 '범죄도시3'는 지난 23일 9만 4462명의 관객을 모았다. 누적관객수는 932만 8705명이다. 지난달 말 개봉한 '범죄도시3'는 뜨거운 입소문을 타]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F24%2Fstarnews%2F20230624071555036mvby.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[돌비, ‘더 문’에 한국 영화 최초로 돌비 비전∙돌비 애트모스 동시 지원]]></title>
+            <link>https://v.daum.net/v/20230624065154479</link>
+            <guid>https://v.daum.net/v/20230624065154479</guid>
+            <pubDate>Fri, 23 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[돌비 래버러토리스(Dolby Laboratories, 이하 돌비)가 올여름 최고의 화제작으로 떠오른 SF 휴먼 블록버스터 ‘더 문’에 한국 영화 사상 최초로 ‘돌비 비전(Dolby Vision®)’과 ‘돌비 애트모스(Dolby Atmos®)’가 모두 적용되며, 메가박스의 프리미엄 상영관인 돌비 시네마(Dolby Cinema)에서 차원이 다른 극장 경험을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202306%2F24%2Fsportskhan%2F20230624065156042yfiq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
