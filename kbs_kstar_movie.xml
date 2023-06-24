@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Jun 2023 13:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jun 2023 17:07:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영탁 단독콘서트 ‘TAK SHOW’ 실황..  CGV 단독개봉]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=268374</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=268374</guid>
+            <pubDate>Sat, 24 Jun 2023 17:06:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=268374">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230624195351_58f1310587eaef7f8ad6a849c6b09161.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=268374">영탁 단독콘서트 ‘TAK SHOW’ 실황..  CGV 단독개봉 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230624195351_58f1310587eaef7f8ad6a849c6b09161.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티빙 애니메이션 '신비아파트 특별판 : 조선퇴마실록' 7월 공개... 조선시대에서 펼쳐지는 한바탕 귀신소동]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=268347</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=267525">넷플릭스 첫 메디컬시리즈 '중증외상센터' 주지훈-추영우-윤경호-하영-정재광 캐스팅</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230619084956_f9ac751e4545b9be4a7855f75a9d6c5e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김혜수-염정아 '밀수'... 류승완표 여름바다 활극영화 7월개봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=267744</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=267744</guid>
-            <pubDate>Tue, 20 Jun 2023 00:30:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=267744">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230620080549_3474ea34cc6133b649fcd7090668c6dc.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=267744">김혜수-염정아 '밀수'... 류승완표 여름바다 활극영화 7월개봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230620080549_3474ea34cc6133b649fcd7090668c6dc.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
