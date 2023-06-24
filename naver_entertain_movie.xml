@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-06-24T05:07:23.030Z</updated>
+    <updated>2023-06-24T06:09:18.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영탁 ‘탁쇼’ 포스터 속 화려한 등장]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000895604</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000895604"/>
+        <updated>2023-06-24T06:08:27.347Z</updated>
+        <content type="html"><![CDATA[가수 영탁이 2차 포스터를 공개했다. 지난 23일 가수 영탁의 공식 유튜브 탁스튜디오 커뮤니티에 ‘[TAK SHOW 2차 포스터] 2022 영탁 단독콘서트 : THE MOVIE 많.관.부’라는 문구와 함께 2차 포스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[피도 눈물도 없이..'귀공자' 김강우 "수사자처럼 연기했죠" [★FULL인터뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003162144</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000895554"/>
         <updated>2023-06-23T23:03:22.366Z</updated>
         <content type="html"><![CDATA[돌비 래버러토리스(Dolby Laboratories, 이하 돌비)가 올여름 최고의 화제작으로 떠오른 SF 휴먼 블록버스터 ‘더 문’에 한국 영화 사상 최초로 ‘돌비 비전(Dolby Vision®)’과 ‘돌비 애트모스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘스프린터’ 극장 동시 IPTV & VOD 서비스·밀리의 서재 오디오 콘텐츠 오픈]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000895547</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000895547"/>
-        <updated>2023-06-23T23:03:22.369Z</updated>
-        <content type="html"><![CDATA[평단과 관객들 호평을 불러일으킨 ‘스프린터’(각본/감독: 최승연 | 제작: 영화사 만화경 | 배급: 스튜디오 에이드)가 23일부터 극장 동시 IPTV 및 VOD 서비스, 밀리의 서재 오디오 콘텐츠를 론칭했다. 달리는]]></content>
     </entry>
 </feed>
