@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-07-02T19:03:09.644Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 02 Jul 2023 21:08:15 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독]NCT 재현, 스크린 진출..'6시간 후 너는 죽는다' 주연 발탁 [종합]]]></title>
+            <link>https://v.daum.net/v/20230703060501540</link>
+            <guid>https://v.daum.net/v/20230703060501540</guid>
+            <pubDate>Sun, 02 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 이경호 기자] NCT 127 재현/사진=김창현 기자 chmt@"이번엔 영화다!" NCT 재현이 스크린에 데뷔한다. 3일 스타뉴스 취재 결과, 재현이 영화 '6시간 후 너는 죽는다'에 주인공으로 캐스팅됐다. '6시간 후 너는 죽는다'는 미스터리 감성 스릴러다. 일본 추리 소설의 거장 다카노 가즈아키의 동명 소설을 원작으로 했다. 개봉일은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F03%2Fstarnews%2F20230703060503082dlhj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독]NCT 재현, 영화 '6시간 후 너는 죽는다' 주인공 발탁]]></title>
+            <link>https://v.daum.net/v/20230703060014333</link>
+            <guid>https://v.daum.net/v/20230703060014333</guid>
+            <pubDate>Sun, 02 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 이경호 기자] NCT 127 재현/사진=김창현 기자 chmt@NCT 재현이 첫 스크린 도전에 나선다. 3일 스타뉴스 취재 결과, 재현이 영화 '6시간 후 너는 죽는다'를 통해 영화 배우로 나선다. 재현은 올 여름 크랭크인 예정인 '6시간 후 너는 죽는다'에 캐스팅됐다. '6시간 후 너는 죽는다'는 미스터리 감성 스릴러다. 일본 추리]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F03%2Fstarnews%2F20230703060015969hfql.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[김선호 만난 ‘순한맛’ 박훈정 월드 “‘피칠갑’ 장면 점점 줄여나가겠다”[SS인터뷰]]]></title>
+            <link>https://v.daum.net/v/20230703060012326</link>
+            <guid>https://v.daum.net/v/20230703060012326</guid>
+            <pubDate>Sun, 02 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 조은별기자]“상업영화 감독인만큼 대중과 최대한 접점을 찾으려고 합니다. 앞으로 폭력적인 장면을 줄여나가려고요.” “살려만 드릴게”, “거 죽기 딱 좋은 날씨네”란 유행어를 만들어낸 영화 ‘신세계’, 김다미, 최우식, 고민시까지 숱한 신인들을 발굴한 영화 ‘마녀’시리즈의 박훈정 감독은 폭력과 초능력을 결합한 독특한 세계관으로 숱한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F03%2FSPORTSSEOUL%2F20230703060015160eimh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
