@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jul 2023 10:06:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2023 03:22:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[tvN ‘경이로운 소문2' 유인수, 새로운 히어로 '나적봉’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=268648</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=268648</guid>
+            <pubDate>Sun, 02 Jul 2023 03:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=268648">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230626101202_8bf120bd2aa17dcbe9550cf6f0e462df.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=268648">tvN ‘경이로운 소문2' 유인수, 새로운 히어로 '나적봉’ </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230626101202_8bf120bd2aa17dcbe9550cf6f0e462df.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['킹더랜드' 럭셔리 레스토랑 "Happy Birthday~"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=269297</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=268357">MBC '넘버스 : 빌딩숲의 감시자들'  신입회계사 김명수의 첫 업무</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230624192227_9e37a56d10343991de0ee5df018e25c6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[tvN ‘‘놀라운 토요일’ 천우희-김동욱... "이로운 놀토♬"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=268352</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=268352</guid>
-            <pubDate>Sat, 24 Jun 2023 12:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=268352">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230624191050_832b654d55fcf25dded78029915dd314.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=268352">tvN ‘‘놀라운 토요일’ 천우희-김동욱... "이로운 놀토♬"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230624191050_832b654d55fcf25dded78029915dd314.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
