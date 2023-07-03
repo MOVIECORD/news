@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-07-03T15:06:45.640Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 03 Jul 2023 17:04:04 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["우리는 각자 최고 버전의 바비다"...韓 분홍빛으로 물들이고 떠난 '바비'(종합)]]></title>
+            <link>https://v.daum.net/v/20230704002009882</link>
+            <guid>https://v.daum.net/v/20230704002009882</guid>
+            <pubDate>Mon, 03 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(MHN스포츠 정승민 기자) 광기 넘치는 할리퀸이 아닌 '바비'로 돌아온 마고 로비가 그레타 거윅, 아메리카 페레라와 함께 한국을 분홍빛으로 물들였다. 3일 오전 서울 종로구 포시즌스 호텔 서울 그랜드볼룸에서 영화 '바비' 내한 기자간담회가 열렸다. 이날은 그레타 거윅 감독, 마고 로비, 아메리카 페레라가 참석했으며 진행은 방송인 박경림이 맡았다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F04%2FHockeyNewsKorea%2F20230704002011637ukmp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
