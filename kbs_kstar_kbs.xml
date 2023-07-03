@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jul 2023 23:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 00:37:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘걸어서 환장 속으로’  "규현-은혁 도쿄로, 샘 해밍턴네는 충주로"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=269532</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=269532</guid>
+            <pubDate>Mon, 03 Jul 2023 00:36:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=269532">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230703090526_51f1f6353586c02ba6f4c7d11f3b959e.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=269532">‘걸어서 환장 속으로’  "규현-은혁 도쿄로, 샘 해밍턴네는 충주로"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B1%B8%EC%96%B4%EC%84%9C%20%ED%99%98%EC%9E%A5%20%EC%86%8D%EC%9C%BC%EB%A1%9C">걸어서 환장 속으로</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230703090526_51f1f6353586c02ba6f4c7d11f3b959e.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['가슴이 뛴다' 옥택연-원지안, "만나기만 하면 으르렁"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=269485</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230702083627_5621f5709de05a044545a69ee4cdf484_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[배틀트립2] ‘포항 여행’ 표창원-권일용, 모리국수에 소주는 못참지...대낮부터 소주로 입가심]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=269384</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=269384</guid>
-            <pubDate>Sun, 02 Jul 2023 03:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=269384">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230702082956_f40330fabfdd2912b5ae75cb1bd5e63e_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=269384">[배틀트립2] ‘포항 여행’ 표창원-권일용, 모리국수에 소주는 못참지...대낮부터 소주로 입가심</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%B0%ED%8B%80%ED%8A%B8%EB%A6%BD%202">배틀트립 2</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230702082956_f40330fabfdd2912b5ae75cb1bd5e63e_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
