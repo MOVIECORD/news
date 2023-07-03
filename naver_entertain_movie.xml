@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-07-03T20:07:13.193Z</updated>
+    <updated>2023-07-03T21:04:04.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[노컷 리뷰]더 깊고 기이해진 아리 에스터의 '보 이즈 어프레이드']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003787006</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003787006"/>
+        <updated>2023-07-03T21:03:16.801Z</updated>
+        <content type="html"><![CDATA[핵심요약 외화 '보 이즈 어프레이드'(감독 아리 에스터) ※ 스포일러 주의 '유전' '미드소마' 단 두 편의 영화로 '현대 호러 마스터'라는 수식어를 단 아리 에스터 감독. 그가 내놓은 세 번째 장편은 트라우마와 감]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마고 로비 “바비인형 배역 좋지만 부담감도 있다”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001620780</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003640321"/>
         <updated>2023-07-03T10:04:25.891Z</updated>
         <content type="html"><![CDATA['바비'팀이 첫 내한한 가운데 국뽕 논란에 휩싸였다. 지난 2일 서울 영등포구 타임스퀘어 1층 아트리움에서는 영화 '바비'의 핑크카펫이 열렸다. 그레타 거윅 감독과 배우 마고 로비, 아메리카 페레라, 톰 애커리 프로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[택시 타면 김혜수·염정아 목소리가…'밀수'X카카오T와 특별 프로모션]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000438441</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000438441"/>
-        <updated>2023-07-03T10:04:25.891Z</updated>
-        <content type="html"><![CDATA[영화 '밀수' 배우들이 카카오 T와의 콜라보레이션을 통해 예비 관객들과 만날 예정이다. 영화 '밀수'는 바다에 던져진 생필품을 건지며 생계를 이어가던 사람들 앞에 일생일대의 큰 판이 벌어지면서 휘말리는 해양범죄활극.]]></content>
     </entry>
 </feed>
