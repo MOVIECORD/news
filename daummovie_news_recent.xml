@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-07-04T17:06:35.258Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 04 Jul 2023 20:11:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하정우·주지훈 두 남자의 레바논 생존기 ‘비공식작전’]]></title>
+            <link>https://v.daum.net/v/20230705040816963</link>
+            <guid>https://v.daum.net/v/20230705040816963</guid>
+            <pubDate>Tue, 04 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“하정우와 주지훈이 주거니 받거니 연기하는 모습은 마치 라틴댄스를 추는 것 같다. 한 사람이 끌고 가면 다른 한 사람이 끌려가는 듯하다가 당기고, 옆에서 보면 엇박자가 아닐까 싶을 때도 있지만 다시 창조적 합을 만들어낸다. 혼자 보기 아까울 정도로 절묘한 쾌감을 느꼈다.” 서울 CGV용산아이파크몰에서 4일 열린 영화 ‘비공식작전’ 제작보고회에서 연출을 만]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F05%2Fkukminilbo%2F20230705040817716wdvd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[美상반기 영화관 수입, 작년보다 20%↑…팬데믹이전 회복은 아직]]></title>
+            <link>https://v.daum.net/v/20230705034554857</link>
+            <guid>https://v.daum.net/v/20230705034554857</guid>
+            <pubDate>Tue, 04 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 올해 상반기 미국 영화관의 박스오피스 수입이 지난해보다는 늘었지만, 코로나19 팬데믹 이전 수준으로는 회복하지 못했다고 미 경제매체 CNBC가 4일(현지시간) 전했다. 시장조사업체 컴스코어에 따르면 올해 1∼6월 미국 전체 영화관의 티켓 판매 수입은 44억6천만달러(약 5조7천846억원)로, 작년 같은 기간보다 2]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F05%2Fyonhap%2F20230705034554300drqi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
