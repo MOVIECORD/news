@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-07-06T15:07:10.192Z</updated>
+    <updated>2023-07-06T17:08:51.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더 문' 생생한 우주 구현...탐사 스틸 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001262078</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001262078"/>
+        <updated>2023-07-06T17:07:55.213Z</updated>
+        <content type="html"><![CDATA[우주의 생생한 모습이 담긴 '더 문' 스틸이 공개됐다. 영화 '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원 선우와 필사적으로 그를 구하려는 전 우주센터장 재국의 사투를 그린 영화다. 배우 설경구, 도경수, 김]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[새영화]전 세계 관람객 가슴 울린 감동의 영화음악에 다시금 ‘흠뻑’]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000981578</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000617313"/>
         <updated>2023-07-06T09:04:38.311Z</updated>
         <content type="html"><![CDATA[하정우, 주지훈 주연의 영화 '비공식작전'(감독 김성훈)이 액션 스틸 5종을 공개했다. '비공식작전'은 실종된 동료를 구하기 위해 레바논으로 떠난 외교관 ‘민준’(하정우)과 현지 택시기사 ‘판수’(주지훈)의 버디 액]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신인감독 정우성과 배우 정우성…'보호자', 8월 15일 대개봉]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003748232</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003748232"/>
-        <updated>2023-07-06T09:04:38.312Z</updated>
-        <content type="html"><![CDATA[감독 정우성의 첫 장편 영화 '보호자'가 오는 8월 15일 개봉을 확정했다. '보호자'는 10년 만에 출소해 몰랐던 딸의 존재를 알고 평범하게 살기를 원하는 수혁과 그를 노리는 이들 사이의 이야기를 그린 액션 영화.]]></content>
     </entry>
 </feed>
