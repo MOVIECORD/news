@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 20:08:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 21:06:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['비공식작전' 하정우, "이번엔 레바논, 처음으로 외교관"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=270014</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=270014</guid>
+            <pubDate>Thu, 06 Jul 2023 21:05:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=270014">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230706080701_e8137c9ced471b58da244749505996c5.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=270014">'비공식작전' 하정우, "이번엔 레바논, 처음으로 외교관"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230706080701_e8137c9ced471b58da244749505996c5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디즈니+ '무빙' 이구동성 "한국형 히어로물의 탄생"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=270063</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=269568"> '보 이즈 어프레이드' 봉준호 -아리 에스터 스페셜 GV... "3시간 동안 영화를 봐주셔서 감사하다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230703105916_935bf2ad0953a70641a76b8b4d60779b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["램버트 가족의 저주" 정통호러 '인시디어스: 빨간 문' 7월 개봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=269560</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=269560</guid>
-            <pubDate>Mon, 03 Jul 2023 02:26:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=269560">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230703104754_07d9f71b6b150739c45d2897403cfb17.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=269560">"램버트 가족의 저주" 정통호러 '인시디어스: 빨간 문' 7월 개봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230703104754_07d9f71b6b150739c45d2897403cfb17.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
