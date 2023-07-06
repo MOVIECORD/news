@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 02:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 06:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니+ '무빙' 이구동성 "한국형 히어로물의 탄생"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=270063</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=270063</guid>
+            <pubDate>Thu, 06 Jul 2023 06:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=270063">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230706092222_101be734cab69e139e2be87046f84c3d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=270063">디즈니+ '무빙' 이구동성 "한국형 히어로물의 탄생"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230706092222_101be734cab69e139e2be87046f84c3d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 '밀수' 염정아, 해녀 변신 "바다 속으로~"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=270120</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=269560">"램버트 가족의 저주" 정통호러 '인시디어스: 빨간 문' 7월 개봉</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230703104754_07d9f71b6b150739c45d2897403cfb17.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['형사록' 시즌2... “끝났다고 생각한 순간 다시 시작됐다”​]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=269503</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=269503</guid>
-            <pubDate>Mon, 03 Jul 2023 00:36:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=269503">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230703082236_e54544a7b86c728d0e18a81a998461ac.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=269503">'형사록' 시즌2... “끝났다고 생각한 순간 다시 시작됐다”​</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230703082236_e54544a7b86c728d0e18a81a998461ac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
