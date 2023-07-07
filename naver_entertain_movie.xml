@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-07-07T20:07:06.847Z</updated>
+    <updated>2023-07-07T21:04:44.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴욕아시안영화제서 한국영화 특별전…모두 14편 상영]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014052908</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014052908"/>
+        <updated>2023-07-07T21:03:52.226Z</updated>
+        <content type="html"><![CDATA[강건택 특파원 = 뉴욕한국문화원은 뉴욕아시안필름재단, 필름앳링컨센터와 공동으로 오는 14∼30일 '2023 뉴욕아시안영화제: 한국영화 특별전'을 개최한다고 7일(현지시간) 밝혔다. 영화진흥위원회의 후원으로 진행하는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더 썬' 플로리안 젤러 "로라 던, 항상 좋아한 배우"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001262324</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003165474"/>
         <updated>2023-07-07T11:03:52.751Z</updated>
         <content type="html"><![CDATA[영화 '비공식작전'의 모로코 촬영 영상이 공개됐다. '비공식작전'은 실종된 동료를 구하기 위해 레바논으로 떠난 외교관 '민준'과 현지 택시기사 '판수'의 버디 액션 영화. 공개된 '비공식작전-IN 모로코' 영상은 영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정우성, 친구따라 흥행할까‥이정재 이어 ‘보호자’로 감독 출사표]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000745568</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000745568"/>
-        <updated>2023-07-07T11:03:52.757Z</updated>
-        <content type="html"><![CDATA['감독 정우성'의 첫 번째 영화, '보호자'가 8월 15일 개봉한다. 영화 '보호자'(감독 정우성)는 10년 만에 출소해 몰랐던 딸의 존재를 알고 평범하게 살기를 원하는 수혁과 그를 노리는 이들 사이의 이야기를 그린]]></content>
     </entry>
 </feed>
