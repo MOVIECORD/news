@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-07T14:06:25.298Z</updated>
+    <updated>2023-07-07T16:08:40.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['직장인 마인드' 장착한 멀티 플레이어]]></title>
+        <id>https://v.daum.net/v/20230708000038301</id>
+        <link href="https://v.daum.net/v/20230708000038301"/>
+        <updated>2023-07-07T16:08:39.088Z</updated>
+        <content type="html"><![CDATA['악마들'로 데뷔 첫 악역 연기 도전 "경험치를 쌓을 수 있는 귀중한 작품" 정제되지 않은 스타는 어떤 모습일까. 연예계는 대중의 관심을 받는 스타도 많고, 이들을 팔로우하는 매체도 많다. 모처럼 인터뷰가 잡혀도 단독으로 대면하는 경우가 드물다. 다수의 매체 기자가 함께 인터뷰를 하다 보니 내용도 비슷하다. 심지어 사진이나 영상마저 소속사에서 만들어 배]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비밀의 언덕' 이지은 감독, 첫 장편으로 베를린행 "신기하다"]]></title>
         <id>https://v.daum.net/v/20230707225501839</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230707174702271"/>
         <updated>2023-07-07T09:05:31.957Z</updated>
         <content type="html"><![CDATA[다큐멘터리에서 출발한 영화. 박훈정 감독은 얼마 전 선뵌 신작 ‘귀공자’를 이렇게 설명했다. 그에게 영감을 준 건 코피노를 소재로 한 다큐멘터리. 한국에 있는 아버지를 찾아 나서는 코피노들을 보며 여러 감정을 느낀 그는 ‘귀공자’의 주요 토대를 막힘없이 써내려갔다. 지난달 30일 서울 소격동 한 카페에서 만난 감독은 “전부터 꼭 만들고 싶던 이야기”라며]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["올여름은 '밀수' 열풍"…염정아→조인성X박정민, 스페셜 무대인사 출격]]></title>
-        <id>https://v.daum.net/v/20230707173453003</id>
-        <link href="https://v.daum.net/v/20230707173453003"/>
-        <updated>2023-07-07T09:05:31.957Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 영화 '밀수'가 개봉 전주 부산, 대구 무대인사를 확정했다. 영화 '밀수'는 바다에 던져진 생필품을 건지며 생계를 이어가던 사람들 앞에 일생일대의 큰 판이 벌어지면서 휘말리는 해양범죄활극이다. 오는 22일, 23일 양일 부산과 대구 지역에서 류승완 감독과 주연 배우들의 무대인사가 확정되어 예비 관객들을 설레게 한다]]></content>
     </entry>
 </feed>
