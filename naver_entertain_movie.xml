@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-07-07T17:04:49.091Z</updated>
+    <updated>2023-07-07T18:10:45.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더 썬' 플로리안 젤러 "로라 던, 항상 좋아한 배우"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001262324</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001262324"/>
+        <updated>2023-07-07T18:10:03.100Z</updated>
+        <content type="html"><![CDATA[아카데미 2관왕의 주인공 플로리안 젤러 감독이 신작 '더 썬'의 캐스팅 일화를 공개했다. '더 썬'은 그 무엇보다 좋은 아버지가 되고 싶었던 남자 피터가 삶이 버거운 아들 니콜라스를 다시 만나며 펼쳐지는 가슴 먹먹한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비공식작전' 대자연 담은 모로코 현지 비하인드 공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001262323</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000745568"/>
         <updated>2023-07-07T11:03:52.757Z</updated>
         <content type="html"><![CDATA['감독 정우성'의 첫 번째 영화, '보호자'가 8월 15일 개봉한다. 영화 '보호자'(감독 정우성)는 10년 만에 출소해 몰랐던 딸의 존재를 알고 평범하게 살기를 원하는 수혁과 그를 노리는 이들 사이의 이야기를 그린]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하정우 자신할 만하네 ‘비공식작전’ 팬데믹 뚫은 모로코 입성기]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000745566</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000745566"/>
-        <updated>2023-07-07T11:03:52.758Z</updated>
-        <content type="html"><![CDATA['비공식작전'의 '모로코 촬영 작전'이 공개돼 기대를 높이고 있다. 8월 2일 개봉하는 영화 '비공식작전'(감독 김성훈)은 실종된 동료를 구하기 위해 레바논으로 떠난 외교관 ‘민준’과 현지 택시기사 ‘판수’의 버디]]></content>
     </entry>
 </feed>
