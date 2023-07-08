@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 22:08:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jul 2023 00:37:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지니TV '남남' 전혜진, 걸크러시한 엄마가 온다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=269904</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=269904</guid>
+            <pubDate>Sat, 08 Jul 2023 00:36:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=269904">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230705153021_3b78cdab2a138634c7111e23bcb34131.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=269904">지니TV '남남' 전혜진, 걸크러시한 엄마가 온다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230705153021_3b78cdab2a138634c7111e23bcb34131.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘경이로운 소문2' 김히어라, ‘더 글로리’ 이사라 뛰어넘을 '악'(惡)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=269537</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=269596">'마당이 있는 집'  김성오-최재림, "문제가 있는 남편"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230703193609_8234b2adc4c4e5873b38482478ad5341.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[tvN '소용없어 거짓말' 김소현-황민현, “거짓말 안 해요?”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=268854</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=268854</guid>
-            <pubDate>Sun, 02 Jul 2023 23:03:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=268854">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230627090102_701982606a7e9817e9638daa94d9512a_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=268854">tvN '소용없어 거짓말' 김소현-황민현, “거짓말 안 해요?” </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230627090102_701982606a7e9817e9638daa94d9512a_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
