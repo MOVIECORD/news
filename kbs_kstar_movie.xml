@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jul 2023 22:05:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jul 2023 23:04:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['형사록' 이성민, "택록 형사 돌아오다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=270311</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=270311</guid>
+            <pubDate>Sat, 08 Jul 2023 23:02:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=270311">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230707090934_b3c585c91f633efe77e33fb3ae979514.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=270311">'형사록' 이성민, "택록 형사 돌아오다"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230707090934_b3c585c91f633efe77e33fb3ae979514.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘SNL 코리아’ 리턴, "정우와 함께, 사이먼 페그와 함께 시즌4"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=270411</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=269877">"누가 빌런일까?"  김홍파-정해균-김민재-지승현, '형사록2' 오늘 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230705112259_95274e325b2dff0fe27c752fdf168277.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["우리는 '디피'다"  "정해인-구교환-김성균-손석구-지진희-김지현".. 넷플릭스 'D.P. 2' 7월 28일 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=269863</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=269863</guid>
-            <pubDate>Wed, 05 Jul 2023 00:38:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=269863">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230705091839_7169deb07afe75681a6777e30e2b3059.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=269863">"우리는 '디피'다"  "정해인-구교환-김성균-손석구-지진희-김지현".. 넷플릭스 'D.P. 2' 7월 28일 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230705091839_7169deb07afe75681a6777e30e2b3059.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
