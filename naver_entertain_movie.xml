@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-07-09T08:09:06.975Z</updated>
+    <updated>2023-07-09T09:03:53.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[덕후의 길라잡이] 멀티버스, 방식도 제각각...흥행 치트키? (엑:스피디아)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001613919</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001613919"/>
+        <updated>2023-07-09T09:03:09.340Z</updated>
+        <content type="html"><![CDATA[마블 시네마틱 유니버스(MCU)와 DC 유니버스(DCU), '스타워즈' 등 해외 유명 프랜차이즈 작품들과 할리우드의 다양한 이야기들을 '덕후'의 입장에서 바라보는 코너입니다. 머글들을 위해 한 걸음 더 다가가겠습니다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['범죄도시' 시리즈, 3천만 관객 동원...韓영화 최초 [공식]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003165771</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002398511"/>
         <updated>2023-07-09T07:04:57.412Z</updated>
         <content type="html"><![CDATA[영화 &lt;더 썬&gt; ▲ 영화 &lt;더 썬&gt; 포스터 ⓒ (주)스튜디오 디에이치엘 살면서 가까운 누군가를 완전히 이해한다는 것이 가능할까? 상대방을 이해하기 위해 우리는 상대방의 생각을 듣는다. 나의 생각을 입 밖으로 꺼내 전달하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[벽간소음 때문에 싸우다 정든 남녀... 신개념 플러팅이다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002398509</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002398509"/>
-        <updated>2023-07-09T07:04:57.413Z</updated>
-        <content type="html"><![CDATA[영화 &lt;빈틈없는 사이&gt; ▲ 영화 &lt;빈틈없는 사이&gt; 스틸컷 ⓒ (주)갤리온엔터테인먼트 &lt;빈틈없는 사이&gt;는 세입자 간의 다툼이 핑크빛 로맨스로 피어나는 신선한 소재가 눈에 띄는 영화다. 프랑스 영화 &lt;최악의 이웃과 사랑에]]></content>
     </entry>
 </feed>
