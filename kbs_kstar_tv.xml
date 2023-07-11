@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 20:06:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 22:07:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[tvN ‘경이로운 소문2'  강기영 '악의 마에스트로, 필광']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=270717</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=270717</guid>
+            <pubDate>Tue, 11 Jul 2023 22:06:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=270717">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230710095708_551b21330a0e072aad1779f52e6baa40.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=270717">tvN ‘경이로운 소문2'  강기영 '악의 마에스트로, 필광'  </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230710095708_551b21330a0e072aad1779f52e6baa40.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘마당이 있는 집’ 오늘 최종회,  "1억, 3억, 5억?... 공포의 보수"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=271013</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=269537">‘경이로운 소문2' 김히어라, ‘더 글로리’ 이사라 뛰어넘을 '악'(惡)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230703091317_9db6d115d8a4d600ac0ae97655aa508c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['넘버스' 김명수-연우, "초롱초롱 눈빛"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=270316</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=270316</guid>
-            <pubDate>Fri, 07 Jul 2023 02:25:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=270316">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230707091915_897b6a4b10cfd3fe6ef59d6c2b713060.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=270316">'넘버스' 김명수-연우, "초롱초롱 눈빛"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230707091915_897b6a4b10cfd3fe6ef59d6c2b713060.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
