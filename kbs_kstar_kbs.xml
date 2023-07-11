@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 04:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 06:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한지완, KBS 2TV 새 일일드라마 '우아한 제국' 캐스팅]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=270925</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=270925</guid>
+            <pubDate>Tue, 11 Jul 2023 06:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=270925">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230711142102_959537c0bf2c766ec01c8c7a906e0dbe.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=270925">한지완, KBS 2TV 새 일일드라마 '우아한 제국' 캐스팅</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%9A%B0%EC%95%84%ED%95%9C%20%EC%A0%9C%EA%B5%AD">일일드라마 우아한 제국</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230711142102_959537c0bf2c766ec01c8c7a906e0dbe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[가슴이 뛴다] 극장에서 코 골며 꿀잠 자는 원지안 때문에 첫 데이트 망친 옥택연]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=270867</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B1%B8%EC%96%B4%EC%84%9C%20%ED%99%98%EC%9E%A5%20%EC%86%8D%EC%9C%BC%EB%A1%9C">걸어서 환장 속으로</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230710004019_dee657f867f6210a465e57286f5b79d4_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[걸어서 환장 속으로] 은혁+규현 남매 일본 여행...기차에서 먹는 도시락으로 여행 즐거움 만끽]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=270626</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=270626</guid>
-            <pubDate>Sun, 09 Jul 2023 16:05:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=270626">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230710003006_5545c7e14de37170069ed697f6d03926_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=270626">[걸어서 환장 속으로] 은혁+규현 남매 일본 여행...기차에서 먹는 도시락으로 여행 즐거움 만끽</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B1%B8%EC%96%B4%EC%84%9C%20%ED%99%98%EC%9E%A5%20%EC%86%8D%EC%9C%BC%EB%A1%9C">걸어서 환장 속으로</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230710003006_5545c7e14de37170069ed697f6d03926_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
