@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 22:06:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 00:33:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["그 남자는 누구인가"  츠마부키 사토시 영화 '한 남자' 8월 개봉]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=270892</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=270892</guid>
+            <pubDate>Tue, 11 Jul 2023 00:32:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=270892">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230711084251_44f41056599aaa55b059e97c3d1b3a6f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=270892">"그 남자는 누구인가"  츠마부키 사토시 영화 '한 남자' 8월 개봉</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230711084251_44f41056599aaa55b059e97c3d1b3a6f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['더 문', 영화 속으로, 우주 속으로... "극장에서만 경험할 수 있는 압도적 영화체험"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=270287</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=270014">'비공식작전' 하정우, "이번엔 레바논, 처음으로 외교관"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230706080701_e8137c9ced471b58da244749505996c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니+ '무빙' 이구동성 "한국형 히어로물의 탄생"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=270063</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=270063</guid>
-            <pubDate>Thu, 06 Jul 2023 06:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=270063">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230706092222_101be734cab69e139e2be87046f84c3d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=270063">디즈니+ '무빙' 이구동성 "한국형 히어로물의 탄생"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230706092222_101be734cab69e139e2be87046f84c3d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
