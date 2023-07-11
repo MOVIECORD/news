@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-07-11T16:11:32.280Z</updated>
+    <updated>2023-07-11T17:08:06.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['엘리멘탈' 351만 돌파...무서운 흥행 속도]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001262692</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001262692"/>
+        <updated>2023-07-11T17:07:14.977Z</updated>
+        <content type="html"><![CDATA[국내 극장가를 사로잡은 '엘리멘탈'이 식을 줄 모르는 인기를 이어가고 있다. 11일 영진위 통합전산망에 따르면 이날 오후 1시 30분 기준 '엘리멘탈'이 누적 관객 수 351만 8709명을 돌파했다. 이는 디즈니·픽]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미션 임파서블7' "이걸 해내네"...기차 액션 비하인드 공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001262691</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004886897"/>
         <updated>2023-07-11T10:04:48.207Z</updated>
         <content type="html"><![CDATA[“돌봄을 받는 삶에서 누군가를 돌보는 삶으로 이어지는 것에 대해 생각해봤다.” 이솔희 감독은 11일 오후 서울 자양동 건대입구 롯데시네마에서 열린 한국영화 ‘비닐하우스’의 언론배급시사회에서 “문정 모녀를 지켜보는 모]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김한민 감독 "이순신 피날레 맡은 '노량' 김윤석과 텔레파시 통했다"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000439854</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000439854"/>
-        <updated>2023-07-11T10:04:48.207Z</updated>
-        <content type="html"><![CDATA[영화 '한산: 용의 출현'의 김한민 감독이 시리즈 피날레 '노량: 죽음의 바다'에 대해 밝혔다. 명량해전 5년 전, 진군 중인 왜군을 상대로 조선을 지키기 위해 필사의 전략과 패기로 뭉친 이순신 장군과 조선 수군의]]></content>
     </entry>
 </feed>
