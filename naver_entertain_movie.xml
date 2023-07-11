@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-07-11T19:03:20.752Z</updated>
+    <updated>2023-07-11T20:06:58.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[휘몰아치는 액션 액션 액션… 장인의 손길 ‘미션 임파서블7’]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000749206</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000749206"/>
+        <updated>2023-07-11T20:06:09.556Z</updated>
+        <content type="html"><![CDATA[한 컴퓨터프로그램이 자체 진화를 한다. 인공지능(AI)이나 다름없는 경지에 이른다. 세계 전산망을 통제하고, 세계 모든 폐쇄회로(CC)TV를 들여다볼 수 있다. 그 자체로 인류를 위협할 만한데, 악당이 프로그램을 제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘범죄도시3’ 음향 후반작업…최고 시설에 글로벌 제작사 둥지]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000046307</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014059317"/>
         <updated>2023-07-11T10:04:48.200Z</updated>
         <content type="html"><![CDATA[네이버제트는 메타버스 플랫폼 '제페토'에 애니메이션 아바타를 새롭게 선보인다고 11일 밝혔다. 회사는 애니메이션 아바타를 가상 크리에이터 시장에서 가장 주목하는 형식이라고 소개하면서, 이용자 4억 명 이상의 요구 사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데뷔작으로 이름 알린 감독들]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004886898</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004886898"/>
-        <updated>2023-07-11T10:04:48.204Z</updated>
-        <content type="html"><![CDATA[김재훈 감독이 데뷔작에서 이름을 알린 감독들의 계보를 잇는다. 김재훈 감독의 영화 '악마들'이 스릴러 마니아들 취향 저격에 성공해 이목을 끈다. '악마들'은 검거의 순간 서로의 몸이 바뀐 희대의 살인마 ‘진혁’과 형]]></content>
     </entry>
 </feed>
