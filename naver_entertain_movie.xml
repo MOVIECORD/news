@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-07-13T19:07:44.658Z</updated>
+    <updated>2023-07-13T20:07:27.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디즈니 CEO "마블·스타워즈 제작 편수·비용 줄이는 중"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014065829</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014065829"/>
+        <updated>2023-07-13T20:06:34.464Z</updated>
+        <content type="html"><![CDATA[CNBC 인터뷰…"TV 사업 혼란 심각…스트리밍은 수익 낼 것" "ESPN 계속 보유하며 전략적 파트너 찾을 것" 임미나 특파원 = 밥 아이거 디즈니 최고경영자(CEO)가 비용 절감을 위해 마블 스튜디오와 스타워즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['영화 음악 거장' 故 사카모토 류이치, 제천국제음악영화제 수상]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001263035</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004888228"/>
         <updated>2023-07-13T10:09:18.828Z</updated>
         <content type="html"><![CDATA[영화 '보호자' 측이 박성웅과 김준한의 캐릭터 스틸을 공개했다. '보호자'(감독 정우성, 제공배급 에이스메이커무비웍스, 제작 영화사 테이크)는10년 만에 출소해 몰랐던 딸의 존재를 알고 평범하게 살기를 원하는 수혁(]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비공식작전' 익숙한 액션·스토리, 독될까 약될까 [종합]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001262967</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001262967"/>
-        <updated>2023-07-13T10:09:18.834Z</updated>
-        <content type="html"><![CDATA[영화 '비공식작전'이 올여름 관객을 만난다. 13일 오후 메가박스 코엑스에서 영화 '비공식작전' 기자간담회가 진행됐다. 이날 행사에는 김성훈 감독과 주연 배우 하정우, 주지훈이 참석했다. 영화 '비공식작전'은 실종된]]></content>
     </entry>
 </feed>

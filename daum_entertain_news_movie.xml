@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-07-13T19:07:44.654Z</updated>
+    <updated>2023-07-13T20:07:27.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디즈니 CEO "마블·스타워즈 제작 편수·비용 줄이는 중"]]></title>
+        <id>https://v.daum.net/v/20230714040734588</id>
+        <link href="https://v.daum.net/v/20230714040734588"/>
+        <updated>2023-07-13T20:07:26.338Z</updated>
+        <content type="html"><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 밥 아이거 디즈니 최고경영자(CEO)가 비용 절감을 위해 마블 스튜디오와 스타워즈 시리즈의 제작 편수와 예산 지출을 줄이고 있다고 밝혔다. 아이거 CEO는 13일(현지시간) 미 경제매체 CNBC 인터뷰에서 자사 영화의 흥행 실적에 대해 "최근 신작 중 일부는 더 좋은 성적을 거뒀으면 좋았을 것이라는 아쉬움이 있었다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘미션임파서블7’, 올해 개봉 외화 오프닝 1위]]></title>
         <id>https://v.daum.net/v/20230714003011546</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230713180001173"/>
         <updated>2023-07-13T09:05:21.388Z</updated>
         <content type="html"><![CDATA[[스타뉴스 | 코엑스 메가박스=김미화 기자] 배우 주지훈, 하정우가 13일 오후 서울 강남구 메가박스 코엑스에서 진행된 영화 '비공식작전' 언론배급시사회에 참석해 포즈를 취하고 있다.  실종된 동료를 구하기 위해 레바논으로 떠난 외교관 '민준'과 현지 택시기사 '판수'의 버디 액션 영화 '비공식작전'은 8월 2일 개봉한다. /2023.07.13 /사진=이동]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비공식작전' 강제 합숙 보람있네…하정우·주지훈의 짠내 질주 액션]]></title>
-        <id>https://v.daum.net/v/20230713175318976</id>
-        <link href="https://v.daum.net/v/20230713175318976"/>
-        <updated>2023-07-13T09:05:21.388Z</updated>
-        <content type="html"><![CDATA[(사진=연합뉴스)[이데일리 스타in 김보영 기자] 충무로 케미 보증수표 하정우, 주지훈이 모로코의 이국적 풍광을 배경으로 1980년대 레바논에서 K-분노의 질주를 펼친다. 쌍천만 타이틀 전작 ‘신과 함께’ 시리즈에서 이미 입증한 두 사람의 케미, 김성훈 감독과의 신뢰, 모로코 강제 합숙으로 쌓은 시너지로 ‘비공식작전’에서 더욱 물오른 앙상블을 선보인다.]]></content>
     </entry>
 </feed>
