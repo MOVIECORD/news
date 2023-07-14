@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 13:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 16:10:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니+ '무빙' 류승룡-한효주-조인성 "우리는 '초능력' 안기부 요원이다!"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=271329</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=271329</guid>
+            <pubDate>Fri, 14 Jul 2023 16:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=271329">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230714085621_17301d4e4818070fab37896fd72954e8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=271329">디즈니+ '무빙' 류승룡-한효주-조인성 "우리는 '초능력' 안기부 요원이다!"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230714085621_17301d4e4818070fab37896fd72954e8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장] 하정우-주지훈의 '비공식작전'...  "외교관, 택시운전사, 그리고 애국자게임"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=271434</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=270873">'투모로우바이투게더: 날씨를 잃어버렸어' 다섯 멤버의 진솔한 인터뷰 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230711082258_59792972b8ff3f684d1d0cdc43fe3326.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["You're the One That I Want"를 안다면...  파라마운트+ 뮤지컬대전... "그리스, 토요일밤의 열기, 풋루즈, 시카고.."]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=270909</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=270909</guid>
-            <pubDate>Tue, 11 Jul 2023 06:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=270909">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230711132126_8049f456745963c5a8e1ec234883c687.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=270909">"You're the One That I Want"를 안다면...  파라마운트+ 뮤지컬대전... "그리스, 토요일밤의 열기, 풋루즈, 시카고.."</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230711132126_8049f456745963c5a8e1ec234883c687.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
