@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-07-17T16:09:17.122Z</updated>
+    <updated>2023-07-17T17:04:13.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더 문' 박병철X조한철X최병모...충무로 신스틸러 의기투합]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001263454</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001263454"/>
+        <updated>2023-07-17T17:03:18.693Z</updated>
+        <content type="html"><![CDATA[기대작 '더 문'이 주연은 물론 조연까지 탄탄한 출연진으로 기대감을 높이고 있다. 영화 '더 문' 사고로 인해 홀로 달에 고립된 우주 대원 선우(도경수 분)와 필사적으로 그를 구하려는 전 우주센터장 재국(설경구 분)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디즈니 '헌티드 맨션' 예고편 공개…999명 유령 나온다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001263443</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000962184"/>
         <updated>2023-07-17T08:16:37.191Z</updated>
         <content type="html"><![CDATA[‘미션 임파서블: 데드 레코닝 PART ONE’. 사진|롯데 엔터테인먼트 “톰 크루즈가 직접 스크린X 버전의 디테일을 설명해줬어요. 그래서인지 가상 장면을 만들어 내는 옆 스크린조차 직접 찍은 것 같은 느낌을 받았죠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미션 임파서블7' 액션만큼 입 떡 벌어지는 흥행 기록]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001263393</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001263393"/>
-        <updated>2023-07-17T08:16:37.194Z</updated>
-        <content type="html"><![CDATA[영화 '미션 임파서블7'을 향한 폭발적인 관심이 이어지고 있다. 17일 영화관입장권 통합전산망에 따르면 '미션 임파서블: 데드 레코닝 파트 원'(이하 '미션 임파서블7')이 지난 14∼16일 개봉 첫 주말 120만]]></content>
     </entry>
 </feed>
