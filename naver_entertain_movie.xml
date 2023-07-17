@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-07-17T10:10:13.297Z</updated>
+    <updated>2023-07-17T13:22:15.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["영화 잘 봤어요"라는 인사치레에 담긴 웃픔…이랑 감독 '잘 봤다는 말 대신']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000297188</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000297188"/>
+        <updated>2023-07-17T13:21:21.595Z</updated>
+        <content type="html"><![CDATA[한국 독립예술영화의 유통 배급 환경 개선을 위해 영화진흥위원회(위원장 박기용, 이하 영진위)에서 설립한 인디그라운드가 진행하는 독립·예술영화 활성화 캠페인 영화 '잘 봤다는 말 대신'이 17일 공개됐다. 이번 영화는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로다주, “‘아이언맨’으로 출연료 5500억원 받았다”[해외이슈]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003751916</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003751883"/>
         <updated>2023-07-17T08:16:37.203Z</updated>
         <content type="html"><![CDATA[올여름 최고의 기대작 '콘크리트 유토피아'가 압도적인 몰입감을 선사하는 메인 예고편을 최초 공개했다. '콘크리트 유토피아'는 대지진으로 폐허가 되어 버린 서울, 유일하게 남은 황궁 아파트로 생존자들이 모여들며 시작되]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비공식작전', 전세기 입국부터 한식대첩까지…모로코 촬영 비화 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003751879</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003751879"/>
-        <updated>2023-07-17T08:16:37.204Z</updated>
-        <content type="html"><![CDATA[영화 '비공식작전'이 입국부터 촬영을 마치기까지 순탄치 않았던 모로코 촬영 비하인드 스토리를 공개했다. #1. 해외 로케이션 촬영 자체가 '작전'이 되다! 모로코 촬영 위해 막힌 하늘도 뚫은 '비공식작전' 팀! 실종]]></content>
     </entry>
 </feed>
