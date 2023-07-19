@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 20:03:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 21:06:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드라마 ‘우아한 제국’ 이상보, 열혈 매니저 나승필]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=271491</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=271491</guid>
+            <pubDate>Wed, 19 Jul 2023 21:05:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=271491">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230714135134_c02a6b8dcf81018b665934cf35ec9ce3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=271491">드라마 ‘우아한 제국’ 이상보, 열혈 매니저 나승필</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230714135134_c02a6b8dcf81018b665934cf35ec9ce3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[제2회 청룡시리즈어워즈] 대상 - <더 글로리> 송혜교]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=272249</link>
@@ -348,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B9%84%EB%B0%80%EC%9D%98%20%EC%97%AC%EC%9E%90">일일드라마 비밀의 여자</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230718210649_9986942c70c26f6cc9de893a2ed8ff1e_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[비밀의 여자] 궁지 몰린 이채영에 복수의 시작 알리는 최윤영 “널 더 처참하게 만들거야”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=272007</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=272007</guid>
-            <pubDate>Tue, 18 Jul 2023 13:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272007">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230718210242_af45f35e34fda12379666d8083689b0a.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=272007">[비밀의 여자] 궁지 몰린 이채영에 복수의 시작 알리는 최윤영 “널 더 처참하게 만들거야”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B9%84%EB%B0%80%EC%9D%98%20%EC%97%AC%EC%9E%90">일일드라마 비밀의 여자</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230718210242_af45f35e34fda12379666d8083689b0a.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
