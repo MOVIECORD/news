@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 00:36:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 02:03:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스 '마스크걸', 8월 공개... 고현정-안재홍-염혜란-나나]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=272376</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=272376</guid>
+            <pubDate>Thu, 20 Jul 2023 02:01:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272376">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230720102852_a20ec1bebea12d2ecf2fed43859e16dd.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=272376">넷플릭스 '마스크걸', 8월 공개... 고현정-안재홍-염혜란-나나</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230720102852_a20ec1bebea12d2ecf2fed43859e16dd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[류승완 감독 '밀수' 특별하게 관람한다..... "4DX, ScreenX, 4DXScreen, IMAX..."]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=272263</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=271750">"알프스의 소년"  영화 '여덟 개의 산' 8월 개봉... 알프스의 청량함과 신비로움을 담았다</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230717083034_e80510bee247426818da9dff5c43bcf4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['무빙' 강풀 작가- 박인제 감독 “초능력의 근원은 가족”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=271340</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=271340</guid>
-            <pubDate>Sun, 16 Jul 2023 21:02:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=271340">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230714091152_65112404cb272c29e6f65dd6059c2d8c.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=271340">'무빙' 강풀 작가- 박인제 감독 “초능력의 근원은 가족”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230714091152_65112404cb272c29e6f65dd6059c2d8c.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
