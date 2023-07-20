@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 05:03:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 07:04:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘행복배틀’ 오늘 최종회... "이엘은? 엄마들은? 살아남은 가족들은?"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=272563</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=272563</guid>
+            <pubDate>Thu, 20 Jul 2023 07:03:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272563">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230720144350_2e45d6d92e350a5c6b29b44297412e44.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=272563">‘행복배틀’ 오늘 최종회... "이엘은? 엄마들은? 살아남은 가족들은?"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230720144350_2e45d6d92e350a5c6b29b44297412e44.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JTBC '힙하게' 한지민-이민기" "스릴러인가 코미디인가" 포스터 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=271732</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=270712">SBS ‘국민사형투표’  박해진X박성웅, "카리스마 격돌"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230710095008_6cdcc17c349198ed27ab1671a057230e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ENA ‘오랫동안 당신을 기다렸습니다’  배종옥, 온화함 뒤 숨겨진 날카로운 눈빛]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=270770</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=270770</guid>
-            <pubDate>Fri, 14 Jul 2023 16:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=270770">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230710111017_94ec70c2f0a87c6c179277b6786ae690.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=270770">ENA ‘오랫동안 당신을 기다렸습니다’  배종옥, 온화함 뒤 숨겨진 날카로운 눈빛</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230710111017_94ec70c2f0a87c6c179277b6786ae690.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
