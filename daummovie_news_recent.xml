@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-07-23T17:03:49.539Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 23 Jul 2023 18:05:44 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['미션 임파서블' 제친 '바벤하이머'…"美극장가 올해 최고 수입"]]></title>
+            <link>https://v.daum.net/v/20230724025657805</link>
+            <guid>https://v.daum.net/v/20230724025657805</guid>
+            <pubDate>Sun, 23 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(로스앤젤레스=연합뉴스) 임미나 특파원 = 미국에서 지난 주말 동시 개봉된 영화 '바비'와 '오펜하이머'가 동반 흥행에 성공하며 '미션 임파서블' 시리즈 속편을 제쳤다. 23일(현지시간) 미 박스오피스 집계사이트 모조에 따르면 지난 21일 개봉한 '바비'는 첫날 7천50만달러(약 909억원), '오펜하이머'는 3천300만달러(약 425억원)를 벌어들였다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F24%2Fyonhap%2F20230724025657930zkko.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
