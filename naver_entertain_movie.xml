@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-07-23T19:05:11.784Z</updated>
+    <updated>2023-07-23T20:07:25.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박하선, 우아한 분위기 [화보]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001065122</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001065122"/>
+        <updated>2023-07-23T20:06:42.760Z</updated>
+        <content type="html"><![CDATA[박하선, 우아한 분위기 [화보] 영화 ‘어디로 가고 싶으신가요’의 주연 배우 박하선의 씨네21 커버스토리 화보가 공개됐다. ‘어디로 가고 싶으신가요’는 갑작스러운 사고로 남편을 잃고 폴란드 바르샤바로 떠난 ‘명지’와]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미션 임파서블' 제친 '바벤하이머'…"美극장가 올해 최고 수입"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014085990</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014085549</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014085549"/>
         <updated>2023-07-23T06:07:21.073Z</updated>
-        <content type="html"><![CDATA[디즈니·픽사 애니메이션 '엘리멘탈'이 조만간 국내에서 개봉한 디즈니·픽사 작품 중 최고 흥행작 '인사이드 아웃'(497만여 명)의 기록을 깰 것으로 예상된다. 지난 22일 이 영화의 누적 관객수는 483만 8,781]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애니메이션 '엘리멘탈' 누적 관객 수 500만 눈앞]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014085548</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014085548"/>
-        <updated>2023-07-23T06:07:21.101Z</updated>
         <content type="html"><![CDATA[디즈니·픽사 애니메이션 '엘리멘탈'이 조만간 국내에서 개봉한 디즈니·픽사 작품 중 최고 흥행작 '인사이드 아웃'(497만여 명)의 기록을 깰 것으로 예상된다. 지난 22일 이 영화의 누적 관객수는 483만 8,781]]></content>
     </entry>
 </feed>
