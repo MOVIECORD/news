@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-07-25T14:04:11.733Z</updated>
+    <updated>2023-07-25T15:06:01.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김향기, 언제봐도 사랑스러움이 한가득 '이 포즈가 맞아요?']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003754490</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003754490"/>
+        <updated>2023-07-25T15:05:07.817Z</updated>
+        <content type="html"><![CDATA[25일 오후 서울 영등포 타임스퀘어에서 진행된 영화 '더 문' 레드카펫 쇼케이스 및 VIP 시사회에 배우 김향기가 참석해 포토타임을 가졌다. '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원 황선우와 필사적으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신예은, 청순+큐트 매력 발산 '상큼발랄 볼하트']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003754484</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000964416"/>
         <updated>2023-07-25T10:05:12.884Z</updated>
         <content type="html"><![CDATA[배우 도경수가 올해 여름 극장가에 주연으로 나서게 된 소감을 밝혔다. 25일 오후 서울 용산구 CGV 용산아이파크몰에서 배우 설경구, 도경수, 김희애 등이 참석한 가운데 영화 ‘더 문’ 언론시사회가 진행됐다. 이날]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스, 맞춤형 콘텐츠 정보 제공하는 ‘나의 넷플릭스’ 기능 도입]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000902435</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000902435"/>
-        <updated>2023-07-25T10:05:12.885Z</updated>
-        <content type="html"><![CDATA[글로벌 OTT 넷플릭스가 보고 싶은 시리즈와 영화를 한 눈에 확인할 수 있는 ‘나의 넷플릭스(My Netflix)’ 기능을 신설하며 콘텐츠 시청 편의성을 강화한다고 25일 전했다. 나의 넷플릭스는 ‘좋아요’를 표시한]]></content>
     </entry>
 </feed>
