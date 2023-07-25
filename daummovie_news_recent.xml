@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-07-25T20:06:10.546Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 25 Jul 2023 21:05:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기댈 곳은 우주뿐, ‘더 문’ [쿡리뷰]]]></title>
+            <link>https://v.daum.net/v/20230726060216605</link>
+            <guid>https://v.daum.net/v/20230726060216605</guid>
+            <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[칠흑같이 어둡던 스크린에 별들이 수놓아지자 극장은 곧 우주가 된다. 영화 ‘더 문’(감독 김용화)이 구현한 환상적인 우주 세계 덕이다. 국내 그래픽 기술력의 정점을 보여주는 듯하다. 다만 줄거리가 빈약하다. 보는 맛과 즐길 맛 사이를 아슬아슬하게 줄타기하는 ‘더 문’이다. 다음 달 2일 개봉을 앞둔 ‘더 문’은 달에 고립된 우주인을 구출하기 위해 고군분]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F26%2Fkukinews%2F20230726060217623sddr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[놀이기구 체험하듯 오싹한 즐거움…영화 '헌티드 맨션']]></title>
+            <link>https://v.daum.net/v/20230726060009416</link>
+            <guid>https://v.daum.net/v/20230726060009416</guid>
+            <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 이영재 기자 = 겁을 잔뜩 먹은 사람이 몸을 움츠리고 어두운 복도를 지나갈 때 유령들이 비웃듯 낄낄거리는 소리가 귀를 가득 채운다. 방에 들어가 거울을 들여다보면 갑자기 유령이 나타나 깜짝 놀라게 한다. 26일 개봉한 디즈니 신작 '헌티드 맨션'(Haunted Mansion)은 같은 이름의 디즈니랜드 놀이기구에서 착상한 영화다. 디즈니 영]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F26%2Fyonhap%2F20230726060009389mufq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘비공식작전’ 하정우 “이젠 액션신 찍으면 마사지 받아..세월 흘렀다 체감” [IS인터뷰]]]></title>
+            <link>https://v.daum.net/v/20230726055503371</link>
+            <guid>https://v.daum.net/v/20230726055503371</guid>
+            <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘수리남’ 촬영지 도미니카공화국부터 ‘비공식작전’ 촬영지 모로코까지. 해외 촬영의 달인이 된 배우 하정우가 영화 ‘비공식작전’으로 돌아왔다. 마치 “군대를 다녀온 기분”이라는 하정우는 모든 촬영을 마치고 한국에 돌아왔을 때 이상한 느낌이 들었다고 전했다. 24일 오후 서울 종로구의 한 카페에서 영화 ‘비공식작전’으로 만난 하정우는 해외에서 반년 넘는 시]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202307%2F26%2Filgansports%2F20230726055506368pqzn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
