@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 20:05:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 21:05:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이도겸, KBS 일일드라마 '우당탕탕 패밀리' 주인공 캐스팅]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=272645</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=272645</guid>
+            <pubDate>Wed, 26 Jul 2023 21:04:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272645">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230721080436_31ce049994100a2297cdb1aceb4e75bf.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=272645">이도겸, KBS 일일드라마 '우당탕탕 패밀리' 주인공 캐스팅</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95%20%ED%8C%A8%EB%B0%80%EB%A6%AC">일일연속극 우당탕탕 패밀리</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230721080436_31ce049994100a2297cdb1aceb4e75bf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[과학수사대 스모킹 건] 긴급 체포된 베로니크…그녀가 밝힌 세 아기를 살해, 유기한 이유는?]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=273302</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EA%B8%88%EC%9D%B4%EC%95%BC%20%EC%98%A5%EC%9D%B4%EC%95%BC">일일연속극 금이야 옥이야</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230725220622_6f6d752b20a4976437a2ca41dbc66f94_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[금이야 옥이야] “절 위해 준비한 파티 같아요!” 진짜 생일인 줄도 모르고 김영호가 만든 케이크 촛불 끄는 윤다영]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=273225</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=273225</guid>
-            <pubDate>Tue, 25 Jul 2023 14:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273225">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230725220436_855022d78d79c0aab5b0ec8fa12ec5b8_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273225">[금이야 옥이야] “절 위해 준비한 파티 같아요!” 진짜 생일인 줄도 모르고 김영호가 만든 케이크 촛불 끄는 윤다영</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EA%B8%88%EC%9D%B4%EC%95%BC%20%EC%98%A5%EC%9D%B4%EC%95%BC">일일연속극 금이야 옥이야</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230725220436_855022d78d79c0aab5b0ec8fa12ec5b8_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
