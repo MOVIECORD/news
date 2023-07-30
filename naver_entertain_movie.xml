@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-07-30T14:03:00.879Z</updated>
+    <updated>2023-07-30T15:05:50.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경이로운 '더 문', 더 빛나는 도경수의 열연[TF씨네리뷰]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000230285</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000230285"/>
+        <updated>2023-07-30T15:04:58.245Z</updated>
+        <content type="html"><![CDATA[지금껏 볼 수 없었던 '체험형 영화', 8월 2일 개봉 신비로운 우주의 세계와 배우 도경수의 황홀한 연기가 스크린을 수놓는다. 쉽게 예상할 수 있는 익숙한 스토리는 호불호가 갈릴 수 있지만, 그 이상의 값진 영화적]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비공식작전' 하정우X주지훈, 때론 아는 맛이 무섭다 [Oh!쎈 이슈]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004898440</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003171013"/>
         <updated>2023-07-30T08:07:09.743Z</updated>
         <content type="html"><![CDATA[배우 하정우가 다시 일상을 찾아가고 있다. 연기부터 연출까지, 다시 초심으로 돌아가고자 했다는 하정우다. 24일 서울시 종로구 소격동의 한 카페에서 영화 '비공식작전'(감독 김성훈)의 배우 하정우와 만나 다양한 이야]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D-16 ‘오펜하이머’, 벌써 예매율 TOP5 등극]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005165678</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005165678"/>
-        <updated>2023-07-30T08:07:09.744Z</updated>
-        <content type="html"><![CDATA[심상치 않은 흥행 조짐이다. IMAX 예매 오픈 하루 만에 매진을 기록하며 폭발적 흥행 신드롬을 일으키고 있는 영화 ‘오펜하이머’가 무려 개봉 16일 전인 오늘(30일) 전체 예매율 TOP 5에 등극하는 기염을 토했]]></content>
     </entry>
 </feed>
