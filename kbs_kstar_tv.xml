@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jul 2023 21:03:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 22:07:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘연인’ 안은진, "꼭 도전하고 싶은 작품이었다!"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=273374</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=273374</guid>
+            <pubDate>Sun, 30 Jul 2023 22:06:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273374">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230727085143_114eff391ec699d5868b793539895920.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273374"> ‘연인’ 안은진, "꼭 도전하고 싶은 작품이었다!"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230727085143_114eff391ec699d5868b793539895920.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뭉쳐야 찬다 2] ‘어쩌다벤져스’..  조직력+팀워크]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=273618</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=272951">tvN '2억9천' 예비부부의 리얼 커플서바이벌 ... "이 커플이 위험하다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230723082857_a8214d7c282d802e66a2745de85a193f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ENA ‘오랫동안 당신을 기다렸습니다’ 한철수 감독... "다양한 군상들이 그려내는 '기다림'의 실체"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=272714</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=272714</guid>
-            <pubDate>Sun, 23 Jul 2023 00:37:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=272714">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230721111753_485824a53bab79b5f5d52688f8e6c082.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=272714">ENA ‘오랫동안 당신을 기다렸습니다’ 한철수 감독... "다양한 군상들이 그려내는 '기다림'의 실체" </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230721111753_485824a53bab79b5f5d52688f8e6c082.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
