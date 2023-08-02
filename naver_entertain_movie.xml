@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-08-02T19:05:14.304Z</updated>
+    <updated>2023-08-02T20:03:40.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이맥스ㆍ돌비 잡아라… 한국 영화 빅4 “여름 흥행 승부처는 특별관”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000753149</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000753149"/>
+        <updated>2023-08-02T20:02:47.552Z</updated>
+        <content type="html"><![CDATA[지난달 26일 개봉한 영화 ‘밀수’는 네 가지 방식으로 상영되고 있다. 일반 2D 상영을 비롯해 아이맥스와 4DX, 스크린X로도 볼 수 있다. ‘밀수’뿐 아니다. ‘더 문’은 아이맥스와 4DX 이외 돌비 시네마와 돌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['타겟' 숨 막히는 45초...메인 예고편 공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001265438</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005543013"/>
         <updated>2023-08-02T09:03:22.721Z</updated>
         <content type="html"><![CDATA[배우 박보영이 5년 만의 스크린 복귀작인 ‘콘크리트 유토피아’를 통한 연기변신과 캐릭터 ‘명화’를 향한 애정, 대중에게 각인된 청순 러블리의 이미지에 대한 솔직한 생각들을 털어놨다. 박보영은 영화 ‘콘크리트 유토피아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['무진기행'의 마지막 문장, 이 영화에선 왜 빠졌을까]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002401295</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002401295"/>
-        <updated>2023-08-02T09:03:22.727Z</updated>
-        <content type="html"><![CDATA[윤정희를 돌아보는 영화 &lt;안개&gt; ▲ 영화 &lt;안개&gt; 스틸 이미지 ⓒ 태창흥업주식회사 지난 1월 19일 윤정희가 세상을 떠났다. 1960, 1970년대를 풍미했던 여배우의 죽음을 두고 고인을 추모하는 글이 적잖게 눈에]]></content>
     </entry>
 </feed>
