@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-08-03T12:14:18.502Z</updated>
+    <updated>2023-08-03T14:03:26.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더 문' 도경수 살아야 한다, 반드시(종합) [Oh!쎈 초점]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004901167</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004901167"/>
+        <updated>2023-08-03T14:02:33.152Z</updated>
+        <content type="html"><![CDATA[초보 우주 대원 선우(도경수 분)는 끝내 망망한 우주에 혼자 남겨진다. 그가 어떻게 살아남아 지구로 돌아갈 것인가. 영화 ‘더 문’에서 “유성우 예상 충돌 지점. 좌표 좀 부탁드립니다”라고 긴박하게 말하는, 의욕 넘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이선균X정유미 ‘잠’, 봉준호도 사로잡다!]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000952877</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005543800"/>
         <updated>2023-08-03T09:03:21.958Z</updated>
         <content type="html"><![CDATA[영화 ‘더 문’(감독 김용화)이 올여름 관객들에게 경이로운 달과 우주의 모습을 생생히 전달해 화제를 모으고 있는 가운데, 관객들의 사랑에 힘입어 개봉 2주 차 무대인사를 확정했다. ‘더 문’은 사고로 인해 홀로 달에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비공식작전', 골든에그지수 95%…실관람객 호평 터졌다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000443909</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000443909"/>
-        <updated>2023-08-03T12:13:25.514Z</updated>
-        <content type="html"><![CDATA[영화 '비공식작전'이 높은 관객 만족도를 기반으로 입소문 흥행에 시동을 건다. 실종된 동료를 구하기 위해 레바논으로 떠난 외교관 '민준'과 현지 택시기사 '판수'의 버디 액션 영화 '비공식작전'이 2일 개봉 이후 동]]></content>
     </entry>
 </feed>
