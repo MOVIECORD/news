@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Aug 2023 14:05:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 15:07:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뮤직뱅크] 그룹 TAN(티에이엔), 극한데뷔 야생돌 첫 공개 ♪HEARTBEAT]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=274605</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=274605</guid>
+            <pubDate>Fri, 04 Aug 2023 15:06:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=274605">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230805000550_a6e4cef3a4610c0350b343f13d4c4691.PNG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=274605">[뮤직뱅크] 그룹 TAN(티에이엔), 극한데뷔 야생돌 첫 공개 ♪HEARTBEAT</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230805000550_a6e4cef3a4610c0350b343f13d4c4691.PNG" length="0" type="image/PNG"/>
+        </item>
         <item>
             <title><![CDATA[[독립영화관] ‘새벽 두시에 불을 붙여’  1995년, 경기여자기술학원에서는... (유종석 감독,2022)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=274601</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230802232843_a28a753e57ebb27aa007d2b0116b0975_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[옥탑방의 문제아들] 희은에게 그냥 좋은 느낌이었던 시경! 두 사람은 서로 사랑하고 아끼는 선후배 사이]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=274296</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=274296</guid>
-            <pubDate>Wed, 02 Aug 2023 15:06:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=274296">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230802232224_c5d87af2e3932032bd4748b093778ee7_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=274296">[옥탑방의 문제아들] 희은에게 그냥 좋은 느낌이었던 시경! 두 사람은 서로 사랑하고 아끼는 선후배 사이</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230802232224_c5d87af2e3932032bd4748b093778ee7_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
