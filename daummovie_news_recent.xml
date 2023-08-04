@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-08-04T19:05:08.504Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 04 Aug 2023 20:08:03 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['밀수' 10일째 1위 사수…오늘(5일) 300만 돌파한다 [美친 box]]]></title>
+            <link>https://v.daum.net/v/20230805045923100</link>
+            <guid>https://v.daum.net/v/20230805045923100</guid>
+            <pubDate>Fri, 04 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;영화 ‘밀수’가 열흘 간 박스오피스 1위를 사수했다. 5일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날(4일) ‘밀수’는 21만 135명을 동원해 일별 박스오피스 1위를 차지했다. 이날까지 ‘밀수’의 누적 관객수는 280만 8091명이다. 오늘(5일) 300만 관객을 돌파할 것으로 보인다. 지난달 26일 극장 개봉한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F05%2Fpoctan%2F20230805045923692mflz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[“내 연기의 민낯 보는 일 여전히 괴로워요”]]></title>
+            <link>https://v.daum.net/v/20230805040910990</link>
+            <guid>https://v.daum.net/v/20230805040910990</guid>
+            <pubDate>Fri, 04 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“기를 쓰고 연기를 준비하는 건 배우로서 ‘기본’을 하는 것일 뿐 열심히 했다고 해서 잘 못했는데 좋은 평가를 받을 순 없다. 현장이 좋을 수 있지만 행복하긴 어려운 건 누가 나를 괴롭혀서가 아니라 내가 내 민낯을 보는 게 괴롭기 때문이고, 그래서 눈물이 나더라도 계속 해야 하기 때문이다.” 지난달 21일 서울 종로구 한 카페에서 만난 김혜수는 이렇게 말]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F05%2Fkukminilbo%2F20230805040912081awaf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
