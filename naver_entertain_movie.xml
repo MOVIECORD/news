@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-08-04T12:17:33.434Z</updated>
+    <updated>2023-08-04T14:05:17.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[독립영화관] ‘새벽 두시에 불을 붙여’ 1995년, 경기여자기술학원에서는... (유종석 감독,2022)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000057824</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000057824"/>
+        <updated>2023-08-04T14:04:28.267Z</updated>
+        <content type="html"><![CDATA[오늘 밤 KBS 독립영화관에서는 ‘타오르는 단편들’이라는 부제로 세 편의 독립영화가 소개된다. 유종석 감독의 &lt;새벽 두시에 불을 붙여&gt;와 &lt;아쿠아마린&gt;, 그리고 조은선 감독의 &lt;피아니스트&gt;이다. 이중 &lt;새벽 두시에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팝인터뷰]하정우 "주지훈과 '두발로 티켓팅'으로 관계 성장..서로를 더 알게 돼"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003646141</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003757717"/>
         <updated>2023-08-04T08:18:34.097Z</updated>
         <content type="html"><![CDATA[영화 '비공식작전'이 2일 연속 동시기 개봉작 박스오피스 1위에 등극했다. '비공식작전'은 실종된 동료를 구하기 위해 레바논으로 떠난 외교관 민준(하정우)과 현지 택시기사 판수(주지훈)의 버디 액션. 4일 오전 영화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봉준호 감독 "'밀수', 통쾌한 액션 오락 대작…역시 류승완 감독은 마스터"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003757713</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003757713"/>
-        <updated>2023-08-04T08:18:34.113Z</updated>
-        <content type="html"><![CDATA[영화 '밀수'가 전국 방방곡곡에서 터진 호평 일색 관람 반응들이 입소문으로 확산되며 개봉 2주차에도 시원하고 짜릿한 흥행 순항을 알리고 있다. 이를 뒷받침해줄 일명 ''밀수' 출구 추천 영상'이 함께 공개됐다. 영화]]></content>
     </entry>
 </feed>
