@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-08-05T11:05:40.701Z</updated>
+    <updated>2023-08-05T13:05:04.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[학연·혈연에 팬心까지 총동원 …특별출연 '美친 라인업'[이슈S]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000444372</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000444372"/>
+        <updated>2023-08-05T13:04:17.058Z</updated>
+        <content type="html"><![CDATA[예상치 못한 스타들의 우정 출연은 영화와 드라마의 보는 맛을 올려주는 요소 중 하나. 일반 출연과 달리 대부분 무보수로 진행되는 우정 출연의 경우 학연-지연-혈연 등 기존의 관계를 백방으로 이용하는 경우가 많다. 오]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[류승완 감독 ‘밀수’ 300만 돌파, 예매율도 1위 “입소문 전쟁의 승자[MD픽](종합)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003758033</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003172520"/>
         <updated>2023-08-05T07:02:54.122Z</updated>
         <content type="html"><![CDATA['D.P.'의 정해인이 더 단단해져 돌아왔다. 군복을 입고, 앞으로 나아갈 추진력을 얻었다는 정해인은 이제 군복을 벗어던지고, 또 다른 발걸음을 내디딜 준비를 마쳤다. 3일 서울시 강남구 역삼동의 한 카페에서 넷플릭]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['밀수' 300만 돌파 '범죄도시3' 다음…김혜수·염정아·조인성 "감사"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006973035</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0006973035"/>
-        <updated>2023-08-05T07:02:54.127Z</updated>
-        <content type="html"><![CDATA[영화 '밀수'(감독 류승완)가 300만 관객을 돌파했다. 영화진흥위원회 통합권전산망에 따르면 '밀수'는 개봉 11일째인 5일 300만 관객을 돌파했다. 이로써 '밀수'는 2023년 개봉 한국 영화 중 '범죄도시3 ']]></content>
     </entry>
 </feed>
