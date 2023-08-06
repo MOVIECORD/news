@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-08-06T18:07:48.747Z</updated>
+    <updated>2023-08-06T19:03:22.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 '바비' 전세계 매출 10억 달러 돌파…매출절반은 美서 발생]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014115619</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014115619"/>
+        <updated>2023-08-06T19:02:35.185Z</updated>
+        <content type="html"><![CDATA[거윅, 여성 단독 감독으로는 처음으로 '10억 달러 클럽' 가입 이지헌 특파원 = 영화 '바비'가 북미를 중심으로 흥행몰이에 성공하면서 전 세계 총매출 10억 달러(약 1조3천억원)를 돌파했다. 6일(현지시간) 블룸]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[내가 본 '도경수'] 12년 차의 여유, 기분 좋은 발견]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000231479</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=021&amp;aid=0002586842"/>
         <updated>2023-08-06T06:04:39.592Z</updated>
         <content type="html"><![CDATA[영화 ‘밀수’가 여름 극장가 ‘빅4 대전’에서 확실한 주도권을 쥐었다. 영화관입장권통합전산망에 따르면, ‘밀수’는 5일 하루동안 38만3238명을 동원하며 300만 고지를 넘었다. 누적 관객수는 319만1512명이다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['망한 세상' 좀비에 물리기 전에 하고 싶은 것들]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002401654</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002401654"/>
-        <updated>2023-08-06T06:04:39.594Z</updated>
-        <content type="html"><![CDATA[&lt;좀100: 좀비가 되기 전에 하고 싶은 100가지&gt; ▲ 넷플릭스 오리지널 영화 &lt;좀100&gt; 포스터. ⓒ 넷플릭스 지난 6월 말, 한국벤처캐리탈협회 면접장에서 면접관이 황당무계한 질문을 던진다. "사축 인간이 될 수]]></content>
     </entry>
 </feed>
