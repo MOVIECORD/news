@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-08-07T14:08:13.234Z</updated>
+    <updated>2023-08-07T15:09:30.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 ‘바비’ 글로벌 매출 10억 달러 돌파]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000905218</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000905218"/>
+        <updated>2023-08-07T15:08:38.374Z</updated>
+        <content type="html"><![CDATA[영화 ‘바비’가 북미를 중심으로 흥행몰이에 성공하면서 전 세계 총매출 10억 달러(약 1조3천억원)를 돌파했다. 6일(현지시간) 블룸버그 통신 등에 따르면 워너브러더스는 영화 바비가 개봉 셋째 주 한 주간 북미에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마고 로비 자신감 현실 됐다..'바비', 글로벌 흥행 수익 10억 달러 돌파(공식)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003646526</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003646509"/>
         <updated>2023-08-07T11:04:17.299Z</updated>
         <content type="html"><![CDATA[배우 박서준이 영화 무대인사 중 태도 논란에 휩싸인 가운데, 걱정한 팬들을 위해 글을 남겼다. 7일 박서준은 공식 팬카페에 "혹시나 상처받은 분들이 있을까봐 고민 끝에 글을 남긴다. 처음 이 사실을 알고 너무 당황스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팝's현장]유해진X김희선이 사랑하는 사이라니 "10년은 같이 한듯"(달짝지근해)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003646508</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003646508"/>
-        <updated>2023-08-07T11:04:17.303Z</updated>
-        <content type="html"><![CDATA[유해진, 김희선이 로코 호흡을 맞춘 소감을 밝혔다. 영화 '달짝지근해: 7510'(감독 이한/제작 무비락) 언론배급시사회가 7일 오후 서울 용산구 CGV 용산아이파크몰에서 진행됐다. 이한 감독과 배우 유해진, 김희선]]></content>
     </entry>
 </feed>
