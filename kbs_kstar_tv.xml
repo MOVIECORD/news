@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Aug 2023 22:03:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 00:37:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JTBC '킹더랜드 해피엔딩... "이준호-임윤아, 웨딩마치"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=274882</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=274882</guid>
+            <pubDate>Mon, 07 Aug 2023 00:35:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=274882">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230807083918_32db9e99d5def4981ce79296ae821c7a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=274882">JTBC '킹더랜드 해피엔딩... "이준호-임윤아, 웨딩마치"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230807083918_32db9e99d5def4981ce79296ae821c7a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[연인 1회] 남궁민, 피투성이 열연... “분꽃이 피는 소리를 들어본 적 있습니까?"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=274691</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273942">"안싸우면 다행이다, 인피니트!" 여섯 남자의 무인도 표류기</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230731085431_57daabfa3976c3704f714ace59c7fb10.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘남남’ 전혜진-최수영-안재욱, 아슬아슬 삼자대면]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=273925</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=273925</guid>
-            <pubDate>Mon, 31 Jul 2023 02:29:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=273925">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230731083548_7770bacc8a2fe3f056aaa2adaf37806f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=273925">‘남남’ 전혜진-최수영-안재욱, 아슬아슬 삼자대면</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230731083548_7770bacc8a2fe3f056aaa2adaf37806f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
