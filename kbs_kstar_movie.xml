@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 22:07:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 00:35:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미야자키 하야오 신작 '그대들은 어떻게 살 것인가' 하반기 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=275048</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=275048</guid>
+            <pubDate>Tue, 08 Aug 2023 00:33:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=275048">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230808090627_e7f8bee780b2b1667401669c3659673f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=275048">미야자키 하야오 신작 '그대들은 어떻게 살 것인가' 하반기 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230808090627_e7f8bee780b2b1667401669c3659673f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] 더 문, “메이데이 메이데이, 수동조작으로 바꿔라!” (김용화 감독,2023)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=274908</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=274245">티빙 '잔혹한 인턴' ‘인턴’ 라미란 vs. '실장’ 엄지원... "경력으로 살아남아라!"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230802080651_afa3f8156bb8b911e3554d5b34a1dd41.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['D.P.' 시즌2,  "준호와 호열을 만나다"... 팬 이벤트와 라이브 토크 현장]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=274230</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=274230</guid>
-            <pubDate>Tue, 01 Aug 2023 23:02:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=274230">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230802073358_a99c5d7cff91beae75b54537288fc674.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=274230">'D.P.' 시즌2,  "준호와 호열을 만나다"... 팬 이벤트와 라이브 토크 현장</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230802073358_a99c5d7cff91beae75b54537288fc674.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
