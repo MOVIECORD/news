@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 05:05:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 10:06:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KBS대기획 'ㅇㅁㄷ 지오디'... god 초고속매진 "팬들의 완전체 사랑"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=275408</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=275408</guid>
+            <pubDate>Wed, 09 Aug 2023 10:05:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=275408">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230809172315_a9d7c40c4f915f7d93fe5669d295dc37.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=275408">KBS대기획 'ㅇㅁㄷ 지오디'... god 초고속매진 "팬들의 완전체 사랑"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=KBS%2050%EB%85%84%20god%2025%EB%85%84%20KBS%20%ED%95%9C%EA%B0%80%EC%9C%84%20%EB%8C%80%EA%B8%B0%ED%9A%8D">KBS 50년 god 25년 KBS 한가위 대기획</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230809172315_a9d7c40c4f915f7d93fe5669d295dc37.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[과학수사대 스모킹 건] ‘어금니 아빠’ 이영학, 그 추악한 실체는]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=275203</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230808135136_e5b8aa9a045620e383ca752076be30da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['순정복서' 김진우, "청춘과 사랑과 성장의 드라마"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=275033</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=275033</guid>
-            <pubDate>Tue, 08 Aug 2023 01:56:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=275033">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230808101854_edc305a34d335408b4280429e2281797.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=275033">'순정복서' 김진우, "청춘과 사랑과 성장의 드라마"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%88%9C%EC%A0%95%EB%B3%B5%EC%84%9C">월화드라마 순정복서</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230808101854_edc305a34d335408b4280429e2281797.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
