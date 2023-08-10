@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 21:05:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 22:06:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니플러스 '아소카', "아소카 타노, 새로운 전설의 시작"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=274496</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=274496</guid>
+            <pubDate>Thu, 10 Aug 2023 22:05:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=274496">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230804093332_df30eca787d1e192280487ccef7003fc.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=274496">디즈니플러스 '아소카', "아소카 타노, 새로운 전설의 시작"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230804093332_df30eca787d1e192280487ccef7003fc.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 이병헌 “이병헌은 그 때 왜 헛구역질을 했을까?” (영화 ‘콘크리트 유토피아’)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=275472</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=274908">[리뷰] 더 문, “메이데이 메이데이, 수동조작으로 바꿔라!” (김용화 감독,2023) </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230807100306_32a7102e3343e9a2d08565b18d97ee9a_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 김용화 감독   'The Dark Side of the Moon'  (영화 ‘더 문’)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=274884</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=274884</guid>
-            <pubDate>Mon, 07 Aug 2023 00:35:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=274884">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230807092125_00d423d90733c837acab9114d983b72b.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=274884">[인터뷰] 김용화 감독   'The Dark Side of the Moon'  (영화 ‘더 문’)  </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230807092125_00d423d90733c837acab9114d983b72b.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
