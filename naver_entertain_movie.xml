@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-08-10T17:07:40.093Z</updated>
+    <updated>2023-08-10T18:07:43.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배우 김혜나, 영화 ‘그녀의 취미생활’ 캐릭터 포스터로 ‘시선 압도’]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000906030</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000906030"/>
+        <updated>2023-08-10T18:06:52.559Z</updated>
+        <content type="html"><![CDATA[배우 김혜나가 치명적이고 강렬한 영화 ‘그녀의 취미생활’을 예고했다. 10일 소속사 엔터세븐은 공식 SNS를 통해 김혜나의 영화 ‘그녀의 취미생활’ 캐릭터 포스터를 오픈, 오는 30일 개봉할 워맨스릴러를 기대하게 했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘제19회 제천국제음악영화제’ 10일 개막]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000906019</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000050878"/>
         <updated>2023-08-10T11:04:37.471Z</updated>
         <content type="html"><![CDATA[- 영화는 크게 몇장의 챕터로 구성돼 있다. 그리고 챕터를 나누는 인터 타이틀이 곰팡이의 출생 전후 디데이(D-day)다. 디데이로 챕터를 구획한 이유가 무엇인가. = 이 작품은 인간이 주인공인 보통의 성장 영화 문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기획] ‘다섯 번째 흉추’, 그로테스크한 사랑의 아름다움]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000050877</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000050877"/>
-        <updated>2023-08-10T11:04:37.472Z</updated>
-        <content type="html"><![CDATA[를 연출한 박세영 감독의 작품 세계는 ‘물건의 로드무비’로 요약할 수 있다. 한 남자의 중고물품 거래기를 그린 &lt;캐쉬백&gt;과 알 수 없는 자들이 알 수 없는 수취인에게 성한 물건을 배달해야 하는 &lt;갓스피드&gt;까지, 박세]]></content>
     </entry>
 </feed>
