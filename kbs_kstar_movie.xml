@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 23:04:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 02:36:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 이병헌 “이병헌은 그 때 왜 헛구역질을 했을까?” (영화 ‘콘크리트 유토피아’)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=275472</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=275472</guid>
+            <pubDate>Thu, 10 Aug 2023 02:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=275472">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230810091604_e3ab210e5b9942c7392ef1b3883ca493.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=275472">[인터뷰] 이병헌 “이병헌은 그 때 왜 헛구역질을 했을까?” (영화 ‘콘크리트 유토피아’)  </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230810091604_e3ab210e5b9942c7392ef1b3883ca493.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[티빙 오리지널 '이재, 곧 죽습니다'... 서인국-박소담-김지훈 "이제 곧 시작합니다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=275001</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=274884">[인터뷰] 김용화 감독   'The Dark Side of the Moon'  (영화 ‘더 문’)  </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230807092125_00d423d90733c837acab9114d983b72b.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[SWIFF2023] 서울국제여성영화제, ‘25주년 특별전 RE:Discover’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=274841</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=274841</guid>
-            <pubDate>Mon, 07 Aug 2023 00:35:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=274841">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230807080136_80fa8da0b82fbbe81775e9ebfc9d82ae.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=274841">[SWIFF2023] 서울국제여성영화제, ‘25주년 특별전 RE:Discover’ </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230807080136_80fa8da0b82fbbe81775e9ebfc9d82ae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
