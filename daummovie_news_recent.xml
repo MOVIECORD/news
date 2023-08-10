@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-08-10T18:07:43.705Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 10 Aug 2023 20:04:14 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] '더 문' 김용화 감독 "필연적으로 달이어야 했다"]]></title>
+            <link>https://v.daum.net/v/20230811032616189</link>
+            <guid>https://v.daum.net/v/20230811032616189</guid>
+            <pubDate>Thu, 10 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 모신정 기자]&nbsp;'신과 함께:죄와 벌', '신과 함께:인과 연' 두 편으로 쌍천만 흥행을 이뤘던 김용화 감독이 설경구·도경수·김희애가 주연을 맡은 영화 '더 문'으로 돌아왔다.&nbsp; 지난 2일 개봉한 '더 문'은 사고로 인해 홀로 달에 고립된 우주 대원 선우와 필사적으로 그를 구하려는 전 우주센터장 재국의 사투를 그린 영화다. 김용화 감독의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F11%2FSpoHankook%2F20230811032619080htjf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
