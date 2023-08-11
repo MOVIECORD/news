@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-08-11T06:12:03.981Z</updated>
+    <updated>2023-08-11T07:06:56.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['콘크리트 유토피아' 엄태화 감독, 'D.P' 한준희 감독과 스페셜 GV]]></title>
+        <id>https://v.daum.net/v/20230811154517336</id>
+        <link href="https://v.daum.net/v/20230811154517336"/>
+        <updated>2023-08-11T07:06:55.291Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '콘크리트 유토피아'의 엄태화 감독과 드라마 'D.P.'의 한준희 감독이 만나 스페셜 GV를 개최한다. '콘크리트 유토피아'(감독 엄태화, 제작 클라이맥스 스튜디오, 공동제작 BH엔터테인먼트, 제공배급 롯데엔터테인먼트)는 대지진으로 폐허가 되어 버린 서울, 유일하게 남은 황궁 아파트로 생존자들이 모여들며 시작되는 이야기를]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["재난판 '기생충'"…'콘크리트 유토피아' 역대급 관객 호평]]></title>
+        <id>https://v.daum.net/v/20230811151641458</id>
+        <link href="https://v.daum.net/v/20230811151641458"/>
+        <updated>2023-08-11T07:06:55.298Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '콘크리트 유토피아'가 관객들의 폭발적인 호평을 이끌어낸 특별한 관람 포인트를 공개했다. #1. “재난판 '기생충'을 보는 기분” 신선한 전개와 여운 남긴 메시지 '콘크리트 유토피아'(감독 엄태화, 제작 클라이맥스 스튜디오 BH엔터테인먼트, 제공배급 롯데엔터테인먼트)는 대지진으로 폐허가 되어 버린 서울 유일하게 남은 황궁]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘콘크리트 유토피아’와 ‘D.P.’의 만남‥엄태화-한준희 스페셜 GV]]></title>
         <id>https://v.daum.net/v/20230811145807848</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230811122728320"/>
         <updated>2023-08-11T06:12:02.998Z</updated>
         <content type="html"><![CDATA[[스포티비뉴스=유은비 기자] 2023년 가장 유니크한 공포 '잠'이 매일 밤 잠들지 못하는 공포에 맞서는 현실 신혼부부로 분한 정유미와 이선균의 케미스트리 스틸을 공개했다. 오는 9월 6일 개봉을 앞둔 영화 '잠'이 정유미와 이선균의 뜨거운 연기 케미스트리를 기대케 하는 스틸 4종을 공개했다. '잠'은 행복한 신혼부부 현수와 수진을 악몽처럼 덮친 남]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["韓영화 쌍끌이 흥행"…'콘크리트 유토피아', 이틀 연속 정상→'밀수' 400만 돌파 눈앞]]></title>
-        <id>https://v.daum.net/v/20230811115819722</id>
-        <link href="https://v.daum.net/v/20230811115819722"/>
-        <updated>2023-08-11T04:07:12.916Z</updated>
-        <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 영화 '콘크리트 유토피아'와 '밀수'가 여름 극장가 쌍끌이 흥행을 견인하고 있다. 11일 영화진흥위원회 통합전산망 집계에 따르면 영화 '콘크리트 유토피아'는 전날 16만 7929명이 관람해 개봉 후 이틀 연속 박스오피스 정상을 지키고 있다. 누적 관객수는 41만 6584명으로, 개봉 첫 주 주말에도 흥행 돌풍을 기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['잠' 이선균x정유미, 공포에 맞선 신혼부부]]></title>
-        <id>https://v.daum.net/v/20230811115045532</id>
-        <link href="https://v.daum.net/v/20230811115045532"/>
-        <updated>2023-08-11T04:07:12.917Z</updated>
-        <content type="html"><![CDATA[[OSEN=김보라 기자] 영화 '잠' 측이 매일 밤 잠들지 못하는 공포에 맞선 신혼부부 역의 정유미와 이선균의 스틸을 공개했다. '잠'(감독 유재선, 배급 롯데엔터테인먼트, 제작 루이스픽쳐스)은 행복한 신혼부부 현수(이선균 분)와 수진(정유미 분)을 악몽처럼 덮친 남편의 수면 중 이상행동, 잠드는 순간 시작되는 끔찍한 공포의 비밀을 풀기 위해 애쓰는 두]]></content>
     </entry>
 </feed>
