@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-08-11T18:07:16.703Z</updated>
+    <updated>2023-08-11T21:07:37.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['부자언니' 유수진, 배우 최병모 위해 '더 문' 돌비관 전체 대관...'통 큰 응원']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001266548</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001266548"/>
+        <updated>2023-08-11T21:06:40.272Z</updated>
+        <content type="html"><![CDATA['부자언니' 금융인 유수진이 영화 '더 문'에 출연한 최병모를 위해 코엑스 돌비관을 전체 대관해 통 큰 응원에 나섰다. 유수진은 최병모와 그의 아내 키리엘 이규인의 오래된 지인으로 '온앤오프', '더 지니어스' 등]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['밀수' 400만 돌파...손익분기점 넘었다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001266545</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000197539"/>
         <updated>2023-08-11T10:05:52.226Z</updated>
         <content type="html"><![CDATA[영화 '밀수'가 400만 관객을 돌파했다. [감독: 류승완 | 제작: (주)외유내강 | 제공/배급: NEW] 올여름 시원한 연출과 유쾌한 기운으로 입소문 흥행을 이어가고 있는 영화 '밀수'가 영화진흥위원회 통합전산망 기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘밀수’ 400만 돌파..손익분기점 넘어 흥행가도로 [종합]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003294194</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003294194"/>
-        <updated>2023-08-11T10:05:52.228Z</updated>
-        <content type="html"><![CDATA[류승완 감독의 ‘밀수’가 400만 고지에 올라 손익분기점을 넘어섰다. 11일 NEW는 ‘밀수’가 이날 오후5시 30분 기준 누적 관객 400만명을 넘어섰다고 알렸다. 지난달 26일 개봉한 ‘밀수’는 올여름 한국영화]]></content>
     </entry>
 </feed>
