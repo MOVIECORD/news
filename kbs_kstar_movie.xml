@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Aug 2023 03:07:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Aug 2023 04:05:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[SNL코리아] 이다희 "걸크러쉬, 꼰밍아웃, 워터밤 댄스까지... 다 해봄"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=275743</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=275743</guid>
+            <pubDate>Sat, 12 Aug 2023 04:03:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=275743">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230812123658_fc866e829db94033cb20336fd5dc9f14.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=275743">[SNL코리아] 이다희 "걸크러쉬, 꼰밍아웃, 워터밤 댄스까지... 다 해봄"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230812123658_fc866e829db94033cb20336fd5dc9f14.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 '하트 오브 스톤' 공개 ..  갤 가돗의 미션 임파서블]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=275716</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=275005">CGV, 테오도르 쿠렌치스 기획전 ‘클래식의 구원자’  </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230808100415_2b8de5bdb4130efbdd0c85dc1c19dc72.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["좀비버스 탑승가이드" 넷플릭스 K-좀비 예능의 탄생]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=274997</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=274997</guid>
-            <pubDate>Tue, 08 Aug 2023 01:56:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=274997">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230808100055_1e8f491f7e8abde3f3e46a5c1cedf06b.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=274997">"좀비버스 탑승가이드" 넷플릭스 K-좀비 예능의 탄생</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230808100055_1e8f491f7e8abde3f3e46a5c1cedf06b.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
