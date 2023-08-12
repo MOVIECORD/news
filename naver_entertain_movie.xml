@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-08-12T06:04:51.705Z</updated>
+    <updated>2023-08-12T07:05:30.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하정우·주지훈, '비공식작전' 흥행부진에 "눈물파티"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012028121</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012028121"/>
+        <updated>2023-08-12T07:04:36.408Z</updated>
+        <content type="html"><![CDATA[문예빈 인턴 기자 = 배우 하정우·주지훈이 자신들이 주연을 맡은 영화 '비공식작전'(감독 김성훈)의 흥행 부진에 속상한 마음을 내비쳤다. 하정우는 지난 11일 공개된 성시경 웹 예능 '성시경의 먹을 텐데'에서 주지훈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더 문' 김희애·'밀수' 염정아·'콘유' 김선영, 극장 달군 존재감 [Oh!쎈 초점]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004906764</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003294302"/>
         <updated>2023-08-12T02:09:49.339Z</updated>
         <content type="html"><![CDATA[스릴러 영화 ‘타겟’을 다채롭게 만날 수 있게 됐다. 중고거래로 범죄의 표적이 된 수현(신혜선)의 일상 속에서 벌어지는 서스펜스를 담은 스릴러 영화 ‘타겟’이 ‘피라미드 게임’의 달꼬냑 작가와 함께한 스페셜 웹툰을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['콘유' 개봉 첫 주말 100만 거뜬할듯…손익분기점 넘긴 '밀수']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005550023</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005550023"/>
-        <updated>2023-08-12T02:09:49.370Z</updated>
-        <content type="html"><![CDATA[이병헌, 박서준, 박보영 주연 영화 ‘콘크리트 유토피아’(감독 엄태화)가 3일 연속 박스오피스 1위를 지키며 개봉 첫 주말 100만 돌파를 앞두고 있다. 김혜수, 염정아 주연 ‘밀수’(감독 류승완)는 개봉 3주 만에]]></content>
     </entry>
 </feed>
