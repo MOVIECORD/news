@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Aug 2023 22:05:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Aug 2023 23:04:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이선균-유재명, 드라마 ‘노 웨이 아웃’에서 격돌]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=275518</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=275518</guid>
+            <pubDate>Sun, 13 Aug 2023 23:03:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=275518">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230814080228_2d21ce2df06596e87e1901661d6617f4.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=275518">이선균-유재명, 드라마 ‘노 웨이 아웃’에서 격돌</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230814080228_2d21ce2df06596e87e1901661d6617f4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘연인’ 안은진, 곱게 자란 애기씨의 변신]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=275836</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=275054">tvN '아라문의 검' 메인포스터.. "아스달 장동건 - 아고 이준기"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230808091531_f3321d6273f66d5a3e8c03c2336507b5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[JTBC '킹더랜드 해피엔딩... "이준호-임윤아, 웨딩마치"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=274882</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=274882</guid>
-            <pubDate>Mon, 07 Aug 2023 00:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=274882">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230807083918_32db9e99d5def4981ce79296ae821c7a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=274882">JTBC '킹더랜드 해피엔딩... "이준호-임윤아, 웨딩마치"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230807083918_32db9e99d5def4981ce79296ae821c7a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
