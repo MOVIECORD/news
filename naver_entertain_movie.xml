@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-08-16T15:08:23.090Z</updated>
+    <updated>2023-08-16T16:10:08.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최근 5년간 개봉 한국영화 중 323편 ‘관객 뻥튀기’ [연예뉴스 HOT]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001069511</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001069511"/>
+        <updated>2023-08-16T16:09:17.120Z</updated>
+        <content type="html"><![CDATA[최근 5년간 개봉한 한국 영화 가운데 최소 323편의 관객수가 부풀려진 것으로 드러났다. 16일 서울경찰청 반부패공공범죄수사대는 CGV·롯데시네마·메가박스 등 멀티플렉스 3개사와 배급사 24개 업체 관계자 69명을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CGV, 23일 세계 3대 기타리스트 에릭 클랩튼 공연 실황 개봉(공식)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003648110</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003295072"/>
         <updated>2023-08-16T09:06:59.472Z</updated>
         <content type="html"><![CDATA[배우 이솜, 이동휘, 김종수가 영화 ‘천박사 퇴마 연구소: 설경의 비밀’에서 활약을 예고했다. ‘천박사 퇴마 연구소: 설경의 비밀’(이하 ‘천박사’)은 귀신을 믿지 않지만 귀신 같은 통찰력을 지닌 가짜 퇴마사 천박사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘인디아나 존스5’ ‘미션 임파서블7’ 흥행실패, 각각 1억달러 손해 “당혹스러운 결과”[MD픽]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003761034</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003761034"/>
-        <updated>2023-08-16T09:06:59.473Z</updated>
-        <content type="html"><![CDATA[여름 시장을 석권할 것이라고 예상됐던 ‘인디아나 존스:운명의 다이얼’(인디아나 존스5)과 ‘미션 임파서블:데드 레코닝 파트1’(미션 임파서블7)이 기대에 못미치면서 각각 1억 달러(약 1,335억원)의 손해를 입게될]]></content>
     </entry>
 </feed>
