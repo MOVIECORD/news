@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-08-17T17:03:05.092Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 17 Aug 2023 21:06:35 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[감독에게 들어본 ‘콘크리트 유토피아’ 이모저모]]></title>
+            <link>https://v.daum.net/v/20230818060202703</link>
+            <guid>https://v.daum.net/v/20230818060202703</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(기사에 ‘콘크리트 유토피아’ 주요 내용이 담겨있습니다.) 영화 ‘콘크리트 유토피아’(감독 엄태화)는 재난을 가정해 사람을 들여다보는 이야기다. 절대 선, 절대 악 없이 평범한 사람들이 극한 상황에서 어떻게 변할 수 있는지 보여준다. 아파트라는 상징적인 공간을 두고 주민들은 집단 광기에 가까운 모습을 드러낸다. 그러나 무엇이 옳고 그른지 쉽사리 판단할]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F18%2Fkukinews%2F20230818060204535wkjx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이제 누가 SF 도전하겠나…韓영화 총체적 난국, 진퇴양난 딜레마 [TEN무비]]]></title>
+            <link>https://v.daum.net/v/20230818060102660</link>
+            <guid>https://v.daum.net/v/20230818060102660</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=최지예 기자]1년 중 가장 큰 여름 시장 대작으로 주목받았던 빅4 텐트폴 영화가 기대보다 저조한 성적을 내고 있다. 이를 바라보는 영화계 한숨이 깊어지고 있다. 영화 '밀수'(감독 류승완)를 시작으로 '더 문'(감독&nbsp;김용화)과 '비공식작전'(감독 김성훈), '콘크리트 유토피아'(감독 엄태화)까지 빅4 영화가 모두 개봉한 가운데, 각 작품의 흥행]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F18%2F10asia%2F20230818060105645wewr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[정우성 “영화 ‘비트’, ‘나에게 꿈이 없었다’ 내레이션 쓸 때부터 감독 꿈꿔…26년만에 이뤘죠”[SS인터뷰]]]></title>
+            <link>https://v.daum.net/v/20230818053018275</link>
+            <guid>https://v.daum.net/v/20230818053018275</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 조은별기자]“영화 ‘비트’의 ‘나에게 꿈이 없었다’ 내레이션을 쓸 때부터 감독을 꿈꿨던 것 같아요.” 전 세계에서 가장 잘생긴 감독인지는 모르겠지만 적어도 대한민국을 넘어 아시아에서 가장 잘생긴 감독이 탄생한 건 분명하다. 첫 장편상업영화 ‘보호자’의 연출을 맡은 정우성은 자신의 이름 석자를 널리 알린 영화 ‘비트’의 유명한 도입]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F18%2FSPORTSSEOUL%2F20230818053020423rfql.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[IS인터뷰] ‘보호자’ 김남길 “조연을 한다고 배우가 작아지나”]]></title>
+            <link>https://v.daum.net/v/20230818052505238</link>
+            <guid>https://v.daum.net/v/20230818052505238</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“좋은 작품이고 좋은 캐릭터라면 롤의 크기와 상관없이 참여를 해야 한다고 생각해요.” 배우 김남길은 영화 ‘보호자’ 개봉에 맞춰 최근 서울 종로구의 한 카페에서 진행된 인터뷰에서 이 같이 말했다. 김남길이 이 작품에서 연기한 우진은 주연급이지만, 완전한 주인공이라고 볼 수는 없다. ‘보호자’의 보호자는 정우성이 연기한 수혁이기 때문이다. 지난해 여름 시]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202308%2F18%2Filgansports%2F20230818052506943oujm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
