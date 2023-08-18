@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-08-18T15:05:53.988Z</updated>
+    <updated>2023-08-18T18:06:38.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['천박사' 강동원, 이런 비주얼 대찬성...스틸 최초 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001267169</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001267169"/>
+        <updated>2023-08-18T18:05:44.961Z</updated>
+        <content type="html"><![CDATA[가짜 퇴마사 '천박사'로 활약을 예고한 배우 강동원의 스틸 이미지가 공개됐다. '천박사 퇴마 연구소: 설경의 비밀'은 귀신을 믿지 않지만 귀신 같은 통찰력을 지닌 가짜 퇴마사 천박사(강동원 분)가 지금껏 경험해본 적]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비공식작전' 하정우X주지훈의 한국·모로코·이탈리아 가로지르는 열정]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003648566</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000050921"/>
         <updated>2023-08-18T12:13:42.356Z</updated>
         <content type="html"><![CDATA[- 액션을 위한 영화는 아니라는 감독의 말은 들었지만, &lt;보호자&gt; 액션의 차별성은 무엇인지 여전히 궁금하다. = 처음엔 설정을 많이 줬다. 예컨대 게르의 월등한 거구를 상대하는 수혁(정우성)의 움직임 안무에 초점을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기획] "감독님, 손에 피 좀 묻히고 갈게요.", 정우성 감독 데뷔작 ‘보호자’ 촬영 현장을 가다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000050920</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000050920"/>
-        <updated>2023-08-18T12:13:42.364Z</updated>
-        <content type="html"><![CDATA[코로나19 팬데믹 동안 극장가는 한산했지만, 영화 공장은 방역수칙 아래에서 쉬지 않고 돌아가며 이미 시동을 건 프로젝트들을 제작했다. &lt;씨네21&gt;은 국내 최초로 코로나19 확진자가 나온 지 석달 후인 2020년 4월]]></content>
     </entry>
 </feed>
