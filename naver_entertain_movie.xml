@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-08-19T19:03:07.878Z</updated>
+    <updated>2023-08-19T20:04:46.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오펜하이머' 5일 연속 1위…'콘크리트 유토피아' 2위 지켰다 [美친 box]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004911386</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004911386"/>
+        <updated>2023-08-19T20:04:00.131Z</updated>
+        <content type="html"><![CDATA[영화 ‘오펜하이머’가 5일 연속 1위를 차지했다. 20일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 전날(19일) ‘오펜하이머’는 34만 1054명이 들어 일별 박스오피스 1위를 차지했다. ‘오펜하이머’(감독]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박서준 "'콘크리트 유토피아', 무겁지만 가치있는 영화" [인터뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005554713</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002403212"/>
         <updated>2023-08-19T03:06:29.906Z</updated>
         <content type="html"><![CDATA[오는 24일 '여성예술가의 삶' 그린 개막작 &lt;쇼잉 업&gt;으로 서막 장식 ▲ 제25회 서울국제여성영화제 황혜림 프로그래머, 변재란 이사장 및 조직위원장, 배우 옥자연 홍보대사, 이숙경 집행위원장,손시내 프로그래머가 지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인간의 공포는 누구 때문일까]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002652919</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002652919"/>
-        <updated>2023-08-19T03:06:29.908Z</updated>
-        <content type="html"><![CDATA[멕시코의 과달라하라에서 열릴 국제출판협회 총회의 프로그램을 여러 나라 친구들과 함께 준비하고 있다. 강연의 주제도 잡고 연사도 추천한다. 종이에 인쇄를 해서 책을 만드는 일이 출판이라는 것이 지난 수백년간의 정의이지]]></content>
     </entry>
 </feed>
