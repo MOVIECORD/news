@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Aug 2023 22:05:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 23:03:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['오펜하이머' 관객 150만 돌파 ... 6일째 박스오피스 정상]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=277098</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=277098</guid>
+            <pubDate>Sun, 20 Aug 2023 23:02:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277098">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230821074231_27ef30e40fcb48dd6dd8fbfb9248ff5a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=277098">'오펜하이머' 관객 150만 돌파 ... 6일째 박스오피스 정상</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230821074231_27ef30e40fcb48dd6dd8fbfb9248ff5a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['무빙' 고윤정 "너에게만 비밀인데... 난, 그냥 체대 입시생이 아냐!"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=276953</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=276493">넷플릭스, 한국애니메이션도 클라이막스!...  '이 별에 필요한' 김태리 X 홍경 목소리 캐스팅</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230816103517_525a7130d0423d70c2bafb1696f34257.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이유 극장에서 본다 '아이유 콘서트 : 더 골든 아워'  9월 개봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=276488</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=276488</guid>
-            <pubDate>Wed, 16 Aug 2023 01:39:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276488">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230816102336_7a4487114c8f12ba5370fe19ed461c40.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=276488">아이유 극장에서 본다 '아이유 콘서트 : 더 골든 아워'  9월 개봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230816102336_7a4487114c8f12ba5370fe19ed461c40.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
