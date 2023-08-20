@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Aug 2023 20:03:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 21:04:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['순정복서' 관전 포인트... "복싱이 다가 아니다!"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=276773</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=276773</guid>
+            <pubDate>Sun, 20 Aug 2023 21:03:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=276773">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230818100144_91ef19769efc58dbfb8d6af812014087.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=276773">'순정복서' 관전 포인트... "복싱이 다가 아니다!" </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%88%9C%EC%A0%95%EB%B3%B5%EC%84%9C">월화드라마 순정복서</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230818100144_91ef19769efc58dbfb8d6af812014087.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[걸어서 환장 속으로] 박나래, 마미즈와 이탈리아 스타일로 변신...‘마릴린 나래’]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=277093</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%81%EC%83%81%EC%95%A8%EB%B2%94%20%EC%82%B0">영상앨범 산</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230819065700_f0b77879fca4a331b6c10ac2cda03ef8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[살림하는 남자들 2]  새 살림남 정혁, 아버지 카센터 방문...힘들었던 어린 시절 고백]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=277029</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=277029</guid>
-            <pubDate>Sat, 19 Aug 2023 18:02:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277029">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230820010752_78a966db84198c7c5e7f01d95b049655_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=277029">[살림하는 남자들 2]  새 살림남 정혁, 아버지 카센터 방문...힘들었던 어린 시절 고백</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%B4%EB%A6%BC%ED%95%98%EB%8A%94%20%EB%82%A8%EC%9E%90%EB%93%A4">살림하는 남자들</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230820010752_78a966db84198c7c5e7f01d95b049655_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
