@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-08-22T16:05:57.824Z</updated>
+    <updated>2023-08-22T17:05:39.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['잠' 못 드는 제작기 공개...정유미 "이런 연기 처음"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001267461</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001267461"/>
+        <updated>2023-08-22T17:04:42.242Z</updated>
+        <content type="html"><![CDATA[배우 정유미, 이선균 주연작 '잠'의 제작 비하인드가 공개됐다. '잠'은 행복한 신혼부부 현수(이선균 분)와 수진(정유미 분)을 악몽처럼 덮친 남편 현수의 수면 중 이상행동, 잠드는 순간 시작되는 끔찍한 공포의 비밀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[내가 본 '박상원'] 때를 기다리는 준비된 배우]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000234205</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000624491"/>
         <updated>2023-08-22T10:03:44.059Z</updated>
         <content type="html"><![CDATA[배우 정유미(40)가 봉준호 감독의 연기 극찬에 대한 자신의 감정을 전했다. 정유미는 22일 오후 서울 종로구 소격동 한 카페에서 영화 '잠'(감독 유재선) 관련 텐아시아와 인터뷰했다. 이날 정유미는 봉준호 감독이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박찬욱 감독 역작 ‘올드보이’ 美서 20년만 4K 재개봉→깨알 흥행]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000762504</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000762504"/>
-        <updated>2023-08-22T10:03:44.091Z</updated>
-        <content type="html"><![CDATA[박찬욱 감독 연출작 '올드보이'가 20년 만에 미국에서 재개봉한 가운데, 인기를 끌고 있다. 8월 21일(현지시간) 박스오피스 모조 집계에 따르면, 영화 '올드보이'(감독 박찬욱) 4K HDR 리마스터 버전이 지난]]></content>
     </entry>
 </feed>
