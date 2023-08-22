@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-08-22T14:03:16.470Z</updated>
+    <updated>2023-08-22T15:07:20.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[내가 본 '박상원'] 때를 기다리는 준비된 배우]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000234205</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000234205"/>
+        <updated>2023-08-22T15:06:28.491Z</updated>
+        <content type="html"><![CDATA['런온'→'범죄도시3'까지 다양한 작품에서 활약 정제되지 않은 스타는 어떤 모습일까. 연예계는 대중의 관심을 받는 스타도 많고, 이들을 팔로우하는 매체도 많다. 모처럼 인터뷰가 잡혀도 단독으로 대면하는 경우가 드물다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신혜선 "겁쟁이...혼자 있으면 무섭다" [인터뷰 종합]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001630598</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000762504"/>
         <updated>2023-08-22T10:03:44.091Z</updated>
         <content type="html"><![CDATA[박찬욱 감독 연출작 '올드보이'가 20년 만에 미국에서 재개봉한 가운데, 인기를 끌고 있다. 8월 21일(현지시간) 박스오피스 모조 집계에 따르면, 영화 '올드보이'(감독 박찬욱) 4K HDR 리마스터 버전이 지난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신혜선 "중고거래, 좋은듯...'타겟' 같은 일은 절대" [엑's 인터뷰]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001630438</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001630438"/>
-        <updated>2023-08-22T10:03:44.098Z</updated>
-        <content type="html"><![CDATA[배우 신혜선이 '타겟'의 소재가 된 중고거래를 실제로는 잘 애용하지 않는다고 밝혔다. 신혜선은 22일 오후 서울 종로구 소격동의 한 카페에서 열린 영화 '타겟'(감독 박희곤) 인터뷰에서 다양한 이야기를 전했다. '타]]></content>
     </entry>
 </feed>
