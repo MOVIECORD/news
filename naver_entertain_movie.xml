@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-08-23T14:03:38.638Z</updated>
+    <updated>2023-08-23T15:03:38.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] '밀수' 염정아, '노 웨이 아웃' 캐스팅…이선균→이광수 만난다(종합)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004913458</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004913458"/>
+        <updated>2023-08-23T15:02:45.004Z</updated>
+        <content type="html"><![CDATA[염정아가 이선균, 유재명, 김무열, 이광수 등의 배우들과 만나 연기 호흡을 맞춘다. 이들의 시너지가 벌써부터 기대를 모은다. 23일 오후 OSEN 취재 결과 염정아는 최근 새 드라마 ‘노 웨이 아웃’의 제작진으로부터]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팝인터뷰]박보영 "귀여운 이미지 싫어 애교 감추려 노력하기도..지금은 받아들여"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003649349</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003296370"/>
         <updated>2023-08-23T08:13:56.398Z</updated>
         <content type="html"><![CDATA[넷플릭스 시리즈 ‘마스크걸’의 김용훈 감독이 배우 이한별의 캐스팅 이유를 공개했다. 김용훈 감독은 23일 오후 서울 강남구 한 카페에서 진행된 라운드 인터뷰에서 신인 배우 이한별을 주인공으로 과감하게 기용한 것에 대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘GMF2023’, 설→데이브레이크…추가 라인업 12팀 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000653190</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000653190"/>
-        <updated>2023-08-23T08:13:56.399Z</updated>
-        <content type="html"><![CDATA[가을을 대표하는 음악 축제인 ‘그랜드 민트 페스티벌 2023(Grand Mint Festival 2023, 이하 GMF2023’)이 2차 라인업을 발표했다. 지난 1차 라인업에서 ‘넬(NELL)’, ‘쏜애플’, ‘윤]]></content>
     </entry>
 </feed>
