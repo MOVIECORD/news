@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-08-25T14:05:04.806Z</updated>
+    <updated>2023-08-25T15:05:00.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김남길의 책임감, 철저히 조연이 된 '보호자'[TF인터뷰]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000234912</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000234912"/>
+        <updated>2023-08-25T15:04:07.228Z</updated>
+        <content type="html"><![CDATA[무슨 일이든 처리해 주는 해결사 우진 役 맡아 열연 "대작들 사이에서 대작으로 보이길...다양성 볼 수 있을 것" "저는 조연의 역할을 다하려고 했어요". 두 번의 연기대상을 품에 안은 배우 김남길의 입에서 의외의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9월1일 하나뿐인 지구영상제 개막식 열려]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000050599</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000625109"/>
         <updated>2023-08-25T14:04:18.010Z</updated>
         <content type="html"><![CDATA[영화 '치악산'(감독 김선웅, 제작 도호엔터테인먼트)의 김선웅 감독이 만들었다는 '치악산' 혐오 포스터가 삭제되지 않은 채 버젓이 검색되는 것으로 파악됐다. 25일 오후 6시 기준 각종 커뮤니티에는 '치악산'의 비공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘오펜하이머’ 핵폭탄기개세?]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000909104</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000909104"/>
-        <updated>2023-08-25T14:04:18.011Z</updated>
-        <content type="html"><![CDATA[온라인 조사 회사 피앰아이(PMI)가 ‘궁금해결리워드앱, 헤이폴!’을 통해 20-50대 남녀 5,000명을 대상으로 질문한 결과, ‘오펜하이머(17.1%)’가 ‘이번주 가장 보고 싶은 영화’ 1위로 선정됐다. 지난]]></content>
     </entry>
 </feed>
