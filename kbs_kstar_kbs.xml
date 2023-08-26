@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Aug 2023 22:04:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 23:05:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[1박 2일]  '나의 문화유산 밥사기'... 문세윤, "너무 건방이 하늘을 찌른다?"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=277908</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=277908</guid>
+            <pubDate>Sat, 26 Aug 2023 23:04:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277908">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230827075550_0e1796d671cc01e29b245143d1abcb42.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=277908">[1박 2일]  '나의 문화유산 밥사기'... 문세윤, "너무 건방이 하늘을 찌른다?" </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230827075550_0e1796d671cc01e29b245143d1abcb42.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[진짜가 나타났다] “불일치?” 정의제, 강부자와 친자관계가 아니었다...반전의 반전]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=277903</link>
@@ -347,24 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230825211028_98be2d1a49793935697c44440138e978_1.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[[KBS독립영화관] ‘말아’ “소상공인 사장님들 힘내세요. 이 김밥 드시고!” (곽민승감독)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=277787</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=277787</guid>
-            <pubDate>Fri, 25 Aug 2023 14:04:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277787">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230825182930_b0c64b262ce0fa9a471e41ff4fe2cb3b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=277787">[KBS독립영화관] ‘말아’ “소상공인 사장님들 힘내세요. 이 김밥 드시고!” (곽민승감독)</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8F%85%EB%A6%BD%EC%98%81%ED%99%94%EA%B4%80">독립영화관</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230825182930_b0c64b262ce0fa9a471e41ff4fe2cb3b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
