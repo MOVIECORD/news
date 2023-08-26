@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Aug 2023 01:40:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 04:07:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울국제여성영화제 개막.. "25번째 축하와 연대의 영화제"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=277840</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=277840</guid>
+            <pubDate>Sat, 26 Aug 2023 04:06:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277840">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230826063427_f86e912f079add312c73dad06ce215a1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=277840">서울국제여성영화제 개막.. "25번째 축하와 연대의 영화제"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230826063427_f86e912f079add312c73dad06ce215a1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[김지운 감독 '거미집'..  컬러와 흑백으로 표현해 낸 70년대 한국영화 촬영장]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=277856</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=277503">'천박사 퇴마 연구소' 허준호, 빙의로 영력을 사냥하는 악귀 ‘범천’ </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230823080731_8dbef35b822d59e514c623a75a12e695_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['아이유 콘서트 : 더 골든 아워' ... 9월 13일, CGV 단독 개봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=277489</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=277489</guid>
-            <pubDate>Tue, 22 Aug 2023 23:01:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277489">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230823073749_a9b0cc24de35f59cf949f980c043b54e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=277489">'아이유 콘서트 : 더 골든 아워' ... 9월 13일, CGV 단독 개봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230823073749_a9b0cc24de35f59cf949f980c043b54e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
