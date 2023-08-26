@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-08-26T09:03:31.329Z</updated>
+    <updated>2023-08-26T10:03:16.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이준익 감독 “영화를 보는 건 누군가의 고백을 듣는 일” (부안 무빙)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000198845</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000198845"/>
+        <updated>2023-08-26T10:02:22.101Z</updated>
+        <content type="html"><![CDATA[‘팝업 시네마: 부안 무빙’이 지난 25일 개막했다. 붉은 노을과 늦여름 바닷가, 그리고 감성을 파고드는 영화가 어우러지는 ‘팝업 시네마: 부안 무빙’이 지난 25일 국내서 처음 시도하는 새로운 영화 축제의 시작을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['보호자' 정우성 열정부터 김남길과의 케미까지..현장 비하인드스틸 대방출]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003649902</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004914981"/>
         <updated>2023-08-26T01:39:46.783Z</updated>
         <content type="html"><![CDATA[영화 '오펜하이머'(수입/배급: 유니버설 픽쳐스, 감독: 크리스토퍼 놀란)가 200만 관객을 돌파했다. '오펜하이머' 가 개봉 12일째인 오늘(26일) 200만 관객을 돌파했다. 영화진흥위원회 통합전산망에 따르면 ']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팝인터뷰]'마스크걸' 안재홍, 주오남 그 자체 "일본어 내 아이디어..탈모는 머리 뽑은거 아냐"(종합)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003649841</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003649841"/>
-        <updated>2023-08-26T01:39:46.784Z</updated>
-        <content type="html"><![CDATA[배우 안재홍이 '마스크걸'을 통해 인생 캐릭터를 경신했다. 영화 '족구왕', 드라마 '응답하라 1988' 등을 통해 매력적인 캐릭터를 탄생시켰던 안재홍이 넷플릭스 시리즈 '마스크걸'을 통해 그간 보여준 적 없는, 파]]></content>
     </entry>
 </feed>
