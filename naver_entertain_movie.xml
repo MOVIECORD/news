@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-08-26T21:05:19.064Z</updated>
+    <updated>2023-08-26T22:04:38.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아시아계 여성 넷이 펼치는 17금 유머…영화 '조이 라이드']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014153884</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014153884"/>
+        <updated>2023-08-26T22:03:53.246Z</updated>
+        <content type="html"><![CDATA[한국계 배우 애슐리 박 주연…아델 림 감독 데뷔작 1998년 미국 시애틀의 한 공원. 백인 부부가 중국에서 입양해온 딸 오드리와 서 있다. 이때 아시아계 부부가 딸 롤로를 데리고 나온다. 피부색이 같은 두 아이는 자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['곡성'·'곤지암' 이어 '치악산'까지..영화 제목 잔혹史[★FOCUS]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003177253</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003296828"/>
         <updated>2023-08-26T04:06:53.162Z</updated>
         <content type="html"><![CDATA[영화의 매력은 작품 안에서 이야기가 끝나지 않고 확장된다는 점 아닐까요. 좋은 영화 한 편이 촉발한 감상과 의미를 다른 분야의 예술과 접목해 풀어보고자 합니다. ‘환승연예’는 영화, 음악, 도서, 미술 등 대중예술의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['무빙', 디즈니+ 역대 공개 첫주 최다 시청 시간 1위..'카지노' 뛰어넘었다(공식)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003649847</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003649847"/>
-        <updated>2023-08-26T04:06:53.165Z</updated>
-        <content type="html"><![CDATA['무빙'이 한국 디즈니+ 역대 서비스작 중 공개 첫 주 최다 시청 시간을 달성했다. 디즈니+ 오리지널 시리즈 '무빙'이 디즈니+ 국내 서비스작 중 한국과 글로벌 콘텐츠 통틀어 공개 첫 주 최다 시청 시간 1위라는 진]]></content>
     </entry>
 </feed>
