@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-08-27T09:04:49.160Z</updated>
+    <updated>2023-08-27T10:03:54.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원주시vs'치악산' 깊어지는 골…결국 법적조치까지 [엑's 이슈]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001632291</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001632291"/>
+        <updated>2023-08-27T10:03:00.501Z</updated>
+        <content type="html"><![CDATA[강원 원주시와 영화 '치악산'(감독 김선웅) 측의 갈등이 심화되고 있다. 27일 원주시는 "영화 '치악산' 상영금지 가처분 신청과 함께 상영으로 인해 발생할 수 있는 모든 유무형의 피해에 대해 손해배상 청구 소송 등]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['엘리멘탈' 700만 돌파…디즈니·픽사 새 역사]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012053071</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002404104"/>
         <updated>2023-08-27T06:04:45.408Z</updated>
         <content type="html"><![CDATA[상영작 &lt;침묵의 집&gt; 대통령과 아야톨라 서울시 강남구에 '테헤란로'가 있다. 이란의 수도이름 테헤란을 그대로 따온 명칭이다. 이란의 공식적 국호는 '이란이슬람국가'로서 국민의 대다수가 이슬람을 믿긴 하나, 짜라투스트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['치악산' 제목 바꿔"…지역명 사용한 영화들, 창작물과 편견 사이 [D:영화 뷰]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002743346</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002743346"/>
-        <updated>2023-08-27T06:04:45.410Z</updated>
-        <content type="html"><![CDATA[영화의 첫 인상과 마찬가지인 제목은 관객에게 호기심을 유발하고, 이야기를 효과적으로 전달할 수 있도록 고심 끝에 지어진다. 이에 지역명이나 나라명을 제목으로 내세워 짧고 굵게 강렬한 인상을 내세우는 수를 두기도 한다]]></content>
     </entry>
 </feed>
