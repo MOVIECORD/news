@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 23:03:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 00:27:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["아이유, 아이맥스로 본다".. <아이유 콘서트: 더 골든 아워>  IMAX 상영]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=278412</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=278412</guid>
+            <pubDate>Wed, 30 Aug 2023 00:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=278412">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230830083919_e2298c19b8d9ca3559a2f9ef931c5328.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=278412">"아이유, 아이맥스로 본다".. &lt;아이유 콘서트: 더 골든 아워&gt;  IMAX 상영 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230830083919_e2298c19b8d9ca3559a2f9ef931c5328.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['1947 보스톤' 임시완의 마라톤 '런 온']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=278364</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=277740">넷플릭스 '너의 시간 속으로' 9월 공개 .. 안효섭-전여빈, "2023년-1998년 타임 슬립"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230825080955_5a06a67a2de6c9711f23d65c5352376d.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["SF블록버스터의 신세계"  영화 '크리에이터' 10월 개봉...]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=277785</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=277785</guid>
-            <pubDate>Fri, 25 Aug 2023 03:06:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=277785">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230825113406_edce96823076f8a4e6e4b863da062164.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=277785">"SF블록버스터의 신세계"  영화 '크리에이터' 10월 개봉...</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230825113406_edce96823076f8a4e6e4b863da062164.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
