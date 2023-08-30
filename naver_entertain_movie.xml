@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-08-30T12:15:44.246Z</updated>
+    <updated>2023-08-30T13:09:33.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[28회 BIFF, 뉴 커런츠·지석 섹션 후보작 10편씩 공개[공식]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004917410</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004917410"/>
+        <updated>2023-08-30T13:08:37.294Z</updated>
+        <content type="html"><![CDATA[제28회 부산 국제영화제(BIFF)가 아시아영화 경쟁부문인 ‘뉴 커런츠’와 ‘지석’ 섹션 선정작을 발표했다. 뉴 커런츠는 부산 국제영화제의 대표적인 경쟁 부문으로 아시아 신예 감독들의 첫 번째 또는 두 번째 장편을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["영화 보면 오해 풀려" 논란의 '치악산', 반발에도 31일 시사 '강행'[이슈S]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000448058</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000298633"/>
         <updated>2023-08-30T09:03:28.506Z</updated>
         <content type="html"><![CDATA[극장 산업의 침체가 계속 되고 있지만 개별 관객의 영화 사랑은 여전히 뜨거웠다. 30일 서울 용산구 CGV용산아이파크몰에서 열린 '2023 CGV 영화산업 미디어 포럼'에 참석한 조진호 CJ CGV 국내사업본부장은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이병헌·하정우도 안 통했다! 폭염에 녹아버린 여름영화시장 [SS무비]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000975316</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000975316"/>
-        <updated>2023-08-30T09:03:28.509Z</updated>
-        <content type="html"><![CDATA[텐트폴 영화 포스터. 사진 | NEW, 롯데엔터테인먼트, 쇼박스, CJENM 올해 영화계 여름시장이 서서히 마무리를 지어가고 있다. 이른바 빅4라 불리는 4대 배급사의 텐트폴 영화들도 마지막 성적표를 받는 모양새다.]]></content>
     </entry>
 </feed>
