@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-08-31T18:04:48.787Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 31 Aug 2023 21:03:22 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['스즈메의 문단속' 인기 이을 '여름을 향한 터널, 이별의 출구'...9월 14일 개봉]]></title>
+            <link>https://v.daum.net/v/20230901050031938</link>
+            <guid>https://v.daum.net/v/20230901050031938</guid>
+            <pubDate>Thu, 31 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=황다경 기자] 시간이 다르게 흐르는 '우라시마 터널'을 발견한 고교생 '카오루'와 '안즈'가 각자의 소원을 이루기 위해 찬란한 여름을 함께 보내는 판타지 청춘 로맨스 '여름을 향한 터널, 이별의 출구'는 '애니메이션계의 칸영화제'라 불리는 제47회 안시국제애니메이션영화제에서 '폴 그리모상'을 수상하며 웰메이드 작품으로 인정받았다. 특히 아름다운]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F01%2Ftvreport%2F20230901050035420bxgt.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
