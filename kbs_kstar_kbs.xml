@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 06:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 07:06:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘드라마스페셜 - 우리들이 있었다' 학교폭력, "가해자와 피해자 그리고 방관자"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=278468</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=278468</guid>
+            <pubDate>Thu, 31 Aug 2023 07:05:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=278468">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230830152726_a035af306e9dfc858a4f1593b22a81b8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=278468">‘드라마스페셜 - 우리들이 있었다' 학교폭력, "가해자와 피해자 그리고 방관자"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230830152726_a035af306e9dfc858a4f1593b22a81b8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[다큐 인사이트] 프리고진, ‘푸틴의 이상한 요리사’... 용병기업 바그너 그룹의 수장]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=278588</link>
@@ -347,24 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%88%9C%EC%A0%95%EB%B3%B5%EC%84%9C">월화드라마 순정복서</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230830005023_d4f2eb6109452ec85ee4c644fcb84084.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[금이야 옥이야] “왜 이제야 나타난 거야?” 갑자기 나타난 반소영이 수상한 강다현]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=278324</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=278324</guid>
-            <pubDate>Tue, 29 Aug 2023 15:02:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=278324">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230829235104_8f7378fcc615605b4a1a452c07749d2a_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=278324">[금이야 옥이야] “왜 이제야 나타난 거야?” 갑자기 나타난 반소영이 수상한 강다현</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EA%B8%88%EC%9D%B4%EC%95%BC%20%EC%98%A5%EC%9D%B4%EC%95%BC">일일연속극 금이야 옥이야</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230829235104_8f7378fcc615605b4a1a452c07749d2a_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
