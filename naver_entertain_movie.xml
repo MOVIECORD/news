@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-09-01T16:05:44.648Z</updated>
+    <updated>2023-09-01T19:03:12.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['가문의 영광' 김수미, 코미디 대모의 귀환]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001268480</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001268480"/>
+        <updated>2023-09-01T19:02:19.062Z</updated>
+        <content type="html"><![CDATA[국민배우 김수미가 12년 만에 '가문의 영광'으로 돌아온다. 영화 '가문의 영광: 리턴즈'는 잘나가는 스타 작가 대서와 가문의 막내딸 진경을 결혼시키기 위해, 온갖 음모를 꾸미는 장씨 가문의 사생결단 결혼성사 대작전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[테일러 스위프트, 북미 극장가도 살린다…10월 콘서트 실황 개봉]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012065170</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000448356"/>
         <updated>2023-09-01T10:04:42.554Z</updated>
         <content type="html"><![CDATA[250만 관객을 넘겨 흥행 중인 영화 '오펜하이머'의 CG 없는 핵폭발 씬의 비하인드가 공개됐다. '오펜하이머' 측은 작품 속 명장면인 '트리니티 실험'과 얽힌 흥미로운 비하인드를 밝혔다. 인류 최초의 핵폭발 실험인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['음주운전' 배성우, 하정우 연출작 '로비' 출연 불발…여의치 않은 컴백]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000298713</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000298713"/>
-        <updated>2023-09-01T10:04:42.554Z</updated>
-        <content type="html"><![CDATA[배우 배성우의 하정우 연출 복귀작 출연이 불발됐다. 1일 영화계에 따르면 배성우는 하정우가 감독을 맡은 영화 '로비'의 출연을 두고 논의했으나, 장고 끝에 출연하지 않기로 결정했다. 하정우는 앞서 '비공식작전'을 두]]></content>
     </entry>
 </feed>
