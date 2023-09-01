@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-09-01T10:05:36.015Z</updated>
+    <updated>2023-09-01T11:07:09.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["'오징어 게임' 같은 순간 선사"…감성 더한 K-히어로 '무빙', 해외서도 제대로 터졌다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0004050415</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0004050415"/>
+        <updated>2023-09-01T11:06:14.771Z</updated>
+        <content type="html"><![CDATA[디즈니+의 오리지널 시리즈 '무빙'의 전 세계적인 인기를 실감케 하는 주요 외신들의 뜨거운 호평 세례가 화제다. '무빙'을 향한 전 세계적인 반응이 더욱 열기를 더하고 있다. '무빙'은 미국 Hulu에서 한국 오리지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] '잠' 이선균, 생고기와 날계란 먹는 신 "식감에 쾌감 느껴"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004233130</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001268375"/>
         <updated>2023-09-01T08:08:56.364Z</updated>
         <content type="html"><![CDATA[판타지 코미디 영화 '바비'가 테마 영화관 '알라모 드래프트 하우스(Alamo Drafthouse)에서 '어벤져스: 앤드게임'의 기록을 제쳤다. 알라모 드래프트하우스는 미국 전역에 39개의 지점을 두고 있는 영화관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘100년’ 간토대지진 학살 다룬 영화 ‘후쿠다무라 사건’, 日서 오늘(1일) 개봉]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003851310</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003851310"/>
-        <updated>2023-09-01T08:08:56.368Z</updated>
-        <content type="html"><![CDATA[영화 ‘후쿠다무라 사건’ 홈페이지 캡처 1923년 9월 1일 일본 간토(관동·關東) 대지진 당시 무차별적으로 일어난 학살을 소재로 한 영화 ‘후쿠다무라 사건’이 지진 발생 100주년이 되는 1일 개봉했다. 31일 영]]></content>
     </entry>
 </feed>
