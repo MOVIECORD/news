@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-09-01T15:05:46.116Z</updated>
+    <updated>2023-09-01T16:05:44.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[테일러 스위프트, 북미 극장가도 살린다…10월 콘서트 실황 개봉]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012065170</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012065170"/>
+        <updated>2023-09-01T16:04:54.324Z</updated>
+        <content type="html"><![CDATA['디 에라스 투어(The Eras Tour)'로 북미에서 신드롬을 일으키고 있는 미국 팝 슈퍼스타 테일러 스위프트가 장르를 바꿔가며 흥행몰이를 이어가고 있다. 1일(현지시간) 미국 연예 미디어 버라이어티 등 외신에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['타겟', 찝찝함만 남은 현실 밀착 스릴러[TF씨네리뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000236258</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000298713"/>
         <updated>2023-09-01T10:04:42.554Z</updated>
         <content type="html"><![CDATA[배우 배성우의 하정우 연출 복귀작 출연이 불발됐다. 1일 영화계에 따르면 배성우는 하정우가 감독을 맡은 영화 '로비'의 출연을 두고 논의했으나, 장고 끝에 출연하지 않기로 결정했다. 하정우는 앞서 '비공식작전'을 두]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국의 '음식 매개 질병', 실상 알면 놀란다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002404891</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002404891"/>
-        <updated>2023-09-01T10:04:42.555Z</updated>
-        <content type="html"><![CDATA[&lt;포이즌: 음식에 감춰진 더러운 진실&gt; ▲ 넷플릭스 오리지널 다큐멘터리 영화 &lt;포이즌&gt; 포스터. ⓒ 넷플릭스 얼마 전 백종원 대표가 공식 유튜브 채널을 통해 강력하게 경고하며 권고했다. 여름철 식중독 주의 사항으로]]></content>
     </entry>
 </feed>
