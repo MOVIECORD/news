@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 00:29:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 03:06:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘편스토랑’ 명세빈의 동안 레시피, 복어+연어+아보카도+골뱅이]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=278771</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=278771</guid>
+            <pubDate>Fri, 01 Sep 2023 03:05:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=278771">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230901102110_ce22e08175fde3e28db92a8202b70cc2.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=278771">‘편스토랑’ 명세빈의 동안 레시피, 복어+연어+아보카도+골뱅이</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상출시 편스토랑</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230901102110_ce22e08175fde3e28db92a8202b70cc2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘편스토랑’ 이정현은 바쁘다  “워킹맘, 셰프, 그리고 캠퍼스 라이프"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=278686</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230830232147_508608cda469e068550cfb697bae31d9_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[과학수사대 스모킹 건] 연쇄살인마 강호순... 범행의 전말 “제 차에 타실래요?”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=278506</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=278506</guid>
-            <pubDate>Wed, 30 Aug 2023 08:11:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=278506">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230830164629_182a31099d8049c789015540a23255f0.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=278506">[과학수사대 스모킹 건] 연쇄살인마 강호순... 범행의 전말 “제 차에 타실래요?”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B3%BC%ED%95%99%EC%88%98%EC%82%AC%EB%8C%80%20%EC%8A%A4%EB%AA%A8%ED%82%B9%20%EA%B1%B4">과학수사대 스모킹 건</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230830164629_182a31099d8049c789015540a23255f0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
