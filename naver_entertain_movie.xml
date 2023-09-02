@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-09-02T20:05:34.803Z</updated>
+    <updated>2023-09-02T22:06:53.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["세상을 구하기 위해 세상을 파괴할지도 모르는 선택을 한 천재 과학자의 이야기"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007024985</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007024985"/>
+        <updated>2023-09-02T22:06:01.886Z</updated>
+        <content type="html"><![CDATA[이 책은 영화 '오펜하이머'의 각본집이다. 세상을 구하기 위해서 세상을 파괴할지도 모르는 선택을 해야 했던 한 천재 이론물리학자 줄리어스 로버트 오펜하이머의 삶과 고뇌에 대한 장대하고 복잡한 이야기를 담고 있다. 크]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공식]‘바비’가 해냈다, ‘슈퍼마리오’ 꺾고 올해 최고흥행작 등극 “1조 7천억 수익”(종합)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003766569</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003178673"/>
         <updated>2023-09-02T01:40:05.046Z</updated>
         <content type="html"><![CDATA['킬링 로맨스'의 '조나단'부터, '잠'의 평범한 남편의 모습까지. 어떤 역할이든 자신의 스타일대로 '가지고 노는' 이선균이 스크린에 출격한다. 날고기도, 생선을 먹는 장면 또한 그에게는 전혀 무리가 아니었다. "꼭]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유해진×김희선 로코 케미 통했다…'달짝지근해' 100만 돌파]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003808323</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003808323"/>
-        <updated>2023-09-02T01:40:05.048Z</updated>
-        <content type="html"><![CDATA[유해진과 김희선의 코믹 로맨스가 100만 관객의 마음도 달짝지근하게 물들였다. 영화진흥위원회 영화관 입장권 통합전산망에 따르면 영화 '달짝지근해: 7510'(감독 이한)이 오늘(2일) 오전 7시 기준 누적 관객 수]]></content>
     </entry>
 </feed>
