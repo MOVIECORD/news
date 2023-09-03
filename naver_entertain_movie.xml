@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-09-03T06:07:25.495Z</updated>
+    <updated>2023-09-03T07:03:42.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["봉준호 감독도 극찬"…개봉 D-3 '잠', 韓영화 예매율 1위 등극]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0004050984</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0004050984"/>
+        <updated>2023-09-03T07:02:57.197Z</updated>
+        <content type="html"><![CDATA[영화 '잠'이 한국 영화 예매율 1위에 등극하며 새로운 흥행 주자로 떠올랐다. '잠'이 3일 오전 11시 53분 기준 영화관입장권 통합전산망 한국 영화 예매율 1위를 달성했다. 예측불가한 스토리와 흡입력, 배우들의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[봉준호 감독 극찬 '잠', 한국영화 예매율 1위 [공식]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004919508</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014167612"/>
         <updated>2023-09-03T01:44:25.429Z</updated>
         <content type="html"><![CDATA[MV 제작기 담은 다큐 '듣보인간의 생존신고' 권하정·김아현 감독 "작품 보고 '오늘 뭐라도 해볼까?' 생각하게 됐으면" 오는 6일 개봉하는 다큐멘터리 '듣보인간의 생존신고'는 어떤 극영화보다 더 드라마틱한 내용을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[IS인터뷰] ‘그녀의 취미생활’ 정이서 “첫 주연작으로 영화제 수상, 신기하고 감사”]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003298338</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003298338"/>
-        <updated>2023-09-03T01:44:25.440Z</updated>
-        <content type="html"><![CDATA[배우 정이서에게 영화 ‘그녀의 취미생활’은 힘든 시기가 오면 두고두고 꺼내볼 작품이다. 인생 첫 영화 주연작이라는 의미가 있고, 그 영화로 ‘제27회 부천국제판타스틱 영화제’에서 코리안 판타스틱 배우상을 수상했다.]]></content>
     </entry>
 </feed>
