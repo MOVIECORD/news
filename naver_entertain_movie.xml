@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-09-03T02:15:21.060Z</updated>
+    <updated>2023-09-03T03:03:35.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['오펜하이머'를 본 문과생의 시선... 발명이냐 쓰임이냐]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002404969</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002404969"/>
+        <updated>2023-09-03T03:02:45.377Z</updated>
+        <content type="html"><![CDATA[영화 &lt;오펜하이머&gt; 인문학적으로 이해하기 ▲ 영화 &lt;오펜하이머&gt; 공식 포스터 ⓒ 유니버설 픽쳐스 &lt;다크나이트&gt; &lt;인터스텔라&gt; &lt;테넷&gt; 등으로 우리에게 유명한 감독 크리스토퍼 놀란. 그의 신작 &lt;오펜하이머&gt;가 지난 8]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한효주♥조인성, 공중부양 키스부터 벚꽃 데이트까지..설렘 그 자체(무빙)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003651176</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003766569"/>
         <updated>2023-09-02T17:04:14.287Z</updated>
         <content type="html"><![CDATA[그레타 거윅 감독의 ‘바비’가 올해 최고 흥행작 반열에 올랐다. 버라이어티는 1일(현지시간) ‘바비’가 전 세계 박스오피스에서 13억 6,000만 달러(약 1조 7,972억 달러)를 벌어들여 ‘슈퍼마리오 브라더스’(]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘마스크걸’ 안재홍·‘밀수’ 박정민, 1번 아닌데 씹어먹었다 [Oh!쎈 펀치]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004919283</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004919283"/>
-        <updated>2023-09-02T17:04:14.300Z</updated>
-        <content type="html"><![CDATA[많은 배우들이 출연하는 멀티 캐스팅 작품에서 초반엔 주연배우에게 관심이 집중되기 마련이다. 기사제목부터 라인업을 채운 첫 번째 배우가 독차지하기 때문이다. 하지만 공개, 개봉 이후 연기를 잘한 배우에게 호평이 쏟아진]]></content>
     </entry>
 </feed>
