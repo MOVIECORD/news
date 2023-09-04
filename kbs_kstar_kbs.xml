@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 06:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 07:07:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘드라마 스페셜- 반쪽짜리 거짓말'  열 살 소녀의 인생 자아 찾기... 김시우-안세빈-민지아-김원해-박지아]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=278481</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=278481</guid>
+            <pubDate>Mon, 04 Sep 2023 07:06:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=278481">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230830154052_3b2cc4ae29ee27b78f13f817540cae4c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=278481">‘드라마 스페셜- 반쪽짜리 거짓말'  열 살 소녀의 인생 자아 찾기... 김시우-안세빈-민지아-김원해-박지아</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230830154052_3b2cc4ae29ee27b78f13f817540cae4c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['순정복서' 이상엽-김소혜, 체육관 떠나 바다 전지훈련]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=279157</link>
@@ -348,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230903203329_4362b1246df8625abe6203e38690444d_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[1박2일] 오락실 부심 뿜뿜... 놀이터 제왕 초‘딘딘’과 유경험자 연부지 ‘연정훈’ 연합]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=279028</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=279028</guid>
-            <pubDate>Sun, 03 Sep 2023 14:03:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=279028">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230903202714_138cfeb7fdcefa67fb3e77ed0f865c71.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=279028">[1박2일] 오락실 부심 뿜뿜... 놀이터 제왕 초‘딘딘’과 유경험자 연부지 ‘연정훈’ 연합</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230903202714_138cfeb7fdcefa67fb3e77ed0f865c71.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
