@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 00:30:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 01:43:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 이선균 “누가 들어왔어....” (영화 ‘잠’)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=279134</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=279134</guid>
+            <pubDate>Mon, 04 Sep 2023 01:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=279134">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230904092217_b50b7197f03cb269b383885d57cf19a6.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=279134">[인터뷰] 이선균 “누가 들어왔어....” (영화 ‘잠’)   </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230904092217_b50b7197f03cb269b383885d57cf19a6.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 '너의 시간 속으로'  안효섭-전여빈-강훈..  "미스터리 로맨스로 타임슬립~"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=278680</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=278415">[인터뷰] 하명미 감독 “그녀의 2억 5천만 원... 그것은 맥거핀” (그녀의 취미생활)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230830141035_256370a65710af087cd5bb13f7165caf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["아이유, 아이맥스로 본다".. <아이유 콘서트: 더 골든 아워>  IMAX 상영]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=278412</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=278412</guid>
-            <pubDate>Wed, 30 Aug 2023 00:25:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=278412">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230830083919_e2298c19b8d9ca3559a2f9ef931c5328.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=278412">"아이유, 아이맥스로 본다".. &lt;아이유 콘서트: 더 골든 아워&gt;  IMAX 상영 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230830083919_e2298c19b8d9ca3559a2f9ef931c5328.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
