@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 04:10:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 05:05:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배틀그라운드 ‘펍지 네이션스컵 2023’ 메가박스 단독 생중계]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=279410</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=279410</guid>
+            <pubDate>Tue, 05 Sep 2023 05:04:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=279410">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230905135236_3799600898fdd093712569fd1615f62e_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=279410">배틀그라운드 ‘펍지 네이션스컵 2023’ 메가박스 단독 생중계 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230905135236_3799600898fdd093712569fd1615f62e_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디즈니 실사영화 '인어공주' 내일, 디즈니+ 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=279386</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=278640">"무빙 다음엔 한강" 디즈니플러스 9월의 기대작 '한강'..  권상우-김희원, 최강 콤비 탄생</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230831154208_366483b3f745d6a441de70296c0be8aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웨이브 '거래' 유승호-김동휘-유수빈-이주영.. "궁지에 몰린 청춘들"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=278574</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=278574</guid>
-            <pubDate>Thu, 31 Aug 2023 04:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=278574">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230831110127_94ec898720aa6db5544e53049b549a2f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=278574">웨이브 '거래' 유승호-김동휘-유수빈-이주영.. "궁지에 몰린 청춘들"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230831110127_94ec898720aa6db5544e53049b549a2f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
