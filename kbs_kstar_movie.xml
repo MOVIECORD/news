@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 20:06:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 21:07:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['드림팰리스' 영화평론가협회상 2관왕 "가성문 감독상, 이윤지 여우조연상"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=279620</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=279620</guid>
+            <pubDate>Wed, 06 Sep 2023 21:06:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=279620">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230906130532_81fb2c20352c719778fc1174abad515d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=279620">'드림팰리스' 영화평론가협회상 2관왕 "가성문 감독상, 이윤지 여우조연상"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230906130532_81fb2c20352c719778fc1174abad515d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 이한별 “누군가에게 인생역전이 될만한 커다란 사건을 겪는다면..” (넷플릭스 ‘마스크걸’)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=279600</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=278680">넷플릭스 '너의 시간 속으로'  안효섭-전여빈-강훈..  "미스터리 로맨스로 타임슬립~"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230901075142_eade94d7872542db9789e78324adf8a2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['강다니엘: 마이 퍼레이드' 극장에서 만난다]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=278985</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=278985</guid>
-            <pubDate>Sun, 03 Sep 2023 01:43:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=278985">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230903083440_64f36181845cdadbbddc7fabce94ba5f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=278985">'강다니엘: 마이 퍼레이드' 극장에서 만난다</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230903083440_64f36181845cdadbbddc7fabce94ba5f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
