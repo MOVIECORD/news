@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-09-06T16:08:45.934Z</updated>
+    <updated>2023-09-06T17:04:54.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엄정화 주연 '화사한 그녀', '차정숙' 잇는 신드롬 일으킬까]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001269059</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001269059"/>
+        <updated>2023-09-06T17:04:10.313Z</updated>
+        <content type="html"><![CDATA[엄정화의 스크린 복귀작 '화사한 그녀'의 티저 예고편이 공개됐다. '화사한 그녀'는 화사한 기술이 주특기인 전문 작전꾼 지혜(엄정화 분)가 마지막 큰 판을 계획하면서 의도치 않은 사건에 휘말리게 되는 범죄 오락 영화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['타겟' 임철수X금새록, 주연만큼 막강한 존재감]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001269057</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003767630"/>
         <updated>2023-09-06T10:04:52.226Z</updated>
         <content type="html"><![CDATA[6일 오전 서울 자양동 롯데시네마 건대입구에서 진행된 영화 '30일' (감독 남대중, 제작 영화사울림)제작보고회에 참석한 배우 강하늘이 촬영 당시 남대중 감독에게 했던 자신의 명언(?)에 대해 사회자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설경구·이창동 감독 등 "정지영 감독은 유일무이한 존재" 축하인사]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007033492</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007033492"/>
-        <updated>2023-09-06T10:04:52.227Z</updated>
-        <content type="html"><![CDATA['정지영 감독 40주년 회고전'을 응원하며 영화계 유명 인사들이 보내온 축하 영상이 공개됐다. 아트나인 월례 기획전 겟나인이 9월에는 세상의 부조리함을 날카롭게 비판한, 한국 사회파 영화의 거장이자 현재진행형 감독]]></content>
     </entry>
 </feed>
