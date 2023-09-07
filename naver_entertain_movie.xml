@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-09-07T15:04:54.047Z</updated>
+    <updated>2023-09-07T16:10:51.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['보호자' 이젠 안방극장에서 즐긴다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001269208</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001269208"/>
+        <updated>2023-09-07T16:09:57.343Z</updated>
+        <content type="html"><![CDATA[정우성 감독의 첫 장편 연출작 '보호자'가 IPTV와 온라인 및 모바일을 통해 VOD 서비스를 시작했다. '보호자'는 10년 만에 출소해 몰랐던 딸의 존재를 알고 평범하게 살기를 원하는 수혁과 그를 노리는 이들 사이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[새영화]돌아온 판타지 세계 vs 잠들면 시작되는 공포]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0000993850</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000051039"/>
         <updated>2023-09-07T11:02:46.871Z</updated>
         <content type="html"><![CDATA[바야흐로 디깅 모멘텀(Digging Momentum)의 시대다. 디깅 모멘텀이란 자신의 취향에 맞는 한 분야를 깊이 파고드는 행위를 하는 사람들이 늘어나는 트렌드를 일컫는다. 보편적 언어로는 마니아, 조금 더 편하게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킴스 비디오' 9월 27일 개봉 확정…"5만5000편, 영화 광들의 사라진 비디오 추적"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001636375</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001636375"/>
-        <updated>2023-09-07T11:02:46.876Z</updated>
-        <content type="html"><![CDATA[영화 '킴스 비디오'(감독 데이비드 레드먼, 애슐리 사빈)가 27일로 국내 개봉을 확정했다. '킴스 비디오'는 지금은 사라진 1980년대 뉴욕, 영화광들의 성지였던 비디오 대여점 '킴스 비디오'의 행방을 쫓는 '킴스]]></content>
     </entry>
 </feed>
