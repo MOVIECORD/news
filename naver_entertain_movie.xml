@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-09-09T19:05:32.115Z</updated>
+    <updated>2023-09-09T20:07:12.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베네치아영화제 황금사자상, 란티모스 감독 '가여운 것들']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014182497</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014182497"/>
+        <updated>2023-09-09T20:06:21.072Z</updated>
+        <content type="html"><![CDATA[그리스가 낳은 세계적인 거장…평론가들 "즉각적인 고전" 극찬 신창용 특파원 = 그리스가 낳은 세계적인 거장 요르고스 란티모스 감독의 '가여운 것들'이 제80회 베네치아 국제영화제에서 최고 영예인 황금사자상을 거머쥐었]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이선균이 '잠'에 빠진 세 가지 이유[TF인터뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000237724</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005570995"/>
         <updated>2023-09-09T01:37:57.875Z</updated>
         <content type="html"><![CDATA[‘오펜하이머’(감독 크리스토퍼 놀란)를 제친 정유미, 이선균 주연 ‘잠’(감독 유재선)이 개봉 후 사흘째 박스오피스 1위를 지키고 있다. 9일 오전 영화진흥위원회 영화관입장권 통합전산망에 따르면 ‘잠’은 개봉 첫 주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[차트IS] 박스오피스 잠재운 ‘잠’ 20만도 넘어섰다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003299636</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003299636"/>
-        <updated>2023-09-09T01:37:57.878Z</updated>
-        <content type="html"><![CDATA[영화 ‘잠’이 박스오피스에서 좋은 흥행 기세를 몰아가고 있다. 9일 영화진흥위원회 영화관입장권 통합전산망에 따르면 ‘잠’은 전날 하루 동안 8만 2547명의 관객을 동원하며 박스오피스 1위에 올랐다. 누적 관객 수는]]></content>
     </entry>
 </feed>
