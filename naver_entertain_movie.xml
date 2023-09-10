@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-09-10T07:05:51.746Z</updated>
+    <updated>2023-09-10T08:08:31.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 ‘레미제라블’, 서울 공연 1차 티켓 오픈 직후 1위 석권]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000654742</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000654742"/>
+        <updated>2023-09-10T08:07:44.727Z</updated>
+        <content type="html"><![CDATA[뮤지컬 ‘레미제라블’이 서울 공연 1차 티켓 오픈 직후 예매율 1위를 석권했다. 뮤지컬 ‘레미제라블’이 8일 오후 2시에 진행됐던 1차 티켓 오픈 직후 48.4%라는 경이적인 예매율을 기록, 뮤지컬 전체 예매율 1위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우크라이나 감독들, 전쟁을 말한다…DMZ 국제다큐영화제 개막]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=025&amp;aid=0003306704</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003299760"/>
         <updated>2023-09-10T01:46:17.344Z</updated>
         <content type="html"><![CDATA[영화 ‘괴담만찬’이 소문 속 공포의 순간을 담은 스틸컷을 공개했다. 10일 ‘괴담만찬’의 스틸컷이 공개됐다. 공개된 스틸컷에는 기이한 분위기 속 인물들의 공포스럽고 서늘한 표정이 교차, 쉬쉬해온 괴담 속 공포의 순간]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['학폭 의혹 부인' 박혜수, '너와 나'로 스크린 복귀]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000759722</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000759722"/>
-        <updated>2023-09-10T01:46:17.351Z</updated>
-        <content type="html"><![CDATA[배우 박혜수가 '너와 나'로 돌아온다. '너와 나'는 'D.P.' 조석봉 역으로 강렬한 인상을 남긴 조현철의 연출작이다. '너와 나'는 다음 달 개봉을 확정 지었다. 이 영화는 서로에게 전하고 싶은 말을 마음속에 담]]></content>
     </entry>
 </feed>
