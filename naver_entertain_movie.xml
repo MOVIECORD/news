@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-09-11T15:06:13.313Z</updated>
+    <updated>2023-09-11T16:07:41.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['천박사' 알고 보면 더 재미있는 용어 전격 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001269655</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001269655"/>
+        <updated>2023-09-11T16:06:56.163Z</updated>
+        <content type="html"><![CDATA[영화 '밀수'로 올여름 관객들의 마음을 사로 잡은 제작사 외유내강의 새 영화 '천박사 퇴마 연구소: 설경의 비밀'이 오는 27일 개봉을 앞둔 가운데 영화를 더욱 재미있게 즐기기 위한 천박사 용어가 공개됐다. 영화 ']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마지막 앞둔 엄마 위해, 아들은 갈비찜을 만들었다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=025&amp;aid=0003307067</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007043491"/>
         <updated>2023-09-11T14:02:50.889Z</updated>
         <content type="html"><![CDATA[배우 강은탁이 11일 서울 송파구 롯데시네마 월드타워점에서 열린 영화 '1947 보스톤‘(감독 강제규) VIP 시사회에서 포즈를 취하고 있다. '1947 보스톤'은 한국 마라톤의 전설 손기정(하정우 분)과 또 다른]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임시완 응원 온 이선빈]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007043490</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007043490"/>
-        <updated>2023-09-11T14:02:50.891Z</updated>
-        <content type="html"><![CDATA[배우 이선빈이 11일 서울 송파구 롯데시네마 월드타워점에서 열린 영화 '1947 보스톤‘(감독 강제규) VIP 시사회에서 포즈를 취하고 있다. '1947 보스톤'은 한국 마라톤의 전설 손기정(하정우 분)과 또 다른]]></content>
     </entry>
 </feed>
