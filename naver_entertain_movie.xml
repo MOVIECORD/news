@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-09-12T16:06:40.474Z</updated>
+    <updated>2023-09-12T18:08:08.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[생생한 인물보다 상황 쫓는 데 급급… 뜨거운 애국심도 미지근하게 만드네]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=023&amp;aid=0003787452</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=023&amp;aid=0003787452"/>
+        <updated>2023-09-12T18:07:19.983Z</updated>
+        <content type="html"><![CDATA[27일 개봉하는 영화 ‘1947 보스톤’ 때는 1947년. 광복 후 최초로 태극 마크를 단 선수가 국제대회에 출전한다. ‘제2의 손기정’ 서윤복(임시완)이다. 베를린 올림픽 금메달리스트 손기정(하정우)과 동메달리스트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['거미집' 세계로 뻗어 나간다...전 세계 187개국 선판매]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001269803</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004925593"/>
         <updated>2023-09-12T11:04:07.571Z</updated>
         <content type="html"><![CDATA[(인터뷰②에 이어) 강제규(61) 감독이 전 마라톤선수 남승룡 역을 맡은 배우 배성우(51)와 관련, “마음이 아픈 일이 있었다”라고 어렵게 입을 뗐다. 강제규 감독은 12일 오후 서울 삼청동의 한 카페에서 진행된]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["스타는 아니지만" 정혜인→이순재·양동근, '대종상' 응원 (엑's 현장)[종합]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001638048</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001638048"/>
-        <updated>2023-09-12T11:04:07.573Z</updated>
-        <content type="html"><![CDATA['대종상영화제'가 영광을 되찾기 위해 슬로건 '이제 다시 영화'를 내걸고 새 출발한다. 12일 오후 서울 광진구 건국대학교 새천년관 국제회의장에서는 제59회 대종상영화제 미디어데이가 진행됐다. 이 자리에는 이장호 총]]></content>
     </entry>
 </feed>
