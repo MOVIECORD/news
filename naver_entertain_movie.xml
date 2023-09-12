@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-09-12T18:08:08.590Z</updated>
+    <updated>2023-09-12T20:07:30.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘콘유’ 엄태화 감독 “아파트는 애증의 대상”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001637680</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001637680"/>
+        <updated>2023-09-12T20:06:37.402Z</updated>
+        <content type="html"><![CDATA[한국인에게 아파트는 어떤 의미일까. 부(富)나 자산의 상징일 수도 있고 누군가에겐 그 반대의 의미를 가질 수도 있다. 열망의 대상 혹은 분노의 대상일 수도 있다. 아파트에 대해 또는 아파트를 통해 느끼는 감정들과 대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[생생한 인물보다 상황 쫓는 데 급급… 뜨거운 애국심도 미지근하게 만드네]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=023&amp;aid=0003787452</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000770931"/>
         <updated>2023-09-12T11:04:07.550Z</updated>
         <content type="html"><![CDATA[아빠가 된 송중기가 '화란'으로 3년 만에 스크린 복귀한다. 10월 11일 개봉을 알린 영화 '화란'(감독 김창훈)은 지옥 같은 현실에서 벗어나고 싶은 소년 ‘연규’(홍사빈)가 조직의 중간 보스 ‘치건’(송중기)을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['1947 보스톤' 강제규 "배성우, 마음 아픈 일…故남승룡 명예 실추되지 않도록 편집"[인터뷰③]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004925593</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004925593"/>
-        <updated>2023-09-12T11:04:07.571Z</updated>
-        <content type="html"><![CDATA[(인터뷰②에 이어) 강제규(61) 감독이 전 마라톤선수 남승룡 역을 맡은 배우 배성우(51)와 관련, “마음이 아픈 일이 있었다”라고 어렵게 입을 뗐다. 강제규 감독은 12일 오후 서울 삼청동의 한 카페에서 진행된]]></content>
     </entry>
 </feed>
