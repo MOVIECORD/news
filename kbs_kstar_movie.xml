@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 22:06:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 23:07:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티빙 '춘화연애담' 고아라, '화리공주' 캐스팅]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=280571</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=280571</guid>
+            <pubDate>Wed, 13 Sep 2023 23:05:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=280571">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230914080311_7c263327a4d5e67a7ba743fab096267f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=280571">티빙 '춘화연애담' 고아라, '화리공주' 캐스팅</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230914080311_7c263327a4d5e67a7ba743fab096267f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['최악의 악'  지창욱-위하준...  "위험한 잠입수사가 시작된다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=280418</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=279904">나문희-김영옥-박근형 영화 '소풍', 임영웅 자작곡 ‘모래 알갱이’ 삽입</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230908103158_6c273263b7196d6aa5a030f9b53bb2fb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 '발레리나' 이충현 감독 감성액션 복수극 10월 공개... 전종서+김지훈+박유림]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=279850</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=279850</guid>
-            <pubDate>Fri, 08 Sep 2023 00:27:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=279850">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230908090425_ff2728162ce7f69db9474b653cad080e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=279850">넷플릭스 '발레리나' 이충현 감독 감성액션 복수극 10월 공개... 전종서+김지훈+박유림</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230908090425_ff2728162ce7f69db9474b653cad080e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
