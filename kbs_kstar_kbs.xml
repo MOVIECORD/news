@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 20:04:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 21:06:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['우당탕탕 패밀리'  15人 단체 포스터 ... 전쟁과 같은 상견례 현장]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=280200</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=280200</guid>
+            <pubDate>Wed, 13 Sep 2023 21:05:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=280200">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230912071900_5eb33f9e48c7019499722572179032e8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=280200"> '우당탕탕 패밀리'  15人 단체 포스터 ... 전쟁과 같은 상견례 현장</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95%20%ED%8C%A8%EB%B0%80%EB%A6%AC">일일연속극 우당탕탕 패밀리</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230912071900_5eb33f9e48c7019499722572179032e8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[옥탑방의 문제아들] “이거 눈 한(?) 거예요!” 갑자기 성형 고백하는 하준에 당황한 MC들]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=280557</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EA%B8%88%EC%9D%B4%EC%95%BC%20%EC%98%A5%EC%9D%B4%EC%95%BC">일일연속극 금이야 옥이야</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230912223229_3530b64fb4e526657161b8c43006aa21.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[금이야 옥이야] “내 집에 내 남편, 내 자식 두고 밖에서 살 이유가 없더라” 뻔뻔하게 가족들 집에 입주하는 반소영]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=280337</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=280337</guid>
-            <pubDate>Tue, 12 Sep 2023 14:04:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=280337">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230912221637_fd490729463b1b88279bb7ae3a888404_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=280337">[금이야 옥이야] “내 집에 내 남편, 내 자식 두고 밖에서 살 이유가 없더라” 뻔뻔하게 가족들 집에 입주하는 반소영</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EA%B8%88%EC%9D%B4%EC%95%BC%20%EC%98%A5%EC%9D%B4%EC%95%BC">일일연속극 금이야 옥이야</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230912221637_fd490729463b1b88279bb7ae3a888404_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
