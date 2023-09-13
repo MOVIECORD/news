@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 02:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 04:06:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 김성균 “힘이 셉니다, 뒤에는 감동이 있습니다” (디즈니플러스 ‘무빙’)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=280483</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=280483</guid>
+            <pubDate>Wed, 13 Sep 2023 04:04:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=280483">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230913112238_11635053656e991364541546aeaa829d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=280483">[인터뷰] 김성균 “힘이 셉니다, 뒤에는 감동이 있습니다” (디즈니플러스 ‘무빙’)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230913112238_11635053656e991364541546aeaa829d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웨이브 '거래' 유승호, "100억 납치극 펼친다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=280249</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=279809">아트나인 '정지영 감독 40주년 기념 회고전' 개막식.. "앞으로 4년은 더 할 수 있다." </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230908081750_0268f37cd2c1fd66f0fd4447546f21da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '더 넌 2', ‘컨저링 유니버스는 계속된다'... 27일 개봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=279693</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=279693</guid>
-            <pubDate>Fri, 08 Sep 2023 00:27:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=279693">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230907082242_648e02256fd1e9d7eff946a8f92ba898.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=279693">영화 '더 넌 2', ‘컨저링 유니버스는 계속된다'... 27일 개봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230907082242_648e02256fd1e9d7eff946a8f92ba898.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
