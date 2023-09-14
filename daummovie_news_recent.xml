@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-09-14T15:07:36.542Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 14 Sep 2023 16:09:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[故 김기영 감독 유족, ‘거미집’ 상영금지 소송 [연예뉴스 HOT]]]></title>
+            <link>https://v.daum.net/v/20230915003014334</link>
+            <guid>https://v.daum.net/v/20230915003014334</guid>
+            <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고 김기영 감독의 유족이 27일 개봉하는 영화 ‘거미집’을 상대로 상영금지 가처분 소송을 제기했다. 14일 법조계에 따르면 서울중앙지법 민사합의60부(부장판사 임해지)는 전날 김기영 감독의 차남 김동양 등 3명이 제작사 앤솔로지스튜디오 등 4명을 상대로 낸 영화상영금지 가처분 소송 첫 번째 심문기일을 열었다. 유족 측은 “연출자인 김지운 감독이 인터뷰를]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F15%2Fsportsdonga%2F20230915003015712pirj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
