@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 05:03:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 07:07:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] ‘잔고: 분노의 적자’ 백승기 No.5]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=280848</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=280848</guid>
+            <pubDate>Fri, 15 Sep 2023 07:05:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=280848">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230915152901_c63d789636d9124c3a508f2654b11995.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=280848">[리뷰] ‘잔고: 분노의 적자’ 백승기 No.5</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230915152901_c63d789636d9124c3a508f2654b11995.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 '도적:칼의 소리'... "액션으로 시작, 액션으로 끝난다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=280779</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=280243">웨이브오리지널 '거래' 내달 공개...  “오늘 우린 친구를 거래한다”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230912081222_733d9f7b115021402373851e44eb537a_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사진작가 줄리앙 미뇨, 서울영등포국제초단편영화제 심사위원.. 서울에서 사진전 개최]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=280236</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=280236</guid>
-            <pubDate>Tue, 12 Sep 2023 00:25:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=280236">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230912080557_1e80a61beecba1d3adbbfcaef92d4929.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=280236">사진작가 줄리앙 미뇨, 서울영등포국제초단편영화제 심사위원.. 서울에서 사진전 개최</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230912080557_1e80a61beecba1d3adbbfcaef92d4929.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
