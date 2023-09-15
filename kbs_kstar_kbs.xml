@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 21:06:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 22:04:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[다큐ON] 마이산의 신비에 빠지다..  "수많은 돌탑이 빚은 비경"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=280826</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=280826</guid>
+            <pubDate>Fri, 15 Sep 2023 22:03:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=280826">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230915142716_234de25a7780ce38d0bf6bf3f4be859d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=280826">[다큐ON] 마이산의 신비에 빠지다..  "수많은 돌탑이 빚은 비경"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8B%A4%ED%81%90%20%EC%98%A8">다큐 온</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230915142716_234de25a7780ce38d0bf6bf3f4be859d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[더 시즌즈-악뮤의 오날오밤] 이효리, 이상순과 함께 작업한 이진아의 ♪말]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=280919</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%99%8D%EA%B9%80%EB%8F%99%EC%A0%84">홍김동전</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230914233330_4d11fdab782b427969bebccd58c4391a_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[홍김동전] 멤버들을 주제로 세 글자 게임 번외편! “부자가…여깄네?” 전원 폭소]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=280669</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=280669</guid>
-            <pubDate>Thu, 14 Sep 2023 15:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=280669">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230914233015_92d6edcb0a606c6b5b428a4e62215724_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=280669">[홍김동전] 멤버들을 주제로 세 글자 게임 번외편! “부자가…여깄네?” 전원 폭소</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%99%8D%EA%B9%80%EB%8F%99%EC%A0%84">홍김동전</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230914233015_92d6edcb0a606c6b5b428a4e62215724_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
