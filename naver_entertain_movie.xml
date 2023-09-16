@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-09-16T09:03:03.902Z</updated>
+    <updated>2023-09-16T11:05:05.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강동원의 '천박사', 추석 극장가에 일 내나? 개봉 11일 전부터 예매율 1위]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001270206</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001270206"/>
+        <updated>2023-09-16T11:04:08.896Z</updated>
+        <content type="html"><![CDATA[배우 강동원의 복귀작으로 주목 받은 영화 '천박사 퇴마 연구소 : 설경의 비밀'(이하 천박사 퇴마 연구소)이 개봉 11일 전에 전체 예매율 1위를 차지하며 흥행 예열에 나섰다. 16일 영화진흥위원회 통합전산망에 따르]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['천박사', 개봉 11일 전부터 전체 예매율 1위]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002749829</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005576310"/>
         <updated>2023-09-16T02:12:54.440Z</updated>
         <content type="html"><![CDATA[영화 ‘잠’ 포스터(사진=롯데엔터테인먼트) 정유미, 이선균 주연의 영화 ‘잠’(감독 유재선)이 손익분기점을 돌파했다. 영화진흥위원회 영화관입장권 통합전산망에 따르면 영화 ‘잠’은 16일 오전 10시 기준 누적 관객수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘한강’, 권상우‧김희원의 믿고 보는 코믹 케미…’한방’은 아직 [IS리뷰]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003301029</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003301029"/>
-        <updated>2023-09-16T02:12:54.453Z</updated>
-        <content type="html"><![CDATA[“테러리스트 역할을 하랬더니 테러를 해?” 한강에서 테러 훈련을 하는데 한강경찰이 범인 역할을 하는 것에 발끈하며 사고를 친 에이스 두진(권상우)과 “대충하고 잡혀야지. 그래야 윗분들도 좋아한다”며 AM스러운 베테랑]]></content>
     </entry>
 </feed>
