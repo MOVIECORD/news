@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-09-17T14:05:32.242Z</updated>
+    <updated>2023-09-17T15:07:22.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['학폭 의혹' 박혜수, '너와 나' 개봉보다 공식 입장이 먼저[TF초점]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000239172</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000239172"/>
+        <updated>2023-09-17T15:06:27.860Z</updated>
+        <content type="html"><![CDATA[박혜수 주연 '너와 나', 10월 개봉...은근슬쩍 복귀는 NO 조병규·김소혜 이어 '학폭 의혹' 배우 복귀...달갑지 않은 시선이 당연 배우 박혜수가 학폭(학교 폭력) 의혹을 완전히 벗지 못하고 복귀에 시동을 걸었]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정유미x이선균 '잠' 100만 관객 돌파…손익분기점 달성까지 [공식입장]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001639550</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000772592"/>
         <updated>2023-09-17T05:06:11.876Z</updated>
         <content type="html"><![CDATA[영화 '잠'이 80만 누적 관객수를 돌파하며 손익분기점을 넘어섰다. 9월 17일 영화진흥위원회 영화관입장권통합전산망에 따르면 '잠'은 지난 16일 13만6449명의 관객을 동원해 누적관객수 91만7977명을 기록했다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“걸작을 왜 만들어요?”…‘OTT·틱톡의 시대’ 영화의 의미를 묻다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002656955</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=028&amp;aid=0002656955"/>
-        <updated>2023-09-17T05:06:11.881Z</updated>
-        <content type="html"><![CDATA[코로나 시대의 영화란 무엇일까. 팬데믹은 종식됐지만 질문은 끝나지 않는다. 100년 동안 가장 대중적인 볼거리이자 예술로 받았던 사랑을 불과 2~3년 만에 오티티(OTT)와 유튜브, 틱톡에 뺏겨버린 영화는 살아남을]]></content>
     </entry>
 </feed>
