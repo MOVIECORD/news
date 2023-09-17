@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Sep 2023 21:05:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 23:07:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['우당탕탕 패밀리' 오늘 첫 방송.. "원수는 결혼이라는 외나무다리에서 만난다!"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=281076</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=281076</guid>
+            <pubDate>Sun, 17 Sep 2023 23:06:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=281076">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230917094655_176c08b60419b00ad2177ad384ef152b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=281076"> '우당탕탕 패밀리' 오늘 첫 방송.. "원수는 결혼이라는 외나무다리에서 만난다!"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95%20%ED%8C%A8%EB%B0%80%EB%A6%AC">일일연속극 우당탕탕 패밀리</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230917094655_176c08b60419b00ad2177ad384ef152b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[개는 훌륭하다] 반려동물 전용 빌라의  고민犬]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=280942</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95%20%ED%8C%A8%EB%B0%80%EB%A6%AC">일일연속극 우당탕탕 패밀리</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230916084502_06caac7cee7252c1f1cddbd7a6179b15.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[역사저널 그날] 김근태, 그리고 1985년의 남영동]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=280832</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=280832</guid>
-            <pubDate>Sat, 16 Sep 2023 22:06:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=280832">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230915143058_16afd41e337564329e4921bad2e3adca.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=280832">[역사저널 그날] 김근태, 그리고 1985년의 남영동</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%97%AD%EC%82%AC%EC%A0%80%EB%84%90%20%EA%B7%B8%EB%82%A0">역사저널 그날</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230915143058_16afd41e337564329e4921bad2e3adca.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
