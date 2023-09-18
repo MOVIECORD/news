@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-09-18T17:08:11.524Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 18 Sep 2023 19:06:49 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['봄날은 간다' 허진호 감독, 신작 '보통의 가족' 토론토 영화제 달궜다]]></title>
+            <link>https://v.daum.net/v/20230919030800414</link>
+            <guid>https://v.daum.net/v/20230919030800414</guid>
+            <pubDate>Mon, 18 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=김연주 기자] 오는 2024년 개봉 예정인 허진호 감독의 신작 '보통의 가족'이 제48회 토론토국제영화제에 초청, 뜨거운 관심 속 프리미어 상영을 마쳤다.&nbsp; 지난 14일(현지 시간) 제48회 토론토국제영화제 갈라 프레젠테이션 섹션에 공식 초청된 '보통의 가족'이 레드카펫과 월드 프리미어 상영을 성황리에 마쳐 이목을 집중시킨다. '보통의 가족']]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F19%2Ftvreport%2F20230919030805043fkye.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
