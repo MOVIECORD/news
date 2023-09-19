@@ -1,8 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-09-19T19:04:57.623Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 19 Sep 2023 23:03:38 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] '천박사 퇴마 연구소' 강동원표 퇴마 액션…경쾌한 오컬트물의 탄생]]></title>
+            <link>https://v.daum.net/v/20230920080018337</link>
+            <guid>https://v.daum.net/v/20230920080018337</guid>
+            <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 조은애 기자] '천박사 퇴마 연구소: 설경의 비밀'(이하 '천박사 퇴마 연구소')은 오컬트와 코미디를 절묘하게 섞은 영화다. 이런 류의 작품은 자칫 이도 저도 아닌 방향으로 흐르기도&nbsp;하지만, '천박사 퇴마 연구소'는 다르다. 어울릴 것 같지 않은 두 장르가 저마다 생명력을 잃지 않고 빛난다. 영화는 귀신을 믿지 않는 가짜 퇴마사&nbsp;천박사]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F20%2FSpoHankook%2F20230920080019796esje.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[리뷰] '가문의 영광: 리턴즈' 돌아온 레전드…친근하지만 매력은 '갸우뚱']]></title>
+            <link>https://v.daum.net/v/20230920080015324</link>
+            <guid>https://v.daum.net/v/20230920080015324</guid>
+            <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 조은애 기자] 욕쟁이 할머니 맛집이라기에&nbsp;찾아갔는데 맛이 애매하다. 고개를 갸우뚱하게 만드는&nbsp;'가문의 영광: 리턴즈'다. 영화는 돈과 권력을 모두 쥐고 있는 장씨 가문의 이야기로 시작된다. 가문의 수장 홍회장(김수미)의 유일한 골칫거리는 비혼을 선언한 막내딸 진경(유라)이다. 어느 날 진경은 클럽에서 처음 본 대서(윤현민)와 하룻밤을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F20%2FSpoHankook%2F20230920080016949idzw.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['아이유 콘서트 : 더 골든 아워' 5만 돌파 기념…개봉 3주차 이벤트 공개]]></title>
+            <link>https://v.daum.net/v/20230920075924290</link>
+            <guid>https://v.daum.net/v/20230920075924290</guid>
+            <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 노한빈 기자] 영화 '아이유 콘서트 : 더 골든 아워'가 개봉 3주차 이벤트를 공개했다. 높은 관객 만족도로 입소문 호평을 끌어내며 5만 관객을 돌파한 '아이유 콘서트 : 더 골든 아워'가 개봉 3주차 이벤트를 발표했다. '아이유 콘서트 : 더 골든 아워'는 아티스트 아이유의 데뷔 15주년을 기념해 극장에서 개봉하는 첫 공연 실황 영화로,]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F20%2Fmydaily%2F20230920075925940qbfn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[스토리텔링의 힘이 느껴지는 '폭로', 흡입력으로 승부 [볼 만해?]]]></title>
+            <link>https://v.daum.net/v/20230920075619222</link>
+            <guid>https://v.daum.net/v/20230920075619222</guid>
+            <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[입과 코에 본드가 거미줄처럼 엉긴 채 한 남자가 죽어있다. 이 남자를 죽인 용의자로 아내 성윤아(유다인 분)이 체포된다. 여자의 얼굴에는 가정 폭력의 흔적이 역력하다. 국선 변호사 이정민(강민혁 분)은 최은주 부장판사(공상자 분)의 지목을 받아 이 사건을 맡았다. 그리고 이내 용의자의 자백 번복, 무언가 숨기고 있는 듯한 분위기 포착해 범인이 아님을 직감한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F20%2Fdailian%2F20230920075621496pjxa.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['화란' 비비, 치열한 경쟁률 뚫고 캐스팅..감독 "매번 기대되는 배우"]]></title>
+            <link>https://v.daum.net/v/20230920074923107</link>
+            <guid>https://v.daum.net/v/20230920074923107</guid>
+            <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp;영화 '화란'(제공/배급: 플러스엠 엔터테인먼트 | 제작: ㈜사나이픽처스 | 공동 제작: ㈜하이스토리, 플러스엠 엔터테인먼트 | 감독: 김창훈)의 김형서(비비)가 무대를 벗어나 스크린을 통해 배우로서 새로운 매력과 존재감을 선보일 예정이다. '화란'은 지옥 같은 현실에서 벗어나고 싶은 소년 연규(홍사빈)가 조직의 중간 보스 치건]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F20%2Fpoctan%2F20230920074924749tqsy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘잠’ 14일째 1위…‘천박사’ 예매율 1위[MK박스오피스]]]></title>
+            <link>https://v.daum.net/v/20230920073900941</link>
+            <guid>https://v.daum.net/v/20230920073900941</guid>
+            <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘잠’(감독 유재선)이 14일 연속 박스오피스 왕좌를 지켰다. 20일 영화진흥위원회 영화관 입장권 통합전산망 집계에 따르면 ‘잠’은 전날 2만 8600명의 관객을 동원해 14일 연속 박스오피스 1위에 올랐다. 누적 관객수는 109만 2367명이다. 2위는‘베니스 유령 살인사건’이다. 같은 날 8975명의 관객을 불러 모아 누적 관객수는 15만 15명이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F20%2Fstartoday%2F20230920073901675dgkf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['노량: 죽음의 바다' 12월 개봉 확정…김윤석의 이순신, 10년의 마지막 여정]]></title>
+            <link>https://v.daum.net/v/20230920073004784</link>
+            <guid>https://v.daum.net/v/20230920073004784</guid>
+            <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 영화 '노량: 죽음의 바다'(감독 김한민)가 12월 개봉을 확정하고 론칭 포스터와 론칭 예고편을 공개했다. 1761만 관객을 동원하며 대한민국 최고 흥행의 역사를 기록한 영화 '명량'(2014), 2022년 여름최고 흥행작이자 코로나19 팬데믹을 뚫고 726만 관객을 기록한 '한산: 용의 출현'(2022)의 뒤를 이어 이순신 3]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F20%2Fxportsnews%2F20230920073005711cnoe.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[송강호가 껄껄 웃었다[인터뷰]]]></title>
+            <link>https://v.daum.net/v/20230920072515726</link>
+            <guid>https://v.daum.net/v/20230920072515726</guid>
+            <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 송강호가 껄껄껄 웃음을 터뜨렸다. 특유의 호탕한 웃음소리가 카페 안을 울렸다. 활짝 핀 표정에선 영화 ‘거미집’(감독 김지운)에 대한 만족도를 고스란히 읽어낼 수 있었다. “늘 봐왔던 영화의 형태나 방식이 아니라 신선하잖아요. 영화적인 느낌이 강한 작품이라 관객들에게 소개되는 것부터도 반갑더라고요. 영화 작업을 하다보면 예상되는 형식들은 어쩔 땐]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F20%2Fsportskhan%2F20230920072517550fulg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰 종합] "故김기영 감독 특정한 영화 아냐"…송강호, '거미집' 70년대 충무로 향한 오마주(종합)]]></title>
+            <link>https://v.daum.net/v/20230920072307697</link>
+            <guid>https://v.daum.net/v/20230920072307697</guid>
+            <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 배우 송강호(56)가 고(故) 김기영 감독에 대한 오해를 조심스럽게 털어놨다. 블랙 코미디 영화 '거미집'(김지운 감독, 앤솔로지 스튜디오·바른손 스튜디오 제작)에서 악조건 속에서도 기필코 걸작을 만들고 싶은 거미집의 감독 김열을 연기한 송강호. 그가 18일 오전 서울 종로구 삼청동에서 스포츠조선과 만나 '거미집'의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F20%2FSpoChosun%2F20230920072308005pgbu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[이박사는 뽕짝, ‘천박사’는 유치뽕짝[편파적인 씨네리뷰]]]></title>
+            <link>https://v.daum.net/v/20230920072203689</link>
+            <guid>https://v.daum.net/v/20230920072203689</guid>
+            <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[■편파적인 한줄평 : 요괴 잡는 강동원을 좋아한다면. 이박사가 뽕짝의 대명사라면, ‘천박사’는 유치뽕짝이다. ‘요괴 잡는 강동원’을 좋아한다면 나름 즐길 수 있겠지만, 취향이 맞지 않는 이에겐 허들이 높다. 영화 ‘천박사 퇴마 연구소: 설경의 비밀’(감독 김성식)이다. ‘천박사 퇴마 연구소: 설경의 비밀’은 귀신을 믿지 않지만 귀신 같은 통찰력을 지]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F20%2Fsportskhan%2F20230920072204733tdhm.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[강동원의 흥행 리턴즈, ‘천박사’[한현정의 직구리뷰]]]></title>
+            <link>https://v.daum.net/v/20230920072100674</link>
+            <guid>https://v.daum.net/v/20230920072100674</guid>
+            <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이거다! 나름 알차고 지루할 새 없는, 기다렸던 ‘새삥’ 아우라. 쉽고 빠르고 똑똑한데다 볼거리도 풍성하다. 비주얼은 강동원만큼 빼어나고, 적당한 밀당으로 유지되는 긴장감에, 편안한 호감 앙상블(케미), 고전적 색체의 퇴마 판타지와 현대 탐정물의 조화로움까지. 특히 눈이 즐겁고, 꽤 쫄깃한, ‘천박사 퇴마 연구소: 설경의 비밀’(감독 김성식, 이하 ‘천박사]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F20%2Fstartoday%2F20230920073002722vaps.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['잠' 14일 연속 1위…'베니스 유령 살인사건' 2위 [Nbox]]]></title>
+            <link>https://v.daum.net/v/20230920071339597</link>
+            <guid>https://v.daum.net/v/20230920071339597</guid>
+            <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 안태현 기자 = 영화 '잠'(감독 유재선)이 14일 연속 박스오피스 1위를 지켰다. 20일 영화진흥위원회 영화관 입장권 통합전산망 집계에 따르면 '잠'은 지난 19일 하루동안 2만8600명의 관객을 동원하며 박스오피스 1위에 올랐다. 누적관객수는 109만2367명이다. '잠'은 지난 6일 개봉 이후 14일째 박스오피스 정상의 자리를 지키]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F20%2FNEWS1%2F20230920071339603lmji.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['상견니' 허광한, 눈물 줄줄 나는 새 로맨스 영화로 컴백 ('우사시')]]></title>
+            <link>https://v.daum.net/v/20230920070201409</link>
+            <guid>https://v.daum.net/v/20230920070201409</guid>
+            <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=김현재 기자] '상견니', '여름날 우리'로 국내 극장가를 사로잡은 배우 허광한이 10월 11일 개봉하는 '기억해, 우리가 사랑한 시간'을 통해 뛰어난 존재감을 보여줄 예정이다. 올해 극장가 흥행 키워드로 자리 잡은 ‘허광한’ 신드롬은 10월 11일 개봉을 앞둔 영화 '기억해, 우리가 사랑한 시간'에서도 이어질 전망이다. 그의 새로운 매력을 확]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F20%2Ftvreport%2F20230920070205494zeus.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['천박사', 씩 웃다 보니 시간 가네…똑떨어지는 추석용 오락 영화 [시네마 프리뷰]]]></title>
+            <link>https://v.daum.net/v/20230920070024343</link>
+            <guid>https://v.daum.net/v/20230920070024343</guid>
+            <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = *영화의 주요 내용을 포함한 스포일러가 있을 수 있습니다. '천박사 퇴마 연구소: 설경의 비밀'이라는 긴 제목을 갖게 된 이 영화의 원제는 '빙의'다. 동명 웹툰을 원작으로 한 이 영화는 원작 속 주요 캐릭터 천박사와 오유경 등의 설정을 그대로 가져왔다. 제목이 길어진 것은 마케팅·홍보적인 측면에서 이유를 찾을 수 있을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F20%2FNEWS1%2F20230920070025658thng.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[홍경·고민시, 제28회 부산국제영화제 폐막식 사회자 선정]]></title>
+            <link>https://v.daum.net/v/20230920070011300</link>
+            <guid>https://v.daum.net/v/20230920070011300</guid>
+            <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김유진 기자) 배우 홍경과 고민시가 제28회 부산국제영화제(BIFF)폐막식 사회자로 낙점됐다. 홍경은 영화 '결백'(2019), 드라마 'D.P.'(2021), '약한영웅 Class 1'(2022), '악귀'(2023) 등에서 활약했다. 섬세한 연기로 입체적인 캐릭터를 그려내며 국내외 관객들에게 깊은 인상을 남긴 배우 홍경은 최근 애니메이션]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F20%2Fxportsnews%2F20230920070012992eevu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘국민 배우’ 故 변희봉, 오늘(20일) 발인… 가족·동료 배웅 속 영면]]></title>
+            <link>https://v.daum.net/v/20230920065151145</link>
+            <guid>https://v.daum.net/v/20230920065151145</guid>
+            <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영화계의 큰 별 고(故) 변희봉이 동료들의 배웅 속에 영면에 든다. 고 변희봉은 과거 췌장암 투병 중 완치 판정을 받았으나, 암이 재발해 지난 18일 세상을 떠났다. 향년 81세. 고인의 발인식은 20일 낮 12시 30분 서울 강남구 삼성서울병원 장례식장에서 엄수된다. 빈소가 차려진 후 봉준호 감독, 송강호 등 영화계 인사들이 빈소를 찾았다. 봉준호]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F20%2Filgansports%2F20230920065152144vodn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘천박사’ 강동원이 제대로 말아주는 복합장르의 치명적 매력 [리뷰]]]></title>
+            <link>https://v.daum.net/v/20230920063019845</link>
+            <guid>https://v.daum.net/v/20230920063019845</guid>
+            <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사진제공｜CJ ENM 오컬트, 판타지, 액션, 코미디 등 모든 장르의 매력을 한 영화에 담았다. 복합장르의 매력을 제대로 살려 올 추석 연휴에 각양각색의 관객들의 취향을 모두 만족시킬 영화 ‘천박사 퇴마 연구소: 설경의 비밀’(김성식 감독, 외유내강 제작)이다. 27일 개봉하는 영화는 귀신을 믿지 않는 가짜 퇴마사 천박사(강동원)가 귀신을 보는 의뢰인 유]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F20%2Fsportsdonga%2F20230920063020670ivay.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[IS리뷰] ‘30일’ 코미디와 로맨스의 적절한 조화]]></title>
+            <link>https://v.daum.net/v/20230920060032280</link>
+            <guid>https://v.daum.net/v/20230920060032280</guid>
+            <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이것은 코미디인가 로맨스인가. 첫 장면부터 결혼식으로 시작하는데 신랑이 주인공이 아니라니. 이런 영화가 또 있었을까. 영화 ‘30일’은 예측할 수 없는 전개로 깨알 웃음을 선사한다. 지질한 남자친구 노정열(강하늘)과 헤어진 지 두 달, 영화는 다른 남자와 새롭게 출발하려는 홍나라(정소민)의 결혼식 당일로 시작한다. 정열은 나라의 결혼식 낮부터 친구들과]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F20%2Filgansports%2F20230920060032508wcre.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[줌人] ‘30일’에 강하늘만 있나? ‘코믹요정’ 정소민·‘웃음 4할 타자’ 조민수]]></title>
+            <link>https://v.daum.net/v/20230920060016239</link>
+            <guid>https://v.daum.net/v/20230920060016239</guid>
+            <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘30일’에서 강하늘의 활약만 기대한다면 오산이다. 배우 정소민과 조민수가 팔색조 매력으로 추석 극장가를 사로잡을 준비를 마쳤다. ‘30일’은 서로의 찌질함과 똘기를 견디다 못해 마침내 이혼을 하기로 했던 부부가 30일을 남기고 동반기억상실증에 걸리면서 벌어지는 일을 그린 영화. 정소민, 강하늘을 주축으로 조민수, 김선영, 윤경호 등이 출연한다.]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F20%2Filgansports%2F20230920060018238jmtk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[#케미 #공감 #조연 ‘30일’ 흥행 포인트 셋]]></title>
+            <link>https://v.daum.net/v/20230920060007208</link>
+            <guid>https://v.daum.net/v/20230920060007208</guid>
+            <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우들의 케미에 공감 코드까지 넣었다. 영화 ‘30일’이 올 가을 제대로 된 로맨틱 코미디 맛을 보여준다. ◇강하늘&amp;정소민! 어게인 ‘스물’ 케미 ‘30일’은 서로의 지질함과 똘기를 견디다 못해 마침내 완벽하게 남남이 되기 직전 동반기억상실증에 걸려버린 정열(강하늘)과 나라(정소민)의 이야기를 담은 코미디 영화. 그만큼 정열과 나라, 두 캐릭터 사이의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F20%2Filgansports%2F20230920060009098bxbl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
