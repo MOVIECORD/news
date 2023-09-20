@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-09-20T19:03:02.334Z</updated>
+    <updated>2023-09-20T20:06:19.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강동원의 오컬트 스릴러 ‘천박사’ 추석 극장가 통할까]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001639786</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001639786"/>
+        <updated>2023-09-20T20:05:25.377Z</updated>
+        <content type="html"><![CDATA[안개가 잔뜩 낀 충북 옥천의 한 마을. 을씨년스러운 분위기 속에서 주민들은 싸늘한 시선을 보낸다. 집집마다 정체 모를 부적이 붙어있다. 의뢰인을 따라 이 마을로 들어선 퇴마사 천박사(강동원)는 방울이 달린 팔찌를 들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20년 전에 멈춰있는 유머… 돌아온 가문에 ‘영광’은 없었네]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=023&amp;aid=0003789076</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003654622"/>
         <updated>2023-09-20T13:13:46.369Z</updated>
         <content type="html"><![CDATA['발레리나'의 메인 포스터 및 예고편이 공개됐다. 영화 '발레리나'는 경호원 출신 ‘옥주’(전종서)가 소중한 친구 ‘민희’(박유림)를 죽음으로 몰아간 ‘최프로’(김지훈)를 쫓으며 펼치는 아름답고 무자비한 감성 액션]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TEN포토] 권은빈 '매력 넘치는 미모']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000629572</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000629572"/>
-        <updated>2023-09-20T13:13:46.370Z</updated>
-        <content type="html"><![CDATA[배우 권은빈이 20일 오후 서울 강남구 메가박스 코엑스에서 열린 영화 '거미집' VIP시사회에 참석하고 있다. '거미집'은 1970년대, 다 찍은 영화 '거미집'의 결말만 다시 찍으면 걸작이 될 거라 믿는 김감독(송]]></content>
     </entry>
 </feed>
