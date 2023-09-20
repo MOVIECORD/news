@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-09-20T16:05:39.403Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 20 Sep 2023 17:03:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['노크:더 하우스' 극강의 공포를 위한 관람 포인트 3]]></title>
+            <link>https://v.daum.net/v/20230921020131001</link>
+            <guid>https://v.daum.net/v/20230921020131001</guid>
+            <pubDate>Wed, 20 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=김연주 기자] 절찬 상영 중인 호러 스릴러 '노크: 더 하우스'의 공포감을 한층 끌어올릴 관람 포인트 3가지가 공개됐다.&nbsp; 영화 '노크: 더 하우스'는 침실 벽 안쪽에서 들려오는 불가사의하고 끊임없는 두드리는 소리에 괴로워하는 8살 피터의 이야기를 중심으로 전개된다. 첫 번째 관람 포인트는 예측 불가한 베일에 쌓인 공포다. 영화 속에는 많은 물]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F21%2Ftvreport%2F20230921020135359lcyy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
