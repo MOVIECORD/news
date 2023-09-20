@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 05:07:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 07:05:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 '경미의 세계'  오늘 개봉.. '사랑하지만 헤어나오고 싶은 굴레']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=281508</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=281508</guid>
+            <pubDate>Wed, 20 Sep 2023 07:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=281508">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230920143747_c553fc0504765ce0ee3bd0f2878fe70a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=281508">영화 '경미의 세계'  오늘 개봉.. '사랑하지만 헤어나오고 싶은 굴레'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230920143747_c553fc0504765ce0ee3bd0f2878fe70a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['무빙' "고윤정은 장희수다!"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=281432</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=281164">민병훈의 인간탐구는 계속된다... '약속' 11월 극장개봉</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230918080536_90daa8ff15000a4e8aa32f791518821b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['정지영 감독 40주년 기념 회고전' 성료...  9일간 6편의 작품 상영]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=281142</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=281142</guid>
-            <pubDate>Sun, 17 Sep 2023 23:06:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=281142">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230918072746_a430537806c2b923afaa8e84d99a5cbe.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=281142">'정지영 감독 40주년 기념 회고전' 성료...  9일간 6편의 작품 상영</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230918072746_a430537806c2b923afaa8e84d99a5cbe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
