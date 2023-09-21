@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-09-21T19:03:17.046Z</updated>
+    <updated>2023-09-21T20:07:35.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[IS인터뷰] 김성균 “디즈니+ ‘무빙’ 아이들까지 관심”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003302182</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003302182"/>
+        <updated>2023-09-21T20:06:43.016Z</updated>
+        <content type="html"><![CDATA[“‘무빙’에 저희 아들도 관심을 갖더라고요. 평소엔 아빠가 무슨 작품에 출연하는지 별로 관심도 없는데요. (웃음) ‘무빙’의 인기를 실감하고 있죠.” 디즈니+ 오리지널 시리즈 ‘무빙’에서 ‘아들 바보’ 이재만을 연기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘람빅, 시간과 열정의 맥주’ 포스터 3종 공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000914535</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007066990"/>
         <updated>2023-09-21T14:06:27.875Z</updated>
         <content type="html"><![CDATA[배우 주민경이 21일 서울 용산구 CGV 용산아이파크몰에서 열린 영화 '천박사 퇴마 연구소 : 설경의 비밀’ VIP 시사회에서 포즈를 취하고 있다. ‘천박사 퇴마 연구소 : 설경의 비밀’은 귀신을 믿지 않지만 귀신같]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[심달기 '천박사' 엄지척]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007066989</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007066989"/>
-        <updated>2023-09-21T14:06:27.883Z</updated>
-        <content type="html"><![CDATA[배우 심달기가 21일 서울 용산구 CGV 용산아이파크몰에서 열린 영화 '천박사 퇴마 연구소 : 설경의 비밀’ VIP 시사회에서 포즈를 취하고 있다. ‘천박사 퇴마 연구소 : 설경의 비밀’은 귀신을 믿지 않지만 귀신같]]></content>
     </entry>
 </feed>
