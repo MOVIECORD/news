@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-09-22T15:04:48.420Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 22 Sep 2023 17:06:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['베테랑' 송중기도, '신예' 감독-홍사빈-김형서에게도 도전인 영화 '화란'(종합)]]></title>
+            <link>https://v.daum.net/v/20230923002007530</link>
+            <guid>https://v.daum.net/v/20230923002007530</guid>
+            <pubDate>Fri, 22 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(MHN스포츠 정승민 기자) '초보 아빠'이자 '베테랑 배우' 송중기에게도, '신예' 김창훈 감독, 홍사빈, 김형서(비비)에게도 도전이었던 영화 '화란'이 첫선을 보였다. 22일 오후 서울 강남구 메가박스 코엑스에서 영화 '화란' 언론배급시사회가 열렸다. 이날은 김창훈 감독, 홍사빈, 송중기, 김형서(비비)가 참석했다. '화란'은 지옥 같은 현]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202309%2F23%2FHockeyNewsKorea%2F20230923002009304bpiv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
