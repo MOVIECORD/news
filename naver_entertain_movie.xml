@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-09-23T01:40:48.819Z</updated>
+    <updated>2023-09-23T02:12:44.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김민희, ♥홍상수 신작으로 돌아온다…'우리의 하루' 내달 개봉 확정]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003773839</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003773839"/>
+        <updated>2023-09-23T02:11:51.828Z</updated>
+        <content type="html"><![CDATA[홍상수 감독의 신작 '우리의 하루'가 국내 개봉을 확정 지었다. 제76회 칸국제영화제 감독주간 폐막작으로 월드 프리미어 상영됐던 '우리의 하루'가 1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘가문의 영광6’ 알 박살났다[스경연예연구소]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000914775</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=468&amp;aid=0000983480"/>
         <updated>2023-09-22T23:04:08.323Z</updated>
         <content type="html"><![CDATA[‘거미집’ 스틸컷. 사진 | 바른손이앤에이 영화감독 김열(송강호 분)은 눈만 감으면 표독스러운 이민자(임수정 분)가 떠오른다. ‘거미집’이란 영화를 찍었는데, 아무리 생각해도 흔하디 흔한 치정극으로 밖에 느껴지지 않]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Y터뷰] '1947 보스톤' 임시완 "마라토너 役, 배우보다 선수 생활에 더 가까웠죠"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=052&amp;aid=0001939562</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=052&amp;aid=0001939562"/>
-        <updated>2023-09-22T23:04:08.326Z</updated>
-        <content type="html"><![CDATA[배우 임시완 씨가 영화 '1947 보스톤'에서 서윤복 선수 역할을 소화해 내기 위해 준비했던 과정을 되돌아봤다. 철저한 식단부터 고강도 운동까지, 그 기간 동안은 연기자보다는 선수 생활에 더 가까웠다며 아낌없는 에너]]></content>
     </entry>
 </feed>
