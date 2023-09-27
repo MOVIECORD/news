@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-09-27T20:04:17.663Z</updated>
+    <updated>2023-09-27T21:06:59.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[괴짜 같아 궁금한, '천박사'님을 아세요? [최혜진의 혜안]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003184468</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003184468"/>
+        <updated>2023-09-27T21:06:06.466Z</updated>
+        <content type="html"><![CDATA[최혜진 기자의 눈(眼)으로 바라본 방송, 영화, 연예계 이슈. 오컬트물인데 또 코믹하다. 장르를 한 가지로 정의할 수 없다. 주인공의 정체도 단번에 알 수가 없다. 괴짜 같은 퇴마사가 등장한다. 그래서 더욱 궁금하고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[추석 연휴가 6일… OTT 명품 드라마 뭐 볼까]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000762893</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001771286"/>
         <updated>2023-09-27T10:04:04.620Z</updated>
         <content type="html"><![CDATA[‘천박사’로 돌아온 강동원 오늘(27일) 오후 6시 ‘피식쇼’ 출연 ‘천박사’ 강동원이 ‘피식쇼’에 출격한다. 영화 ‘천박사 퇴마 연구소: 설경의 비밀’(감독 김성식, 이하 ‘천박사’)은 귀신을 믿지 않지만 귀신 같]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[익스펜더블 4, 중국·북미 박스오피스 1위…10월 18일 국내 개봉]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000656395</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000656395"/>
-        <updated>2023-09-27T10:04:04.622Z</updated>
-        <content type="html"><![CDATA[이미지=익스펜더블 4 영화 ‘익스펜더블 4’가 오는 10월 18일 국내 개봉한다고 27일 밝혔다. 제작사에 따르면 제이슨 스타뎀의 액션으로 주목받고 있는 영화 ‘익스펜더블 4’가 중국 박스오피스 1위에 이어 이번주]]></content>
     </entry>
 </feed>
