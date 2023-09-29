@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-09-29T17:05:39.723Z</updated>
+    <updated>2023-09-29T18:11:01.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["일하면 에너지 얻어" '천박사' 이솜의 매력은 어디까지[인터뷰S]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000453116</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000453116"/>
+        <updated>2023-09-29T18:10:05.691Z</updated>
+        <content type="html"><![CDATA['길복순'의 새침데기 차민희가 귀신을 보는 순박한 의뢰인 유경이 됐다. 작품마다 새로운 얼굴로 시청자를 놀라게 하는 배우 이솜이 '천박사 퇴마 연구소: 설경의 비밀'로 돌아왔다. '천박사 퇴마 연구소: 설경의 비밀']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['천박사' 이솜 "다음엔 칼 쓰는 액션도 해보고 싶어요"[TF인터뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000241454</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001644267"/>
         <updated>2023-09-29T06:12:36.475Z</updated>
         <content type="html"><![CDATA[배우 정소민이 영화 '30일'을 통해 코미디 연기의 진수를 보여준 소감을 전했다. 정소민은 26일 오전 서울 종로구의 한 카페에서 진행된 영화 '30일'(감독 남대중) 인터뷰에서 다양한 이야기를 꺼냈다. '30일'은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['해리포터' 배우들, 덤블도어 마이클 갬본 별세 애도…"뛰어난 배우"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005585825</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005585825"/>
-        <updated>2023-09-29T06:12:36.477Z</updated>
-        <content type="html"><![CDATA[영화 ‘해리포터’ 시리즈에서 덤블도어 교장으로 전 세계 관객들에게 사랑받은 고(故) 마이클 갬본이 세상을 떠났다. 이에 배우 마이클 갬본의 비보를 접한 ‘해리포터’ 배우들 등 동료들 사이에서 추모가 이어지고 있다.]]></content>
     </entry>
 </feed>
