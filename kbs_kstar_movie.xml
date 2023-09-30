@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Sep 2023 20:07:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2023 21:05:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SF코미디 '팟 제너레이션' 10월 개봉...  "이제는 팟이 아이 대신 낳아드립니다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=282246</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282246</guid>
+            <pubDate>Sat, 30 Sep 2023 21:04:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282246">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230926104020_be19b0bfb07439a36be1bb0009e8c866.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282246">SF코미디 '팟 제너레이션' 10월 개봉...  "이제는 팟이 아이 대신 낳아드립니다"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230926104020_be19b0bfb07439a36be1bb0009e8c866.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[김향기 '플레이, 플리' 11월 티빙 공개.. 인기 아이돌과 유튜버의 비밀 연애]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=282717</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282333">프리퀄 '헝거게임: 노래하는 새와 뱀의 발라드'.. “모든 것은 여기서 시작되었다!”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230926134158_1b5641c657ed5ab48f33037fc3b7aeeb.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[두뇌서바이벌 '데블스 플랜'.. 오늘 1-4화  넷플릭스 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=282310</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282310</guid>
-            <pubDate>Tue, 26 Sep 2023 04:05:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282310">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230926125526_ab991b08f5757f6343319b73cf50f529.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282310">두뇌서바이벌 '데블스 플랜'.. 오늘 1-4화  넷플릭스 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230926125526_ab991b08f5757f6343319b73cf50f529.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
