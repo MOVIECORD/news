@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Sep 2023 21:05:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2023 23:05:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KBS아시안게임] 김연경, 베트남전 해설 첫 데뷔.. "후배들 파이팅, 부상 없이 최선 다하자"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=282810</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282810</guid>
+            <pubDate>Sat, 30 Sep 2023 23:04:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282810">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231001074853_2ecf9b77a0d5432ee87ca53385098599.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282810">[KBS아시안게임] 김연경, 베트남전 해설 첫 데뷔.. "후배들 파이팅, 부상 없이 최선 다하자"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231001074853_2ecf9b77a0d5432ee87ca53385098599.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[영상앨범 산] 도시, 자연을 입다 – 불암산, 수락산]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=282710</link>
@@ -348,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상출시 편스토랑</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230929200048_004dd54a9ab209f4d9db343bd99b3fb4_1.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[[신상출시 편스토랑] 오직 딸 한지혜를 위해 생애 첫 요리에 도전한 아버지!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=282655</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282655</guid>
-            <pubDate>Fri, 29 Sep 2023 11:04:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282655">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230929192548_08c5aaa98901bee4a0d470959558c707_1.PNG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282655">[신상출시 편스토랑] 오직 딸 한지혜를 위해 생애 첫 요리에 도전한 아버지!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상출시 편스토랑</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230929192548_08c5aaa98901bee4a0d470959558c707_1.PNG" length="0" type="image/PNG"/>
         </item>
     </channel>
 </rss>
