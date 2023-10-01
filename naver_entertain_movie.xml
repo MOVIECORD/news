@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-10-01T20:03:44.755Z</updated>
+    <updated>2023-10-01T21:05:28.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[故 최진실, 오늘 15주기…여전히 그리운 '국민 배우'의 미소]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007083584</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007083584"/>
+        <updated>2023-10-01T21:04:32.036Z</updated>
+        <content type="html"><![CDATA[배우 고(故) 최진실이 세상을 떠난 지 어느 덧 15년이 지났지만 팬들의 그리움은 여전하다. 2일은 최진실의 사망 15주기다. 고인은 지난 2008년 10월2일 40세의 나이로 갑작스럽게 세상을 떠나 안타까움을 줬다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배우 김성식 ‘화사한 그녀’로 충무로 데뷔]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000916100</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007083184"/>
         <updated>2023-10-01T07:04:46.072Z</updated>
         <content type="html"><![CDATA[영화 '1947 보스톤'(감독 강제규)이 연일 관객수 증가 추이를 보이고 있다. '천박사 퇴마연구소: 설경의 비밀'에 이어 박스오피스 2위를 유지, 쌍끌이 흥행 중인 '1947 보스톤'은 관객들의 호평 속 연일 관객]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘1947 보스톤’ 동시기 개봉작 실관람객 만족도 1위…관객수 상승세]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000656595</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000656595"/>
-        <updated>2023-10-01T07:04:46.076Z</updated>
-        <content type="html"><![CDATA[영화 &lt;1947 보스톤&gt;이 관객들의 호평 속에 연일 관객수 증가를 보이고 있어 화제다. 같은 날(9/27) 개봉한 &lt;천박사 퇴마연구소: 설경의 비밀&gt;에 이어 박스오피스 2위를 유지하며 추석 극장가 쌍끌이 흥행을 견인]]></content>
     </entry>
 </feed>
