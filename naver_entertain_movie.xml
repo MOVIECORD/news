@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-10-01T14:03:35.012Z</updated>
+    <updated>2023-10-01T16:07:22.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임시완, '자신만의 결과값'을 도출하기 위해[TF인터뷰]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000241576</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000241576"/>
+        <updated>2023-10-01T16:06:33.857Z</updated>
+        <content type="html"><![CDATA['1947 보스톤'서 제2의 손기정을 꿈꾸는 서윤복 役 "제가 할 법한 것이 정확하게 구체화되는, 결과값을 기다리고 있어요." 배우 임시완은 차분하면서도 진중했고, 그 어떤 질문에도 조급하지 않게 충분한 시간을 갖고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['천박사 퇴마 연구소' 개봉 5일째 100만 관객 돌파…추석 연휴 흥행 질주]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001644872</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005586817"/>
         <updated>2023-10-01T06:12:37.527Z</updated>
         <content type="html"><![CDATA[강하늘, 정소민 주연 영화 ‘30일’(감독 남대중)이 개봉 전부터 시원하게 터지는 코미디로 입소문을 이어가고 있다. 이에 오는 10월 3일(화) 개봉을 앞두고 연일 가파른 예매율 상승을 기록하며 올 추석 극장가의 흥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["강동원, 사슴같은 눈망울...반짝이는 착각마저" '천박사' 감독의 기억 [엑's 인터뷰②]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001644818</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001644818"/>
-        <updated>2023-10-01T06:12:37.539Z</updated>
-        <content type="html"><![CDATA[(인터뷰①에 이어) 김성식 감독이 '천박사 퇴마 연구소: 설경의 비밀'을 연출한다는 소식이 알려진 이후부터 '충무로의 복 받은 감독'이라는 수식어가 계속해서 따라다녔다. 원작인 웹툰 '빙의'는 물론 베테랑 제작사 외]]></content>
     </entry>
 </feed>
