@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Oct 2023 09:05:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 10:04:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[BIFF] 박은빈, 개막식 단독사회 .. 이제훈 건강상 불참]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=282876</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282876</guid>
+            <pubDate>Mon, 02 Oct 2023 10:02:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282876">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231002183735_c2641ed0a9c4690209e972a0cf9b34bc.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282876">[BIFF] 박은빈, 개막식 단독사회 .. 이제훈 건강상 불참</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231002183735_c2641ed0a9c4690209e972a0cf9b34bc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] 천박사 퇴마연구소..  "뭔가 이상한 일이 생기면, 누굴 부르지?.. 강동원!"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=282871</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282491">[인터뷰] 김지운 감독  "내 영화는 늙지 않았으면 좋겠다." (영화 ‘거미집’) </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230927094722_8e5c2dea9273b3d339dad46d5d9b6755.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[설경구 + 정지영 감독 '소년들' ... '1999년 삼례나라슈퍼 사건 실화극']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=282258</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282258</guid>
-            <pubDate>Wed, 27 Sep 2023 00:28:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282258">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230926105407_f02ce2dddc1b47390a3033581c3f3737.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282258">설경구 + 정지영 감독 '소년들' ... '1999년 삼례나라슈퍼 사건 실화극'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230926105407_f02ce2dddc1b47390a3033581c3f3737.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
