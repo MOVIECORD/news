@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-10-02T14:04:03.959Z</updated>
+    <updated>2023-10-02T15:06:19.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[류승룡, 후반전 위한 하프타임 '무빙' [TF인터뷰]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000241634</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000241634"/>
+        <updated>2023-10-02T15:05:26.803Z</updated>
+        <content type="html"><![CDATA[전 세계 흥행작 '무빙', 장주원 役으로 로맨스+액션 모두 소화 김도훈-고윤정 '아버지 대결' 종결 "조인성·곽선영이 가장 강해" '무빙'은 배우 류승룡이 잘할 수 있는 모든 것들을 모아놓은 작품이라고 평가받는다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이제훈, 허혈성 대장염 응급 수술…부국제 개막식·부일영화상 사회 불참]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002754337</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007084312"/>
         <updated>2023-10-02T08:12:52.551Z</updated>
         <content type="html"><![CDATA["벌써 15년이라는 세월이 흘렀네. 하늘나라에서 동생 (최)진영이 하고도 잘 보내고 있겠지? 사랑하고 사랑해…진실아. 너무 고마워. 보고싶어." 딸의 이름을 부르는 노모의 울음 소리는 한동안 계속됐다. 15년이라는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['1947 보스톤' 실관람객 만족도 압도적 1위, "장기흥행 돌입"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003776222</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003776222"/>
-        <updated>2023-10-02T08:12:52.552Z</updated>
-        <content type="html"><![CDATA[추석 연휴 온 가족이 함께 즐길 수 있는 영화로 주목받은 '1947 보스톤'이 관객들의 호평 속 가을 극장가 한국영화 쌍끌이 흥행에 나서 이목을 집중시킨다. '천박사 퇴마연구소: 설경의 비밀'에 이어 박스오피스 2위]]></content>
     </entry>
 </feed>
