@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-10-03T13:12:38.288Z</updated>
+    <updated>2023-10-03T15:04:35.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[내가 본 '정수정'] 반전 매력 가득한 '얼음 공주']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000241714</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000241714"/>
+        <updated>2023-10-03T15:03:38.781Z</updated>
+        <content type="html"><![CDATA['거미집'에서 라이징스타 한유림 역 맡아 열연 "차가운 이미지 나쁘다고 생각 안 해…오히려 장점" 정제되지 않은 스타는 어떤 모습일까. 연예계는 대중의 관심을 받는 스타도 많고, 이들을 팔로우하는 매체도 많다. 모처]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['30일', 개봉일 극장 사이트 실관람 평점 1위..폭발적 입소문 시작(공식)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003656572</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001645344"/>
         <updated>2023-10-03T08:13:18.190Z</updated>
         <content type="html"><![CDATA[영화 '천박사 퇴마 연구소: 설경의 비밀'(감독 김성식)이 개봉 6일 연속 박스오피스 1위에 올랐다. '천박사 퇴마 연구소: 설경의 비밀'은 귀신을 믿지 않지만 귀신 같은 통찰력을 지닌 가짜 퇴마사 천박사(강동원 분]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박은빈, 부산국제영화제 개막식 '최초' 단독 사회 나선다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003818830</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003818830"/>
-        <updated>2023-10-03T07:05:00.955Z</updated>
-        <content type="html"><![CDATA[배우 박은빈이 부산국제영화제 개막식 최초로 '단독 사회'에 나선다. 제28회 부산국제영화제 개막식 공동 사회를 맡았던 배우 이제훈이 건강상의 사유로 불참하게 된 가운데, 부산국제영화제는 새로운 남성 사회자의 선정을]]></content>
     </entry>
 </feed>
