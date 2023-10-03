@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Oct 2023 23:04:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2023 00:29:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['크리에이터' 오늘 개봉... "AI와 함께하는 근미래"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=282978</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282978</guid>
+            <pubDate>Tue, 03 Oct 2023 00:27:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282978">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231003082908_6a1554bfdf57859b48160a50b21d6ee3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282978">'크리에이터' 오늘 개봉... "AI와 함께하는 근미래"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231003082908_6a1554bfdf57859b48160a50b21d6ee3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] 1947년 보스톤 “Venni, Vidi, Vinsi!“ (강제규 감독,2023)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=282893</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282581">매튜 본 감독 신작 '아가일' 개봉일 확정, 2024년 2월 7일!..."스파이 액션 장르를 새롭게 정립할 것"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230928082337_3543e8ff98a1f82ceda36ddc510bdfb6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이호정, '도적: 칼의 소리' "언년이 액션, 기억하시라!"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=282357</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282357</guid>
-            <pubDate>Thu, 28 Sep 2023 01:42:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282357">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230926140755_3d962f6a73e0eec7bba5de515dc386c6.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282357">이호정, '도적: 칼의 소리' "언년이 액션, 기억하시라!"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230926140755_3d962f6a73e0eec7bba5de515dc386c6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
