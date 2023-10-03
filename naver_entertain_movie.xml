@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-10-03T17:04:28.449Z</updated>
+    <updated>2023-10-03T18:12:53.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국 ‘아줌마의 힘’으로 만든 탈북 다큐… 부산국제영화제서 국내 첫 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=023&amp;aid=0003791180</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=023&amp;aid=0003791180"/>
+        <updated>2023-10-03T18:11:58.717Z</updated>
+        <content type="html"><![CDATA[위험천만한 실제 탈북 여정 담아 美 유수 영화제서 수상 잇따라 북한 가족의 필사적인 탈북 여정을 담은 다큐멘터리 영화 ‘비욘드 유토피아(Beyond Utopia)’가 지난 1일 폐막한 미국 우드스톡영화제에서 최고상인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무지개처럼 다채로운 삶 스크린으로]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=654&amp;aid=0000053729</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003656549"/>
         <updated>2023-10-03T08:13:18.179Z</updated>
         <content type="html"><![CDATA['천박사 퇴마 연구소: 설경의 비밀'이 개봉 6일 연속 박스오피스 1위에 등극했다. 영화 '천박사 퇴마 연구소: 설경의 비밀'이 개봉 5일째 100만 돌파에 이어 6일 연속 박스오피스 1위를 수성, 누적 관객수 13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[28살 부국제 개막식, 온라인으로 보세요!]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003303814</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003303814"/>
-        <updated>2023-10-03T08:13:18.180Z</updated>
-        <content type="html"><![CDATA[‘제28회 부산국제영화제’ 개막식을 온라인으로 만날 수 있다. 4일부터 10일간 영화계를 뜨겁게 달굴 ‘제28회 부산국제영화제’ 개막식이 부산국제영화제 공식 유튜브 채널과 네이버TV를 통해 생중계된다. 대한민국 대표]]></content>
     </entry>
 </feed>
