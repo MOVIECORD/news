@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 01:44:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 02:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이호정의 재발견, 넷플릭스 '도적: 칼의 소리' 액션]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=283054</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=283054</guid>
+            <pubDate>Wed, 04 Oct 2023 02:17:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=283054">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231004110438_94fbdcebb8d9d1c6ab75360fcc9f29ed.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=283054">이호정의 재발견, 넷플릭스 '도적: 칼의 소리' 액션</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231004110438_94fbdcebb8d9d1c6ab75360fcc9f29ed.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] 거미집 “놀라운 걸작을 보여줄 거야!” (김지운 감독,2023)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=283041</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282542">"이 선생과 락의 생사는 넷플릭스에서~"  '독전2'...  넷플릭스 11월 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230927110917_d5dd4ad03540487a051d4a4162dd8936.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김중희, '무빙'의 기력자, '거미집'의 구박사]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=282297</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282297</guid>
-            <pubDate>Fri, 29 Sep 2023 23:02:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282297">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230926123910_766fd10d152ca055334cb25fc9400ec2.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282297">김중희, '무빙'의 기력자, '거미집'의 구박사</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20230926123910_766fd10d152ca055334cb25fc9400ec2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
