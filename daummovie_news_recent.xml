@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-10-05T18:11:04.451Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 05 Oct 2023 20:06:33 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엄정화 열연으로 채운 '화사한 그녀'…천연덕스러운 연기에 웃음]]></title>
+            <link>https://v.daum.net/v/20231006033721729</link>
+            <guid>https://v.daum.net/v/20231006033721729</guid>
+            <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 강애란 기자 = 억척스러워 보이지만 사실 속마음은 여리고 따뜻한 그녀. 뻔뻔하게 굴지만 넘치는 애교로 사랑스러움을 뿜어내는 히로인. 영화 '화사한 그녀'의 지혜(엄정화 분)는 미워할 수 없는 사기꾼이다. 은퇴 전 인생 역전을 노리며 문화재를 빼돌린 친일파 후손의 집을 털 계획을 세운다. 작전은 단순하다. 이 집의 허세 가득한 아들 완규(송]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F06%2Fyonhap%2F20231006033721252qfxi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
