@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 20:05:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 22:03:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[걸어서 세계속으로] 조지아, ‘8천 년 역사의 와인 발상지’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=283252</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=283252</guid>
+            <pubDate>Fri, 06 Oct 2023 22:02:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=283252">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231006193454_eb57262851d1d02753e74cf12d5abcc0.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=283252">[걸어서 세계속으로] 조지아, ‘8천 년 역사의 와인 발상지’</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B1%B8%EC%96%B4%EC%84%9C%20%EC%84%B8%EA%B3%84%EC%86%8D%EC%9C%BC%EB%A1%9C">걸어서 세계속으로</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231006193454_eb57262851d1d02753e74cf12d5abcc0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[악뮤의 오날오밤] 하동균·신성록·시온·SOLE (쏠)..  "박재범 VS 악뮤, 선택한다면 누구?"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=283245</link>
@@ -346,24 +364,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282972">[KBS 아시안게임] 탁구 신유빈-전지희 금메달.. 시청률 10.8% 전체 1위</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231003082001_d7c4162e753ee453478382858452efa2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[혼례대첩] 조이현, ‘중매의 신’ 정순덕 .. "좌상댁 둘째 며느리의 은밀한 사생활"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=282940</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=282940</guid>
-            <pubDate>Mon, 02 Oct 2023 23:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=282940">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231003070723_03c955b76e1b2dcc866b30b8671d77de.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=282940">[혼례대첩] 조이현, ‘중매의 신’ 정순덕 .. "좌상댁 둘째 며느리의 은밀한 사생활"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%98%BC%EB%A1%80%EB%8C%80%EC%B2%A9">월화드라마 혼례대첩</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231003070723_03c955b76e1b2dcc866b30b8671d77de.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
