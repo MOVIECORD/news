@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=224</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 방송</title>
-    <updated>2023-10-07T19:05:11.035Z</updated>
+    <updated>2023-10-07T20:04:29.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[바로보는TV 옴부즈맨] 619회]]></title>
+        <id>https://entertain.naver.com/now/read?oid=422&amp;aid=0000622884</id>
+        <link href="https://entertain.naver.com/now/read?oid=422&amp;aid=0000622884"/>
+        <updated>2023-10-07T20:03:45.545Z</updated>
+        <content type="html"><![CDATA[시청자들의 참여와 다양한 목소리를 통해 방송의 문제점을 개선하고 필요로 하는 프로그램을 제작할 수 있도록 제작자와 시청자 간 가교 역할을 하는 프로그램 * 이번주 모니터링 내용 뉴스18, 풍경여지도, '사형제도' 관]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박나래 "서장훈, 국대 이후 저렇게 움직이는 건 처음"]]></title>
         <id>https://entertain.naver.com/now/read?oid=003&amp;aid=0012133990</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000780288"/>
         <updated>2023-10-07T16:05:31.437Z</updated>
         <content type="html"><![CDATA[고레에다 히로카즈 감독, 배우 쿠로카와 소야, 히이라기 히나타가 10월 7일 오후 부산광역시 해운대구 KNN시어터에서 열린 제28회 부산국제영화제 갈라프레젠테이션 영화 '괴물' 기자간담회에 참석했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[히이라기 히나타, 귀엽게 인사말 [포토엔HD]]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000780287</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000780287"/>
-        <updated>2023-10-07T16:05:31.440Z</updated>
-        <content type="html"><![CDATA[배우 히이라기 히아타가 10월 7일 오후 부산광역시 해운대구 KNN시어터에서 열린 제28회 부산국제영화제 갈라프레젠테이션 영화 '괴물' 기자간담회에 참석했다.]]></content>
     </entry>
 </feed>
