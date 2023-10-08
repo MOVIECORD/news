@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Oct 2023 09:07:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Oct 2023 10:05:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웨이브 드라마 '거래' 부산국제영화제 오픈 토크]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=283363</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=283363</guid>
+            <pubDate>Sun, 08 Oct 2023 10:03:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=283363">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231007204444_a328e23ec72c120cf35fd106dce783e6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=283363">웨이브 드라마 '거래' 부산국제영화제 오픈 토크 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231007204444_a328e23ec72c120cf35fd106dce783e6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["샤이니의 15년!" 스페셜콘서트무비 'MY SHINee WORLD' 11월 메가박스 개봉]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=283390</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=283132">"모두가 다 넷플릭스 작품!"  2023 AACA 본상 최종 후보..  더 글로리-수리남-피지컬100-나는 신이다</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231004164240_bd197c735e2807fa0fbfc66e013d612b.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[부일영화상 "부산영화제와 함께, 이솜과 함께".. 오늘(5일) 해운대 시그니엘 부산]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=283067</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=283067</guid>
-            <pubDate>Wed, 04 Oct 2023 22:05:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=283067">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231004123634_d12c188ea98635bb1f09209f588583c0.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=283067">부일영화상 "부산영화제와 함께, 이솜과 함께".. 오늘(5일) 해운대 시그니엘 부산</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231004123634_d12c188ea98635bb1f09209f588583c0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
