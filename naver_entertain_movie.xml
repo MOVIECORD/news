@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-10-10T18:11:55.135Z</updated>
+    <updated>2023-10-10T19:07:25.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[레인보우 김재경, 멜로영화 여주돼...청초한 모습 ('너를 줍다')]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001272800</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001272800"/>
+        <updated>2023-10-10T19:06:29.779Z</updated>
+        <content type="html"><![CDATA[심혜정 감독의 영화 '너를 줍다'가 오는 11월 8일 개봉을 확정했다. 지난 제24회 전주국제영화제에서 CGV상과 왓차가 주목한 장편상을 받으며 화제가 되었던 심혜정 감독의 두 번째 장편이다. 오는 8일 개봉을 확정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팬이 만든 ‘오정세 데이즈’ “8월의 일요일들 가장 기억에 남아”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000054858</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0005324163"/>
         <updated>2023-10-10T12:14:19.040Z</updated>
         <content type="html"><![CDATA[2021년 학교 폭력 의혹에 휩싸인 배우 박혜수가 영화 '너와 나'로 공식석상에 나섰다. 활동을 멈춘 그가 기자들 앞에 모습을 비춘 건 2년 8개월 만이다. 10일 오후 서울 용산구 이촌동 CGV아이파크몰에서 열린]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박서준 할리우드 데뷔작 '더 마블스' 내달 8일 개봉]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0005324161</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0005324161"/>
-        <updated>2023-10-10T12:14:19.056Z</updated>
-        <content type="html"><![CDATA[배급사 월트디즈니컴퍼니 코리아는 마블 스튜디오 신작 '더 마블스'가 북미보다 이틀 빠른 다음 달 8일 개봉한다고 10일 전했다. 배우 박서준의 할리우드 데뷔작이다. 마블 시네마틱 유니버스(MCU)의 새로운 캐릭터인]]></content>
     </entry>
 </feed>
