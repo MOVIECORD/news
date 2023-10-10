@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-10-10T13:15:13.373Z</updated>
+    <updated>2023-10-10T14:05:51.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배우 권소현, 부산국제영화제(BIFF)서 ‘딜리버리’로 관객 만나]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000917619</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000917619"/>
+        <updated>2023-10-10T14:04:53.873Z</updated>
+        <content type="html"><![CDATA[배우 권소현이 영화 ‘딜리버리’로 부산국제영화제를 찾은 관객들과 만났다. 소속사 블레이드엔터테인먼트에 따르면 권소현은 지난 7일, 8일 제28회 부산국제영화제에서 진행된 영화 ‘딜리버리(감독 장민준)’ GV(관객과의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘부활’ 구수환 감독, 시골 작은 학교에 희망을 심는다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003305250</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000044354"/>
         <updated>2023-10-10T10:04:18.956Z</updated>
         <content type="html"><![CDATA[SLL JoongAng participated in the Asian Contents &amp; Film Market 2023 (ACFM) as part of the 28th Busan International Film F]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['너와 나', 감독 조현철의 빛나는 섬세함 [종합]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001272660</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001272660"/>
-        <updated>2023-10-10T10:04:18.957Z</updated>
-        <content type="html"><![CDATA[배우 겸 감독 조현철의 첫 장편 데뷔작 '너와 나'가 관객과 만난다. 10일 오후 서울 용산구 CGV 아이파크몰에서 영화 '너와 나'의 기자간담회가 진행됐다. 이날 행사에는 연출을 맡은 조현철 감독과 주연 배우 박혜]]></content>
     </entry>
 </feed>
