@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-10-11T18:11:25.507Z</updated>
+    <updated>2023-10-11T20:04:40.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[봉준호에 다짜고짜 시나리오 건넸던 지망생 ‘천박사’로 우뚝]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001643833</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001643833"/>
+        <updated>2023-10-11T20:03:42.414Z</updated>
+        <content type="html"><![CDATA[“영화 연출부로 일하기 시작해서 딱 10년 만에 제 작품이 나왔어요. 영화에서 천박사(강동원)가 ‘10년을 쫓다가 드디어 (악귀의) 꼬리를 잡았다’고 한 것처럼 제 10년도 비슷했죠.” 지난 추석 연휴 기간 ‘194]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[조재휘의 시네필] 영화와 현실이 교차하는 메타시네마…자본 검열시대에 던진 화두]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000054981</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014255921"/>
         <updated>2023-10-11T12:15:26.712Z</updated>
         <content type="html"><![CDATA[11일 오후 부산 해운대구 영화의전당 야외극장에서 영화 '리볼버 릴리' 상영에 앞서 감독과 배우가 무대인사를 하고 있다. 왼쪽부터 남동석 부산국제영화제 집행위원장 직무대행, 감독 유키사다 이사오, 배우 아야세 하루카]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 '리볼버 릴리' 감독과 배우]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014255920</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014255920"/>
-        <updated>2023-10-11T12:15:26.721Z</updated>
-        <content type="html"><![CDATA[11일 오후 부산 해운대구 영화의전당 야외극장에서 영화 '리볼버 릴리' 상영에 앞서 감독과 배우가 무대인사를 하고 있다. 왼쪽부터 감독 유키사다 이사오, 배우 아야세 하루카. 2023.10.11]]></content>
     </entry>
 </feed>
