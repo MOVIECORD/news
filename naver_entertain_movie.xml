@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-10-12T15:07:37.979Z</updated>
+    <updated>2023-10-12T16:05:52.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['삼례나라슈퍼 사건' 모티브로 한 영화 나온다...설경구·유준상 주연]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001272966</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001272966"/>
+        <updated>2023-10-12T16:04:58.805Z</updated>
+        <content type="html"><![CDATA[1999년 삼례나라슈퍼 사건을 모티브로 재구성한 영화 '소년들'이 보도스틸을 공개했다. 지방 소읍의 한 슈퍼에서 발생한 강도치사사건의 범인으로 지목된 소년들과 사건의 재수사에 나선 형사, 그리고 그들을 둘러싼 사람들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엄정화 "인생서 가장 화사한 시기? 바로 지금" [인터뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000764828</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004945940"/>
         <updated>2023-10-12T11:02:47.051Z</updated>
         <content type="html"><![CDATA[지난 2021년 초 국내 스포츠계를 시작으로 연예계에도 ‘학폭 미투’가 이어졌다. 가해자로 지목된 사람들 중에 인정하고 반성한 이들도 있었지만, 대부분 의혹을 부인하며 학창시절 서로의 기억이 달라 오해가 불거졌던 것]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[온더레코드]안효섭 "사랑도 악기처럼 연습이 필요해요"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0005325427</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0005325427"/>
-        <updated>2023-10-12T11:02:47.053Z</updated>
-        <content type="html"><![CDATA[“네가 어떤 시간에 있든 너를 찾아낼 거야. 너한테 갈 거야.”('너의 시간 속으로' 시헌 대사中) 누군가를 지독히 사랑한다면, 진심으로 통한다면 시공간을 넘어 서로 알아보게 될까. 영혼까지 사랑할 수 있을까. 누군]]></content>
     </entry>
 </feed>
