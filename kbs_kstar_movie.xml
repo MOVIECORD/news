@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 04:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 05:04:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[BIFF] 오정민 감독의 '장손'.. 부산국제영화제 ‘KBS독립영화상’ 수상]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=284050</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=284050</guid>
+            <pubDate>Fri, 13 Oct 2023 05:02:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=284050">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231013133950_2bc4b2df93118b854d245601415a84de.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284050">[BIFF] 오정민 감독의 '장손'.. 부산국제영화제 ‘KBS독립영화상’ 수상</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231013133950_2bc4b2df93118b854d245601415a84de.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부산영화제 화제작 '녹야'.. 판빙빙과 이주영의 초록빛 케미]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=284024</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=283669">'거미집' 정수정, "70년 라이징 스타 한유림 그 자체!"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231010152525_78f0e1f9116da50941f0b6897ecd1edb.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SLL, '한미일 콘텐츠 제작환경과 글로벌 시장 전략'..  " 로컬화된 콘텐트로 세계 시장 도전"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=283663</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=283663</guid>
-            <pubDate>Tue, 10 Oct 2023 08:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=283663">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231010152153_2d64a22404b18ab40d7bf56da3011409_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=283663">SLL, '한미일 콘텐츠 제작환경과 글로벌 시장 전략'..  " 로컬화된 콘텐트로 세계 시장 도전"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231010152153_2d64a22404b18ab40d7bf56da3011409_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
