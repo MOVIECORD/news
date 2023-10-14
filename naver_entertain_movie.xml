@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-10-14T11:05:04.318Z</updated>
+    <updated>2023-10-14T12:10:55.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강하늘·정소민 '30일', 개봉 12일 만에 100만명↑]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012146538</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012146538"/>
+        <updated>2023-10-14T12:09:58.720Z</updated>
+        <content type="html"><![CDATA[영화 '30일'이 개봉 12일 만에 100만 관객을 돌파했다. 14일 영화진흥위원회 통합전산망에 따르면, '30일'은 이날 오전 누적관객 100만명을 돌파했다. '30일'의 100만명 돌파 속도는 흥행 돌풍을 일으켰]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['화사한 그녀' 엄정화, "마음 가는 대로 하는 것이 인생의 모토예요"[TEN인터뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000632555</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000632535"/>
         <updated>2023-10-14T05:04:50.562Z</updated>
         <content type="html"><![CDATA[제28회 부산국제영화제 '한국영화의 오늘: 비전' 섹션에 공식 초청되어 첫 선을 보인 '막걸리가 알려줄거야'(감독 김다민)가 '오로라미디어상'을 수상했다. '막걸리가 알려줄거야'는 막걸리가 모스부호를 보내고 있다는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['30일' 12일째 100만 돌파…10월 극장가 개싸라기 흥행 주도]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005595691</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005595691"/>
-        <updated>2023-10-14T04:05:46.997Z</updated>
-        <content type="html"><![CDATA[실관람객들의 폭발적 입소문에 힘입어 흥행 질주를 이어가고 있는 영화 ‘30일’(감독 남대중)이 100만 관객을 돌파했다. 흥행 질주를 이어가고 있는 영화 ‘30일’이 개봉 12일차로 접어든 14일(토) 오전 11시,]]></content>
     </entry>
 </feed>
