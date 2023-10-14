@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-10-14T19:05:19.194Z</updated>
+    <updated>2023-10-14T20:07:55.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 극장가 테일러 스위프트 열풍…"여성 경제의 힘 보여줘"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014262541</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014262541"/>
+        <updated>2023-10-14T20:07:07.364Z</updated>
+        <content type="html"><![CDATA[콘서트 '에라스 투어' 영상 개봉…첫주에만 2천억원 수입 예상 임미나 특파원 = 미국에서 인기 절정인 팝스타 테일러 스위프트의 공연 '디 에라스 투어'(THE ERAS TOUR) 영상이 지난주 영화관에서 개봉되자 극]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["핼러윈을 부탁해"…공포 영화, 줄줄이 개봉[TF프리즘]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000243677</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002758104"/>
         <updated>2023-10-14T05:04:50.553Z</updated>
         <content type="html"><![CDATA[영화 '30일'이 개봉 11일 째 100만 관객을 돌파했다 (주)마인드마크는 "'30일'이 14일 오전 11시, 100만 관객을 넘었다"라고 밝혔다. '30일'은 드디어 D-30, 서로의 찌질함과 똘기를 견디다 못해 마]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘30일’ 100만 돌파…개싸라기 흥행]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000918493</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000918493"/>
-        <updated>2023-10-14T05:04:50.559Z</updated>
-        <content type="html"><![CDATA[영화 ‘30일’(감독 남대중)이 100만 고지를 넘었다. 14일 영화진흥위원회 영화관입장권 통합전산망 집계결과 ‘30일’은 이날 오전 11시, 100만 관객을 돌파했다. ‘30일’은 드디어 D-30, 서로의 찌질함과]]></content>
     </entry>
 </feed>
