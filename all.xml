@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Oct 2023 20:07:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Oct 2023 23:06:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231002184630_b082fde2b7ba7281bc9bb6a276ebeaa9.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[영상앨범 산] 제주도 푸른 섬 – 우도봉, 따라비오름 트래킹 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=284057</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=284057</guid>
+            <pubDate>Sat, 14 Oct 2023 23:05:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=284057">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231013134355_7f38e1880a9acad035e364efe705e2bc.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284057">[영상앨범 산] 제주도 푸른 섬 – 우도봉, 따라비오름 트래킹</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%81%EC%83%81%EC%95%A8%EB%B2%94%20%EC%82%B0">영상앨범 산</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231013134355_7f38e1880a9acad035e364efe705e2bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[살림하는 남자들 2] 이천수, 가수 데뷔 어머니 투자자(?)...앨범 홍보 위해 ‘포토카드’ 제작까지 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=284265</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=284265</guid>
@@ -1030,24 +1048,6 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231014003927_d7eab4b38fa8102a3c4b8984676f662e_1.PNG" length="0" type="image/PNG"/>
         </item>
         <item>
-            <title><![CDATA[[더 시즌즈-악뮤의 오날오밤] 공식 앨범으로 돌아온 휘인! 이수현과 개인적인 인연이? (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=284161</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=284161</guid>
-            <pubDate>Fri, 13 Oct 2023 16:04:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=284161">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231014002845_520b04ed184a24b30f6ef484266006b7_1.PNG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284161">[더 시즌즈-악뮤의 오날오밤] 공식 앨범으로 돌아온 휘인! 이수현과 개인적인 인연이?</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8D%94%20%EC%8B%9C%EC%A6%8C%EC%A6%88">더 시즌즈</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231014002845_520b04ed184a24b30f6ef484266006b7_1.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
             <title><![CDATA['키리에의 노래' 이와이 ?지-히로세 스즈 7년 만에 내한…부산국제영화제 뜨겁게 달궜다 (MBC 연예 ─ 영화)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/396650</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/396650</guid>
@@ -1110,6 +1110,20 @@
             <pubDate>Sat, 23 Sep 2023 01:39:46 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/395360" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/09/22/9d66ecbc-5686-4abd-9811-b4fe256b3e86.jpg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">'천박사' 강동원 "잘생긴 외모, 이번에도 부각되면 좋겠다" [인터뷰M]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/09/22/9d66ecbc-5686-4abd-9811-b4fe256b3e86.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['발레리나' 이충현 감독, "넷플릭스도 좋지만, 극장용 영화 언젠가 꼭 하고 싶죠" [TEN인터뷰] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000632563</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000632563</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:03 GMT</pubDate>
+            <content:encoded><![CDATA[1990년생 이충현은 충무로의 블루칩으로서 감각적인 이미지와 장르를 확장하는, 앞으로가 더 주목되는 감독이다. 14분가량의 단편영화 '몸값'으로 눈도장을 찍으며 단번에 2020년 넷플릭스 영화 '콜'로 데뷔하기도 했]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[“할 수 있는 역할이 노인밖에 없어서” 마이클 케인, 은퇴 이유 설명 (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000963014</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000963014</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:03 GMT</pubDate>
+            <content:encoded><![CDATA[배우 마이클 케인(90)이 연기 은퇴 이유를 설명했다. ‘TMZ’ 등 해외 언론은 14일 케인이 영국 BBC 라디오에 출연해 남긴 발언을 소개했다. 올해 다큐멘터리 영화 ‘더 그레잇 이스케이퍼’에 출연한 그는 “나는]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[美 극장가 테일러 스위프트 열풍…"여성 경제의 힘 보여줘" (네이버TV연예 ─ 영화)]]></title>
@@ -1273,368 +1287,370 @@
             <content:encoded><![CDATA[실관객들의 폭발적 입소문에 힘입어 흥행 질주를 이어가고 있는 영화 '30일'이 오늘 100만 관객을 돌파했다. 14일 영진위 영화관입장권 통합전산망 집계를 보면 '30일'은 개봉 12일 차로 접어든 오늘(14일, 토]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘30일’의 반란…100만 돌파 ‘강하늘 또 통했다!’ (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000657645</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000657645</guid>
-            <pubDate>Sat, 14 Oct 2023 05:04:50 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;30일&gt;이 100만 관객을 돌파했다. 흥행 질주를 이어가고 있는 영화 &lt;30일&gt;이 개봉 12일차로 접어든 10월 14일(토) 11시, 100만 관객을 돌파했다. 영화 &lt;30일&gt;은 드디어 D-30, 서로의 찌질]]></content:encoded>
+            <title><![CDATA[임영웅 또 최고 시청률, tvN ‘놀라운 토요일’ 3.853%로 올들어 최고 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=023&amp;aid=0003793339</link>
+            <guid>https://entertain.naver.com/now/read?oid=023&amp;aid=0003793339</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[임영웅이 또 한번 ‘최고 시청률’의 주역이 됐다. 임영웅이 스페셜 단독 게스트로 출격한 tvN ‘놀라운 토요일’(이하 ‘놀토’) 14일 방송은 시청률 3.853%(닐슨전국기준)을 기록하며 올들어 최고 시청률을 기록했]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[강하늘·정소민 '30일', 개봉 11일째 100만 돌파 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002758104</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002758104</guid>
-            <pubDate>Sat, 14 Oct 2023 05:04:50 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '30일'이 개봉 11일 째 100만 관객을 돌파했다 (주)마인드마크는 "'30일'이 14일 오전 11시, 100만 관객을 넘었다"라고 밝혔다. '30일'은 드디어 D-30, 서로의 찌질함과 똘기를 견디다 못해 마]]></content:encoded>
+            <title><![CDATA[[EN:터뷰]"연기 지적? 내 자양분" 수호가 지켜온 소신 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=079&amp;aid=0003822953</link>
+            <guid>https://entertain.naver.com/now/read?oid=079&amp;aid=0003822953</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[핵심요약 JTBC 토일드라마 '힙하게'에서 편의점 직원 김선우 역 JTBC 토일드라마 '힙하게'는 배우 수호의 새로운 얼굴을 보여줬다. 편의점 직원 김선우 역을 맡아 깨끗한 엘리트 이미지 너머 '범인일 것만 같은']]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[바로보는TV 옴부즈맨] 620회 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=422&amp;aid=0000623979</link>
-            <guid>https://entertain.naver.com/now/read?oid=422&amp;aid=0000623979</guid>
-            <pubDate>Sat, 14 Oct 2023 20:07:16 GMT</pubDate>
-            <content:encoded><![CDATA[시청자들의 참여와 다양한 목소리를 통해 방송의 문제점을 개선하고 필요로 하는 프로그램을 제작할 수 있도록 제작자와 시청자 간 가교 역할을 하는 프로그램 * 이번주 모니터링 내용 일요와이드, 연중기획 하모니 PD 김경]]></content:encoded>
+            <title><![CDATA[김세환 "송대관, 신인상 내가 받으니 화냈다…통기타 때문이라고" (불후)[전일야화] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001649732</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001649732</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[김세환이 송대관을 제치고 신인 가수상을 받은 일화를 전했다. 14일 방송된 KBS 2TV 예능 프로그램 '불후의 명곡'에서는 '아티스트 윤형주&amp;김세환' 특집으로 윤형주, 김세환, Fortena, 이솔로몬, 에일리,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아르바이트 면접 유도한 뒤 성폭행...강간 혐의 왜 적용 안되나(그알)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001273194</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001273194</guid>
-            <pubDate>Sat, 14 Oct 2023 18:06:29 GMT</pubDate>
-            <content:encoded><![CDATA[아르바이트 면접으로 20살 재수생을 유인, 성폭행을 한 범죄자에게 강간 혐의가 적용되지 않아 충격을 주고 있다. 14일 방영된 MBC '그것이 알고싶다' 1371회에서는 지난 5월 아르바이트 면접을 보러 갔다가 성폭]]></content:encoded>
+            <title><![CDATA[[인터뷰] 김민호 “‘신병2’ 박민석 위해 이 한 몸 바쳤다…시즌3 하고파” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005199263</link>
+            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005199263</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[‘신병2’ 어리바리 이등병에서 일병으로 진급한 박민석 役 “박민석 성장에 중점, ‘어쭈? 민석이 많이 컸네’ 느낌주고팠다” “‘신병’ 박민석은 나에게 행운” 배우 김민호(33)의 인생작 ‘신병’, 인생캐릭터 박민석은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이민호 ‘촉촉하게 젖은 섹시 눈빛’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782632</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782632</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이민호(LEEMINHO)가 10월 14일 오후 인천 중구 운서동 인천국제공항 제 2여객터미널을 통해 해외 일정 참석 차 필리핀 마닐라로 출국하고 있다.]]></content:encoded>
+            <title><![CDATA[[종합] 주윤발 된 박나래, 임영웅 앞 매력 어필 "가깝게 다가가고 싶었다" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000632561</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000632561</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[개그우먼 박나래가 임영웅에게 매력을 어필했다. 박나래는 14일 방송된 tvN '놀라운 토요일-토요일은 영웅시대(이하 놀토)' 특집에서 '영웅본색' 주윤발을 나래본색으로 소화, 몸을 사리지 않는 연기력을 보이며 오프닝]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이민호 ‘필리핀 미노즈들 만나러~’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782631</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782631</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이민호(LEEMINHO)가 10월 14일 오후 인천 중구 운서동 인천국제공항 제 2여객터미널을 통해 해외 일정 참석 차 필리핀 마닐라로 출국하고 있다.]]></content:encoded>
+            <title><![CDATA['복면가왕'에 韓 썰매 간판 윤성빈 출연?…김구라, 추리 적중할까 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0012146694</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0012146694</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[15일 오후 6시5분 방송되는 MBC TV '복면가왕'에서 복면 가수 8인의 듀엣곡 대결이 펼쳐진다. 이날 방송에서 가수 윤복희가 '복면가왕'에 힌트 제공을 위해 깜짝 출연한다. 상상도 못한 가요계 레전드의 등장에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이민호 ‘마스크 뚫고 나오는 잘생김’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782630</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782630</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이민호(LEEMINHO)가 10월 14일 오후 인천 중구 운서동 인천국제공항 제 2여객터미널을 통해 해외 일정 참석 차 필리핀 마닐라로 출국하고 있다.]]></content:encoded>
+            <title><![CDATA[레드벨벳 조이 ‘무결점 완벽 미모’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782681</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782681</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[레드벨벳(Red Velvet) 멤버 조이(JOY)가 10월 14일 오후 인천 중구 운서동 인천국제공항 제 2여객터미널을 통해 해외 일정을 마치고 싱가포르에서 입국하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이민호 ‘감탄 자아내는 멋짐’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782629</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782629</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이민호(LEEMINHO)가 10월 14일 오후 인천 중구 운서동 인천국제공항 제 2여객터미널을 통해 해외 일정 참석 차 필리핀 마닐라로 출국하고 있다.]]></content:encoded>
+            <title><![CDATA[레드벨벳 조이 ‘시크한 표정’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782680</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782680</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[레드벨벳(Red Velvet) 멤버 조이(JOY)가 10월 14일 오후 인천 중구 운서동 인천국제공항 제 2여객터미널을 통해 해외 일정을 마치고 싱가포르에서 입국하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이국주 "고3때 이효리였다...원더걸스 선예가 내 팬"...전참시, 증거 공개[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001273193</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001273193</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[이국주가 학창시절 춤으로 인기몰이를 했던 과거를 공개했다. 14일 방영된 MBC 예능 '전지적 참견 시점' 에는 개그우먼 이국주와 이상주 매니저의 일상이 전해졌다. 이날 이국주는 스케줄 가기 전 본인 반려견 바비와]]></content:encoded>
+            <title><![CDATA[레드벨벳 조이 ‘오버핏 청바지에 힙한 매력’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782679</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782679</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[레드벨벳(Red Velvet) 멤버 조이(JOY)가 10월 14일 오후 인천 중구 운서동 인천국제공항 제 2여객터미널을 통해 해외 일정을 마치고 싱가포르에서 입국하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[안은진 잠자리 포로로 잡혀가자...지승현, 남궁민 의심(연인)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001273192</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001273192</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[안은진이 청나라 귀족의 잠자리 시중 포로로 잡혀갔다. 14일 방영된 MBC 드라마 '연인' 12회에는 유길채(안은진)가 포로로 끌려가는 모습이 그려졌다. 유길채는 "나는 양가의 여인이라"라며 저항했다. 하지만 사신은]]></content:encoded>
+            <title><![CDATA[레드벨벳 조이 ‘모자 속 뽀얀 피부’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782678</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782678</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[레드벨벳(Red Velvet) 멤버 조이(JOY)가 10월 14일 오후 인천 중구 운서동 인천국제공항 제 2여객터미널을 통해 해외 일정을 마치고 싱가포르에서 입국하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[종합] ‘전참시’ 이국주, 여고 이효리 시절 공개 “선예가 팬이라고” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005199253</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005199253</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[이국주가 고등학교 시절 이효리급 인기였다고 밝혔다. 14일 방송된 MBC ‘전지적 참견 시점’(이하 ‘전참시’)에서 이국주와 이상수 매니저는 반려견 유치원으로 향했다. 두 사람은 각각 바비와 꼬기라는 이름의 말티푸를]]></content:encoded>
+            <title><![CDATA[레드벨벳 조이 ‘눈에 띄는 아우라’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782677</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782677</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[레드벨벳(Red Velvet) 멤버 조이(JOY)가 10월 14일 오후 인천 중구 운서동 인천국제공항 제 2여객터미널을 통해 해외 일정을 마치고 싱가포르에서 입국하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["엑소가 내 정체성"…캐스퍼, 찬열X세훈에 진심 고백 (살림남2) [종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001649715</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001649715</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[안무가 캐스퍼가 그룹 엑소를 향한 애정을 과시했다. 14일 방송된 KBS 2TV '살림하는 남자들 시즌2'(이하 '살림남2')에서는 캐스퍼가 엑소 멤버들을 향한 고마움을 드러낸 장면이 전파를 탔다. 이날 찬열은 맹장]]></content:encoded>
+            <title><![CDATA["연고대 나왔다니 잘해줘?" '아는 형님' 펼친 '예능 연고전' [RE:TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0007109669</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0007109669</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[예능 연고전을 펼친 '아는 형님'에 다양한 반응이 나오고 있다. 지난 14일 밤 방송된 JTBC 예능 프로그램 '아는 형님'에는 고려대학교 출신 김종진, 한석준, 정근우, 이승현과 연세대학교 출신 강수정, 손준호,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이국주, 여고생 이효리 시절 공개 “원더걸스 선예도 내 팬”(전지적 참견) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782628</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782628</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[개그우먼 이국주가 이효리로 통하던 시절을 공개했다. 10월 14일 방송된 MBC 예능 '전지적 참견 시점'(이하 '전참시') 268회에서는 이국주가 고등학교 시절의 인기를 자랑했다. 이날 학교 앞 떡볶이를 먹으러 간]]></content:encoded>
+            <title><![CDATA["의리 지켰다"…임영웅, 태연 향한 "누이" 발언까지 '마성의 히어로' (놀토)[전일야화] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001649727</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001649727</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[가수 임영웅이 남다른 예능감을 유감없이 발산했다. 14일 방송된 tvN '놀라운 토요일'에서는 임영웅이 게스트로 출연했다. 임영웅은 "즐겨보는 프로그램인데 애정하는 붐 형님이 있어서 나왔다. 너무 보고 싶었다"고 했]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['전참시' 유병재, 여친 존재 의심한 홍현희에 "기분 좋아"[★밤TView] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003188077</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003188077</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:49 GMT</pubDate>
-            <content:encoded><![CDATA['전지적 참견 시점'에서 홍현희가 유병재 여친의 존재를 의심했다. 7일 방송된 MBC '전지적 참견 시점' 267회에서는 가수 이석훈이 참견인으로 출연했다. 이날 홍현희는 아들 준범과 함께 화보 촬영을 마치고 조나단]]></content:encoded>
+            <title><![CDATA[사라져가는 DVD…美 넷플릭스 이어 베스트바이도 판매 중단 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0014262618</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0014262618</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[임미나 특파원 = 미국에서 DVD를 살 수 있는 곳이 얼마 남지 않게 됐다. 14일(현지시간) AP통신과 CNN 등에 따르면 미국의 대표적인 전자제품 유통 체인 '베스트 바이'는 내년 초까지 DVD와 블루레이 판매를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘전참시’ 이국주, 반려견 바비 편지 읽고 폭풍 오열 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005199252</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005199252</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[이국주가 반려견의 연말 편지를 읽고 폭풍 오열했다. 14일 방송된 MBC ‘전지적 참견 시점’(이하 ‘전참시’)에서 이국주와 이상수 매니저는 반려견 유치원으로 향했다. 두 사람은 각각 바비와 꼬기라는 이름의 말티푸를]]></content:encoded>
+            <title><![CDATA[[종합] 임영웅, 붐 결혼식 축가 못 부른 마음의 빚 갚았다 "이제야 조금"('놀토') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000632558</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000632558</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[가수 임영웅이 '놀라운 토요일' 출연 이유에 대해 MC 붐이라고 말했다. 14일 방송된 tvN '놀라운 토요일(이하 놀토)'에는 가수 임영웅이 게스트로 출연했다. 이날 방송에서 MC 붐은 "옆자리를 봐라. 지금 한]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[홍현희, 유병재 집에서 女 머리핀 발견…"조금 달라 보여" (전참시)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001649712</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001649712</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[홍현희가 유병재의 집에서 여자 머리끈과 머리핀을 발견했다. 14일 방송된 MBC 예능 프로그램 '전지적 참견 시점'(이하 '전참시')에는 홍현희가 준범을 데리고 유병재, 조나단을 만나러 가는 장면이 전파를 탔다. 이]]></content:encoded>
+            <title><![CDATA[레전드 이형택 “첫째 딸이랑 같이 있으면 불안불안, 반항적인 부분 있어”(‘금쪽상담소’) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=468&amp;aid=0000989729</link>
+            <guid>https://entertain.naver.com/now/read?oid=468&amp;aid=0000989729</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[출처| 채널A 테니스 레전드 이형택이 고민을 털어놨다. 최근 채널A ‘오은영의 금쪽 상담소’에는 테니스 레전드 이형택의 출연이 예고됐다. 영상 속 이형택은 “(첫째 딸) 송은이랑 같이 있으면 불안불안한 것이 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[찬열, 맹장 수술한 캐스퍼 위해 천만 원짜리 초호화 캠핑 (feat. 세훈) (살림남2) [종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001649711</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001649711</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[엑소(EXO) 찬열이 안무가 캐스퍼를 위해 초호화 캠핑을 준비했다. 14일 방송된 KBS 2TV '살림하는 남자들 시즌2'(이하 '살림남2')에서는 캐스퍼가 찬열을 따라 캠핑을 떠난 장면이 전파를 탔다. 이날 찬열은]]></content:encoded>
+            <title><![CDATA[유재석 "남궁민♥안은진 밀밭 키스신 너무 슬퍼" (놀뭐) [전일야화] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001649725</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001649725</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[방송인 유재석이 배우 안은진에게 드라마 '연인'의 열혈 시청자임을 밝혔다. 14일 방송된 MBC '놀면 뭐하니?'(이하 '놀뭐')에서는 '놀뭐X연인' 특집으로 꾸며진 가운데 멤버들이 드라마 '연인'에 출연한 장면이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['전참시' 유병재 "나 보고 웃어준 조카 無..수염 때문"[별별TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003188075</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003188075</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:49 GMT</pubDate>
-            <content:encoded><![CDATA['전지적 참견 시점'에서 유병재가 자신의 수염을 탓했다. 7일 방송된 MBC '전지적 참견 시점' 267회에서는 가수 이석훈이 참견인으로 출연했다. 이날 홍현희는 아들 준범과 함께 화보 촬영을 마치고 조나단과 유병재]]></content:encoded>
+            <title><![CDATA[김영식 "방송업계 음악 저작권료 연 570억…국민 전가 우려" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=001&amp;aid=0014262593</link>
+            <guid>https://entertain.naver.com/now/read?oid=001&amp;aid=0014262593</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA["자문위 방송계 인사 2명뿐…방통위 대응 나서야" 방송산업 침체가 길어지고 있지만 방송업계가 부담해야 할 음악 저작권 이용료는 늘어 정부가 중재에 나서야 한다는 지적이 제기됐다. 15일 국회 과학기술정보방송통신위원회]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["내려놓을 때 죽고 싶었다"…김동성, 건설 노동자된 근황 공개 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0012146597</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0012146597</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[[서울=뉴시스] 전 쇼트트랙 국가대표 선수인 김동성이 지난 13일 '빙신 김동성'이라는 유튜브 채널을 개설하고 첫 영상을 올렸다. (사진=유튜브 채널 '빙신 김동성' 캡처) 2023.10.15. photo@newsis.com *재판매 및 DB 금지[서울=뉴시스] 신효령 기자 = 전 쇼트트랙 국가대표 김동성이 공사장 인부,...]]></content:encoded>
+            <title><![CDATA['놀뭐' 멤버들, '연인' 보조출연 도전…치열한 분량 확보 배틀 [RE:TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0007109645</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0007109645</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA['놀면 뭐하니?' 멤버들의 드라마 '연인'의 김성용 감독에게 잘 보이기 위한 어필이 이어졌다. 14일 방송된 MBC 예능 프로그램 '놀면 뭐하니?'에서는 유재석 하하 주우재 박진주 이이경 이미주가 MBC 금토드라마]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박수홍 측 "부모의 임신·낙태 발언은 허위…형수 명예훼손으로 고소" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0012146596</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0012146596</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[개그맨 박수홍 측이 "부모의 진술은 허위 사실"이라고 반박하며, 박수홍 형수를 명예훼손 혐의로 고소할 예정이다. 박수홍의 법률대리인인 노종언 변호사(법무법인 존재)는 지난 14일 뉴스1과의 인터뷰에서 "유튜버 김용호]]></content:encoded>
+            <title><![CDATA['힘쏀여자 강남순' 이유미, 드디어 친엄마 김정은 만났다 [RE:TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0007109644</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0007109644</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA['힘쎈 여자 강남순'에서 이유미가 드디어 김정은을 만났다. 14일 방송된 JTBC 토일드라마 '힘쎈여자 강남순'(극본 백미경/연출 김정식, 이경식) 3화에서 강남순(이유미 분)이 강희식(옹성우 분)의 도움으로 드디어]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['동치미' 서정희 "故서세원에게 동등한 대우 못 받았지만 허물 덮어주려 해" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001273190</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001273190</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 서정희가 전 남편 고 서세원의 허물까지 덮으려 했다며 자신이 생각하는 결혼생활의 정의를 전했다. 14일 MBN ‘속풀이쇼 동치미’에선 서정희의 이야기가 펼쳐졌다. 배우자의 외도를 주제로 한 이날 방송에서 피부]]></content:encoded>
+            <title><![CDATA[[인터뷰]정종연표 '데블스 플랜' 실망한 이들에게 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0012146672</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0012146672</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[정종연(47) PD의 '더 지니어스'(2013~2014)는 서바이벌 예능물에 한 획을 그었다. 대중적인 인기를 끌지는 못했지만, 탄탄한 마니아층을 형성해 시즌3까지 선보였다. 최근 공개한 '데블스 플랜'은 국내 시청]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[피오X대성X제니, '예능돌'의 복귀…"반갑다 친구야"[TF프리즘] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=629&amp;aid=0000243678</link>
-            <guid>https://entertain.naver.com/now/read?oid=629&amp;aid=0000243678</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[해병대 전역 피오, 11월 4일부터 합류 트로트 대성, 이번엔 심사위원으로 제니, '미추리' 흥행 한 번 더 기대 군대·휴식기·월드투어 등의 이유로 예능프로그램을 떠났던 가수들이 다시 돌아온다. 예능 고정 MC로 활]]></content:encoded>
+            <title><![CDATA['1박2일' 딘딘, 5살 난쟁이들과 숨막히는 추격전 왜? (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0012146668</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0012146668</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA['1박 2일' 여섯 멤버들이 저주를 풀기 위한 난쟁이 찾기 소동을 벌인다. 15일 오후 6시15분 방송되는 KBS 2TV 예능물 '1박 2일' 가을동화 특집에서 강원도 태백에 위치한 한 탄광에 도착한 멤버들의 모습이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['전참시' 홍현희 "母, 돌잔치 영상 화제 된 후 선글라스 착용" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003188074</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003188074</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:49 GMT</pubDate>
-            <content:encoded><![CDATA['전지적 참견 시점'에서 홍현희가 모친의 준비성에 대해 언급했다. 7일 방송된 MBC '전지적 참견 시점' 267회에서는 가수 이석훈이 참견인으로 출연했다. 이날 홍현희는 최연소 참견인 아들 준범과 함께 첫 화보를]]></content:encoded>
+            <title><![CDATA['전참시' 이국주 "고등학교 때 이효리였다" 과거영상 보니 [RE:TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0007109624</link>
+            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0007109624</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA['전지적 참견시점' 이국주가 '이효리 시절'을 공개했다. 14일 밤 방송된 MBC 예능 프로그램 '전지적 참견 시점'(연출 김윤집 등/이하 '전참시') 268회에서 이국주와 매니저는 반려견을 개 유치원에 맡기고 함께]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['놀토' 임영웅 "붐 결혼식 축가 못 했다..도움 주려고 출연"[★밤TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003188073</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003188073</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:49 GMT</pubDate>
-            <content:encoded><![CDATA['놀라운 토요일' 가수 임영웅이 방송인 붐과의 의리를 보였다. 14일 방송된 tvN 예능프로그램 '놀라운 토요일'에서는 임영웅이 게스트로 출연했다. 이날 임영웅은 "너무 즐겨보는 프로그램인데 애정하는 붐 형님이 있다]]></content:encoded>
+            <title><![CDATA['1박 2일' 딘딘, 난쟁이 찾기 위한 쫓고 쫓기는 숨 막히는 추격전 [TV 엿보기] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=119&amp;aid=0002758160</link>
+            <guid>https://entertain.naver.com/now/read?oid=119&amp;aid=0002758160</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[‘1박 2일’ 여섯 남자들이 끔찍한 저주를 풀기 위한 난쟁이 찾기 대소동을 벌인다. 15일 오후 6시 15분 방송되는 KBS2 ‘1박 2일 시즌4’(이하 ‘1박 2일’) ‘가을동화’ 특집에서는 강원도 태백에 위치한]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["그래봤자 서울대 못간 애들"...연대, 고대 졸업생 등장에 이진호 '막말'(아는형님)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=213&amp;aid=0001273189</link>
-            <guid>https://entertain.naver.com/now/read?oid=213&amp;aid=0001273189</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[세기의 대학 라이벌전이 펼쳐졌다. 14일 방영된 JTBC '아는형님' 404화에는 연세대학교, 고려대학교를 졸업한 게스트들이 등장해 치열한 경쟁을 벌였다. 이날 게스트로는 연세대학교를 졸업한 프리랜서 아나운서 조정식]]></content:encoded>
+            <title><![CDATA[투빅 준형, 오늘(15일) 4살 연하 금융업 종사자와 결혼 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782676</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782676</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[남성 듀오 투빅(2BiC) 멤버 준형이 오늘(15일) 결혼한다. 준형은 10월 15일 서울 모처에서 비연예인 여자친구와 결혼식을 올린다. 소속사 투빅컴퍼니에 따르면 준형의 예비신부는 4살 연하의 금융업 종사자이며 뛰]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['힘쎈 여자 강남순' 박보영·박형식 깜짝 출연…도봉순 부부됐다 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0007109554</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0007109554</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:49 GMT</pubDate>
-            <content:encoded><![CDATA['힘쎈여자 강남순'에서 박보영과 박형식이 깜짝 출연했다. 14일 밤 방송된 JTBC 토일드라마 '힘쎈여자 강남순'(극본 백미경/연출 김정식, 이경식) 3화에서는 길중간(김해숙 분)이 경찰서에 방문한 장면에서 도봉순(]]></content:encoded>
+            <title><![CDATA[[종합] 잠자리 시중들 뻔한 안은진, ♥남궁민=구세주 될까…'연인2' 최고 11.3% (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000632564</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000632564</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[‘연인’ 남궁민은 또 한번 안은진을 구해낼 수 있을까. 10월 15일 시청률 조사회사 닐슨코리아에 따르면 10월 14일 방송된 MBC 금토드라마 ‘연인’(기획 홍석우/연출 김성용 이한준 천수진/극본 황진영) 12회는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘전참시’ 홍현희, 유병재 집에서 여자 흔적 발견 “머리핀 뭐냐” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=009&amp;aid=0005199251</link>
-            <guid>https://entertain.naver.com/now/read?oid=009&amp;aid=0005199251</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[홍현희가 유병재 집의 화장실에서 여자 머리핀과 머리끈을 발견했다. 14일 방송된 MBC ‘전지적 참견 시점’(이하 ‘전참시’)에서 홍현희는 아들 준범이와 함께 유병재의 집을 방문했다. 유병재의 집에는 조나단도 함께였]]></content:encoded>
+            <title><![CDATA[“이휘소로 죽어야” 이덕화 결국 사망..이준X엄기준, 공조 ‘반전’ (‘7인의 탈출’)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004947193</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004947193</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[‘7인의 탈출’ K의 계략에 이덕화가 사망했다. 14일 방송된 SBS 금토드라마 ‘7인의 탈출’에서는 방칠성(이덕화 분)과 방칠성(이덕화 분)이 손녀딸 방다미(정라엘 분)의 유골 앞에서 죽음을 맞이하는 모습이 그려졌]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['7인의탈출' 이유비, 황정음에 "정라엘이 친딸이라는 거 다 알아" 협박 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=416&amp;aid=0000300057</link>
-            <guid>https://entertain.naver.com/now/read?oid=416&amp;aid=0000300057</guid>
-            <pubDate>Sat, 14 Oct 2023 20:07:23 GMT</pubDate>
-            <content:encoded><![CDATA[이유비가 황정음을 협박했다. 14일 방송된 SBS 금토드라마 '7인의 탈출'에서는 금라희를 협박하는 한모네의 모습이 그려졌다. 이날 방송에서 한모네는 재계약을 하지 않겠다는 금라희의 선언에 위기의식을 느꼈고 자신이]]></content:encoded>
+            <title><![CDATA['연인' 드디어 이청아 등장→유재석X하하 특별 출연…떡밥 회수 시작 [종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004947192</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004947192</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[드디어 배우 이청아가 ‘연인’에 등장했다. ‘연인’ 파트1의 마무리에 등장하며 궁금증을 자아냈던 이청아의 등장으로 떡밥이 풀리기 시작했다. 14일 방송된 MBC 금토드라마 ‘연인’ 파트2(극본 황진영, 연출 김성용]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['강남순' 이유미, 김정은과 모녀 상봉 중 화재 폭발→박보영♥박형식 부부 케미 눈길[Oh!쎈 종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004947168</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004947168</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[‘힘쎈여자 강남순’ 김정은과 이유미가 드디어 상봉했다. 14일 방영한 JTBC 토일드라마 ‘힘쎈여자 강남순’(극본 백미경, 연출 김정식·이경식, 제작 바른손씨앤씨·스토리피닉스·SLL)에서는 친딸을 찾아헤매는 황금주(]]></content:encoded>
+            <title><![CDATA[이유미 강력하다..전작 ‘오징어 게임’ 지운 ‘힘쎈여자 강남순’ (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004947189</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004947189</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[달라서 더 매력적이다. 배우 이유미가 ‘힘쎈여자 강남순’에서 전작을 완전히 지운 열연을 펼치고 있다. JTBC 토일드라마 ‘힘쎈여자 강남순’(극본 백미경, 연출 김정식·이경식)에서 이유미는 몽골에서 날아온 엉뚱 발랄]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[황정음→이유비, 이덕화 죽음 목격..엄기준, 절규 (‘7인의 탈출’)[Oh!쎈 종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004947167</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004947167</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[‘7인의 탈출’ 이덕화가 정라엘 유골 앞에서 죽음을 맞이했다. 14일 방송된 SBS 금토드라마 ‘7인의 탈출’에서는 방칠성(이덕화 분)이 살아있음을 알게된 7인이 반격하는 모습이 그려졌다. 이날 금라희(황정음 분)과]]></content:encoded>
+            <title><![CDATA['힘쎈여자 강남순' 이유미X김정은, 첫 눈에 母女 확신…시청률 8.0% [종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003779639</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003779639</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[두 모녀가 운명적으로 재회했다. 14일 방송된 종합편성채널 JTBC 토일드라마 '힘쎈여자 강남순'(극본 백미경 연출 김정식 이경식) 3회에서는 강남순(이유미)과 황금주(김정은)가 드디어 만났다. 3회 시청률은 전국]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김정은x이유미, 화재 현장서 재회···힘+정의감 모전여전→박형식♥박보영 부부 특별출연('강남순')[종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004947155</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004947155</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[‘힘쎈여자 강남순’ 김정은과 이유미가 재회 전 화재 현장을 목격하고 힘을 썼다. 14일 방영한 JTBC 토일드라마 ‘힘쎈여자 강남순’(극본 백미경, 연출 김정식·이경식, 제작 바른손씨앤씨·스토리피닉스·SLL)에서는]]></content:encoded>
+            <title><![CDATA[[종합] 박보영♥박형식 특별출연…이유미, '친母' 김정은과 불구덩이 속 재회('힘쎈여자 강남순') (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000632562</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000632562</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[이유미가 김정은과 운명적으로 만났다. 14일 방송된 JTBC 토일드라마 '힘쎈여자 강남순' 3회에서는 강남순(이유미 역), 황금주(김정은 역)가 드디어 만났다. 서로를 한눈에 알아본 강남순과 황금주. 재회의 기쁨도]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[효심이네 각자도생] 유이의 상처를 치료해 주는 고주원...“많이 속상합니다” 애틋 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=438&amp;aid=0000059455</link>
-            <guid>https://entertain.naver.com/now/read?oid=438&amp;aid=0000059455</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[고주원이 유이에 애틋한 감정을 드러냈다. 14일 방송된 KBS2TV 새 주말드라마 ‘효심이네 각자도생’(연출 김형일, 극본 조정선)은 타고난 착한 성품과 따뜻한 공감능력으로 평생 가족에게 헌신했던 딸 ‘효심’이 자신]]></content:encoded>
+            <title><![CDATA['7인의 탈출' 이준, 악인들 스파이였다...엄기준과 한편 '대반전' [전일야화] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001649731</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001649731</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA['7인의 탈출'에서 이준이 강력한 반전을 선사했다. 지난 14일 방송된 SBS 금토드라마 '7인의 탈출' 8회에서는 민도혁(이준 분)이 매튜 리(엄기준)의 조력자임이 드러났다. 이날 한모네(이유비)는 자신을 내치려고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[효심이네 각자도생] 고주원 만나기 전 사채업자에 끓려간 유이...폭행 당한 뒤 홀로 오열 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=438&amp;aid=0000059454</link>
-            <guid>https://entertain.naver.com/now/read?oid=438&amp;aid=0000059454</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[유이가 사채업자에 끌려갔다. 14일 방송된 KBS2TV 새 주말드라마 ‘효심이네 각자도생’(연출 김형일, 극본 조정선)은 타고난 착한 성품과 따뜻한 공감능력으로 평생 가족에게 헌신했던 딸 ‘효심’이 자신을 힘들게 했]]></content:encoded>
+            <title><![CDATA['연인' 남궁민, 포로 된 안은진 구할까…숨멎엔딩에 시청률 9.3% [종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003779637</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003779637</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[이장현(남궁민)이 또 한 번 유길채(안은진)를 구해낼 수 있을까. 15일 시청률 조사회사 닐슨코리아에 따르면 14일 방송된 MBC 금토드라마 '연인'(극본 황진영 연출 김성용 이한준 천수진) 12회는 수도권 기준 9]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['7인의 탈출' 이준, 알고보니 엄기준 편 '스파이 대반전' [종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001649708</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001649708</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:58 GMT</pubDate>
-            <content:encoded><![CDATA['7인의 탈출'에서 엄기준이 악인들의 반격 계획을 꿰뚫고 있었다. 그리고 이준은 엄기준과 한 편이었다. 14일 방송된 SBS 금토드라마 '7인의 탈출' 8회에서는 방칠성(이덕화 분)이 살아있고, 벙칠성이 이휘소(엄기]]></content:encoded>
+            <title><![CDATA[[종합] 김도연 사채 떠안은 유이, 협박에 무릎 꿇고 애원('효심이네 각자도생') (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000632560</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000632560</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[유이가 결국 동생 김도연의 사채까지 떠안았다. 14일 방송된 KBS2 주말드라마 '효심이네 각자도생' 6회에서 효심(유이 역)은 막내 효도(김도연 역)가 저지른 사고 뒷수습을 하느라 여념이 없었다. 교통사고를 당한]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['강남순' 김정은, 최희진 가짜 딸인 것 알았다···옹성우 "친딸 제보하겠다"[Oh!쎈 포인트] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004947152</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004947152</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[‘힘쎈여자 강남순’ 김정은이 최희진의 존재를 의심했다. 14일 방영한 JTBC 토일드라마 ‘힘쎈여자 강남순’(극본 백미경, 연출 김정식·이경식, 제작 바른손씨앤씨·스토리피닉스·SLL)에서는 잃어버린 딸 강남순(이유미]]></content:encoded>
+            <title><![CDATA['7인의 탈출' 이덕화, 복수 위해 사망…엄기준, 거대 배후 노린 핏빛 설계 [종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=117&amp;aid=0003779636</link>
+            <guid>https://entertain.naver.com/now/read?oid=117&amp;aid=0003779636</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA['역시 김순옥 표' 매운맛 복수극이 펼쳐졌다. 14일 방송된 SBS 금토드라마 '7인의 탈출(극본 김순옥 연출 주동민 오준혁) 8회 시청률은 전국과 수도권 모두 6.5%(닐슨코리아 기준)를 기록했다. 순]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[효심이네 각자도생] 고주원, 회장 아버지 노영국의 구두닦이 이중생활에 안타까움 느껴 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=438&amp;aid=0000059453</link>
-            <guid>https://entertain.naver.com/now/read?oid=438&amp;aid=0000059453</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[고주원이 아버지에 안타까움을 느꼈다. 14일 방송된 KBS2TV 새 주말드라마 ‘효심이네 각자도생’(연출 김형일, 극본 조정선)은 타고난 착한 성품과 따뜻한 공감능력으로 평생 가족에게 헌신했던 딸 ‘효심’이 자신을]]></content:encoded>
+            <title><![CDATA[[종합] 엄기준, K 김도훈에 섬뜩 경고장 받았다…이덕화 사망 최고 8.6%('7인의 탈출') (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000632559</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000632559</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[엄기준이 '미스터리 K'의 경고장을 받았다. 14일 방송된 SBS 금토드라마 '7인의 탈출' 8회에서는 단죄자 매튜 리(엄기준 역)와 7인의 악인들이 반격과 역습을 거듭하며 예측 불가의 싸움을 펼쳤다. 서로의 약점을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['연인' 남궁민, 안은진 죽이려는 이청아에 활 겨눴다 [★밤TView] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003188072</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003188072</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:58 GMT</pubDate>
-            <content:encoded><![CDATA['연인' 배우 남궁민이 이청아에게 활을 겨눴다. 14일 방송된 MBC 금토드라마 '연인'에서는 길채(안은진 분)이 종종이(박정연 분)과 함께 청의 포로로 잡혀온 장면이 그려졌다. 이날 조선에서 잡혀온 포로를 벌주는]]></content:encoded>
+            <title><![CDATA[[스브스夜] '그알' 알바 면접 미끼로 '성폭행' 당한 스무 살 선아의 죽음…20대 여성들 '성착취'한 짱구맨 추적 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=416&amp;aid=0000300059</link>
+            <guid>https://entertain.naver.com/now/read?oid=416&amp;aid=0000300059</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[선아는 왜 스스로 죽음을 택했을까? 14일 방송된 SBS '그것이 알고싶다'(이하 '그알')에서는 '짱구맨과 이상한 면접 - 20살 선아는 왜 죽음을 선택했나?'라는 부제로 알바 면접을 미끼로 한 성착취 사건을 추적]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['7인의 탈출' 이덕화 살아있었다..황정음→이유비 앞에서 사망[★밤TView] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003188071</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003188071</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:58 GMT</pubDate>
-            <content:encoded><![CDATA['7인의 탈출' 배우 이덕화가 5년간 다른 사람의 이름을 빌려 살아있었지만, 정라엘의 시체를 찾고 폭탄이 터져 사망했다. 14일 방송된 SBS 금토드라마 '7인의 탈출'에서는 방칠성(이덕화 분)이 살아있음을 알게된]]></content:encoded>
+            <title><![CDATA['연인' 남궁민, 자신 거절한 안은진에 "눈길 안줄 것" 다짐[★밤TV] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003188087</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003188087</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA['연인' 배우 남궁민이 안은진을 잊기 위해 다짐했다. 14일 방송된 MBC 금토드라마 '연인'에서는 유재석과 하하가 카메오로 깜짝 출연했다. 이날 유재석과 하하는 소 없이 쟁기를 매고 일하는 포로 농민의 모습을 연기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘연인’ 안은진, ‘첩’될 위기는 벗어났지만,,,남궁민과 서로 알아볼까 (종합) (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000203574</link>
-            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000203574</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[남궁민이 청에 끌려온 안은진을 알아볼까. 10월 14일 방송한 MBC 금토드라마 ‘연인에서 길채(안은진)는 지쳐서 행렬을 따라가지 못하는 사람을 청군이 죽이는 모습을 보고 공포에 떨었다. 그때 종종이(박정연)이 주저]]></content:encoded>
+            <title><![CDATA[고주원, 유이에 무릎 꿇고 박력 고백 “이런 얼굴 속상해”(효심이네)[어저께TV] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004947183</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004947183</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[고주원이 유이를 향한 직진 고백을 이어갔다. 지난 14일 방송된 KBS 2TV 주말드라마 '효심이네 각자도생'(연출 김형일, 극본 조정선, 제작 아크미디어)에서는 이효심(유이 분)이 가족의 빚을 떠안고 사채업자에게]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[효심이네 각자도생] 무리하다 허리를 다친 하준, 병원까지 데려다주는 유이에 설렘 느껴 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=438&amp;aid=0000059452</link>
-            <guid>https://entertain.naver.com/now/read?oid=438&amp;aid=0000059452</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[하준이 운동을 하다가 다치자 유이가 그를 도왔다. 14일 방송된 KBS2TV 새 주말드라마 ‘효심이네 각자도생’(연출 김형일, 극본 조정선)은 타고난 착한 성품과 따뜻한 공감능력으로 평생 가족에게 헌신했던 딸 ‘효심]]></content:encoded>
+            <title><![CDATA[김정은, 이유미 위해 몸 날렸다···모녀 재회→박형식♥박보영 특출('강남순')[어저께TV] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004947179</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004947179</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[‘힘쎈여자 강남순’ 이유미와 김정은의 상봉이 그려졌다. 14일 방영한 JTBC 토일드라마 ‘힘쎈여자 강남순’(극본 백미경, 연출 김정식·이경식, 제작 바른손씨앤씨·스토리피닉스·SLL)에서는 엄마를 찾아온 강남순(이유]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이준, 엄기준과 한패 ‘반전’→정라엘 시신과 함께 이덕화 사망 (‘7인의 탈출’)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004947150</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004947150</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[‘7인의 탈출’ 이덕화가 정라엘 시신과 함께 죽음을 맞이했다. 14일 방송된 SBS 금토드라마 ‘7인의 탈출’에서는 방칠성(이덕화 분)과 이휘소(민영기 분)가 바꿔치기 된 사실을 알게 된 7인의 모습이 그려졌다. 앞]]></content:encoded>
+            <title><![CDATA[이준, 알고보니 ‘엄기준 스파이’→이덕화, 복수 위해 죽음 택했다 (‘7인의 탈출’)[어저께TV] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004947177</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004947177</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[‘7인의 탈출’ 이준이 엄기준의 스파이로 드러난 가운데 이덕화가 K 계략에 사망했다. 14일 방송된 SBS 금토드라마 ‘7인의 탈출’에서는 민도혁(이준 분)이 매튜리(엄기준 분)과 공조하는 모습이 그려졌다. 앞서 한]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['특별출연' 박보영, ♥박형식과 결혼 후 출산까지···닭살 부부 근황은 경찰서('강남순')[Oh!쎈 리뷰] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004947149</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004947149</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[‘힘쎈여자 강남순’ 박보영과 박형식이 극이 끝나고 난 후 여전히 행복한 모습을 보이고 살아갔다. 14일 방영한 JTBC 토일드라마 ‘힘쎈여자 강남순’(극본 백미경, 연출 김정식·이경식, 제작 바른손씨앤씨·스토리피닉스]]></content:encoded>
+            <title><![CDATA[2023 최고 사극은?..'연인' 이어 '혼례대첩'→'고려 거란 전쟁' [★FOCUS] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003188083</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003188083</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA["사극 끝나면 또 사극!" 단풍이 무르익고 있는 가을 안방극장에 '사극 열풍'이 기대되고 있다. 이번엔 KBS다. 하반기 안방극장에는 MBC 금토드라마 '연인'이 사극 열풍을 이끌고 있다. 지난 13일 파트2로 돌아]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['강남순' 박보영♥박형식, 특별출연 "결혼+육아"로 닭살 부부 연기 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004947148</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004947148</guid>
-            <pubDate>Sat, 14 Oct 2023 17:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[‘힘쎈여자 강남순’ 박형식과 박보영이 특별출연했다. 14일 방영한 JTBC 토일드라마 ‘힘쎈여자 강남순’(극본 백미경, 연출 김정식·이경식, 제작 바른손씨앤씨·스토리피닉스·SLL)에서는 '힘쎈여자 도봉순'에서 나왔던]]></content:encoded>
+            <title><![CDATA[이준 스파이 반전, 이덕화 손녀 백골시신 찾고 사망 ‘7인의 탈출’[어제TV] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782674</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782674</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[이준이 엄기준 쪽 스파이였다는 대반전이 펼쳐진 가운데, 이덕화가 결국 죽음을 맞이했다. 10월 14일 방송된 SBS 금토드라마 '7인의 탈출'(극본 김순옥, 연출 주동민) 8회에서는 매튜 리(엄기준 분)에게 다시 시]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['연인' 남궁민, 이청아에 쫓기는 안은진 발견…유재석X하하 특별출연 [종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004947146</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004947146</guid>
-            <pubDate>Sat, 14 Oct 2023 14:03:01 GMT</pubDate>
-            <content:encoded><![CDATA[‘연인’ 이청아에 쫓기는 안은진을 구하기 위해 남궁민이 등판했다. 14일 방송된 MBC 금토드라마 ‘연인’ 파트2(극본 황진영, 연출 김성용 이한준 천수진)에서는 유길채(안은진)가 포로시장으로 끌려가는 모습이 그려졌]]></content:encoded>
+            <title><![CDATA['7인의 탈출' K 본격 등장..이준, 엄기준 숨겨진 조력자였다 [★밤TV] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003188081</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003188081</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA['7인의 탈출' K가 등장했으며 엄기준의 숨겨진 조력자가 있었음이 밝혀졌다. 14일 방송된 SBS 금토드라마 '7인의 탈출'에서는 방칠성(이덕화 분)이 살아있단 사실을 알게된 7인은 본격적으로 반격의 계획을 세웠다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[남궁민, 안은진 눈 앞에 두고 엇갈렸다…지승현, 혈서에 '오열' (인연)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001649701</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001649701</guid>
-            <pubDate>Sat, 14 Oct 2023 14:03:01 GMT</pubDate>
-            <content:encoded><![CDATA[남궁민이 안은진을 바로 앞에 두고 엇갈렸다. 14일 방송된 MBC 금토드라마 '연인' 12회에서는 유길채(안은진 분)가 종종이(박정연)와 청나라 병사들에게 납치되어 포로로 끌려가는 장면이 전파를 탔다. 유길채는 정신]]></content:encoded>
+            <title><![CDATA['연인' 포로 된 안은진, 쫓는 이청아, 구하려는 남궁민 [어저께TV] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004947172</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004947172</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[‘연인’ 포로가 되어 도망치는 안은진을 쫓는 이청아, 그런 이청아를 막아서며 안은진을 구하려는 남궁민의 흥미진진한 이야기가 펼쳐졌다. 14일 방송된 MBC 금토드라마 ‘연인’ 파트2(극본 황진영, 연출 김성용 이한준]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘아라문의 검’ 장동건, 이준기 쌍둥이 알아보고 패닉 ‘음문석 죽음’ (종합) (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782622</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782622</guid>
-            <pubDate>Sat, 14 Oct 2023 14:03:01 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔 유경상 yooks@ 장동건이 이준기 쌍둥이를 알아보고 경악했고, 음문석이 죽음을 맞았다. 10월 14일 연속 방송된 tvN 토일드라마 ‘아라문의 검’ 9회(극본 김영현 박상연/연출 김광식)에서는 타곤(장동건]]></content:encoded>
+            <title><![CDATA[“복권 당첨?” 노숙자 김비주 환골탈태, 김도연 의심 (효심이네)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782664</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782664</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔 유경상 yooks@ 김비주의 환골탈태를 김도연이 의심했다. 10월 14일 방송된 KBS 2TV 주말드라마 ‘효심이네 각자도생’ 6회(극본 조정선/연출 김형일)에서 강태희(김비주 분)는 원래 모습으로 돌아갔다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['연인' 이청아, 남궁민과 달빛 아래서 대면 "한량이냐"[별별TV] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003188069</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003188069</guid>
-            <pubDate>Sat, 14 Oct 2023 14:03:01 GMT</pubDate>
-            <content:encoded><![CDATA['연인' 배우 남궁민이 이청아와 우연히 마주했다. 14일 방송된 MBC 금토드라마 '연인'에서는 이장현(남궁민 분)이 홀로 술을 마시고 있는 모습이 그려졌다. 이장현은 과거 길채(안은진 분)에게 비단옷을 선물했던 것]]></content:encoded>
+            <title><![CDATA[첩자 김정영 정체 발각, 기도훈과 모자관계 ‘반전’ (아라문의 검)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782657</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782657</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔 유경상 yooks@ 김정영과 기도훈의 모자관계가 드러났다. 10월 14일 연속 방송된 tvN 토일드라마 ‘아라문의 검’ 9회(극본 김영현 박상연/연출 김광식)에서는 수하나(김정영 분)와 양차(기도훈 분)의 뜻]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['연인' 유재석·하하, 농민으로 특별 출연…신스틸러 존재감 [Oh!쎈 종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0004947140</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0004947140</guid>
-            <pubDate>Sat, 14 Oct 2023 14:03:01 GMT</pubDate>
-            <content:encoded><![CDATA[‘연인’ 유재석과 하하가 특별 출연했다. 14일 방송된 MBC 금토드라마 ‘연인’ 파트2(극본 황진영, 연출 김성용 이한준 천수진)에서는 소현세자(김무준)는 청나라로부터 농사를 지으라는 명령을 받았다. 포로시장의 조]]></content:encoded>
+            <title><![CDATA[특별출연 음문석, 이준기 돕고 장동건에 죽음 (아라문의 검)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782648</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782648</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔 유경상 yooks@ 음문석이 죽어가면서도 이준기를 도왔다. 10월 14일 연속 방송된 tvN 토일드라마 ‘아라문의 검’ 9회(극본 김영현 박상연/연출 김광식)에서는 모모족 카라트(음문석 분)가 죽음을 맞았다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘연인’ 김윤우, 안은진 ‘납치’ 소식 알렸다 “내가 왜...!” (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000203573</link>
-            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000203573</guid>
-            <pubDate>Sat, 14 Oct 2023 14:03:01 GMT</pubDate>
-            <content:encoded><![CDATA[김윤우가 안은진이 납치됐다는 소식을 알렸다. 10월 14일 방송한 MBC 금토드라마 ‘연인’에서 량음(김윤우)는 길채(안은진) 집앞에 갔다가 이상한 분위기를 알아차렸다. 돌아서던 량음은 어린아이가 주저앉아있자 “길을]]></content:encoded>
+            <title><![CDATA[“고주원 잘생겨 비교당해” 하준, 유이 뺏길까 질투 (효심이네)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782646</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782646</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스엔 유경상 yooks@ 하준이 유이에게 질투심을 드러냈다. 10월 14일 방송된 KBS 2TV 주말드라마 ‘효심이네 각자도생’ 6회(극본 조정선/연출 김형일)에서 강태호(하준 분)는 이효심(유이 분)에게 관심을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['7인의 탈출' 엄기준, 황정음과 키스 "끌리는 감정" [별별TV] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003188068</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003188068</guid>
-            <pubDate>Sat, 14 Oct 2023 14:03:01 GMT</pubDate>
-            <content:encoded><![CDATA['7인의 탈출' 배우 엄기준과 황정음이 짜릿한 입맞춤을 나눴다. 14일 방송된 SBS 금토드라마 '7인의 탈출'에서는 금라희(황정음 분)와 매튜리(엄기준 분)가 키스했다. 매튜리는 "지난번엔 실례가 많았다. 티키타카]]></content:encoded>
+            <title><![CDATA[황정음, 엄기준 옷 벗기며 격정 키스 “오늘은 여기까지”(7인의 탈출)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782643</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000782643</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[황정음과 엄기준이 격정적인 로맨스를 보여줬다. 10월 14일 방송된 SBS 금토드라마 '7인의 탈출'(극본 김순옥, 연출 주동민) 8회에서는 매튜 리(엄기준 분)와 금라희(황정음 분)가 키스했다. 이날 매튜 리는 지]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['연인' 안은진, 청에 포로行→지승현 "남궁민이 데려갔나" 의심 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003188067</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003188067</guid>
-            <pubDate>Sat, 14 Oct 2023 14:03:01 GMT</pubDate>
-            <content:encoded><![CDATA['연인' 배우 지승현이 안은진과 남궁민을 의심했다. 14일 방송된 MBC 금토드라마 '연인' 파트2에서는 유길채(안은진 분)가 종종이(박정연 분)과 함께 청의 포로로 끌려가는 장면이 그려졌다. 량음(김윤우 분)은 구]]></content:encoded>
+            <title><![CDATA['발레리나' 이충현 감독, "넷플릭스도 좋지만, 극장용 영화 언젠가 꼭 하고 싶죠" [TEN인터뷰] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231015080101824</link>
+            <guid>https://v.daum.net/v/20231015080101824</guid>
+            <pubDate>Sat, 14 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=이하늘 기자] 1990년생 이충현은 충무로의 블루칩으로서 감각적인 이미지와 장르를 확장하는, 앞으로가 더 주목되는 감독이다. 14분가량의 단편영화 '몸값'으로 눈도장을 찍으며 단번에 2020년 넷플릭스 영화 '콜'로 데뷔하기도 했다. 서사의 층이 얇다는 평가도 있지만, 겹겹이 이미지를 쌓으며 자신만의 영화를 만들어가는 중이다. '잘생긴 감독']]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F15%2F10asia%2F20231015080103674hidv.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['7인의 탈출' 이유비, 황정음에 "정라엘이 친딸이라는 거 알고 있다" (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001649698</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001649698</guid>
-            <pubDate>Sat, 14 Oct 2023 14:03:01 GMT</pubDate>
-            <content:encoded><![CDATA['7인의 탈출'에서 이유비가 황정음의 약점을 잡았다. 14일 방송된 SBS 금토드라마 '7인의 탈출' 8회에서는 금라희(황정음 분)의 숨기고 싶은 비밀을 알게 된 한모네(이유비)의 모습이 그려졌다. 앞서 금라희는 한]]></content:encoded>
+            <title><![CDATA[배우의 논란이 작품에 미치는 영향 [기자수첩-연예] (다음영화 뉴스 ─ 최신)]]></title>
+            <link>https://v.daum.net/v/20231015070003328</link>
+            <guid>https://v.daum.net/v/20231015070003328</guid>
+            <pubDate>Sat, 14 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[최근 몇 년간, 연예계의 숙제 중 하나는 카메라 밖에 배우들의 사생활에서 불거진 각종 논란이다. 이러한 논란은 대중이 작품 속 캐릭터가 아닌, 배우의 논란이 집중하게 돼 작품에 몰입하는 걸 어렵게 만든다. 최근에는 혜성같이 등장한 배우 최현욱이 논란의 중심이 돼 출연 중인 작품에 민폐를 끼쳤다. 최근 한 온라인 커뮤니티에는 "압구정 로데오 배우 최현욱]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F15%2Fdailian%2F20231015070005783wurm.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
             <title><![CDATA["핼러윈을 부탁해"…공포 영화, 줄줄이 개봉[TF프리즘] (다음영화 뉴스 ─ 최신)]]></title>
@@ -1653,214 +1669,228 @@
             <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F15%2F10asia%2F20231015000104373viic.jpg" length="0" type="image//thumb/S384x240/"/>
         </item>
         <item>
-            <title><![CDATA['7인의탈출' 이유비, 황정음에 "정라엘이 친딸이라는 거 다 알아" 협박 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20231015045401517</link>
-            <guid>https://v.daum.net/v/20231015045401517</guid>
-            <pubDate>Sat, 14 Oct 2023 20:07:43 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS연예뉴스 | 김효정 에디터] 이유비가 황정음을 협박했다. 14일 방송된 SBS 금토드라마 '7인의 탈출'에서는 금라희를 협박하는 한모네의 모습이 그려졌다. 이날 방송에서 한모네는 재계약을 하지 않겠다는 금라희의 선언에 위기의식을 느꼈고 자신이 살 방도를 찾았다. 본인이 지금까지 어떻게 살았는지 떠올리며 금라희의 약점을 잡기로 한 것. 한모네는 금라희]]></content:encoded>
+            <title><![CDATA[“이휘소로 죽어야” 이덕화 결국 사망..이준X엄기준, 공조 ‘반전’ (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20231015080122836</link>
+            <guid>https://v.daum.net/v/20231015080122836</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:41 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박하영 기자] ‘7인의 탈출’ K의 계략에 이덕화가 사망했다. 14일 방송된 SBS 금토드라마 ‘7인의 탈출’에서는 방칠성(이덕화 분)과 방칠성(이덕화 분)이 손녀딸 방다미(정라엘 분)의 유골 앞에서 죽음을 맞이하는 모습이 그려졌다. 이날 남철우(조재윤 분)는 강형사가 제주도 무인도 원점 수사하려 하자 엄지만(지승현 분)에게 도움을 청했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['강남순' 이유미, 김정은과 모녀 상봉 중 화재 폭발→박보영♥박형식 부부 케미 눈길 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20231015013919369</link>
-            <guid>https://v.daum.net/v/20231015013919369</guid>
-            <pubDate>Sat, 14 Oct 2023 17:05:21 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=오세진 기자] ‘힘쎈여자 강남순’ 김정은과 이유미가 드디어 상봉했다. 14일 방영한 JTBC&nbsp;토일드라마&nbsp;‘힘쎈여자 강남순’(극본 백미경,&nbsp;연출 김정식·이경식,&nbsp;제작 바른손씨앤씨·스토리피닉스·SLL)에서는 친딸을 찾아헤매는 황금주(김정은 분), 진짜 강남순이 되고 싶은 리화자(최희진 분), 그리고 한국에서 어설퍼도 열심히 살아나가는 강남순(이유]]></content:encoded>
+            <title><![CDATA['연인' 드디어 이청아 등장→유재석X하하 특별 출연…떡밥 회수 시작 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20231015080026809</link>
+            <guid>https://v.daum.net/v/20231015080026809</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:41 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=장우영 기자] 드디어 배우 이청아가 ‘연인’에 등장했다. ‘연인’ 파트1의 마무리에 등장하며 궁금증을 자아냈던 이청아의 등장으로 떡밥이 풀리기 시작했다. 14일 방송된 MBC 금토드라마 ‘연인’ 파트2(극본 황진영, 연출 김성용 이한준 천수진)에서는 포로 시장에서 탈출해 도망치는 유길채(안은진)를 쫓는 각화(이청아), 그리고 각화를 막는 이장]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[황정음→이유비, 이덕화 죽음 목격..엄기준, 절규 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20231015013020359</link>
-            <guid>https://v.daum.net/v/20231015013020359</guid>
-            <pubDate>Sat, 14 Oct 2023 17:05:21 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박하영 기자] ‘7인의 탈출’ 이덕화가 정라엘 유골 앞에서 죽음을 맞이했다. 14일 방송된 SBS 금토드라마 ‘7인의 탈출’에서는 방칠성(이덕화 분)이 살아있음을 알게된 7인이 반격하는 모습이 그려졌다. 이날 금라희(황정음 분)과 재게약 실패 위기에 처하자 한모네(이유비 분)는 그를 불러내 “그동안 둘만의 시간이 너무 없었다. 대표님 좋아하는]]></content:encoded>
+            <title><![CDATA[이유미 강력하다..전작 ‘오징어 게임’ 지운 ‘힘쎈여자 강남순’ (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20231015075618759</link>
+            <guid>https://v.daum.net/v/20231015075618759</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:41 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=강서정 기자] 달라서 더 매력적이다.&nbsp;배우 이유미가&nbsp;‘힘쎈여자 강남순’에서 전작을 완전히 지운 열연을 펼치고 있다. JTBC&nbsp;토일드라마&nbsp;‘힘쎈여자 강남순’(극본 백미경,&nbsp;연출 김정식·이경식)에서 이유미는 몽골에서 날아온 엉뚱 발랄한 괴력의 소유자 강남순 역을 맡아 스피드에 점프력까지 더한 풀 파워 액션으로 차원이 다른&nbsp;'슈퍼 히어로'에 등극,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김정은x이유미, 화재 현장서 재회···힘+정의감 모전여전→박형식♥박보영 부부 특별출연 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20231014235330999</link>
-            <guid>https://v.daum.net/v/20231014235330999</guid>
-            <pubDate>Sat, 14 Oct 2023 17:05:21 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=오세진 기자] ‘힘쎈여자 강남순’ 김정은과 이유미가 재회 전 화재 현장을 목격하고 힘을 썼다. 14일 방영한 JTBC&nbsp;토일드라마&nbsp;‘힘쎈여자 강남순’(극본 백미경,&nbsp;연출 김정식·이경식,&nbsp;제작 바른손씨앤씨·스토리피닉스·SLL)에서는 리화자(최희진 분)가 가짜 딸인 걸 눈치 챈 황금주(김정은 분)와 이런 황금주에게 진짜 딸인 강남순(이유미 분)에]]></content:encoded>
+            <title><![CDATA['힘쎈여자 강남순' 이유미X김정은, 첫 눈에 母女 확신…시청률 8.0% (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20231015075338753</link>
+            <guid>https://v.daum.net/v/20231015075338753</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:41 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 강다윤 기자] 두 모녀가 운명적으로 재회했다. 14일 방송된 종합편성채널 JTBC 토일드라마 '힘쎈여자 강남순'(극본 백미경 연출 김정식 이경식) 3회에서는 강남순(이유미)과 황금주(김정은)가 드디어 만났다. 3회 시청률은 전국 8.0% 수도권 8.9%(닐슨코리아, 유료가구 기준)를 기록, 자체 최고를 경신하며 비지상파 1위를 이어갔다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['7인의 탈출' 이준, 알고보니 엄기준 편 '스파이 대반전' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20231014234128955</link>
-            <guid>https://v.daum.net/v/20231014234128955</guid>
-            <pubDate>Sat, 14 Oct 2023 17:05:21 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 오수정 기자) '7인의 탈출'에서 엄기준이 악인들의 반격 계획을 꿰뚫고 있었다. 그리고 이준은 엄기준과 한 편이었다.&nbsp; 14일 방송된 SBS 금토드라마 '7인의 탈출' 8회에서는 방칠성(이덕화 분)이 살아있고, 벙칠성이 이휘소(엄기준)와 내통하고 있다는 사실을 알고 충격에 빠진 모습이 그려졌다.&nbsp; 이날 금라희(황정음)은 엄지만(지승현)과 마주]]></content:encoded>
+            <title><![CDATA[박보영♥박형식 특별출연…이유미, '친母' 김정은과 불구덩이 속 재회 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20231015075301750</link>
+            <guid>https://v.daum.net/v/20231015075301750</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:41 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=강민경 기자] 이유미가 김정은과 운명적으로 만났다. 14일 방송된 JTBC 토일드라마 '힘쎈여자 강남순' 3회에서는 강남순(이유미 역), 황금주(김정은 역)가 드디어 만났다. 서로를 한눈에 알아본 강남순과 황금주. 재회의 기쁨도 잠시 솟구치는 불길에 추락하는 강남순과 그를 위해 주저 없이 몸을 내던진 황금주의 엔딩은 두 모녀 상봉을 더욱 궁금]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['강남순' 김정은, 최희진 가짜 딸인 것 알았다···옹성우 "친딸 제보하겠다" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20231014233649943</link>
-            <guid>https://v.daum.net/v/20231014233649943</guid>
-            <pubDate>Sat, 14 Oct 2023 17:05:21 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=오세진 기자] ‘힘쎈여자 강남순’ 김정은이 최희진의 존재를 의심했다. 14일 방영한 JTBC&nbsp;토일드라마&nbsp;‘힘쎈여자 강남순’(극본 백미경,&nbsp;연출 김정식·이경식,&nbsp;제작 바른손씨앤씨·스토리피닉스·SLL)에서는 잃어버린 딸 강남순(이유미 분)을 찾고자 하는 황금주(김정은 분)의 모습이 그려졌다. 이미 강남순과 너무 닮아서 그 집안의 딸로 살고 있는]]></content:encoded>
+            <title><![CDATA['7인의 탈출' 이준, 악인들 스파이였다...엄기준과 한편 '대반전' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20231015075002733</link>
+            <guid>https://v.daum.net/v/20231015075002733</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:41 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 오수정 기자) '7인의 탈출'에서 이준이 강력한 반전을 선사했다.&nbsp; 지난 14일 방송된 SBS 금토드라마 '7인의 탈출' 8회에서는 민도혁(이준 분)이 매튜 리(엄기준)의 조력자임이 드러났다.&nbsp; 이날 한모네(이유비)는 자신을 내치려고하는 금라희(황정음)와 만났다. 한모네는 "방다미(정라엘)가 대표님 친딸이라는거 알고 있다"면서 "엄지만(지승현]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['연인' 남궁민, 안은진 죽이려는 이청아에 활 겨눴다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20231014232831929</link>
-            <guid>https://v.daum.net/v/20231014232831929</guid>
-            <pubDate>Sat, 14 Oct 2023 17:05:21 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 정은채 기자] /사진='연인' 방송화면 캡쳐'연인' 배우 남궁민이 이청아에게 활을 겨눴다. 14일 방송된 MBC 금토드라마 '연인'에서는 길채(안은진 분)이 종종이(박정연 분)과 함께 청의 포로로 잡혀온 장면이 그려졌다. 이날 조선에서 잡혀온 포로를 벌주는 현장에 이장현이 참석했다. 그리고 그곳에서 이장현은 길채와 종종이를 목격했다. 한]]></content:encoded>
+            <title><![CDATA['연인' 남궁민, 포로 된 안은진 구할까…숨멎엔딩에 시청률 9.3% (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20231015074107667</link>
+            <guid>https://v.daum.net/v/20231015074107667</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:41 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 강다윤 기자] 이장현(남궁민)이 또 한 번 유길채(안은진)를 구해낼 수 있을까. 15일 시청률 조사회사 닐슨코리아에 따르면 14일 방송된 MBC 금토드라마 '연인'(극본 황진영 연출 김성용 이한준 천수진) 12회는 수도권 기준 9.5%, 전국 기준 9.3%의 시청률을 기록했다. 이는 전 회 대비 각각 1.6%P, 2%P 상승한 수치이다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['7인의 탈출' 이덕화 살아있었다..황정음→이유비 앞에서 사망 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20231014232746923</link>
-            <guid>https://v.daum.net/v/20231014232746923</guid>
-            <pubDate>Sat, 14 Oct 2023 17:05:21 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 안윤지 기자] /사진=SBS '7인의 탈출' 방송 캡처'7인의 탈출' 배우 이덕화가 5년간 다른 사람의 이름을 빌려 살아있었지만, 정라엘의 시체를 찾고 폭탄이 터져 사망했다. 14일 방송된 SBS 금토드라마 '7인의 탈출'에서는 방칠성(이덕화 분)이 살아있음을 알게된 7인이 반격을 시작했다. 금라희와 계약이 끊어질 위기에 놓인 한모네는]]></content:encoded>
+            <title><![CDATA[김도연 사채 떠안은 유이, 협박에 무릎 꿇고 애원 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20231015074002654</link>
+            <guid>https://v.daum.net/v/20231015074002654</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:41 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=강민경 기자] 유이가 결국 동생 김도연의 사채까지 떠안았다. 14일 방송된 KBS2 주말드라마 '효심이네&nbsp;각자도생' 6회에서 효심(유이 역)은 막내 효도(김도연 역)가 저지른 사고 뒷수습을&nbsp;하느라 여념이 없었다. 교통사고를 당한 명희(정영숙 역)를 밤새 간호하느라 체력적으로도 매우 지쳐있었다. 태호(하준&nbsp;역)와의 새벽 PT에 신경을 써주지 못]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['7인의 탈출' 이덕화, 정라엘 교복 입은 유골 찾고 절규→K 계략에 빠져 폭사 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20231014232001911</link>
-            <guid>https://v.daum.net/v/20231014232001911</guid>
-            <pubDate>Sat, 14 Oct 2023 17:05:21 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=이혜미 기자] 지난 5년간 교도소에서 엄기준을 도왔던 이덕화가 결국 폭탄에 의해 목숨을 잃었다. 14일 SBS ‘7인의 탈출’에선 K의 계략에 빠진 칠성(이덕화 분)의 사망이 그려졌다. 이날 라희(황정음 분)는 도혁(이준 분)을 비롯한 악인들이 모인 자리에서 칠성의 생존 소식을 알렸다. 이어 칠성과 휘소가 교도소에서 바꿔치기 됐을 거라며 “방]]></content:encoded>
+            <title><![CDATA['7인의 탈출' 이덕화, 복수 위해 사망…엄기준, 거대 배후 노린 핏빛 설계 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20231015072704526</link>
+            <guid>https://v.daum.net/v/20231015072704526</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:41 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 강다윤 기자] '역시 김순옥 표' 매운맛 복수극이 펼쳐졌다. 14일 방송된 SBS 금토드라마 '7인의 탈출(극본 김순옥 연출 주동민 오준혁) 8회 시청률은 전국과 수도권 모두 6.5%(닐슨코리아 기준)를 기록했다. 순간 최고 시청률은 8.6%까지 치솟았다. 이날 매튜 리의 진짜 계획이 드러났다. 악인들을 이용해 숨겨진 거대 배후를 잡는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이준, 엄기준과 한패 ‘반전’→정라엘 시신과 함께 이덕화 사망 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20231014231628893</link>
-            <guid>https://v.daum.net/v/20231014231628893</guid>
-            <pubDate>Sat, 14 Oct 2023 17:05:21 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박하영 기자] ‘7인의 탈출’ 이덕화가 정라엘 시신과 함께 죽음을 맞이했다. 14일 방송된 SBS 금토드라마 ‘7인의 탈출’에서는 방칠성(이덕화 분)과 이휘소(민영기 분)가 바꿔치기 된 사실을 알게 된 7인의 모습이 그려졌다. 앞서 금라희는 한모네와 재계약을 하지 않겠다고 통보했고, 집에서 내쫓으려고도 했다. 뿐만 아니라 한모네의 스케줄은 모]]></content:encoded>
+            <title><![CDATA[엄기준, K 김도훈에 섬뜩 경고장 받았다…이덕화 사망 최고 8.6% (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20231015072401519</link>
+            <guid>https://v.daum.net/v/20231015072401519</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:41 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=강민경 기자] 엄기준이 '미스터리 K'의 경고장을 받았다. 14일 방송된 SBS 금토드라마 '7인의 탈출' 8회에서는 단죄자 매튜 리(엄기준 역)와 7인의 악인들이 반격과 역습을 거듭하며 예측 불가의 싸움을 펼쳤다. 서로의 약점을 쥔 악인들은 위기를 모면하기 위해 다시 교묘한 연대를 이어갔다. 방칠성(이덕화 역)이 이휘소(민영기 역)를 대신해]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['특별출연' 박보영, ♥박형식과 결혼 후 출산까지···닭살 부부 근황은 경찰서 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20231014231613891</link>
-            <guid>https://v.daum.net/v/20231014231613891</guid>
-            <pubDate>Sat, 14 Oct 2023 17:05:21 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=오세진 기자] ‘힘쎈여자 강남순’ 박보영과 박형식이 극이 끝나고 난 후 여전히 행복한 모습을 보이고 살아갔다. 14일 방영한 JTBC&nbsp;토일드라마&nbsp;‘힘쎈여자 강남순’(극본 백미경,&nbsp;연출 김정식·이경식,&nbsp;제작 바른손씨앤씨·스토리피닉스·SLL)에서는 '힘쎈여자 도봉순'에서 등장했던 도봉순(박보영 분)과 안민혁(박형식 분)의 모습이 그려졌다. 경찰서]]></content:encoded>
+            <title><![CDATA['연인' 남궁민, 자신 거절한 안은진에 "눈길 안줄 것" 다짐 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20231015064501257</link>
+            <guid>https://v.daum.net/v/20231015064501257</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:41 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 정은채 기자] /사진='연인' 방송화면 캡쳐'연인' 배우 남궁민이 안은진을 잊기 위해 다짐했다. 14일 방송된 MBC 금토드라마 '연인'에서는 유재석과 하하가 카메오로 깜짝 출연했다. 이날 유재석과 하하는 소 없이 쟁기를 매고 일하는 포로 농민의 모습을 연기했다. 쟁기를 맨 유재석은 하하에게 "좀 밀어라. 아침 처 먹은 건 똥으로 다 싸버]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['강남순' 박보영♥박형식, 특별출연 "결혼+육아"로 닭살 부부 연기 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20231014230954844</link>
-            <guid>https://v.daum.net/v/20231014230954844</guid>
-            <pubDate>Sat, 14 Oct 2023 17:05:21 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=오세진 기자] ‘힘쎈여자 강남순’ 박형식과 박보영이 특별출연했다. 14일 방영한 JTBC&nbsp;토일드라마&nbsp;‘힘쎈여자 강남순’(극본 백미경,&nbsp;연출 김정식·이경식,&nbsp;제작 바른손씨앤씨·스토리피닉스·SLL)에서는 '힘쎈여자 도봉순'에서 나왔던 도봉순(박보영 분)과 안민혁(박형식 분)이 등장했다. 길중간(김해숙 분)은 건방진 조폭을 경고를 했다가 경찰서에]]></content:encoded>
+            <title><![CDATA[고주원, 유이에 무릎 꿇고 박력 고백 “이런 얼굴 속상해” (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20231015064020224</link>
+            <guid>https://v.daum.net/v/20231015064020224</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:41 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=임혜영 기자] 고주원이 유이를 향한 직진 고백을 이어갔다. 지난 14일 방송된 KBS 2TV 주말드라마 '효심이네 각자도생'(연출 김형일, 극본 조정선, 제작 아크미디어)에서는 이효심(유이 분)이 가족의 빚을 떠안고 사채업자에게 폭행까지 당하는 모습이 그려졌다. 이효심은 사채업자에게 끌려서 폭행을 당한 후에도 강태민(고주원 분)을 만나기 위해]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['연인' 남궁민, 이청아에 쫓기는 안은진 발견…유재석X하하 특별출연 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20231014230001775</link>
-            <guid>https://v.daum.net/v/20231014230001775</guid>
-            <pubDate>Sat, 14 Oct 2023 14:03:20 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=장우영 기자] ‘연인’ 이청아에 쫓기는 안은진을 구하기 위해 남궁민이 등판했다. 14일 방송된 MBC 금토드라마 ‘연인’ 파트2(극본 황진영, 연출 김성용 이한준 천수진)에서는 유길채(안은진)가 포로시장으로 끌려가는 모습이 그려졌다. 유길채와 종종이(박정연)이 포로가 되어 청나라로 끌려간 가운데 조선에서는 두 사람을 찾고자 하는 노력이 이어졌]]></content:encoded>
+            <title><![CDATA[김정은, 이유미 위해 몸 날렸다···모녀 재회→박형식♥박보영 특출 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20231015062937138</link>
+            <guid>https://v.daum.net/v/20231015062937138</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:42 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=오세진 기자] ‘힘쎈여자 강남순’ 이유미와 김정은의 상봉이 그려졌다. 14일 방영한 JTBC&nbsp;토일드라마&nbsp;‘힘쎈여자 강남순’(극본 백미경,&nbsp;연출 김정식·이경식,&nbsp;제작 바른손씨앤씨·스토리피닉스·SLL)에서는 엄마를 찾아온 강남순(이유미 분)과 친딸을 찾아 헤매는 황금주(김정은 분)의 모습이 그려졌다. 강한 힘과 좋은 머리를 통해 부를 축적한 황금]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[남궁민, 안은진 눈 앞에 두고 엇갈렸다…지승현, 혈서에 '오열' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20231014225720764</link>
-            <guid>https://v.daum.net/v/20231014225720764</guid>
-            <pubDate>Sat, 14 Oct 2023 14:03:20 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 신현지 기자) 남궁민이 안은진을 바로 앞에 두고 엇갈렸다. 14일 방송된 MBC 금토드라마 '연인' 12회에서는 유길채(안은진 분)가 종종이(박정연)와 청나라 병사들에게 납치되어 포로로 끌려가는 장면이 전파를 탔다. 유길채는 정신을 잃으려고 하는 종종이를 깨워가며 청나라로 향했다. 구원무(지승현)는 유길채가 사라졌던 것이 이번이 처음이 아니라]]></content:encoded>
+            <title><![CDATA[이준, 알고보니 ‘엄기준 스파이’→이덕화, 복수 위해 죽음 택했다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20231015062923134</link>
+            <guid>https://v.daum.net/v/20231015062923134</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:42 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박하영 기자] ‘7인의 탈출’ 이준이 엄기준의 스파이로 드러난 가운데 이덕화가 K 계략에 사망했다. 14일 방송된 SBS 금토드라마 ‘7인의 탈출’에서는 민도혁(이준 분)이 매튜리(엄기준 분)과 공조하는 모습이 그려졌다. 앞서 한모네는 금라희(황정음 분)로부터 재계약 해지 통보와 함께 모든 스케줄이 취소 되는 등 연예계 퇴출 위기에 놓였다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘아라문의 검’ 장동건, 이준기 쌍둥이 알아보고 패닉 ‘음문석 죽음’ (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20231014225557758</link>
-            <guid>https://v.daum.net/v/20231014225557758</guid>
-            <pubDate>Sat, 14 Oct 2023 14:03:20 GMT</pubDate>
-            <content:encoded><![CDATA[장동건이 이준기 쌍둥이를 알아보고 경악했고, 음문석이 죽음을 맞았다. 10월 14일 연속 방송된 tvN 토일드라마 ‘아라문의 검’ 9회(극본 김영현 박상연/연출 김광식)에서는 타곤(장동건 분)이 사야(이준기 분) 살해 후 쌍둥이 은섬(이준기 분)과 마주하고 경악했다. 눈별(이시우 분)은 타곤을 살해해 부모의 복수를 하려 했지만 타곤의 아들 아록(신서우]]></content:encoded>
+            <title><![CDATA[2023 최고 사극은?..'연인' 이어 '혼례대첩'→'고려 거란 전쟁' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20231015061501074</link>
+            <guid>https://v.daum.net/v/20231015061501074</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:42 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 이경호 기자] MBC 금토드라마 '연인', KBS 2TV 월화드라마 '혼례대첩', KBS 2TV 대하 사극 '고려 거란 전쟁'./사진=MBC '연인', KBS 2TV '혼례대첩'-'고려 거란 전쟁'"사극 끝나면 또 사극!" 단풍이 무르익고 있는 가을 안방극장에 '사극 열풍'이 기대되고 있다. 이번엔 KBS다. 하반기 안방극장에는 MBC]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['연인' 감독 PICK…유재석, 예능神인데 연기도 잘하는 유느님 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20231015043124500</link>
-            <guid>https://v.daum.net/v/20231015043124500</guid>
-            <pubDate>Sat, 14 Oct 2023 20:07:49 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=장우영 기자] ‘놀면 뭐하니?’ 유재석의 능력치는 어디까지일까. ‘이산’으로 다져진 사극 내공이 ‘연인’에서도 빛났다. 14일 방송된 MBC ‘놀면 뭐하니?’에서는 드라마 ‘연인’에 특별출연 하는 유재석, 하하, 주우재, 이이경, 박진주, 이미주 등의 모습이 그려졌다. 이른 아침부터 촬영장에 도착한 유재석은 제작진으로부터 접이식 의자와 양산을]]></content:encoded>
+            <title><![CDATA['놀토' 임영웅, 대체 못 하는 게 뭐야···의리+예능감+노래까지 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20231015080224850</link>
+            <guid>https://v.daum.net/v/20231015080224850</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:47 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=오세진 기자] ‘놀라운 토요일' 가수 임영웅은 예능감도 '영웅'이었다. 14일 방영된 tvN 예능 ‘놀라운 토요일’(이하 '놀토')에서는 임영웅의 단독 출연이 이루어졌다.&nbsp;오직 목소리 하나로 크나큰 위로와 응원을 전하는,&nbsp;한계 없는 1위를 경신하는 임영웅은 겸손한 모습으로 나타나 은은한 웃음을 안겼다. 붐은 임영웅 섭외에 있어 자신의 몫이 컸]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[서정희 “故 서세원에 동등한 대우 못 받아봤지만 허물 덮기 위해 노력” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20231015011310295</link>
-            <guid>https://v.daum.net/v/20231015011310295</guid>
-            <pubDate>Sat, 14 Oct 2023 17:05:26 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 임유리 기자] 서정희가 전 남편인 故 서세원에게 동등한 대우를 못 받아봤다고 밝혔다. 14일 방송된 종합편성채널 MBN 예능 프로그램 ‘속풀이쇼 동치미’에서는 서정희가 결혼생활에 대한 생각을 밝혔다. 이날 서정희는 “나는 결혼생활은 그런 거라고 생각했다. 남녀 사이에 당연히 을이 있어야 되고 사랑은 모든 허다한 죄를 덮는다고 생각했다”라]]></content:encoded>
+            <title><![CDATA[홍현희, 유병재 여친 존재 의심.."큐빅 박힌 머리끈 발견..달라 보여" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20231015080023805</link>
+            <guid>https://v.daum.net/v/20231015080023805</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:47 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박하영 기자] ‘전지적 참견 시점’ 홍현희가 유병재의 열애를 추궁했다. 14일 방송된 MBC 예능 ‘전지적 참견 시점’(이하 ‘전참시’)에서는&nbsp;홍현희가 아들 준범이와 함께 유병재 집을 방문한 가운데 여자 머리핀을 발견하는 모습이 그려졌다. 이날 홍현희는 “우리 애 카메라 잡아 먹을 가망이 좀 있나요?”라며 기대감을 드러냈다. 무엇보다 홍현희는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘재혼 1년 차’ 선우은숙, ♥유영재 외도한다면? “내 행복 위해 헤어질 것” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20231015010511284</link>
-            <guid>https://v.daum.net/v/20231015010511284</guid>
-            <pubDate>Sat, 14 Oct 2023 17:05:26 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 임유리 기자] 배우 선우은숙이 남편 유영재가 외도를 한다면 헤어질 것이라고 밝혔다. 14일 방송된 종합편성채널 MBN 예능 프로그램 ‘속풀이쇼 동치미’에서는 배우자의 바람기를 주제로 이야기를 나눴다. 이날 개그맨 최홍림은 선우은숙에게 “누나 나 궁금한 게 하나 있다”라며, “영재 형을 보면 100% 바람기가 있는 사람이다. 이거는 내가]]></content:encoded>
+            <title><![CDATA[김세환 "송대관, 신인상 내가 받으니 화냈다…통기타 때문이라고" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20231015080004774</link>
+            <guid>https://v.daum.net/v/20231015080004774</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:47 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 신현지 기자) 김세환이 송대관을 제치고 신인 가수상을 받은 일화를 전했다. 14일 방송된 KBS 2TV 예능 프로그램 '불후의 명곡'에서는 '아티스트 윤형주&amp;김세환' 특집으로 윤형주, 김세환, Fortena, 이솔로몬, 에일리, 마독스, 김용필, 신승태, 배너, 유리상자, 나상현씨밴드, 육중완밴드가 게스트로 출연했다. 이날 김세환은 "제가 7]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[서정희 “故 서세원 내연녀, 내가 교회 전도한 지인이었다” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20231015005310249</link>
-            <guid>https://v.daum.net/v/20231015005310249</guid>
-            <pubDate>Sat, 14 Oct 2023 17:05:26 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 임유리 기자] 서정희가 전남편 故 서세원의 내연녀가 지인이었다고 털어놨다. 14일 방송된 종합편성채널 MBN 예능 프로그램 ‘속풀이쇼 동치미’에서는 배우자의 바람기 때문에 상처받았던 경험에 대해 이야기를 나눴다. 이날 서정희는 “나는 남편 휴대폰을 결혼 생활하면서 한 번도 본 적이 없다. 나는 그런 게 궁금하지도 않았다. 그랬는데 그날]]></content:encoded>
+            <title><![CDATA[주윤발 된 박나래, 임영웅 앞 매력 어필 "가깝게 다가가고 싶었다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20231015074702718</link>
+            <guid>https://v.daum.net/v/20231015074702718</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:47 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=강민경 기자] 개그우먼 박나래가 임영웅에게 매력을 어필했다. 박나래는 14일 방송된 tvN '놀라운 토요일-토요일은 영웅시대(이하 놀토)' 특집에서 '영웅본색' 주윤발을 나래본색으로 소화, 몸을 사리지 않는 연기력을 보이며 오프닝부터 유머 가득한 예능감을 자랑했다. 이날 방송에서 박나래는 단독 게스트 임영웅과 함께 '놀토' 최초 토크쇼 '웅]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["엑소가 내 정체성"…캐스퍼, 찬열X세훈에 진심 고백 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20231015004033206</link>
-            <guid>https://v.daum.net/v/20231015004033206</guid>
-            <pubDate>Sat, 14 Oct 2023 17:05:26 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이이진 기자) 안무가 캐스퍼가 그룹 엑소를 향한 애정을 과시했다. 14일 방송된 KBS 2TV '살림하는 남자들 시즌2'(이하 '살림남2')에서는 캐스퍼가 엑소 멤버들을 향한 고마움을 드러낸 장면이 전파를 탔다. 이날 찬열은 맹장 수술을 한 캐스퍼를 위해 초호화 캠핑을 준비했다. 찬열은 "어쩌다 맹장 수술을 한 거냐"라며 질문했고, 캐스퍼는]]></content:encoded>
+            <title><![CDATA[박나래, 임영웅에 통아저씨 개인기 “가깝게 다가가고 싶었다” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20231015073245592</link>
+            <guid>https://v.daum.net/v/20231015073245592</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:47 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=강서정 기자] 개그우먼 박나래가 넘치는 매력으로 토요일 저녁을 꽉 채웠다. 박나래는 지난 14일 방송된 tvN ‘놀라운 토요일-토요일은 영웅시대’ 특집에서 ‘영웅본색’의 주윤발을 ‘나래본색’으로 완벽 소화, 몸을 사리지 않는 연기력을 보이며 오프닝부터 유머 가득한 예능감을 자랑했다. 이날 방송에서 박나래는 단독 게스트 임영웅과 함께 ‘놀토’]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이국주, 여고생 이효리 시절 공개 “원더걸스 선예도 내 팬” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20231015003819204</link>
-            <guid>https://v.daum.net/v/20231015003819204</guid>
-            <pubDate>Sat, 14 Oct 2023 17:05:26 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 개그우먼 이국주가 이효리로 통하던 시절을 공개했다. 10월 14일 방송된 MBC 예능 '전지적 참견 시점'(이하 '전참시') 268회에서는 이국주가 고등학교 시절의 인기를 자랑했다. 이날 학교 앞 떡볶이를 먹으러 간 이국주는 "내가 학교 다닐 땐 작았다. 개그맨 되고 나서 커진 것"이라며 추억에 젖었다. "진정한 볼빨간 사춘기]]></content:encoded>
+            <title><![CDATA["의리 지켰다"…임영웅, 태연 향한 "누이" 발언까지 '마성의 히어로' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20231015072006501</link>
+            <guid>https://v.daum.net/v/20231015072006501</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:47 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 명희숙 기자) 가수 임영웅이 남다른 예능감을 유감없이 발산했다.&nbsp; 14일 방송된 tvN '놀라운 토요일'에서는 임영웅이 게스트로 출연했다. 임영웅은 "즐겨보는 프로그램인데 애정하는 붐 형님이 있어서 나왔다. 너무 보고 싶었다"고 했다.&nbsp; 특히 임영웅은 붐에게 "갚을 게 있다"며 '놀토'에 출연했다고 밝혀 눈길을 끌었다. 그는 붐 형님 결혼하실]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“유병재, 달라 보여” 홍현희, 女 곱창 머리끈 발견→열애 추궁 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20231015003514187</link>
-            <guid>https://v.daum.net/v/20231015003514187</guid>
-            <pubDate>Sat, 14 Oct 2023 17:05:26 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박하영 기자] ‘전지적 참견 시점’ 홍현희가 유병재 화장실에서 여자 머리끈과 머리핀을 발견하곤 열애를 의심했다.&nbsp; 14일 방송된 MBC 예능 ‘전지적 참견 시점’(이하 ‘전참시’)에서는&nbsp;홍현희와 아들 준범이가 조나단과 함께 유병재 집을 방문한 모습이 그려졌다. 이날 홍현희는 아들 준범이와 동반 화보 촬영을 끝내고, 홍현희는 매니저와 함께 유병]]></content:encoded>
+            <title><![CDATA[임영웅, 붐 결혼식 축가 못 부른 마음의 빚 갚았다 "이제야 조금" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20231015071501482</link>
+            <guid>https://v.daum.net/v/20231015071501482</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:47 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=강민경 기자] 가수 임영웅이 '놀라운 토요일' 출연 이유에 대해 MC 붐이라고 말했다. 14일 방송된 tvN '놀라운 토요일(이하 놀토)'에는 가수 임영웅이 게스트로 출연했다. 이날 방송에서 MC 붐은 "옆자리를 봐라. 지금 한 자리가 비어있다. 단독 게스트를 모셨다. 워낙 친한 사이라서 직접 마중을 나가 반기도록 하겠다. 제 의상도 그가]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['전참시' 유병재, 여친 존재 의심한 홍현희에 "기분 좋아" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20231015003134176</link>
-            <guid>https://v.daum.net/v/20231015003134176</guid>
-            <pubDate>Sat, 14 Oct 2023 17:05:26 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 정은채 기자] /사진='전지적참견시점' 방송화면 캡쳐'전지적 참견 시점'에서 홍현희가 유병재 여친의 존재를 의심했다. 7일 방송된 MBC '전지적 참견 시점' 267회에서는 가수 이석훈이 참견인으로 출연했다. 이날 홍현희는 아들 준범과 함께 화보 촬영을 마치고 조나단과 유병재가 함께 있는 유병재의 집에 방문했다. 그러면서 유병재가 준범이의]]></content:encoded>
+            <title><![CDATA[유재석 "남궁민♥안은진 밀밭 키스신 너무 슬퍼" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20231015071002454</link>
+            <guid>https://v.daum.net/v/20231015071002454</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:47 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이이진 기자) 방송인 유재석이 배우 안은진에게 드라마 '연인'의 열혈 시청자임을 밝혔다. 14일 방송된 MBC '놀면 뭐하니?'(이하 '놀뭐')에서는 '놀뭐X연인' 특집으로 꾸며진 가운데 멤버들이 드라마 '연인'에 출연한 장면이 전파를 탔다. 이날 유재석, 하하, 주우재, 이이경, 박진주, 미주는 드라마 '연인'에 출연하게 됐다. 김성용 감독]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['놀토' 임영웅, 예능감끼지 영웅이네 "붐 결혼식 축가 못해줘서 출연" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20231015003028172</link>
-            <guid>https://v.daum.net/v/20231015003028172</guid>
-            <pubDate>Sat, 14 Oct 2023 17:05:26 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=오세진 기자] ‘놀라운 토요일' 가수 임영웅이 예능감까지 갖춘 모습으로 스튜디오를 사로잡았다. 14일 방영된 tvN 예능 ‘놀라운 토요일’(이하 '놀토')에서는 임영웅의 단독 출연이 이루어졌다. 이에 대해 붐은 꽤 뿌듯한 표정을 지었다. 임영웅과 친분이 있는 붐이 섭외에 일조를 했다는 것. 임영웅은 “원래 제가 애정하는 프로그램인데, 정말 애]]></content:encoded>
+            <title><![CDATA[히어로 '놀토' 떴다!…임영웅 "붐 형 없었으면 안 나왔냐고? YES, 도움 되고팠다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20231015070808440</link>
+            <guid>https://v.daum.net/v/20231015070808440</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:47 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] 가수 임영웅이 '놀라운 토요일'에 떴다. 14일 방송된 케이블채널 tvN '놀라운 토요일'에는 신곡 '두 오어 다이(Do or Die)'로 돌아온 임영웅이 단독 출연했다. "안녕하세요. '놀토' 가족 여러분. 임영웅입니다. 오늘 재밌게 즐기다 가겠습니다"라며 첫 인사 건넨 임영웅은 MC 붐이 "'놀토'에 출연한 이유"를 묻자]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[엑소 세훈 “혼자 의성 가서 캐스퍼 父 만났다” 즉석 영상통화까지 ‘훈훈’ (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20231015001707128</link>
-            <guid>https://v.daum.net/v/20231015001707128</guid>
-            <pubDate>Sat, 14 Oct 2023 17:05:26 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 임유리 기자] 그룹 엑소(EXO)의 세훈이 캐스퍼 없이 혼자 캐스퍼의 아버지를 찾아간 적이 있다고 밝혔다. 14일 오후 방송된 KBS 2TV ‘살림하는 남자들 시즌2’에서는 엑소 찬열이 맹장 수술을 한 캐스퍼를 데리고 캠핑에 나섰다. 이날 찬열과 캠핑을 즐기던 중 엑소 세훈이 서프라이즈로 등장해 캐스퍼를 깜짝 놀라게 만들었다. 놀란 캐]]></content:encoded>
+            <title><![CDATA[예능감 장착한 히어로...‘놀토’ 임영웅, 특유의 친화력 폭발 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20231015064800277</link>
+            <guid>https://v.daum.net/v/20231015064800277</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:47 GMT</pubDate>
+            <content:encoded><![CDATA[가수 임영웅이 ‘놀라운 토요일’ 첫 출연에 남다른 예능감을 뽐냈다. 14일 방송된 tvN ‘놀라운 토요일’에 임영웅이 게스트로 출연했다. 이날 뜨거운 환호와 함께 등장한 임영웅은 “즐겨보는 프로그램이다”라며 “애정하는 붐 형님이 있어서 나왔다”라고 ‘놀토’ 출연 이유를 밝혔다. 임영웅은 특유의 친화력으로 동갑인 샤이니 키와 즉석에서 친구가 되어 말을 놓거나]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[홍현희, 유병재 집에서 女 머리핀 발견…"조금 달라 보여" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20231015001119113</link>
-            <guid>https://v.daum.net/v/20231015001119113</guid>
-            <pubDate>Sat, 14 Oct 2023 17:05:26 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 신현지 기자) 홍현희가 유병재의 집에서 여자 머리끈과 머리핀을 발견했다. 14일 방송된 MBC 예능 프로그램 '전지적 참견 시점'(이하 '전참시')에는 홍현희가 준범을 데리고 유병재, 조나단을 만나러 가는 장면이 전파를 탔다. 이날 조나단은 나이 차이가 많이 나는 동생이 있는 만큼, '육아 고수'의 면모를 자랑했다. 조나단은 "준범이가 이걸]]></content:encoded>
+            <title><![CDATA[이국주 “여고시절 이효리..원더걸스 선예=내 팬”, 과거 영상 대방출 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20231015063925219</link>
+            <guid>https://v.daum.net/v/20231015063925219</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:47 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박하영 기자] ‘전지적 참견 시점’ 이국주가 여고 시절 이효리를 인증했다.&nbsp; 14일 방송된 MBC 예능 ‘전지적 참견 시점’(이하 ‘전참시’)에서는&nbsp;이국주가 핫했던 학창시절 모습을 공개하는 모습이 그려졌다. 이날 이국주와 이상수 매니저는 각각 키우는 반려견 바비와 꼬기라는 이름의 말티푸를 스케줄 가기전 강아지 유치원에 맡겼다. 반려견을 맡긴]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[찬열, 맹장 수술한 캐스퍼 위해 천만 원짜리 초호화 캠핑 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20231015001058111</link>
-            <guid>https://v.daum.net/v/20231015001058111</guid>
-            <pubDate>Sat, 14 Oct 2023 17:05:26 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이이진 기자) 엑소(EXO) 찬열이 안무가 캐스퍼를 위해 초호화 캠핑을 준비했다. 14일 방송된 KBS 2TV '살림하는 남자들 시즌2'(이하 '살림남2')에서는 캐스퍼가 찬열을 따라 캠핑을 떠난 장면이 전파를 탔다. 이날 찬열은 캐스퍼의 지인으로 등장했고, "캐스퍼의 10년 차 친구이자 엑소의 멤버 찬열이다"라며 자신을 소개했다. 찬열은 가]]></content:encoded>
+            <title><![CDATA[‘살림남2’ 엑소 찬열, 천만 원 럭셔리 캠핑 장비→ ‘월 수입 7천’ 캐스퍼도 감탄 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20231015063917218</link>
+            <guid>https://v.daum.net/v/20231015063917218</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:47 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=임혜영 기자] 엑소의 찬열이 럭셔리한 캠핑 장비를 공개했다. 지난 14일 방송된 KBS 2TV ‘살림하는 남자들2’(이하 살림남2)에서는 엑소와 함께한 안무가 캐스퍼의 일상이 공개되었다. 캐스퍼는 최근 맹장 수수를 받은 근황을 공개했다. 이에 찬열이 캐스퍼의 근황을 살피려 집에 방문했고 함께 캠핑을 가자고 나섰다. 캐스퍼는 캠핑 장비가 있냐고]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['전참시' 유병재 "나 보고 웃어준 조카 無..수염 때문" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20231015000927106</link>
-            <guid>https://v.daum.net/v/20231015000927106</guid>
-            <pubDate>Sat, 14 Oct 2023 17:05:26 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 정은채 기자] /사진='전지적참견시점' 방송화면 캡쳐'전지적 참견 시점'에서 유병재가 자신의 수염을 탓했다. 7일 방송된 MBC '전지적 참견 시점' 267회에서는 가수 이석훈이 참견인으로 출연했다. 이날 홍현희는 아들 준범과 함께 화보 촬영을 마치고 조나단과 유병재가 함께 있는 유병재의 집에 방문했다. 그러면서 유병재가 준범이의 돌잔치]]></content:encoded>
+            <title><![CDATA[의리남 임영웅, 감미로운 젝키+강남에 노래까지 선보여 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20231015063018162</link>
+            <guid>https://v.daum.net/v/20231015063018162</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:47 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=오세진 기자] ‘놀라운 토요일' 임영웅이 남다른 예능감으로 단독 출연을 성공적으로 끝마쳤다. 14일 방영된 tvN 예능 ‘놀라운 토요일’(이하 '놀토')에서는&nbsp;이번에 몽환적인 새로운 콘셉트로 컴백을 한 임영웅의 등장했다. 무려 단독 출연으로, '놀토' 제작진이 임영웅에게 얼마나 공을 들였는지 알 수 있었다. 이에 대한 생색은 붐이 가장 많이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['연인' 보조출연 도전한 유재석, 사극이 체질? '장현 도령' 남궁민도 연기력에 깜짝 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20231015000810099</link>
-            <guid>https://v.daum.net/v/20231015000810099</guid>
-            <pubDate>Sat, 14 Oct 2023 17:05:26 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 양유진 기자] '놀면 뭐하니?'와 '연인'의 협업이 이뤄졌다. 14일 방송된 MBC '놀면 뭐하니?'에서는 유재석, 하하, 주우재, 박진주, 이이경, 이미주가 MBC 드라마 '연인' 보조 출연에 도전했다. '연인'은 병자호란을 겪으며 엇갈리는 연인들의 사랑과 백성들의 생명력을 다룬 로맨스 사극이다. 유재석, 하하에 이어 촬영장에 도착한 박]]></content:encoded>
+            <title><![CDATA['1박 2일' 딘딘, 난쟁이 찾기 위한 쫓고 쫓기는 숨 막히는 추격전 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20231015060539024</link>
+            <guid>https://v.daum.net/v/20231015060539024</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:47 GMT</pubDate>
+            <content:encoded><![CDATA[‘1박 2일’ 여섯 남자들이 끔찍한 저주를 풀기 위한 난쟁이 찾기 대소동을 벌인다. 15일 오후 6시 15분 방송되는 KBS2 ‘1박 2일 시즌4’(이하 ‘1박 2일’) ‘가을동화’ 특집에서는 강원도 태백에 위치한 한 탄광에 도착한 멤버들의 모습이 그려진다. 여섯 남자에게 탄광 하면 떠오르는 동화 속 인물인 ‘일곱 난쟁이’가 이곳에 숨어있다는 소식이 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[엑소 찬열, 캠핑 장비 비용만 천만 원? “위시리스트 다 담았더니…” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20231015000507092</link>
-            <guid>https://v.daum.net/v/20231015000507092</guid>
-            <pubDate>Sat, 14 Oct 2023 17:05:26 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 임유리 기자] 그룹 엑소(EXO)의 찬열이 캠핑 장비에 천만 원을 플렉스했다고 밝혔다. 14일 오후 방송된 KBS 2TV ‘살림하는 남자들 시즌2’에서는 엑소 찬열이 맹장 수술 후 쉬고 있는 안무가 캐스퍼의 병문안을 가는 모습이 그려졌다. 이날 캐스퍼의 집을 찾은 찬열은 “오늘 원래 놀러 나가려고 그랬는데 놀러 나갈 수가 없을 거 같은데]]></content:encoded>
+            <title><![CDATA['돌싱4' 리키♥하림, "허니문 단계 지났어" 아슬아슬…5MC 진땀 뻘뻘 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20231015060206989</link>
+            <guid>https://v.daum.net/v/20231015060206989</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:47 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 박서연 기자] ‘돌싱글즈4’ 리키♥하림 커플이 최종 선택을 코앞에 두고 아슬아슬한 대화를 이어나가 긴장감을 유발한다. 15일 밤 10시 방송되는 종합편성채널 MBN ‘돌싱글즈4 IN U.S.A’(이하 ‘돌싱글즈4’) 13회에서는 전날 밤 하림의 ‘X(전 남편)’과 우연히 마주친 후, 오랜만에 ‘세 아이 육아’에서 벗어나게 된 리키♥하림 커]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['발레리나' 이충현 감독, "넷플릭스도 좋지만, 극장용 영화 언젠가 꼭 하고 싶죠" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+            <link>https://v.daum.net/v/20231015080101824</link>
+            <guid>https://v.daum.net/v/20231015080101824</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:52 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=이하늘 기자] 1990년생 이충현은 충무로의 블루칩으로서 감각적인 이미지와 장르를 확장하는, 앞으로가 더 주목되는 감독이다. 14분가량의 단편영화 '몸값'으로 눈도장을 찍으며 단번에 2020년 넷플릭스 영화 '콜'로 데뷔하기도 했다. 서사의 층이 얇다는 평가도 있지만, 겹겹이 이미지를 쌓으며 자신만의 영화를 만들어가는 중이다. '잘생긴 감독']]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[배우의 논란이 작품에 미치는 영향 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+            <link>https://v.daum.net/v/20231015070003328</link>
+            <guid>https://v.daum.net/v/20231015070003328</guid>
+            <pubDate>Sat, 14 Oct 2023 23:06:52 GMT</pubDate>
+            <content:encoded><![CDATA[최근 몇 년간, 연예계의 숙제 중 하나는 카메라 밖에 배우들의 사생활에서 불거진 각종 논란이다. 이러한 논란은 대중이 작품 속 캐릭터가 아닌, 배우의 논란이 집중하게 돼 작품에 몰입하는 걸 어렵게 만든다. 최근에는 혜성같이 등장한 배우 최현욱이 논란의 중심이 돼 출연 중인 작품에 민폐를 끼쳤다. 최근 한 온라인 커뮤니티에는 "압구정 로데오 배우 최현욱]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["핼러윈을 부탁해"…공포 영화, 줄줄이 개봉 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
@@ -1952,20 +1982,6 @@
             <guid>https://v.daum.net/v/20231014094949561</guid>
             <pubDate>Sat, 14 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[즐기는 ‘오정세’를 이길 자 누구일까. 배우에게 필요한 덕목 ‘연기력’은 물론이고, 겸손함과 노력까지 갖춘 그에겐, 막힘이란 없다. “배우로서 지키고자 하는 초심은 바로 ‘즐겨야지’라는 생각이에요. 연기를 일처럼 생각지 않고 즐기려고 시작한 거니, 즐겁게 해야죠. 물론 그 안에서도 스트레스가 있겠지만 그걸 품으면서 최대한 즐기며 연기하려고 생각하고 있]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[소통과 교류... 부산국제영화제 폐막작 핵심 키워드 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-            <link>https://v.daum.net/v/20231014090601048</link>
-            <guid>https://v.daum.net/v/20231014090601048</guid>
-            <pubDate>Sat, 14 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[조영준 기자] 13일 오전, 제28회 부산국제영화제(BIFF) 상영작 &lt;영화의 황제&gt;의 기자회견이 부산광역시 해운대구에 위치한 KNN시어터에서 진행됐다. 이 작품은 제11회 부산국제영화제 폐막작이었던 &lt;크레이지 스톤&gt;을 연출한 닝하오 감독의 신작으로, 17년 만에 다시 영화제의 폐막작으로 선정되며 남다른 의미를 가지게 되었다. 이 자리에는 닝하오 감독과]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[강하늘·정소민 '30일' 11일 연속 1위…'천박사' 180만 돌파 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-            <link>https://v.daum.net/v/20231014084902808</link>
-            <guid>https://v.daum.net/v/20231014084902808</guid>
-            <pubDate>Sat, 14 Oct 2023 00:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=뉴스1) 안태현 기자 = 영화 '30일'(감독 남대중)이 개봉 11일째 박스오피스 1위 자리를 지켰다. 14일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '30일'은 지난 13일 하루 동안 5만8531명을 동원하며 박스오피스 1위에 올랐다. 누적관객수는 95만4221명이다. 개봉 첫날 박스오피스 1위에 오른 '30일'은 이후 11일째 정상]]></content:encoded>
         </item>
     </channel>
 </rss>
