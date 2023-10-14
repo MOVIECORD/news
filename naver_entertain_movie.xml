@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-10-14T10:04:25.015Z</updated>
+    <updated>2023-10-14T11:05:04.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['화사한 그녀' 엄정화, "마음 가는 대로 하는 것이 인생의 모토예요"[TEN인터뷰]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000632555</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000632555"/>
+        <updated>2023-10-14T11:04:14.326Z</updated>
+        <content type="html"><![CDATA[엄정화는 만개한 꽃처럼 화사한 분위기가 감도는 배우다. 드라마 '닥터 차정숙'으로 제2의 전성기를 맞이했다지만, 그는 1992년 데뷔해 이미 대중들의 사랑을 한 몸에 받은바. 엄정화는 정확한 딕션과 우아함과 코미디를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 '30일' 100만 관객 돌파... 가을 극장가의 조용한 승자]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001273178</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005595691"/>
         <updated>2023-10-14T04:05:46.997Z</updated>
         <content type="html"><![CDATA[실관람객들의 폭발적 입소문에 힘입어 흥행 질주를 이어가고 있는 영화 ‘30일’(감독 남대중)이 100만 관객을 돌파했다. 흥행 질주를 이어가고 있는 영화 ‘30일’이 개봉 12일차로 접어든 14일(토) 오전 11시,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘30일’ 100만 관객 돌파… 11일 연속 전체 박스오피스 1위]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003306012</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003306012"/>
-        <updated>2023-10-14T04:05:46.997Z</updated>
-        <content type="html"><![CDATA[실관람객들의 폭발적 입소문에 힘입어 흥행 질주를 이어가고 있는 영화 ‘30일’이 100만 관객을 돌파했다. 14일 영화관입장권 통합전산망에 따르면 ‘30일’이 개봉 12일차로 접어든 이날 오전 11시 100만 관객을]]></content>
     </entry>
 </feed>
