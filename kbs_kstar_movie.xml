@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Oct 2023 21:05:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Oct 2023 22:05:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["BIFF가 알려줄거야!" 영화 '막걸리가 알려줄거야'.. 부산국제영화제 ‘오로라미디어상’ 수상]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=284364</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=284364</guid>
+            <pubDate>Sun, 15 Oct 2023 22:03:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=284364">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231016070308_615b654268e026993f9075bc2b406eff.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284364">"BIFF가 알려줄거야!" 영화 '막걸리가 알려줄거야'.. 부산국제영화제 ‘오로라미디어상’ 수상</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231016070308_615b654268e026993f9075bc2b406eff.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김호중 No3. '바람 따라 만나리: 김호중의 계절' .. "생생한 콘서트의 열기와 휴식 같은 여행까지"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=284290</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=283793">"배수지와 양세종" 넷플릭스 로맨스 &lt;이두나!&gt; ..10월 20일 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231011074154_c0040bfcb30a1858484c7fc2ec5b00d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BIFF] 2023 아시아프로젝트마켓(APM) 어워드 수상작 발표]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=283782</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=283782</guid>
-            <pubDate>Wed, 11 Oct 2023 00:28:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=283782">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231011073223_71371d3902d33fc7d93b9317eb0c6696_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=283782">[BIFF] 2023 아시아프로젝트마켓(APM) 어워드 수상작 발표</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231011073223_71371d3902d33fc7d93b9317eb0c6696_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
