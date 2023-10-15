@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-10-15T18:05:37.521Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 15 Oct 2023 19:05:18 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘발레리나’ 이충현 감독 “여성 중심 한국 영화 만들고 싶어”]]></title>
+            <link>https://v.daum.net/v/20231016040430230</link>
+            <guid>https://v.daum.net/v/20231016040430230</guid>
+            <pubDate>Sun, 15 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2015년 단편영화 ‘몸값’으로 충무로의 신예 감독으로 주목받은 이충현 감독이 두 번째 장편 영화 ‘발레리나’를 내놨다. 지난 6일 넷플릭스를 통해 공개된 이 작품은 공개 3일 만에 글로벌 톱 3위를 차지했다. 여성 단독 주인공의 하드보일드 액션 영화인 ‘발레리나’는 친구의 죽음에 대한 피의 복수를 그린다 주인공 옥주(전종서)는 경호원 출신이다. 디지털]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F16%2Fkukminilbo%2F20231016040432145kshc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
