@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-10-15T15:04:33.785Z</updated>
+    <updated>2023-10-15T16:04:38.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[런던아시아영화제, 정지영 감독 ‘소년들’ 개막작 선정 [연예뉴스 HOT]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001080854</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001080854"/>
+        <updated>2023-10-15T16:03:50.261Z</updated>
+        <content type="html"><![CDATA[한국영화가 2023 런던아시아영화제를 열고 닫는다. 정지영 감독의 ‘소년들’과 엄태화 감독의 ‘콘크리트 유토피아’가 각각 19일(한국시간) 영국 런던 레스터 스퀘어 오데온 럭스 극장에서 개막하는 제8회 런던아시아영화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송중기, '화란' 노 개런티 출연 이유.."불필요한 장면 부담" [뉴스룸]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003188187</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014262760"/>
         <updated>2023-10-15T01:47:23.505Z</updated>
         <content type="html"><![CDATA[지난 12일 중구 한국사랑나눔공동체에서 이은덕 이사장(오른쪽에서 세 번째)이 유영제약(대표 유주평)이 후원한 1억원 상당 의약품을 캄보디아 헤브론 병원에 전달하는 행사를 하고 있다. 2023.10.15 [한국사랑나눔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키르기스스탄 한국영화제 인기]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014262754</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014262754"/>
-        <updated>2023-10-15T01:47:23.506Z</updated>
-        <content type="html"><![CDATA[주 키르기스스탄 한국대사관(대사 이원재)이 주최하는'2023 키르기스스탄 한국영화제'개막식이 13일(현지 시각) 키르기스스탄 오시 '키노박스 세메테이' 극장에서 열렸다. '키노박스 세메테이 극장'은 이번 행사를 주관]]></content>
     </entry>
 </feed>
