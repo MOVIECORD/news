@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-10-15T08:06:13.423Z</updated>
+    <updated>2023-10-15T10:05:23.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BIAF2023에서 놓치면 안 될 韓 감독 신작 7편]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003823034</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003823034"/>
+        <updated>2023-10-15T10:04:33.121Z</updated>
+        <content type="html"><![CDATA[제25회 부천국제애니메이션페스티벌(이하 BIAF2023)이 영화제 기간 눈여겨볼 한국 감독의 신작 7편을 소개했다. 국제경쟁에서는 안시국제애니메이션영화제 수상작 '수라'의 정해지 감독 신작 '길 건너에서 만나요'를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이동진 평론가 "'화란', 격렬한 파토스가 인상적" 극찬]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003823025</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014262750"/>
         <updated>2023-10-15T01:47:23.514Z</updated>
         <content type="html"><![CDATA[주 키르기스스탄 한국대사관이 주최하는'2023 키르기스스탄 한국영화제'개막식이 13일(현지 시각) 키르기스스탄 오시 '키노박스 세메테이' 극장에서 열렸다. 왼쪽부터 악졸토이 키르기스스탄 영화공사 대표, 이원재 대사,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키르기스스탄 한국영화제 성황리 열려]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014262749</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014262749"/>
-        <updated>2023-10-15T01:47:23.514Z</updated>
-        <content type="html"><![CDATA[주 키르기스스탄 한국대사관(대사 이원재)이 주최하는‘2023 키르기스스탄 한국영화제’개막식이 13일(현지 시각) 키르기스스탄 오시‘키노박스 세메테이' 극장에서 열렸다. 왼쪽부터 이요한 키르기스스탄 한인회 수석부회장,]]></content>
     </entry>
 </feed>
