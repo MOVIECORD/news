@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 06:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 07:03:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 송중기..  "치건의 삶, 송중기의 라이프"  (영화 ‘화란')]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=284427</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=284427</guid>
+            <pubDate>Mon, 16 Oct 2023 07:02:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=284427">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231016155953_24559125bc7b606db1220b0839e84a17.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284427">[인터뷰] 송중기..  "치건의 삶, 송중기의 라이프"  (영화 ‘화란')</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231016155953_24559125bc7b606db1220b0839e84a17.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["이 가을, 그 사랑이 온다" 현빈-탕웨이 '만추'.. 재개봉]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=284407</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=283898">[BIFF] 홍콩OTT 'Viu'(뷰), K콘텐츠해외확산 수상</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231012081144_d73c5e560bf3cb456972667416b5e797.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타일리쉬 액션 복수극 '발레리나' 글로벌 히트.. 제작기 영상 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=283893</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=283893</guid>
-            <pubDate>Thu, 12 Oct 2023 00:24:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=283893">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231012080642_cf0a5c5c15ccdc5337165b5fe6470f66.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=283893">스타일리쉬 액션 복수극 '발레리나' 글로벌 히트.. 제작기 영상 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231012080642_cf0a5c5c15ccdc5337165b5fe6470f66.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
