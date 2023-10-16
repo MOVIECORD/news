@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-10-16T18:09:38.625Z</updated>
+    <updated>2023-10-16T20:04:00.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대학생 봉준호의 디테일한 샷 분석… ‘떡잎이 달랐구나’]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000765394</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000765394"/>
+        <updated>2023-10-16T20:03:17.609Z</updated>
+        <content type="html"><![CDATA[오스카 4관왕 봉준호 감독은 대학생 시절 어떤 모습이었을까. 24세 영화학도 봉준호의 수련 과정을 짐작할 수 있는 자료가 첫 공개됐다. 넷플릭스가 27일 선보이는 넷플릭스 다큐멘터리영화 ‘노란문: 세기말 시네필 다이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[검은 황금을 둘러싼 비극적 연쇄살인… 인간 탐욕을 고발하다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=023&amp;aid=0003793660</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001650168"/>
         <updated>2023-10-16T09:03:31.590Z</updated>
         <content type="html"><![CDATA[영화 '30일'이 강하늘, 정소민, 윤경호, 남대중 감독과 함께하는 개봉 3주차 서프라이즈 무대인사를 확정하며 관객들을 찾아간다. '30일'은 드디어 D-30, 서로의 찌질함과 똘기를 견디다 못해 마침내 완벽하게 남]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍상수 신작 '우리의 하루', 찌질한 매력 제대로...울다가, 웃다가 [유일무비]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001273321</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001273321"/>
-        <updated>2023-10-16T09:03:31.592Z</updated>
-        <content type="html"><![CDATA[영화에 담긴 n개의 화두 가운데 함께 나누고 싶은 재미를 선별한 리뷰입니다. 사심을 담아 고른 한 편의 영화 속 단 하나의 재미, 유일무비입니다. '이번엔 무슨 이야기를 할까'. 홍상수 감독의 신작이 세상에 나올 때]]></content>
     </entry>
 </feed>
