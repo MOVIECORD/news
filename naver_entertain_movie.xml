@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-10-16T15:04:10.587Z</updated>
+    <updated>2023-10-16T17:05:53.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘마이 샤이니 월드’ 메인 예고편 공개···지난 15년을 돌아보는 감동의 파노라마로 팬들 눈시울 자극]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000918922</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000918922"/>
+        <updated>2023-10-16T17:05:01.110Z</updated>
+        <content type="html"><![CDATA[아이돌 그룹 샤이니의 데뷔 15주년을 기념해 특별 기획된 얼터 콘텐츠 영화 ‘MY SHINee WORLD’가 개봉을 앞둔 가운데, 팬들 눈시울을 자극할 예고편을 공개했다. ‘샤이니’와 그들의 팬덤 ‘샤이니월드’가 함]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[샤이니와 샤이니월드의 15년 추억…‘MY SHINee WORLD’, 메인 예고편 공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001774602</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000657838"/>
         <updated>2023-10-16T09:03:31.607Z</updated>
         <content type="html"><![CDATA[깊은 생각만큼 ‘말’이 다르다. 전여빈은 말의 맛을 아는 배우다. 인터뷰를 할 때 그 어떤 사람보다 풍성한 어휘력과 듣는 이의 상상을 자극하는 표현력으로 인터뷰를 주도한다. 생각이 깊으니 하나의 문장을 연기로 표현하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대전특수영상영화제, “과학과 산업 어우러진 도시를 만들겠다”]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005597438</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005597438"/>
-        <updated>2023-10-16T09:03:31.608Z</updated>
-        <content type="html"><![CDATA[배우 이필모가 대전특수영상영화제 홍보대사를 맡아 포부를 밝히고 있다. 왼쪽부터 이영근 영화제 총감독, 이필모 홍보대사, 양경미 프로그램 디렉터, 노기수 대전광역시 국장, 이은학 대전정보문화산업진흥원 원장.(사진=대전]]></content>
     </entry>
 </feed>
