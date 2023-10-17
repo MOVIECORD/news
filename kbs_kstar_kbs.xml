@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 23:06:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 00:30:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방은정, KBS '혼례대첩' 캐스팅]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=284543</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=284543</guid>
+            <pubDate>Tue, 17 Oct 2023 00:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=284543">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231017083213_e3109344f01671fda7249ecb7dd93bd3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284543">방은정, KBS '혼례대첩' 캐스팅</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231017083213_e3109344f01671fda7249ecb7dd93bd3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘혼례대첩’ 4차 티저 공개.. 조이현, '엉뚱, 발랄한 청상과부']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=284395</link>
@@ -347,24 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%9A%A8%EC%8B%AC%EC%9D%B4%EB%84%A4%20%EA%B0%81%EC%9E%90%EB%8F%84%EC%83%9D">주말드라마 효심이네 각자도생</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231015230045_3fe8cc290fac3e724f6041f6492b265c_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[효심이네 각자도생]  고주원, 의문 제기하는 하준에 “소문에 휘둘려...괘씸” 신경전]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=284338</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=284338</guid>
-            <pubDate>Sun, 15 Oct 2023 15:03:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=284338">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231015224729_36206bf2317e0242d21964721e104798_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284338">[효심이네 각자도생]  고주원, 의문 제기하는 하준에 “소문에 휘둘려...괘씸” 신경전</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%9A%A8%EC%8B%AC%EC%9D%B4%EB%84%A4%20%EA%B0%81%EC%9E%90%EB%8F%84%EC%83%9D">주말드라마 효심이네 각자도생</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231015224729_36206bf2317e0242d21964721e104798_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
