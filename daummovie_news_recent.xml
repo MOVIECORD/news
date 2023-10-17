@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-10-17T15:07:17.367Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 17 Oct 2023 16:11:07 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전종서의 새 얼굴, '발레리나' [인터뷰]]]></title>
+            <link>https://v.daum.net/v/20231018005158881</link>
+            <guid>https://v.daum.net/v/20231018005158881</guid>
+            <pubDate>Tue, 17 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전종서(사진=앤드마크)[이데일리 스타in 윤기백 기자] “어디에서도 볼 수 없는 이야기와 미장센. 그게 바로 ‘발레리나’의 세계관이죠.” 배우 전종서가 지금껏 보여준 적 없는 새로운 얼굴을 꺼내들었다. 넷플릭스 영화 ‘발레리나’를 통해서다. 러닝타임 내내 크로테스크한 표정과 몸짓으로 안방극장 시청자들을 사로잡은 전종서. 냉혹하지만 그 누구보다 뜨거운 복수]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F18%2FEdaily%2F20231018005200559nwvi.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
