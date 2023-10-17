@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 00:30:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 01:43:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] ‘화란’ “형님이라 하지 말고 형이라 해!” (김창훈 감독)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=284583</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=284583</guid>
+            <pubDate>Tue, 17 Oct 2023 01:42:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=284583">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231017093410_c542c8fa3f8b644da3f9ac17c1cda0ad.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284583">[리뷰] ‘화란’ “형님이라 하지 말고 형이라 해!” (김창훈 감독) </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231017093410_c542c8fa3f8b644da3f9ac17c1cda0ad.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['플라워 킬링 문' 레오나르도 디카프리오.. "좋은 인디언은 돈 많은 인디언?"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=284553</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284050">[BIFF] 오정민 감독의 '장손'.. 부산국제영화제 ‘KBS독립영화상’ 수상</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231013133950_2bc4b2df93118b854d245601415a84de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부산영화제 화제작 '녹야'.. 판빙빙과 이주영의 초록빛 케미]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=284024</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=284024</guid>
-            <pubDate>Fri, 13 Oct 2023 01:47:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=284024">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231013095155_7644c67e77d3acb3f2ef479b164652d7.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284024">부산영화제 화제작 '녹야'.. 판빙빙과 이주영의 초록빛 케미</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231013095155_7644c67e77d3acb3f2ef479b164652d7.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
