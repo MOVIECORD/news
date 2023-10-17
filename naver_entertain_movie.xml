@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-10-17T18:09:17.812Z</updated>
+    <updated>2023-10-17T20:04:01.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연인 전종서와 협업 이충현 감독 “발레 공연 같은 성범죄 복수극 보여주려 해”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000765596</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000765596"/>
+        <updated>2023-10-17T20:03:13.473Z</updated>
+        <content type="html"><![CDATA[단편영화 ‘몸 값’(2015)이 화제를 모았다. 유명 영화사 용필름이 장편영화 ‘콜’(2020) 연출을 의뢰했다. ‘몸 값’은 6부작 동명 드라마(2022)로 거듭났다. 최근엔 새 영화 ‘발레리나’가 넷플릭스에서 공]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주영한국문화원, K-세미나 ‘필름 코리아’ 개최···‘Film Korea’ 출간 기념]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000919208</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007115747"/>
         <updated>2023-10-17T09:02:30.711Z</updated>
         <content type="html"><![CDATA[6년 만에 스크린으로 돌아온 배우 장서희가 딸에게 일방적으로 지독한 사랑을 주는 엄마로 분해 현실적인 이야기를 던진다. 17일 오후 서울 용산구 CGV용산아이파크몰에서 영화 '독친' 언론시사회 및 기자간담회가 열려]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지난달 영화 보러 극장 간 관객 666만···코로나 팬데믹 이전 45%]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000919117</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000919117"/>
-        <updated>2023-10-17T09:02:30.712Z</updated>
-        <content type="html"><![CDATA[지난달 영화관을 찾은 관객 수가 코로나19 팬데믹 이전의 절반에도 못 미친 것으로 나타났다. 영화진흥위원회가 17일 발표한 ‘9월 한국 영화산업 결산’ 자료에 따르면 지난달 영화관 관객 수는 666만명으로, 팬데믹]]></content>
     </entry>
 </feed>
