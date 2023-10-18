@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-10-18T16:04:46.041Z</updated>
+    <updated>2023-10-18T18:09:46.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['너와 나' 음악감독, 오혁이었다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001273679</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001273679"/>
+        <updated>2023-10-18T18:08:52.025Z</updated>
+        <content type="html"><![CDATA[뮤지션 오혁이 조현철 감독의 첫 장편 연출작 '너와 나'의 음악감독으로 참여해 화제다. '너와 나'는 서로에게 전하고 싶은 말을 마음속에 담은 채 꿈결 같은 하루를 보내는 고등학생 세미와 하은의 이야기로, 섬세한 감]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배우 하서윤, ‘최악의 악’ 보스 동생 민주 역 낙점]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000919467</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001651041"/>
         <updated>2023-10-18T09:07:31.375Z</updated>
         <content type="html"><![CDATA['용감한 시민'이 교권, 학교 폭력 등에 관한 사회적 문제애 대해 조심스러운 입장을 전했다. 18일 오후 서울 용산구 CGV용산아이파크몰에서 영화 '용감한 시민'(감독 박진표)의 언론배급시사회가 열렸다. 현장에는 배]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오혁, '너와 나' 음악감독으로 변신…조현철 감독 "슬픈데 이상했으면"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001651038</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001651038"/>
-        <updated>2023-10-18T09:07:31.378Z</updated>
-        <content type="html"><![CDATA[뮤지션 오혁이 조현철 감독의 첫 장편 연출작 '너와 나'의 음악감독으로 참여했다. 서로에게 전하고 싶은 말을 마음속에 담은 채 꿈결 같은 하루를 보내는 고등학생 세미(박혜수 분)와 하은(김시은)의 이야기를 그린 '너]]></content>
     </entry>
 </feed>
