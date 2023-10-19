@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 19:04:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 20:07:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웨이브 '거래' 5-6화 오늘 공개.. “사람이 죽었어, 그것도 둘이나!”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=284940</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=284940</guid>
+            <pubDate>Thu, 19 Oct 2023 20:06:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=284940">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231019102831_07430c4e0e0aae1725952a9774ef545a.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284940"> 웨이브 '거래' 5-6화 오늘 공개.. “사람이 죽었어, 그것도 둘이나!”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231019102831_07430c4e0e0aae1725952a9774ef545a.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["1026 다음, 1212" 영화 '서울의 봄'... "보안사령관 전두광 쿠테타 일으키다!"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=284906</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284180">마누엘 마틴 쿠엔카 감독 '더 도터'.. "뒤틀린 모성애에서 시작된 비극"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231014080839_4631cab80b53b7147b6f6f5f3a867cd7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 송중기..  "치건의 삶, 송중기의 라이프"  (영화 ‘화란')]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=284427</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=284427</guid>
-            <pubDate>Mon, 16 Oct 2023 07:02:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=284427">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231016155953_24559125bc7b606db1220b0839e84a17.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284427">[인터뷰] 송중기..  "치건의 삶, 송중기의 라이프"  (영화 ‘화란')</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231016155953_24559125bc7b606db1220b0839e84a17.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
