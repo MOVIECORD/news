@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-10-19T17:03:47.187Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 19 Oct 2023 18:09:23 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘남도영화제 시즌1 순천’ 남도 모든 것에 흠뻑 빠져 즐긴 6일간 영화축제 마무리]]></title>
+            <link>https://v.daum.net/v/20231020020334264</link>
+            <guid>https://v.daum.net/v/20231020020334264</guid>
+            <pubDate>Thu, 19 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전라남도와 순천시가 주최하고 남도영화제 운영위원회, (사)전남영상위원회가 주관하는 남도영화제 시즌1 순천(이하 남도영화제)이 지난 16일 폐막식을 끝으로 6일간의 영화축제를 마무리했다. 축제의 열기 속으로 모여든 영화인・도민・관객들은 2만여 명으로 잠정 집계되어, 첫 영화제임에도 불구하고 ‘남도영화제’는 로컬 영화제만의 남다른 매력과 순천의 아름다운]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F20%2Fsportskhan%2F20231020020336653tnln.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
