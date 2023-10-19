@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 23:06:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 00:29:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KBS 다큐인사이트 ‘곡성침공’ 이탈리아상 특별상 수상]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=284913</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=284913</guid>
+            <pubDate>Thu, 19 Oct 2023 00:28:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=284913">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231019085843_e85888e9c5e11e29382b05475bfcc3d6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284913">KBS 다큐인사이트 ‘곡성침공’ 이탈리아상 특별상 수상</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8B%A4%ED%81%90%20%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8">다큐 인사이트</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231019085843_e85888e9c5e11e29382b05475bfcc3d6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['드라마스페셜-반쪽짜리 거짓말'.. 김시우X안세빈, 비밀스럽고 사랑스러운 두 소녀]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=284685</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95%20%ED%8C%A8%EB%B0%80%EB%A6%AC">일일연속극 우당탕탕 패밀리</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231017224102_08281c903e860b5c86092557fe9900c3_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[우당탕탕 패밀리] 눈앞에서 또 엇갈리는 이종원과 최수린, “은아 엄마!” 이종원 뒤늦게 눈치챘지만 이미 자리 비운 최수린]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=284608</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=284608</guid>
-            <pubDate>Tue, 17 Oct 2023 14:04:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=284608">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231017223725_333239354f18910a3b2671172ece6153_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284608">[우당탕탕 패밀리] 눈앞에서 또 엇갈리는 이종원과 최수린, “은아 엄마!” 이종원 뒤늦게 눈치챘지만 이미 자리 비운 최수린</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EC%97%B0%EC%86%8D%EA%B7%B9%20%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95%20%ED%8C%A8%EB%B0%80%EB%A6%AC">일일연속극 우당탕탕 패밀리</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231017223725_333239354f18910a3b2671172ece6153_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
