@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-10-20T20:04:17.230Z</updated>
+    <updated>2023-10-20T21:05:44.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이도, 기업도 때론 ‘어른’이 되기 싫다[일타쌍피-스토리노믹스]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003256222</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003256222"/>
+        <updated>2023-10-20T21:04:49.669Z</updated>
+        <content type="html"><![CDATA[※소설, 영화, 연극, 뮤지컬, 웹툰 등 재미있는 이야기가 넘쳐나는 시대입니다. 그런데 이야기만 소비하기에는 뭔가 부족함을 느낄 때가 없던가요? 이야기 속에 숨어있는 다양한 경제적, 사회적 읽을거리가 더해진다면 훨씬]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소년들', 제8회 런던아시아영화제 시작 열었다...개막작 성황리 상영]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001273953</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014277147"/>
         <updated>2023-10-20T12:14:45.382Z</updated>
         <content type="html"><![CDATA[20일 오후 울산시 울주군 영남알프스 복합웰컴센터에서 열린 '제8회 울산울주세계산악영화제' 개막식 그린 카펫 행사에서 배우 정준호가 포즈를 취하고 있다. 2023.10.20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그린 카펫에 선 배창호 감독]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014277146</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014277146"/>
-        <updated>2023-10-20T12:14:45.385Z</updated>
-        <content type="html"><![CDATA[20일 오후 울산시 울주군 영남알프스 복합웰컴센터에서 열린 '제8회 울산울주세계산악영화제' 개막식 그린 카펫 행사에서 전 집행위원장인 배창호 감독이 포즈를 취하고 있다. 2023.10.20]]></content>
     </entry>
 </feed>
