@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-10-20T15:04:31.900Z</updated>
+    <updated>2023-10-20T16:07:07.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['너와 나' 박혜수 "사랑에 대해 다시 생각할 수 있는 작품" [화보]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001273949</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001273949"/>
+        <updated>2023-10-20T16:06:19.273Z</updated>
+        <content type="html"><![CDATA[영화 '너와 나'의 조현철 감독과 배우 박혜수, 김시은이 함께한 화보가 공개됐다. 영화 '너와 나'는 서로에게 전하고 싶은 말을 마음속에 담은 채 꿈결 같은 하루를 보내는 고등학생 세미와 하은의 이야기이다. 개봉을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제8회 울산울주세계산악영화제 개막]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014277203</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014277143"/>
         <updated>2023-10-20T12:14:45.391Z</updated>
         <content type="html"><![CDATA[20일 오후 울산시 울주군 영남알프스 복합웰컴센터에서 열린 '제8회 울산울주세계산악영화제' 개막식 그린 카펫 행사에서 배우 정준호가 인사하고 있다. 2023.10.20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제8회 울산울주세계산악영화제 홍보대사 고보결]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014277142</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014277142"/>
-        <updated>2023-10-20T12:14:45.394Z</updated>
-        <content type="html"><![CDATA[20일 오후 울산시 울주군 영남알프스 복합웰컴센터에서 열린 '제8회 울산울주세계산악영화제' 개막식 그린 카펫 행사에서 홍보대사인 배우 고보결이 포즈를 취하고 있다. 2023.10.20]]></content>
     </entry>
 </feed>
