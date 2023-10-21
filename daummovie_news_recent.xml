@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-10-21T20:05:25.301Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 21 Oct 2023 22:03:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[믿고 보는 신혜선, 이번엔 액션퀸 노린다 [N초점]]]></title>
+            <link>https://v.daum.net/v/20231022063011661</link>
+            <guid>https://v.daum.net/v/20231022063011661</guid>
+            <pubDate>Sat, 21 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 이번에는 액션이다. 드라마에서 스크린까지 넘나들며 활약을 이어가는 배우 신혜선의 또 다른 연기 변신에 이목이 집중된다. 오는 25일 개봉하는 신혜선의 신작 '용감한 시민'(감독 박진표)은 불의는 못 본 척, 성질은 없는 척, 주먹은 약한 척 살아온 기간제 교사 소시민(신혜선 분)이 선을 넘어버린 안하무인 절대권력 한수강]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F22%2FNEWS1%2F20231022063013177fwhr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['오픈 더 도어', 버거운 진실 앞에 무너지는 한 가족의 처절한 이야기 [TEN리뷰]]]></title>
+            <link>https://v.daum.net/v/20231022060102396</link>
+            <guid>https://v.daum.net/v/20231022060102396</guid>
+            <pubDate>Sat, 21 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=이하늘 기자] *영화 '오픈&nbsp;더&nbsp;도어'에 관련된 주요한 스포일러를 포함하고 있습니다. 문(門)은 공간을 이어주기도, 대상의 안과 밖을 가르는 경계선이 되기도 한다. 신카이 마코토 감독의 '스즈메의 문단속'(2023)도 지나온 세계와 다가올 세계를 통과하거나 재난을 막는 매개로 표현되었다. 또한, 한국의 전래 동화에서도 문의 흔적을 찾아볼 수]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F22%2F10asia%2F20231022060104860xjsp.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
