@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-10-22T14:05:17.963Z</updated>
+    <updated>2023-10-22T15:06:42.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신혜선, '로코퀸'의 장르 무한 확장[TF초점]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000244949</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000244949"/>
+        <updated>2023-10-22T15:05:48.272Z</updated>
+        <content type="html"><![CDATA['타겟'→'용감한 시민'으로 데뷔 첫 스릴러·액션 도전해 완벽 소화 "새로운 장르 도전은 '배우 신혜선'을 찾아가는 과정" 배우 신혜선이 연달아 새로운 장르에 도전하고 있다. 이미 검증된, 잘하는 장르만 고집하지 않]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정국, 이·팔 전쟁으로 MTV 시상식 불발…"지금은 애도할 때"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000658382</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=465&amp;aid=0000007200"/>
         <updated>2023-10-22T01:49:31.023Z</updated>
         <content type="html"><![CDATA[한여름부터 냉기가 극장가에 돌고 있지만, 이를 녹일 '봄날의 햇살' 같은 작품들이 몰려온다. 얼어붙은 한국 영화계에 황정민과 정우성의 회심의 야심작 '서울의 봄'이 내려앉는 것. 이를 시작으로 김윤석 이동욱 임수정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전종서 “‘발레리나’에 동성애 코드? 女의 우정일 뿐”[인터뷰]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000920128</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000920128"/>
-        <updated>2023-10-22T01:49:31.024Z</updated>
-        <content type="html"><![CDATA[배우 전종서의 눈에 또 한 번 섬광이 튄다. 누군가는 눈이 돌았다고도 하고, 누군가는 전종서였기에 가능한 작품이었다고도 한다. ‘옥주’(전종서)와 ‘민희’(박유림) 사이 애매한 감정의 줄타기도, 그가 표현했기에 더욱]]></content>
     </entry>
 </feed>
