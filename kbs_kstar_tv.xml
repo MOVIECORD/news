@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 20:05:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 21:05:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['무인도의 디바' 박은빈, 자급자족하는 무인도의 삶]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=285696</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=285696</guid>
+            <pubDate>Wed, 25 Oct 2023 21:04:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=285696">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231025133612_7304c2b4811fc43cd27d10fd559494ba_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=285696">'무인도의 디바' 박은빈, 자급자족하는 무인도의 삶</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231025133612_7304c2b4811fc43cd27d10fd559494ba_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[유퀴즈온더블럭] ‘실전은 기세다’... 탁구'신'유빈]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=285715</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284530">[반짝이는워터멜론 7회] 려운-최현욱-설인아-신은수, 뒤틀린 시공간 속 네 청춘</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231017081853_f7d8ff3b22abfd7a03c711652c43ed2f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[반짝이는 워터멜론] 신은수 애틋한 고백.. "나를 발견해줘서 고마워"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=284384</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=284384</guid>
-            <pubDate>Sun, 15 Oct 2023 23:06:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=284384">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231016072319_2f3decd1e58ad7f6ce5a3dd23b236d78_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=284384">[반짝이는 워터멜론] 신은수 애틋한 고백.. "나를 발견해줘서 고마워"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231016072319_2f3decd1e58ad7f6ce5a3dd23b236d78_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
