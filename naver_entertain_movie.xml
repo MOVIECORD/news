@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-10-25T15:08:00.856Z</updated>
+    <updated>2023-10-25T16:08:04.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['서울의 봄' 황정민, 이런 모습 처음이야]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001274483</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001274483"/>
+        <updated>2023-10-25T16:07:05.283Z</updated>
+        <content type="html"><![CDATA[배우 황정민이 영화 '서울의 봄'에서 12.12 군사반란의 주동자로 변신한다. 영화 '서울의 봄'은 1979년 12월 12일 수도 서울에서 일어난 신군부 세력의 반란을 막기 위한 일촉즉발의 9시간을 그린 영화다. 매]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이선균 이어 지드래곤이 또…잇단 대형 마약 파문에 연예계 대혼돈 [TEN이슈]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000633901</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003782375"/>
         <updated>2023-10-25T09:03:33.536Z</updated>
         <content type="html"><![CDATA[MCU(마블 시네마틱 유니버스) 슈퍼히어로 캡틴 마블의 두 번째 이야기이자 2023년 최고의 블록버스터 '더 마블스가 각 캐릭터 별 스타일을 극대화한 액션을 선보인다. '더 마블스'는 우주를 지키는 히어로 캡틴 마블]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현실로 다가온 자율 살상 무기 '터미네이터'의 갑론을박]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002410584</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002410584"/>
-        <updated>2023-10-25T09:03:33.542Z</updated>
-        <content type="html"><![CDATA[&lt;언노운: 킬러 로봇&gt; ▲ 넷플릭스 오리지널 다큐멘터리 &lt;언노운: 킬러 로봇&gt; 포스터. ⓒ 넷플릭스 제임스 카메론의 명작 SF 액션 블록버스터 &lt;터미네이터&gt; 시리즈를 보면, 아놀드 슈워제네거가 분한 로봇 'T-800]]></content>
     </entry>
 </feed>
