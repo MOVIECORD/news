@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-10-27T12:11:27.166Z</updated>
+    <updated>2023-10-27T14:03:59.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이선균 내일 경찰 출석…마약 종류 검사할 듯]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004254596</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004254596"/>
+        <updated>2023-10-27T14:03:04.604Z</updated>
+        <content type="html"><![CDATA[배우 이선균(48)씨가 마약 투약 혐의로 경찰에 출석한다. 인천경찰청 마약범죄수사계는 마약류 관리에 관한 법률상 대마·향정 혐의를 받는 이씨를 28일 불러 조사할 방침이라고 밝혔다. 경찰은 이씨가 출석하면 시약 검사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[표지훈, 8kg 증량한 파격 복귀 "공감 어렵지만, 해냈다" (뉴 노멀)[종합]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001654764</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000634264"/>
         <updated>2023-10-27T11:04:17.572Z</updated>
         <content type="html"><![CDATA[가수 겸 배우 최민호가 27일 오후 서울 용산구 한강로 CGV 용산아이파크몰에서 열린 영화 '뉴 노멀' 언론시사회에 참석해 포즈를 취하고 있다. '뉴 노멀'은 공포가 일상이 돼버린 새로운 시대에 도착한 이들의 이야기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TEN포토] 표지훈 '전역후 스크린으로 복귀']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000634263</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000634263"/>
-        <updated>2023-10-27T11:04:17.577Z</updated>
-        <content type="html"><![CDATA[가수 겸 배우 표지훈이 27일 오후 서울 용산구 한강로 CGV 용산아이파크몰에서 열린 영화 '뉴 노멀' 언론시사회에 참석해 포즈를 취하고 있다. '뉴 노멀'은 공포가 일상이 돼버린 새로운 시대에 도착한 이들의 이야기]]></content>
     </entry>
 </feed>
