@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-10-29T10:07:32.248Z</updated>
+    <updated>2023-10-29T12:10:08.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[봉준호 "감독의 비전을 여러 명이 함께 만들어가는 게 영화"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014295338</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014295338"/>
+        <updated>2023-10-29T12:09:22.355Z</updated>
+        <content type="html"><![CDATA[넷플릭스 영화 '노란문' 공개 맞춰 젊은 영화광들과 간담회 "한 명의 비전을 (여러 명이) 함께 만들어가는 게 영화라고 생각해요. 그리고 그 한 명은 감독이라고 생각합니다." '기생충'(2019)과 같은 명작들로 세]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미소년 넘어 미중년 된, 레오나르도 디카프리오의 메소드 연기 [TEN스타필드]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000634401</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000921534"/>
         <updated>2023-10-29T01:44:47.701Z</updated>
         <content type="html"><![CDATA[오랜만에 만난 배우 박혜수는 조금 얼어있었다. ‘학폭 의혹’ 이후 기자와 만나는 자리라 어떤 이야기가 오갈지에 대한 경계심도 조금 엿보였다. 신작 ‘너와 나’(감독 조현철)에 대한 대답을 할 땐 더욱 조심스러웠다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 '더 킬러' 데이비드 핀처 감독+ 마이클 패스벤더... “공감은 금물, 아무도 믿지 마라”]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000059780</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000059780"/>
-        <updated>2023-10-29T01:44:47.703Z</updated>
-        <content type="html"><![CDATA[넷플릭스(Netflix)가 데이비드 핀처 감독의 신작 &lt;더 킬러&gt;의 메인 예고편을 공개했다. 영화 &lt;세븐&gt;, &lt;파이트클럽&gt;, &lt;나를 찾아줘&gt; 그리고 넷플릭스 영화 &lt;맹크&gt; 등 유려한 장르 변주와 감각적인 연출력으로]]></content>
     </entry>
 </feed>
