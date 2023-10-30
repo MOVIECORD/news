@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-10-30T15:06:22.649Z</updated>
+    <updated>2023-10-30T16:09:01.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['서울의 봄' 이성민, 엄근진 포스 끝판왕]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001275125</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001275125"/>
+        <updated>2023-10-30T16:08:08.859Z</updated>
+        <content type="html"><![CDATA[배우 이성민이 12.12 군사반란을 배경으로 한 '서울의 봄'에서 육군참모총장으로 변신, 또 다른 캐릭터로 돌아올 것을 예고했다. 영화 '서울의 봄'은 1979년 12월 12일 수도 서울에서 일어난 신군부 세력의 반]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘마약 혐의’ 이선균, 민폐 여파는 계속...봉준호 감독도 피해]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000965319</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007142706"/>
         <updated>2023-10-30T09:06:13.713Z</updated>
         <content type="html"><![CDATA[배우 박성웅부터 오달수까지 뭉친, 거친 하드보일드 누아르 '더 와일드: 야수들의 전쟁'이 극장가를 찾아온다. 30일 서울 용산구 한강로 CGV 용산아이파크몰에서 영화 '더 와일드: 야수들의 전쟁'(감독 김봉한 / 이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CJ CGV, 상반기 이어 3분기도 흑자…영업익 305억원]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014297412</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014297412"/>
-        <updated>2023-10-30T09:06:13.715Z</updated>
-        <content type="html"><![CDATA[중국 사업 성과 등 영향…"4분기에도 개선세 이어갈 것" CJ CGV가 올해 상반기에 이어 3분기에도 흑자를 달성했다. CJ CGV는 올해 3분기 연결 기준 매출이 4천76억원, 영업이익은 305억원이라고 30일 공]]></content>
     </entry>
 </feed>
