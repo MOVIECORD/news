@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-10-30T16:09:01.756Z</updated>
+    <updated>2023-10-30T18:11:05.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['만분의 일초' 제8회 런던동아시아영화제 최우수 작품상 수상]]></title>
+        <id>https://v.daum.net/v/20231031030431143</id>
+        <link href="https://v.daum.net/v/20231031030431143"/>
+        <updated>2023-10-30T18:11:05.192Z</updated>
+        <content type="html"><![CDATA[[TV리포트=김연주 기자] 드라마 '이상한 변호사 우영우'에서 활약한 배우 주종혁의 주연작 '만분의 일초'가 제8회 런던동아시아국제영화제에서 최우수 작품상을 수상하는 쾌거를 이뤘다.&nbsp; '만분의 일초'는 0%의 확률을 깨뜨릴 0.0001%, 그 찰나를 향해 검을 겨누는 치열한 기록을 그린다. 제8회 런던동아시아국제영화제 초청 소식에 이어 최우수 작품상 수상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘마약 혐의’ 이선균, 민폐 여파는 계속...봉준호 감독도 피해]]></title>
         <id>https://v.daum.net/v/20231030231201934</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231030170301047"/>
         <updated>2023-10-30T08:14:06.644Z</updated>
         <content type="html"><![CDATA[[OSEN=유수연 기자] ‘더 와일드: 야수들의 전쟁’이 선을 보인다. 30일 서울시 용산구에 있는 CGV 용산아이파크몰에서는 영화 ‘더 와일드: 야수들의 전쟁’ 언론배급시사회 및 기자간담회가 진행된 가운데, 이날 행사에는 김봉한 감독, 박성웅, 오대환, 오달수, 서지혜, 주석태가 참석했다. '더 와일드'는 어두운 과거를 청산하고, 새로운 삶을 살고자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장항준 감독의 스릴러, 김은희 작가만큼 쫄깃하네]]></title>
-        <id>https://v.daum.net/v/20231030170032911</id>
-        <link href="https://v.daum.net/v/20231030170032911"/>
-        <updated>2023-10-30T08:14:06.645Z</updated>
-        <content type="html"><![CDATA[[엔터미디어=정덕현의 그래서 우리는] 문은 이편과 저편의 경계를 나눈다. 그래서 문을 열고 들어간다는 건, 여러 상징과 은유로 해석되곤 한다. 김은희 작가가 쓴 드라마 &lt;악귀&gt;에서 문은, 저편 세계의 이질적인 존재인 악귀가 이편으로 넘어와 타인의 몸으로 스며드는 통로처럼 기능한 바 있다. "문을 열었네?"라고 말하는 악귀는 그래서 문을 연 자의 몸에 스며들]]></content>
     </entry>
 </feed>

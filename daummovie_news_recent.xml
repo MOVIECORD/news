@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-10-30T16:09:01.709Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 30 Oct 2023 18:11:05 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['만분의 일초' 제8회 런던동아시아영화제 최우수 작품상 수상]]></title>
+            <link>https://v.daum.net/v/20231031030431143</link>
+            <guid>https://v.daum.net/v/20231031030431143</guid>
+            <pubDate>Mon, 30 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=김연주 기자] 드라마 '이상한 변호사 우영우'에서 활약한 배우 주종혁의 주연작 '만분의 일초'가 제8회 런던동아시아국제영화제에서 최우수 작품상을 수상하는 쾌거를 이뤘다.&nbsp; '만분의 일초'는 0%의 확률을 깨뜨릴 0.0001%, 그 찰나를 향해 검을 겨누는 치열한 기록을 그린다. 제8회 런던동아시아국제영화제 초청 소식에 이어 최우수 작품상 수상]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202310%2F31%2Ftvreport%2F20231031030435857xgah.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
