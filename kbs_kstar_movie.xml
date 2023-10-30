@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 02:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 03:09:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 강안나 "저를 잘 모르시겠지만... 곧, 'Popular~'"  (영화 ‘독친’)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=286421</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=286421</guid>
+            <pubDate>Mon, 30 Oct 2023 03:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=286421">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231030112221_7e06b297d2cdff38c6271fc8e0b45e12.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=286421">[인터뷰] 강안나 "저를 잘 모르시겠지만... 곧, 'Popular~'"  (영화 ‘독친’)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231030112221_7e06b297d2cdff38c6271fc8e0b45e12.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티빙 '이재, 곧 죽습니다' 서인국-박소담 카리스, "죽음 그 이후, 잔혹한 심판이 시작된다!"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=286380</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=285670">[리뷰] '더 킬러' "프로페셔널 킬러의 길"  (데이비드 핀처 감독)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231025110346_3e516eaf3a1f3064f8c39fe08006c140.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘테일러 스위프트: 디 에라스 투어’  CGV 11월 3일 단독개봉... IMAX로도 상영]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=285658</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=285658</guid>
-            <pubDate>Wed, 25 Oct 2023 00:29:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=285658">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231025083229_bd39413b8f79426fe15873fb7737bc94.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=285658">‘테일러 스위프트: 디 에라스 투어’  CGV 11월 3일 단독개봉... IMAX로도 상영</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231025083229_bd39413b8f79426fe15873fb7737bc94.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
