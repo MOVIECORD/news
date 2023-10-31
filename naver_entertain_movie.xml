@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-10-31T15:07:48.097Z</updated>
+    <updated>2023-10-31T16:11:42.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['키리에의 노래' 오늘 개봉, 호평 포인트 3]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001275217</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001275217"/>
+        <updated>2023-10-31T16:10:51.541Z</updated>
+        <content type="html"><![CDATA[영화 '러브레터'를 연출한 이와이 슌지 감독의 신작 '키리에의 노래'가 오늘(1일) 개봉하는 가운데 국내 관객의 취향을 저격할 호평 포인트 TOP3가 공개됐다. 영화 '키리에의 노래'의 첫 번째 호평 포]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이거 진짜 실화냐?"…실제 사건 다룬 영화 개봉[TF프리즘]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000246622</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001655942"/>
         <updated>2023-10-31T10:06:09.228Z</updated>
         <content type="html"><![CDATA[배우 주종혁이 '이상한 변호사 우영우'에서 '만분의 일초'로 극과극 캐릭터 변신을 시도한다. 31일 오후 서울 용산구 CGV용산아이파크몰에서 영화 '만분의 일초'의 언론배급시사회가 열렸다. 현장에는 배우 주종혁, 문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['콘유' 박보영, 런던아시아영화제 베스트 액터상…홍사빈 라이징 스타상]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007145453</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007145453"/>
-        <updated>2023-10-31T10:06:09.236Z</updated>
-        <content type="html"><![CDATA[제8회 런던아시아영화제(집행위원장 전혜정)가 12일간의 영화 축제를 성황리에 끝냈다. 영화제의 피날레를 장식한 폐막작 '콘크리트 유토피아'의 주연배우 박보영은 베스트 액터상을 수상했고, 경쟁부문 초청작인 '화란'의]]></content>
     </entry>
 </feed>
