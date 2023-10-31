@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-10-31T16:11:42.297Z</updated>
+    <updated>2023-10-31T18:12:31.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도쿄서 쏟아진 여성 영화인 목소리 “모난 돌도 여럿이면 힘이 커집니다”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=023&amp;aid=0003796573</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=023&amp;aid=0003796573"/>
+        <updated>2023-10-31T18:11:42.289Z</updated>
+        <content type="html"><![CDATA[도쿄국제영화제 ‘우먼 인 모션’ 여성 영화인 활동 격려 위한 대담 “모난 돌이 정 맞는다는 말에 두려워하지 마세요. 모난 돌이라도 많이 모여있으면 정을 어디다 맞춰야 될지 헷갈리겠죠. 뭐든 해보려는 여성 영화인들에게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['키리에의 노래' 오늘 개봉, 호평 포인트 3]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001275217</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001655948"/>
         <updated>2023-10-31T10:06:09.227Z</updated>
         <content type="html"><![CDATA['런던아시아영화제' 영화 '콘크리트 유토피아', '화란' 등이 활약을 펼쳤다. 지난 29일(현지시간) 한국영화의 저력을 영국을 중심으로 유럽에 꾸준히 소개해온 제8회 런던아시아영화제(집행위원장 전혜정)가 12일간의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주종혁 "권모술수→트라우마 선수, 변화 체감 NO…관객이 느끼면 성공" (만분의 일초)[종합]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001655942</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001655942"/>
-        <updated>2023-10-31T10:06:09.228Z</updated>
-        <content type="html"><![CDATA[배우 주종혁이 '이상한 변호사 우영우'에서 '만분의 일초'로 극과극 캐릭터 변신을 시도한다. 31일 오후 서울 용산구 CGV용산아이파크몰에서 영화 '만분의 일초'의 언론배급시사회가 열렸다. 현장에는 배우 주종혁, 문]]></content>
     </entry>
 </feed>
