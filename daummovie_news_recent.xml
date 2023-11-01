@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-11-01T20:04:58.060Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 01 Nov 2023 21:05:32 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['감독' 장항준·'제작자' 송은이의 시너지, "끊임없이 이야기 탐구하고 싶죠" [TEN인터뷰]]]></title>
+            <link>https://v.daum.net/v/20231102060103521</link>
+            <guid>https://v.daum.net/v/20231102060103521</guid>
+            <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=이하늘 기자] 보고만 있어도 저절로 미소가 지어지는 두 사람, 장항준 감독과 송은이다. 서울예전 선후배로 시작해 동료, '오픈 더 도어'를 통해 영화 감독과 제작자로 만나기까지. 장항준 감독과 송은이의 무려 '32년 우정'은 보기 좋게 영글었다. '오픈 더 도어'로 첫 영화 제작을 도전해봤다는 송은이는 장항준 감독의 신뢰를, 장항준 감독은 송은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F02%2F10asia%2F20231102060105143whxc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
