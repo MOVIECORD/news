@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 10:05:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 11:05:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[로키 시즌2] ‘팀 로키’의 운명]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=286971</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=286971</guid>
+            <pubDate>Fri, 03 Nov 2023 11:03:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=286971">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231102132947_faad90028eeeaab239522419414b0f76.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=286971">[로키 시즌2] ‘팀 로키’의 운명</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231102132947_faad90028eeeaab239522419414b0f76.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[쿠팡플레이 '대학전쟁' 오늘 첫 방송... "똑똑한 애 옆에 또 똑똑한 애!"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=287069</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=286696">정지영 감독의 고발극 '소년들' 오늘 개봉... 삼례나라슈퍼사건의 억울한 청년들</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231101073920_eb287dbd844c1b62f277bdc18144748b_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['싱글 인 서울' 이솜, 시크한 매력의 '홍 작가' 변신]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=286163</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=286163</guid>
-            <pubDate>Tue, 31 Oct 2023 21:06:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=286163">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231028082242_41876091e49fb25a1c35a6ef6e33ea7a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=286163">'싱글 인 서울' 이솜, 시크한 매력의 '홍 작가' 변신</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231028082242_41876091e49fb25a1c35a6ef6e33ea7a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
