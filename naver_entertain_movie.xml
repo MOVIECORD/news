@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-11-04T08:08:06.101Z</updated>
+    <updated>2023-11-04T09:06:40.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[영상] 마약 혐의 이선균 재소환…취재진 질문엔 같은 답변만 반복]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014309358</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014309358"/>
+        <updated>2023-11-04T09:05:59.954Z</updated>
+        <content type="html"><![CDATA[마약 투약 혐의를 받는 배우 이선균(48)씨가 시약 검사 후 1주일 만에 다시 경찰에 출석했습니다. 마약류 관리에 관한 법률상 대마·향정 혐의를 받는 이씨는 4일 오후 1시 40분께 변호인과 함께 인천논현경찰서에 있]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박서준 출연 '더 마블스' D-4 전체 예매율 1위 등극…MCU 자존심 회복할까]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005612325</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007153849"/>
         <updated>2023-11-04T01:40:43.526Z</updated>
         <content type="html"><![CDATA[미야자키 하야오의 신작 애니메이션 '그대들은 어떻게 살 것인가'가 호불호가 갈리는 반응에도 불구하고 10일째 정상을 유지 중이다. 4일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '그대들은 어떻게 살 것인가']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강하늘·정소민 '30일', '범죄도시3'·'밀수'·'콘유' 이어 올해 흥행작 TOP4]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007153847</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007153847"/>
-        <updated>2023-11-04T01:40:43.527Z</updated>
-        <content type="html"><![CDATA[영화 '30일'(감독 남대중)이 영화 '범죄도시3'와 '밀수' '콘크리트 유토피아'에 이어 올해 한국 영화 흥행 TOP4에 등극했다. '30일'은 4일 영화진흥위원회 영화관 입장권 통합 전산망 오전 7시50분 기준]]></content>
     </entry>
 </feed>
