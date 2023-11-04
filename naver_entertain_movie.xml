@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-11-04T10:05:03.086Z</updated>
+    <updated>2023-11-04T11:06:56.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박서준 "나도 내가 '더 마블스' 나온다는 게 신기…모든 게 놀라워"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001657772</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001657772"/>
+        <updated>2023-11-04T11:06:06.833Z</updated>
+        <content type="html"><![CDATA[박서준이 MCU(마블 시네마틱 유니버스) '더 마블스' 출연 소감을 밝혔다. '더 마블스'는 우주를 지키는 히어로 캡틴 마블 캐럴 댄버스가 능력을 사용할 때마다 모니카 램보, 미즈 마블 카말라 칸과 위치가 바뀌는 위]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[영상] 마약 혐의 이선균 재소환…취재진 질문엔 같은 답변만 반복]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014309358</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001657681"/>
         <updated>2023-11-04T01:40:43.525Z</updated>
         <content type="html"><![CDATA[([엑's 인터뷰②]에 이어) 이와이 슌지 감독이 함께 작업해보고 싶은 한국 배우들을 공개했다. 3일 오후 서울 종로구의 한 카페에서 영화 '키리에의 노래'를 연출한 이와이 슌지 감독의 인터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그대들은 어떻게 살 것인가', 호불호에도 10일째 정상 유지…누적 122만명↑ [Nbox]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007153849</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007153849"/>
-        <updated>2023-11-04T01:40:43.526Z</updated>
-        <content type="html"><![CDATA[미야자키 하야오의 신작 애니메이션 '그대들은 어떻게 살 것인가'가 호불호가 갈리는 반응에도 불구하고 10일째 정상을 유지 중이다. 4일 영화진흥위원회 영화관 입장권 통합 전산망에 따르면 '그대들은 어떻게 살 것인가']]></content>
     </entry>
 </feed>
