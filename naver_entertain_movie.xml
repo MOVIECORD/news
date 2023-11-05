@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-11-05T09:04:09.915Z</updated>
+    <updated>2023-11-05T11:03:36.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더 마블스', 하야오 신작 제쳤다…개봉 3일 앞두고 예매율 1위]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000300671</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000300671"/>
+        <updated>2023-11-05T11:02:45.527Z</updated>
+        <content type="html"><![CDATA[마블 스튜디오의 신작 '더 마블스'가 국내 개봉을 3일 앞두고 예매율 1위에 올랐다. 5일 영화진흥위원회 예매율 집계에 따르면 '더 마블스'는 38.4%(오후 6시 30분 기준)의 예매율로 8.8%에 그친 '뉴 노멀]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['그대들'에 힘 못쓰는 한국 영화들…'스즈메' 데자뷔인가 [정지은의 무비이슈다]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004257608</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004959807"/>
         <updated>2023-11-05T03:06:28.473Z</updated>
         <content type="html"><![CDATA['캡틴 마블'의 두 번째 이야기이자, 2023년 최고의 블록버스터 '더 마블스'가 전체 예매율 1위에 등극했다. '더 마블스'(감독 니아 다코스타, 수입배급 월트디즈니 컴퍼니 코리아)는 우주를 지키는 히어로 캡틴 마]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그대들은', 11일 연속 1위…136만↑ 동원 [美친 box]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004959800</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004959800"/>
-        <updated>2023-11-05T03:06:28.474Z</updated>
-        <content type="html"><![CDATA[일본 애니메이션 ‘그대들은 어떻게 살 것인가’가 1위를 차지했다. 11일 연속으로 1위 자리를 지킨 것. 5일 영화진흥위원회 영화관입장권 통합전산망 집계를 보면 ‘그대들은 어떻게 살 것인가’는 전날(4일) 14만 2]]></content>
     </entry>
 </feed>
