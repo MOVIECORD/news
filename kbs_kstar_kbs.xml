@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 08:12:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 10:07:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['글로벌 우리말겨루기'..  4대륙 4개국에서 온 8명의 도전자들]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=287533</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=287533</guid>
+            <pubDate>Mon, 06 Nov 2023 10:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=287533">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231106173115_e59179e1a3be8f4f52dd93e5ab1099f4.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287533">'글로벌 우리말겨루기'..  4대륙 4개국에서 온 8명의 도전자들</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231106173115_e59179e1a3be8f4f52dd93e5ab1099f4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[고려 거란 전쟁] 親현종파 vs. 反현종파.. 명품 신스틸러 총출동]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=287453</link>
@@ -348,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8B%A4%ED%81%90%20%EC%98%A8">다큐 온</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231104095221_6ee8a18c388f66afcd30e7ed17f8e540.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[전국노래자랑] 국방수도 계룡시.. ‘난 남자다’ 김장훈 특별가수 출격]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=287030</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=287030</guid>
-            <pubDate>Sat, 04 Nov 2023 23:04:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=287030">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231103082203_52d54dbc688f6b8c4497452ae3d4f60b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287030">[전국노래자랑] 국방수도 계룡시.. ‘난 남자다’ 김장훈 특별가수 출격</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A0%84%EA%B5%AD%EB%85%B8%EB%9E%98%EC%9E%90%EB%9E%91">전국노래자랑</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231103082203_52d54dbc688f6b8c4497452ae3d4f60b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
