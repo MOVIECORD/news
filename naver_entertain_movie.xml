@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-11-07T15:04:44.467Z</updated>
+    <updated>2023-11-07T16:11:30.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘나폴레옹’ ‘마에스트로…’ OTT 영화가 극장에 먼저, 왜]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=025&amp;aid=0003319916</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=025&amp;aid=0003319916"/>
+        <updated>2023-11-07T16:10:45.499Z</updated>
+        <content type="html"><![CDATA[“나는 프랑스의 시궁창에 버려진 왕관을 발견해 칼끝으로 그걸 주워 정화해 국민의 투표에 따라 내 머리에 쓴다.” 나폴레옹 보나파르트(호아킨 피닉스)는 이렇게 말한 뒤 교황의 손길을 기다리지 않고 직접 왕관을 집어 들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[HI★리뷰] '빅슬립', 최고의 연기가 빚어낸 묵직한 감동]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000769014</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001658792"/>
         <updated>2023-11-07T07:06:54.623Z</updated>
         <content type="html"><![CDATA[배우 차인표와 개그우먼 장도연이 대종상영화제의 사회자로 나선다. 대종상영화제조직위원회는 오는 15일 개막하는 제 59회 대종상영화제의 사회자로 차인표와 장도연을 공식 선정, 발표했다. 차인표는 1993년 MBC공채로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upcoming Korean films in limbo due to Lee Sun-kyun drug allegations]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000045533</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000045533"/>
-        <updated>2023-11-07T07:06:54.627Z</updated>
-        <content type="html"><![CDATA[After being summoned by the police a second time over the weekend, actor Lee Sun-kyun admitted that he did take illegal]]></content>
     </entry>
 </feed>
