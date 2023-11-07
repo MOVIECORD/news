@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 07:07:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 09:03:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] ‘녹야’  판빙빙-이주영의 녹초가 된 하룻밤 (한슈아이 감독,2023)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=287730</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=287730</guid>
+            <pubDate>Tue, 07 Nov 2023 09:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=287730">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231107160841_fd480d98092e18537c1aa9f30089699c.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287730">[리뷰] ‘녹야’  판빙빙-이주영의 녹초가 된 하룻밤 (한슈아이 감독,2023)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231107160841_fd480d98092e18537c1aa9f30089699c.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[김재경, 영화 '너를 줍다' 내일 개봉]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=287692</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287025">디즈니+ '비질란테' 남주혁의 청춘.. "단순한 모범 경찰대생이 아닙니다" </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231103081755_dd8373a6f04aad04d52b816393d6c458.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '괴인' 시사회 열리다.. "어떻게 끝날지 예측할 수 없어서 흥미진진"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=287014</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=287014</guid>
-            <pubDate>Fri, 03 Nov 2023 00:30:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=287014">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231103080822_b023725e0625abaebd404251f7c29658.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287014">영화 '괴인' 시사회 열리다.. "어떻게 끝날지 예측할 수 없어서 흥미진진" </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231103080822_b023725e0625abaebd404251f7c29658.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
