@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 22:06:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 23:04:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SBS '마이 데몬' 김유정X송강, "달콤하거나 살벌하거나"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=286903</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=286903</guid>
+            <pubDate>Wed, 08 Nov 2023 23:02:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=286903">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231102110353_d4ef5b2325bbae06c1c93422097f4255.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=286903">SBS '마이 데몬' 김유정X송강, "달콤하거나 살벌하거나"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231102110353_d4ef5b2325bbae06c1c93422097f4255.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장] ‘2023 MAMA AWARDS’ 미디어데이.. 도쿄돔에서 만나는 ‘나(I)’와 ‘MAMA’]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=287881</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287063">[연인] 남궁민-안은진 한양 재회, ‘설레는 미소’... 오늘(3일) 프로야구중계로 결방</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231103090121_9da33ec7d0b2e346e29dca2f300b9ffa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SBS '마이 데몬' 김유정-송강의 판타지 로코... "낯설고 수상한 나의 구원"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=286884</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=286884</guid>
-            <pubDate>Thu, 02 Nov 2023 03:05:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=286884">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231102104300_52b99ca7115c274d88f9c09cf5763dff.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=286884">SBS '마이 데몬' 김유정-송강의 판타지 로코... "낯설고 수상한 나의 구원"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231102104300_52b99ca7115c274d88f9c09cf5763dff.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
