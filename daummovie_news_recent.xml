@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-11-08T19:06:26.879Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 08 Nov 2023 20:04:24 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[故 설리가 전하고 싶었던 마지막 이야기...'진리에게' 13일 공개]]></title>
+            <link>https://v.daum.net/v/20231109050330920</link>
+            <guid>https://v.daum.net/v/20231109050330920</guid>
+            <pubDate>Wed, 08 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=이경민 기자] 영화 '진리에게'가 전 세계 시청자들을 만날 준비를 마쳤다. 8일 미스틱스토리에 따르면 영화 '진리에게'는 오는 13일 넷플릭스를 통해 공개된다. '진리에게'(각본/감독 정윤석)는 배우이자 아티스트로서의 설리와 스물다섯 최진리가 그 시절 느꼈던 다양한 일상의 고민과 생각을 인터뷰 형식으로 그려낸 장편 다큐멘터리 영화다. '논픽션]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F09%2Ftvreport%2F20231109050334314larr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘더 마블스’ 액션·음악은 만족, 불친절한 서사는 글쎄]]></title>
+            <link>https://v.daum.net/v/20231109040908481</link>
+            <guid>https://v.daum.net/v/20231109040908481</guid>
+            <pubDate>Wed, 08 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[8일 개봉한 마블 시네마틱 유니버스(MCU) 슈퍼히어로 ‘캡틴 마블’의 두 번째 이야기인 ‘더 마블스’는 화려한 액션과 눈을 즐겁게 하는 볼거리가 가득했다. 이번엔 MCU 최연소 감독인 니아 다코스타의 젊은 감각까지 더해져 귀까지 즐거웠다. 하지만 MCU라는 거대한 세계관이 일반 관객의 발목을 잡을 듯하다. 복잡하게 얽히고설킨 세 캐릭터의 서사와 감정선은]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F09%2Fkukminilbo%2F20231109040909901xugd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
