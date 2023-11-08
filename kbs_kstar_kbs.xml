@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 13:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 14:04:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[옥탑방의 문제아들] 전문가들께 묻습니다! 옥문아 MC들의 닮은꼴 강아지, 고양이는?]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=287910</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=287910</guid>
+            <pubDate>Wed, 08 Nov 2023 14:03:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=287910">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231108230217_9d031ec3fa7f1a834e97d5a6eb80956a_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287910">[옥탑방의 문제아들] 전문가들께 묻습니다! 옥문아 MC들의 닮은꼴 강아지, 고양이는? </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231108230217_9d031ec3fa7f1a834e97d5a6eb80956a_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예고] 옥탑방의 문제아들, 수의사계 ‘이석훈’ 설채현 X ‘박보검’ 김명철 출격]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=287893</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%98%BC%EB%A1%80%EB%8C%80%EC%B2%A9">월화드라마 혼례대첩</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231107144928_97558d375478b07ffa1e0de3a4445f54.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[시사기획 창] ‘하마스의 전쟁, 이스라엘의 전쟁']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=287717</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=287717</guid>
-            <pubDate>Tue, 07 Nov 2023 06:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=287717">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231107143818_e9778599c4c6d3cf92d5314000fa7ca8.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287717">[시사기획 창] ‘하마스의 전쟁, 이스라엘의 전쟁'</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%9C%EC%82%AC%EA%B8%B0%ED%9A%8D%20%EC%B0%BD">시사기획 창</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231107143818_e9778599c4c6d3cf92d5314000fa7ca8.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
