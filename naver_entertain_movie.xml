@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-11-08T17:04:10.368Z</updated>
+    <updated>2023-11-08T18:12:07.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[조재휘의 시네필] 계급사회 속 비틀리고 고립된 개인…일상이 호러가 된 세상]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000057561</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000057561"/>
+        <updated>2023-11-08T18:11:22.372Z</updated>
+        <content type="html"><![CDATA[정범식 감독의 필모그래피에는 은밀한 연속성이 있다. ‘기담’(2007)이 낡은 앨범을 꺼내 펼치듯 유신 시대 시점에서 일제강점기를 돌아보는 회고의 옴니버스 호러였다면, ‘곤지암’(2018)에서는 청년들이 유신 시대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['마이 샤이니 월드' 해외 23개국 개봉 확정]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001276173</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005211936"/>
         <updated>2023-11-08T09:04:56.395Z</updated>
         <content type="html"><![CDATA[우리 학교에, 동네에, 괴물이 산다? 세계적인 거장 고레에다 히로카즈 감독의 신작 ‘괴물’이 온다. ‘괴물’ 측은 8일 흥미로운 영화의 스틸을 전격 공개해 시선을 모은다. ‘괴물’은 몰라보게 바뀐 아들의 행동에 이상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["'헝거게임'은 환상적이다”, 해외언론 호평 일색…"훌륭한 세계관의 확장"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003786004</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003786004"/>
-        <updated>2023-11-08T09:04:56.401Z</updated>
-        <content type="html"><![CDATA[판타지 블록버스터 시리즈 '헝거게임'의 프리퀄 영화 '헝거게임: 노래하는 새와 뱀의 발라드'가 해외에서 폭발적인 호응을 얻고 있다. 영화 '헝거게임: 노래하는 새와 뱀의 발라드'는 단 한 명의 승자만이 살아남을 수]]></content>
     </entry>
 </feed>
