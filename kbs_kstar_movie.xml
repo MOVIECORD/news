@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 21:05:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 22:06:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스 '레벨 문:파트1'.."영웅은 없다. 반란군만 있을 뿐" .. 12월 22일 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=287848</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=287848</guid>
+            <pubDate>Thu, 09 Nov 2023 22:04:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=287848">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231108072421_bce2802ec9bc33fffdf788559aa79b6f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287848">넷플릭스 '레벨 문:파트1'.."영웅은 없다. 반란군만 있을 뿐" .. 12월 22일 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231108072421_bce2802ec9bc33fffdf788559aa79b6f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["사이비 종교의 폐해!" '웨이코: 애프터매스' 오늘 파라마운트+ 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=288075</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287524">이와이 슌지 감독, '키리에의 노래' 홍보 특급 내한 행사..  배두나GV + 라디오 출연</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231106171518_75c4733e560541610f4734da06ed114b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장] 디즈니+ '비질란테' 제작발표회.. "한국형 다크 히어로의 탄생"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=287509</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=287509</guid>
-            <pubDate>Mon, 06 Nov 2023 08:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=287509">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231106165554_c3451ed3027e3f6d403144367eab5df6.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287509">[현장] 디즈니+ '비질란테' 제작발표회.. "한국형 다크 히어로의 탄생"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231106165554_c3451ed3027e3f6d403144367eab5df6.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
