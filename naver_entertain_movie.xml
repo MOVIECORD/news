@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-11-09T11:04:58.048Z</updated>
+    <updated>2023-11-09T12:11:18.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잊지 말아야 할 1979년 12·12 사태 다룬 '서울의 봄', 황정민·정우성이 표현한 그날의 치열함[종합]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000635834</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000635834"/>
+        <updated>2023-11-09T12:10:22.021Z</updated>
+        <content type="html"><![CDATA[한국 근현대사에서 절대로 잊으면 안 되며 기억해야만 하는 그 날. 1979년의 겨울 12.12 사태를 다룬 '서울의 봄'은 당시의 치열하고 촉각을 다투던 순간을 담아냈다. 해당 사건은 시발점이 되어 1980년 5.1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["감독 죽일 수도 있겠다"…정우성 혀 내두른 디테일·집요함 (서울의 봄)[종합]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001660027</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000051427"/>
         <updated>2023-11-09T10:02:56.355Z</updated>
         <content type="html"><![CDATA[영화는 그리움의 매체다. 영화 속의 순간은 늘 지나간 시간이므로 영화를 좋아한다는 일은 필연적으로 과거를 좋아하는 일과 진배없다. 이는 작금의 시네필들이 &lt;노란문: 세기말 시네필 다이어리&gt;(이하 &lt;노란문&gt;)를 좋아할]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기획] 힘껏 좋아했던 그 기억으로, <노란문: 세기말 시네필 다이어리>에 대한 몇 가지 것들]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000051426</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000051426"/>
-        <updated>2023-11-09T10:02:56.360Z</updated>
-        <content type="html"><![CDATA[김대엽, 김민향, 김석우, 김윤아, 김형옥, 반세범, 봉준호, 이동훈, 이병훈, 이혁래, 임훈아, 장은심, 최종태. 2023년 현재, 사는 곳도 하는 일도 각기 다른 13명의 중년은 30년 전, 영화연구소 ‘노란문’]]></content>
     </entry>
 </feed>
