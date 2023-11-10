@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-11-10T20:03:27.876Z</updated>
+    <updated>2023-11-10T21:02:42.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘그날까지 어떻게 살았는지’ 기억하고 싶은 마음 [비장의 무비]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=308&amp;aid=0000033708</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=308&amp;aid=0000033708"/>
+        <updated>2023-11-10T21:01:56.586Z</updated>
+        <content type="html"><![CDATA[어느 봄날. 잠에서 깬 세미(박혜수)가 왼뺨에 흐르는 눈물을 닦아낸다. 그길로 선생님을 찾아가 조른다. “하은이가 너무 걱정돼요. 꿈이 불길했단 말이에요. 하은이한테 무슨 일이 생길 것 같아요.” 선생님의 대답. “]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이와이 슌지 감독, JTBC '뉴스룸' 출연한다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001276470</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000659960"/>
         <updated>2023-11-10T09:04:52.751Z</updated>
         <content type="html"><![CDATA[황광희, 윤두준, 손동운, 김민규, 박상남 출연 사진=로맨틱 시티 in 부산 SBS는 로맨틱 시티 두 번째 이야기 ‘로맨틱 시티 in 로맨틱 시티 in 부산 부산’편이 2030 부산세계박람회 유치 지원을 위해 11월]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["함께할 때 빛난다" '더 마블스' 호평 포인트…스위칭액션 "최고의 전투씬"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000459702</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000459702"/>
-        <updated>2023-11-10T08:10:11.265Z</updated>
-        <content type="html"><![CDATA[MCU(마블 시네마틱 유니버스) 슈퍼히어로 캡틴 마블의 두 번째 이야기이자 '더 마블스'가 확실한 관람 포인트로 호평받고 있다. '더 마블스'는 우주를 지키는 히어로 캡틴 마블 '캐럴 댄버스'가 능력을 사용할 때마다]]></content>
     </entry>
 </feed>
