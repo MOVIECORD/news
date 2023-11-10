@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 21:02:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 23:04:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 '어느 날 그녀가 우주에서'.. 평범한 취준생과 4차원 외계소녀의 '탈지구 판타지']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=287160</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=287160</guid>
+            <pubDate>Fri, 10 Nov 2023 23:02:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=287160">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231104071945_22bc76cdb9d8dd4f009941bc3d4bf5c9.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287160">영화 '어느 날 그녀가 우주에서'.. 평범한 취준생과 4차원 외계소녀의 '탈지구 판타지'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231104071945_22bc76cdb9d8dd4f009941bc3d4bf5c9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["인사이드 아웃'에도 속편이 와요... 내년 여름 개봉]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=288180</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287692">김재경, 영화 '너를 줍다' 내일 개봉</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231107141647_0d31f409a80affa3ec5c3b22c0c782b5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 '이재, 곧 죽습니다'..  박소담, 초월적 존재 되다]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=287654</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=287654</guid>
-            <pubDate>Tue, 07 Nov 2023 01:43:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=287654">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231107083923_6e0bf8b64a46508e67b07e9c5ef5de79.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=287654">티빙 '이재, 곧 죽습니다'..  박소담, 초월적 존재 되다</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231107083923_6e0bf8b64a46508e67b07e9c5ef5de79.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
