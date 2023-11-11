@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-11-11T15:03:24.577Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 11 Nov 2023 17:04:49 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유라 "작품 속 캐릭터로 욕먹는 일 전혀 부담 안돼" [인터뷰]]]></title>
+            <link>https://v.daum.net/v/20231112002804541</link>
+            <guid>https://v.daum.net/v/20231112002804541</guid>
+            <pubDate>Sat, 11 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 모신정 기자]&nbsp;인기 걸그룹 출신 배우로서 유라는 작품을 고르는데 있어서 꽤 독특한 행보를 보이고 있다.&nbsp; 유라는 지난해 JTBC 드라마 '기상청 사람들: 사내연애 잔혹사 편'에서 약혼녀가 있는 기상청 대변인 한기준(윤박)과 썸을 타다가 결혼에 골인하는 기상전문 기자 채유진 역을 맛깔스럽게 소화해내 연기력이 물이 올랐다는 평을 받은바 있]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F12%2FSpoHankook%2F20231112002806737opvy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
