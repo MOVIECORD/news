@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-11-11T21:08:14.461Z</updated>
+    <updated>2023-11-11T22:03:06.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[집중 인터뷰]이정홍 감독 "우연과 전화위복이 '괴인'이 됐다"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012203708</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012203708"/>
+        <updated>2023-11-11T22:02:19.771Z</updated>
+        <content type="html"><![CDATA[영화 '괴인'은 종잡을 수가 없다. 이 작품은 통념을 깬다. 관객 대부분에겐 무의식 중에 학습된 스토리가 있다. 익숙한 설정 몇 가지가 모이면 으레 이야기가 나아갈 방향이 예상되기 마련이다. 클리셰 말이다. 그저 그]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박서준, 4분 분량 ‘더 마블스’ 출연한 이유]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000206232</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000060126"/>
         <updated>2023-11-10T23:03:27.311Z</updated>
         <content type="html"><![CDATA[이달 22일 개봉하는 탈지구 판타지 로맨스 &lt;어느 날 그녀가 우주에서&gt;가 영화의 완성도를 더한 백서빈, 신연서의 캐릭터 비하인드를 공개했다. 자신을 우주적 존재라 믿는 ‘나은’과 평범한 만년 취준생 ‘석민’이 우연히]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로맨스를 빌린 힐링 드라마…영화 '어느 날 그녀가 우주에서']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014323705</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014323705"/>
-        <updated>2023-11-10T23:03:27.311Z</updated>
-        <content type="html"><![CDATA["아버지가 너 놀고먹는다고 난리야. 안 되면 식당 주방일 배우라니까 그렇게 알아." 만년 취업준비생 석민(백서빈 분)에게 부모님의 최후통첩이 날아든다. 풀이 죽은 그는 작게 고개를 끄덕인다. 어머니가 놓고 간 봉투]]></content>
     </entry>
 </feed>
