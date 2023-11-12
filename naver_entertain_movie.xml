@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-11-12T15:03:18.718Z</updated>
+    <updated>2023-11-12T17:06:58.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['서울의 봄' 황정민 vs 정우성, 연기 대결의 맛 [Oh!쎈 이슈]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004965095</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004965095"/>
+        <updated>2023-11-12T17:06:01.189Z</updated>
+        <content type="html"><![CDATA[(※이 기사에 스포일러가 있습니다.) 10·26 사건으로 대통령이 세상을 떠난 가운데, 보안사령관 전두광(황정민 분)은 전임 대통령의 임무를 이어받아 자리를 차지하고 싶은 야욕을 품는다. 권력 찬탈을 꿈꾸는 전두광의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[밴드 QWER, 'AGF 2023' 출격…치트키 매력 선뵌다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000660070</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003664020"/>
         <updated>2023-11-12T03:06:34.594Z</updated>
         <content type="html"><![CDATA[배우 설경구가 정지영 감독의 진정성에 끌려 '소년들'에 출연하게 됐다고 밝혔다. 설경구는 영화 '실미도'를 비롯해 '그놈 목소리', '소원', '생일', 신작 '소년들'에 이르기까지 실화를 소재로 만들어진 여러 실화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마로스튜디오 유튜브 채널 'V&U', 제4기 버튜버 4명 데뷔]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014324781</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014324781"/>
-        <updated>2023-11-12T03:06:34.597Z</updated>
-        <content type="html"><![CDATA[애니메이션 기업 마로스튜디오가 제작한 브랜드 V&amp;U(Virtual &amp; Universe)가 지난 11일 제4기 버튜버(버튜얼 유튜버)를 데뷔시켰다고 12일 밝혔다. 버튜버는 가상의 캐릭터가 방송을 진행하는 인터넷 아이]]></content>
     </entry>
 </feed>

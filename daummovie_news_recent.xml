@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-11-12T15:03:18.724Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 12 Nov 2023 17:06:58 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['서울의 봄' 황정민 vs 정우성, 연기 대결의 맛 [Oh!쎈 이슈]]]></title>
+            <link>https://v.daum.net/v/20231113001822107</link>
+            <guid>https://v.daum.net/v/20231113001822107</guid>
+            <pubDate>Sun, 12 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;(※이 기사에 스포일러가 있습니다.)&nbsp; 10·26 사건으로 대통령이 세상을 떠난 가운데, 보안사령관 전두광(황정민 분)은 전임 대통령의 임무를 이어받아 자리를 차지하고 싶은 야욕을 품는다. 권력 찬탈을 꿈꾸는 전두광의 계략을 눈치 챈 수도경비사령관 이태신(정우성 분). 그는 전두광과 노태건(박해준 분)이 이끄는 반란군 연합에 대]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F13%2Fpoctan%2F20231113001822651lzrf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
