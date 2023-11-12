@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-11-12T07:02:45.098Z</updated>
+    <updated>2023-11-12T09:02:31.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박서준, MCU 입성에도 마동석과 비교 불가인 이유]]></title>
+        <id>https://v.daum.net/v/20231112180018065</id>
+        <link href="https://v.daum.net/v/20231112180018065"/>
+        <updated>2023-11-12T09:02:30.616Z</updated>
+        <content type="html"><![CDATA[[서울경제] 정지은 영화 기자와 함께 영화 이슈에 관한 수다를 나눕니다. '무비이슈다' 한때 한국 영화배우들이 출연한다는 소식만으로도 경사가 아닐 수 없었던 MCU(마블 시네마틱 유니버스). 하지만 누군가에게는 호재가 아니었던 모양이다. 캡틴 마블의 두 번째 여정을 그린 영화 '더 마블스'(감독 니아 다코스타)에 출연한 박서준의 이야기다. ◇]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재평가 된 '외계+인', 이번엔 통할까]]></title>
         <id>https://v.daum.net/v/20231112153332493</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231112084855390"/>
         <updated>2023-11-12T00:31:27.659Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] '더 마블스'가 개봉 후 첫 토요일 전체 박스오피스 1위에 등극했다. 11월 12일 영화진흥위원회 통합전산망 집계에 따르면 11일 영화 '더 마블스'(감독 니아 다코스타)가 13만2,882명의 관객을 동원하며 전체 박스오피스 1위를 차지했다. 누적 관객 34만3,089명이다. 지난 8일 개봉한 '더 마블스'는 우주를 지키는 히어로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['콘유'→'정신병동' 박보영 "나이 드는 제 모습이 좋아요"]]></title>
-        <id>https://v.daum.net/v/20231112084001311</id>
-        <link href="https://v.daum.net/v/20231112084001311"/>
-        <updated>2023-11-12T00:31:27.663Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 베우 박보영이 1일 오전 서울 종로구 JW메리어트 동대문스퀘어 서울에서 진행된 넷플릭스 오리지널 시리즈 '정신병동에도 아침이 와요' 제작발표회에 참석해 포즈를 취하고 있다.  '정신병동에도 아침이 와요'는 정신건강의학과로 처음 오게 된 간호사 다은이 정신병동 안에서 만나는 세상과 마음 시린 사람들의 이야기를 그린다. 오는 3일]]></content>
     </entry>
 </feed>
