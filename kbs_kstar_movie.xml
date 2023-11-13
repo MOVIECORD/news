@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 04:10:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 05:03:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니+ '로키' 시즌2 피날레..  “내가 어떤 신이 되어야 할지 알아”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=288692</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=288692</guid>
+            <pubDate>Mon, 13 Nov 2023 05:02:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=288692">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231113132433_6a4c2b945e95ecfa27ac8994907c2ba1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=288692">디즈니+ '로키' 시즌2 피날레..  “내가 어떤 신이 되어야 할지 알아”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231113132433_6a4c2b945e95ecfa27ac8994907c2ba1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 호러 명가 블룸하우스 대표 제이슨 블룸.. “프레디의 피자가게, 독창적으로 무서운 영화”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=288641</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=288047">쿠팡플레이 '소년시대', "1989년 부여에 가보능겨~".. 임시완-이선빈-이시우-강혜원 캐릭터 포스터</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231109110719_598360358ebb4f61fb2c5d48e9e6dede.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '서울의 봄'..  1979년 12월 12일, 운명의 그날!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=288004</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=288004</guid>
-            <pubDate>Thu, 09 Nov 2023 01:47:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=288004">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231109095623_c6eb52d08015df38fc9b6fd1d8651256.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=288004">영화 '서울의 봄'..  1979년 12월 12일, 운명의 그날!</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231109095623_c6eb52d08015df38fc9b6fd1d8651256.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
