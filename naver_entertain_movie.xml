@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-11-13T19:02:51.643Z</updated>
+    <updated>2023-11-13T20:04:40.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] 홍콩 영화 전설 ‘영웅본색2’ 한국 애니로 부활한다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000770115</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000770115"/>
+        <updated>2023-11-13T20:03:55.496Z</updated>
+        <content type="html"><![CDATA[1980년대 홍콩 영화 전성기를 이끈 작품 중 하나인 ‘영웅본색2’(1987)가 한국에서 동명 장편 애니메이션영화로 만들어진다. 홍콩 영화가 한국 애니메이션영화로 만들어지는 것은 이번이 처음이다. 13일 애니메이션]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['조커' 호아킨 피닉스, 이번엔 '나폴레옹'이다...완벽한 몰입감 선사 예정]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001276752</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002768574"/>
         <updated>2023-11-13T10:04:55.520Z</updated>
         <content type="html"><![CDATA[배우 유선호, 강미나가 계급으로 나누어진 학교를 배경으로 한 영화 '사채소년'으로 스크린에 데뷔했다. 13일 오후 서울 용산구 CGV 아이파크몰에서는 황동석 감독과 배우 유선호, 강미나, 유인수, 이일준, 신수현,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["좋은 어른 있나"…'사채소년' 유선호→강미나, 미성년자 이용하고 당하는 고딩들 (종합)[Oh!쎈 현장]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004965381</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004965381"/>
-        <updated>2023-11-13T10:04:55.521Z</updated>
-        <content type="html"><![CDATA[“강진은 제대로 된 보호를 받지 못 하는 인물이라고 생각했다. 그래서 보호 받지 못한 학생의 마음은 어떨지 생각을 하며 다가갔다.” 유선호는 13일 오후 서울 이촌동 CGV 용산아이파크몰에서 열린 ‘사채소년’의 언론]]></content>
     </entry>
 </feed>
