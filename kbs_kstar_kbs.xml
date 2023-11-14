@@ -4,15 +4,33 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 22:03:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 23:05:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[혼례대첩 6회 리뷰] 로운-조이현, “대감님 정신 차리십시오!”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=289013</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=289013</guid>
+            <pubDate>Tue, 14 Nov 2023 23:03:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=289013">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231115074644_d771c68f6457b1382e422ca3bcc1a1be.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=289013">[혼례대첩 6회 리뷰] 로운-조이현, “대감님 정신 차리십시오!”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%98%BC%EB%A1%80%EB%8C%80%EC%B2%A9">월화드라마 혼례대첩</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231115074644_d771c68f6457b1382e422ca3bcc1a1be.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[혼례대첩] 6개월 결혼 생활로 평생을 버틸 힘 얻은 조이현 “세월이 길다고 사랑이 더 큰 건 아니에요”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=289006</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=289006</guid>
             <pubDate>Tue, 14 Nov 2023 16:04:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=289006">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=289006">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231115001952_7ce2eca07d6adcba3731d48b306ad320.png" alt="대체 텍스트">
@@ -347,24 +365,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=288905">KBS 박민 사장 기자회견, “공정한 보도, 파괴적 혁신으로 스마트한 공영방송 만들겠다”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231114154302_4fad954326441841f1217198757fb92a.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['고려 거란 전쟁' 1-2회 메이킹 영상..  "촬영 현장은 언제나 즐거워~"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=288875</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=288875</guid>
-            <pubDate>Tue, 14 Nov 2023 00:29:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=288875">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231114083245_10b355eb0f40bfcbf1eb519895ab6b5d.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=288875">'고려 거란 전쟁' 1-2회 메이킹 영상..  "촬영 현장은 언제나 즐거워~"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8C%80%ED%95%98%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%B3%A0%EB%A0%A4%20%EA%B1%B0%EB%9E%80%20%EC%A0%84%EC%9F%81">대하드라마 고려 거란 전쟁</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231114083245_10b355eb0f40bfcbf1eb519895ab6b5d.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
