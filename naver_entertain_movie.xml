@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-11-17T16:07:33.784Z</updated>
+    <updated>2023-11-17T17:02:48.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['독전2' 백감독 "조진웅, 이번 작품의 답 내려줬다"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001277329</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001277329"/>
+        <updated>2023-11-17T17:02:01.245Z</updated>
+        <content type="html"><![CDATA[배우 조진웅이 넷플릭스 영화 '독전 2'로 돌아왔다. 지난 2018년 수많은 마니아층을 형성하며 관객들의 입소문으로 화제성과 흥행을 모두 잡은 영화 '독전' 주인공 조진웅이 극중 '이선생'의 실체를 쫓는 열혈 형사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["축하드려요" '님아, 그 강을…' 강계열 할머니, 올해 백수연 '깜짝 근황'[이슈S]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000461068</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000051480"/>
         <updated>2023-11-17T09:06:44.376Z</updated>
         <content type="html"><![CDATA[11월2일부터 4일, 홍콩의 근현대 시각 문화박물관 M+에서 ‘한국영화 르네상스의 기원’ 콘퍼런스(The Origins of the South Korean Film Renaissance Conference)가 열렸다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘헝거게임:노래하는 새와 뱀의 발라드’ 황석희 번역가가 전하는 번역 비하인드 [일문일답]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004968648</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004968648"/>
-        <updated>2023-11-17T09:06:44.376Z</updated>
-        <content type="html"><![CDATA[전 세계를 강타한 판타지 블록버스터 시리즈 '헝거게임'의 프리퀄 영화 '헝거게임: 노래하는 새와 뱀의 발라드'가 알고 보면 더 재미있는 황석희 번역가와의 인터뷰 내용을 공개했다. 단 한 명의 승자만이 살아남을 수 있]]></content>
     </entry>
 </feed>
