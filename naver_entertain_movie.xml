@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-11-17T19:04:54.185Z</updated>
+    <updated>2023-11-17T21:04:19.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부산 영화의전당, 30일까지 영화평론대상·영화감상문 공모]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012217033</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012217033"/>
+        <updated>2023-11-17T21:03:40.418Z</updated>
+        <content type="html"><![CDATA[부산 영화의전당은 영화비평의 활성화와 신진 영화평론가를 발굴하기 위해 '2023년 영화의전당 영화평론대상'과 '영화감상문' 공모를 진행한다고 18일 밝혔다. 이번 공모는 영화평론대상과 영화감상문 2개 부문으로 이뤄지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['독전2' 백감독 "조진웅, 이번 작품의 답 내려줬다"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001277329</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000051481"/>
         <updated>2023-11-17T09:06:44.372Z</updated>
         <content type="html"><![CDATA[홍콩의 M+는 홍콩과 중화권, 아시아를 중심으로 세계의 시각 미술, 디자인과 건축 및 무빙 이미지를 포괄하는 복합미술박물관이다. 이처럼 압도적인 규모를 자랑하는 M+의 무빙 이미지 센터에 M+ 시네마가 있다. 이곳의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기획] 한국영화 르네상스는 어디에서 시작되었나]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000051480</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000051480"/>
-        <updated>2023-11-17T09:06:44.376Z</updated>
-        <content type="html"><![CDATA[11월2일부터 4일, 홍콩의 근현대 시각 문화박물관 M+에서 ‘한국영화 르네상스의 기원’ 콘퍼런스(The Origins of the South Korean Film Renaissance Conference)가 열렸다]]></content>
     </entry>
 </feed>
