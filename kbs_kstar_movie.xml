@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 01:47:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 02:23:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 김성수 감독 , "어이없는 그날의 밤 이야기" (영화 ‘서울의 봄’)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=289356</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=289356</guid>
+            <pubDate>Fri, 17 Nov 2023 02:22:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=289356">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231117105242_0e241221aa747aeda7d6de3c948598cc.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=289356">[인터뷰] 김성수 감독 , "어이없는 그날의 밤 이야기" (영화 ‘서울의 봄’)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231117105242_0e241221aa747aeda7d6de3c948598cc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['3일의 휴가' 김해숙-신민아의 힐링 판타지]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=289025</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=288197">"One Summer Night~" 클래식 '사랑의 스잔나' 12월 재개봉</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231110125003_b6f6bc8f73d9f59a6bd6aaca25635cb4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 오리지널 '스우파2 : 월드와이드로그'.. '츠바킬'의 하루]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=288624</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=288624</guid>
-            <pubDate>Mon, 13 Nov 2023 02:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=288624">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231113085559_8e5b5b3c34879c9a575bbd1b64684deb.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=288624">티빙 오리지널 '스우파2 : 월드와이드로그'.. '츠바킬'의 하루</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231113085559_8e5b5b3c34879c9a575bbd1b64684deb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
