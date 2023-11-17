@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 02:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 03:04:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠플 '대학전쟁' 데스매치..  "괜찮은 전략과 치명적 실수"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=289367</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=289367</guid>
+            <pubDate>Fri, 17 Nov 2023 03:03:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=289367">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231117120201_81e8b0a0a17cbadbee977c26df09412a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=289367">쿠플 '대학전쟁' 데스매치..  "괜찮은 전략과 치명적 실수"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231117120201_81e8b0a0a17cbadbee977c26df09412a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 김성수 감독 , "어이없는 그날의 밤 이야기" (영화 ‘서울의 봄’)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=289356</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=288641">[인터뷰] 호러 명가 블룸하우스 대표 제이슨 블룸.. “프레디의 피자가게, 독창적으로 무서운 영화”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231113104847_401e293f72acc76cd580e7e4834e8a6a_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["One Summer Night~" 클래식 '사랑의 스잔나' 12월 재개봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=288197</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=288197</guid>
-            <pubDate>Mon, 13 Nov 2023 02:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=288197">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231110125003_b6f6bc8f73d9f59a6bd6aaca25635cb4.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=288197">"One Summer Night~" 클래식 '사랑의 스잔나' 12월 재개봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231110125003_b6f6bc8f73d9f59a6bd6aaca25635cb4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
