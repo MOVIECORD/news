@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 09:07:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 11:04:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[독립영화관] 아동권리주간 특별전 - 겨울매미, 벌레, 낮은 목소리]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=289374</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=289374</guid>
+            <pubDate>Fri, 17 Nov 2023 11:03:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=289374">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231117192745_236dfbd83f6138f18886b041c9ab8191.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=289374">[독립영화관] 아동권리주간 특별전 - 겨울매미, 벌레, 낮은 목소리</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8F%85%EB%A6%BD%EC%98%81%ED%99%94%EA%B4%80">독립영화관</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231117192745_236dfbd83f6138f18886b041c9ab8191.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[추적60분 예고] 상생은 없다 - ‘아디다스’, 갑질인가 분쟁인가]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=289285</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%B4%EB%A6%BC%ED%95%98%EB%8A%94%20%EB%82%A8%EC%9E%90%EB%93%A4">살림하는 남자들</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231116010821_5928b44851483a0386656fc1f12b838a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[살림하는 남자들2] 워킹맘이 된 하은?! 육아를 돕기 위해 짐을 한 보따리 싸서 찾아온 장모님…]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=289126</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=289126</guid>
-            <pubDate>Wed, 15 Nov 2023 17:02:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=289126">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231116005533_5ca28eaf575eed9a5d535f0770f2fe82_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=289126">[살림하는 남자들2] 워킹맘이 된 하은?! 육아를 돕기 위해 짐을 한 보따리 싸서 찾아온 장모님…</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%B4%EB%A6%BC%ED%95%98%EB%8A%94%20%EB%82%A8%EC%9E%90%EB%93%A4">살림하는 남자들</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231116005533_5ca28eaf575eed9a5d535f0770f2fe82_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
