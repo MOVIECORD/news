@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-11-18T12:10:25.800Z</updated>
+    <updated>2023-11-18T13:06:32.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['16대 품바'…연극배우 전수환씨 별세]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014339754</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014339754"/>
+        <updated>2023-11-18T13:05:51.976Z</updated>
+        <content type="html"><![CDATA[= '16대 품바'로 활약한 연극배우 전수환(全壽換)씨가 16일 오후 5시께 세상을 떠났다고 유족이 18일 전했다. 향년 57세. 2023.11.18 [유족제공. 재판매 및DB금지]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“마블 또 삐걱” 어쩌나, ‘어벤져스:캉 다이너스티’ 감독 하차…후임 못 정해[해외이슈]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003788825</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000060331"/>
         <updated>2023-11-18T01:44:33.368Z</updated>
         <content type="html"><![CDATA[훌루 재팬 오리지널 드라마 ‘플레이, 플리’(극본 박윤성, 연출 김종창)가 18일 첫 공개를 앞두고 두 주인공 송한주(김향기 분)와 이도국(신현승 분)의 다소 껄끄러운 첫 만남, 그리고 묘한 긴장감이 느껴지는 스틸]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마크로스 플러스 -무비 에디션' 이달 개봉]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000060330</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000060330"/>
-        <updated>2023-11-18T01:44:33.368Z</updated>
-        <content type="html"><![CDATA[SF 애니메이션 걸작 ‘마크로스’ 시리즈 &lt;마크로스 플러스 -무비 에디션-&gt;이 29일 한국 극장가에 선보인다. 40여년의 역사를 지닌 ‘마크로스’ 시리즈는 섬세한 SF 설정과 화려한 고공 액션 연출, 그리고 음악을]]></content>
     </entry>
 </feed>
