@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-11-18T02:20:04.610Z</updated>
+    <updated>2023-11-18T03:05:20.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[권혜미의 더쿠미] ‘나만이 없는 거리’ 억울하게 죽은 내 친구를 위해, 타임슬립]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003313691</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003313691"/>
+        <updated>2023-11-18T03:04:31.618Z</updated>
+        <content type="html"><![CDATA[누구나 눈을 반짝이면서 시청했던 ‘인생 만화’ 한 편쯤은 간직하고 있지 않을까요? 현실에서는 절대 일어나지 않을 세계관이지만, 만화 속 인물들과 스토리에 우리의 삶은 더 즐거워지거나 위로를 받기도 하죠. ‘더쿠미’는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘서울의 봄’ 김성수 감독의 12.12 군사반란 ‘악당의 탄생’ [IS인터뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003313689</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=052&amp;aid=0001961688"/>
         <updated>2023-11-17T23:04:22.248Z</updated>
         <content type="html"><![CDATA["영화가 끝나는 순간 오히려 더 설레는 마음이 커지는 것 같아요. 제 영화를 보고 잘 설레지는 않는데, 이번 작품은 연애 세포가 다시 살아나는 것처럼 따뜻해지더라고요. 영화를 보고 사랑하는 마음이 생기고, 사랑할 일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서울의 봄' 김성수 감독 "잘생긴 정우성 연출, 이정재에 질 수 없죠"[인터뷰③]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003195656</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003195656"/>
-        <updated>2023-11-17T23:04:22.257Z</updated>
-        <content type="html"><![CDATA['서울의 봄'의 김성수 감독이 정우성과 다섯 번째 호흡을 맞춘 소감을 전했다. 13일 서울시 종로구 소격동의 한 카페에서 영화 '서울의 봄'의 연출을 맡은 김성수 감독과 인터뷰를 나눴다. '서울의 봄'은 1979년]]></content>
     </entry>
 </feed>
