@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-11-19T11:06:38.832Z</updated>
+    <updated>2023-11-19T12:13:38.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["돋보기·망원경으로 곰곰이 찬찬이 보아요"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000660805</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000660805"/>
+        <updated>2023-11-19T12:12:59.677Z</updated>
+        <content type="html"><![CDATA[고객 체험형 전시 '곰곰이와 찬찬이' '작다' 연상되는 작품 26점 선봬 직접 현미경 등으로 확대 관람 현대어린이책미술관이 내년 2월 18일까지 현대어린이책미술관 1·2 전시실에서 ‘곰곰이와 찬찬이’ 전시(사진)를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] '차현우 아내' 황보라, 엄마된다…김용건 손자·하정우 조카 얻는다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007185682</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003835065"/>
         <updated>2023-11-19T01:52:54.184Z</updated>
         <content type="html"><![CDATA[1970~80년대 한국 액션영화에서 활약했던 원로배우 박동룡이 세상을 떠났다. 향년 83세. 19일 영화계에 따르면 고인은 이날 오전 4시 50분쯤 서울의 한 요양병원에서 노환으로 숨을 거뒀다. 1940년 부산에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['프레디의 피자가게', 한국서도 깜짝 흥행…4일 연속 박스오피스 1위]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000301087</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000301087"/>
-        <updated>2023-11-19T01:52:54.186Z</updated>
-        <content type="html"><![CDATA[영화 '프레디의 피자가게'가 4일 연속 박스오피스 1위를 달리며 미국에 이어 한국에서도 흥행 호조를 보이고 있다. 19일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '프레디의 피자가게는 18일 전국 10만]]></content>
     </entry>
 </feed>
