@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-11-19T08:11:11.555Z</updated>
+    <updated>2023-11-19T09:04:50.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뜨겁다 ‘서울의 봄’]]></title>
+        <id>https://v.daum.net/v/20231119171803385</id>
+        <link href="https://v.daum.net/v/20231119171803385"/>
+        <updated>2023-11-19T09:04:50.111Z</updated>
+        <content type="html"><![CDATA[그 어느 것보다 뜨겁게 다가올, 감탄을 부르는 연기 향연이 펼쳐지는 ‘서울의 봄’이 온다. 영화 ‘서울의 봄’은 1979년 12월 12일 수도 서울에서 일어난 신군부 세력의 반란을 막기 위한 일촉즉발의 9시간을 그렸다. ‘비트’ ‘태양은 없다’ ‘감기’ ‘아수라’ 등을 연출한 김성수 감독의 신작이다. 12월 12일 보안사령관 전두광(황정민)이 반란을 일으키]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데니스 리처즈, '마약' 찰리 신과 이혼 "완전한 양육권 요청…후회 없다"]]></title>
         <id>https://v.daum.net/v/20231119161349175</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231119080501317"/>
         <updated>2023-11-19T00:31:14.997Z</updated>
         <content type="html"><![CDATA[[한겨레S] 주일우의 뒹굴뒹굴 만화ㅣ페르세폴리스 ‘아라비안나이트’에만 존재할 것 같은 나라 이름, 샤르자. 아랍에미리트연합에는 7개의 독립적인 토후국이 있는데, 그중 하나다. 이 나라는 아라비아반도 위에 있는데, 아라비아반도는 홍해를 끼고 아프리카와 접해 있고 페르시아만을 사이에 두고 아시아와 닿아 있다. 북쪽 끝은 지중해와 닿아 유럽에 가깝다. 샤르자에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나의 피투성이 연인' 한해인 "큰 에너지에 본능적으로 끌려"]]></title>
-        <id>https://v.daum.net/v/20231119072006962</id>
-        <link href="https://v.daum.net/v/20231119072006962"/>
-        <updated>2023-11-18T23:03:21.982Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 이영재 기자 = 지난 15일 개봉한 유지영 감독의 '나의 피투성이 연인'은 여성의 임신과 출산을 다룬 영화다. 주인공인 신인 작가 재이(한해인 분)는 학원 강사인 남자친구 건우(이한주)와 결혼도 출산도 하지 않기로 하고 동거하지만, 어느 날 임신했다는 사실을 알게 된다. 재이에게 가장 먼저 밀려드는 감정은 작가의 경력을 제대로 쌓아갈 수]]></content>
     </entry>
 </feed>
