@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-11-20T01:50:27.975Z</updated>
+    <updated>2023-11-20T02:22:59.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['프레디의 피자가게', 개봉 첫 주말 1위…2023 공포영화 중 최고 흥행 속도]]></title>
+        <id>https://v.daum.net/v/20231120111025592</id>
+        <link href="https://v.daum.net/v/20231120111025592"/>
+        <updated>2023-11-20T02:22:59.353Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;개봉과 동시에 올 개봉한 공포영화 최초로 전체 박스오피스 1위에 오르며 뜨거운 관심을 모으고 있는 '프레디의 피자가게'가 개봉 첫 주 34만여 관객을 돌파하며 주말 박스오피스 1위를 차지했다. 이는 2023년 개봉한 공포영화들 중 가장 빠른 흥행 속도라서 이목을 집중시킨다. 20일 영화진흥위원회 영화관입장권 통합전산망 집계에 따]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['서울의 봄' 개봉 D-2 전체 예매율 1위…흥행 예고]]></title>
         <id>https://v.daum.net/v/20231120103933967</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231120075237648"/>
         <updated>2023-11-19T23:06:59.756Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 영화 '서울의 봄'이 9일 연속 예매율 1위를 굳건히 지켰다. 20일 영화진흥위원회 통합전산망에 따르면 '서울의 봄'은 이날 오전 7시 기준 예매율 45.5%(예매 관객수 10만604명)을 달성하며 9일 연속 전체 예매율 1위를 수성했다. 이는 '밀수' '콘크리트 유토피아' 등 올해 여름 흥행작들의 사전 예매율과 견줘도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['프레디의 피자가게' 5일째 정상…3위로 밀려난 '더마블스']]></title>
-        <id>https://v.daum.net/v/20231120072417233</id>
-        <link href="https://v.daum.net/v/20231120072417233"/>
-        <updated>2023-11-19T23:06:59.756Z</updated>
-        <content type="html"><![CDATA[(서울=뉴스1) 장아름 기자 = 영화 '프레디의 피자가게'가 5일 연속 박스오피스 1위를 수성했다. 20일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 '프레디의 피자가게'는 지난 19일 1041개 스크린에서 9만2137명의 관객을 동원하며 누적관객수 34만630명을 기록, 박스오피스 1위를 지켰다. '프레디의 피자가게'는 80년대에 아이들이]]></content>
     </entry>
 </feed>
