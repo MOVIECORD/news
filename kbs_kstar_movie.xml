@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 07:03:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 10:06:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] 넷플릭스 ‘독전2’.. 리선생을 쫓았는데, 왕선생이었다니...]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=289788</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=289788</guid>
+            <pubDate>Mon, 20 Nov 2023 10:05:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=289788">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231120175753_6a29f0b9e951c914a61eec8de63153c8.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=289788">[리뷰] 넷플릭스 ‘독전2’.. 리선생을 쫓았는데, 왕선생이었다니...</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231120175753_6a29f0b9e951c914a61eec8de63153c8.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] 만추, “탕웨이는 왜 편지를 뜯어 삼켰을까?” (김태용 감독,2010)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=289768</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=289025">'3일의 휴가' 김해숙-신민아의 힐링 판타지</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231115080153_062bd8b2e84c194443bfc3b37965278e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["Let It Go~"  디즈니, '겨울왕국' 10주년 특급 이벤트 진행]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=289192</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=289192</guid>
-            <pubDate>Thu, 16 Nov 2023 00:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=289192">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231116090630_ad563abfcdf10e864ed2540fb9b4f427.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=289192">"Let It Go~"  디즈니, '겨울왕국' 10주년 특급 이벤트 진행</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231116090630_ad563abfcdf10e864ed2540fb9b4f427.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
