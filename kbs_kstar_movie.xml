@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 04:09:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 06:11:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파키스탄 영화  '조이랜드' 12월 개봉... "뜻밖의 로맨스"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=290253</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=290253</guid>
+            <pubDate>Thu, 23 Nov 2023 06:10:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=290253">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231123143927_46f43cd5b1c727acc02a4aee2281e977.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=290253">파키스탄 영화  '조이랜드' 12월 개봉... "뜻밖의 로맨스" </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231123143927_46f43cd5b1c727acc02a4aee2281e977.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] ‘본 투 플라이’,  타산지섬(他山之殲)..  "Made in China 스텔스의 위협"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=290226</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=289278">넷플릭스 '스위트홈' 시즌2.. "9명의 생존자들, 9개의 진화된 욕망"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231116175813_c7ff3f7d522a1e68f2dee07897ff17a9.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] 넷플릭스 ‘독전2’.. 리선생을 쫓았는데, 왕선생이었다니...]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=289788</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=289788</guid>
-            <pubDate>Mon, 20 Nov 2023 10:05:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=289788">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231120175753_6a29f0b9e951c914a61eec8de63153c8.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=289788">[리뷰] 넷플릭스 ‘독전2’.. 리선생을 쫓았는데, 왕선생이었다니...</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231120175753_6a29f0b9e951c914a61eec8de63153c8.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
