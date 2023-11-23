@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 16:08:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 18:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[서치미] 극한 아바타 면접까지 거쳤지만…결국 권혁수 찾기 실패!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=290309</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=290309</guid>
+            <pubDate>Thu, 23 Nov 2023 18:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=290309">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231124011016_f5c7f618b199ef57fa8adfc73f40bd2a_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=290309">[서치미] 극한 아바타 면접까지 거쳤지만…결국 권혁수 찾기 실패!</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%84%9C%EC%B9%98%3A%EB%AF%B8">서치:미</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231124011016_f5c7f618b199ef57fa8adfc73f40bd2a_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[서치미] 권혁수의 애창곡 맞히기! 계속되는 헛다리 추리~]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=290305</link>
@@ -347,24 +365,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=290135">[KBS중계] 이영표-남현종, 북중미월드컵 예선 '한중전'...시청률 12%로 1위 기록</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231122185405_c0fa74ba3082781009980ac265119511.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KBS드라마 '환상연가' 홍예지, 몰락한 왕조의 후손 ‘연월’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=290106</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=290106</guid>
-            <pubDate>Wed, 22 Nov 2023 20:04:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=290106">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231122084506_d15bbf264aff667e6591159fb35d10ac.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=290106">KBS드라마 '환상연가' 홍예지, 몰락한 왕조의 후손 ‘연월’</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%99%98%EC%83%81%EC%97%B0%EA%B0%80">월화드라마 환상연가</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231122084506_d15bbf264aff667e6591159fb35d10ac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

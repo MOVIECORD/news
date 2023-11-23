@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-11-23T16:08:24.389Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 23 Nov 2023 18:12:05 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['독전2' 변요한, 특별 출연도 시선 강탈]]></title>
+            <link>https://v.daum.net/v/20231124010230993</link>
+            <guid>https://v.daum.net/v/20231124010230993</guid>
+            <pubDate>Thu, 23 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=김연주 기자] 배우 변요한이 넷플릭스 영화 '독전2'에서 강렬한 연기를 선보여 이목을 집중시켰다.&nbsp; 지난해 726만 관객 수를 기록하며 대중과 평단의 뜨거운 사랑을 받았던 영화 '한산: 용의 출현'에서 왜군 수군 최고사령관 '와키자카' 역을 맡아 강렬한 안타고니스트에 도전한 변요한이 넷플릭스 영화 '독전 2'를 통해 한층 더 강하고 독한 캐릭터]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F24%2Ftvreport%2F20231124010234625dcaf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
