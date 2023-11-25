@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-11-25T11:04:33.486Z</updated>
+    <updated>2023-11-25T13:05:53.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[황정민X정우성 ‘서울의 봄’, 개봉 4일 만에 100만 돌파[M+박스오피스]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001783090</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001783090"/>
+        <updated>2023-11-25T13:05:08.339Z</updated>
+        <content type="html"><![CDATA[‘서울의 봄’, 개봉 4일 만에 100만 관객 돌파 폭발적인 만족도와 뜨거운 예매량 ‘서울의 봄’이 100만 관객을 돌파했다. 영화 ‘서울의 봄’(감독 김성수)은 1979년 12월 12일 수도 서울에서 일어난 신군부]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아디오스! '청룡의 여인' 김혜수, 1993년~2023년까지의 30년 여정 속 반짝이던 순간들[TEN초점]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000638316</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001666062"/>
         <updated>2023-11-25T07:02:33.961Z</updated>
         <content type="html"><![CDATA[배우 전여빈이 제44회 청룡영화상에서 여우조연상을 수상했다. 지난 24일 여의도 KBS홀에서 열린 제44회 청룡영화상에 참석한 전여빈은 영화 '거미집'으로 여우조연상을 수상하는 영예를 안았다. 청룡영화상은 한국영화의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘서울의 봄’ 개봉 4일째 100만 관객 돌파, 황정민→정우성 호연 통했다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000796380</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000796380"/>
-        <updated>2023-11-25T07:02:33.967Z</updated>
-        <content type="html"><![CDATA['서울의 봄'이 개봉 4일째 100만 관객을 돌파했다. 영화 '서울의 봄'(감독 김성수)이 영화진흥위원회 통합전산망 11월 25일 오후 1시 35분 누적 관객수 1,000,918명을 동원하며 100만 관객을 돌파했다]]></content>
     </entry>
 </feed>
