@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-11-25T21:03:10.724Z</updated>
+    <updated>2023-11-25T22:03:25.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[호불호도 아닌 불호 '독전2'…빛바랜 호연 [N초점]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007198218</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007198218"/>
+        <updated>2023-11-25T22:02:38.055Z</updated>
+        <content type="html"><![CDATA['독전2'(감독 백종열)는 최근 한국 영화 중에서도 만듦새 측면에서 보기 드문 혹평을 받고 있다. '독전2'는 520만명의 관객을 동원하며 흥행에도 성공했던 '독전'(감독 이해영)의 속편으로, 용산역에서 벌인 지독한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['서울의 봄', 심상치 않은 흥행 기세..4일만 126만 관객 돌파[★무비차트]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003197579</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000796389"/>
         <updated>2023-11-25T08:10:15.840Z</updated>
         <content type="html"><![CDATA[가수 박진영의 청룡영화상 축하무대가 화제를 모으고 있다. 11월 24일 서울 여의도 KBS홀에서 진행된 제44회 청룡영화상에서는 박진영이 2부 중간 축하무대를 꾸몄다. 이날 박진영은 드레스 같은 독특한 의상을 입고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[게시판] 말레이시아서 동방정책 40주년 기념 한국영화제]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014353979</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014353979"/>
-        <updated>2023-11-25T08:10:15.840Z</updated>
-        <content type="html"><![CDATA[▲ 말레이시아 쿠알라룸푸르 GSC 미드밸리에서 22∼26일 동방정책 40주년 기념 한국영화제가 열린다고 주말레이시아 한국대사관이 25일 밝혔다. '고지전', '카이:겨울 호수의 전설', '보리', '칠곡 가시나들',]]></content>
     </entry>
 </feed>
