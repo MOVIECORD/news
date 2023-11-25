@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Nov 2023 13:05:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Nov 2023 14:04:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[불후의 명곡] 싸이(PSY) ‘강남스타일’ 미국에 소환...‘말춤’으로 관객 호응 MAX]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=290605</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=290605</guid>
+            <pubDate>Sat, 25 Nov 2023 14:03:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=290605">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231125221557_c7c83b689bcb2444f290da699909a95a_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=290605">[불후의 명곡] 싸이(PSY) ‘강남스타일’ 미국에 소환...‘말춤’으로 관객 호응 MAX</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231125221557_c7c83b689bcb2444f290da699909a95a_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[불후의 명곡] 한국 가요계 레전드 패티킴, 미국에서 ‘떼창’ 이끈 무대]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=290601</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231124210522_1117215658729c5dc35c49b303cbdd6e_1.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[[뮤직뱅크] 판타지 보이즈, 새로운 글로벌 K-POP 아이콘의 무대 ♪Potential]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=290520</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=290520</guid>
-            <pubDate>Fri, 24 Nov 2023 12:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=290520">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231124205521_b9b48c74eb0cd28e5700bcef8b9081e0_1.PNG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=290520">[뮤직뱅크] 판타지 보이즈, 새로운 글로벌 K-POP 아이콘의 무대 ♪Potential</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231124205521_b9b48c74eb0cd28e5700bcef8b9081e0_1.PNG" length="0" type="image/PNG"/>
         </item>
     </channel>
 </rss>
