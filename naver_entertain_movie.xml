@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-11-26T14:02:40.550Z</updated>
+    <updated>2023-11-26T15:03:27.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['독전2' 한효주의 빌런 코스프레…과유불급의 정석[TF초점]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000251216</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000251216"/>
+        <updated>2023-11-26T15:02:42.266Z</updated>
+        <content type="html"><![CDATA['독전2'서 메인 빌런 큰칼 役으로 연기 변신 '무빙'은 호평→'독전2'는 혹평…약 두 달 만에 달라진 온도차 해적단 단주부터 고등학생 아들을 둔 초능력자까지, 최근 배우 한효주 필모그래피의 키워드는 '변신'이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[요정들의 여섯 빛깔 콘셉트…오마이걸, 첫 팬콘서트 성료]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000661273</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014354791"/>
         <updated>2023-11-26T08:07:42.496Z</updated>
         <content type="html"><![CDATA[김성수 감독의 새 영화 '서울의 봄'이 개봉 4일째인 25일 누적 관객 수 100만명을 돌파했다고 배급사 플러스엠엔터테인먼트가 밝혔다. 사진은 26일 서울의 한 영화관. 2023.11.26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 '서울의 봄' 관객 100만 돌파]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014354790</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014354790"/>
-        <updated>2023-11-26T08:07:42.497Z</updated>
-        <content type="html"><![CDATA[김성수 감독의 새 영화 '서울의 봄'이 개봉 4일째인 25일 누적 관객 수 100만명을 돌파했다고 배급사 플러스엠엔터테인먼트가 밝혔다. 사진은 26일 서울의 한 영화관에 내걸린 '서울의 봄'. 2023.11.26]]></content>
     </entry>
 </feed>
