@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 01:50:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 06:10:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KBS 글로벌 드라마하우스,  <고려 거란 전쟁> 정통대하사극의 부활.. <하이쿠키>의 인기]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=290802</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=290802</guid>
+            <pubDate>Mon, 27 Nov 2023 06:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=290802">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231127141826_670e99a791f6d7104838c8acbb89ca90.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=290802">KBS 글로벌 드라마하우스,  &lt;고려 거란 전쟁&gt; 정통대하사극의 부활.. &lt;하이쿠키&gt;의 인기</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8C%80%ED%95%98%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%B3%A0%EB%A0%A4%20%EA%B1%B0%EB%9E%80%20%EC%A0%84%EC%9F%81">대하드라마 고려 거란 전쟁</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231127141826_670e99a791f6d7104838c8acbb89ca90.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[고려거란전쟁 6회]  ‘흥화진의 늑대’ 양규, 7일간의 처절했던 사투]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=290768</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231126212004_566953cf428da786369abdce30b62037_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[1박2일] ‘의좋은 형제’ 특집...이원종-천명훈-김동현-슬리피-정상훈-안재현 '찐친 형님' 특급 게스트]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=290656</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=290656</guid>
-            <pubDate>Sun, 26 Nov 2023 11:03:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=290656">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231126195134_141c97a6f179754ec45ab6daffece0ea_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=290656">[1박2일] ‘의좋은 형제’ 특집...이원종-천명훈-김동현-슬리피-정상훈-안재현 '찐친 형님' 특급 게스트 </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231126195134_141c97a6f179754ec45ab6daffece0ea_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

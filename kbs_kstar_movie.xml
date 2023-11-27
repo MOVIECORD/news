@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 01:50:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 06:10:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] ‘괴물’.. STAND BY ME  (고레에라 히로카즈 감독)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=290796</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=290796</guid>
+            <pubDate>Mon, 27 Nov 2023 06:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=290796">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231127133503_3ce1d63bd0f993b3eb6d201d028a49b1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=290796">[리뷰] ‘괴물’.. STAND BY ME  (고레에라 히로카즈 감독)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231127133503_3ce1d63bd0f993b3eb6d201d028a49b1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] ‘그대들은 어떻게 살 것인가’.. 나는 이렇게 살았노라! (미야자키 하야오 감독)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=290775</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=290226">[리뷰] ‘본 투 플라이’,  타산지섬(他山之殲)..  "Made in China 스텔스의 위협"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231123113905_b7b3e07c0e1ffd0c9cf041fcb0ecb3f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장] 절치부심 ‘외계+인 2부’ 제작보고회... “1부와 좋은 짝, 그리고 더 재밌을 것”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=290219</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=290219</guid>
-            <pubDate>Thu, 23 Nov 2023 01:46:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=290219">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231123101351_fa17de28fc611978f42ddc55c5be6f59.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=290219">[현장] 절치부심 ‘외계+인 2부’ 제작보고회... “1부와 좋은 짝, 그리고 더 재밌을 것”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231123101351_fa17de28fc611978f42ddc55c5be6f59.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
