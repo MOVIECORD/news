@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 00:29:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 01:50:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] ‘그대들은 어떻게 살 것인가’.. 나는 이렇게 살았노라! (미야자키 하야오 감독)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=290775</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=290775</guid>
+            <pubDate>Mon, 27 Nov 2023 01:49:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=290775">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231127101353_3594068a848e8db6b987daad5675d588.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=290775">[리뷰] ‘그대들은 어떻게 살 것인가’.. 나는 이렇게 살았노라! (미야자키 하야오 감독)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231127101353_3594068a848e8db6b987daad5675d588.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['서울의 봄' 개봉 첫 주말 189만 명... 역대 11월 개봉 한국영화 중 최고스코어]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=290755</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=290219">[현장] 절치부심 ‘외계+인 2부’ 제작보고회... “1부와 좋은 짝, 그리고 더 재밌을 것”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231123101351_fa17de28fc611978f42ddc55c5be6f59.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["총 든 부텔라, 갓 쓴 배두나" 넷플릭스 '레벨 문' 캐릭터 포스터 "]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=290193</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=290193</guid>
-            <pubDate>Thu, 23 Nov 2023 00:29:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=290193">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231123083118_4c9e452bbecc8a3e9dfa66cbc082a51b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=290193">"총 든 부텔라, 갓 쓴 배두나" 넷플릭스 '레벨 문' 캐릭터 포스터 "</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231123083118_4c9e452bbecc8a3e9dfa66cbc082a51b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
