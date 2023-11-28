@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 05:05:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 06:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['교토에서 온 편지' 시사회.. “가족의 소중함, 고향의 소중함"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=291094</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=291094</guid>
+            <pubDate>Tue, 28 Nov 2023 06:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=291094">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231128144449_9ad007a156207fa553c774bb5e47412e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=291094">'교토에서 온 편지' 시사회.. “가족의 소중함, 고향의 소중함"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231128144449_9ad007a156207fa553c774bb5e47412e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 예능 '코미디 로얄' 오늘 공개... "세상에 없던 K-코미디"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=291061</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=290463">쿠팡플레이 '대학전쟁' 5회.. "블라인드 오목 &amp; 침묵 인간 체스" </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231124141826_d2e5b9e67f56f8f37f0609d1872ab890.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["독립영화, 사랑합니다" 7명의 배우들.. 서독제X마리끌레르]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=290412</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=290412</guid>
-            <pubDate>Fri, 24 Nov 2023 01:43:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=290412">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231124095609_549c1a058f99b2d8449c40834aef46c3.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=290412">"독립영화, 사랑합니다" 7명의 배우들.. 서독제X마리끌레르  </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231124095609_549c1a058f99b2d8449c40834aef46c3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
