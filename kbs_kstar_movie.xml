@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 01:47:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 02:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 김영성  "나에겐 선물, 관객에겐 힐링" (영화 '빅슬립')]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=291301</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=291301</guid>
+            <pubDate>Wed, 29 Nov 2023 02:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=291301">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231129104243_f11afadf564f1076ec5f04d87cd09533.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=291301">[인터뷰] 김영성  "나에겐 선물, 관객에겐 힐링" (영화 '빅슬립')</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231129104243_f11afadf564f1076ec5f04d87cd09533.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[임승현 감독  <물비늘> 내달 개봉.. "일렁이는 비밀"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=291297</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=290085">영화 '노량:죽음의 바다' 허준호의 신면모.. 명나라 수군 등자룡</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231122080349_86954ffc73e99429aa17a8879a97a5bb_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['외계+인 2',  김우빈 "미래로!"..  시간의 문을 여는 '썬더']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=290350</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=290350</guid>
-            <pubDate>Sun, 26 Nov 2023 22:05:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=290350">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231124082459_6bab4b451171054a2ea802e1b8128967.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=290350">'외계+인 2',  김우빈 "미래로!"..  시간의 문을 여는 '썬더'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231124082459_6bab4b451171054a2ea802e1b8128967.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
