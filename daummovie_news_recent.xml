@@ -1,8 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-11-28T20:07:58.197Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 29 Nov 2023 00:29:39 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[황정민·정우성 '서울의 봄', 일주일 연속 철옹성 1위…누적 236만 [공식]]]></title>
+            <link>https://v.daum.net/v/20231129092602313</link>
+            <guid>https://v.daum.net/v/20231129092602313</guid>
+            <pubDate>Wed, 29 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=최지예 기자] 영화 '서울의 봄'이 개봉 7일간 박스오피스 정상을 지켰다.&nbsp; 29일 영화진흥위원회 영화관입장권통합전산망 집계에 따르면 '서울의 봄'(감독 김성수)은 지난 28일&nbsp;23만2273명의 관객을 동원하며 1위를 차지했다. 누적 관객 수는 236만4625명이다.&nbsp; '서울의 봄'은 1979년 12월12일 수도 서울에서 일어난 신군부 세력의]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F29%2F10asia%2F20231129092603290gjtf.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA["10년 노하우 집대성"…'노량', 이 안에 '명량' '한산' 있다]]></title>
+            <link>https://v.daum.net/v/20231129091948044</link>
+            <guid>https://v.daum.net/v/20231129091948044</guid>
+            <pubDate>Wed, 29 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 전쟁 액션 영화 '노량: 죽음의 바다'(이하 '노량', 김한민 가독, 빅스톤픽쳐스 제작)가 노하우가 집약 된 마지막 시리즈로 관심을 끌고 있다. '노량'의 성공적인 피날레를 위해 지난 10년간 이순신 3부작 프로젝트에 헌신해온 스태프들이 모두 뭉쳤다. '노량'은 동아시아 최대 전투 노량해전을 그린 영화로 지난 '명량]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F29%2FSpoChosun%2F20231129091948571tcvz.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[“‘서울의 봄’ 실존인물 이름, 비겁하게 바꿨다고요?”[편파적인 디렉터스뷰]]]></title>
+            <link>https://v.daum.net/v/20231129091635932</link>
+            <guid>https://v.daum.net/v/20231129091635932</guid>
+            <pubDate>Wed, 29 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“당신은 대한민국 군인으로서뿐만 아니라 인간으로서도 자격이 없어.”(극 중 이태신의 대사) 영화 ‘서울의 봄’(감독 김성수)이 탱크같은 기세로 박스오피스 정상을 점령했다. 개봉 전후 ‘웰메이드 영화’라는 호평 일색이다. 입소문이 불처럼 번져 개봉 6일만에 200만 고지도 가뿐히 넘어섰다. 궁금하고 토론할 게 많은 영화일수록 ‘좋은 영화’라는 영화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F29%2Fsportskhan%2F20231129091636619hcbr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘괴물’을 찾다 만난 건[MK무비]]]></title>
+            <link>https://v.daum.net/v/20231129091501878</link>
+            <guid>https://v.daum.net/v/20231129091501878</guid>
+            <pubDate>Wed, 29 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“단 한 명의 외로운 사람을 위해 썼다.” 제76회 칸 영화제에서 ‘괴물’이 각본상을 받았을 때, 고레에다 히로카즈 감독이 대신 전한 각본가 사카모토 유지의 소감이다. 스스로 사랑하지 못하는 누군가에게 응원을 보낼 수 있길 바란 이들의 마음을 담았다. 영화 ‘괴물’(감독 고레에다 히로카즈)은 몰라보게 바뀐 아들의 행동에 이상함을 감지한 엄마가 학교에 찾아가]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F29%2Fstartoday%2F20231129091502872pdjn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['서울의 봄' 1위 수성, 누적 236만 돌파 [박스오피스]]]></title>
+            <link>https://v.daum.net/v/20231129091315813</link>
+            <guid>https://v.daum.net/v/20231129091315813</guid>
+            <pubDate>Wed, 29 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 영화 ‘서울의 봄’이 박스오피스 1위를 기록했다. 29일 영화진흥위원회 통합전산망에 따르면 ‘서울의 봄’(감독 김성수)이 지난 28일 23만2282명의 관객을 동원하며 박스오피스 1위를 기록했다. 누적 관객수는 236만4722명이다. ‘서울의 봄’은 1979년 12월 12일 수도 서울에서 일어난 신군부 세력의 반란을 막기 위한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F29%2Ftvdaily%2F20231129091316389vzxv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[본격 열일 송지효, '만남의 집'으로 반가운 스크린 복귀 [공식]]]></title>
+            <link>https://v.daum.net/v/20231129091204770</link>
+            <guid>https://v.daum.net/v/20231129091204770</guid>
+            <pubDate>Wed, 29 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠투데이 임시령 기자] 배우 송지효가 영화 '만남의 집'에 출연을 확정했다. 송지효의 소속사 넥서스이엔엠 측은 29일 "송지효가 영화 '만남의 집'에 출연을 확정했다. 새 작품 속 믿고 보는 배우의 진면목을 선보일 송지효의 변신과 새로운 매력을 기대해달라"고 밝혔다. 영화 '만남의 집'(감독 차정윤·제작 고집스튜디오)은 15년차 여자 교도관인 태저가]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F29%2Fsportstoday%2F20231129091205398jzis.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식] 송지효, 4년 만에 스크린 컴백..'만남의 집' 출연 확정]]></title>
+            <link>https://v.daum.net/v/20231129091015714</link>
+            <guid>https://v.daum.net/v/20231129091015714</guid>
+            <pubDate>Wed, 29 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 배우 송지효가 영화 '만남의 집'(차정윤 감독, 고집스튜디오·기지개핌 제작)에 출연을 확정했다. 송지효의 소속사 넥서스이엔엠 측은 29일 "송지효가 '만남의 집'에 출연을 확정했다"라며 "새 작품 속 믿고 보는 배우의 진면목을 선보일 송지효의 변신과 새로운 매력을 기대해달라"고 밝혔다. '만남의 집'은 15년차 여자]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F29%2FSpoChosun%2F20231129091015183ogdl.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['정산 못 받은' 송지효, 이적 후 스크린 복귀.."'만남의 집' 출연" [공식]]]></title>
+            <link>https://v.daum.net/v/20231129090311470</link>
+            <guid>https://v.daum.net/v/20231129090311470</guid>
+            <pubDate>Wed, 29 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 최혜진 기자] '런닝맨' 송지효가 17일 오후 서울 마포구 상암동 SBS프리즘타워에서 진행된 '2022 SBS 연예대상'에 참석해 포즈를 취하고 있다. 2022.12.17 /사진=김창현 기자 chmt@배우 송지효가 영화 '만남의 집'(감독 차정윤)에 출연을 확정했다. 송지효의 소속사 넥서스이엔엠 측은 29일 "송지효가 영화 '만남의 집'에]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F29%2Fstarnews%2F20231129090313532dvjh.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘로코 장인’의 귀환… “연기하면서 연애세포가 올라왔어요”]]></title>
+            <link>https://v.daum.net/v/20231129085708250</link>
+            <guid>https://v.daum.net/v/20231129085708250</guid>
+            <pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[청년(19∼34세)층의 미혼 비율이 80%가 넘고, 30∼34세 중 ‘싱글’이 ‘유부’보다 많아진 시대. 영화 ‘싱글 인 서울’(29일 개봉)은 화려한 ‘싱글 어른’이 바글바글한 현시대 반영을 표방한 로맨틱 코미디다. 배우 임수정(44)이 일 빼고 모든 것이 ‘허당’인 출판사 편집장 현진 역을 맡았다. 일에 빠져 화장기 없는 수더분한 외모에 조그만]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F29%2Fmunhwa%2F20231129085709231mixg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[최민식 김고은 ‘파묘’ 2월 개봉‥오컬트 장인 장재현 감독 신작]]></title>
+            <link>https://v.daum.net/v/20231129085335153</link>
+            <guid>https://v.daum.net/v/20231129085335153</guid>
+            <pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 최민식, 김고은, 유해진, 이도현 출연 '파묘'가 내년 2월 개봉한다. 2024년 2월 개봉하는 영화 '파묘'(감독 장재현)는 거액의 돈을 받고 수상한 묘를 이장한 풍수사와 장의사, 무속인들에게 벌어지는 기이한 사건을 담은 오컬트 미스터리 영화다. 오컬트 장인 장재현 감독의 연출과 최민식, 김고은, 유해진, 이도현의 출연만으로도 화]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F29%2Fnewsen%2F20231129085335717qtub.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식] "'싱글 인 서울' 비하인드 전한다"…이미도-지이수, '가요광장' 출격]]></title>
+            <link>https://v.daum.net/v/20231129085318146</link>
+            <guid>https://v.daum.net/v/20231129085318146</guid>
+            <pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 안소윤 기자] 배우 이미도, 지이수가 영화 '싱글 인 서울' 홍보에 박차를 가한다. '싱글 인 서울'에서 유쾌한 티키타카로 재미를 선사하는 이미도, 지이수가 29일 오후 12시 KBS Cool FM '이은지의 가요광장' 보이는 라디오에 출연해 작품 비하인드 스토리를 대방출 한다. 특히 오지라퍼 출판사 분위기 메이커 윤정을 연기한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F29%2FSpoChosun%2F20231129085318510gmfs.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[송지효, 영화 '만남의 집' 출연 확정…4년 만 스크린 복귀 [공식입장]]]></title>
+            <link>https://v.daum.net/v/20231129085124099</link>
+            <guid>https://v.daum.net/v/20231129085124099</guid>
+            <pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 새 둥지를 찾은 배우 송지효가 영화 ‘만남의 집’에 출연을 확정하며 열일 행보를 예고했다. 소속사 넥서스이엔엠 측은 29일 “송지효가 영화 ‘만남의 집’에 출연을 확정했다”며 “새 작품 속 믿고 보는 배우의 진면목을 선보일 송지효의 변신과 새로운 매력을 기대해달라”고 밝혔다. 영화 ‘만남의 집’(감독 차정윤)은 15년차 여자 교]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F29%2Fxportsnews%2F20231129085125708arze.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[송지효, 4년만 스크린 복귀···‘만남의집’ 출연 확정]]></title>
+            <link>https://v.daum.net/v/20231129084901021</link>
+            <guid>https://v.daum.net/v/20231129084901021</guid>
+            <pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[배우 송지효가 영화 ‘만남의 집’에 출연을 확정했다. 송지효의 소속사 넥서스이엔엠은 29일 “송지효가 영화 ‘만남의 집’에 출연을 확정했다”라며 “새 작품 속 믿고 보는 배우의 진면목을 선보일 송지효의 변신과 새로운 매력을 기대해달라”고 밝혔다. 영화 ‘만남의 집’(감독: 차정윤/제작: 고집스튜디오/기지개핌)은 15년차 여자 교도관인 태저가 담당 수]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F29%2Fsportskhan%2F20231129084903288ldnv.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[송지효, 소속사 이적 후 본격 열일…영화 ‘만남의 집’ 캐스팅[공식]]]></title>
+            <link>https://v.daum.net/v/20231129084842006</link>
+            <guid>https://v.daum.net/v/20231129084842006</guid>
+            <pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 김명미 기자] 배우 송지효가 영화 ‘만남의 집’에 출연한다. 송지효의 소속사 넥서스이엔엠 측은 11월 29일 “송지효가 영화 ‘만남의 집’에 출연을 확정했다”라며 “새 작품 속 믿고 보는 배우의 진면목을 선보일 송지효의 변신과 새로운 매력을 기대해달라”고 밝혔다. 영화 ‘만남의 집’(감독: 차정윤/제작: 고집스튜디오/기지개핌)은 15년차 여자 교]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F29%2Fnewsen%2F20231129084842961ralx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘서울의 봄’ 7일 연속 1위...흥행 질주[MK박스오피스]]]></title>
+            <link>https://v.daum.net/v/20231129084806986</link>
+            <guid>https://v.daum.net/v/20231129084806986</guid>
+            <pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘서울의 봄’이 7일 연속 박스오피스 정상을 지켰다. 29일 영화진흥위원회 통합전산망 집계에 따르면 지난 28일 영화 ‘서울의 봄’(감독 김성수)이 23만 2273명의 관객을 동원하며 1위를 차지했다. 누적 관객 수는 236만 4625명이다. 지난 22일 개봉한 ‘서울의 봄’은 1979년 12월 12일 수도 서울에서 일어난 신군부 세력의 반란을 막기 위한]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F29%2Fstartoday%2F20231129084809243urev.png" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[최민식·김고은·유해진·이도현 '파묘', 2024년 2월 개봉한다]]></title>
+            <link>https://v.daum.net/v/20231129084801980</link>
+            <guid>https://v.daum.net/v/20231129084801980</guid>
+            <pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=이하늘 기자] 장재현 감독의 신작 '파묘'가 2024년 2월 개봉을 확정했다.&nbsp; '파묘'는 거액의 돈을 받고 수상한 묘를 이장한 풍수사와 장의사, 무속인들에게 벌어지는 기이한 사건을 담은 오컬트 미스터리 영화다. 영화 '사바하', '검은 사제들'을 통해 K-오컬트 세계관을 구축해 온 장재현 감독은 한국 영화에서 흔히 볼 수 없었던 엑소시즘,]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F29%2F10asia%2F20231129084803393ymbq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['파묘' 최민식∙김고은∙유해진∙이도현, 오컬트로 만났다..내년 2월 개봉 [공식]]]></title>
+            <link>https://v.daum.net/v/20231129084120818</link>
+            <guid>https://v.daum.net/v/20231129084120818</guid>
+            <pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자] 강력한 오컬트 미스터리가 온다. '사바하', '검은 사제들'&nbsp;장재현 감독의 신작이자 최민식, 김고은, 유해진, 이도현의 만남으로 기대를 모으는 영화 '파묘'(제공/배급: ㈜쇼박스│제작: ㈜쇼박스, ㈜파인타운 프로덕션│공동제작: ㈜엠씨엠씨│감독: 장재현)가 2024년 2월 개봉을 확정 짓고 강렬한 런칭 스틸을 공개했다.&nbsp; 오컬트]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F29%2Fpoctan%2F20231129084120638sofc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[흥행 독주 '서울의 봄'… 개봉 일주일 만에 230만 돌파]]></title>
+            <link>https://v.daum.net/v/20231129083623699</link>
+            <guid>https://v.daum.net/v/20231129083623699</guid>
+            <pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지난 22일 개봉한 영화 '서울의 봄'(김성수 감독)이 개봉 7일 만에 230만 관객을 돌파하며 저력을 뽐내고 있다. 사진은 '서울의 봄' 포스터. /사진=플러스엠 제공영화 '서울의 봄'이 개봉 일주일 만에 누적 관객수 230만명을 돌파했다. 29일 영화진흥위원회 통합전산망에 따르면 '서울의 봄'은 지난 28일 하루동안 관객 23만2274명을 동원해 누적]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F29%2Fmoneyweek%2F20231129083625125qsnk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식] 최민식X김고은X유해진X이도현 오컬트 영화 '파묘', 2024년 2월 개봉 확정]]></title>
+            <link>https://v.daum.net/v/20231129082522400</link>
+            <guid>https://v.daum.net/v/20231129082522400</guid>
+            <pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 오컬트 미스터리 영화 '파묘'(장재현 감독, 쇼박스·파인타운 프로덕션 제작)가 2024년 2월 개봉을 확정 짓고 강렬한 런칭 스틸을 공개했다. 2024년 2월로 개봉을 확정한 '파묘'는 제목에서도 알 수 있듯 파묘라는 소재가 주는 신선함으로 일찍이 영화 팬들의 주목을 받았다. 또한 풍수사, 장의사, 무속인이라는 네]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F29%2FSpoChosun%2F20231129082522497gltc.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘서울의 봄’ 7일 연속 1위 유지‥벌써 236만 훌쩍[박스오피스]]]></title>
+            <link>https://v.daum.net/v/20231129081715220</link>
+            <guid>https://v.daum.net/v/20231129081715220</guid>
+            <pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '서울의 봄'이 7일 연속 박스오피스 정상을 유지했다. 11월 29일 영화진흥위원회 통합전산망 집계에 따르면 28일 영화 '서울의 봄'(감독 김성수)이 23만2,273명을 동원하며 1위 자리를 지켰다. 지난 22일 개봉한 '서울의 봄'의 누적 관객 수는 236만4,625명으로, 개봉 6일 째 200만 관객을 돌파한 바 있다. 특히]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F29%2Fnewsen%2F20231129081716076boue.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
