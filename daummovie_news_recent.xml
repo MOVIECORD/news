@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-11-29T18:12:25.355Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 29 Nov 2023 20:03:27 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[IS인터뷰] ‘서울의 봄’ 박해준 “어마어마한 현장, 훌륭한 배우와 감독이 만났다”]]></title>
+            <link>https://v.daum.net/v/20231130050205577</link>
+            <guid>https://v.daum.net/v/20231130050205577</guid>
+            <pubDate>Wed, 29 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“실제 역사를 모티브로 한 작품은 처음이에요. 부담감이 있었거든요. 그런데 김성수 감독님을 만나고 그 부담감이 사라졌어요. 대신 작품이 가진 즐거움에 대해 생각하게 됐죠. 안 할 이유가 없더라고요.” 배우 박해준은 영화 ‘서울의 봄’을 통해 많은 걸 얻고 배웠다. 든든한 감독과 배우, 스태프 덕분이다. 지난 22일 개봉한 ‘서울의 봄’은 1979년 12]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202311%2F30%2Filgansports%2F20231130050207706qjfo.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
