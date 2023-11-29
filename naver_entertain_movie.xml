@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-11-29T15:03:55.775Z</updated>
+    <updated>2023-11-29T16:12:05.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오컬트미스터리 ‘파묘’, 내년 2월 개봉 확정 [연예뉴스 HOT]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001090961</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001090961"/>
+        <updated>2023-11-29T16:11:21.544Z</updated>
+        <content type="html"><![CDATA[배우 최민식, 김고은, 유해진, 이도현 등이 주연하는 영화 ‘파묘’가 내년 2월 개봉을 확정했다. 29일 배급사 쇼박스에 따르면 ‘파묘’는 거액의 돈을 받고 수상한 묘를 이장한 풍수사와 장의사, 무속인들에게 벌어지는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘서울독립영화제2023’ 11월 30일 개막]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000928685</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000301370"/>
         <updated>2023-11-29T08:10:47.644Z</updated>
         <content type="html"><![CDATA[한국 애니메이션 역사상 최초로 아카데미 시상식 수상 경쟁을 했던 픽사 출신의 애니메이션 감독 에릭 오(한국명: 오수형)의 단편 애니메이션 신작 '오페라 (OPERA)'가 오스트리아에서 열린 세계적 미디어아트 컨퍼런스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지구촌나눔운동, '개발협력' 이야기 담은 다큐영화 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014361944</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014361944"/>
-        <updated>2023-11-29T08:10:47.644Z</updated>
-        <content type="html"><![CDATA[코이카와 몽골 농촌발전 다룬 '자르갈란트의 노래' 제작 국제개발 비정부기구(NGO·이사장 김혜경)인 지구촌나눔운동은 한국 최초로 국제개발사업 이야기를 담은 다큐멘터리 영화 '자르갈란트의 노래'를 제작, 내달 2일 서]]></content>
     </entry>
 </feed>
