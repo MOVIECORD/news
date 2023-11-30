@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-11-30T14:02:56.596Z</updated>
+    <updated>2023-11-30T15:07:26.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[새영화]혼자가 좋지만 연애는 하고싶은 두 남녀의 공감 로맨스]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0001010622</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0001010622"/>
+        <updated>2023-11-30T15:06:44.911Z</updated>
+        <content type="html"><![CDATA[이번 주 극장에서는 현실 공감 로맨스 ‘싱글 인 서울’과 K드라마에 이끌려 한국행을 결심한 싱가포르 중년 여성의 이야기 ‘아줌마’를 만나 본다. 올해 칸 영화제 각본상을 수상하며 관객들의 관심을 한 몸에 모은 영화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정우성 “멜로 ‘사랑한다고 말해줘’ 위해 5개월 금주”(만날 텐데)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000928975</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001278737"/>
         <updated>2023-11-30T09:05:44.435Z</updated>
         <content type="html"><![CDATA['윈터 솔져'로 활약했던 세바스찬 스탠이 이번엔 도널드 트럼프 역을 맡는다고 해 눈길을 끈다. 30일(현지 시간) 미국 영화 매체인 '버라이어티'는 세바스찬 스탠이 '어프렌티스'(The apprentice')라는 제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서울의 봄' 정우성에 김성수 감독까지…개봉 3주차, 부산·울산·대구 무대인사]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007208949</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007208949"/>
-        <updated>2023-11-30T09:05:44.437Z</updated>
-        <content type="html"><![CDATA[영화 '서울의 봄' 주역들이 독보적인 흥행세 속 관객들과 무대인사를 통해 만남을 갖는다. 30일 배급사 플러스엠 엔터테인먼트에 따르면 '서울의 봄'은 개봉 3주차 부산, 울산, 대구 지역 무대인사를 확정했다. 이번]]></content>
     </entry>
 </feed>
