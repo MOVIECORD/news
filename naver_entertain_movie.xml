@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-11-30T12:13:36.079Z</updated>
+    <updated>2023-11-30T14:02:56.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정우성 “멜로 ‘사랑한다고 말해줘’ 위해 5개월 금주”(만날 텐데)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000928975</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000928975"/>
+        <updated>2023-11-30T14:02:09.363Z</updated>
+        <content type="html"><![CDATA[‘만날 텐데’ 정우성이 멜로 드라마 촬영을 위해 5개월간 금주했다고 밝혔다. 정우성은 30일 공개된 된 유튜브 채널 ‘성시경의 만날 텐데’에서 “아주 사적인 자리에서 잠깐 보고 본 적 없는 것 같다”고 했고 성시경은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이정재, 원로 영화인 단체에 5천만 원 기부 “영화에 젊은 바친 선배들”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000970624</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007208949"/>
         <updated>2023-11-30T09:05:44.437Z</updated>
         <content type="html"><![CDATA[영화 '서울의 봄' 주역들이 독보적인 흥행세 속 관객들과 무대인사를 통해 만남을 갖는다. 30일 배급사 플러스엠 엔터테인먼트에 따르면 '서울의 봄'은 개봉 3주차 부산, 울산, 대구 지역 무대인사를 확정했다. 이번]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제28회 춘사국제영화제, 12월 7일 개최…송지우·이규한·이병진 MC]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005630023</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005630023"/>
-        <updated>2023-11-30T09:05:44.439Z</updated>
-        <content type="html"><![CDATA[제28회 춘사국제영화제가 오는 12월 7일 건설회관 비스타홀에서 개최한다. 사단법인 한국영화감독협회가 주최, 주관하는 춘사국제영화제는 춘사 나운규의 영화에 대한 열정과 삶에 대한 투혼을 기리고자 개최되는 비영리 경쟁]]></content>
     </entry>
 </feed>
