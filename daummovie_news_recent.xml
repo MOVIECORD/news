@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-12-01T19:03:20.433Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 01 Dec 2023 20:08:01 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['서울의 봄', 멈추지 않는 흥행세..327만 돌파→예매율 압도적 1위[★무비차트]]]></title>
+            <link>https://v.daum.net/v/20231202050409863</link>
+            <guid>https://v.daum.net/v/20231202050409863</guid>
+            <pubDate>Fri, 01 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 김나연 기자] 서울의 봄 / 사진=영화 포스터'서울의 봄'의 흥행 기세가 멈추지 않고 있다. 2일 영화진흥위원회 통합전산망에 따르면 전날 '서울의 봄'은 32만 3785명의 관객을 동원해 박스오피스 1위를 기록했다. 누적 관객 수는 327만 6702명. '서울의 봄'은 1979년 12월 12일 수도 서울에서 일어난 신군부 세력의 반란을]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F02%2Fstarnews%2F20231202050411738fwdu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[정우성 “정의의 아이콘이요? 다음엔 악역 할까요”]]></title>
+            <link>https://v.daum.net/v/20231202040912690</link>
+            <guid>https://v.daum.net/v/20231202040912690</guid>
+            <pubDate>Fri, 01 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘서울의 봄’이 개봉 6일 만에 200만 관객을 동원하는 등 화제의 중심에 섰다. 인기의 이유로는 역사적 실화를 바탕으로 했다는 점, 탄탄한 스토리라인, 그리고 매력적인 배우들의 호연이 꼽힌다. 그중에서도 관객으로부터 큰 응원과 지지를 받는 캐릭터는 단연 수도경비사령관 이태신이다. 영화는 그의 시선에서 긴박했던 12·12 군사반란의 9시간을 따라간다]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F02%2Fkukminilbo%2F20231202040914125zaiy.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
