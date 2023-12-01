@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-12-01T16:07:30.045Z</updated>
+    <updated>2023-12-01T19:03:20.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디오리진, ‘스위트홈’ 김칸비 작가와 신규 IP 개발 프로젝트 돌입]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000929221</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000929221"/>
+        <updated>2023-12-01T19:02:35.145Z</updated>
+        <content type="html"><![CDATA[디오리진이 탑 크리에이터 네트워크를 활용해 대규모 프로젝트에 돌입, 글로벌 공략을 본격화한다. 종합 콘텐츠 IP 홀딩스 스타트업 디오리진(대표 정재식)은 ‘스위트홈’의 원작자 김칸비 작가와 함께 ‘D]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘사채소년’ 유인수, 묵직한 존재감으로 충무로 사로잡아]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000929212</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003667931"/>
         <updated>2023-12-01T08:12:39.086Z</updated>
         <content type="html"><![CDATA['서울의 봄'이 개봉 10일째 300만 관객을 돌파했다. 영화진흥위원회 통합전산망 1일 오전 12시 4분 기준 영화 '서울의 봄'이 300만 고지를 넘어섰다. 개봉 4일차에 100만 돌파, 6일차에 200만 관객을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘너와 나’ 2만5000명 관객 돌파]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000929148</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000929148"/>
-        <updated>2023-12-01T08:12:39.087Z</updated>
-        <content type="html"><![CDATA[영화 ‘너와 나’(감독 조현철)가 2만5000여명 관객들에게 온기를 전했다. 1일 영화진흥위원회 영화관입장권 통합전산망 집계결과 ‘너와 나’는 누적관객수 2만5000명을 돌파했다. 이는 올해 개봉한 한국 독립예술영화]]></content>
     </entry>
 </feed>
