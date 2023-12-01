@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 13:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 14:06:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뮤직뱅크] 24K+(투포케이플러스), 즐겁고 설레는 무대! 오르락내리락 ♪롤러코스터]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=291599</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=291599</guid>
+            <pubDate>Fri, 01 Dec 2023 14:05:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=291599">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231201230535_9b767877ef89f6dd16922692f6ab74cd_1.PNG" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=291599">[뮤직뱅크] 24K+(투포케이플러스), 즐겁고 설레는 무대! 오르락내리락 ♪롤러코스터</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231201230535_9b767877ef89f6dd16922692f6ab74cd_1.PNG" length="0" type="image/PNG"/>
+        </item>
         <item>
             <title><![CDATA[[편스토랑] 이정현, 제철 꼬막 4kg까기 대결.. ‘결말은 로맨스?!’]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=291567</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%B4%EB%A6%BC%ED%95%98%EB%8A%94%20%EB%82%A8%EC%9E%90%EB%93%A4">살림하는 남자들</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231130014100_a943d498b96176a360c9e547d12094c3.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[[옥탑방의 문제아들] 한길쌤이 다시 공부하게 된 계기! 살면서 가장 충격적이었던 아버지의 눈물]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=291342</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=291342</guid>
-            <pubDate>Wed, 29 Nov 2023 15:02:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=291342">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231129235502_547cab3e807b05c840113b93522e5961_1.JPG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=291342">[옥탑방의 문제아들] 한길쌤이 다시 공부하게 된 계기! 살면서 가장 충격적이었던 아버지의 눈물</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231129235502_547cab3e807b05c840113b93522e5961_1.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
