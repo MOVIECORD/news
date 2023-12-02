@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-12-02T20:03:18.256Z</updated>
+    <updated>2023-12-02T22:02:34.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[속편들아, 성공하고 싶니?]]></title>
+        <id>https://v.daum.net/v/20231203070016078</id>
+        <link href="https://v.daum.net/v/20231203070016078"/>
+        <updated>2023-12-02T22:02:33.925Z</updated>
+        <content type="html"><![CDATA[[OSEN=김보라 기자] 관객들은 잘 알고 있다. 제목 뒤에 붙은 2, 3, 4라는 숫자의 식상함을. 전편이 조금만 사랑받았다 하면 줄줄이 따라붙는 속편들이 나왔었기 때문이다. 제작자들이 속편을 만드는 이유는 단 하나다. 본편의 후광으로 돈을 벌기 위해서. 그렇기 때문에 전작의 성공에 취하지 말고 한 발 떨어져서 냉정하게 판단해야 한다. 이 판을 버릴지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정우성이 밝힌 #서울의 봄 #김성수 감독 #잘생김]]></title>
         <id>https://v.daum.net/v/20231203000053690</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231202100601231"/>
         <updated>2023-12-02T01:42:23.178Z</updated>
         <content type="html"><![CDATA[*이 글에는 영화의 일부 스포일러가 있습니다. [SBS 연예뉴스 | 김지혜 기자] 한 편의 영화에서 오프닝과 엔딩이 차지하는 비중은 크다. 오프닝과 엔딩은 관객이 이야기로 들어갔다가 빠져나오는 문과 같은 역할을 한다. 관객이 문을 열고 들어갔을 때 빨아 당기는 건 감독과 배우의 몫이다. 이야기를 풀어가는 방향을 감독이 정한다면 배우는 그 안에서 연기라는 춤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서울의 봄' 박해준 "황정민→정우성과 작업=행운..또 성장했죠"]]></title>
-        <id>https://v.daum.net/v/20231202094202955</id>
-        <link href="https://v.daum.net/v/20231202094202955"/>
-        <updated>2023-12-02T01:42:23.178Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 배우 박해준이 24일 오전 서울 종로구의 한 카페에서 진행된 영화 '서울의 봄' 개봉 인터뷰를 위해 포즈를 취하고 있다.  '서울의 봄'은 1979년 12월 12일 수도 서울에서 일어난 신군부 세력의 반란을 막기 위한 일촉즉발의 9시간을 그린 영화다. / 사진제공 = 플러스엠 엔터테인먼트 /사진=김창현배우 박해준이 '서울의 봄']]></content>
     </entry>
 </feed>
