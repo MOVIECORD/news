@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 05:03:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 09:05:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[혼례대첩] 조이현, 조선판 무엇이든 물어보냥”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=292213</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=292213</guid>
+            <pubDate>Tue, 05 Dec 2023 09:04:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=292213">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231205152217_65ba9c02e2e558adc2f96d64cec1e6fa.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=292213">[혼례대첩] 조이현, 조선판 무엇이든 물어보냥”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%98%BC%EB%A1%80%EB%8C%80%EC%B2%A9">월화드라마 혼례대첩</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231205152217_65ba9c02e2e558adc2f96d64cec1e6fa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KBS 시사기획 창] '홍범도와 홍범도']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=292141</link>
@@ -346,24 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%9A%B0%EC%95%84%ED%95%9C%20%EC%A0%9C%EA%B5%AD">일일드라마 우아한 제국</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231204223230_c50c46abf5277ea60b32a68f69537150_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[우아한 제국] 죽다 살아나 이혼 서류 접수 끝낸 손성윤, 이시강에 “이제 우리 정말 끝이야” 남남 선언]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=291999</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=291999</guid>
-            <pubDate>Mon, 04 Dec 2023 15:05:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=291999">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231204223112_ea501419cb44cd498c261f52d408ea77_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=291999">[우아한 제국] 죽다 살아나 이혼 서류 접수 끝낸 손성윤, 이시강에 “이제 우리 정말 끝이야” 남남 선언</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%9A%B0%EC%95%84%ED%95%9C%20%EC%A0%9C%EA%B5%AD">일일드라마 우아한 제국</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231204223112_ea501419cb44cd498c261f52d408ea77_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
