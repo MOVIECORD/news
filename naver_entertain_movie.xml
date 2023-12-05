@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-12-05T13:10:47.117Z</updated>
+    <updated>2023-12-05T14:03:32.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CGV, NCT 공연 실황 전세계 60여개 국가 개봉..응원봉 상영회도 진행(공식)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003668661</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003668661"/>
+        <updated>2023-12-05T14:02:52.485Z</updated>
+        <content type="html"><![CDATA[NCT의 열정적인 무대를 CGV 특별관에서 즐길 수 있다. CGV가 NCT 콘서트 실황을 담은 영화 ‘엔시티 네이션: 투 더 월드 인 시네마(NCT NATION: To The World in Cinemas)’를 4D]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['크레센도' 메인 예고편…18세 천재 피아니스트 임윤찬, 전율의 순간]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001669268</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000639601"/>
         <updated>2023-12-05T09:04:38.424Z</updated>
         <content type="html"><![CDATA[한국 영화에도 봄이 오려는 징조일까. 유독 시리고 춥던 겨울만이 반복되던 한국 영화계에 '서울의 봄'이라는 하나의 씨앗이 꿈틀거리면서 새싹을 피우려는 듯하다. 매서운 추위를 이겨내고 꽃피운 희망은 유독 반짝거리며 아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서울의 봄', 개봉 14일 만에 500만 돌파…'범죄도시3' 이후 최고 흥행]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000301549</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000301549"/>
-        <updated>2023-12-05T09:04:38.425Z</updated>
-        <content type="html"><![CDATA[영화 '서울의 봄'(감독 김성수)이 개봉 14일 만에 500만 고지에 올랐다. 5일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '서울의 봄'은 이날 오후 3시 누적 관객 500만 명을 돌파했다. 개봉 4일째]]></content>
     </entry>
 </feed>
