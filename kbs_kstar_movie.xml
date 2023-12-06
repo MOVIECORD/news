@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 22:07:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 23:03:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['노량:죽음의 바다'.. '성웅 이순신'의 마지막 전투 .. 20일 개봉]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=292207</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=292207</guid>
+            <pubDate>Wed, 06 Dec 2023 23:02:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=292207">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231205125853_ad3cdf227e8e7743094043f861aef00f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=292207">'노량:죽음의 바다'.. '성웅 이순신'의 마지막 전투 .. 20일 개봉</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231205125853_ad3cdf227e8e7743094043f861aef00f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["이것을 실화다!" 영화 <덤 머니> 내년 개봉... "공매도, 월스트리트, 방구석개미들, 레딧 ..."]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=292439</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=291969">[인터뷰] 임승현 감독 “마지막, 고구마를 먹는 이유는...” (영화 ‘물비늘’)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231204144805_8bb98504776a10fc39e7f67dc94369e4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 김민주 감독 “추억은 몽글몽글” (영화 ‘교토에서 온 편지’)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=291971</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=291971</guid>
-            <pubDate>Mon, 04 Dec 2023 07:04:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=291971">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231204145133_a19a6a7847b4ba41894e56a0839637fb.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=291971">[인터뷰] 김민주 감독 “추억은 몽글몽글” (영화 ‘교토에서 온 편지’)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231204145133_a19a6a7847b4ba41894e56a0839637fb.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
