@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-12-10T10:03:20.966Z</updated>
+    <updated>2023-12-10T11:02:37.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[욕하면서 보는 '서울의 봄', 파죽지세 흥행→'천만영화' 등극할까 [MD픽]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003794099</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003794099"/>
+        <updated>2023-12-10T11:01:57.912Z</updated>
+        <content type="html"><![CDATA[영화 '서울의 봄'이 천만 관객 돌파를 가시권에 뒀다. 배급사 플러스엠엔터테인먼트에 따르면 '서울의 봄'은 개봉 18일째인 9일 새벽 누적 관객 수 600만 명을 넘어섰다. 이번 주말을 지나면서 700만 명을 돌파할]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["늘 옆에 있는 사람에겐 사랑한다는 표현 못하지 않나"' 3일의 휴가' 육상효 감독 [TEN인터뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000640158</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007226020"/>
         <updated>2023-12-10T06:08:11.040Z</updated>
         <content type="html"><![CDATA[10일 서울시내 한 극장을 찾은 한 장병이 영화를 보기위해 매표소로 향하고 있다. 12.12군사쿠테타를 다룬 영화 서울의 봄은 흥행 돌풍을 일으키며 이날 600만 관객을 돌파했다. 2023.12.10/뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서울의 봄' 흥행 돌풍에 영화계 훈풍]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007226019</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007226019"/>
-        <updated>2023-12-10T06:08:11.040Z</updated>
-        <content type="html"><![CDATA[10일 서울시내 한 극장을 찾은 시민들이 '서울의 봄' 을 비롯한 영화표를 구매하고 있다. 12.12군사쿠테타를 다룬 영화 서울의 봄은 흥행 돌풍을 일으키며 이날 600만 관객을 돌파했다. 2023.12.10/뉴스1]]></content>
     </entry>
 </feed>
