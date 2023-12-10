@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-12-10T17:02:45.863Z</updated>
+    <updated>2023-12-10T19:06:10.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유네스코 영화 창의도시 첫 대면 회의…“문화 다양성 위해 소통·공감 중요”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000060257</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000060257"/>
+        <updated>2023-12-10T19:05:27.256Z</updated>
+        <content type="html"><![CDATA[‘유네스코 영화 창의도시’ 부산에서 프랑스 스페인 영국 폴란드 등의 문화 관계자가 모여 문화 불평등 해소를 위한 소통과 감정의 공유를 강조했다. 지난 8일 부산 해운대구 영화의전당에서는 ‘2023 유네스코 영화 창의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘노량’ 개봉 앞두고 ‘이순신 3부작’ 상영회 [연예뉴스 HOT]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001093119</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007226031"/>
         <updated>2023-12-10T07:05:58.748Z</updated>
         <content type="html"><![CDATA[10일 서울시내 한 극장에서 한 시민이 영화 ‘서울의 봄’을 예매하고 있다. 12.12군사쿠테타를 다룬 영화 서울의 봄은 흥행 돌풍을 일으키며 이날 600만 관객을 돌파했다. 2023.12.10/뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서을의 봄 흥행에 활기 찾은 극장가]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007226023</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007226023"/>
-        <updated>2023-12-10T06:08:11.026Z</updated>
-        <content type="html"><![CDATA[10일 서울시내 한 극장에 영화 ‘서울의 봄’포스터가 붙여있다. 12.12군사쿠테타를 다룬 영화 서울의 봄은 흥행 돌풍을 일으키며 이날 600만 관객을 돌파했다. 2023.12.10/뉴스1]]></content>
     </entry>
 </feed>
