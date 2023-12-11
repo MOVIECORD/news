@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-12-11T18:10:43.198Z</updated>
+    <updated>2023-12-11T19:02:40.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국계 감독 영화 '패스트 라이브즈', 美 골든글로브 5개 후보]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014384230</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014384230"/>
+        <updated>2023-12-11T19:01:59.735Z</updated>
+        <content type="html"><![CDATA[캐나다 셀린 송 감독, 작품상·감독상·각본상 등 후보 지명 임미나 특파원 = 한국계 캐나다인 셀린 송 감독의 영화 '패스트 라이브즈'가 11일(현지시간) 미국 영화상 골든글로브 시상식의 5개 부문 후보에 올랐다. 골]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[방호정의 컬쳐 쇼크 & 조크] <151> 애니메이션 ‘블루 자이언트’]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000060400</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001279782"/>
         <updated>2023-12-11T11:04:49.907Z</updated>
         <content type="html"><![CDATA['귀멸의 칼날' 4기의 월드투어 공식 예고편이 공개됐다. 지난 10일, 애니맥스 코리아 공식 온라인 채널은 2024 '귀멸의 칼날' 월드투어 공식 예고편을 공개하며 4기가 될 예정인 '합동 강화 훈련' 편의 다양한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“모든 비밀 밝혀진다”… ‘외계+인’ 2부 내년 1월 10일 개봉]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003318192</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003318192"/>
-        <updated>2023-12-11T11:04:49.907Z</updated>
-        <content type="html"><![CDATA[영화 ‘외계+인’ 2부가 1월 10일 개봉을 확정 짓고 메인 포스터와 ‘캐릭터 로드맵’ 영상을 공개했다. ‘외계+인’ 2부는 치열한 신검 쟁탈전 속 숨겨진 비밀이 밝혀지는 가운데 미래로 돌아가 모두를 구하려는 인간과]]></content>
     </entry>
 </feed>
