@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 22:03:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 23:05:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["특별했던 1212" 영화'서울의 봄' 736만 관객동원... 팬데믹 이후 한국영화 TOP3]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=293265</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=293265</guid>
+            <pubDate>Tue, 12 Dec 2023 23:03:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=293265">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231213075656_fa4b880d61feb2bc6fdcdd6ba5c6f479.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=293265">"특별했던 1212" 영화'서울의 봄' 736만 관객동원... 팬데믹 이후 한국영화 TOP3</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231213075656_fa4b880d61feb2bc6fdcdd6ba5c6f479.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿠팡플레이 '소년시대'.. "어뜩해유, 우리 병태~"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=293180</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=292553">'오징어 게임2' 세트장 공개 행사...   황동혁 감독 "기대해도 좋습니다!"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231207201825_524906377560f6af64c1ecbf368a48dc_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['다음 소희' 한국영화제작가협회상 작품상 수상... 정유미-강하늘 주연상 수상]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=292529</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=292529</guid>
-            <pubDate>Thu, 07 Dec 2023 15:06:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=292529">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231207193206_1b6d4e29d113087ca3c8270c1b804121_1.jfif" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=292529">'다음 소희' 한국영화제작가협회상 작품상 수상... 정유미-강하늘 주연상 수상 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231207193206_1b6d4e29d113087ca3c8270c1b804121_1.jfif" length="0" type="image/jfif"/>
         </item>
     </channel>
 </rss>
