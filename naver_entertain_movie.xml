@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-12-14T19:04:31.200Z</updated>
+    <updated>2023-12-14T20:06:08.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나홀로 집에''터미네이터2', 美 국립영화보관소에 영구 보존]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014391597</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014391597"/>
+        <updated>2023-12-14T20:05:23.184Z</updated>
+        <content type="html"><![CDATA[미 의회도서관 산하 보관소, 올해 등재 영화 25편 선정 임미나 특파원 = 매년 크리스마스 시즌이면 생각나는 영화 '나홀로 집에'와 SF 액션영화의 고전인 '터미네이터 2: 심판의 날'이 미국 국립영화보관소에 영구]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['쿵푸팬더4' 돌아온다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001280247</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000051656"/>
         <updated>2023-12-14T11:02:54.692Z</updated>
         <content type="html"><![CDATA[엄혹한 시대에 희망을 포기하지 않는 이들의 이야기는 의외로 고난도의 서사다. 어둠을 강조하면 절망에 눌리기 쉽고, 빛이 두드러지면 판타지로 흐를 가능성이 높다. 황진영 작가는 언제나 이 어려운 과제에 도전해왔다. 그]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기획] ‘연인’은 어떻게 시청자의 연인이 되었나, 드라마 ‘연인’ 비하인드 스토리]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000051655</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000051655"/>
-        <updated>2023-12-14T11:02:54.694Z</updated>
-        <content type="html"><![CDATA[방영 초반, 시청률 5%를 웃돌던 &lt;연인&gt;이 급격한 반등세를 보인 건 오랑캐의 침략으로 국정이 혼란해지고, 이장현(남궁민)이 마음의 확신을 얻은 5회부터였다. 병자호란을 배경으로 한 &lt;연인&gt;이 본격적으로 메인 테마를]]></content>
     </entry>
 </feed>
