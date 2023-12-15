@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-12-15T12:13:22.941Z</updated>
+    <updated>2023-12-15T13:11:45.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 12월 16·17일[볼만한 주말영화]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003267767</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003267767"/>
+        <updated>2023-12-15T13:10:58.548Z</updated>
+        <content type="html"><![CDATA[남북 분단 아픔 넘어 싹튼 네 청년의 우정 시네마 &lt;공동경비구역 JSA&gt;(OBS 토 오후 1시) = 비무장지대를 수색하던 병장 이수혁(이병헌)은 지뢰를 밟아 대열에서 낙오된다. 그는 북한군 중사 오경필(송강호)과 초]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['노량' 이규형, 이무생의 'M자 촌마게' 본 소감 "서로 얼굴 보고 한참 웃어" [인터뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004275064</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000932102"/>
         <updated>2023-12-15T09:03:24.711Z</updated>
         <content type="html"><![CDATA[유인촌 문화체육관광부 장관이 15일 “적자를 면치 못하는 플랫폼이 힘들다고 제작을 안 하면 다 같이 죽는 것이니 서로에게 도움 될 방안을 찾아야 한다”며 “플랫폼과 콘텐츠 제작사, 창작자가 상생해야 한다”고 말했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지구 온난화 해결책은 원자력? 거장 감독 '논란의' 신작]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002416004</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002416004"/>
-        <updated>2023-12-15T09:03:24.712Z</updated>
-        <content type="html"><![CDATA[&lt;뉴클리어 나우&gt; 세상에 영원한 것은 없다. 당연한 일이다. 어떤 개인의 행적 역시 그렇다. 학문이나 예술에 종사하는 이들에게 창의적 재능은 무한정 주어지지 않게 마련이다. 뒤늦게 응축했다 만개하듯 역량을 터뜨리는]]></content>
     </entry>
 </feed>
