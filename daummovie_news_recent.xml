@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-12-15T16:08:21.422Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 15 Dec 2023 19:02:48 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['나폴레옹' 알고 보면 더 재미있는 트리비아 3]]></title>
+            <link>https://v.daum.net/v/20231216030030837</link>
+            <guid>https://v.daum.net/v/20231216030030837</guid>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=김연주 기자] 국내 관객과 만나고 있는 거장 리들리 스콧 감독의 신작 '나폴레옹'이 알고 보면 더 재밌는 세 가지 포인트를 공개했다. 영화 '나폴레옹'은 스스로 황제가 된 영웅 '나폴레옹’과 황제가 유일하게 정복하지 못한 여인 '조제핀'의 스펙터클한 일대기를 그린 작품으로 지난 6일 국내 개봉을 했다.&nbsp; '나폴레옹' 제작진은 리들리 스콧 감독과]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F16%2Ftvreport%2F20231216030035528bskg.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
