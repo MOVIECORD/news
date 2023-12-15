@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-12-15T19:02:48.051Z</updated>
+    <updated>2023-12-15T20:08:23.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[초콜릿보다 달콤한 이야기 ‘웡카’ 다음 달 개봉]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001659979</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001659979"/>
+        <updated>2023-12-15T20:07:44.726Z</updated>
+        <content type="html"><![CDATA[‘찰리와 초콜릿 공장’의 주인공 윌리 웡카의 이야기를 그린 프리퀄 영화 ‘웡카’(포스터)가 오는 다음 달 31일 국내 개봉한다고 워너브러더스 코리아가 15일 밝혔다. 영화는 가진 건 달콤한 꿈과 낡은 모자뿐인 웡카가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나폴레옹' 알고 보면 더 재미있는 트리비아 3]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001280437</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000051671"/>
         <updated>2023-12-15T12:12:38.529Z</updated>
         <content type="html"><![CDATA[의 넷플릭스 &lt;무빙&gt;의 디즈니+ 2파전이다. 비평적 호응과 산업적 성취, 모든 측면에서 넷플릭스의 &lt;더 글로리&gt;와 디즈니+의 &lt;무빙&gt;이 한해를 압도했다. &lt;무빙&gt;은 “성공한 작품 하나가 플랫폼 전체를 견인하는 현상”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특집] ‘콘텐츠간 경계는 허물고 가능성은 확장했다’, 올해의 시리즈 총평, 6위부터 10위까지 시리즈들, 과소평가·과대평가된 작품들]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000051670</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000051670"/>
-        <updated>2023-12-15T12:12:38.530Z</updated>
-        <content type="html"><![CDATA[‘영화감독’이나 ‘드라마 작가’를 굳이 나누는 관례가 무의미한 시대다. 원천 스토리를 만드는 이들을 ‘창작자’라는 포괄적인 개념으로 정의하는 것이 최근 업계의 생리에 더 적합해 보인다. 어느덧 한국의 영상 콘텐츠 산]]></content>
     </entry>
 </feed>
