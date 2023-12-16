@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-12-16T21:04:23.328Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 16 Dec 2023 22:05:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넘기 어려운 200만의 벽…2024년엔 다를까 [Oh!쎈 이슈]]]></title>
+            <link>https://v.daum.net/v/20231217070128202</link>
+            <guid>https://v.daum.net/v/20231217070128202</guid>
+            <pubDate>Sat, 16 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;올해는 과거부터 철옹성처럼 쌓아온 여름 성수기 텐트폴 영화, 명절맞이 블록버스터라는 기준과 집계 등 나름 객관적이라고 치부되어 온 데이터 수치를 보기 좋게 무너뜨린 한 해였다. 특히 ‘7말8초’에 나오는 텐트폴 영화들은 매년 배급사가 자신있게 내놓는 작품인데, 개봉 시기가 비슷하다는 이유만으로 같은 바구니에 담겨서 서로에게 악영]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F17%2Fpoctan%2F20231217070129781nlae.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
