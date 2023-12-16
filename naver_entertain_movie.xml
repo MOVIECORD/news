@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-12-16T12:10:37.800Z</updated>
+    <updated>2023-12-16T14:04:37.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘드림팰리스’ 김선영, ‘2023 올해의 여성영화인상’ 연기상 수상]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000209501</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000209501"/>
+        <updated>2023-12-16T14:03:51.872Z</updated>
+        <content type="html"><![CDATA[배우 김선영이 ‘2023 올해의 여성영화인상’ 연기상을 받았다. 영화 ‘드림팰리스’의 김선영이 지난 14일 서울 종로구 인디스페이스에서 개최된 2023 여성영화인축제의 ‘올해의 여성영화인상’ 연기상 수상자로 호명됐다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최강창민 "유노윤호와 주종관계, 나는 그저 도련님 모시는 쇤네"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007238222</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003202580"/>
         <updated>2023-12-16T03:02:41.427Z</updated>
         <content type="html"><![CDATA[영화 '서울의 봄'(감독 김성수)이 개봉 25일 만에 818만 관객을 돌파했다. '서울의 봄'은 영화관입장권 통합전산망 기준 16일 오전 12시 기준으로 개봉 25일 만에 818만 관객을 기록했다. 이 기록으로 '서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서울의 봄', 팬데믹 이후 첫 非 시리즈물 누적관객 800만↑]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012270221</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012270221"/>
-        <updated>2023-12-16T01:48:20.711Z</updated>
-        <content type="html"><![CDATA[흥행 신드롬을 일으키고 있는 영화 '서울의 봄'(감독 김성수)이 개봉 25일 만에 누적관객 800만명을 넘겼다. 16일 영화진흥위원회 영화관입장권 통합전산망에 따르면, 지난달 22일 개봉한 '서울의 봄'은 이날 0시]]></content>
     </entry>
 </feed>
