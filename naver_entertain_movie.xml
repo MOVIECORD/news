@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-12-16T04:08:33.292Z</updated>
+    <updated>2023-12-16T06:08:59.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“한국영화 흥행 이어갈까”…‘서울의 봄’ 성공 이어 ‘노량’ 개봉]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003267800</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003267800"/>
+        <updated>2023-12-16T06:08:11.633Z</updated>
+        <content type="html"><![CDATA[올해 초부터 주요 작품이 잇따라 흥행에 참패하며 최악의 위기에 몰렸던 한국 영화계가 연말연시에 대역전을 노린다. ‘서울의 봄’의 히트에 이어 또 다른 대작 ‘노량: 죽음의 바다’가 흥행 바통을 건네받을 것이라는 전망]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시한부 6개월 선고 받은 30년 차 공무원의 선택]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002416025</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000640995"/>
         <updated>2023-12-16T01:48:20.743Z</updated>
         <content type="html"><![CDATA[영화 '서울의 봄'이 개봉 25일 만에 818만 관객을 돌파했다. 팬데믹 이후 프랜차이즈가 아닌 단일 작품 최초의 800만 관객 동원이다. 영화관입장권 통합전산망 기준 16일 오전 12시 기준, 영화 '서울의 봄'이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 '경성크리처' .. "1945년 경성, 괴물과 괴물들"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000061077</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000061077"/>
-        <updated>2023-12-16T01:48:20.753Z</updated>
-        <content type="html"><![CDATA[22일 공개되는 넷플릭스(Netflix)의 &lt;경성크리처&gt;가 공개를 앞두고 배우와 감독, 작가가 직접 꼽은 관전 포인트를 전했다. &lt;경성크리처&gt;는 시대의 어둠이 가장 짙었던 1945년 봄, 생존이 전부였던 두 청춘이]]></content>
     </entry>
 </feed>
