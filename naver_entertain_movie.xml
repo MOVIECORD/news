@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-12-16T06:08:59.473Z</updated>
+    <updated>2023-12-16T07:03:37.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[힐마 아프 클린트-미래를 위한 그림] 시사회 성료.. '클린트의 그림, 스크린 압도']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000061085</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000061085"/>
+        <updated>2023-12-16T07:02:57.492Z</updated>
+        <content type="html"><![CDATA[“사후 20년간 내 작품을 공개하지 말라”는 유언으로 100여 년간 미술계에서 사라졌다 마침내 세상에 나온 화가, 뉴욕 구겐하임 미술관에서 작품이 공개된 후 런던, 파리, 베를린, 스톡홀름 등에서 대규모 전시를 이어]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“한국영화 흥행 이어갈까”…‘서울의 봄’ 성공 이어 ‘노량’ 개봉]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003267800</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007237911"/>
         <updated>2023-12-16T01:48:20.742Z</updated>
         <content type="html"><![CDATA['서울의 봄'이 개봉 25일 만에 818만 관객을 돌파했다. 이는 팬데믹 이후 프랜차이즈가 아닌 단일 작품 최초로 800만 관객을 넘어선 기록이다. 16일 영화진흥위원회 영화관입장권 통합전산망 '서울의 봄'은 이날]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서울의 봄', 2023 톱2 등극…개봉 25일만 818만 관객 돌파 [공식]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000640995</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000640995"/>
-        <updated>2023-12-16T01:48:20.743Z</updated>
-        <content type="html"><![CDATA[영화 '서울의 봄'이 개봉 25일 만에 818만 관객을 돌파했다. 팬데믹 이후 프랜차이즈가 아닌 단일 작품 최초의 800만 관객 동원이다. 영화관입장권 통합전산망 기준 16일 오전 12시 기준, 영화 '서울의 봄'이]]></content>
     </entry>
 </feed>
