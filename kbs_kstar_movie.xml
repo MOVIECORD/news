@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Dec 2023 22:05:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 00:33:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['경성크리처' "1945년 경성, 시대의 어둠과 화려함을 담다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=293603</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=293603</guid>
+            <pubDate>Sun, 17 Dec 2023 00:32:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=293603">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231216090638_760ba6bc61a23170185fe909e4ecc221.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=293603">'경성크리처' "1945년 경성, 시대의 어둠과 화려함을 담다"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231216090638_760ba6bc61a23170185fe909e4ecc221.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[김대중 대통령 탄생 100주년 기념영화  '길위에 김대중'... 배우 장현성 내레이션 참여]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=293737</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=293272">요르고스 란티모스 감독 신작 '가여운 것들'.. 골든글로브  7개부문  노미네이트</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231213080845_c65465eef1cac4b6210794714249e497.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["특별했던 1212" 영화'서울의 봄' 736만 관객동원... 팬데믹 이후 한국영화 TOP3]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=293265</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=293265</guid>
-            <pubDate>Tue, 12 Dec 2023 23:03:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=293265">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231213075656_fa4b880d61feb2bc6fdcdd6ba5c6f479.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=293265">"특별했던 1212" 영화'서울의 봄' 736만 관객동원... 팬데믹 이후 한국영화 TOP3</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231213075656_fa4b880d61feb2bc6fdcdd6ba5c6f479.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

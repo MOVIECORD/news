@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Dec 2023 22:05:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 00:33:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[마이 데몬] 김유정-송강.. “거역할 수 없는 너라는 운명”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=293762</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=293762</guid>
+            <pubDate>Sun, 17 Dec 2023 00:32:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=293762">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231217080023_d99ccecd020b3502dbbf9fa4813d888d.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=293762">[마이 데몬] 김유정-송강.. “거역할 수 없는 너라는 운명”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231217080023_d99ccecd020b3502dbbf9fa4813d888d.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[놀라운 토요일] 동방신기 유노윤호-최강창민, "유쾌한 호흡"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=293660</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=292497">'마에스트라' 이영애, "천재 지휘자의 탄생"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231207182012_96ee34fc935ef3af541533114b6a551d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘세모집-세상의 모든 집’ 홍진경, "아이비리그의 꿈"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=292483</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=292483</guid>
-            <pubDate>Fri, 08 Dec 2023 14:02:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=292483">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231207181031_782dca02cf0bd7f7407dd9be32908b45_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=292483">‘세모집-세상의 모든 집’ 홍진경, "아이비리그의 꿈"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231207181031_782dca02cf0bd7f7407dd9be32908b45_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
