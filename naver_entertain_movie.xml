@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-12-18T16:08:58.408Z</updated>
+    <updated>2023-12-18T18:08:58.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[故 류이치 사카모토의 진심...'류이치 사카모토: 오퍼스' 비하인드 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001280627</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001280627"/>
+        <updated>2023-12-18T18:08:11.547Z</updated>
+        <content type="html"><![CDATA[영화 '류이치 사카모토: 오퍼스'가 오는 27일 개봉을 앞두고 제작 비하인드를 공개했다. '류이치 사카모토: 오퍼스'는 음악으로 세계를 감동시킨 거장 고(故) 류이치 사카모토의 마지막 연주를 담은 콘서트 필름이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배우 김성규, ‘한산’에서 ’노량’까지 아우르는 강한 존재감]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000932618</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000663009"/>
         <updated>2023-12-18T13:10:22.227Z</updated>
         <content type="html"><![CDATA[이미 낙서로 훼손된 영추문 부근 경찰 CCTV 등 토대 용의자 추적 한국의 대표 문화유산 서울 경복궁 담벼락에 낙서 테러가 다시 발생했다. 기존 스프레이 낙서로 훼손된 지 하루 만의 일이다. 18일 서울 종로경찰서에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이낙연 전 대표, '길위에 김대중' 시사회 참석]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014397536</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014397536"/>
-        <updated>2023-12-18T13:10:22.229Z</updated>
-        <content type="html"><![CDATA[더불어민주당 이낙연 전 대표가 18일 서울 용산 CGV에서 열린 '길위에 김대중' 시사회에 참석, 자리에 앉아 있다. 2023.12.18]]></content>
     </entry>
 </feed>
