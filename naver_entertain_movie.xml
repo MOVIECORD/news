@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-12-18T19:06:23.174Z</updated>
+    <updated>2023-12-18T20:03:37.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“좋아서 한 연기인데, ‘이무생로랑’ 호칭 기쁘고 감사”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001660565</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001660565"/>
+        <updated>2023-12-18T20:02:52.123Z</updated>
+        <content type="html"><![CDATA[“내가 좋아서 한 연기인데 많은 분들이 감동 받고 공감해 주신다면 덤으로 감사할 수밖에 없는 일이다. 관심과 애정을 원동력 삼아 더 열심히 잘 해야겠다는 생각 뿐이다.” 영화 ‘노량: 죽음의 바다’ 개봉을 앞두고 지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[故 류이치 사카모토의 진심...'류이치 사카모토: 오퍼스' 비하인드 공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001280627</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000301934"/>
         <updated>2023-12-18T13:10:22.224Z</updated>
         <content type="html"><![CDATA[배우 마동석이 2023년을 빛낸 영화배우 1위에 올랐다. 한국갤럽은 2023년 11월2일부터 이달 4일까지 전국(제주 제외) 만 13세 이상 1,769명에게 올 한 해 가장 활약한 영화배우를 두 명까지 물은 결과(자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경복궁 담벼락 하루만에 또 '낙서 테러']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000663009</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000663009"/>
-        <updated>2023-12-18T13:10:22.227Z</updated>
-        <content type="html"><![CDATA[이미 낙서로 훼손된 영추문 부근 경찰 CCTV 등 토대 용의자 추적 한국의 대표 문화유산 서울 경복궁 담벼락에 낙서 테러가 다시 발생했다. 기존 스프레이 낙서로 훼손된 지 하루 만의 일이다. 18일 서울 종로경찰서에]]></content>
     </entry>
 </feed>

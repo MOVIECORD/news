@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2023-12-18T19:06:23.192Z</updated>
+    <updated>2023-12-18T20:03:37.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“좋아서 한 연기인데, ‘이무생로랑’ 호칭 기쁘고 감사”]]></title>
+        <id>https://v.daum.net/v/20231219040923929</id>
+        <link href="https://v.daum.net/v/20231219040923929"/>
+        <updated>2023-12-18T20:03:36.930Z</updated>
+        <content type="html"><![CDATA[“내가 좋아서 한 연기인데 많은 분들이 감동 받고 공감해 주신다면 덤으로 감사할 수밖에 없는 일이다. 관심과 애정을 원동력 삼아 더 열심히 잘 해야겠다는 생각 뿐이다.” 영화 ‘노량: 죽음의 바다’ 개봉을 앞두고 지난 14일 서울 종로구 한 카페에서 만난 배우 이무생은 인터뷰 내내 ‘감사’라는 단어를 놓지 않았다. 마음껏 연기할 환경을 만들어 주는 제작진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["N차 관람한다면 이날"…약속의 12월 12일]]></title>
         <id>https://v.daum.net/v/20231219000051761</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231218161802376"/>
         <updated>2023-12-18T08:11:40.623Z</updated>
         <content type="html"><![CDATA[“민주주의는 회복될 것입니다. 나는 그걸 확실히 믿고 있습니다.” 죽을 고비만 다섯 번, 네 번의 국회의원 선거와 세 번의 대선 낙선을 경험했다. 그 시절, 그  누구보다 민주주의를 열망했던 목포의 청년 사업가. 고(故) 김대중 대통령의 파란곡절 인생사가 스크린에서 펼쳐진다. 오는 1월 개봉을 앞둔 고 김대중 대통령의 탄생 100주년 다큐멘터리 영화 ‘길]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘노량’ 이순신 발자취 그대로‥감격의 부산·여수 무대인사]]></title>
-        <id>https://v.daum.net/v/20231218161217211</id>
-        <link href="https://v.daum.net/v/20231218161217211"/>
-        <updated>2023-12-18T08:11:40.623Z</updated>
-        <content type="html"><![CDATA[[뉴스엔 배효주 기자] '노량: 죽음의 바다'가 부산-여수를 찾아 관객들을 만났다. 12월 20일 개봉하는 영화 '노량: 죽음의 바다'(감독 김한민)는 임진왜란 발발 후 7년, 조선에서 퇴각하려는 왜군을 완벽하게 섬멸하기 위한 이순신 장군의 최후의 전투를 그린 전쟁 액션 대작. 앞서 15일 해군2함대 시사회를 시작으로 본격적인 이순신 로드의 시작을 알린]]></content>
     </entry>
 </feed>
