@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-12-20T19:02:50.447Z</updated>
+    <updated>2023-12-20T20:04:31.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[DC 마지막 희망 ‘아쿠아맨2’ 흥행 터질까]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001661206</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001661206"/>
+        <updated>2023-12-20T20:03:45.399Z</updated>
+        <content type="html"><![CDATA[오전에는 회의를 하고 오후에는 육아에 전념한다. 밤새 아이를 돌보느라 다크서클이 무릎까지 내려온 모습은 여느 아빠와 다르지 않다. 돌아온 아쿠아맨 아서(제이슨 모모아)는 슈퍼히어로에서 ‘슈퍼 육아빠’로 변신했다. 왕]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['립세의 사계' 1월 10일 개봉 확정...'러빙 빈센트' 잇는 감동 예고]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001280857</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003671492"/>
         <updated>2023-12-20T10:02:54.280Z</updated>
         <content type="html"><![CDATA['서울의 봄'과 '외계+인' 2부 세계관이 재밌게 이어졌다. 영화 '외계+인' 2부의 배급사 CJENM 측은 20일 "국방부 장관 어디 숨어 있나 했더니..'외계+인' 2부 쇼케이스 대기실에서 생일 파티 하고 있었음]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘서울의 봄’ 황정민x‘밀수’ 염정아, ‘크로스’로 뭉쳤다..내년 설 개봉 [공식]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004986325</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004986325"/>
-        <updated>2023-12-20T10:02:54.280Z</updated>
-        <content type="html"><![CDATA[‘서울의 봄’, ‘밀수’로 올해 흥행작을 만든 황정음과 염정아가 ‘크로스’로 뭉쳤다. 영화 ‘크로스’는 내년 설 개봉을 확정짓고, 런칭 포스터와 예고편을 공개했다. 오는 2024년 2월 개봉되는 영화 '크로스'는 아]]></content>
     </entry>
 </feed>
