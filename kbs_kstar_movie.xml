@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 02:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 04:09:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 임시완 “이런 충청도 찌질이는 없었다” (쿠팡플레이 ‘소년시대’)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=294417</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=294417</guid>
+            <pubDate>Thu, 21 Dec 2023 04:07:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=294417">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231221123626_412533f3563af7db3689e06ee0d5d401.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=294417">[인터뷰] 임시완 “이런 충청도 찌질이는 없었다” (쿠팡플레이 ‘소년시대’)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231221123626_412533f3563af7db3689e06ee0d5d401.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 '선산' 내년 1월 19일 공개... "선산을 상속받다, 배다른 동생이 나타났다, 살인이 일어난다..."]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=294415</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=293959">'아쿠아맨과 로스트 킹덤' "사막에서, 정글에서도.. 아틀란티스의 왕"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231218143511_4602646ebbbe2d99cdfc40d1b5632064.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '크레센도', 임윤찬과 '반 클라이번 국제 피아노 콩쿠르]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=293968</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=293968</guid>
-            <pubDate>Mon, 18 Dec 2023 21:02:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=293968">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231218144303_405835a7cde215e6a3d50c1aeea86b63.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=293968">영화 '크레센도', 임윤찬과 '반 클라이번 국제 피아노 콩쿠르</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231218144303_405835a7cde215e6a3d50c1aeea86b63.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
