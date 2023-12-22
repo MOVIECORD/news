@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-12-22T12:11:12.817Z</updated>
+    <updated>2023-12-22T13:08:21.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 12월 23·24일[볼만한 주말영화]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003269209</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003269209"/>
+        <updated>2023-12-22T13:07:35.388Z</updated>
+        <content type="html"><![CDATA[“귀한 서빙고 얼음, 우리가 접수하겠소” 시네마 &lt;바람과 함께 사라지다&gt;(OBS 토 오후 1시) = 우의정의 서자로 태어난 덕무(차태현)는 얼음 독점권을 차지하려는 좌의정 조명수에 의해 아버지가 누명을 쓰게 됐음을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['진정한 4D 관람'…'노량', 이순신 장군 코스튬 퍼레이드 연다 '극장 출정']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000465424</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003671895"/>
         <updated>2023-12-22T09:07:08.797Z</updated>
         <content type="html"><![CDATA['콘크리트 유토피아'가 제96회 아카데미 시상식 국제장편영화 부문 예비 후보 명단에 포함되지 못했다. 21일(현지시간) 미국 영화예술과학아카데미(AMPAS)는 제96회 아카데미 시상식 10개 부문의 예비 후보작을 발]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아카데미 벽 높았다…‘콘크리트 유토피아’ 국제영화상 후보 불발]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005234215</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005234215"/>
-        <updated>2023-12-22T09:07:08.798Z</updated>
-        <content type="html"><![CDATA[엄태화 감독의 영화 ‘콘크리트 유토피아’가 미국 아카데미상(오스카 상)국제 장편 영화 부문 최종 후보에 오르지 못했다. 미국영화예술과학아카데미(AMPAS)는 21일(현지시간) 제96회 아카데미 시상식 예비 후보작(숏]]></content>
     </entry>
 </feed>
