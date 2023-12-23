@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-12-23T16:05:43.535Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 23 Dec 2023 17:03:24 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] '서울의 봄' 정우성 "30년차 배우의 소신? 한 캐릭터에 머물러 있지 않았다"]]></title>
+            <link>https://v.daum.net/v/20231224014515916</link>
+            <guid>https://v.daum.net/v/20231224014515916</guid>
+            <pubDate>Sat, 23 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 모신정 기자]&nbsp;배우 정우성은 지난해 8월 오랜 절친이자 동지같은 배우 이정재가 연출한 영화 '헌트'의 개봉 당시 국내 유수의 감독들을 대상으로 한 시사회 당시 "어쩌다 보니 운이 좋아서 한국영화의 새로운 부흥기인 90년대 초반 두 배우가 데뷔해 청춘스타의 수식어를 얻고 좋은 모습을 외형적으로 보여드렸다. 그동안 스타의 모습만 보여드렸는데]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F24%2FSpoHankook%2F20231224014516743lugq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
