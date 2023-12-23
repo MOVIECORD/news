@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Dec 2023 11:04:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Dec 2023 13:06:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['노량:죽음의 바다'..  강추위 속 100만 관객 돌파]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=294711</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=294711</guid>
+            <pubDate>Sat, 23 Dec 2023 13:05:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=294711">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231223200437_17d76aedb6846ae30a95d05c8799980c_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=294711">'노량:죽음의 바다'..  강추위 속 100만 관객 돌파</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231223200437_17d76aedb6846ae30a95d05c8799980c_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크리스 멜라단드리 대표, "애니메이션 '인투 더 월드' 최고!"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=294691</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=294110">"우주 소년 아~톰" 애니메이션 '아톰 새로운 시작' 1월 개봉... 조병규 김소원 김강현 더빙 참여</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231219091902_af0b9557c223b9fe523b6d6d042e7c22.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애니메이션 명가 일루미네이션의 신작... <인투 더 월드> 내년 1월 개봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=293998</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=293998</guid>
-            <pubDate>Tue, 19 Dec 2023 21:03:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=293998">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231218151711_15aeccbd1eda55843c12c8b22bf9f7c0.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=293998">애니메이션 명가 일루미네이션의 신작... &lt;인투 더 월드&gt; 내년 1월 개봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231218151711_15aeccbd1eda55843c12c8b22bf9f7c0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
