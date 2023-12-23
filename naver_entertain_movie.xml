@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-12-23T04:08:14.731Z</updated>
+    <updated>2023-12-23T05:03:41.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['노량' 3일째 관객 수 1위… '서울의 봄' 1000만 영화 눈앞]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=417&amp;aid=0000971061</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=417&amp;aid=0000971061"/>
+        <updated>2023-12-23T05:03:00.470Z</updated>
+        <content type="html"><![CDATA[김한민 감독의 이순신 3부작 중 마지막 영화인 '노량:죽음의 바다'가 공개 후 3일 연속 박스오피스 1위를 차지했다. 23일 영화진흥위원회 영화관입장권 통합전산망에 따르면 '노량'은 지난 2일 전국 2129개 스크린]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["나 많이 찾았냐?"..'서울의 봄' 김의성, 분노 유발은 나의 것 [★FULL인터뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003203991</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003671938"/>
         <updated>2023-12-22T16:08:16.787Z</updated>
         <content type="html"><![CDATA[CJ 4DPLEX가 전 세계 극장사들과 손잡고 스크린X(ScreenX) 상영관 확산을 본격화한다. CJ CGV의 자회사 CJ 4DPLEX는 지난 18일 유럽 극장사업자 키네폴리스(Kinepolis)와 스크린X 추가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 12월 23·24일[볼만한 주말영화]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003269209</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003269209"/>
-        <updated>2023-12-22T13:07:35.388Z</updated>
-        <content type="html"><![CDATA[“귀한 서빙고 얼음, 우리가 접수하겠소” 시네마 &lt;바람과 함께 사라지다&gt;(OBS 토 오후 1시) = 우의정의 서자로 태어난 덕무(차태현)는 얼음 독점권을 차지하려는 좌의정 조명수에 의해 아버지가 누명을 쓰게 됐음을]]></content>
     </entry>
 </feed>
