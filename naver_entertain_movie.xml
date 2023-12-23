@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-12-23T13:06:49.157Z</updated>
+    <updated>2023-12-23T14:03:29.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[개봉 나흘째 `노량` 흥행몰이…뉴적 관객수 100만 관객 돌파]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=029&amp;aid=0002845247</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=029&amp;aid=0002845247"/>
+        <updated>2023-12-23T14:02:50.399Z</updated>
+        <content type="html"><![CDATA[김한민 감독이 연출한 영화 '노량: 죽음의 바다'(이하 '노량')가 개봉 나흘째인 23일 누적 관객 수 100만명을 돌파했다. 배급사 롯데엔터테인먼트에 따르면 '노량'은 '천만 영화' 고지를 눈앞에 둔 흥행작 '서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘노량’ 개봉 4일 만에 전국관객 100만…‘서울의 봄’과 같은 속도]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000933701</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002416771"/>
         <updated>2023-12-23T04:07:34.502Z</updated>
         <content type="html"><![CDATA[&lt;신세계로부터&gt; 탈북자와 사이비 종교의 조합. 얼핏 물과 기름처럼 서로 섞이기 어려워 보인다. 하지만 무신론을 표방함에도 사실상 봉건왕조 체제에 가까워 보이는 북한의 현실을 감안한다면 이 두 요소는 은근히 어울리는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독 종합] "롤모델 김혜수 축하에 울컥"…고민시, 오랜 기다림 끝에 찾아온 기적 (청룡영화상)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0004091427</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0004091427"/>
-        <updated>2023-12-23T04:07:34.503Z</updated>
-        <content type="html"><![CDATA[오랜 기다림 끝에 찾아온 기적 같은 순간이었다. 배우 고민시(28)가 데뷔 7년 만에 제44회 청룡영화상에서 신인여우상을 수상하는 영광을 누리게 됐다. 지난여름 한국 텐트폴 영화 중 첫 주자로 나선 '밀수'는 514]]></content>
     </entry>
 </feed>
