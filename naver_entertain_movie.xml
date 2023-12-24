@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-12-24T16:04:20.457Z</updated>
+    <updated>2023-12-24T18:08:02.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘서울의 봄’ 천만 돌파… ‘범죄도시3′ 기록 깨고 올 최대 흥행작 유력]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=023&amp;aid=0003806779</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=023&amp;aid=0003806779"/>
+        <updated>2023-12-24T18:07:23.771Z</updated>
+        <content type="html"><![CDATA[12·12 쿠데타를 다룬 영화 ‘서울의 봄’(감독 김성수)이 개봉 33일 만에 천만 관객을 돌파했다. 24일 영화관입장권통합전산망에 따르면, 지난달 22일 개봉한 ‘서울의 봄’은 23일까지 누적 관객 1006만533]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[티빙 '운수 오진 날' 이성민-유연석, "끝날 때까지 끝난 게 아니다"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000061305</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012283690</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012283690"/>
         <updated>2023-12-24T07:03:27.646Z</updated>
-        <content type="html"><![CDATA[24일 오후 서울 시내 한 영화관에 영화 '노량: 죽음의 바다' 홍보물이 게시돼 있다. 영화진흥위원회에 따르면 노량은 개봉 4일 만인 이날 100만 관객을 기록했다. 2023.12.24. hwang@newsis.co]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노량, 개봉 4일만에 100만 관객 기록]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012283689</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012283689"/>
-        <updated>2023-12-24T07:03:27.648Z</updated>
         <content type="html"><![CDATA[24일 오후 서울 시내 한 영화관에 영화 '노량: 죽음의 바다' 홍보물이 게시돼 있다. 영화진흥위원회에 따르면 노량은 개봉 4일 만인 이날 100만 관객을 기록했다. 2023.12.24. hwang@newsis.co]]></content>
     </entry>
 </feed>
