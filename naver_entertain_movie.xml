@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-12-24T12:10:14.406Z</updated>
+    <updated>2023-12-24T13:05:05.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“나에게는 꿈이 없었다”…‘서울의 봄’ 감독과 배우 55인, 감격 소감]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000663387</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000663387"/>
+        <updated>2023-12-24T13:04:17.351Z</updated>
+        <content type="html"><![CDATA[영화 '서울의 봄'이 개봉 33일 만에 1000만 관객을 동원했다. 이에 김성수 감독과 출연 배우들은 '서울의 봄' 관객들에게 친필 메시지로 감사 인사들을 전했다. 24일 영화진흥위원회 영화관입장권 통합전산망에 따르]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정우성 드디어 천만 배우 됐다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003269367</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012283684"/>
         <updated>2023-12-24T07:03:27.658Z</updated>
         <content type="html"><![CDATA[24일 오후 서울 시내 한 영화관에 영화 '서울의 봄' 홍보물이 게시돼 있다. 영화진흥위원회에 따르면 서울의 봄은 개봉 33일 만인 이날 1000만 관객을 기록했다. 2023.12.24. hwang@newsis.co]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천만 관객 넘어선 서울의 봄]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012283683</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012283683"/>
-        <updated>2023-12-24T07:03:27.660Z</updated>
-        <content type="html"><![CDATA[24일 오후 서울 시내 한 영화관에서 관람객들이 영화 '서울의 봄' 티켓을 구입하고 있다. 영화진흥위원회에 따르면 서울의 봄은 개봉 33일 만인 이날 1000만 관객을 기록했다. 2023.12.24. hwang@ne]]></content>
     </entry>
 </feed>
