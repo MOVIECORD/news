@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Dec 2023 02:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Dec 2023 03:10:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['노량: 죽음의 바다' 200만 진격의 북소리]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=294983</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=294983</guid>
+            <pubDate>Mon, 25 Dec 2023 03:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=294983">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231225112300_163135212de0aae10b183548f59723c4.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=294983">'노량: 죽음의 바다' 200만 진격의 북소리</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231225112300_163135212de0aae10b183548f59723c4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 '르네에게' 시사회 현장.. 배우 주인영-X오정훈, "청춘 뮤직 로맨스"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=294977</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=294392">일본 흥행대작 '킹덤3:운명의 불꽃' 내년 1월 개봉</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231221090228_f227e67bffb2f16e642cc7891cd2c947.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['외계+인 2부' 염정아-조우진, "흑설과 청운, 현대로 가다"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=294381</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=294381</guid>
-            <pubDate>Thu, 21 Dec 2023 00:29:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=294381">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231221084749_3f3ba5148482f89438cce86cb89e02fd.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=294381">'외계+인 2부' 염정아-조우진, "흑설과 청운, 현대로 가다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231221084749_3f3ba5148482f89438cce86cb89e02fd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
