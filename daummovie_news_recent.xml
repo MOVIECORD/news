@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-12-25T21:05:01.384Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 25 Dec 2023 22:03:08 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘서울의 봄’ 1000만 돌파…‘범죄도시 3’도 넘어섰다]]></title>
+            <link>https://v.daum.net/v/20231226063014658</link>
+            <guid>https://v.daum.net/v/20231226063014658</guid>
+            <pubDate>Mon, 25 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1년 내내 꽁꽁 얼어붙었던 극장가에 ‘봄’을 가져온 이 작품. 영화 ‘서울의 봄’이 크리스마스 연휴를 기점으로 1000만 명을 돌파했다. 사진제공｜플러스엠엔터테인먼트 영화 ‘서울의 봄’이 마침내 해냈다. 12·12 군사반란을 모티브로 한 영화가 크리스마스이브에 1000만 관객을 돌파하며 ‘범죄도시3’에 이어 올해 두 번째로 ‘1000만 영화 반열’에 올랐]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F26%2Fsportsdonga%2F20231226063015923pfps.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘서울의 봄’은 33일만에 천만 관객 모았지만…영화계 봄은 아직 [SS무비]]]></title>
+            <link>https://v.daum.net/v/20231226062008578</link>
+            <guid>https://v.daum.net/v/20231226062008578</guid>
+            <pubDate>Mon, 25 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 함상범기자] 지난 달 22일 개봉한 영화 ‘서울의 봄’이 개봉 33일만에 1000만 관객을 돌파했다. 지금과 같은 화력이라면 1200만 능선도 돌파할 것이라는 전망이다. 시리즈가 아닌 작품으로는 ‘기생충’ 이후 4년 만의 1000만 영화다. 올 한해 한국영화계 한파가 몰아치면서 흥행 실패에 대한 분석이 많았다. 불문율처럼 지켜진 홀드백]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F26%2FSPORTSSEOUL%2F20231226062009279kkqx.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
