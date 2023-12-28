@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-12-28T17:06:37.104Z</updated>
+    <updated>2023-12-28T18:12:18.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['위시' 실관람객 호평 터졌다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001281556</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001281556"/>
+        <updated>2023-12-28T18:11:32.149Z</updated>
+        <content type="html"><![CDATA[디즈니 100주년 기념작 '위시'가 특별 시사회에서 실관람객의 호평을 이끌어내 정식 개봉에 대한 기대감이 증폭되고 있다. 전 세대의 마음을 사로잡으며 심상치 않은 입소문 흥행을 예고하고 있는 디즈니 100주년 기념]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아쿠아맨과 로스트 킹덤' 전체 외화 박스오피스 1위]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001281555</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000051762"/>
         <updated>2023-12-28T10:05:37.900Z</updated>
         <content type="html"><![CDATA[아키 카우리스마키의 귀환이다. 2017년, 18번째 장편영화 &lt;희망의 건너편&gt;을 베를린국제영화제에서 공개한 뒤 은퇴를 선언했던 핀란드의 한 전설이 19번째 이야기를 재개하기로 한 이유는 무엇이었을까. “지쳤습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 오직 하나에 몰입하는 마음으로, ‘연인’ 김윤우]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000051761</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000051761"/>
-        <updated>2023-12-28T10:05:37.901Z</updated>
-        <content type="html"><![CDATA[장현(남궁민) 곁에 길채(안은진)가 있기 전 량음(김윤우)이 있었다. &lt;연인&gt;의 량음은 자신을 좋아하는 사람과 자신이 좋아하는 사람 중 주저 없이 후자를 선택할 사랑의 화신이자 모든 청자를 매혹하는 조선 최고의 소리]]></content>
     </entry>
 </feed>
