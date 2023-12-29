@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2023-12-29T19:06:20.863Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 29 Dec 2023 20:03:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 이동욱 "솔로 탈출? 지금 삶 즐겁지만 외로울 때도 있어"]]></title>
+            <link>https://v.daum.net/v/20231230044128928</link>
+            <guid>https://v.daum.net/v/20231230044128928</guid>
+            <pubDate>Fri, 29 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 모신정 기자]&nbsp;드라마 '도깨비', '라이프', '타인은 지옥이다', '구미호뎐' 등 유수의 히트작 드라마들을 내놓으며 활발한 활동을 펼쳐오고 있는 이동욱이지만 본격 로맨스 영화의 주연은 꽤 오랜만이다.&nbsp; 배우 이동욱이 임수정과 함께 주연을 맡은 영화 '싱글 인 서울'(박범수 감독)로 2023년을 살아가는 도시남녀들에게 사랑과 연애에 대]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F30%2FSpoHankook%2F20231230044129288tnmk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[10년 이순신 마침표 김한민 감독 “임진왜란 8부작 도전”]]></title>
+            <link>https://v.daum.net/v/20231230041021860</link>
+            <guid>https://v.daum.net/v/20231230041021860</guid>
+            <pubDate>Fri, 29 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘명량’, ‘한산: 용의 출현’(한산)에 이어 이순신 장군과 임진왜란을 다룬 영화 ‘노량: 죽음의 바다’(노량)가 호평을 받으며 순항 중이다. 지난 20일 개봉한 영화는 빠른 속도로 관객 수를 늘리며 연말 극장가를 장악하고 있다. 이순신 3부작은 김한민 감독의 열정과 뚝심으로 완성됐다. 지난 19일 서울 종로구 한 카페에서 만난 김 감독은 “10년 동안]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202312%2F30%2Fkukminilbo%2F20231230041022670ayiu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
