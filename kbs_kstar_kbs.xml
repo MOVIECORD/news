@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Dec 2023 13:08:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Dec 2023 14:05:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[효심이네 각자도생] 독립 유이, 이사 강행...윤미라 대성통곡 “가긴 어딜 가”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=295857</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=295857</guid>
+            <pubDate>Sat, 30 Dec 2023 14:04:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=295857">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231230224438_fe3719a9ca9ecdc0da858f11d6d9c8e0_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=295857">[효심이네 각자도생] 독립 유이, 이사 강행...윤미라 대성통곡 “가긴 어딜 가”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%9A%A8%EC%8B%AC%EC%9D%B4%EB%84%A4%20%EA%B0%81%EC%9E%90%EB%8F%84%EC%83%9D">주말드라마 효심이네 각자도생</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231230224438_fe3719a9ca9ecdc0da858f11d6d9c8e0_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[불후의 명곡] 김수철과 특급 인연 밝힌 이적 “밥 잘 사주는 예쁜 형님”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=295853</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%99%8D%EA%B9%80%EB%8F%99%EC%A0%84">홍김동전</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231229075920_fed54208f151a3872e5593177f514618_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[홍김동전] 1인당 1개의 미션! 상대에게 들키지 않고 히든 미션을 달성하라!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=295586</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=295586</guid>
-            <pubDate>Thu, 28 Dec 2023 23:05:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=295586">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231229075443_2e0b2c1fd0cff9fb35d87aaf863f0e48.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=295586">[홍김동전] 1인당 1개의 미션! 상대에게 들키지 않고 히든 미션을 달성하라!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%99%8D%EA%B9%80%EB%8F%99%EC%A0%84">홍김동전</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231229075443_2e0b2c1fd0cff9fb35d87aaf863f0e48.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
