@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-12-30T14:05:15.269Z</updated>
+    <updated>2023-12-30T15:05:56.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김한민 감독, 끈기·집념으로 완성한 10년의 여정[TF인터뷰]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000257648</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000257648"/>
+        <updated>2023-12-30T15:05:11.254Z</updated>
+        <content type="html"><![CDATA['명량'·'한산'·'노량'으로 '이순신 3부작' 성공적으로 마무리 "이순신 장군의 정신을 리마인딩 하고 싶었다" "천행(天幸)이었다". 장장 10년에 걸친 프로젝트를 무사히 끝낸 김한민 감독이 내뱉은 첫 마디였다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“故 이선균 피의사실 공표 깊은 유감” 한국영화감독조합, 심적 부담감과 절망감 이루 헤아릴 수 없어[전문]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003797824</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000934805"/>
         <updated>2023-12-30T07:04:11.486Z</updated>
         <content type="html"><![CDATA[영화 ‘노량: 죽음의 바다’(이하 ‘노량’)의 흥행세가 심상치 않다. 배급사 롯데엔터테인먼트는 ‘노량’ 개봉 11일째인 30일 누적 관객수 300만명에 도달했다고 밝혔다. 이는 개봉 열흘째 300만 관객을 넘어선 천]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘서울의 봄’ 따라잡나…‘노량’ 개봉 11일만에 300만 관객 돌파]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003270586</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=032&amp;aid=0003270586"/>
-        <updated>2023-12-30T07:04:11.487Z</updated>
-        <content type="html"><![CDATA[영화 ‘노량: 죽음의 바다’(이하 ‘노량’)가 개봉 11일만에 누적 관객 수 300만명을 넘겼다. ‘노량’의 배급사 롯데엔터테인먼트는 이 영화가 개봉 11일째인 30일 누적 관객수 300만명에 도달했다고 이날 밝혔다]]></content>
     </entry>
 </feed>
