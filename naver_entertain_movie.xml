@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-12-30T16:06:02.934Z</updated>
+    <updated>2023-12-30T17:02:56.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가정폭력 다룬 흑백영화, '바비' 넘어 올해 伊 최고 흥행작]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014417786</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014417786"/>
+        <updated>2023-12-30T17:02:11.099Z</updated>
+        <content type="html"><![CDATA[여배우 코르텔레시 감독 데뷔작 '체 안코라 도마니' 흥행 신드롬 신창용 특파원 = 로마 출신 여배우 파올라 코르텔레시의 감독 데뷔작 '체 안코라 도마니(C'e Ancora Domani·내일은 아직 있다는 뜻)가 올해]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김한민 감독, 끈기·집념으로 완성한 10년의 여정[TF인터뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000257648</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004990667"/>
         <updated>2023-12-30T07:04:11.480Z</updated>
         <content type="html"><![CDATA[영화 ‘노량: 죽음의 바다’(감독 김한민)와 ‘서울의 봄’(감독 김성수)가 연말 극장가를 더욱 뜨겁게 만들고 있다. 두 영화가 각각 300만, 1000만 관객을 돌파하며 극장 흥행을 쌍끌이하고 있는 것. 30일 영화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘노량’ 300만 돌파…‘서울의 봄’ 게 섰거라]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000934805</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000934805"/>
-        <updated>2023-12-30T07:04:11.486Z</updated>
-        <content type="html"><![CDATA[영화 ‘노량: 죽음의 바다’(이하 ‘노량’)의 흥행세가 심상치 않다. 배급사 롯데엔터테인먼트는 ‘노량’ 개봉 11일째인 30일 누적 관객수 300만명에 도달했다고 밝혔다. 이는 개봉 열흘째 300만 관객을 넘어선 천]]></content>
     </entry>
 </feed>
