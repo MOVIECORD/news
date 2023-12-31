@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-12-31T01:54:32.330Z</updated>
+    <updated>2023-12-31T02:22:41.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['노량' 3백만 관객 돌파…개봉 11일 만에]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003848297</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003848297"/>
+        <updated>2023-12-31T02:21:54.610Z</updated>
+        <content type="html"><![CDATA[이순신 3부작 프로젝트 피날레를 장식하는 영화 '노량: 죽음의 바다'가 3백만 관객 고지를 넘어섰다. 31일 영화진흥위원회 영화관 입장권 통합전산망에 따르면 '노량: 죽음의 바다'(이하 '노량')는 전날 전국 177]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CNN “故 이선균, 경찰이 마약실적 압박받는 상황에서 사망” 집중조명[MD이슈]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003797862</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000257648"/>
         <updated>2023-12-30T15:05:11.254Z</updated>
         <content type="html"><![CDATA['명량'·'한산'·'노량'으로 '이순신 3부작' 성공적으로 마무리 "이순신 장군의 정신을 리마인딩 하고 싶었다" "천행(天幸)이었다". 장장 10년에 걸친 프로젝트를 무사히 끝낸 김한민 감독이 내뱉은 첫 마디였다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“故 이선균 피의사실 공표 깊은 유감” 한국영화감독조합, 심적 부담감과 절망감 이루 헤아릴 수 없어[전문]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003797824</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003797824"/>
-        <updated>2023-12-30T14:04:28.096Z</updated>
-        <content type="html"><![CDATA[한국영화감독조합이 안타깝게 세상을 떠난 故 이선균을 추모했다. 한국영화감독조합은 30일 "배우의 소임은 한 인간이 자신이 온몸으로 겪고 느낀 것들을 켜켜이 마음 한 곁에 쌓아두었다가 카메라 앞에 그간의 삶을 바쳐 꺼]]></content>
     </entry>
 </feed>
