@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-12-31T02:22:41.030Z</updated>
+    <updated>2023-12-31T03:06:00.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘노량’ 노량해전 승전일 기념 스페셜 영상 공개…장엄한 카리스마]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000807983</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000807983"/>
+        <updated>2023-12-31T03:05:12.606Z</updated>
+        <content type="html"><![CDATA['노량: 죽음의 바다'가 노량해전 승전일을 기념해 ‘노량 해전일 스페셜 영상’을 공개했다. 300만 관객 돌파를 기록하며 파죽지세의 흥행 기세를 선보이고 있는 영화 '노량: 죽음의 바다'는 12월 31일(음력 11월]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['노량' 3백만 관객 돌파…개봉 11일 만에]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003848297</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014417786"/>
         <updated>2023-12-30T17:02:11.099Z</updated>
         <content type="html"><![CDATA[여배우 코르텔레시 감독 데뷔작 '체 안코라 도마니' 흥행 신드롬 신창용 특파원 = 로마 출신 여배우 파올라 코르텔레시의 감독 데뷔작 '체 안코라 도마니(C'e Ancora Domani·내일은 아직 있다는 뜻)가 올해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김한민 감독, 끈기·집념으로 완성한 10년의 여정[TF인터뷰]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000257648</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000257648"/>
-        <updated>2023-12-30T15:05:11.254Z</updated>
-        <content type="html"><![CDATA['명량'·'한산'·'노량'으로 '이순신 3부작' 성공적으로 마무리 "이순신 장군의 정신을 리마인딩 하고 싶었다" "천행(天幸)이었다". 장장 10년에 걸친 프로젝트를 무사히 끝낸 김한민 감독이 내뱉은 첫 마디였다.]]></content>
     </entry>
 </feed>
