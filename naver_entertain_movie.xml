@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2023-12-31T08:09:26.965Z</updated>
+    <updated>2023-12-31T09:05:04.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['티켓값 한' 2023년 최고의 영화 TOP3…'괴물'→'서울의 봄' [SE★연말결산]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004281048</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004281048"/>
+        <updated>2023-12-31T09:04:24.270Z</updated>
+        <content type="html"><![CDATA[티켓값이 천정부지로 치솟는 최근, 영화 한 편 보기도 지갑이 빠듯한 고물가 시대. 하지만 "극장에서 봤다"는 사실이 자랑스럽게 느껴지는 영화들이 분명 존재했다. 2023년을 마무리하며 올해를 장식한 최고의 영화를 총]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“경찰 마약 실적 압박 속 발생” CNN 시선...故 이선균 사망으로 본 불안한 韓연예계]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005237761</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=465&amp;aid=0000007459"/>
         <updated>2023-12-31T01:53:47.835Z</updated>
         <content type="html"><![CDATA[벌써 2024년 갑진년(甲辰年)이 코앞으로 다가온 바, 새해엔 또 어떤 영화들이 개봉을 기다리고 있을까. 세계적인 명감독 봉준호·박찬욱의 반가운 컴백부터 '외계+인' 2부·'베테랑2'·'범죄도시4' 등 화제의 속편들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기업기상도] 제철 만나 맑은 기업 vs 역풍 맞아 흐린 기업]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000637117</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000637117"/>
-        <updated>2023-12-31T01:53:47.837Z</updated>
-        <content type="html"><![CDATA[한 주 기업뉴스 리뷰, 주간 기업기상도입니다. 강추위가 조금 누그러졌습니다. 내년 경제도 이렇게 조금씩 나아졌으면 하는 바람 가득했던 한 주, 맑고 흐린 기업 찾아 2023년 마지막 기업기상도 시작합니다. 첫 맑은]]></content>
     </entry>
 </feed>
