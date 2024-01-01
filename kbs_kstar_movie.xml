@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Dec 2023 23:03:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jan 2024 00:34:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CGV, '켄 로치 감독전'.. "사람을 품다, 세상을 이야기한다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=296026</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=296026</guid>
+            <pubDate>Mon, 01 Jan 2024 00:33:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=296026">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240101071040_cc24396756cfda5f6841257d4163e529.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296026">CGV, '켄 로치 감독전'.. "사람을 품다, 세상을 이야기한다"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240101071040_cc24396756cfda5f6841257d4163e529.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메가박스, "새해는 클래식과 함께"... ‘씨네클래식 오페라 갈라 콘서트’ 기획전]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=295629</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=295335">[리뷰] 노량:죽음의 바다 “이순신의 전쟁, 김한민의 싸움” (김한민 감독,2023)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231227110610_4d39807ae4b1c89b6d50f15e351e12ba_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['2만 종의 벌' 오늘 개봉 .. 8살 코코의 가슴 뭉클한 성장 드라마]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=295328</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=295328</guid>
-            <pubDate>Wed, 27 Dec 2023 01:44:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=295328">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231227094247_c132eaad0dc38668000d387030a68e8e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=295328">'2만 종의 벌' 오늘 개봉 .. 8살 코코의 가슴 뭉클한 성장 드라마</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231227094247_c132eaad0dc38668000d387030a68e8e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
