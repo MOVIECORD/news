@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2024-01-02T16:06:23.223Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 02 Jan 2024 18:09:47 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[god, 뜨거웠던 콘서트 열기 스크린에 옮긴다]]></title>
+            <link>https://v.daum.net/v/20240103020100991</link>
+            <guid>https://v.daum.net/v/20240103020100991</guid>
+            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=김연주 기자] 그룹 god(지오디)가 2023년 투어 공연을 성공적으로 마친 가운데 콘서트 현장의 생생함을 담은 공연 실황 영화로 관객과 만난다. god(지오디)는 지난해 12월 31일 부산 BEXCO에서 진행된 부산 공연을 마지막으로 '2023 god TOUR 'god's MASTERPIECE'의 대장정을 마쳤다. 이번 공연에서 god(지오]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202401%2F03%2Ftvreport%2F20240103020103614upwk.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
