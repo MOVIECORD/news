@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://movie.daum.net/contents/news?type=recent</id>
-    <title>다음영화 뉴스 ─ 최신</title>
-    <updated>2024-01-03T21:06:41.279Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://movie.daum.net/contents/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>다음영화 뉴스 ─ 최신</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 03 Jan 2024 23:03:29 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['외계+인' 2부 김우빈 “많은 이들이 힘 합쳐 싸우는 순간들 참 아름다워"]]></title>
+            <link>https://v.daum.net/v/20240104075933589</link>
+            <guid>https://v.daum.net/v/20240104075933589</guid>
+            <pubDate>Wed, 03 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최나영 기자]&nbsp;독창적인 세계관을 펼치는&nbsp;영화 '외계+인'(각본/감독: 최동훈 | 제공/배급: CJ ENM | 제작: 케이퍼필름)&nbsp;2부가 영화를 완성하기 위한 제작진과 배우들의 노력이 엿보이는 ‘3, 2, 1 제작기 영상’을 공개했다.&nbsp; '외계+인'&nbsp;2부는 치열한 신검 쟁탈전 속 숨겨진 비밀이 밝혀지는 가운데 미래로 돌아가 모두를 구하려는 인간]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202401%2F04%2Fpoctan%2F20240104075934893ugho.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘서울의 봄’ 명장면, 전두광 화장실 신 막전막후]]></title>
+            <link>https://v.daum.net/v/20240104075754567</link>
+            <guid>https://v.daum.net/v/20240104075754567</guid>
+            <pubDate>Wed, 03 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1200만 관객을 돌파하며 새해에도 흥행 순항 중인 ‘서울의 봄’이 ‘서울의 봄’의 명장면으로 꼽히는 군사반란 성공 후 ‘전두광 화장실’ 신의 비하인드 스틸을 공개했다. 1979 년 12월 12일 수도 서울에서 일어난 신군부 세력의 반란을 막기 위한 일촉즉발의 9시간을 그린 영화 ‘서울의 봄’이 화장실 장면의 촬영 당일, 현장에서 이모개 촬영감독이 직]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202401%2F04%2Fsportskhan%2F20240104075755324jdea.png" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[공식] 디즈니 애니 '위시' 첫날, 14일간 정상 지킨 '노량' 꺾고 새로운 흥행 1위 등극]]></title>
+            <link>https://v.daum.net/v/20240104075708560</link>
+            <guid>https://v.daum.net/v/20240104075708560</guid>
+            <pubDate>Wed, 03 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조지영 기자] 디즈니 100주년 기념 애니메이션 '위시'(크리스 벅·폰 비라선손 감독)가 개봉 첫날 전체 박스오피스 1위를 차지하는 기염을 토했다. 영화진흥위원회 통합전산망에 따르면 '위시'는 4일 오전 7시 기준 11만515명의 관객을 동원하며 신드롬급 인기를 얻은 '더 퍼스트 슬램덩크'(6만2090명)와 2023년 외화 최고]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202401%2F04%2FSpoChosun%2F20240104075708768dqhu.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['외계+인' 2부, 최강훈 감독→류준열X김우빈 노력 엿보이는 '제작기 영상' 공개]]></title>
+            <link>https://v.daum.net/v/20240104075630549</link>
+            <guid>https://v.daum.net/v/20240104075630549</guid>
+            <pubDate>Wed, 03 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 노한빈 기자] 영화 '외계+인' 2부 측이 영화를 완성하기 위한 제작진들과 배우들의 남다른 노력이 엿보이는 '3, 2, 1 제작기 영상'을 공개했다. '외계+인' 2부는 치열한 신검 쟁탈전 속 숨겨진 비밀이 밝혀지는 가운데, 미래로 돌아가 모두를 구하려는 인간과 도사들의 이야기를 그린 영화다. 개봉 8일 전부터 쟁쟁한 경쟁작을 제치고 한국]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202401%2F04%2Fmydaily%2F20240104075632216zneq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['서울의 봄', 전두광 화장실 씬 비하인드 공개…"악이 탄생한 순간"]]></title>
+            <link>https://v.daum.net/v/20240104074246323</link>
+            <guid>https://v.daum.net/v/20240104074246323</guid>
+            <pubDate>Wed, 03 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 노한빈 기자] 영화 '서울의 봄' 측이 극 중 명장면으로 꼽히는 군사반란 성공 후 '전두광 화장실' 씬의 비하인드 스틸을 공개했다. 1979년 12월 12일 수도 서울에서 일어난 신군부 세력의 반란을 막기 위한 일촉즉발의 9시간을 그린 '서울의 봄' 측이 화장실 장면의 촬영 당일, 현장에서 이모개 촬영감독이 직접 찍은 황정민과 김성수 감독]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202401%2F04%2Fmydaily%2F20240104074248151iyoq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[[리뷰] '외계+인' 2부 최동훈 감독의 독창적인 SF판타지…흥행 예감]]></title>
+            <link>https://v.daum.net/v/20240104073713245</link>
+            <guid>https://v.daum.net/v/20240104073713245</guid>
+            <pubDate>Wed, 03 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠한국 조은애 기자] 아무리 전편보다 나은 속편이&nbsp;드물다지만, 적어도 '외계+인' 2부는 이 같은 속설에서 벗어난 영화다. 1부의 아픔을 털고 이번엔 웃을 수 있을 것 같다. 독창적인 매력으로 가득한 '외계+인' 2부(감독 최동훈)다. 영화는 인간의 몸에 가둬진 외계인 죄수의 탈옥을 막으려다 과거에 갇힌 이안(김태리)의 이야기로 시작된다. 이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202401%2F04%2FSpoHankook%2F20240104073714727hsdn.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA['외계+인' 2부 끝은 창대하리라…레벨업한 韓의 성장형 어벤져스[봤어영]]]></title>
+            <link>https://v.daum.net/v/20240104073028118</link>
+            <guid>https://v.daum.net/v/20240104073028118</guid>
+            <pubDate>Wed, 03 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 스타in 김보영 기자] 아픈 손가락이었지만 이 정도면 꽤 멋진 피날레가 아닐까. 387일의 여정, 시작은 미약했으나 끝은 창대할 것이다. 최동훈 감독을 비롯해 배우들, 스태프들 모두가 유종의 미를 위해 모든 진심을 쏟아부었음이 엿보이는 마무리였다. 물론 앞서 개봉한 1부는 파격적인 소재와 방대한 세계관으로 한때 난해하다는 혹평에 직면했고, 곧]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202401%2F04%2FEdaily%2F20240104073030960btuq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[지켜볼까, ‘외계+인’ 2부의 역전극[편파적인 씨네리뷰]]]></title>
+            <link>https://v.daum.net/v/20240104072203040</link>
+            <guid>https://v.daum.net/v/20240104072203040</guid>
+            <pubDate>Wed, 03 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[■편파적인 한줄평 : 1부의 치명상, 80% 극복! 작품 안팎으로 치명상 입은 1부(2022)에서 이미 가망 없을 줄 알았더니, 80%까진 극복을 또 해낸다. 그동안 칼 갈고 나온 최동훈 감독의 의지까지 엿보인다. 산만했던 1부에 비해 깔끔하고 경쾌하게 돌아온 ‘외계+인’ 2부(감독 최동훈)가 역전극을 준비하고 관객을 기다린다. 땅거미처럼 바닥에 내려]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202401%2F04%2Fsportskhan%2F20240104072204398cgxr.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[류준열·김태리→김우빈 '외계+인', 스펙터클 터진 2부…액션x유머 대잔치 (종합)[Oh!쎈 리뷰]]]></title>
+            <link>https://v.daum.net/v/20240104071016926</link>
+            <guid>https://v.daum.net/v/20240104071016926</guid>
+            <pubDate>Wed, 03 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김보라 기자]&nbsp;(※이 기사에 스포일러가 있습니다.) 시간의 문을 통해 현대에서 고려 말로 이동했던 외계인 설계자는 형사 문도석(소지섭 분)의 몸이 쇠퇴해진 탓에 새로운 인간을 찾는다. 한밤중 숲속을 헤매던 중 어린 무륵을 발견한 문도석은 그에게 들어가려고 다가선다. 같은 시각 도처에 있던 외계인 죄수 관리자 가드(김우빈 분), 무륵이 강에서]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202401%2F04%2Fpoctan%2F20240104071016643fbaq.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[“그래! 이거지!”…‘외계+인2’ 1편 아쉬움 지울 초강력 판타지액션의 탄생 [리뷰]]]></title>
+            <link>https://v.daum.net/v/20240104070013760</link>
+            <guid>https://v.daum.net/v/20240104070013760</guid>
+            <pubDate>Wed, 03 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사진제공｜CJ ENM단 한 번의 브레이크를 밟지 않고 통쾌하게 달려가는 스토리와 한국 판타지 액션영화의 수준을 한 단계 끌어올린 호쾌한 액션까지 우리가 당초 최동훈 감독에게 바라왔던 모든 것이 담겼다. 1편 흥행 참패의 서러움을 한 번에 날릴 영화 ‘외계+인 2부’가 연초 극장가를 뒤흔들 전망이다. 10일 개봉해 2024 극장가의 포문을 여는 ‘외계+인]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202401%2F04%2Fsportsdonga%2F20240104070014954zixj.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘주연 영화 3편’…마동석의 ‘흥행 펀치’, 올해도 통할까]]></title>
+            <link>https://v.daum.net/v/20240104063010423</link>
+            <guid>https://v.daum.net/v/20240104063010423</guid>
+            <pubDate>Wed, 03 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 오리지널 영화 ‘황야’. 사진제공｜넷플릭스 배우 마동석이 올해도 강력한 흥행 펀치를 날릴 준비를 마쳤다. 대표 흥행 시리즈인 ‘범죄도시4’를 비롯해 ‘황야’와 ‘거룩한 밤: 데몬 헌터스’까지 세 편의 주연작으로 잇따라 선보인다. 1000만 관객을 넘은 ‘범죄도시2’의 흥행과 힘입어 한국갤럽이 조사한 ‘2023년을 빛낸 영화배우 1위’에 오른 그가]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202401%2F04%2Fsportsdonga%2F20240104063012325slbd.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+        <item>
+            <title><![CDATA[1부 실패에 울컥...최동훈 감독 '외계+인 2부', 류준열→김태리 믿음의 결과는?]]></title>
+            <link>https://v.daum.net/v/20240104063008420</link>
+            <guid>https://v.daum.net/v/20240104063008420</guid>
+            <pubDate>Wed, 03 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(MHN스포츠 장민수 기자) 영화 '외계+인' 1부에서 실패의 쓴잔을 마신 최동훈 감독이 2부에서 명예 회복할 수 있을까. 눈물을 참으며 초대장을 쓴 그에게 배우들은 믿음으로 힘을 실었다. 3일 서울 용산구 CGV용산아이파크몰에서 영화 '외계+인' 2부 언론배급시사회 및 기자간담회가 열렸다. 이날은 최동훈 감독과 배우 류준열, 김태리, 김우빈, 이]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S384x240/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202401%2F04%2FHockeyNewsKorea%2F20240104063010523ndku.jpg" length="0" type="image//thumb/S384x240/"/>
+        </item>
+    </channel>
+</rss>
