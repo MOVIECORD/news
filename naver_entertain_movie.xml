@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-01-03T18:11:19.837Z</updated>
+    <updated>2024-01-03T19:04:36.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[왓챠, 갑진년 새해 주요 신작 공개···‘네가 마음을 주었으니까’, ‘에에올’, ‘햄과 함께’ 등 1월 서비스]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000935546</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000935546"/>
+        <updated>2024-01-03T19:03:51.662Z</updated>
+        <content type="html"><![CDATA[OTT 왓챠가 갑진년 새해를 맞아 드라마, 영화, 예능을 아우르는 1월 신작 라인업을 3일 선보였다. 국내에서도 높은 인지도를 자랑하는 일본 배우 나가노 메이 주연의 익스클루시브 시리즈 ‘네가 마음을 주었으니까’,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스튜디오 더존 ‘미야자키 하야오 영화음악 콘서트’ 성료]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000664170</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005239442"/>
         <updated>2024-01-03T10:05:53.172Z</updated>
         <content type="html"><![CDATA[더는 힘들 것 같아... 이 멀고도 험한 여정을 끝까지 비포장도로로 완주해야한다니. 마블도 ‘어벤저스’ 이후 암흑기에서 벗어나질 못하고 있거늘, 전성기도 없이 퇴장할 한국형 ‘어벤저스’의 꿈, ‘외계+인’ 2부다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웃음빵 터진 김태리~ [포토]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001097817</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001097817"/>
-        <updated>2024-01-03T10:05:53.173Z</updated>
-        <content type="html"><![CDATA[배우 김태리가 3일 서울 용산구 CGV용산아이파크몰에서 열린 ‘외계+인 2부’ 언론시사회에 참석해 인터뷰도중 웃고 있다.]]></content>
     </entry>
 </feed>
