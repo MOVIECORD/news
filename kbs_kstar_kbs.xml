@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 21:03:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 22:02:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['피도 눈물도 없이' 이소연의 운명... "들판에 핀 한 송이의 꽃"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=295719</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=295719</guid>
+            <pubDate>Thu, 04 Jan 2024 22:01:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=295719">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231229114316_67205d286a9d74ba28f74ac5b643f88a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=295719">'피도 눈물도 없이' 이소연의 운명... "들판에 핀 한 송이의 꽃"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20231229114316_67205d286a9d74ba28f74ac5b643f88a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[서치미] 척하면 척 코요태! 인간 신지 판독기 김종민~]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=296507</link>
@@ -348,23 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%99%98%EC%83%81%EC%97%B0%EA%B0%80">월화드라마 환상연가</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240103101950_da4ab2654cd9accffa5f0e615bbbf571.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[살림하는남자들] 이효정,건강검진 결과에 충격… "14kg 뺄 것"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=296305</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=296305</guid>
-            <pubDate>Tue, 02 Jan 2024 23:06:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=296305">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240103073249_17dbb275a9ec7ca433e703484af18bb8.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296305">[살림하는남자들] 이효정,건강검진 결과에 충격… "14kg 뺄 것"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240103073249_17dbb275a9ec7ca433e703484af18bb8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
