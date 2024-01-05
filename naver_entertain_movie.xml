@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-01-05T15:03:32.919Z</updated>
+    <updated>2024-01-05T16:09:27.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NYT 평론가, 오스카 남우조연상 후보로 유태오 추천]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014428545</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014428545"/>
+        <updated>2024-01-05T16:08:38.419Z</updated>
+        <content type="html"><![CDATA["훌륭하다" 극찬…한국계 감독 연출 '패스트 라이브즈' 출연 고일환 특파원 = 미국 유력 언론사인 뉴욕타임스(NYT)의 영화평론가가 영화 '패스트 라이브즈'(Past Lives)에 출연한 한국 배우 유태오를 제96회]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김옥빈(Kim Ok-vin), ‘철철 넘치는 우아함 뽐내며’ [O! STAR 숏폼]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0004994177</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000643789"/>
         <updated>2024-01-05T13:10:18.158Z</updated>
         <content type="html"><![CDATA[배우 이열음이 5일 오후 서울 용산구 한강로 CGV 용산아이파크몰에서 열린 영화 '외계+인 2부' VIP시사회에 참석하고 있다. '외계인 2부'는 지난 2022년 개봉한 전작 '외계인'의 후속 완결편이다. 1편에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TEN포토]신예은 '판타지 비주얼']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000643788</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000643788"/>
-        <updated>2024-01-05T13:10:18.161Z</updated>
-        <content type="html"><![CDATA[배우 신예은이 5일 오후 서울 용산구 한강로 CGV 용산아이파크몰에서 열린 영화 '외계+인 2부' VIP시사회에 참석하고 있다. '외계인 2부'는 지난 2022년 개봉한 전작 '외계인'의 후속 완결편이다. 1편에서]]></content>
     </entry>
 </feed>
