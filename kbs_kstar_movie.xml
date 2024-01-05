@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 01:47:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 03:06:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스 '경성크리처' 파트2, 오늘 공개...]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=296591</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=296591</guid>
+            <pubDate>Fri, 05 Jan 2024 03:04:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=296591">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240105112928_a776faf16b5078a2cf9de9849d01c25c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296591">넷플릭스 '경성크리처' 파트2, 오늘 공개...</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240105112928_a776faf16b5078a2cf9de9849d01c25c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티빙 '이재,곧 죽습니다' 오늘 파트2 전편 공개..."최이재, 복수의 결말은?"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=296533</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296020">'재벌X형사'  안보현.. " 재벌3세입니다, 강력팀 형사입니다"  디즈니+ 1월 26일 첫 방송</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240101070129_89324bc16737be336f70889f1279c2d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CGV, '켄 로치 감독전'.. "사람을 품다, 세상을 이야기한다"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=296026</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=296026</guid>
-            <pubDate>Mon, 01 Jan 2024 00:33:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=296026">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240101071040_cc24396756cfda5f6841257d4163e529.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296026">CGV, '켄 로치 감독전'.. "사람을 품다, 세상을 이야기한다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240101071040_cc24396756cfda5f6841257d4163e529.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
