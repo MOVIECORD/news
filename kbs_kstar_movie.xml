@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Jan 2024 15:05:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jan 2024 16:05:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니+ 마블 오리지널 '에코'..  알라콰 콕스의 마야 액션]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=296790</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=296790</guid>
+            <pubDate>Sat, 06 Jan 2024 16:03:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=296790">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240106222648_ae192738535d8dd60393034ac0b7e9e0.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296790">디즈니+ 마블 오리지널 '에코'..  알라콰 콕스의 마야 액션 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240106222648_ae192738535d8dd60393034ac0b7e9e0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티빙의 인생드라마 '이재, 곧 죽습니다'... "완벽한 삶은 살아가는 것!"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=296717</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296165">디즈니+ '킬러들의 쇼핑몰' 삼촌 이동욱 &amp; 조카 김혜준..."혹독한 쇼핑몰 인수인계"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240102081458_e98165c630b6ad754bc989ce6caff825.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 하병훈 감독 "고백감독,  죽어서 후회하지 말고 지금 더 노력하자" (티빙 ‘이재,곧 죽습니다’)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=296187</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=296187</guid>
-            <pubDate>Tue, 02 Jan 2024 00:29:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=296187">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240102090507_2e2cf37959ce3a87ee20b23a1cc1320d.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296187">[인터뷰] 하병훈 감독 "고백감독,  죽어서 후회하지 말고 지금 더 노력하자" (티빙 ‘이재,곧 죽습니다’)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240102090507_2e2cf37959ce3a87ee20b23a1cc1320d.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
