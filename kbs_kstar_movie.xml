@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 06:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 08:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김대중 대통령 탄생 100주년 기념영화 '길위에 김대중' ..  10일 개봉]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=296933</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=296933</guid>
+            <pubDate>Mon, 08 Jan 2024 08:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=296933">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240107203957_07fa4efe52ce3588c89fa30d8fb15d64.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296933">김대중 대통령 탄생 100주년 기념영화 '길위에 김대중' ..  10일 개봉</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240107203957_07fa4efe52ce3588c89fa30d8fb15d64.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] ‘노 베어스’.. “저 산에 곰이 있다! 없다!” (자파르 파나히 감독)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=297036</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296427">티빙 '이재, 곧 죽습니다'  '파트2'... "최이재의 데스게임"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240104090831_85b025122784c70deb462ed54a0447e6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장] 최동훈 감독 ‘외계+인 2부’ 시사회.. “고려인들, 지구인의 운명에 개입하다!”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=296418</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=296418</guid>
-            <pubDate>Thu, 04 Jan 2024 00:31:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=296418">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240104085432_06a53d946c7ce581ecd8bf43ae35f5d1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=296418">[현장] 최동훈 감독 ‘외계+인 2부’ 시사회.. “고려인들, 지구인의 운명에 개입하다!”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240104085432_06a53d946c7ce581ecd8bf43ae35f5d1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
