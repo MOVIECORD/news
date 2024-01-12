@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-01-12T22:07:02.617Z</updated>
+    <updated>2024-01-12T23:02:55.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[17회 아시아필름어워즈 후보자 발표... 3월 홍콩에서 개최]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000061812</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000061812"/>
+        <updated>2024-01-12T23:02:10.649Z</updated>
+        <content type="html"><![CDATA[올해로 17회를 맞는 아시아필름어워즈가 오는 3월 10일(일) 홍콩에서 개최될 예정인 가운데, 16개 부문의 후보작을 발표했다. 아시아필름어워즈아카데미(이하 AFAA)는 홍콩국제영화제, 부산국제영화제, 도쿄국제영화제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[현장] 넷플릭스 ‘선산’ 제작발표회.. “가족에 얽힌 가장 한국적인, 가장 충격적인 스릴러”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000061811</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000051864"/>
         <updated>2024-01-12T11:02:08.388Z</updated>
         <content type="html"><![CDATA[단편영화 &lt;수학여행&gt; 에서 소외된 이들의 내면에 일렁이는 섬세한 감정들을 포착했던 김희진 감독이 조해진 작가의 소설 &lt;로기완을 만났다&gt;를 영상화한 작품으로 장편 데뷔에 나선다. 한국영화아카데미 재학 시절 신인 창작자]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 악당도 코미디도 다 잡는다, <범죄도시4> 허명행 감독]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000051863</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000051863"/>
-        <updated>2024-01-12T11:02:08.393Z</updated>
-        <content type="html"><![CDATA[와 &lt;범죄도시3&gt;로 2년 연속 천만 관객을 달성한 &lt;범죄도시&gt; 시리즈(이하 &lt;범죄도시&gt;)가 새로운 사령관과 함께 여름이 오기 전 극장가를 찾는다. &lt;범죄도시4&gt;의 메가폰은 &lt;범죄도시&gt;의 무술감독을 맡았던 허명행 감독]]></content>
     </entry>
 </feed>
