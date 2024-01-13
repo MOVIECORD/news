@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-01-13T10:05:29.148Z</updated>
+    <updated>2024-01-13T11:05:06.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] '대상 배우' 김태리의 연기론 "연기는 기세...뻔뻔하게 해야죠"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=445&amp;aid=0000168989</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=445&amp;aid=0000168989"/>
+        <updated>2024-01-13T11:04:20.882Z</updated>
+        <content type="html"><![CDATA["연기는 기세라고 생각해요. 정답이 없으니 뻔뻔하게 하는 거죠. 내 것을 정답으로 만들어 설득시키는 것이 중요하다고 봐요." 지난해 SBS 드라마 '악귀'로 연기대상을 수상하고, 올해 영화 '외계+인' 2부로 관객들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘서울의 봄’ 1270만 넘었다···역대 한국영화 흥행 톱9]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000937544</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001681167"/>
         <updated>2024-01-13T05:04:10.920Z</updated>
         <content type="html"><![CDATA['서울의 봄'이 1,270만 관객을 돌파하며 팬데믹 이후 최고 흥행을 기록했다. 영화 '서울의 봄'(감독 김성수)은 1979년 12월 12일 수도 서울에서 일어난 신군부 세력의 반란을 막기 위한 일촉즉발의 9시간을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서울의 봄' 1270만 돌파…'범죄도시2' 넘고 역대 韓영화 톱9 등극]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005654281</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005654281"/>
-        <updated>2024-01-13T05:04:10.922Z</updated>
-        <content type="html"><![CDATA[2023년 한국 영화의 불씨를 되살렸던 ‘서울의 봄’(감독 김성수)이 1270만 관객을 돌파하며 팬데믹 이후 개봉한 영화 중 가장 높은 스코어를 기록했다. 영화 ‘서울의 봄’은 1979년 12월 12일 수도 서울에서]]></content>
     </entry>
 </feed>
