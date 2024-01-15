@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-01-15T19:02:49.132Z</updated>
+    <updated>2024-01-15T20:04:03.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[극장의 봄 찾아오나… 12월 매출 팬데믹 이전 88% 회복]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001667118</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001667118"/>
+        <updated>2024-01-15T20:03:17.075Z</updated>
+        <content type="html"><![CDATA[지난달 영화관 매출이 팬데믹 이전의 87.9%, 관객 수는 73.4% 수준을 회복했다. 극장업계에선 코로나19와 온라인 동영상 서비스(OTT) 시장 확대로 인한 침체를 벗어날 수 있을 거란 기대감이 고개를 든다. 단]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정유미 감독, 베를린영화제 4번째 초청받아]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=023&amp;aid=0003810906</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004287242"/>
         <updated>2024-01-15T10:08:02.949Z</updated>
         <content type="html"><![CDATA[배우 김태리가 영화 '외계+인' 시리즈를 함께한 최동훈 감독을 향한 애틋한 마음을 전했다. 4일 서울 종로구에 위치한 한 카페에서 '외계+인' 2부(감독 최동훈)에 출연한 배우 김태리의 인터뷰가 진행됐다. '외계+인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["작년 영화 관객수, 여전히 팬데믹 이전 절반 수준"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000639732</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000639732"/>
-        <updated>2024-01-15T10:08:02.950Z</updated>
-        <content type="html"><![CDATA[지난해 극장을 찾은 관객 수가 코로나19 확산 이전과 비교해 여전히 절반 수준에 머문 것으로 나타났습니다. 영화진흥위원회가 발표한 '2023 영화 산업 결산' 자료에 따르면, 지난해 전체 영화 관객 수는 약 1억 2]]></content>
     </entry>
 </feed>

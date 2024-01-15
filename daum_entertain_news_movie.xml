@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-01-15T19:02:49.128Z</updated>
+    <updated>2024-01-15T20:04:03.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[극장의 봄 찾아오나… 12월 매출 팬데믹 이전 88% 회복]]></title>
+        <id>https://v.daum.net/v/20240116040812141</id>
+        <link href="https://v.daum.net/v/20240116040812141"/>
+        <updated>2024-01-15T20:04:02.546Z</updated>
+        <content type="html"><![CDATA[지난달 영화관 매출이 팬데믹 이전의 87.9%, 관객 수는 73.4% 수준을 회복했다. 극장업계에선 코로나19와 온라인 동영상 서비스(OTT) 시장 확대로 인한 침체를 벗어날 수 있을 거란 기대감이 고개를 든다. 단, ‘서울의 봄’이 가져온 깜짝 특수라는 지적도 있다. 15일 영화진흥위원회 영화 산업 결산 발표에 따르면 지난해 12월 극장은 매출액 164]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[작년 극장 찾은 관객수, 전년 대비 11% 늘어]]></title>
         <id>https://v.daum.net/v/20240116003015459</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240115170522703"/>
         <updated>2024-01-15T08:11:57.884Z</updated>
         <content type="html"><![CDATA[[OSEN=김보라 기자]&nbsp;배우 김윤석과 구교환이 새 한국영화 ‘폭설’에 캐스팅됐다. 연기 잘하기로 소문난 두 사람의 만남이 벌써부터 높은 기대를 모은다. 15일 OSEN 취재 결과 김윤석과 구교환은 최근 ‘폭설’의 제안을 받고 출연에 대한 검토를 긍정적으로 마쳤다. ‘폭설’은 역에서 벌어지는 일을 그린 심리 스릴러 드라마 장르의 영화다. 이달 말에서 2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내가 제일 못해"..'경성크리처' 한소희, 연기를 대하는 방법]]></title>
-        <id>https://v.daum.net/v/20240115170002480</id>
-        <link href="https://v.daum.net/v/20240115170002480"/>
-        <updated>2024-01-15T08:11:57.885Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 김나연 기자] 배우 한소희가 15일 오후 서울 종로구 북촌로의 한 카페에서 진행된 넷플릭스 오리지널 시리즈 '경성크리처' 관련 인터뷰를 위해 포즈를 취하고 있다.  한소희는 극 중 죽은 사람도 찾아낸다는 소문난 토두꾼 윤채옥으로 분해 날쌘 액션과 절제된 감정 연기를 선보였다.   '경성크리처'는 시대의 어둠이 가장 짙었던 1945년 봄, 생존]]></content>
     </entry>
 </feed>
