@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-01-16T16:13:07.361Z</updated>
+    <updated>2024-01-16T17:03:32.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘2024년 성장 모멘텀 원년’ 선언한 하이그라운드, 라인업 확장 및 히트 IP 확보 총력]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000938172</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000938172"/>
+        <updated>2024-01-16T17:02:39.956Z</updated>
+        <content type="html"><![CDATA[멀티 콘텐츠 스튜디오 하이그라운드가 2024 년도를 성장 모멘텀의 ‘원년’으로 삼고 폭발적인 라인업 확장과 히트 IP( 지식재산권 )확보에 나선다. 하이그라운드는 축적된 노하우를 기반으로 다양한 유수 파트너들과의 협]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소풍' 나문희X김영옥X박근형, '찐 우정'이란 이런 것]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001283654</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001682170"/>
         <updated>2024-01-16T09:07:09.758Z</updated>
         <content type="html"><![CDATA[영화 '서울의 봄'(감독 김성수)이 역대 한국영화 흥행 TOP 7, 역대 전체 박스오피스 10위에 등극하는 쾌거를 달성했다. 영화관입장권 통합전산망에 따르면 16일 오후 12시 20분 기준 '서울의 봄'이 누적 관객]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서울의 봄' 역대 전체 박스오피스 10위..'7번방의 선물' 제쳤다(공식)]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003676351</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003676351"/>
-        <updated>2024-01-16T09:07:09.759Z</updated>
-        <content type="html"><![CDATA['서울의 봄'이 역대 한국 영화 흥행 TOP7, 역대 전체 박스오피스 10위에 등극했다. 영화관입장권 통합전산망에 따르면 16일 오후 12시 20분 기준 영화 '서울의 봄'이 누적 관객수 1281만 2199명을 동원]]></content>
     </entry>
 </feed>
