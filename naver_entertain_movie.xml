@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-01-16T11:04:59.369Z</updated>
+    <updated>2024-01-16T12:11:45.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[왓챠, VOD 선물 기능 도입 “구독자 아니어도 이용 가능”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000938149</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000938149"/>
+        <updated>2024-01-16T12:10:55.675Z</updated>
+        <content type="html"><![CDATA[온라인동영상서비스(OTT) 왓챠는 건별 결제를 통해 콘텐츠를 감상할 수 있는 ‘왓챠 개봉관’에 ‘선물하기’ 기능을 도입했다고 16일 밝혔다. 앞으로 왓챠 개봉관에서 판매 중인 영화와 애니메이션 등 2천100여 편의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘서울의 봄’ 역대 전체 박스오피스 톱10 등극… 韓영화 톱7]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003324644</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0004098342"/>
         <updated>2024-01-16T09:07:09.770Z</updated>
         <content type="html"><![CDATA[영화 '외계+인' 2부가 4DXSCREEN 상영회를 개최해 관객들의 뜨거운 반응을 불러모았다. '외계+인' 2부가 지난 5일 10대 관객 대상 4DXSCREEN 상영회를 성황리에 개최했다. 이날 자리에는 영화 속에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["K무비 골든 타임"…영진위, 총 195억 원 규모 2024년 사업 설명회 연다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000302820</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000302820"/>
-        <updated>2024-01-16T09:07:09.771Z</updated>
-        <content type="html"><![CDATA[영화진흥위원회(이하 '영진위')가 코로나 이후 3년 만에 대면으로 사업 설명회를 개최하고 올해 지원 사업에 본격적으로 시동을 건다. 영진위는 오는 23일 오후 2 시 서울 마포구 메가박스 상암월드컵경기장점 1관에서]]></content>
     </entry>
 </feed>
