@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 22:03:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 23:06:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웨이브 '악인취재기:사기공화국'... ‘어묵 군납 비리’ 사건의 재구성]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=298901</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=298901</guid>
+            <pubDate>Thu, 18 Jan 2024 23:05:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=298901">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240119075752_e670c50369f9d00f4cfb669e433690af.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=298901">웨이브 '악인취재기:사기공화국'... ‘어묵 군납 비리’ 사건의 재구성</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240119075752_e670c50369f9d00f4cfb669e433690af.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[판타지 <봉신연의: 조가풍운>... “최고의 제작진, 최고의 완성도”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=298644</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=298318">하정우 세번 째 감독작품 '로비, "촬영 끝!"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240116090911_064a915d3a0ca2000890fe21c5fae717.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박서준-한소희의 '월광바', 북촌에서 만나다... '경성크리처' 사진전 개최]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=298294</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=298294</guid>
-            <pubDate>Tue, 16 Jan 2024 00:28:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=298294">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240116083005_a2c8c19bd150e9a291a56a8845246be7.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=298294">박서준-한소희의 '월광바', 북촌에서 만나다... '경성크리처' 사진전 개최</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240116083005_a2c8c19bd150e9a291a56a8845246be7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
