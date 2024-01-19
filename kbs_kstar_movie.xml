@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 04:09:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 05:03:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강풀 '조명가게', 디즈니 플러스 공개... "무빙 투 강풀 유니버스"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=299013</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=299013</guid>
+            <pubDate>Fri, 19 Jan 2024 05:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=299013">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240119132650_a8451a2ba02677bb6cb737e035287a35.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=299013">강풀 '조명가게', 디즈니 플러스 공개... "무빙 투 강풀 유니버스"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240119132650_a8451a2ba02677bb6cb737e035287a35.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 '선산' 오늘 공개... "가족이라는 이름의 선산"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=298976</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=297978">BIFF 2관왕 '울산의 별'.. 배우들의 명연기가 빚어낸 가족힐링극 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240114085940_c89bc720b4cfcea2d8dbfa72b2a30681.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] '나의 올드 오크'..  용기, 연대, 그리고 저항  (켄 로치 감독)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=298336</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=298336</guid>
-            <pubDate>Tue, 16 Jan 2024 08:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=298336">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240116163859_13310828c782980cb2f617c36cd356fa.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=298336">[리뷰] '나의 올드 오크'..  용기, 연대, 그리고 저항  (켄 로치 감독)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240116163859_13310828c782980cb2f617c36cd356fa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
