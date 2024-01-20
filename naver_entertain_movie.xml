@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-01-20T02:25:35.764Z</updated>
+    <updated>2024-01-20T03:07:31.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하이틴 영화 ‘K스쿨’, 2월 21일 개봉 확정]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000977807</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000977807"/>
+        <updated>2024-01-20T03:06:37.102Z</updated>
+        <content type="html"><![CDATA[하이틴 영화 ‘K스쿨’이 2월 21일 개봉을 확정했다. CGV, 롯데시네마, 메가박스, 씨네Q 등 멀티플렉스 4사가 하이틴 영화 ‘K스쿨(박미경 감독, 강컨텐츠 제작)’ 개봉을 확정하고 극장가에 신선한 바람을 불어넣]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘외계+인’ 2부, 10일 연속 박스오피스 1위.. 누적 86만]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003325426</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014456453"/>
         <updated>2024-01-19T20:05:16.563Z</updated>
         <content type="html"><![CDATA['더 하트' 각본·연출 맡아…"외로운 사람들에 관한 영화" 임미나 특파원 = 버락 오바마 전 미국 대통령의 장녀인 말리아 오바마(25)가 영화감독으로 데뷔해 미국의 독립영화제인 선댄스에서 첫 단편영화를 선보였다. 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['도그맨' 115마리의 강아지, 명품 연기 선보이다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001283999</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001283999"/>
-        <updated>2024-01-19T17:02:02.165Z</updated>
-        <content type="html"><![CDATA[칸영화제 남우주연상 수상자 케일럽 랜드리 존스와 115마리 강아지들의 열연이 돋보이는 영화 '도그맨'이 명연기를 펼친 강아지들의 활약과 촬영 현장을 담은 영상을 공개했다. 영화 '도그맨'은 개들의 사랑으로 구원받은]]></content>
     </entry>
 </feed>
