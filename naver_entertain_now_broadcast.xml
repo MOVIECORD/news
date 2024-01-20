@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/now?sid=224</id>
     <title>네이버 TV연예 ─ 최신뉴스 ─ 방송</title>
-    <updated>2024-01-20T18:08:23.497Z</updated>
+    <updated>2024-01-20T20:05:07.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[바로보는TV 옴부즈맨] 634회]]></title>
+        <id>https://entertain.naver.com/now/read?oid=422&amp;aid=0000640663</id>
+        <link href="https://entertain.naver.com/now/read?oid=422&amp;aid=0000640663"/>
+        <updated>2024-01-20T20:04:27.659Z</updated>
+        <content type="html"><![CDATA[시청자들의 참여와 다양한 목소리를 통해 방송의 문제점을 개선하고 필요로 하는 프로그램을 제작할 수 있도록 제작자와 시청자 간 가교역할을 하는 프로그램 * 이번주 모니터링 내용 뉴스10, 풍경여지도 PD 박혜준 AD]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최강희 "연기 활동 중단한 이유? 행복하지 않아서..."('전참시')]]></title>
         <id>https://entertain.naver.com/now/read?oid=213&amp;aid=0001284038</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/now/read?oid=108&amp;aid=0003210314"/>
         <updated>2024-01-20T18:07:43.836Z</updated>
         <content type="html"><![CDATA[배우 최강희가 번아웃 때문에 연기를 3년 동안 접었던 근황을 밝혔다. 20일 방송된 MBC '전치적 참견 시점'(이하 '전참시')에서는 최강희가 출연했다. 최강희가 오랜만에 방송에 등장하자 '전참시' 멤버들은 환호성]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정태호 “결혼했는데 김영희와 연애하는 걸로 오해받아” (동치미)]]></title>
-        <id>https://entertain.naver.com/now/read?oid=609&amp;aid=0000815214</id>
-        <link href="https://entertain.naver.com/now/read?oid=609&amp;aid=0000815214"/>
-        <updated>2024-01-20T18:07:43.837Z</updated>
-        <content type="html"><![CDATA[뉴스엔 유경상 yooks@ 개그맨 정태호가 김영희와 부부케미에 대해 해명했다. 1월 20일 방송된 MBN ‘속풀이쇼 동치미’에서 개그맨 정태호, 김영희가 자주 받는 오해를 언급했다. 정태호는 김영희와 나란히 앉아서]]></content>
     </entry>
 </feed>
