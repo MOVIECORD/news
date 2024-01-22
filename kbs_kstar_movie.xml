@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 06:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 10:06:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['추락의 해부' 산드라 휠러, BAFTA 여우주연상 & 여우조연상 노미네이트]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=299287</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=299287</guid>
+            <pubDate>Mon, 22 Jan 2024 10:05:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=299287">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240121113740_bf7cef4e336d71a19d76bcf3d0ce18cc.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=299287">'추락의 해부' 산드라 휠러, BAFTA 여우주연상 &amp; 여우조연상 노미네이트</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240121113740_bf7cef4e336d71a19d76bcf3d0ce18cc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“충분히 귀여웠나요?” ‘만달로리안 & 그로구’ 영화로 만들어진다]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=298610</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=299013">강풀 '조명가게', 디즈니 플러스 공개... "무빙 투 강풀 유니버스"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240119132650_a8451a2ba02677bb6cb737e035287a35.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 '선산' 오늘 공개... "가족이라는 이름의 선산"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=298976</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=298976</guid>
-            <pubDate>Fri, 19 Jan 2024 01:50:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=298976">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240119102354_6a515961e129fc12e4d04ee4a317830e.JPG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=298976">넷플릭스 '선산' 오늘 공개... "가족이라는 이름의 선산"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240119102354_6a515961e129fc12e4d04ee4a317830e.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
