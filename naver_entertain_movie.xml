@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-01-22T19:06:34.678Z</updated>
+    <updated>2024-01-22T20:03:28.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미드 '베벌리힐스…' 조연배우 데이비드 게일 별세…향년 58세]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014461193</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014461193"/>
+        <updated>2024-01-22T20:02:30.245Z</updated>
+        <content type="html"><![CDATA[임미나 특파원 = 1990년대 미국 드라마 '베벌리힐스의 아이들'(원제 'Beverly Hills, 90210')에 출연했던 배우 데이비드 게일이 58세를 일기로 별세했다고 미 일간 뉴욕타임스(NYT)와 NBC방송]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[방호정의 컬쳐 쇼크 & 조크] <157> 2023년에 놓친 걸작 한국영화 ‘거미집’ ‘너와 나’]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000064045</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014460865"/>
         <updated>2024-01-22T10:05:52.851Z</updated>
         <content type="html"><![CDATA[문재인 전 대통령이 22일 오후 경남 양산시내 한 영화관에서 영화 '길위에 김대중'을 관람한 후 양산지역 김두관 의원과 이재영 예비후보 사이에 서서 영화를 본 소감을 밝히고 있다. 2024.1.22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 '길위에 김대중' 관람하는 문재인 전 대통령]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014460864</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014460864"/>
-        <updated>2024-01-22T10:05:52.851Z</updated>
-        <content type="html"><![CDATA[문재인 전 대통령과 부인 김정숙 여사가 22일 오후 경남 양산시내 한 영화관에서 영화 '길위의 김대중'을 지역 민주 당원들과 함께 단체관람하고 있다. 2024.1.22]]></content>
     </entry>
 </feed>
