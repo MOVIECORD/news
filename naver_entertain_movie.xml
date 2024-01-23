@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-01-23T18:09:06.094Z</updated>
+    <updated>2024-01-23T19:03:17.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아카데미 작품상 후보 셀린 송 감독 "첫 영화로 인정받아 영광"]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014463807</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014463807"/>
+        <updated>2024-01-23T19:02:20.013Z</updated>
+        <content type="html"><![CDATA[연예매체 데드라인 인터뷰…"정말 놀랍고 대단한 영광, 가장 멋진 일" 12살 때 캐나다 이주해 작가로 활동하다 감독 데뷔…영화 '넘버3' 감독의 딸 임미나 특파원 = 데뷔작 '패스트 라이브즈'로 단숨에 영화계 최고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[돌아온 김민경 감독 “부산서 입봉보다 더 힘든 게 후속작”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000064153</id>
@@ -169,12 +176,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000939558"/>
         <updated>2024-01-23T11:02:32.231Z</updated>
         <content type="html"><![CDATA[영화 ‘문스트럭’, ‘허리케인 카터’ 등을 연출한 캐나다 출신 감독 노먼 주이슨이 별세했다고 미국 현지 언론들이 이 22일(현지시간) 전했다. 항년 97세. 고인의 홍보 담당자 제프 샌더슨은 주이슨 감독이 지난 20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["온 마음 다해 편지"…임영웅 힘 더해진 '소풍', 자작곡 선물 이유 (엑's 현장)[종합]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001684538</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001684538"/>
-        <updated>2024-01-23T11:02:32.232Z</updated>
-        <content type="html"><![CDATA['소풍' 감독, 배우들이 영화에 수록된 곡 '모래 알갱이'를 언급했다. 23일 오후 서울 광진구 롯데시네마 건대입구에서는 영화 '소풍'(감독 김용군) 언론시사회가 진행됐다. 현장에는 감독 김용균과 배우 나문희, 김영]]></content>
     </entry>
 </feed>
