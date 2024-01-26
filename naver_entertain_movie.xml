@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-01-26T20:04:19.720Z</updated>
+    <updated>2024-01-26T21:03:40.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤여정·나문희·김해숙, 전성기 끝 없는 황혼의 여배우들 [N초점]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007317452</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007317452"/>
+        <updated>2024-01-26T21:02:43.270Z</updated>
+        <content type="html"><![CDATA[황혼기에 접어든 여배우들이 절정의 연기력으로 관객의 마음을 사로잡고 있다. 영화 '미나리'(감독 정이삭)로 2021년 제93회 미국 아카데미 시상식에서 한국 배우 최초 여우조연상을 수상한 윤여정은 올 설 연휴를 앞두]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[펜 대신 빗자루를 든 작가… 영화 ‘두 세계 사이에서’]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001669970</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014470930"/>
         <updated>2024-01-26T10:04:19.109Z</updated>
         <content type="html"><![CDATA[애니메이션 '아톰 새로운 시작'에서 목소리 연기를 맡은 김소원이 26일 서울 용산구 CGV용산점에서 열린 '아톰, 새로운 시작' 시사회 및 무대인사에서 포즈를 취하고 있다. 2024.1.26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김강현 '내가 텐마 박사다']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014470929</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014470929"/>
-        <updated>2024-01-26T10:04:19.110Z</updated>
-        <content type="html"><![CDATA[애니메이션 '아톰 새로운 시작'에서 목소리 연기를 맡은 배우 김강현이 26일 서울 용산구 CGV용산점에서 열린 '아톰, 새로운 시작' 시사회 및 무대인사에서 포즈를 취하고 있다. 2024.1.26]]></content>
     </entry>
 </feed>
