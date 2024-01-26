@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-01-26T17:05:25.241Z</updated>
+    <updated>2024-01-26T18:09:18.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["파묘든다"...대배우X대세배우의 만남 '파묘']]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001284782</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001284782"/>
+        <updated>2024-01-26T18:08:31.644Z</updated>
+        <content type="html"><![CDATA[영화 '파묘'가 개성 넘치는 캐릭터들이 만들어낸 스틸을 공개해 호기심을 증폭시키고 있다. '파묘'는 거액의 돈을 받고 수상한 묘를 이장한 풍수사와 장의사, 무속인들에게 벌어지는 기이한 사건을 담은 오컬트 미스터리 영]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['듄: 파트2' 오래 기다렸다...2월 28일 국내 개봉 확정]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001284780</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014470928"/>
         <updated>2024-01-26T10:04:19.112Z</updated>
         <content type="html"><![CDATA[애니메이션 '아톰 새로운 시작'에서 목소리 연기를 맡은 배우 김강현이 26일 서울 용산구 CGV용산점에서 열린 '아톰, 새로운 시작' 시사회 및 무대인사에서 포즈를 취하고 있다. 2024.1.26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포즈 취하는 조병규]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014470927</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014470927"/>
-        <updated>2024-01-26T10:04:19.114Z</updated>
-        <content type="html"><![CDATA[애니메이션 '아톰 새로운 시작'에서 목소리 연기를 맡은 배우 조병규가 26일 서울 용산구 CGV용산점에서 열린 '아톰, 새로운 시작' 시사회 및 무대인사에서 포즈를 취하고 있다. 2024.1.26]]></content>
     </entry>
 </feed>

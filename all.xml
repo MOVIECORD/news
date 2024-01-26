@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 17:05:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 18:09:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -352,7 +352,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=300162</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=300162</guid>
             <pubDate>Fri, 26 Jan 2024 01:41:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=300162">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=300162">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240126092931_27fb22010df62c96bdcbaf22f7ebbf76.jpg" alt="대체 텍스트">
@@ -369,7 +369,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=300156</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=300156</guid>
             <pubDate>Fri, 26 Jan 2024 00:27:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=300156">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=300156">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240126091756_2f9a0cf45e24068a719318f1191ad624.jpg" alt="대체 텍스트">
@@ -386,7 +386,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=299898</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=299898</guid>
             <pubDate>Thu, 25 Jan 2024 21:04:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=299898">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=299898">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240125134525_5add1b936bc3aa62403097b4ee3c0e69_1.jpg" alt="대체 텍스트">
@@ -403,7 +403,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=299842</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=299842</guid>
             <pubDate>Thu, 25 Jan 2024 02:28:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=299842">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=299842">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240125111705_517ea9b846a369c43c239febc169048a.jpg" alt="대체 텍스트">
@@ -420,7 +420,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=299830</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=299830</guid>
             <pubDate>Thu, 25 Jan 2024 02:28:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=299830">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=299830">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240125100524_086f281bb08e49edead44d5b6850a0ce.jpg" alt="대체 텍스트">
@@ -437,7 +437,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=299818</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=299818</guid>
             <pubDate>Thu, 25 Jan 2024 02:28:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=299818">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=299818">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240125094742_721f7a9d30d80db53f0dc3afe669a677.jpg" alt="대체 텍스트">
@@ -1112,6 +1112,13 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/11/02/068164fb-a0da-4996-b554-067a5c34b6c9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["파묘든다"...대배우X대세배우의 만남 '파묘' (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001284782</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001284782</guid>
+            <pubDate>Fri, 26 Jan 2024 18:08:31 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '파묘'가 개성 넘치는 캐릭터들이 만들어낸 스틸을 공개해 호기심을 증폭시키고 있다. '파묘'는 거액의 돈을 받고 수상한 묘를 이장한 풍수사와 장의사, 무속인들에게 벌어지는 기이한 사건을 담은 오컬트 미스터리 영]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['듄: 파트2' 오래 기다렸다...2월 28일 국내 개봉 확정 (네이버TV연예 ─ 영화)]]></title>
             <link>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001284780</link>
             <guid>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001284780</guid>
@@ -1280,11 +1287,32 @@
             <content:encoded><![CDATA[애니메이션 '아톰 새로운 시작'에서 목소리 연기를 맡은 배우 김강현이 26일 서울 용산구 CGV용산점에서 열린 '아톰, 새로운 시작' 시사회 및 무대인사에서 포즈를 취하고 있다. 2024.1.26]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[포즈 취하는 조병규 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014470927</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014470927</guid>
-            <pubDate>Fri, 26 Jan 2024 10:04:19 GMT</pubDate>
-            <content:encoded><![CDATA[애니메이션 '아톰 새로운 시작'에서 목소리 연기를 맡은 배우 조병규가 26일 서울 용산구 CGV용산점에서 열린 '아톰, 새로운 시작' 시사회 및 무대인사에서 포즈를 취하고 있다. 2024.1.26]]></content:encoded>
+            <title><![CDATA['나는 솔로' 영숙 "망했어" 눈물 펑펑…왜? (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0012342329</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0012342329</guid>
+            <pubDate>Fri, 26 Jan 2024 18:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[박결 인턴 기자 = '나는 솔로(나는 SOLO)' 18기에서 또 한 번의 충격 사태가 발발한다. SBS PLUS·ENA 예능물 '나는 솔로'에서 영숙마저 오열한 '솔로나라 18번지'의 소름 돋는 반전을 담은 예고편을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[손태영 “♥권상우, 야한 격정 멜로하고 싶다고‥많이 싸워”(뉴저지) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000817461</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000817461</guid>
+            <pubDate>Fri, 26 Jan 2024 18:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[배우 권상우가 격정 멜로 작품을 향한 욕심을 드러냈다. 1월 26일 ‘Mrs.뉴저지 손태영’ 채널에는 권상우, 손태영 부부의 뉴욕 데이트 모습이 담긴 영상이 공개 됐다. 영상에서 권상우, 손태영 부부는 친한 동생을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[박명수 재산 300억 이상? “매니저 보너스도 못 줘”(할명수) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000817460</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000817460</guid>
+            <pubDate>Fri, 26 Jan 2024 18:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[박명수가 재산 300억설을 해명했다. 1월 26일 ‘할명수’ 채널에는 ‘악플 사이에 피어난 할명수 댓글(욕찬) 읽기’라는 제목의 영상이 공개 됐다. 영상에서 박명수는 그동안 공개된 콘텐츠에 달린 댓글을 읽었다. ‘광]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[안재홍 "'마스크걸' 주오남 막춤, 혜리 춤 따라한 것" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0012342328</link>
+            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0012342328</guid>
+            <pubDate>Fri, 26 Jan 2024 18:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[배우 안재홍이 넷플릭스 시리즈 '마스크걸' 뒷이야기를 털어놨다. 유튜브 채널 '혜리'가 지난 26일 공개한 영상에는 티빙 오리지널 시리즈 'LTNS' 주연을 맡은 안재홍과 이솜이 출연한 모습이 담겼다. 영상에서 그룹]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[오늘의 채널A]‘영어 1타’ 강사와 어머니의 공부관이 충돌 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
@@ -1432,34 +1460,6 @@
             <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0012342315</guid>
             <pubDate>Fri, 26 Jan 2024 15:04:31 GMT</pubDate>
             <content:encoded><![CDATA[박결 인턴 기자 = 9년 전 남편과 사별 후 아이 4명을 홀로 키우는 여성의 사연이 공개된다. 29일 오후 8시30분 방송되는 KBS Joy '무엇이든 물어보살'에는 아이들을 혼자 양육하면서 친정 엄마와 갈등을 겪고]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['노예계약' vs '배임행위', 서로 억울해하며 갈등 커지는 'SNL 코리아' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=445&amp;aid=0000170964</link>
-            <guid>https://entertain.naver.com/now/read?oid=445&amp;aid=0000170964</guid>
-            <pubDate>Fri, 26 Jan 2024 15:04:31 GMT</pubDate>
-            <content:encoded><![CDATA['SNL 코리아' 제작사 에이스토리와 안상휘 PD 측이 각각 서로의 주장을 반박하는 추가 입장문을 발표했다. 에이스토리는 26일 안상휘 PD 측이 추가로 발표한 주장에 관한 반박 입장을 알렸다. 안상휘 PD는 쿠팡플]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이혜정 "45세 아들, 내 이혼 결정 듣고 밤새 펑펑 울었다" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0012342314</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0012342314</guid>
-            <pubDate>Fri, 26 Jan 2024 15:04:31 GMT</pubDate>
-            <content:encoded><![CDATA[요리연구가 이혜정(68)이 가상 이혼에 대해 가족들이 보인 반응을 털어놨다. 28일 오후9시30분 방송되는 MBN '한 번쯤 이혼할 결심'에서는 가상 이혼 후 새로운 일상을 맞이한 이혜정·고민환(72) 부부의 모습이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[라이머, 안현모와 이혼 후 심경 "마음의 재활 아직 안돼" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=003&amp;aid=0012342311</link>
-            <guid>https://entertain.naver.com/now/read?oid=003&amp;aid=0012342311</guid>
-            <pubDate>Fri, 26 Jan 2024 15:04:31 GMT</pubDate>
-            <content:encoded><![CDATA[브랜뉴뮤직 대표인 래퍼 겸 프로듀서 라이머(47)가 방송인 안현모(41)와의 이혼 후 심경을 털어놨다. 지난 25일 유튜브 채널 '짐종국'에는 '이별보다 아픈 하체'라는 제목의 영상이 올라왔다. 영상에서 댄스듀오 ']]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘이상순♥’ 이효리 “데프콘과 사귀는 꿈 꿔, 얼굴 안 보는 거 알지 않나”(레드카펫) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000817455</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000817455</guid>
-            <pubDate>Fri, 26 Jan 2024 15:04:31 GMT</pubDate>
-            <content:encoded><![CDATA['레드카펫' MC 이효리가 데프콘과 사귀는 꿈을 꿨다고 밝혔다. 1월 26일 방송된 KBS 2TV '더 시즌즈-이효리의 레드카펫'에는 '나는 솔로' MC 데프콘이 출연했다. 이효리는 개인 소셜미디어 라이브 방송에서]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[스브스夜] '재벌X형사' 안보현, 일가족 살인범 잡고 하루아침에 경찰 됐다…박지현과 '공조' 시작 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
