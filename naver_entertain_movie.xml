@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-01-26T19:03:15.124Z</updated>
+    <updated>2024-01-26T20:04:19.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[펜 대신 빗자루를 든 작가… 영화 ‘두 세계 사이에서’]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001669970</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001669970"/>
+        <updated>2024-01-26T20:03:28.505Z</updated>
+        <content type="html"><![CDATA[“침대 정리는 평소에 늘 하던 일이다. 못 할 거 없다. 그런데 한 시간 반 동안 60개의 침대라니, 개당 1분 30초 꼴이다. 위 아래로 왔다갔다 하다 보면 허리와 어깨가 욱신거린다. 집에 돌아오면 팔이 덜덜 떨리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["파묘든다"...대배우X대세배우의 만남 '파묘']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001284782</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014470929</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014470929"/>
         <updated>2024-01-26T10:04:19.110Z</updated>
-        <content type="html"><![CDATA[애니메이션 '아톰 새로운 시작'에서 목소리 연기를 맡은 배우 김강현이 26일 서울 용산구 CGV용산점에서 열린 '아톰, 새로운 시작' 시사회 및 무대인사에서 포즈를 취하고 있다. 2024.1.26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김강현 '내가 텐마 박사다']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014470928</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014470928"/>
-        <updated>2024-01-26T10:04:19.112Z</updated>
         <content type="html"><![CDATA[애니메이션 '아톰 새로운 시작'에서 목소리 연기를 맡은 배우 김강현이 26일 서울 용산구 CGV용산점에서 열린 '아톰, 새로운 시작' 시사회 및 무대인사에서 포즈를 취하고 있다. 2024.1.26]]></content>
     </entry>
 </feed>
