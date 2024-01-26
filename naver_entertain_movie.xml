@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-01-26T15:05:16.460Z</updated>
+    <updated>2024-01-26T16:05:00.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['듄: 파트2' 오래 기다렸다...2월 28일 국내 개봉 확정]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001284780</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001284780"/>
+        <updated>2024-01-26T16:04:14.306Z</updated>
+        <content type="html"><![CDATA['듄: 파트2' 국내 개봉 확정일과 더불어 메인 포스터를 공개했다. 영화 '듄: 파트2'는 자신의 능력을 깨닫고 각성한 폴(티모시 샬라메)이 복수를 위한 여정에서 전사의 운명을 찾아가게 되는 액션 블록버스터다. 메인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김고은X이도현, 사제지간 묘한 분위기..무속인 듀오 되다(파묘)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003678295</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014470927"/>
         <updated>2024-01-26T10:04:19.114Z</updated>
         <content type="html"><![CDATA[애니메이션 '아톰 새로운 시작'에서 목소리 연기를 맡은 배우 조병규가 26일 서울 용산구 CGV용산점에서 열린 '아톰, 새로운 시작' 시사회 및 무대인사에서 포즈를 취하고 있다. 2024.1.26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인사말 하는 권하 감독]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014470926</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014470926"/>
-        <updated>2024-01-26T10:04:19.116Z</updated>
-        <content type="html"><![CDATA[애니메이션 '아톰 새로운 시작'의 권하 더빙 연출 감독이 26일 서울 용산구 CGV용산점에서 열린 '아톰, 새로운 시작' 시사회 및 무대인사에서 인사말을 하고 있다. 2024.1.26]]></content>
     </entry>
 </feed>
