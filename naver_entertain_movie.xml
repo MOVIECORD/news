@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-01-27T11:05:10.480Z</updated>
+    <updated>2024-01-27T12:11:13.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KT&G 상상마당 부산, ‘댄스 스튜디오’개관]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000666129</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=396&amp;aid=0000666129"/>
+        <updated>2024-01-27T12:10:27.476Z</updated>
+        <content type="html"><![CDATA[KT&amp;G가 부산광역시 서면에 위치한 복합문화예술공간인 ‘KT&amp;G 상상마당 부산’에 댄스 스튜디오를 개관했다. ‘KT&amp;G 상상마당 댄스 스튜디오(Dance Studio)’는 지역 안무가 양성 등 보다 폭넓은 콘텐츠를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['서울의 봄' 개봉 65일 만에 1300만 돌파…흥행 진행형]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=016&amp;aid=0002258531</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=445&amp;aid=0000170976"/>
         <updated>2024-01-27T02:13:33.968Z</updated>
         <content type="html"><![CDATA[화끈한 액션과 능청스러운 유머. 마동석표 액션물의 특징이다. '범죄도시'도 '황야'도 그의 강펀치는 여전히 쾌감을 주지만, 이제 조금씩 식상함의 경계로 넘어서고 있는 게 아닌가 싶다. 마동석은 자타공인 국내 최고의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서울의 봄' 1300만 돌파…'도둑들' 넘었다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=008&amp;aid=0004991478</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=008&amp;aid=0004991478"/>
-        <updated>2024-01-27T02:13:33.968Z</updated>
-        <content type="html"><![CDATA[12·12 쿠데타를 다룬 영화 '서울의 봄'이 개봉 65일 만에 관객 수 1300만을 돌파했다. 27일 영화진흥위원회 영화관입장권 통합전산망에 따르면 서울의 봄은 이날 오전 6시 기준으로 누적 관객 수 1300만32]]></content>
     </entry>
 </feed>
