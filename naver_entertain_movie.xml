@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-01-28T15:02:40.010Z</updated>
+    <updated>2024-01-28T16:05:50.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 ‘서울의 봄’ 누적관객 1300만 명 돌파 [연예뉴스 HOT]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001103109</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001103109"/>
+        <updated>2024-01-28T16:05:02.330Z</updated>
+        <content type="html"><![CDATA[영화 ‘서울의 봄’이 누적 관객 1300만 명을 돌파했다. 28일 영화관입장권통합전산망에 따르면 ‘서울의 봄’은 전날까지 1301만8220명을 모았다. 앞서 지난해 11월 22일 개봉해 33일 만에 1000만 관객을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[티모시vs유해진, 유해진vs티모시…2월 스크린 맞대결]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=079&amp;aid=0003857725</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007318230"/>
         <updated>2024-01-28T00:31:36.118Z</updated>
         <content type="html"><![CDATA[영화 '시민덕희'(감독 박영주)가 개봉 4일째 박스오피스 1위를 차지했다. 28일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 '시민덕희'는 전날 5만2737명의 관객을 극장으로 불러모으며 박스오피스 1위를]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유쾌한 왕따' 세계관 공유한 '콘크리트 유니버스', 콘텐츠 산업 새 장르 될까 [D:영화 뷰]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002793850</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=119&amp;aid=0002793850"/>
-        <updated>2024-01-28T00:31:36.119Z</updated>
-        <content type="html"><![CDATA[인기 웹툰 작가 김숭늉의 '유쾌한 왕따'를 원작으로 한 영화 '콘크리트 유토피아'에 이어 같은 세계관을 구축한 넷플릭스 오리지널 영화 '황야' 출격했다. 두 작품 외에도 유쾌한 왕따', '콘크리트 마켓'이 드라마로]]></content>
     </entry>
 </feed>
