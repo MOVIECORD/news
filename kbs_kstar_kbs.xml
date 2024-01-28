@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Jan 2024 13:05:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jan 2024 14:02:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사장님 귀는 당나귀 귀] 박명수, 개콘 방문 “내 개그 스타일은 20년 전부터 MZ” 자찬]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=300453</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=300453</guid>
+            <pubDate>Sun, 28 Jan 2024 14:01:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=300453">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240128225123_7c8653b1514c9411ac685d073fd96919_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=300453">[사장님 귀는 당나귀 귀] 박명수, 개콘 방문 “내 개그 스타일은 20년 전부터 MZ” 자찬</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240128225123_7c8653b1514c9411ac685d073fd96919_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[사장님 귀는 당나귀 귀] 박명수, '개콘' 코너 심사위원 나섰다...예능 32년 노하우 전수]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=300449</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240127221203_c2aef012f95c08605254a0fc149ceac2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[불후의 명곡] 솔지, “골든걸스 매니저라도 하겠다” 찐팬 자처한 무대 ‘기억 속으로’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=300364</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=300364</guid>
-            <pubDate>Sat, 27 Jan 2024 13:06:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=300364">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240127220408_93806172021ed447a33f89e8970651ee.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=300364">[불후의 명곡] 솔지, “골든걸스 매니저라도 하겠다” 찐팬 자처한 무대 ‘기억 속으로’</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240127220408_93806172021ed447a33f89e8970651ee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
