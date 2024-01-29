@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 20:05:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 22:02:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비주얼 서스펜스 '벗어날 탈 脫', 2월 개봉]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=299886</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=299886</guid>
+            <pubDate>Mon, 29 Jan 2024 22:01:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=299886">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240125143235_73e79b845c74c7ea7b26e7101395acab.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=299886">비주얼 서스펜스 '벗어날 탈 脫', 2월 개봉 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240125143235_73e79b845c74c7ea7b26e7101395acab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김민, '킬러쇼핑몰' 파신... "굼벵이, 무에타이 가르쳐 줘?"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=300556</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=300094">[리뷰] 넷플릭스 ‘황야’..  “마동석의 주먹, 끝.” </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240125162207_65d2893bfe088d7b693955cd8f3bbb24.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['도그데이즈' 탕준상, 대배우 윤여정과 세대초월 연기 케미 과시]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=299894</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=299894</guid>
-            <pubDate>Thu, 25 Jan 2024 21:03:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=299894">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240125134445_1f8989c45b1d161b6cbc5ffe21cbf7c8.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=299894">'도그데이즈' 탕준상, 대배우 윤여정과 세대초월 연기 케미 과시</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240125134445_1f8989c45b1d161b6cbc5ffe21cbf7c8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
