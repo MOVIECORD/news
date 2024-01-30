@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-01-30T12:10:30.529Z</updated>
+    <updated>2024-01-30T13:06:54.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김희애 "부부의 세계, 인생 리즈시절" 눈물 왜?]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012348152</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012348152"/>
+        <updated>2024-01-30T13:06:04.327Z</updated>
+        <content type="html"><![CDATA[배우 김희애가 후배들에게 감동했던 일화를 공개하며 눈물을 보였다. 30일 유튜브 채널 '테오(TEO)' 제작 웹 예능 '살롱드립2'에는 '[단독] 조진웅&amp;김희애 목격담에 대한 솔직한 심경 고백'라는 제목의 영상이 올]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조진웅 "父, 아들 납치 보이스피싱 반응이…"]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012348134</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=416&amp;aid=0000303223"/>
         <updated>2024-01-30T08:10:15.416Z</updated>
         <content type="html"><![CDATA['짱구'의 기세가 놀랍다. 영화 '신차원! 짱구는 못말려 더 무비 초능력 대결전 ~날아라 수제김밥~'(이하 '신차원! 짱구는 못말려')이 개봉 7주차에 전국 90만 관객을 돌파했다. 30일 영화진흥위원회 영화관입장권]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강원 독립영화 한 자리에…‘작은영화영화제’]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0001023129</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0001023129"/>
-        <updated>2024-01-30T12:09:40.324Z</updated>
-        <content type="html"><![CDATA[강원 독립영화가 부산 관객들을 만난다. 부산 독립영화제 ‘작은영화영화제’는 오는 7일 부산 영화의 전당에서 ‘전국 영화자랑 강원편’을 열고 강원지역 독립영화를 상영한다. 상영작은 총 3편으로 선정됐다. 강원도 양식장]]></content>
     </entry>
 </feed>
