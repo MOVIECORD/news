@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 22:06:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 23:05:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["마동석 파워" 넷플릭스 '황야' 글로벌 탑]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=300792</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=300792</guid>
+            <pubDate>Tue, 30 Jan 2024 23:03:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=300792">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240131075442_7dda297ec3b8eab2a661558f16695f8c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=300792">"마동석 파워" 넷플릭스 '황야' 글로벌 탑</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240131075442_7dda297ec3b8eab2a661558f16695f8c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[누군가에겐... 인생영화, '사랑도 통역이 되나요' 재개봉]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=299858</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=299844">박성훈, ‘선산’ 특별출연... 치사하고 뻔뻔스러운 빌런</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240125135012_1bb8dac1923593ab9ed82fa54d169783.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토드 헤인즈+나탈리 포트만 '메이 디셈버' 아카데미 각본상 후보]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=299884</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=299884</guid>
-            <pubDate>Fri, 26 Jan 2024 22:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=299884">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240125132859_e8bc88f9a935d0d0188ed06d1a553632.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=299884">토드 헤인즈+나탈리 포트만 '메이 디셈버' 아카데미 각본상 후보</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240125132859_e8bc88f9a935d0d0188ed06d1a553632.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
