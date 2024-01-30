@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-01-30T10:06:48.953Z</updated>
+    <updated>2024-01-30T12:10:30.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“강요된 가족애, 그 끝은 어디인가에 대한 물음”]]></title>
+        <id>https://v.daum.net/v/20240130202552116</id>
+        <link href="https://v.daum.net/v/20240130202552116"/>
+        <updated>2024-01-30T12:10:29.941Z</updated>
+        <content type="html"><![CDATA[“‘가족’이라는 관계의 정의보다 ‘가족애’를 좀 과하게 강요받고 있다고 생각합니다. 가족, 자식, 부모이니까 그런 식으로. 거기에서 오는, 갖지 말아야 하는 죄책감을 느끼면서 살죠. 부모는 자식에게, 자식은 부모에게 못 해줘서 늘 죄송한 마음이죠. 우리 사회가, 한국 문화적으로도 이런 것들을 강요당하고 있습니다. (가족이) 발목을 잡거나 숨을 조르는 면도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조진웅, 바지사장계 에이스→하루아침에 나락..극과 극 인생]]></title>
         <id>https://v.daum.net/v/20240130182403514</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240130160349320"/>
         <updated>2024-01-30T07:05:12.112Z</updated>
         <content type="html"><![CDATA[넷플릭스 영화 '황야'를 연출한 허명행 감독을 만났다. 그동안 '범죄도시'시리즈, '유령', '헌트', '부산행' 등의 작품에서 무술 감독을 맡으며 한국 영화 역사에서 여러 레전드 액션신을 탄생시켜 온 허명행 감독은 이번에 '황야'를 통해 감독으로 데뷔했다. 작품 공개 이후 글로벌 1위에 오르는 등 전 세계적인 흥행을 하고 있지만 시청자 중에서는 빈약한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외로운 당신에게 웃음과 눈물을…JTBC 예능 올해의 키워드는 ‘모두의 예능’]]></title>
-        <id>https://v.daum.net/v/20240130155611004</id>
-        <link href="https://v.daum.net/v/20240130155611004"/>
-        <updated>2024-01-30T07:05:12.112Z</updated>
-        <content type="html"><![CDATA[[스포츠서울 | 함상범 기자] JTBC 예능국이 올해의 키워드로 ‘모두의 예능’을 꼽았다. JTBC 임정아 예능제작본부장은 30일 오후 2시 서울 마포구 JTBC 사옥에서 열린 ‘2024 JTBC 예능 기자간담회’에서 “옛날 건가 싶기도 하겠지만 올해 키워드는 ‘모두의 예능’”이라고 말했다. 임정아 본부장은 “OTT와 유튜브 등 플랫폼이 다양화 됐다.]]></content>
     </entry>
 </feed>
