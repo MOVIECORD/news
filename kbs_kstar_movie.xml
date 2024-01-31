@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 05:03:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 06:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["막~ 궁금해지는 영화"..  '막걸리가 알려줄거야' 내달 개봉]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=300931</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=300931</guid>
+            <pubDate>Wed, 31 Jan 2024 06:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=300931">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240131141339_07539c793197d37b203309d061f99bd1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=300931">"막~ 궁금해지는 영화"..  '막걸리가 알려줄거야' 내달 개봉</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240131141339_07539c793197d37b203309d061f99bd1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['추락의 해부'..  칸느, 아카데미에 이어 세자르영화제 휩쓰나]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=300924</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=299872">탈북인권 다큐멘터리 '비욘드 유토피아' ..  "생사를 건 이야기”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240125143756_e1333cdf863eb1b7adac33731f6df901.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이문한-서약함 ‘우견니’, “가장 빛나던 시절에 만난 너와 나!”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=298620</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=298620</guid>
-            <pubDate>Sat, 27 Jan 2024 16:02:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=298620">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240118120623_610a40b759c34ef0a0af28c40c9e52d2.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=298620">이문한-서약함 ‘우견니’, “가장 빛나던 시절에 만난 너와 나!”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240118120623_610a40b759c34ef0a0af28c40c9e52d2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
