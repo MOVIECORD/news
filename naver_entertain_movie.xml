@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-02-01T19:02:46.918Z</updated>
+    <updated>2024-02-01T20:03:50.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사이테크+] '니모를 찾아서' 주인공 흰동가리도 숫자 셀 줄 안다?]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014484052</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014484052"/>
+        <updated>2024-02-01T20:03:01.264Z</updated>
+        <content type="html"><![CDATA[日 연구팀 "줄무늬 개수로 침입자 구분…동종 물고기 다가오면 공격" 미국 애니메이션 제작사 픽사(Pixar)의 영화 '니모를 찾아서'의 주인공으로 유명한 물고기 흰동가리(Amphiprion ocellaris)가 숫자]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위키미키 김도연, 영화 ‘아메바 소녀들과 학교괴담 : 개교기념일’ 지연 역 낙점]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000941424</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000052002"/>
         <updated>2024-02-01T10:06:17.113Z</updated>
         <content type="html"><![CDATA[모종의 사태로 세상에 폐허와 황야만 남은 지 3년, 남산(마동석)은 동료 지완(이준영)과 함께 소박한 삶을 살고 있다. 그러던 남산이 마체테를 들고 싸움에 나선다. 남산, 지완과 친하게 지내던 수나(노정의)네 가족이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 색다른 설렘, <세기말의 사랑> 노재원]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000052001</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000052001"/>
-        <updated>2024-02-01T10:06:17.113Z</updated>
-        <content type="html"><![CDATA[새로운 헤어스타일을 한 노재원 배우가 스튜디오를 찾았다. 차기작 때문에 머리를 길렀다는 그는 &lt;오징어 게임&gt; 시즌2에 캐스팅되는 등 현재 주목받는 배우 중 하나다. 지난해 넷플릭스 시리즈 &lt;정신병동에도 아침이 와요&gt;]]></content>
     </entry>
 </feed>
