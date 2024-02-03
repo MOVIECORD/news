@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-02-03T08:05:22.743Z</updated>
+    <updated>2024-02-03T09:03:18.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고레에다 히로카즈 '괴물', 50만 돌파 '기염'…아트영화 신드롬]]></title>
+        <id>https://v.daum.net/v/20240203172128712</id>
+        <link href="https://v.daum.net/v/20240203172128712"/>
+        <updated>2024-02-03T09:03:17.602Z</updated>
+        <content type="html"><![CDATA[[스포티비뉴스=김현록 기자]고레에다 히로카즈 감독의 '괴물'이 마침내 50만 관객을 돌파했다. 영화 '괴물'은 2일 오후 4시 개봉 66일째 누적 관객수 50만 명을 넘었다. 일본 실사영화가 50만 관객을 넘긴 것은 2022년 '오늘밤, 세계에서 이 사랑이 사라진다 해도' 이후 처음이다. '괴물'은 최근 15년간 일본 실사 영화 흥행 기록에서도 흥행]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘괴물’ 50만 관객 돌파, 미나토X요리 흥행 공약 공개 예고]]></title>
         <id>https://v.daum.net/v/20240203165045477</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240203082338982"/>
         <updated>2024-02-03T01:37:32.515Z</updated>
         <content type="html"><![CDATA[[스포츠한국 신영선 기자] 배우 티모시 살라메의 '웡카'가 3일 연속 박스오피스 1위를 차지했다. 3일 영화진흥위원회 영화관입장권 통합전산망에 따르면 영화 '웡카'(감독 폴킹)는 지난 2일 9만 2065명의 관객을 동원하며 사흘 연속 박스오피스 1위에 올랐다. 누적 관객수는 35만 1986명이다. '웡카'는 가진 것은 달콤한 꿈과 낡은 모자뿐인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마동석만 믿은 '황야', 세계관 확장 혹은 한계]]></title>
-        <id>https://v.daum.net/v/20240203081200935</id>
-        <link href="https://v.daum.net/v/20240203081200935"/>
-        <updated>2024-02-03T01:37:32.517Z</updated>
-        <content type="html"><![CDATA[[편집자주] 영화·OTT를 보는 김나연 기자의 사적인 시선. [스타뉴스 | 김나연 기자] 마동석 / 사진=넷플릭스 황야"게임처럼 즐겨주셨으면 좋겠습니다." 악어 사냥에는 성공했지만, 모든 관객의 마음 사냥에는 실패한 모양새다. 흔히 아는 마동석의 액션을 내세웠고, 또 한 번 '마동석이 장르'인 영화가 탄생했지만, 그 외의 장점은 발견하지 못한 '황야'다.]]></content>
     </entry>
 </feed>
