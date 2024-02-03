@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-02-03T04:06:50.687Z</updated>
+    <updated>2024-02-03T05:03:02.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하루 아침에 살인 용의자가 된 유명 작가]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002421199</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=047&amp;aid=0002421199"/>
+        <updated>2024-02-03T05:02:18.242Z</updated>
+        <content type="html"><![CDATA[쥐스틴 트리어의 화제작 &lt;추락의 해부&gt; 1978년생으로 비교적 젊은 프랑스 여류 감독 쥐스틴 트리에가 2023년 칸영화제 황금종려상을 받는다. 그녀는 미술학도 출신으로 2007년 단편 기록영화 &lt;현장에서&gt;로 영화와]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘도그데이즈’ 이현우, 강형욱 만났다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000941700</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001104735"/>
         <updated>2024-02-03T01:36:45.103Z</updated>
         <content type="html"><![CDATA[배우 마동석이 출연 겸 제작한 영화 ‘황야’에 대한 엇갈린 반응에 자신의 생각을 밝혔다. 넷플릭스 영화 ‘황야’는 폐허가 된 세상, 오직 힘이 지배하는 무법천지 속에서 살아가는 자들이 생존을 위해 벌이는 최후의 사투]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["마동석 액션만 살아남았다"…'황야' 넷플릭스 1위에도 혹평]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014486329</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014486329"/>
-        <updated>2024-02-03T01:36:45.104Z</updated>
-        <content type="html"><![CDATA[볼거리 치중해 서사 빈약 평가…'독전 2'·'발레리나'와 닮은꼴 "비슷한 이야기에 피로감…한국 영화 글로벌 경쟁력 약화 우려" 마동석 주연의 넷플릭스 영화 '황야'가 세계적으로 높은 시청 수를 기록하면서도 작품성 면]]></content>
     </entry>
 </feed>
