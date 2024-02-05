@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 02:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 03:11:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웨이브 드라마 '조폭인 내가 고등학생이 되었습니다'...  CGV 1,2화 특별상영]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=301734</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=301734</guid>
+            <pubDate>Mon, 05 Feb 2024 03:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=301734">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240205112939_1484974a29250d9ae8da9241f215db73.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=301734">웨이브 드라마 '조폭인 내가 고등학생이 되었습니다'...  CGV 1,2화 특별상영</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240205112939_1484974a29250d9ae8da9241f215db73.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 김덕민 감독 "사람도 따뜻하고, 개도 따뜻하고, 영화도 따뜻하다" (영화 ‘도그데이즈’)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=301689</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=301172">[인터뷰] 이솜  "부부의 집, 커플의 방, 배우의 일" (티빙 ‘LTNS’)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240202092626_5a7841b3b71c388af34eed37cdf15e11.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파라마운트+ '헤일로' 시즌2,  티빙 브랜드관 2월 8일 공개..  인류의 구원자 ‘마스터 치프’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=301142</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=301142</guid>
-            <pubDate>Fri, 02 Feb 2024 02:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=301142">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240202073955_50678d067e78d30a3ab761572abd39c8.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=301142">파라마운트+ '헤일로' 시즌2,  티빙 브랜드관 2월 8일 공개..  인류의 구원자 ‘마스터 치프’</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240202073955_50678d067e78d30a3ab761572abd39c8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
