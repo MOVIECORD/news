@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 19:03:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 20:07:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['레이징 그레이스' 예측불허 미스터리 맨션 스릴러]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=300849</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=300849</guid>
+            <pubDate>Tue, 06 Feb 2024 20:05:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=300849">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240131100449_4687113dbb7158629fbba4ec6f03d457.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=300849">'레이징 그레이스' 예측불허 미스터리 맨션 스릴러 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240131100449_4687113dbb7158629fbba4ec6f03d457.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 하야카와 치에  감독 "당신은 찬성합니까? 지원하시겠습니까?"  (영화 ‘플랜75’)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=301894</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=300963">'플랜 75' 하야카와 치에 감독 "영화를 알려라, 미래를 걱정하라!"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240131144921_54d7cd2889c3b78ee31760867ac2c91f_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['사랑도 통역이 되나요?' 재개봉.. “불행하지 않은데 외로워”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=300900</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=300900</guid>
-            <pubDate>Sat, 03 Feb 2024 18:03:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=300900">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240131104002_b54d5a7b270cd22623b52ad18c7a5b26.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=300900"> '사랑도 통역이 되나요?' 재개봉.. “불행하지 않은데 외로워”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240131104002_b54d5a7b270cd22623b52ad18c7a5b26.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
