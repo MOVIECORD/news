@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 03:08:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 05:05:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘가요무대’ 강예슬, ‘시골 버스 여차장’ 무대]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=301890</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=301890</guid>
+            <pubDate>Tue, 06 Feb 2024 05:03:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=301890">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240206130233_cd2812ccd17e3b03ea58941e4fdee2f6_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=301890">‘가요무대’ 강예슬, ‘시골 버스 여차장’ 무대</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%80%EC%9A%94%EB%AC%B4%EB%8C%80">가요무대</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240206130233_cd2812ccd17e3b03ea58941e4fdee2f6_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[환상연가 10회] 박지훈, 두 번째 인격 부활]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=301829</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240205092914_8afd73b0edc4733f5a89e331b8e06175_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[사장님 귀는 당나귀 귀] “나는 막내 때 연장전 가는 게 소원” 박기량, 갑 체력으로 갑갑함 MAX]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=301693</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=301693</guid>
-            <pubDate>Mon, 05 Feb 2024 00:30:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=301693">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240205085800_0eb97dac617b0c7969113e426b44e6f8.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=301693">[사장님 귀는 당나귀 귀] “나는 막내 때 연장전 가는 게 소원” 박기량, 갑 체력으로 갑갑함 MAX</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240205085800_0eb97dac617b0c7969113e426b44e6f8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
