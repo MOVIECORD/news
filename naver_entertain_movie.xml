@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-02-06T18:10:06.320Z</updated>
+    <updated>2024-02-06T19:03:22.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[운동과 시간을 눈앞으로 당겨온 역사의 기록 ‘영화의 역사’]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000942285</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000942285"/>
+        <updated>2024-02-06T19:02:36.915Z</updated>
+        <content type="html"><![CDATA[십여 년 이상 프랑스에서 영화를 공부하고 연구한 저자가 그동안 연구하며 수집했던 자신의 방대한 자료와 지식을 풀어놓은 책 ‘영화의 역사’(지은이 감성태 펴내곳 불란서책방)를 출간했다. 1897년 발명된 기계로부터 1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['세기말의 사랑' 이유영의 변신...비하인드 공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001285737</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000648232"/>
         <updated>2024-02-06T13:06:21.707Z</updated>
         <content type="html"><![CDATA[가수 겸 배우 한승연이 6일 오후 서울 강남구 메가박스 코엑스에서 진행된 영화 ‘데드맨’ VIP시사회에 참석해 포즈를 취하고 있다. 영화 '데드맨'은 이름값으로 돈을 버는 일명 바지사장계의 에이스가 1천억 횡령 누명]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TEN포토]안현모 '여유로운 미소']]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000648231</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000648231"/>
-        <updated>2024-02-06T13:06:21.709Z</updated>
-        <content type="html"><![CDATA[방송인 안현모가 6일 오후 서울 강남구 메가박스 코엑스에서 진행된 영화 ‘데드맨’ VIP시사회에 참석해 포즈를 취하고 있다. 영화 '데드맨'은 이름값으로 돈을 버는 일명 바지사장계의 에이스가 1천억 횡령 누명을 쓰고]]></content>
     </entry>
 </feed>
