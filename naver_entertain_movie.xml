@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-02-07T15:05:45.218Z</updated>
+    <updated>2024-02-07T16:10:46.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[힐링 가득 한국영화 vs 할리우드 액션 골라보는 즐거움]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=654&amp;aid=0000065457</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=654&amp;aid=0000065457"/>
+        <updated>2024-02-07T16:09:56.568Z</updated>
+        <content type="html"><![CDATA[올해 설 연휴 극장가는 개성 넘치는 한국 영화들과 화려한 볼거리를 자랑하는 미국 할리우드 블록버스터들의 대결이 될 전망이다. 대작 영화들이 명절 극장가를 노리고 한꺼번에 개봉했던 지난 설 연휴와 달리 올해는 비교적]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연휴 극장가]눈물샘 쏘옥 힐링 드라마도파민 풀충전 스파이 활극골라 보는 재미 ‘쏠쏠’]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0001025182</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=030&amp;aid=0003179852"/>
         <updated>2024-02-07T09:06:55.585Z</updated>
         <content type="html"><![CDATA[마동석 주연의 넷플릭스 오리지널 영화 '황야'가 영어·비영어 부문 통합 1위에 등극했다. 7일 넷플릭스 시청시간 공식 집계 사이트 '넷플릭스 톱 10' 웹사이트에 따르면 '황야'는 지난달 29일부터 22월 4일까지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CGV 작년 매출 1조5천억원·영억이익 491억원…4년 만에 흑자]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014496087</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014496087"/>
-        <updated>2024-02-07T09:06:55.586Z</updated>
-        <content type="html"><![CDATA[코로나19 이후 처음…국내·해외 매출·영업이익 모두 증가 CJ CGV가 신종 코로나바이러스 감염증(코로나19) 사태 이후 처음으로 지난해 첫 연간 흑자를 달성했다. CGV는 2023년 연결 기준 매출 1조5천458억]]></content>
     </entry>
 </feed>
