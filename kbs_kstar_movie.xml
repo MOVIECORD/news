@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Feb 2024 01:39:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Feb 2024 02:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['여기는 아미코'.."조금 유별나지만, 사랑스러운 아이"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=302513</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=302513</guid>
+            <pubDate>Sat, 10 Feb 2024 02:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=302513">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240210104044_1586c43e0e58416e52724d10d9454ade.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302513">'여기는 아미코'.."조금 유별나지만, 사랑스러운 아이" </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240210104044_1586c43e0e58416e52724d10d9454ade.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤제문-김지훈-이시아 영화 '은하수'.. "전설의 가왕 군단"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=301883</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=300918">'도그데이즈' 슈퍼캐스팅, 윤여정- 김윤진 - 다니엘 헤니.. "인생을 배우다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240131105215_d8b29da7ce4f78a5b11171624e7eab7c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스즈메의 문단속', 웨이브 영화 1위..  오픈 당일 시청시간 신기록 갱신]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=302017</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=302017</guid>
-            <pubDate>Tue, 06 Feb 2024 23:03:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=302017">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240207073133_c9676f4174031b4d92f437d06ef9ffd7.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302017">'스즈메의 문단속', 웨이브 영화 1위..  오픈 당일 시청시간 신기록 갱신</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240207073133_c9676f4174031b4d92f437d06ef9ffd7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
