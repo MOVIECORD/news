@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-02-12T17:03:02.680Z</updated>
+    <updated>2024-02-12T19:04:29.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이승만의 삶 재조명… ‘건국전쟁’ 24만 돌파]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=023&amp;aid=0003816289</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=023&amp;aid=0003816289"/>
+        <updated>2024-02-12T19:03:46.697Z</updated>
+        <content type="html"><![CDATA[2년간 상영된 다큐 중 최고 기록 이승만 대통령과 건국 1세대의 헌신과 투쟁을 재조명한 다큐멘터리 영화 ‘건국전쟁’이 흥행 돌풍을 일으키고 있다. 개봉 11일 만에 24만 관객을 돌파해 최근 2년간 상영된 다큐 영화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[셀린 송 감독, ‘패스트 라이브즈’로 신인감독상 [연예뉴스 HOT]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001106114</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003329372"/>
         <updated>2024-02-12T07:06:02.235Z</updated>
         <content type="html"><![CDATA[“실제로 존재하지만, 우리가 모르고 사는 사회의 단면이 많잖아요. 바지사장이라는 것도 처음 마주한 소재인데 영화 속 세계를 보니 그런 생각이 들면서 섬뜩하더라고요.” 영화 ‘데드맨’에서 이름을 잃고 죽은 사람이 됐다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서울의 봄' 측 "불법 영상 유포..법적 책임 물을 것" 강경 대응 [전문]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003214377</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003214377"/>
-        <updated>2024-02-12T06:10:17.800Z</updated>
-        <content type="html"><![CDATA[누적 관객 수 1300만 명을 돌파한 영화 '서울의 봄'(감독 김성수) 측이 불법 유출본에 대한 강경 대응의 입장을 밝혔다. 투자배급사 플러스엠 엔터테인먼트와 제작사 하이브미디어코프 측은 12일 "일부 온라인 유저들]]></content>
     </entry>
 </feed>
