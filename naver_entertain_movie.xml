@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-02-12T03:04:44.948Z</updated>
+    <updated>2024-02-12T04:10:06.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에리보·그란데 뮤지컬 영화 '위키드', 11월 개봉]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012368561</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012368561"/>
+        <updated>2024-02-12T04:09:21.670Z</updated>
+        <content type="html"><![CDATA[뮤지컬 영화 '위키드'가 국내 개봉일을 확정했다. 12일 수입·배급사 유니버설 픽쳐스에 따르면, '위키드'는 오는 11월27일 국내에서 개봉한다. 뮤지컬 '위키드'는 미국의 동화작가 L 프랭크 봄(1856~1919)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["대체할 배우 無"..'군백기 없는' 이도현, 열일이 고맙다 [★FOCUS]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003214364</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000942941"/>
         <updated>2024-02-12T01:42:53.705Z</updated>
         <content type="html"><![CDATA[영화 ‘웡카’가 2주 연속 박스오피스 정상을 차지했다. 영화진흥위원회 통합전산망에 따르면 ‘웡카’는 설 연휴가 시작된 2월 9일(금)부터 2월 11일(일)까지 총 522,180명의 관객을 동원, 누적 관객 수 1,5]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["유키즈?" 어린이 관객 잡는 영화관]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000784911</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000784911"/>
-        <updated>2024-02-12T01:42:53.705Z</updated>
-        <content type="html"><![CDATA['노키즈존(No Kids Zone)'이라는 말이 흔하게 사용될 정도로 어린이가 환영받는 공간이 많지 않다. 영화관도 그중 하나다. 아이들의 출입이 금지되진 않지만 이들을 '민폐 관객'으로 바라보는 시선이 존재하기 때]]></content>
     </entry>
 </feed>
