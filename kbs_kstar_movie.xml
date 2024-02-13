@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Feb 2024 23:03:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 00:30:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['에스파: 마이 퍼스트 페이지'..  최고의 몰입도, 수퍼플렉스 상영]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=302868</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=302868</guid>
+            <pubDate>Tue, 13 Feb 2024 00:29:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=302868">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240213084715_df25ece88aa315f513f3b52dfb0cd150.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302868">'에스파: 마이 퍼스트 페이지'..  최고의 몰입도, 수퍼플렉스 상영</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240213084715_df25ece88aa315f513f3b52dfb0cd150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 고레에다 히로카즈 감독 “뛰어가던 아이가, 우리를 돌아본다” (영화 ‘괴물’)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=302843</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302237">파라마운트+ '헤일로' 시즌2 .. "코버넌트, 스파르탄, 마스터 치프, 그리고 관 하!"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240208131445_c3b5c714ec9260d965142872fc029ec2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 김혜준 "평범함 안의 특별함, 그 기질을 익히다" (디즈니플러스 ‘킬러들의 쇼핑몰’)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=302181</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=302181</guid>
-            <pubDate>Thu, 08 Feb 2024 02:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=302181">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240208103311_a7bed4eae5aefb1ae01bb3f1acbbf250_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302181">[인터뷰] 김혜준 "평범함 안의 특별함, 그 기질을 익히다" (디즈니플러스 ‘킬러들의 쇼핑몰’)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240208103311_a7bed4eae5aefb1ae01bb3f1acbbf250_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
