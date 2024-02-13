@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-02-13T18:13:01.014Z</updated>
+    <updated>2024-02-13T19:03:03.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 ‘막걸리가 알려줄거야’ 메인 포스터 공개]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000943205</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000943205"/>
+        <updated>2024-02-13T19:02:11.096Z</updated>
+        <content type="html"><![CDATA[톡톡 튀는 상상력과 톡 쏘는 메시지로 무장한 판타스틱 무비 ‘막걸리가 알려줄거야’(감독: 김다민ㅣ출연: 박나은, 박효주, 김희원ㅣ제작: (주)안나푸르나필름ㅣ제공: (주)홈초이스ㅣ배급: 판씨네마(주)ㅣ공동배급: (주)홈초이스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘패스트 라이브즈’ 셀린 송 감독, 28일 방한 [연예뉴스 HOT]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001106340</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003806276"/>
         <updated>2024-02-13T09:02:43.054Z</updated>
         <content type="html"><![CDATA[웰메이드 블록버스터로 세계적인 사랑을 받은 명작 '혹성탈출' 시리즈의 새로운 이야기를 담은 '혹성탈출: 새로운 시대'가 오는 2024년 5월 개봉 확정과 함께, 강렬함으로 가득찬 슈퍼볼 예고편을 전격 공개했다. 지난]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고집불통 교사와 반항아 학생이 크리스마스를 함께 보낸다면?]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000785170</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000785170"/>
-        <updated>2024-02-13T09:02:43.054Z</updated>
-        <content type="html"><![CDATA[크리스마스를 앞두고 방학이 시작된다. 기숙학교 바튼 아카데미의 학생들은 가족과 함께할 시간에 마음이 들떠 있다. 유급생 앵거스(도미닉 세서)도 마찬가지다. 하지만 어머니가 날벼락 같은 소식을 전한다. 새아버지하고만]]></content>
     </entry>
 </feed>
