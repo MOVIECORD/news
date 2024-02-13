@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 00:30:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 01:39:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SNL코리아, '시즌5' 3월 2일 스타트... "임시완- 이소라, 대기중"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=302905</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=302905</guid>
+            <pubDate>Tue, 13 Feb 2024 01:38:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=302905">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240213095251_74cbf5d972b7de73991fc2f071df224f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302905">SNL코리아, '시즌5' 3월 2일 스타트... "임시완- 이소라, 대기중"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240213095251_74cbf5d972b7de73991fc2f071df224f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['에스파: 마이 퍼스트 페이지'..  최고의 몰입도, 수퍼플렉스 상영]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=302868</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302068">CGV, 아카데미 기획전... 패스트 라이브즈', '가여운 것들' 미리 본다</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240207112928_1b03da4e70565a19e07dce94b8239d27.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파라마운트+ '헤일로' 시즌2 .. "코버넌트, 스파르탄, 마스터 치프, 그리고 관 하!"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=302237</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=302237</guid>
-            <pubDate>Thu, 08 Feb 2024 06:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=302237">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240208131445_c3b5c714ec9260d965142872fc029ec2.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302237">파라마운트+ '헤일로' 시즌2 .. "코버넌트, 스파르탄, 마스터 치프, 그리고 관 하!"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240208131445_c3b5c714ec9260d965142872fc029ec2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
