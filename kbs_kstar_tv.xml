@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 21:03:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 23:06:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[tvN예능 '아파트404' 이정하, "예능 샛별 예약"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=303080</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=303080</guid>
+            <pubDate>Tue, 13 Feb 2024 23:05:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=303080">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240214074923_09b6de8abdb76fd7bc84727df21739f8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=303080">tvN예능 '아파트404' 이정하, "예능 샛별 예약"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240214074923_09b6de8abdb76fd7bc84727df21739f8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[tvN '웨딩 임파서블' 전종서X문상민, 수상한 만남.. "어쩌면 로맨스?"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=302225</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302301">'밤에 피는 꽃' 이하늬, 정체 들킬까 ‘조마조마’</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240209081500_4a21b41f55e425dad407d4eb0455d48c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘세작, 매혹된 자들’  조정석-신세경, ‘몽우 재회’... 설 연휴 금토일 파격편성]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=302295</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=302295</guid>
-            <pubDate>Fri, 09 Feb 2024 00:26:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=302295">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240209080921_32240647f131767aee9df00012d9069c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302295">‘세작, 매혹된 자들’  조정석-신세경, ‘몽우 재회’... 설 연휴 금토일 파격편성</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240209080921_32240647f131767aee9df00012d9069c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
