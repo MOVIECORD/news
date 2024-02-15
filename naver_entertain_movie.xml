@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-02-15T16:07:14.271Z</updated>
+    <updated>2024-02-15T17:03:12.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['웡카' 200만 돌파했다...티모시 샬라메 역대 최고 흥행작 등극]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001286352</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001286352"/>
+        <updated>2024-02-15T17:02:28.828Z</updated>
+        <content type="html"><![CDATA[개봉 이후 15일 연속 박스오피스 정상을 지키고 있는 '웡카'가 올해 개봉작 중 최초 200만 관객 돌파에 성공했다. 영화 '웡카'는 가진 것은 달콤한 꿈과 낡은 모자뿐인 '윌리 웡카'가 세계 최고의 초콜릿 메이커가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘범죄도시4’ 등 韓영화 5편 베를린영화제 초청 [연예뉴스 HOT]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001106905</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000981207"/>
         <updated>2024-02-15T08:08:34.684Z</updated>
         <content type="html"><![CDATA[‘듄: 파트2’ 전체 예매율 1위 전 세계가 주목하는 기대작 ‘듄: 파트2’가 개봉 2주 전부터 전체 예매율 1위에 등극했다. 15일 영화관입장권 통합전산망에 따르면 ‘듄: 파트2’는 이날 오전 9시 30분 기준 사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티모시 샬라메 '웡카', 올해 첫 200만 관객 돌파]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000649229</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000649229"/>
-        <updated>2024-02-15T08:08:34.685Z</updated>
-        <content type="html"><![CDATA['웡카'가 올해 개봉작 중 최초 200만 관객 돌파에 성공했다. 가진 것은 달콤한 꿈과 낡은 모자뿐인 ‘윌리 웡카’가 세계 최고의 초콜릿 메이커가 되기까지 놀라운 여정을 그린 스윗 어드벤처 '웡카'가 200만 관객을]]></content>
     </entry>
 </feed>
