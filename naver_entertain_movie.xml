@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-02-17T20:03:17.255Z</updated>
+    <updated>2024-02-17T21:02:51.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[개봉 D-10 '듄2', 기대작다운 행보..예매량 10만 장 돌파]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003215404</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003215404"/>
+        <updated>2024-02-17T21:01:57.946Z</updated>
+        <content type="html"><![CDATA['듄: 파트2'가 개봉 10일 전인 사전 예매량 10만장을 돌파하는 저력을 과시했다. 개봉 2주 전부터 예매율 1위에 오르며 극장가 최고 기대작의 면모를 입증한 영화 '듄: 파트2'가 개봉 10일 전부터 사전 예매량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[탕준상, 올라운더가 되는 그날까지[TF인터뷰]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000267803</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003330320"/>
         <updated>2024-02-17T05:05:56.414Z</updated>
         <content type="html"><![CDATA[영화 '파묘'가 ‘제74회 베를린국제영화제’에서 첫 상영을 마쳤다. 17일 투자배급사 쇼박스에 따르면 ‘제74회 베를린국제영화제’ 포럼 섹션에 공식 초청된 ‘파묘’가 지난 16일 오후 9시(현지시간)에 진행된 월드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건국전쟁, 개봉 16일만에 50만 돌파…"이승만 재평가"]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=008&amp;aid=0004999931</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=008&amp;aid=0004999931"/>
-        <updated>2024-02-17T05:05:56.417Z</updated>
-        <content type="html"><![CDATA[영화 '건국전쟁'이 개봉 16일 만에 50만 관객을 모았다. 17일 영화진흥위원회 영화관입장권 통합전산망에 따르면 건국전쟁은 전날 5만176명을 동원해 누적 관객 수 53만5595명을 기록했다. 지난 1일 개봉한 건]]></content>
     </entry>
 </feed>
