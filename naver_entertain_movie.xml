@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-02-17T14:03:47.377Z</updated>
+    <updated>2024-02-17T15:03:28.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[탕준상, 올라운더가 되는 그날까지[TF인터뷰]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000267803</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000267803"/>
+        <updated>2024-02-17T15:02:35.638Z</updated>
+        <content type="html"><![CDATA['도그데이즈'서 MZ 라이더 진우 역 맡아 윤여정과 호흡 "최종적으로 모든 걸 다 할 수 있는 배우가 되고 싶어요" 배우 탕준상이 꾸는 꿈과 그리고 있는 미래는 보다 구체적이고 선명하다. 뮤지컬로 연기를 시작한 후]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘듄2’ 개봉 전부터 압도적 흥행 신드롬! 사전 예매 10만 장 돌파]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000215056</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=008&amp;aid=0004999931"/>
         <updated>2024-02-17T05:05:56.417Z</updated>
         <content type="html"><![CDATA[영화 '건국전쟁'이 개봉 16일 만에 50만 관객을 모았다. 17일 영화진흥위원회 영화관입장권 통합전산망에 따르면 건국전쟁은 전날 5만176명을 동원해 누적 관객 수 53만5595명을 기록했다. 지난 1일 개봉한 건]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이승만 다큐 영화 ‘건국전쟁’, 50만 관객 돌파…흥행몰이 이어진다 [M+박스오피스]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001799889</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001799889"/>
-        <updated>2024-02-17T05:05:56.417Z</updated>
-        <content type="html"><![CDATA[‘건국전쟁’, 누적 관객 수 50만 돌파 이승만을 다룬 다큐멘터리 영화 ‘건국전쟁’이 누적 관객 수 50만 명을 돌파했다. 17일 영화진흥위원회 통합전산망에 따르면 ‘건국전쟁’은 지난 16일 관객수 5만 176명을]]></content>
     </entry>
 </feed>
