@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Feb 2024 23:07:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Feb 2024 00:32:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[tvN  '눈물의 여왕'  김지원, "백화점의 여왕 카리스마"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=302910</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=302910</guid>
+            <pubDate>Sun, 18 Feb 2024 00:30:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=302910">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240213101624_5abe87d0635bf4f6b426c69918f83e17.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302910">tvN  '눈물의 여왕'  김지원, "백화점의 여왕 카리스마"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240213101624_5abe87d0635bf4f6b426c69918f83e17.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['놀라운토요일' 박민영 '받아쓰기 에이스 라인', 나인우 '난생 처음 본 캐릭터']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=303526</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302358"> ‘나는 SOLO’ 19기,  모태솔로 특집2탄.. 데프콘, “다시 돌아왔습니다!”  </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240209115556_0f4ff58e84aa8767fc1bd9144cd4449e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[tvN-티빙 '‘그랜드 샤이닝 호텔’ 김재경-정진운, "현실 다르고, 소설 다르고"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=302214</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=302214</guid>
-            <pubDate>Mon, 12 Feb 2024 21:05:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=302214">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240208121301_ce1208cc1b1f2ecd4819a23469eabb21.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=302214">tvN-티빙 '‘그랜드 샤이닝 호텔’ 김재경-정진운, "현실 다르고, 소설 다르고"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240208121301_ce1208cc1b1f2ecd4819a23469eabb21.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
