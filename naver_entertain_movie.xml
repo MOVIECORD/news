@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-02-22T17:03:06.008Z</updated>
+    <updated>2024-02-22T18:09:25.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[조재휘의 시네필] 꽉 막힌 소통…삶의 근원적 비극성을 응시하다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000066803</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000066803"/>
+        <updated>2024-02-22T18:08:34.123Z</updated>
+        <content type="html"><![CDATA[영화평론가 로저 에버트는 ‘쉰들러 리스트’(1993)에 관한 글에서 멋들어진 비유를 든 바 있다. 경비원은 도둑이 들 것을 걱정해 매번 출입하는 손수레에 무엇이 들었는지 철저히 감시한다. 그러나 그는 알지 못한 채]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['패스트 라이브즈' 새 역사 썼다...전 세계 72관왕 212개 부문 노미네이트]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001287190</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014522429</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014522429"/>
         <updated>2024-02-22T12:14:00.081Z</updated>
-        <content type="html"><![CDATA[배우 젠데이아가 22일 서울 영등포구 타임스퀘어에서 열린 영화 '듄:파트2' 레드카펫 행사에서 인사말을 하고 있다. 2024.2.22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인사말 하는 젠데이아]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014522428</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014522428"/>
-        <updated>2024-02-22T12:14:00.082Z</updated>
         <content type="html"><![CDATA[배우 젠데이아가 22일 서울 영등포구 타임스퀘어에서 열린 영화 '듄:파트2' 레드카펫 행사에서 인사말을 하고 있다. 2024.2.22]]></content>
     </entry>
 </feed>
