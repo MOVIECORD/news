@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 01:42:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 03:06:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘디즈니+’ 신작들..  "스타워즈:배드 배치3, 패밀리 가이, 그리고 히데오 코지마"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=304346</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=304346</guid>
+            <pubDate>Fri, 23 Feb 2024 03:05:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=304346">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240223111909_d084e65c9a79e5e70028a0472a28eb65.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=304346">‘디즈니+’ 신작들..  "스타워즈:배드 배치3, 패밀리 가이, 그리고 히데오 코지마"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240223111909_d084e65c9a79e5e70028a0472a28eb65.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿠팡플레이 '대학전쟁' 시즌2 제작.. 하반기 공개예정]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=304236</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=303854">디즈니+ '로얄로더' 이재욱-이준영-홍수주.. "젋은 에너지가 넘친다, 시너지가 터진다!"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240220074526_47890cc040d736effa80a1ad3d77dbcc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['리볼버 릴리' 아야세 하루카, 전설적 스파이 변신]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=303496</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=303496</guid>
-            <pubDate>Mon, 19 Feb 2024 21:03:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=303496">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240217142104_fc294b15fae73d2ae883419afb77b721.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=303496"> '리볼버 릴리' 아야세 하루카, 전설적 스파이 변신</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240217142104_fc294b15fae73d2ae883419afb77b721.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
