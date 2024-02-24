@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-02-24T20:07:18.447Z</updated>
+    <updated>2024-02-24T21:06:52.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍상수, 베를린영화제서 두 번째 심사위원대상(종합2보)]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014525275</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014525275"/>
+        <updated>2024-02-24T21:06:00.566Z</updated>
+        <content type="html"><![CDATA[31번째 장편 '여행자의 필요'…은곰상만 다섯번째 "내 영화에서 뭘 봤는지 궁금…공감해줘 감사" 김계연 특파원 = 홍상수 감독이 신작 '여행자의 필요'로 제74회 베를린영화제에서 심사위원대상을 받았다. 베를린영화제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍상수, 베를린영화제서 두 번째 심사위원대상(종합)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014525265</id>
@@ -171,12 +178,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014524913"/>
         <updated>2024-02-24T08:07:17.588Z</updated>
         <content type="html"><![CDATA[김계연 특파원 = 24일(현지시간) 독일 베를린영화제 메인 상영관인 베를리날레 팔라스트에서 배우 마동석(가운데)과 김무열(오른쪽), 허명행 감독(왼쪽)이 무대에 올라 인사하고 있다. 2024.2.24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공식] '파묘' 개봉 3일 만에 100만 돌파…올해 개봉작 중 최단 기간]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000650627</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000650627"/>
-        <updated>2024-02-24T08:07:17.589Z</updated>
-        <content type="html"><![CDATA[개봉 후 연일 전체 박스오피스 1위를 기록한 영화 '파묘'가 개봉 3일째인 24일 100만 관객을 돌파했다. 영화진흥위원회 통합전산망 집계에 따르면 24일 오전 '파묘'는 누적 관객 100만 891명을 동원했다. 이]]></content>
     </entry>
 </feed>
