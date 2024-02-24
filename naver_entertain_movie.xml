@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-02-24T14:03:11.549Z</updated>
+    <updated>2024-02-24T15:05:03.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['파묘', 3일 만에 100만 돌파…'서울의 봄'보다 빠르다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000475415</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000475415"/>
+        <updated>2024-02-24T15:04:15.488Z</updated>
+        <content type="html"><![CDATA[영화 '파묘'가 개봉 3일째 100만 관객을 넘어섰다. 장재현 감독의 오컬트 미스터리 영화 '파묘'는 영화진흥위원회 통합전산망 기준 24일 오전 누적 관객 수 100만891명을 동원하며 올해 개봉작 중 가장 빠른 속]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한소희, ‘100만 파묘’ 최민식의 ‘뻥’ 훔친 대세]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000945309</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000215754"/>
         <updated>2024-02-24T06:10:39.067Z</updated>
         <content type="html"><![CDATA[영화 ‘범죄도시4’가 베를린국제영화제 공식 행사를 성공적으로 마쳤다. 한국 영화 시리즈 최초로 제74회 베를린국제영화제 베를리날레 스페셜 갈라 부문에 공식 초청된 K-액션 대표주자 ‘범죄도시4’가 글로벌 영화 팬들과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마동석→김무열 ‘범죄도시4’, 베를린국제영화제 공식 행사 성료]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001108568</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001108568"/>
-        <updated>2024-02-24T06:10:39.067Z</updated>
-        <content type="html"><![CDATA[영화 '범죄도시4'가 제74회 베를린국제영화제 공식 행사를 성공적으로 마쳤다. 한국 영화 시리즈 최초로 제74회 베를린국제영화제 베를리날레 스페셜 갈라 부문에 공식 초청된 K-액션 대표주자 '범죄도시4'가 글로벌 영]]></content>
     </entry>
 </feed>
