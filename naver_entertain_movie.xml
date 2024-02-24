@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-02-24T16:03:19.943Z</updated>
+    <updated>2024-02-24T17:05:21.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['괜찮아 괜찮아 괜찮아!' 베를린영화제 수정곰상]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014525257</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014525257"/>
+        <updated>2024-02-24T17:04:22.740Z</updated>
+        <content type="html"><![CDATA[어린이 심사위원단 선정…김혜영 감독 장편 데뷔작 김계연 특파원 = 김혜영 감독이 연출한 영화 '괜찮아 괜찮아 괜찮아!'가 제74회 베를린영화제에서 어린이 심사위원단이 주는 작품상을 수상했다. 제너레이션 K플러스 부문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['마더스' 3월 개봉.. 앤 해서웨이 - 제시카 차스테인 연기대결]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000062950</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=112&amp;aid=0003683108"/>
         <updated>2024-02-24T06:10:39.065Z</updated>
         <content type="html"><![CDATA[배우 최민식이 SNS 사칭 계정에 대한 주의를 당부했다. 앞서 영화 '파묘' 측은 소속사가 없는 최민식을 대신해 최민식의 SNS 사칭 계정을 발견했다고 알렸다. 당시 '파묘' 측은 "현재 최민식은 SNS 채널을 일절]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파묘' 개봉 3일 만 관객 100만 돌파...'서울의 봄'보다 빨라]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001287338</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001287338"/>
-        <updated>2024-02-24T06:10:39.066Z</updated>
-        <content type="html"><![CDATA[영화 ‘파묘’가 개봉 3일 만에 100만 관객을 돌파했다. ‘파묘’는 거액의 돈을 받고 수상한 묘를 이장한 풍수사와 장의사, 무속인들에게 벌어지는 기이한 사건을 담은 오컬트 미스터리 영화다. 영화진흥위원회 통합전산망]]></content>
     </entry>
 </feed>
