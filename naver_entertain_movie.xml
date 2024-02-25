@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-02-25T19:03:17.203Z</updated>
+    <updated>2024-02-25T20:03:40.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베를린에선 스타… 홍상수, 이번엔 ‘심사위원 대상’]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001676600</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001676600"/>
+        <updated>2024-02-25T20:02:49.107Z</updated>
+        <content type="html"><![CDATA[홍상수 감독이 제74회 베를린영화제에서 신작 ‘여행자의 필요’로 심사위원대상(은곰상)을 받았다. 홍 감독이 은곰상을 수상한 것은 이번이 다섯 번째다. 베를린영화제 경쟁 부문 심사위원단은 24일(현지시간) 베를리날레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["비범한 배우 잃었다"…미국배우조합상, 故 이선균 추모 [종합]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003808745</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000945408"/>
         <updated>2024-02-25T09:02:14.086Z</updated>
         <content type="html"><![CDATA[영화 ‘파묘’가 개봉 4일째인 오늘 200만 관객을 돌파하는 기염을 토했다. 거액의 돈을 받고 수상한 묘를 이장한 풍수사와 장의사, 무속인들에게 벌어지는 기이한 사건을 담은 오컬트 미스터리 영화 ‘파묘’가 25일,]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘파묘’ 개봉 4일 만에 200만 돌파...최민식-김고은-유해진 인증샷 공개]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000215818</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=408&amp;aid=0000215818"/>
-        <updated>2024-02-25T09:02:14.087Z</updated>
-        <content type="html"><![CDATA[영화 ‘파묘’가 개봉 4일 만에 200만 관객을 돌파했다. 영화진흥위원회 영화관입장권통합전산망에 따르면 ‘파묘’는 25일 오후 4시 30분 누적 관객수 201만 203명을 동원했다. 24일 토요일 100만 돌파에 이]]></content>
     </entry>
 </feed>
