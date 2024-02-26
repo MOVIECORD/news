@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-02-26T15:07:25.814Z</updated>
+    <updated>2024-02-26T16:12:52.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘해리포터’ TV 시리즈로 나온다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000945664</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000945664"/>
+        <updated>2024-02-26T16:12:04.445Z</updated>
+        <content type="html"><![CDATA[소설 ‘해리 포터’가 2026년 공개를 목표로 TV 드라마 제작에 돌입했다. 데이비드 자슬라브 워너브러더스 디스커버리(이하 워너브러더스) 최고경영자(CEO)는 23일(현지시간) 실적 발표 콘퍼런스콜에서 ‘해리 포터’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘영화의 도시’ 부산, ‘파묘’·‘소풍’ 등 로케이션지 흥행 부적으로 떠올라···올해 촬영 지원작 3월 모집]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000945658</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001109035"/>
         <updated>2024-02-26T11:02:33.355Z</updated>
         <content type="html"><![CDATA[배우 박미현이 26일 서울 광진구 자양동 롯데시네마 건대입구점에서 열린 영화 ‘돌핀’ 언론시사회에서 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현우석, 훤칠한 핏 [포토]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001109034</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=382&amp;aid=0001109034"/>
-        <updated>2024-02-26T11:02:33.357Z</updated>
-        <content type="html"><![CDATA[배우 현우석이 26일 서울 광진구 자양동 롯데시네마 건대입구점에서 열린 영화 ‘돌핀’ 언론시사회에서 포즈를 취하고 있다.]]></content>
     </entry>
 </feed>
