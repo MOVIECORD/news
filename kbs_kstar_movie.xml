@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 00:28:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 02:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['로얄로더' 이재욱, "한태오 그 자체, 고등학생→대학생→직장인까지!"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=305412</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=305412</guid>
+            <pubDate>Thu, 29 Feb 2024 02:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=305412">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240229095815_a0cdc3ddeda91fc05eea1b9d0aefddca_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=305412">'로얄로더' 이재욱, "한태오 그 자체, 고등학생→대학생→직장인까지!"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240229095815_a0cdc3ddeda91fc05eea1b9d0aefddca_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티빙 ‘피라미드 게임’ 오늘 첫 방송.. “서열 게임, 버티거나 부수거나”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=305370</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=304851">디즈니플러스 &lt;로얄로더&gt; 제작발표회 현장 ... "재벌가 마이너리거"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240227092503_22b79ebd9040f819d6faf2be996bb0a1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙 '피라미드 게임' 제작발표회... "2학년 5반에 온 걸 환영해!"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=304929</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=304929</guid>
-            <pubDate>Tue, 27 Feb 2024 01:40:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=304929">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240227091028_9326508d1f0604411d926e7725486027.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=304929">티빙 '피라미드 게임' 제작발표회... "2학년 5반에 온 걸 환영해!"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240227091028_9326508d1f0604411d926e7725486027.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
