@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 23:03:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 00:28:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티빙 ‘피라미드 게임’ 오늘 첫 방송.. “서열 게임, 버티거나 부수거나”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=305370</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=305370</guid>
+            <pubDate>Thu, 29 Feb 2024 00:26:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=305370">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240229090451_2cac6c63a6425d6c7d30f44a418ffd12.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=305370">티빙 ‘피라미드 게임’ 오늘 첫 방송.. “서열 게임, 버티거나 부수거나”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240229090451_2cac6c63a6425d6c7d30f44a418ffd12.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['고질라 X 콩: 뉴 엠파이어'  3월 27일 개봉... "이번에 한 편이다!"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=305313</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=304929">티빙 '피라미드 게임' 제작발표회... "2학년 5반에 온 걸 환영해!"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240227091028_9326508d1f0604411d926e7725486027.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오키쿠와 세계' 사카모토 준지 감독,  봉준호 감독과 내한GV]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=304913</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=304913</guid>
-            <pubDate>Tue, 27 Feb 2024 01:40:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=304913">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240227084614_c1367971977f97d0f8a4a43ac47a65f4.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=304913">'오키쿠와 세계' 사카모토 준지 감독,  봉준호 감독과 내한GV</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240227084614_c1367971977f97d0f8a4a43ac47a65f4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
