@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-03-03T15:06:59.962Z</updated>
+    <updated>2024-03-03T16:05:45.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강원 백두대간 배경 '파묘' 500만명 돌파 흥행]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=654&amp;aid=0000067587</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=654&amp;aid=0000067587"/>
+        <updated>2024-03-03T16:04:53.742Z</updated>
+        <content type="html"><![CDATA[무서운 기세로 극장가를 휩쓸고 있는 영화 '파묘'가 강원 백두대간을 주요 배경으로 삼은 이야기로 흥행 돌풍을 일으키고 있다. 장재현 감독의 신작 오컬트 영화 '파묘'는 개봉 10일째인 지난 2일 누적 관객 수 500]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘파묘’는 어떻게 대세가 되었나[스경연예연구소]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000946740</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014539192</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014539192"/>
         <updated>2024-03-03T06:08:37.266Z</updated>
-        <content type="html"><![CDATA[최근 극장가를 휩쓸고 있는 장재현 감독의 오컬트물 '파묘'가 개봉 열흘 만에 500만 관객 고지를 밟았다. 지난 2일 배급사 쇼박스에 따르면 '파묘'는 개봉 10일째인 이날 오후 누적 관객 수 500만명을 돌파했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파묘' 개봉 10일째 500만 관객 돌파]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014539191</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014539191"/>
-        <updated>2024-03-03T06:08:37.267Z</updated>
         <content type="html"><![CDATA[최근 극장가를 휩쓸고 있는 장재현 감독의 오컬트물 '파묘'가 개봉 열흘 만에 500만 관객 고지를 밟았다. 지난 2일 배급사 쇼박스에 따르면 '파묘'는 개봉 10일째인 이날 오후 누적 관객 수 500만명을 돌파했다.]]></content>
     </entry>
 </feed>
