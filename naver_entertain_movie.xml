@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-03-04T15:06:11.050Z</updated>
+    <updated>2024-03-04T18:09:27.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“마니아보다 시민 다수가 즐기는 영화의전당으로”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000067693</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000067693"/>
+        <updated>2024-03-04T18:08:44.588Z</updated>
+        <content type="html"><![CDATA[국제신문은 올해 ‘임기 3년 차’를 시작한 영화의전당과 부산문화재단 대표를 각각 만났다. 올해 초 부산 공공 문화기관장의 ‘2년(기본 임기)+1년’ 여부가 결정 났다. 부산문화재단과 영화의전당 대표가 ‘+1’ 임기를]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“‘댓글부대’는 대세 손석구에 업혀가고자 합니다”]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000946972</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=109&amp;aid=0005029613"/>
         <updated>2024-03-04T09:25:02.031Z</updated>
         <content type="html"><![CDATA[(인터뷰②에 이어) 배우 권유리(35)가 “30대 초반에 저도 캐릭터 나영처럼 혼란을 겪었었다”라고 말문을 열었다. 권유리는 4일 오후 서울 삼청동의 한 카페에서 진행된 OSEN과의 인터뷰에서 “누구나 그 시기에 비]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파묘'의 '흥행 뉴노멀'...①공포영화를 ②비수기에 개봉해도 대박, 왜?]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000788661</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000788661"/>
-        <updated>2024-03-04T09:25:02.032Z</updated>
-        <content type="html"><![CDATA[한국 영화 ‘파묘’가 관객 600만 명을 넘겼다. 공포영화로서는 국내 보기 드문 기록이다. 설 연휴 이후 비수기에 개봉한 영화로는 이례적인 흥행 질주다. 코로나19 이후 극장가에 ‘뉴노멀(새로운 일상)’이 정착하고]]></content>
     </entry>
 </feed>
