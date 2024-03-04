@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 00:28:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 02:56:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 유태오 “남는 사람, 떠나는 사람, 그리고 헤어진 사람”(영화 ‘패스트 라이브즈’)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=305918</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=305918</guid>
+            <pubDate>Mon, 04 Mar 2024 02:55:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=305918">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240304104536_c4248b794394568ca25ee0bb423d68a0.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=305918">[인터뷰] 유태오 “남는 사람, 떠나는 사람, 그리고 헤어진 사람”(영화 ‘패스트 라이브즈’)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240304104536_c4248b794394568ca25ee0bb423d68a0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[주지훈-한효주, 서스펜스 스릴러 '지배종'.. 4월 10일 디즈니플러스 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=305916</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=305548">"송중기의 로기완을 만난다" 넷플릭스 '로기완' 오늘 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240301065746_e602c18f410172440e8ea7848b1beb57.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡플레이 ‘포뮬러1’ 생중계.. 3월 1일 “F1 바레인 그랑프리, 스타트!”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=305457</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=305457</guid>
-            <pubDate>Thu, 29 Feb 2024 22:01:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=305457">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240229101851_21337265351cc115dba58e6d162be8ff.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=305457">쿠팡플레이 ‘포뮬러1’ 생중계.. 3월 1일 “F1 바레인 그랑프리, 스타트!”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240229101851_21337265351cc115dba58e6d162be8ff.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
