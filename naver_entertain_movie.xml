@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-03-04T14:02:55.402Z</updated>
+    <updated>2024-03-04T15:06:11.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“‘댓글부대’는 대세 손석구에 업혀가고자 합니다”]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000946972</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000946972"/>
+        <updated>2024-03-04T15:05:13.507Z</updated>
+        <content type="html"><![CDATA[배우 손석구가 ‘댓글부대’로 스크린에 컴백하는 가운데 배우와 감독이 그를 중심으로 똘똘 뭉쳤다. 이들은 입을 모아 “대세 손석구에 업혀가고자 했다”며 재치 있는 입담을 선보였다. 손석구는 4일 서울 광진구 롯데시네마]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["모든 관이 종영 후 인사"…'파묘', 3주차 무대인사가 특별한 이유[이슈S]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000476834</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000788661"/>
         <updated>2024-03-04T09:25:02.032Z</updated>
         <content type="html"><![CDATA[한국 영화 ‘파묘’가 관객 600만 명을 넘겼다. 공포영화로서는 국내 보기 드문 기록이다. 설 연휴 이후 비수기에 개봉한 영화로는 이례적인 흥행 질주다. 코로나19 이후 극장가에 ‘뉴노멀(새로운 일상)’이 정착하고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김영옥 ‘소풍’ 관객들 만나기 위해 나선다… 금순이의 특별한 나들이]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003333136</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003333136"/>
-        <updated>2024-03-04T09:25:02.034Z</updated>
-        <content type="html"><![CDATA[배우 김영옥이 영화 ‘소풍’의 관객들과 만난다. 영화 ‘소풍’ 측이 30만 관객 돌파를 기념해 ‘금순이 서울 나들이 GV with 김영옥 배우’ 행사를 5일 오후 2시 롯데시네마 건대입구에서 진행한다. 누적 관객 수]]></content>
     </entry>
 </feed>
