@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-03-06T18:08:56.787Z</updated>
+    <updated>2024-03-06T20:07:36.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[풋풋한 샬라메 극장에서… ‘레이니 데이 인 뉴욕’ 재개봉]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001679189</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=005&amp;aid=0001679189"/>
+        <updated>2024-03-06T20:06:46.592Z</updated>
+        <content type="html"><![CDATA[영화 ‘듄: 파트2’, ‘웡카’로 전 세계적인 사랑을 받고 있는 배우 티모테 샬라메가 출연한 ‘레이니 데이 인 뉴욕’이 오는 13일 4년 만에 재개봉한다. 우디 앨런 감독이 연출한 ‘레이니 데이 인 뉴욕’은 도시의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['괴물' 안방극장까지 사로잡는다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001288413</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004309413"/>
         <updated>2024-03-06T10:03:20.990Z</updated>
         <content type="html"><![CDATA[넷플릭스 영화 '로기완'에서 주연 배우를 맡은 송중기가 인터뷰를 통해 주연 배우로서의 책임감과 흥행에 대한 소신을 밝혔다. 6일 서울 종로구에 위치한 한 카페에서 '로기완'(감독 김희진)에서 주연 로기완 역을 연기한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파묘' 인기에 '사바하'→'검은사제들' OTT 역주행 '오컬트 대세'[이슈S]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000477180</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000477180"/>
-        <updated>2024-03-06T10:03:20.993Z</updated>
-        <content type="html"><![CDATA[영화 '파묘' 열풍에 힘입어 장재현 감독의 전작들과 유명 오컬트 영화들이 OTT에서 인기 순위 역주행을 보여주고 있다. 최근 넷플릭스, 티빙, 웨이브, 왓챠 등 주요 OTT 인기 순위에는 영화 '사바하', '검은 사]]></content>
     </entry>
 </feed>
