@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 01:27:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 02:04:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 송중기, "기완이는 행복할 자격이 있는가’..." (넷플릭스 ‘로기완’)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=306439</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=306439</guid>
+            <pubDate>Thu, 07 Mar 2024 02:03:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=306439">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240307102838_742365d76ccc78057fed7cad9245250a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=306439">[인터뷰] 송중기, "기완이는 행복할 자격이 있는가’..." (넷플릭스 ‘로기완’)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240307102838_742365d76ccc78057fed7cad9245250a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 '기생수: 더 그레이' 티저 공개... “인간처럼 보이고 생각하고 행동하라”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=306431</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=305997">영화 '당신이 잠든 사이' 3월 개봉.. 이무생, 비밀을 감춘 남편</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240304163757_758e5dbcba1af85f52655aa9508237c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부산국제영화제, '김영덕' 아시아콘텐츠&필름마켓위원장 선출]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=306079</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=306079</guid>
-            <pubDate>Tue, 05 Mar 2024 00:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=306079">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240305074329_02d963928a6e9f6ec0bfa770492b96ab.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=306079">부산국제영화제, '김영덕' 아시아콘텐츠&amp;필름마켓위원장 선출</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240305074329_02d963928a6e9f6ec0bfa770492b96ab.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
