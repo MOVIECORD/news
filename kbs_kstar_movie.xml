@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 05:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 06:09:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티빙, K-볼 서비스 “40년 프로야구‘중계’ 역사, 디지털로 따라잡기”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=307307</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=307307</guid>
+            <pubDate>Tue, 12 Mar 2024 06:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=307307">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240312143546_406d17fe8ebe9f7042e07c7191309c93.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=307307">티빙, K-볼 서비스 “40년 프로야구‘중계’ 역사, 디지털로 따라잡기”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240312143546_406d17fe8ebe9f7042e07c7191309c93.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] ‘랜드 오브 배드’ 라스베이거스 워게임  (리암 헴스워스, 러셀 크로우  주연)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=307298</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=306608">'피지컬:100 시즌2' 장호기 피디-강숙경 작가, "언더그라운드, 더 강력한 승부욕과 생존욕구!"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240308124915_0dbd3f26ee619aeafdb96242af973ebb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["6월의 감정은?.. '인사이드 아웃2' 6월 극장 개봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=306542</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=306542</guid>
-            <pubDate>Sun, 10 Mar 2024 21:05:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=306542">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240308103815_f2127e491fad9084d794a648f98823da_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=306542"> "6월의 감정은?.. '인사이드 아웃2' 6월 극장 개봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240308103815_f2127e491fad9084d794a648f98823da_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
