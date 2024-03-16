@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-03-16T12:12:50.780Z</updated>
+    <updated>2024-03-16T13:03:28.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[티모시 샬라메 ‘듄2’ 150만 관객 돌파, 전편보다 30일 빠른 속도]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000834064</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000834064"/>
+        <updated>2024-03-16T13:02:38.871Z</updated>
+        <content type="html"><![CDATA[영화 ‘듄: 파트2’가 누적관객수 150만을 돌파했다. 3월 16일 영화관입장권 통합전산망 집계에 따르면 영화 ‘듄: 파트2’는 오후 5시 10분 기준, 개봉 18일차 누적 관객수 1,500,073명을 기록했다. 이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[티모시 샬라메 '듄: 파트2' 150만 돌파…전편보다 30일 빠르다 [공식]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003813331</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=438&amp;aid=0000063517"/>
         <updated>2024-03-16T00:29:49.303Z</updated>
         <content type="html"><![CDATA[김서형이 출연한 영호 '비닐하우스'가 일본과 프랑스에 잇달아 소개된다. 김서형 주연 영화 ‘비닐하우스’(감독 이솔희)는 15일 일본에서 전격 개봉되었다. ‘비닐하우스’는 김서형에게 연기상 6관왕의 영예를 안겨준 독립]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["'자부심' 소녀시대 넘어 인생 2막" 권유리의 도전은 ing[인터뷰S]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000478923</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=477&amp;aid=0000478923"/>
-        <updated>2024-03-16T00:29:49.305Z</updated>
-        <content type="html"><![CDATA["'아 나 소녀시대였지' 외롭거나 초라하다고 느껴질 때쯤 이런 생각이 들면 너무 든든하다" 소녀시대라는 자부심을 원동력 삼아 브라운관을 넘어 스크린까지 접수하며 인생 2막의 첫 페이지를 연 배우 권유리가 스포티비뉴스]]></content>
     </entry>
 </feed>
