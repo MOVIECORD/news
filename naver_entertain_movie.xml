@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-03-17T10:03:29.446Z</updated>
+    <updated>2024-03-17T11:05:41.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['듄2'와 '웡카'의 흥행 시너지]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000790901</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=469&amp;aid=0000790901"/>
+        <updated>2024-03-17T11:04:51.404Z</updated>
+        <content type="html"><![CDATA[배우 티모시 샬라메의 두 작품이 극장가에서 존재감을 드러내고 있다. '듄: 파트2'와 '웡카'다. 티모시 샬라메가 이끈 이 영화들은 흥행 시너지를 발휘하며 서로를 밀고 끄는 중이다. '듄: 파트2'는 자신의 능력을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스초점] '파묘' 1천만 고지 눈앞…33년 '학전' 역사속으로]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=422&amp;aid=0000650222</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=417&amp;aid=0000989340"/>
         <updated>2024-03-17T01:42:28.896Z</updated>
         <content type="html"><![CDATA[장재현 감독의 영화 '파묘'가 900만 관객을 돌파했다. 영화진흥위원회 통합전산망 집계에 따르면, '파묘'는 개봉 24일차인 지난 16일 누적 관객수 901만2758명을 기록했다. 이는 지난해 1000만 관객을 돌파]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박찬욱 감독 신작 ‘동조자’ 쿠팡플레이 공개… 로버트 다우니 주니어 1인 4역]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003336384</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=241&amp;aid=0003336384"/>
-        <updated>2024-03-17T01:42:28.898Z</updated>
-        <content type="html"><![CDATA[박찬욱 감독의 신작을 쿠팡플레이에서 만날 수 있게 됐다. 쿠팡플레이는 박찬욱 감독이 연출한 ‘동조자’를 내달 독점 공개한다고 17일 밝혔다. ‘동조자’(The Sympathizer)는 1970년대 남베트남 비밀경찰에]]></content>
     </entry>
 </feed>
