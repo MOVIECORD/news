@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Mar 2024 23:07:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Mar 2024 01:43:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['1박 2일' 나인우, "혹시 천재 연기?".. 2년 만에 천재적 두뇌 '꿈틀']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=307946</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=307946</guid>
+            <pubDate>Sun, 17 Mar 2024 01:42:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=307946">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240317081328_eb7bedf19409f019c4df9fb2369be59f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=307946">'1박 2일' 나인우, "혹시 천재 연기?".. 2년 만에 천재적 두뇌 '꿈틀'</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240317081328_eb7bedf19409f019c4df9fb2369be59f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['멱살 한번 잡힙시다' 김하늘의 변신.. "스릴, 그리고 황홀한 멜로"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=307664</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상출시 편스토랑</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240316061208_aa5143722eee489bf3c244080960356a_1.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[[신상출시 편스토랑] 야생의 연예계에서 치열하게 활동했던 26살 이정현과 24살 MC붐!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=307804</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=307804</guid>
-            <pubDate>Fri, 15 Mar 2024 22:03:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=307804">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240316060756_b5055b34f20288447336942ab80c0ca3_1.PNG" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=307804">[신상출시 편스토랑] 야생의 연예계에서 치열하게 활동했던 26살 이정현과 24살 MC붐!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상출시 편스토랑</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240316060756_b5055b34f20288447336942ab80c0ca3_1.PNG" length="0" type="image/PNG"/>
         </item>
     </channel>
 </rss>
