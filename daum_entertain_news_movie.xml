@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-03-17T02:16:26.275Z</updated>
+    <updated>2024-03-17T03:03:11.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['듄 파트2' 속 인물들이 가진 두려움의 속사정]]></title>
+        <id>https://v.daum.net/v/20240317114500238</id>
+        <link href="https://v.daum.net/v/20240317114500238"/>
+        <updated>2024-03-17T03:03:11.123Z</updated>
+        <content type="html"><![CDATA[[김동근 기자] * 이 글에는 영화의 스포일러가 있습니다. 운명이라는 것이 정말 있을까. 대부분의 사람들은 자신의 의지대로 하고 싶은 것을 하고 성공하고 싶어 한다. 하지만 그런 목표에 도달하기 위해서는 어느 정도의 운이 필요한 건 사실이다. 그래서 사람들은 자신의 운이 들어오는 때를 알기 위해 사주나 점을 보기도 한다. 그런데 미래를 미리 아는 게 꼭 좋]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대저택에서 일어난 현대판 노예 제도의 추악한 진실]]></title>
         <id>https://v.daum.net/v/20240317110301550</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240317073218979"/>
         <updated>2024-03-16T23:07:16.743Z</updated>
         <content type="html"><![CDATA[[OSEN=강서정 기자] 최고의 영화적 경험을 선사하며 화제의 중심에 서있는 오컬트 미스터리 ‘파묘’(감독 장재현)가 900만 관객을 돌파했다.&nbsp; 거액의 돈을 받고 수상한 묘를 이장한 풍수사와 장의사, 무속인들에게 벌어지는 기이한 사건을 담은 오컬트 미스터리 영화 ‘파묘’가 관객수 900만 명을 돌파하며 천만영화 달성까지 한 걸음만을 남겨두고 있다. ‘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파묘' 누적 900만 돌파..'서울의 봄'보다 3일 빠르다]]></title>
-        <id>https://v.daum.net/v/20240317071713902</id>
-        <link href="https://v.daum.net/v/20240317071713902"/>
-        <updated>2024-03-16T23:07:16.745Z</updated>
-        <content type="html"><![CDATA[[스타뉴스 | 윤상근 기자] /사진='파묘' 포스터 영화 '파묘'가 900만 관객 돌파에 성공했다. 17일 영화진흥위원회 통합전산망에 따르면 '파묘'는 개봉 24일차인 16일 누적 관객수 901만 2758명을 기록했다. 이는 2023년 최고 흥행 영화 '서울의 봄'의 기록보다 3일 빠른 수치로 2024년 첫 천만영화 달성이 멀지 않았음을 시사한다.]]></content>
     </entry>
 </feed>
