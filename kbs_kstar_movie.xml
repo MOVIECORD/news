@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 19:05:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 21:04:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안노 히데아키 감독 ‘신 가면라이더' 4월 개봉]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=308019</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=308019</guid>
+            <pubDate>Mon, 18 Mar 2024 21:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=308019">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240318070900_ae023375cbcd2cee4aeb6dfe36ed16e0.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=308019"> 안노 히데아키 감독 ‘신 가면라이더' 4월 개봉</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240318070900_ae023375cbcd2cee4aeb6dfe36ed16e0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] ‘닭강정’.. "힘내세요,넷플릭스" (이병헌 감독, 류승룡 안재홍 주연)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=308098</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=307608">'제로베이스원' 일본 요코하마 팬 콘서트  ‘2024 ZEROBASEONE FAN-CON IN JAPAN’... CGV 생중계</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240314082027_26f53154e671e8efff6592ded15d5708.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["최강의 피조물,  고질라와 콩 손잡다!" 영화  '고질라 X 콩: 뉴 엠파이어']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=307598</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=307598</guid>
-            <pubDate>Wed, 13 Mar 2024 23:06:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=307598">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240314080108_194f671ea58af1757f055dc67190e5b3.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=307598">"최강의 피조물,  고질라와 콩 손잡다!" 영화  '고질라 X 콩: 뉴 엠파이어' </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240314080108_194f671ea58af1757f055dc67190e5b3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
