@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Mar 2024 20:08:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 21:03:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['1980' 시대의 아픔.. '임을 위한 행진곡' 스페셜 예고편]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=308025</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=308025</guid>
+            <pubDate>Tue, 19 Mar 2024 21:01:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=308025">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240318071839_8915214447fe3f0390e638116131e6a1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=308025">'1980' 시대의 아픔.. '임을 위한 행진곡' 스페셜 예고편</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240318071839_8915214447fe3f0390e638116131e6a1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿠플, MLB 월드투어 서울시리즈, 스페셜 게임 성료]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=308289</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=307712"> '마더스' 앤 해서웨이 제시카 차스테인  연기대결</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240315080843_db1a377611dabf126f735411a90affbe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 '닭강정' 오늘 4시 배달 시작..  "원작의 재미, 감독의 말맛, 배우의 개그감"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=307762</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=307762</guid>
-            <pubDate>Fri, 15 Mar 2024 00:26:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=307762">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240315092355_5b669ae934f6496c8b2922257629944c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=307762">넷플릭스 '닭강정' 오늘 4시 배달 시작..  "원작의 재미, 감독의 말맛, 배우의 개그감"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240315092355_5b669ae934f6496c8b2922257629944c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
