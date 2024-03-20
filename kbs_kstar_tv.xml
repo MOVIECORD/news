@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Mar 2024 00:28:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Mar 2024 01:43:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["한국사 100점!"  tvN STORY  '벌거벗은 한국사' 100회 금자탑]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=308454</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=308454</guid>
+            <pubDate>Wed, 20 Mar 2024 01:42:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=308454">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240320103504_54fe7cfbc23082ac5815d1b1a34a060b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=308454">"한국사 100점!"  tvN STORY  '벌거벗은 한국사' 100회 금자탑</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240320103504_54fe7cfbc23082ac5815d1b1a34a060b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[벌거벗은 세계사] 리틀 할리우드, 홍콩 영화는 어떻게 망했나]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=308282</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=307343">‘야한 사진관’ 이주연, '처녀 귀신' 특별 출연</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240312154544_50406d6938259e2b912d5344ab6c7d7a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘벌거벗은 세계사’ 초콜릿의 비극.. "달콤함이 불러온 재앙"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=307333</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=307333</guid>
-            <pubDate>Tue, 12 Mar 2024 07:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=307333">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240312153015_4252ce4787d6e514e7b640dff93b9caf.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=307333">‘벌거벗은 세계사’ 초콜릿의 비극.. "달콤함이 불러온 재앙"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240312153015_4252ce4787d6e514e7b640dff93b9caf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
