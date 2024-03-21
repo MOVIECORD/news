@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Mar 2024 05:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 06:09:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 장윤현 감독 “우여곡절 끝에, 운명적으로, 기적적으로 완성” (영화 ‘당신이 잠든 사이’)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=308593</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=308593</guid>
+            <pubDate>Thu, 21 Mar 2024 06:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=308593">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240321142602_e376a57bca016d81f8493427ec9c465d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=308593">[인터뷰] 장윤현 감독 “우여곡절 끝에, 운명적으로, 기적적으로 완성” (영화 ‘당신이 잠든 사이’)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240321142602_e376a57bca016d81f8493427ec9c465d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['에스파: 월드 투어 인 시네마' 4월 CGV 단독개봉]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=308556</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=308019"> 안노 히데아키 감독 ‘신 가면라이더' 4월 개봉</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240318070900_ae023375cbcd2cee4aeb6dfe36ed16e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] ‘닭강정’.. "힘내세요,넷플릭스" (이병헌 감독, 류승룡 안재홍 주연)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=308098</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=308098</guid>
-            <pubDate>Mon, 18 Mar 2024 01:39:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=308098">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240318100444_eb34eaf1a2c5ec9a7175db19c6c62052.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=308098">[리뷰] ‘닭강정’.. "힘내세요,넷플릭스" (이병헌 감독, 류승룡 안재홍 주연)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240318100444_eb34eaf1a2c5ec9a7175db19c6c62052.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
