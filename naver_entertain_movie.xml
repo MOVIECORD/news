@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-03-22T12:11:53.652Z</updated>
+    <updated>2024-03-22T13:03:53.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘목스박’ 개봉 첫날, 좌석 판매율 1위]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000950914</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000950914"/>
+        <updated>2024-03-22T13:03:11.182Z</updated>
+        <content type="html"><![CDATA[오대환, 지승현, 이용규가 주연한 영화 ‘목스박’(감독 고훈)이 개봉 첫날에 이어 둘째 날까지 전체 영화 좌석 판매율 1위를 지키며 흥행 조짐을 보이고 있다. 20일, 21일 영화진흥위원회 영화관 입장권 통합전산망에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘파묘’ 2024년 첫 1000만 관객 돌파 눈앞]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003917026</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=008&amp;aid=0005015841"/>
         <updated>2024-03-22T11:04:36.406Z</updated>
         <content type="html"><![CDATA[영화 '1987', '고지전' 등 흥행 작품 제작에 참여한 이우정 우정필름 대표(55)가 22일 오전 암 투병 끝에 숨졌다. 뉴스1에 따르면 영화 '1987'을 제작해 700만 관중을 끌어 모았던 이우정 우정필름 대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 '1987' '강철비' 제작한 이우정 우정필름 대표, 투병 끝 별세…향년 54세]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0004124679</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=076&amp;aid=0004124679"/>
-        <updated>2024-03-22T11:04:36.408Z</updated>
-        <content type="html"><![CDATA[영화 '1987', '강철비 2: 정상회담' 등을 제작했던 우정필름 이우정 대표가 투병 끝에 세상을 떠났다. 향년 54세. 영화계에 따르면 이 대표는 혈액암 투병 끝에 이날 세상을 떠났다. 이우정 대표 소식을 전한]]></content>
     </entry>
 </feed>
