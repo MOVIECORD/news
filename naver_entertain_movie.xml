@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-03-24T17:04:39.586Z</updated>
+    <updated>2024-03-24T18:05:21.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[동네 사랑방 모여 즐기는 단편영화]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000069466</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000069466"/>
+        <updated>2024-03-24T18:04:31.269Z</updated>
+        <content type="html"><![CDATA[“동네 사람들! 함께 오셔서 단편영화 매력을 느껴보세요.” 부산국제단편영화제(BISFF)가 영화관을 방문하기 쉽지 않은 동네로 직접 찾아가 단편영화를 무료로 상영하는 ‘찾아가는 BISFF’를 다음 달 12일까지 진행]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘파묘’는 어떻게 ‘천만’을 찍었나[스경연예연구소]]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000951158</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000951158"/>
+        <updated>2024-03-24T18:04:31.271Z</updated>
+        <content type="html"><![CDATA[영화 ‘파묘’(감독 장재현)가 천만 능선을 넘어섰다. K오컬트물을 저력을 입증함과 동시에 마니아적 장르가 이제 더 이상 따로 없다는 것도 확인시켜줬다. ‘파묘’는 어떻게 험한 천만의 벽을 부술 수 있었을까. ‘파묘’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓 오컬트의 저력…'파묘' 천만 찍었다(종합)]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=011&amp;aid=0004317691</id>
@@ -165,19 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000951118"/>
         <updated>2024-03-24T08:12:24.766Z</updated>
         <content type="html"><![CDATA[영화 ‘댓글부대’(감독 안국진)가 개봉을 앞두고 전체 영화 예매율 1위를 기록했다. 24일 영화진흥위원회 통합전산망 집계에 따르면 ‘댓글부대’는 개봉 3일 전인 이날 전체 영화 예매율 1위를 차지하며 또 한 번의 한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파묘' 천만 관객 돌파…올해 첫 천만 영화 탄생]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012446950</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012446950"/>
-        <updated>2024-03-24T07:04:21.987Z</updated>
-        <content type="html"><![CDATA[영화 '파묘'의 누적 관객수가 1000만 명을 돌파했다. 배급사 쇼박스에 따르면 파묘는 개봉 32일 만인 24일 오전 누적 관객수 1000만명을 넘겼다. 사진은 24일 오후 서울 시내 영화관에서 시민들이 파묘를 예매]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 '파묘' 누적 관객 1000만명 돌파]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012446949</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012446949"/>
-        <updated>2024-03-24T07:04:21.992Z</updated>
-        <content type="html"><![CDATA[영화 '파묘'의 누적 관객수가 1000만 명을 돌파했다. 배급사 쇼박스에 따르면 파묘는 개봉 32일 만인 24일 오전 누적 관객수 1000만명을 넘겼다. 사진은 24일 오후 서울 시내 영화관에 걸린 영화 '파묘' 홍]]></content>
     </entry>
 </feed>
