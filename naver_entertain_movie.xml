@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-03-24T11:04:30.916Z</updated>
+    <updated>2024-03-24T12:15:07.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘댓글부대’ 예매율 1위, 이것은 바로 손석구 효과?]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001807833</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=057&amp;aid=0001807833"/>
+        <updated>2024-03-24T12:14:19.167Z</updated>
+        <content type="html"><![CDATA[‘댓글부대’가 개봉을 앞두고 전체 영화 예매율 1위를 기록했다. 영화 ‘댓글부대’는 대기업에 대한 기사를 쓴 후 정직당한 기자 ‘임상진’에게 온라인 여론을 조작했다는 익명의 제보자가 나타나면서 벌어지는 이야기를 담은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강원 배경 영화 '파묘', 올해 첫 천만관객 영화… 오컬트 장르 첫 기록]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=654&amp;aid=0000069570</id>
@@ -171,13 +178,6 @@
         <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012446946</id>
         <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012446946"/>
         <updated>2024-03-24T07:04:21.998Z</updated>
-        <content type="html"><![CDATA[영화 '파묘'의 누적 관객수가 1000만 명을 돌파했다. 배급사 쇼박스에 따르면 파묘는 개봉 32일 만인 24일 오전 누적 관객수 1000만명을 넘겼다. 사진은 24일 오후 서울 시내 영화관에 걸린 영화 '파묘' 홍]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파묘' 천만 관객 돌파…올해 첫 천만 영화 탄생]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012446945</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012446945"/>
-        <updated>2024-03-24T07:04:21.999Z</updated>
         <content type="html"><![CDATA[영화 '파묘'의 누적 관객수가 1000만 명을 돌파했다. 배급사 쇼박스에 따르면 파묘는 개봉 32일 만인 24일 오전 누적 관객수 1000만명을 넘겼다. 사진은 24일 오후 서울 시내 영화관에 걸린 영화 '파묘' 홍]]></content>
     </entry>
 </feed>
