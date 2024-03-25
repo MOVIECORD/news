@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-03-25T12:11:13.122Z</updated>
+    <updated>2024-03-25T15:10:06.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘영화의 봄’ 2024 춘천영화제, 6월 20일부터 23일까지 4일 동안 개최]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000951366</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=144&amp;aid=0000951366"/>
+        <updated>2024-03-25T15:09:17.098Z</updated>
+        <content type="html"><![CDATA[올해로 11회를 맞이하는 춘천영화제(이사장 박기복)가 6월 20일(목) 개막해 6월 23일(일)까지 4일 동안 이어진다. 가을에 5일 동안 치러졌던 작년 10회 영화제보다 약 3개월 정도 앞당긴 일정으로, 관객에게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘마더스’ 2차 포스터…앤 해서웨이X제시카 차스테인, 서스펜스 스릴러]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=410&amp;aid=0000987907</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005277853"/>
         <updated>2024-03-25T08:12:45.580Z</updated>
         <content type="html"><![CDATA[꾼과 꾼의 만남, 변요한·신혜선 주연의 ‘그녀가 죽었다’(감독 김세휘)가 5월 개봉한다. 배급사 (주)콘텐츠지오, (주)아티스트스튜디오, (주)무빙픽쳐스컴퍼니는 25일 이 같은 소식을 알리며 론칭 스틸도 함께 공개했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘파묘’ 천만 후에도 ‘할꾸’는 계속된다‥최민식 “여러분이 주인공”]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000836792</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=609&amp;aid=0000836792"/>
-        <updated>2024-03-25T08:12:45.581Z</updated>
-        <content type="html"><![CDATA['파묘'가 개봉 5주차 박스오피스 1위를 달성하며 오컬트 영화 최초로 천만 관객을 돌파했다. 3월 25일 기준 영화진흥위원회 통합전산망에 따르면, 영화 '파묘'(감독 장재현)가 개봉 5주차 주말 61만7,945명의]]></content>
     </entry>
 </feed>
