@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-03-28T18:04:08.129Z</updated>
+    <updated>2024-03-28T19:02:59.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中 흥행작 부산서 본다…30일부터 상하이영화전]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000069922</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=658&amp;aid=0000069922"/>
+        <updated>2024-03-28T19:02:06.058Z</updated>
+        <content type="html"><![CDATA[최근 5년간 중국 영화 관객의 마음을 훔친 흥행작 5편이 부산을 찾는다. CJ CGV는 30일부터 다음달 8일까지 부산 CGV센텀시티에서 ‘2024 부산상하이영화전’을 연다. 이번 영화전은 한국·중국 영화 교류 확대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['패스트 라이브즈', 애틋함과 여운 계속된다]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001290620</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=311&amp;aid=0001707957"/>
         <updated>2024-03-28T09:02:31.707Z</updated>
         <content type="html"><![CDATA[영화 '포켓몬스터: 성도지방 이야기, 최종장'(감독 유야마 쿠니히코)이 티저 포스터와 티저 예고편 공개와 함께 5월 극장 개봉 소식을 알렸다. 미공개로 남아있던 포켓몬스터 오리지널 시리즈의 마지막 이야기가 국내 애니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['로봇드림' 2만 관객 돌파, “자주 행복해지고 자꾸만 그리워진다”]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003817541</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=117&amp;aid=0003817541"/>
-        <updated>2024-03-28T09:02:31.709Z</updated>
-        <content type="html"><![CDATA[단짝을 꿈꾸던 ‘도그’와 단짝이 되어 준 ‘로봇’의 특별한 우정을 그린 '로봇 드림'이 누적 관객수 2만을 돌파한 가운데, 멀티 플렉스 3사 매진 행렬까지 기록하며 이목을 끌고 있다. 뉴욕 맨해튼에 혼자 사는 ‘도그]]></content>
     </entry>
 </feed>
