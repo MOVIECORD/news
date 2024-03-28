@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 22:03:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 23:07:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['포' 잭 블랙, '쿵푸팬더4' 엔딩 송 "Baby One More Time~"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=309751</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=309751</guid>
+            <pubDate>Thu, 28 Mar 2024 23:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=309751">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240329075212_9723c67bfe2bf37e75655d243cda2a86.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=309751">'포' 잭 블랙, '쿵푸팬더4' 엔딩 송 "Baby One More Time~"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240329075212_9723c67bfe2bf37e75655d243cda2a86.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["애플TV+, 올해의 걸작" ‘마스터스 오브 디 에어’ 9부작 완결]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=309712</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=309353">넷플릭스 '기생수: 더 그레이'.. "알고 보면 더 재밌다!"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240326081927_06ee9a6162097b49bd02ac7533cbc234.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이정재의 포스.. 디플 '애콜라이트' 6월 5일 1,2회 글로벌 동시 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=309246</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=309246</guid>
-            <pubDate>Mon, 25 Mar 2024 21:03:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=309246">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240325165307_bfdf92438761caa75085f858e618950b.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=309246"> 이정재의 포스.. 디플 '애콜라이트' 6월 5일 1,2회 글로벌 동시 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240325165307_bfdf92438761caa75085f858e618950b.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
