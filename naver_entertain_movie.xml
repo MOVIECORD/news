@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-03-31T10:03:20.168Z</updated>
+    <updated>2024-03-31T11:05:17.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Were there any victims?]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000051949</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=640&amp;aid=0000051949"/>
+        <updated>2024-03-31T11:04:28.148Z</updated>
+        <content type="html"><![CDATA[After an increasing number of voters criticized candidates in the April 10 parliamentary elections for their alleged rea]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원로배우 남일우 별세…김용림 남편상·남성진 부친상]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014600759</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014600020"/>
         <updated>2024-03-30T23:02:38.680Z</updated>
         <content type="html"><![CDATA['그날의 딸들'·'세월: 라이프 고즈 온'…피해자들의 만남 조명 국가 폭력이나 사회적 참사의 피해자들이 대화하면서 아픔을 나누는 모습을 조명한 다큐멘터리가 잇달아 개봉한다. 단순한 고발을 넘어 피해자들의 공감과 연대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['댓글부대' 김성철의 도전·배움·성장[TF인터뷰]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000277519</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000277519"/>
-        <updated>2024-03-30T22:05:53.866Z</updated>
-        <content type="html"><![CDATA['팀알렙'의 실질적 리더 찡뻤킹 役 "디테일한 연기 배워…새로운 모습 보실 수 있을 것" 배우 김성철에게 '댓글부대'는 도전 그 자체였다. 매력적인 글에 한 번, 신선한 구성과 조합에 두 번, 애매모호하게 느껴질 수]]></content>
     </entry>
 </feed>
