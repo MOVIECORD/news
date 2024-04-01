@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-04-01T12:14:24.853Z</updated>
+    <updated>2024-04-01T13:05:36.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['파묘' 등 韓영화 5편, 베이징국제영화제 초청]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012464681</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012464681"/>
+        <updated>2024-04-01T13:04:43.055Z</updated>
+        <content type="html"><![CDATA[박정규 특파원 = 오는 18일 개막하는 제14회 베이징국제영화제에 '파묘' 등 한국영화 5편이 초청됐다. 영화진흥위원회는 지난 28일 베이징국제영화제에서 발표한 240여편의 파노라마 부문 상영작 가운데 파묘 등 한국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['불륜' 홍상수 vs '정의구현' 마동석…'이재욱♥' 카리나=의외의 변수인 4월 극장가[TEN스타필드]]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=312&amp;aid=0000656112</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014603482"/>
         <updated>2024-04-01T09:06:23.099Z</updated>
         <content type="html"><![CDATA[배우 김다현이 1일 오후 서울 용산구 CGV용산점에서 열린 영화 '어게인 1997' 시사회 및 기자간담회에서 질문에 답하고 있다. 2024.4.1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포즈 취하는 최희승]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014603481</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014603481"/>
-        <updated>2024-04-01T09:06:23.100Z</updated>
-        <content type="html"><![CDATA[배우 최희승이 1일 오후 서울 용산구 CGV용산점에서 열린 영화 '어게인 1997' 시사회 및 기자간담회에서 포즈를 취하고 있다. 2024.4.1]]></content>
     </entry>
 </feed>
