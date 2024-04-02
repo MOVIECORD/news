@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-04-02T14:07:44.105Z</updated>
+    <updated>2024-04-02T15:03:58.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[챗GPT로 쓴 연예 뉴스③] "놀랍긴 한데"…이해도와 핵심 메시지 한계]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000278241</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=629&amp;aid=0000278241"/>
+        <updated>2024-04-02T15:03:16.409Z</updated>
+        <content type="html"><![CDATA[쇼케이스 인터뷰 기획 등 '발품' 파는 기사 시도 "놀랍긴 하지만 정리만 잘 해놓은 느낌" "K팝 아티스트에 통상적인 표현 위주" 버추얼 아이돌 그룹이 많은 사랑을 받고 생성형 인공지능(AI)이 소설까지 쓰는 시대다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송강호 첫 드라마 ‘삼식이 삼촌’ 5월15일 공개]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=277&amp;aid=0005400829</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007453709"/>
         <updated>2024-04-02T08:10:35.650Z</updated>
         <content type="html"><![CDATA[신인 보이그룹 나우어데이즈가 부담감에 대해 솔직하게 말했다. 나우어데이즈는 2일 오후 서울 용산구 블루스퀘어 마스터카드홀에서 첫 번째 싱글 '나우어데이즈'(NOWADAYS) 발매 기념 데뷔 쇼케이스를 개최했다. 이날]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[또또또 1위..‘파묘’ 글로벌 신드롬으로[MK무비]]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005282179</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=009&amp;aid=0005282179"/>
-        <updated>2024-04-02T08:10:35.652Z</updated>
-        <content type="html"><![CDATA[베트남서 역대 한국영화 최고 관객수 달성 해외에서도 영화 ‘파묘’의 기세가 험하다. 베트남에서는 역대 한국 영화 흥행 1위를 달성했다. 2일 ‘파묘’ 측에 따르면, 지난달 15일 베트남에서 개봉한 영화는 개봉 17일]]></content>
     </entry>
 </feed>
