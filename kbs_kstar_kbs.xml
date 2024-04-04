@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Apr 2024 19:03:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Apr 2024 21:05:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘편스토랑’ 이정현, "액션 찍고, 아이 낳고, 요리 하고..."]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=310707</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=310707</guid>
+            <pubDate>Thu, 04 Apr 2024 21:04:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=310707">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240404150123_a358931ee69771141f2778ba7363180b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=310707">‘편스토랑’ 이정현, "액션 찍고, 아이 낳고, 요리 하고..."</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상출시 편스토랑</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240404150123_a358931ee69771141f2778ba7363180b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[박원숙의 같이 삽시다] 배고팠던 박신양 러시아 유학기, 화가 박신양을 탄생시킨 친구 ‘키릴’의 이야기]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=310752</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%A9%B1%EC%82%B4%20%ED%95%9C%20%EB%B2%88%20%EC%9E%A1%ED%9E%99%EC%8B%9C%EB%8B%A4">월화드라마 멱살 한 번 잡힙시다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240403090004_fad8d78995fbe53c9ebe1e802ead5ec8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[멱살 한번 잡힙시다] “괴롭혀야 날 봐주잖아” 섬뜩한 표정으로 장승조에 집착하는 한채아...?!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=310456</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=310456</guid>
-            <pubDate>Tue, 02 Apr 2024 16:05:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=310456">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240403001728_8ed6e1726375c80a09ea3834ee47472d_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=310456">[멱살 한번 잡힙시다] “괴롭혀야 날 봐주잖아” 섬뜩한 표정으로 장승조에 집착하는 한채아...?!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9B%94%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%A9%B1%EC%82%B4%20%ED%95%9C%20%EB%B2%88%20%EC%9E%A1%ED%9E%99%EC%8B%9C%EB%8B%A4">월화드라마 멱살 한 번 잡힙시다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240403001728_8ed6e1726375c80a09ea3834ee47472d_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
