@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 11:06:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 12:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뮤직뱅크] 슈퍼 루키 아일릿(ILLIT), 거부할 수 없는 매력 ‘Magnetic’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=310877</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=310877</guid>
+            <pubDate>Fri, 05 Apr 2024 12:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=310877">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240405210740_c9b05edfd52c54e772c60b0bb1c303fb_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=310877">[뮤직뱅크] 슈퍼 루키 아일릿(ILLIT), 거부할 수 없는 매력 ‘Magnetic’</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240405210740_c9b05edfd52c54e772c60b0bb1c303fb_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뮤직뱅크] 다국적 걸그룹 비비업, 힙한 매력 가득한 무대...‘Locked On’]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=310873</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B3%BC%ED%95%99%EC%88%98%EC%82%AC%EB%8C%80%20%EC%8A%A4%EB%AA%A8%ED%82%B9%20%EA%B1%B4">과학수사대 스모킹 건</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240404003712_08a13c1760b2f7158471241fd21227dd_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[스모킹 건] 90년대 최악의 살인 범죄, “지하실의 살인공장” 지존파 사건]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=310595</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=310595</guid>
-            <pubDate>Wed, 03 Apr 2024 16:05:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=310595">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240404001251_d7b0f75b87dd547de74c6fa3f74ab8c8.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=310595">[스모킹 건] 90년대 최악의 살인 범죄, “지하실의 살인공장” 지존파 사건</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B3%BC%ED%95%99%EC%88%98%EC%82%AC%EB%8C%80%20%EC%8A%A4%EB%AA%A8%ED%82%B9%20%EA%B1%B4">과학수사대 스모킹 건</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240404001251_d7b0f75b87dd547de74c6fa3f74ab8c8.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
