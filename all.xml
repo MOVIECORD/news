@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Apr 2024 22:02:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Apr 2024 23:06:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240401080835_8d8080d5391221519426d49ae5101336.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[전국노래자랑] 경기 시흥시 편... "남희석 도플갱어 줄줄이 등판" (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=310949</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=310949</guid>
+            <pubDate>Sat, 06 Apr 2024 23:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=310949">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240407071440_e6e83b4c1c2ed78100a68d48428d3da1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=310949">[전국노래자랑] 경기 시흥시 편... "남희석 도플갱어 줄줄이 등판"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A0%84%EA%B5%AD%EB%85%B8%EB%9E%98%EC%9E%90%EB%9E%91">전국노래자랑</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240407071440_e6e83b4c1c2ed78100a68d48428d3da1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[미녀와 순정남] 넘어지는 임수향을 잡아주는 지현우...‘첫사랑’ 떠올린 임수향 “왜 그 오빠가 생각나지?” (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=310937</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=310937</guid>
@@ -1029,24 +1047,6 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240405183925_158ce4e44a6840b12d87feea81a7c6f8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘신상출시 편스토랑’ 장민호, "미국 투어 떠납니다" (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=310848</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=310848</guid>
-            <pubDate>Fri, 05 Apr 2024 07:05:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=310848">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240405151745_5a245e1e0712bbb74465323e7a5bef92.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=310848">‘신상출시 편스토랑’ 장민호, "미국 투어 떠납니다"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상출시 편스토랑</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240405151745_5a245e1e0712bbb74465323e7a5bef92.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['거미집' 제22회 피렌체 한국영화제 심사위원대상 수상 (MBC 연예 ─ 영화)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/413487</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/413487</guid>
@@ -1109,6 +1109,13 @@
             <pubDate>Wed, 07 Feb 2024 06:11:58 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/408328" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/02/07/9ee9366a-7af1-448d-8844-89bddd4a68d6.jpg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">두바이 국제 AI <font color="red">영화</font>제 '경쟁' 부문 진출 권한슬 감독 “생성형 AI 기술 적용, <font color="red">영화</font> 5일 만에 완성”</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/02/07/9ee9366a-7af1-448d-8844-89bddd4a68d6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올해 칸에는 박찬욱·봉준호 없다? 예상되는 한국 영화는 [정유진의 속닥무비] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007464277</link>
+            <guid>https://entertain.naver.com/movie/now/read?oid=421&amp;aid=0007464277</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:05 GMT</pubDate>
+            <content:encoded><![CDATA[오는 5월 14일 개막하는 제77회 칸 국제영화제(이하 칸 영화제)가 한 달여 앞으로 다가왔다. 한국 영화는 2010년대 들어 거의 매년 빠짐없이 경쟁 부문과 그 밖의 섹션에 초청작을 배출해 왔으며, 올해도 부문에]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['이웃집 토토로' '인셉션' '주라기 공원'…서울시향 '퇴근길 토크 콘서트' (네이버TV연예 ─ 영화)]]></title>
@@ -1279,11 +1286,102 @@
             <content:encoded><![CDATA[이와야키 히토시 작가의 동명 만화 「기생수」를 영화화 한 &lt;기생수 파트1&gt;, &lt;기생수 파트2&gt;가 10주년을 기념하여 극장에서 재개봉한다. , &lt;기생수 파트2&gt;는 고교생 ‘신이치’와 그의 오른손을 차지한 기생생물 ‘오]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['매드 맥스'부터 '조커'까지…애타게 기다린 속편이 온다 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014614945</link>
-            <guid>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014614945</guid>
-            <pubDate>Fri, 05 Apr 2024 23:02:25 GMT</pubDate>
-            <content:encoded><![CDATA['퓨리오사' 내달 개봉…조지 밀러 감독 14∼15일 방한 사춘기 라일리 그린 '인사이드 아웃 2'…'조커 2'엔 할리퀸 등장 영화 팬들이 몇 년간 애타게 기다려온 할리우드 흥행작의 속편들이 잇따라 극장에 걸린다. 본]]></content:encoded>
+            <title><![CDATA[‘먹보형2’ 월드스타 김선호-亞영웅 렉의 만남 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000954173</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000954173</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[김준현-문세윤-김선호가 태국 코끼리와 교감하며 생애 둘도 없을 뭉클한 순간을 경험한다. 8일(월) 오후 8시 30분 방송하는 SBS Plus·E채널 공동 제작 예능 ‘먹고 보는 형제들2’(이하 ‘먹보형2’) 3회에서]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[피원하모니 기호 ‘여심 꿰뚫는 눈맞춤’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840996</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840996</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[P1Harmony(피원하모니) 멤버 지웅, 종섭, 인탁, 소울, 기호, 테오가 4월 6일 오후 서울 강서구 방화동 김포국제공항 국제선을 통해 P1harmony 1st FANMEETING ‘JUMP vs JUMP’ I]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[피원하모니 테오 ‘시선 빼앗는 멋쁨’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840995</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840995</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[P1Harmony(피원하모니) 멤버 지웅, 종섭, 인탁, 소울, 기호, 테오가 4월 6일 오후 서울 강서구 방화동 김포국제공항 국제선을 통해 P1harmony 1st FANMEETING ‘JUMP vs JUMP’ I]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[피원하모니 소울 ‘독보적인 매력’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840994</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840994</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[P1Harmony(피원하모니) 멤버 지웅, 종섭, 인탁, 소울, 기호, 테오가 4월 6일 오후 서울 강서구 방화동 김포국제공항 국제선을 통해 P1harmony 1st FANMEETING ‘JUMP vs JUMP’ I]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[피원하모니 종섭 ‘눈부신 백금발 멋짐’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840993</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840993</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[P1Harmony(피원하모니) 멤버 지웅, 종섭, 인탁, 소울, 기호, 테오가 4월 6일 오후 서울 강서구 방화동 김포국제공항 국제선을 통해 P1harmony 1st FANMEETING ‘JUMP vs JUMP’ I]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[피원하모니 지웅 ‘상큼한 오렌지 헤어’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840992</link>
+            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840992</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[P1Harmony(피원하모니) 멤버 지웅, 종섭, 인탁, 소울, 기호, 테오가 4월 6일 오후 서울 강서구 방화동 김포국제공항 국제선을 통해 P1harmony 1st FANMEETING ‘JUMP vs JUMP’ I]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[편성만 수차례…2% 시청률 전전하던 '슈돌', 최민환→비와이 KBS 승부수 통할까[TEN초점] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000656927</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000656927</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[매주 화요일에 방송되던 KBS2 육아 관찰 예능 프로그램 '슈퍼맨이 돌아왔다'(이하 '슈돌')이 2년여만의 일요일로 편성을 바꾸고 새로운 출연진을 투입한다. 2%대 시청률을 반등시키려는 의도지만 전망이 마냥 밝지 않]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘7인의 부활’ 황정음↔이유비 복수, 피는 피를 부른다[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000954172</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000954172</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[‘7인의 부활’ 엄기준의 악랄한 반격이 충격을 안겼다. 지난 6일 방송된 SBS 금토드라마 ‘7인의 부활’(연출 오준혁·오송희, 극본 김순옥, 제작 초록뱀미디어·스튜디오S) 4회에서는 매튜 리(=심준석/엄기준 분)와]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['이혼' 선우은숙, 유영재 언급 無…'동치미'서 리액션만 했다 [엑's 이슈] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001711595</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001711595</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[두 번째 이혼을 알린 배우 선우은숙이 '동치미'에 출연했으나, 이혼을 언급하지 않았다. 선우은숙은 5일 소속사 스타잇엔터테인먼트를 통해 아나운서 유영재와의 이혼을 알렸다. 소속사는 "선우은숙과 유영재가 협의 이혼했다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘독박투어2’ 유세윤, 천년고도 경주서 3독 쓴맛[간밤TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=144&amp;aid=0000954171</link>
+            <guid>https://entertain.naver.com/now/read?oid=144&amp;aid=0000954171</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[‘독박즈’가 처음으로 국내 여행에 나선 가운데, 유세윤이 경주에서의 첫날부터 3독을 달성해 쓴맛을 봤다. 지난 6일 방송된 채널S ‘니돈내산 독박투어2’(채널S·SK브로드밴드 공동 제작) 14회에서는 ‘개그맨 찐친’]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["약쟁이→이 새X"…채정안, 한유주 벗어던진 파격 멘트(전참시)[전일야화] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001711594</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001711594</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[배우 채정안이 소탈한 매력을 드러냈다. 6일 방송된 MBC '전지적 참견 시점'(이하 '전참시')에는 채정안이 출연해 여전히 아름다운 일상을 공개했다. 이날 채정안은 오프닝부터 자신의 히트곡 '무정'과 '편지'에 맞]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['연매출 100억 CEO' 김준희 "빚 독촉에 극단적 생각도" (살림남2)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001711592</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001711592</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[가수 출신 CEO 김준희의 근황이 공개됐다. 6일 방송된 KBS 2TV '살림하는 남자들2'에서는 최경환의 아내 박여원이 피팅모델 경험을 바탕으로 의류 사업을 하고 싶다는 바람을 드러냈다. 이에 김지혜는 박여원에게]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['불후' 최수종, 父 생각에 눈물..'초혼' 재해석 손준호X김소현 우승[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003226637</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003226637</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA['불후의 명곡'에 손준호X김소현이 최수종의 눈물샘을 자극하며 우승 트로피를 품에 안았다. 최수종은 이 무대에 돌아가신 아버지를 떠올리며 눈물을 쏟았다. 지난 6일 방송된 KBS 2TV '불후의 명곡' 652회는 닐슨]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[최민환, 전처 율희에 솔직한 속마음 "제가 못하는 부분을 많이 해줘"(슈돌) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=477&amp;aid=0000483242</link>
+            <guid>https://entertain.naver.com/now/read?oid=477&amp;aid=0000483242</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[KBS2 '슈퍼맨이 돌아왔다' 최민환이 삼남매 재율 아윤 아린을 향한 애틋한 속마음을 고백해 눈길을 끈다. 2013년 첫 방송된 이래 10년간 국민의 사랑을 받고 있는 '슈퍼맨이 돌아왔다'(이하 '슈돌')는 추성훈과]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["거의 수하였다" 이이경 폭로에…이동휘 "과장 심해" 발끈 (놀뭐)[전일야화] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
@@ -1363,102 +1461,102 @@
             <content:encoded><![CDATA[트로트 가수 박서진이 효자의 면모를 드러냈다. 4월 6일 방송된 KBS 2TV 예능 '살림하는 남자들 시즌2'(이하 '살림남2') 340회에서는 많은 어려움을 이겨낸 박서진 가족이 13년 만에 특별한 가족 나들이에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빚 7억 박여원, 64평 집 내놓은 ♥최경환에 분노 “좁혀가면 자녀 상처받아”(살림남2) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840988</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840988</guid>
-            <pubDate>Sat, 06 Apr 2024 22:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[전 야구선수 최경환이 독단적으로 집을 부동산에 내놓자 아내 박여원이 분노했다. 4월 6일 방송된 KBS 2TV 예능 '살림하는 남자들 시즌2'(이하 '살림남2') 340회에서는 최경환, 박여원이 경제적 문제로 부부싸]]></content:encoded>
+            <title><![CDATA[[종합] 톱배우 임수향, 강성민 유혹…지현우와 설렘 포옹('미녀와 순정남') (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000656928</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000656928</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[임수향이 지현우에 대한 과거 기억을 떠올리기 시작했다. 6일 방송된 KBS2 주말드라마 '미녀와 순정남' 5회에서는 드라마 촬영장에서 계속 엮이게 된 톱배우 박도라(임수향 역)와 드라마 PD 고필승(지현우 역)의 이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[46세 이태곤 “결혼 늦은듯 맘에 드는 女 어려서 포기” 정력은 자신(살림남2)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840987</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840987</guid>
-            <pubDate>Sat, 06 Apr 2024 22:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이태곤이 결혼은 자신 없어 하면서도 2세를 갖기 위한 정력엔 자신감을 드러냈다. 4월 6일 방송된 KBS 2TV 예능 '살림하는 남자들 시즌2'(이하 '살림남2') 340회에서는 이태곤이 절친 박정철을 만났다.]]></content:encoded>
+            <title><![CDATA['미녀와 순정남' 임수향-지현우, 설레는 포옹 엔딩[종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003226642</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003226642</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA['미녀와 순정남'의 임수향이 지현우에 대한 과거 기억을 떠올리기 시작했다. 지난 6일 방송된 KBS 2TV 주말드라마 '미녀와 순정남'(극본 김사경, 연출 홍석구·홍은미, 제작 래몽래인) 5회에서는 드라마 촬영장에서]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[강남 CEO 이태곤 외제차로 출근, 활동중단에 작년 매출 뚝 심란(살림남2)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840986</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840986</guid>
-            <pubDate>Sat, 06 Apr 2024 22:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[CEO로 변신한 배우 이태곤이 떨어진 매출을 보고받고는 활발한 방송 활동을 다짐했다. 4월 6일 방송된 KBS 2TV 예능 '살림하는 남자들 시즌2'(이하 '살림남2') 340회에서는 이태곤의 CEO 일상이 공개됐다]]></content:encoded>
+            <title><![CDATA[[종합] 김남주, 아들 살해범=박혁권 정체 알았다…차은우 패닉('원더풀 월드') (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000656925</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000656925</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[김남주와 차은우가 참혹했던 그날의 모든 진실과 함께 천인 공노할 박혁권의 범행을 모두 알아차렸다. 6일 방송된 MBC 금토드라마 '원더풀 월드' 12회에서는 수현(김남주 역)과 선율(차은우 역)이 건우(이준 역)와]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유부남 김용명-원지, 단둘인데 케냐 호텔 한 침대 “그런 관계 아냐”(지구마불)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840985</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840985</guid>
-            <pubDate>Sat, 06 Apr 2024 22:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[김용명, 원지가 당혹스러운 상황을 마주했다. 4월 6일 방송된 ENA ‘지구마불 세계여행2’에서는 여행 크리에이터 3대장 빠니보틀, 원지, 곽튜브의 시즌2 여행이 계속됐다. 세 사람은 각각 공명, 김용명, 박준형과]]></content:encoded>
+            <title><![CDATA[이유비, 이정신과 약혼..황정음에 복수다짐(‘7인의부활’)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0005053042</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0005053042</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA['7인의 부활’ 엄기준의 악랄한 반격이 충격을 안겼다. 지난 6일 방송된 SBS 금토드라마 ‘7인의 부활’(연출 오준혁·오송희, 극본 김순옥) 4회에서는 매튜 리(=심준석/엄기준 분)와 민도혁(이준 분)의 한층 팽팽]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빠니보틀, 충격 소매치기 실제상황 찍혔다 “따라오고 침 뱉고 순식간에”(지구마불)[어제TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840984</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840984</guid>
-            <pubDate>Sat, 06 Apr 2024 22:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[빠니보틀이 소매치기를 당했다. 4월 6일 방송된 ENA ‘지구마불 세계여행2’에서는 여행 크리에이터 3대장 빠니보틀, 원지, 곽튜브의 시즌2 여행이 계속됐다. 세 사람은 각각 공명, 김용명, 박준형과 함께 한 여행에]]></content:encoded>
+            <title><![CDATA[지현우, 끼 부리는 임수향에 “진짜 가관.. 맛 간 듯” 질투 작렬(미녀와 순정남)[어저께TV] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0005053041</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0005053041</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA['미녀와 순정남' 지현우가 위기에 처한 임수향을 도와주며 든든한 모습을 보였다. 지난 6일 방송된 KBS 2TV 주말드라마 ‘미녀와 순정남’에서는 박도라(임수향)와 고필승(지현우)이 한층 가까워지는 모습이 그려졌다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김병지 “19살 취업 후 부모님 생활비 드려, 15년째 月250” (동치미)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840977</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840977</guid>
-            <pubDate>Sat, 06 Apr 2024 22:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔 유경상 yooks@ 김병지가 19살 이후로 부모님 생활비를 드린다고 말했다. 4월 6일 방송된 MBN ‘속풀이쇼 동치미’에서는 전 축구선수 김병지가 부모님께 드리는 생활비를 밝혔다. 김병지는 “저하고 누나 형]]></content:encoded>
+            <title><![CDATA[차은우, 母가 준 목걸이에 증거 발견…"김남주 아들, 박혁권이 살해" (‘원더풀 월드’) [어저께TV] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0005053036</link>
+            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0005053036</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA['원더풀 월드’ 차은우와 김남주가 박혁권의 실체를 밝히는 모습이 그려졌다. 6일 오후 방송된 MBC 금토드라마 ‘원더풀 월드’에서는 수현(김남주 분)이 아들의 죽음이 김준(박혁권 분)의 짓임을 알고 오열했다. 수호(]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[하석주 “고부갈등 탓 母 졸도, 종교문제 장롱 부숴 해결” (동치미)[어제TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840976</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840976</guid>
-            <pubDate>Sat, 06 Apr 2024 22:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔 유경상 yooks@ 하석주가 고부갈등에 장롱을 부순 사연을 털어놨다. 4월 6일 방송된 MBN ‘속풀이쇼 동치미’에서는 전 축구선수 하석주가 심각했던 고부갈등을 고백했다. 하석주는 “종교적인 갈등이 그렇게 힘]]></content:encoded>
+            <title><![CDATA[[스브스夜] '그알' 합천 시신유기 사건…"돌출된 입과 발달된 아래턱이 특징" 얼굴 복원 사진 공개 '제보 요청' (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=416&amp;aid=0000304722</link>
+            <guid>https://entertain.naver.com/now/read?oid=416&amp;aid=0000304722</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[쌀 포대에 싸인 백골은 누구인가. 6일 방송된 '그것이 알고 싶다'(이하 '그알')에서는 '쌀 포대와 사라진 뼛조각'이라는 부제로 합천 시신유기 사건을 추적했다. 지난 2018년 1월 12일, 경남 합천군의 작은 마]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이주화 “친정부모 16년 모셔, 3살 연하 남편 너무 고마워” (동치미)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840975</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840975</guid>
-            <pubDate>Sat, 06 Apr 2024 22:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔 유경상 yooks@ 3살 연하 남편과 결혼 19년차 이주화가 남다른 고마움을 전했다. 4월 6일 방송된 MBN ‘속풀이쇼 동치미’에서 배우 이주화는 “여보, 친정 부모님 내가 끝까지 모실 거니까 그런 줄 알아]]></content:encoded>
+            <title><![CDATA['원더풀 월드' 김남주-차은우, 그날 진실 알았다..패닉 엔딩 [종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003226639</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003226639</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA['원더풀 월드' 김남주와 차은우가 참혹했던 그날의 모든 진실과 함께 천인 공노할 박혁권의 범행을 모두 알아차렸다. 지난 6일 방송된 MBC 금토드라마 '원더풀 월드'(기획 권성창, 연출 이승영·정상희, 극본 김지은,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘1박 2일’ 진화하는 복불복…경매로 펼쳐진 저녁 식사 [TV 엿보기] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=119&amp;aid=0002817947</link>
-            <guid>https://entertain.naver.com/now/read?oid=119&amp;aid=0002817947</guid>
-            <pubDate>Sat, 06 Apr 2024 21:02:26 GMT</pubDate>
-            <content:encoded><![CDATA[7일 방송되는 KBS2 예능 프로그램 ‘1박 2일 시즌4’(이하 ‘1박 2일’)에서는 경상북도 고령군에서 펼쳐지는 ‘가야 할 때가 언제인가를 분명히 알고 가는 대가야 여행’ 두 번째 이야기가 그려진다. 이번 여행의]]></content:encoded>
+            <title><![CDATA[[종합] 이유비, 이정신과 속전속결 약혼…엄기준 악랄한 반격 '충격'('7인의 부활') (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=312&amp;aid=0000656924</link>
+            <guid>https://entertain.naver.com/now/read?oid=312&amp;aid=0000656924</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[엄기준의 악랄한 반격이 충격을 안겼다. 6일 방송된 금토드라마 '7인의 부활' 4회에서는 매튜 리(=심준석/엄기준 역)와 민도혁(이준 역)의 한층 팽팽해진 대결이 펼쳐졌다. 민도혁은 이휘소의 가면을 쓰고 매튜 리를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[조나단 "약속 못 지켜 죄송"…한국사 1급 따기 실패 [종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001711574</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001711574</guid>
-            <pubDate>Sat, 06 Apr 2024 21:02:26 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 조나단이 한국사 시험에서 72점이라는 높은 점수를 받았다. 5일 조나단 유튜브 채널에는 ''한국사 시험 중독 조나단' 결과 보니 충격적...'이란 제목의 영상이 공개됐다. 최근 한국사능력검정시험을 치러 2급]]></content:encoded>
+            <title><![CDATA[김수현♥김지원, 이혼해도 애틋한데…박성훈 집착 어쩌나(눈물의 여왕)[전일야화] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001711591</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001711591</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[김수현과 김지원과 이혼 후에도 여전한 애틋함을 보이는 가운데 박성훈이 김지원의 병명을 알아내고 집착을 시작했다. 지난 6일 방송된 tvN 토일드라마 '눈물의 여왕'에서는 백현우(김수현 분)와 홍해인(김지원)이 이혼]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[역시 인연…'눈물의 여왕' 김지원, 김수현 '첫사랑'이었다 [RE:TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0007464221</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0007464221</guid>
-            <pubDate>Sat, 06 Apr 2024 21:02:26 GMT</pubDate>
-            <content:encoded><![CDATA['눈물의 여왕' 김지원이 김수현의 고등학교 시절 첫사랑이 자신이었다는 것을 알게 됐다. 6일 오후 방송된 tvN 토일드라마 '눈물의 여왕'(극본 박지은/연출 장영우, 김희원) 9회에서는 홍해인(김지원 분)과 퀸즈 일]]></content:encoded>
+            <title><![CDATA[김남주X차은우, 교통사고 진짜 범인=박혁권 알았다 (원더풀월드)[전일야화] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001711589</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001711589</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[김남주와 차은우가 사고 날의 영상 증거를 찾았다. 6일 방송된 MBC 금토 드라마 '원더풀 월드'에서는 은수현(김남주 분)과 권선율(차은우)이 교통사고의 진실을 알게되는 장면이 전파를 탔다. 이날 김은민(강명주) 사]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['놀뭐' 이제훈, 유재석도 무장해제 시킨 '하트 전도사' 매력 [RE:TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=421&amp;aid=0007464211</link>
-            <guid>https://entertain.naver.com/now/read?oid=421&amp;aid=0007464211</guid>
-            <pubDate>Sat, 06 Apr 2024 21:02:26 GMT</pubDate>
-            <content:encoded><![CDATA['놀면 뭐하니?'에 출연한 이제훈이 애교가 철철 흘러넘치는 하트 전도사로 변신해 유재석도 웃게 했다. 6일 오후 방송된 MBC '놀면 뭐하니?'에는 새 드라마 '수사반장 1958'의 두 주역 이제훈과 이동휘가 출연했]]></content:encoded>
+            <title><![CDATA['7인의 부활' 엄기준, 악랄 반격→이유비, 또 다른 복수 다짐[종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003226636</link>
+            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003226636</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA['7인의 부활' 엄기준의 악랄한 반격이 충격을 안겼다. 지난 6일 방송된 SBS 금토드라마 '7인의 부활'(연출 오준혁·오송희, 극본 김순옥, 제작 초록뱀미디어·스튜디오S) 4회에서는 매튜 리(=심준석/엄기준 분)와]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“남들 시선보다 행복 먼저” 선우은숙 최정원→황정음, 이혼으로 물든 연예계(종합) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840974</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840974</guid>
-            <pubDate>Sat, 06 Apr 2024 21:02:26 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 연예계에 끊임없이 이혼 소식이 들리고 있다. 최근에도 황정음, 이윤진, 서인영, 서유리, 선우은숙, 최정원 등 스타들이 파경을 맞았다. 4월 5일에는 두 배우의 이혼 소식이 전해졌다. 2007년 배우 이영]]></content:encoded>
+            <title><![CDATA['7인의 부활' 독기 품은 이유비 "내 인생, 황정음 죽이는데 쓸거야" [전일야화] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001711587</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001711587</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA['7인의 부활'에서 이유비가 황정음을 향한 복수를 다짐했다. 6일 방송된 SBS 금토드라마 '7인의 부활' 4회에서는 엄마 윤지숙(김현 분)을 잃고 독기를 제대로 품은 한모네(이유비)의 모습이 그려졌다. 이날 방송에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이제훈 얼마나 잘 생겼으면 “많은 연예인 중 실물 1위”(놀뭐)[결정적장면] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840973</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840973</guid>
-            <pubDate>Sat, 06 Apr 2024 21:02:26 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이제훈이 고깃집 이모님 픽 실물 1위 연예인으로 뽑혔다. 4월 6일 방송된 MBC 예능 '놀면 뭐하니?'(이하 '놀뭐') 228회에서는 이제훈, 이동휘가 게스트로 출연했다. 이날 이제훈의 등장에 멤버들은 "잘생]]></content:encoded>
+            <title><![CDATA['하이드' 이보영, ♥이무생 믿었지만 살인자였다 '충격' [전일야화] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001711586</link>
+            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001711586</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:20 GMT</pubDate>
+            <content:encoded><![CDATA['하이드' 이보영이 이무생을 살리기 위해 이청아와 거래했다. 6일 방송된 JTBC 토일드라마 '하이드' 5회에서는 나문영(이보영 분)이 남편 차성재(이무생)의 범죄 행각을 알게 된 모습이 그려졌다. 이날 하연주(이청]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[스브스夜] '7인의 부활' 이유비, "앞으로 내 인생은 황정음 널 죽이는 데 쓸 것"…친모 사망에 '복수 다짐' (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
@@ -1538,102 +1636,102 @@
             <content:encoded><![CDATA[뉴스엔 유경상 yooks@ 윤보미가 김지원과 의리를 지켰다. 4월 6일 방송된 tvN 토일드라마 ‘눈물의 여왕’ 9회(극본 박지은/연출 장영우 김희원)에서 나비서(윤보미 분)는 아무도 모르게 홍해인(김지원 분)과 내]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박성훈, 김지원 뇌종양 알고 母이미숙 뒤통수 김갑수 빼돌려 (눈물의 여왕)[어제TV] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840978</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840978</guid>
-            <pubDate>Sat, 06 Apr 2024 22:02:22 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔 유경상 yooks@ 박성훈이 김지원의 뇌종양을 알고 모친 이미숙과 분열했다. 4월 6일 방송된 tvN 토일드라마 ‘눈물의 여왕’ 9회(극본 박지은/연출 장영우 김희원)에서 윤은성(박성훈 분)은 홍해인(김지원]]></content:encoded>
+            <title><![CDATA[톱배우 임수향, 강성민 유혹…지현우와 설렘 포옹 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20240407080301859</link>
+            <guid>https://v.daum.net/v/20240407080301859</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:48 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=강민경 기자] 임수향이 지현우에 대한 과거 기억을 떠올리기 시작했다. 6일 방송된 KBS2 주말드라마 '미녀와 순정남' 5회에서는 드라마 촬영장에서 계속 엮이게 된 톱배우 박도라(임수향 역)와 드라마 PD 고필승(지현우 역)의 이야기가 그려졌다. 이날 방송에서 필승은 어디서 본적 없냐는 도라의 질문에 잠시 당황해했지만 기지를 발휘해 상황을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['눈물의 여왕' 김수현, 高시절 첫사랑=김지원 "운명이네"[★밤TV] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003226627</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003226627</guid>
-            <pubDate>Sat, 06 Apr 2024 21:02:32 GMT</pubDate>
-            <content:encoded><![CDATA['눈물의 여왕' 배우 김수현의 첫 사랑이 알고 보니 김지원이었다. 6일 방송된 tvN 드라마 '눈물의 여왕'에서는 백현우(김수현 분)이 과거 첫사랑을 추억했다. 백현우의 집에서 머물게 된 홍해인(김지원 분)은 그의]]></content:encoded>
+            <title><![CDATA['시청률 퀸' 신혜선, 영화에서는 연속 참패…기대와 우려 속 스크린 컴백 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20240407080107837</link>
+            <guid>https://v.daum.net/v/20240407080107837</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:48 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김서윤 기자]드라마계에서는 일명 '시청률 퀸'이라고 불리는 신혜선. 다만 해당 수식어가 영화에서는 통하지 않았다. 아이러니하게도 그가 주연을 맡은 영화 모두 부진한 성적을 기록했다. 오는 5월 극장가로 컴백하는 신혜선이 기대와 우려를 동시에 받고 있는 이유다. 신혜선은 올해 1월 종영한 JTBC 드라마 '웰컴투 삼달리' 이후 약 4개월 만에 스]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[차은우, 母 목걸이 속 증거 발견→김남주, 범인=박혁권인 것 알았다 (원더풀월드)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001711560</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001711560</guid>
-            <pubDate>Sat, 06 Apr 2024 15:02:30 GMT</pubDate>
-            <content:encoded><![CDATA[김남주와 차은우가 사고 날의 핵심 증거를 찾았다. 6일 방송된 MBC 금토 드라마 '원더풀 월드'에서는 은수현(김남주 분)과 권선율(차은우)이 건우(이준) 사고 날의 모든 진실을 알게되는 장면이 전파를 탔다. 이날]]></content:encoded>
+            <title><![CDATA['미녀와 순정남' 임수향-지현우, 설레는 포옹 엔딩 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20240407075445763</link>
+            <guid>https://v.daum.net/v/20240407075445763</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:48 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 이경호 기자] KBS 2TV 주말드라마 '미녀와 순정남'./사진=KBS 2TV 주말드라마 '미녀와 순정남' 방송 화면 캡처'미녀와 순정남'의 임수향이 지현우에 대한 과거 기억을 떠올리기 시작했다. 지난 6일 방송된 KBS 2TV 주말드라마 '미녀와 순정남'(극본 김사경, 연출 홍석구·홍은미, 제작 래몽래인) 5회에서는 드라마 촬영장에서 계속]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["나도 모른다" 김수현, '이혼' 김지원 거처 함구··박성훈, 집착 시작 ('눈물의여왕') [종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0005052996</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0005052996</guid>
-            <pubDate>Sat, 06 Apr 2024 15:02:30 GMT</pubDate>
-            <content:encoded><![CDATA['눈물의 여왕' 김수현과 김지원이 각각 갈등을 맞닥뜨렸다. 6일 방송된 tvN 토일드라마 ‘눈물의 여왕’(극본 박지은, 연출 장영우,김희원)에서는 현우(김수현 분)와 해인(김지원 분)이 각각 위기를 맞는 모습이 그려]]></content:encoded>
+            <title><![CDATA[김남주, 아들 살해범=박혁권 정체 알았다…차은우 패닉 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20240407075003731</link>
+            <guid>https://v.daum.net/v/20240407075003731</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:48 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=강민경 기자] 김남주와 차은우가 참혹했던 그날의 모든 진실과 함께 천인&nbsp;공노할 박혁권의 범행을 모두 알아차렸다. 6일 방송된 MBC 금토드라마 '원더풀 월드' 12회에서는 수현(김남주 역)과 선율(차은우 역)이 건우(이준&nbsp;역)와 은민(강명주&nbsp;역)의 죽음 모두의 배후로 추정되는 김준(박혁권&nbsp;분)을 파헤치기 위해 힘을 모으는 모습이 그려졌다. 김]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['7인의 부활' 죽다 살아난 이유비, 이정신과 약혼 [종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001711556</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001711556</guid>
-            <pubDate>Sat, 06 Apr 2024 15:02:30 GMT</pubDate>
-            <content:encoded><![CDATA['7인의 부활'에서 이유비가 이정신과 약혼했다. 6일 방송된 SBS 금토드라마 '7인의 부활' 4회에서는 매튜 리(엄기준 분)와 금라희(황정음)가 한모네(이유비)의 엄마 윤지숙(김현)까지 죽여버리는 모습이 그려졌다.]]></content:encoded>
+            <title><![CDATA[이유비, 이정신과 약혼..황정음에 복수다짐 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20240407074516696</link>
+            <guid>https://v.daum.net/v/20240407074516696</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:48 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=강서정 기자] '7인의 부활’&nbsp;엄기준의 악랄한 반격이 충격을 안겼다. 지난&nbsp;6일 방송된&nbsp;SBS&nbsp;금토드라마&nbsp;‘7인의 부활’(연출 오준혁·오송희,&nbsp;극본 김순옥) 4회에서는 매튜 리(=심준석/엄기준 분)와 민도혁(이준 분)의 한층 팽팽해진 대결이 펼쳐졌다.&nbsp;민도혁은&nbsp;‘이휘소’의 가면을 쓰고 매튜 리를 흔들었고,&nbsp;또다시 살인을 저지른 매튜 리의 악행]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘원더풀 월드’ 김남주, 아들 죽인 ‘진짜 범인’ 알았다! “박혁권의 음주운전!”(종합) (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=408&amp;aid=0000219841</link>
-            <guid>https://entertain.naver.com/now/read?oid=408&amp;aid=0000219841</guid>
-            <pubDate>Sat, 06 Apr 2024 15:02:30 GMT</pubDate>
-            <content:encoded><![CDATA[김남주가 아들을 죽인 진짜 범인이 누군지 알았다. 4월 6일 방송된 MBC 금토드라마 '원더풀 월드'(기획 권성창/연출 이승영 정상희/극본 김지은/제작 삼화네트웍스)에서 은수현(김남주)과 권선율(차은우)은 가족의 사]]></content:encoded>
+            <title><![CDATA[지현우, 끼 부리는 임수향에 “진짜 가관.. 맛 간 듯” 질투 작렬 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20240407074320678</link>
+            <guid>https://v.daum.net/v/20240407074320678</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:48 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=임혜영 기자] '미녀와 순정남' 지현우가 위기에 처한 임수향을&nbsp;도와주며 든든한 모습을 보였다. 지난 6일 방송된 KBS 2TV 주말드라마 ‘미녀와 순정남’에서는 박도라(임수향)와 고필승(지현우)이 한층 가까워지는 모습이 그려졌다. 드라마 '직진멜로' 회식에서 박도라는 비비(원유진)에게 복수하기 위해 차봉수(강성민)의 옆에 앉아 적극적으로 대시]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["子죽인 범인=박혁권이었다"…김남주, 사고 음성 듣고 '오열' (‘원더풀 월드’) [Oh!쎈포인트] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0005052995</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0005052995</guid>
-            <pubDate>Sat, 06 Apr 2024 15:02:30 GMT</pubDate>
-            <content:encoded><![CDATA['원더풀 월드’ 김남주가 아들의 죽음의 비밀을 알고 오열하는 모습이 그려졌다. 6일 오후 방송된 MBC 금토드라마 ‘원더풀 월드’에서는 수현(김남주 분)이 아들을 죽인 범인이 김준(박혁권)임을 알게됐다. 수호(김강우]]></content:encoded>
+            <title><![CDATA[차은우, 母가 준 목걸이에 증거 발견…"김남주 아들, 박혁권이 살해" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20240407073031618</link>
+            <guid>https://v.daum.net/v/20240407073031618</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:48 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박근희 기자] '원더풀 월드’ 차은우와 김남주가 박혁권의 실체를 밝히는&nbsp;모습이 그려졌다. 6일 오후 방송된 MBC 금토드라마 ‘원더풀 월드’에서는 수현(김남주 분)이 아들의 죽음이 김준(박혁권 분)의 짓임을 알고 오열했다. 수호(김강우 분)가&nbsp;김준을 은밀하게 만나는 모습이 그려졌다. 김준은 “나는 적이래도 필요하면 곁에 두고, 쓸모 없으면 내]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["살인자 아내 된 기분 어때?"…'하이드' 이보영, 이무생 거짓말에 속아 '충격' [종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=311&amp;aid=0001711553</link>
-            <guid>https://entertain.naver.com/now/read?oid=311&amp;aid=0001711553</guid>
-            <pubDate>Sat, 06 Apr 2024 15:02:30 GMT</pubDate>
-            <content:encoded><![CDATA['하이드' 이보영이 이무생의 범죄 행각을 알았다. 6일 방송된 JTBC 토일드라마 '하이드' 5회에서는 나문영(이보영 분)이 차성재(이무생)가 살인을 저질렀다는 사실을 알게 된 모습이 그려졌다. 이날 하연주(이청아)]]></content:encoded>
+            <title><![CDATA['원더풀 월드' 김남주-차은우, 그날 진실 알았다..패닉 엔딩 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20240407072858596</link>
+            <guid>https://v.daum.net/v/20240407072858596</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:48 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 이경호 기자] MBC 금토드라마 '원더풀 월드'./사진제공=MBC 금토드라마 '원더풀 월드' '원더풀 월드' 김남주와 차은우가 참혹했던 그날의 모든 진실과 함께 천인 공노할 박혁권의 범행을 모두 알아차렸다. 지난 6일 방송된 MBC 금토드라마 '원더풀 월드'(기획 권성창, 연출 이승영·정상희, 극본 김지은, 제작 삼화네트웍스) 12회에서는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[미녀와 순정남] 넘어지는 임수향을 잡아주는 지현우...‘첫사랑’ 떠올린 임수향 “왜 그 오빠가 생각나지?” (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=438&amp;aid=0000064029</link>
-            <guid>https://entertain.naver.com/now/read?oid=438&amp;aid=0000064029</guid>
-            <pubDate>Sat, 06 Apr 2024 15:02:30 GMT</pubDate>
-            <content:encoded><![CDATA[임수향이 지현우를 보고 첫사랑을 떠올렸다. 6일 방송된 KBS2TV 새 주말드라마 ‘미녀와 순정남’(극본 김사경, 연출 홍석구, 제작 래몽래인)은 하루아침에 밑바닥으로 추락하게 된 톱배우와 그녀를 사랑해 다시 일으켜]]></content:encoded>
+            <title><![CDATA[이유비, 이정신과 속전속결 약혼…엄기준 악랄한 반격 '충격' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20240407072708590</link>
+            <guid>https://v.daum.net/v/20240407072708590</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:48 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=강민경 기자] 엄기준의 악랄한 반격이 충격을 안겼다. 6일 방송된 금토드라마 '7인의 부활' 4회에서는 매튜 리(=심준석/엄기준 역)와 민도혁(이준 역)의 한층 팽팽해진 대결이 펼쳐졌다. 민도혁은 이휘소의 가면을 쓰고 매튜 리를 흔들었고, 또다시 살인을 저지른 매튜 리의 악행은 소름을 유발했다. 여기에 치밀한 계획으로 한모네(이유비 역)를 짓]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김지원, 뇌종양 3개월 알고 김수현 고향 찾아온 박성훈에 패닉 ‘눈물의 여왕’(종합) (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840931</link>
-            <guid>https://entertain.naver.com/now/read?oid=609&amp;aid=0000840931</guid>
-            <pubDate>Sat, 06 Apr 2024 15:02:30 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스엔 유경상 yooks@ 김지원이 김수현의 고향까지 찾아온 박성훈을 보고 경악했다. 4월 6일 방송된 tvN 토일드라마 ‘눈물의 여왕’ 9회(극본 박지은/연출 장영우 김희원)에서 백현우(김수현 분)는 제 고향으로]]></content:encoded>
+            <title><![CDATA[김수현♥김지원, 이혼해도 애틋한데…박성훈 집착 어쩌나 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20240407072002571</link>
+            <guid>https://v.daum.net/v/20240407072002571</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:48 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김미지 기자) 김수현과 김지원과 이혼 후에도 여전한 애틋함을 보이는 가운데 박성훈이 김지원의 병명을 알아내고 집착을 시작했다.&nbsp; 지난 6일 방송된 tvN 토일드라마 '눈물의 여왕'에서는 백현우(김수현 분)와 홍해인(김지원)이 이혼 후에도 백현우의 고향집에서 애틋한 정을 키워 나가는 모습이 담겼다.&nbsp; 이날 백현우는 갈 곳 잃은 퀸즈가 식구들을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[미녀와 순정남] 임수향-원유진-강성민, 삼각관계 소동...뺨부터 육두문자까지, 대 환장의 촬영 현장 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=438&amp;aid=0000064028</link>
-            <guid>https://entertain.naver.com/now/read?oid=438&amp;aid=0000064028</guid>
-            <pubDate>Sat, 06 Apr 2024 15:02:30 GMT</pubDate>
-            <content:encoded><![CDATA[임수향, 원유진, 강성민이 삼각관계 소동을 벌였다. 6일 방송된 KBS2TV 새 주말드라마 ‘미녀와 순정남’(극본 김사경, 연출 홍석구, 제작 래몽래인)은 하루아침에 밑바닥으로 추락하게 된 톱배우와 그녀를 사랑해 다]]></content:encoded>
+            <title><![CDATA[김남주X차은우, 교통사고 진짜 범인=박혁권 알았다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20240407071503548</link>
+            <guid>https://v.daum.net/v/20240407071503548</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:48 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김수아 기자) 김남주와 차은우가 사고 날의 영상 증거를 찾았다. 6일 방송된 MBC 금토 드라마 '원더풀 월드'에서는 은수현(김남주 분)과 권선율(차은우)이 교통사고의 진실을 알게되는 장면이 전파를 탔다. 이날 김은민(강명주) 사고의 자문을 구한 변호사를 찾아간 은수현은 건우 사건을 맡은 변호사들이 김준과 함께 일한다는 것을 알게 됐다. 강수]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[차은우母가 유언으로 남긴 태블릿, 김남주 죽은子의 소지품 '깜짝' (‘원더풀 월드’) [종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=109&amp;aid=0005052991</link>
-            <guid>https://entertain.naver.com/now/read?oid=109&amp;aid=0005052991</guid>
-            <pubDate>Sat, 06 Apr 2024 14:02:45 GMT</pubDate>
-            <content:encoded><![CDATA['원더풀 월드’ 동맹을 맺은 차은우와 김남주의 모습이 그려졌다. 6일 전파를 탄 MBC 금토드라마 ‘원더풀 월드’에서는 권선율(차은우 분)이 엄마가 남긴 유언을 언급했다. 수호를 찾은 수현은 “모두가 한통속이었어.]]></content:encoded>
+            <title><![CDATA['7인의 부활' 엄기준, 악랄 반격→이유비, 또 다른 복수 다짐 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20240407071129528</link>
+            <guid>https://v.daum.net/v/20240407071129528</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:48 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 이경호 기자] SBS 금토드라마 '7인의 부활'./사진=SBS '7인의 부활' 방송 캡처 '7인의 부활' 엄기준의 악랄한 반격이 충격을 안겼다. 지난 6일 방송된 SBS 금토드라마 '7인의 부활'(연출 오준혁·오송희, 극본 김순옥, 제작 초록뱀미디어·스튜디오S) 4회에서는 매튜 리(=심준석/엄기준 분)와 민도혁(이준 분)의 한층 팽팽해진 대]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[미녀와 순정남] 임수향과 원유진 사이에서 머리 뜯기는 지현우 “말로 하세요” (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=438&amp;aid=0000064027</link>
-            <guid>https://entertain.naver.com/now/read?oid=438&amp;aid=0000064027</guid>
-            <pubDate>Sat, 06 Apr 2024 14:02:45 GMT</pubDate>
-            <content:encoded><![CDATA[지현우가 임수향과 원유진 사이에서 곤혹을 치렀다. 6일 방송된 KBS2TV 새 주말드라마 ‘미녀와 순정남’(극본 김사경, 연출 홍석구, 제작 래몽래인)은 하루아침에 밑바닥으로 추락하게 된 톱배우와 그녀를 사랑해 다시]]></content:encoded>
+            <title><![CDATA['7인의 부활' 독기 품은 이유비 "내 인생, 황정음 죽이는데 쓸거야" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20240407071002503</link>
+            <guid>https://v.daum.net/v/20240407071002503</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:48 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 오수정 기자) '7인의 부활'에서 이유비가 황정음을 향한 복수를 다짐했다.&nbsp; 6일 방송된 SBS 금토드라마 '7인의 부활' 4회에서는 엄마 윤지숙(김현 분)을 잃고 독기를 제대로 품은 한모네(이유비)의 모습이 그려졌다.&nbsp; 이날 방송에서 매튜 리(엄기준)는 자신 앞에 나타난 이휘소(민영기)를 보고 깜짝 놀랐다. 매튜 리는 "지구상에 이휘소는 나]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['눈물의 여왕' 김수현 '습격'..박성훈, '시한부' 김지원 찾았다[★밤TView] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://entertain.naver.com/now/read?oid=108&amp;aid=0003226619</link>
-            <guid>https://entertain.naver.com/now/read?oid=108&amp;aid=0003226619</guid>
-            <pubDate>Sat, 06 Apr 2024 14:02:45 GMT</pubDate>
-            <content:encoded><![CDATA['눈물의 여왕' 배우 김수현이 습격 당한 가운데 박성훈이 김갑수를 빼돌리고 김지원을 찾아냈다. 6일 방송된 tvN 드라마 '눈물의 여왕'에서는 윤은성(박성훈 분)이 홍해인(김지원 분)의 시한부 판정을 알아내고 위치를]]></content:encoded>
+            <title><![CDATA['하이드' 이보영, ♥이무생 믿었지만 살인자였다 '충격' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20240407070502482</link>
+            <guid>https://v.daum.net/v/20240407070502482</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:48 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이이진 기자) '하이드' 이보영이 이무생을 살리기 위해 이청아와 거래했다. 6일 방송된 JTBC 토일드라마 '하이드' 5회에서는 나문영(이보영 분)이 남편 차성재(이무생)의 범죄 행각을 알게 된 모습이 그려졌다. 이날 하연주(이청아)는 "봄이 어머님께서 해주셔야 할 일이 있어요. 원래는 남편분 일인데 차변 지금 자살쇼 중이잖아요"라며 본색을]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['7인의 부활' 이유비, "앞으로 내 인생은 황정음 널 죽이는 데 쓸 것"…친모 사망에 '복수 다짐' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
@@ -1643,102 +1741,81 @@
             <content:encoded><![CDATA[[SBS연예뉴스 | 김효정 에디터] 이유비가 이정신과 약혼식을 올렸다. 6일 방송된 SBS 금토 드라마 '7인의 부활'에서는 친모 사망으로 금라희에 복수를 다짐하는 한모네의 모습이 그려졌다. 이날 방송에서 한모네의 친모는 한모네를 위해 그의 곁을 떠나기로 마음먹었다. 그리고 그는 마지막으로 시골에 내려가기 전 자식들의 얼굴을 보러 갔다. 하지만 한모네를 비]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["잘 헤어지는 게 목표" '시한부' 김지원, 김수현에 '또' 이별 예고 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20240407065423344</link>
-            <guid>https://v.daum.net/v/20240407065423344</guid>
-            <pubDate>Sat, 06 Apr 2024 22:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최지연 기자] '눈물의 여왕' 김지원이 목표를 세웠다.&nbsp; 6일 방송된 tvN 토일드라마 ‘눈물의 여왕’(극본 박지은, 연출 장영우,김희원)에서는 해인(김지원 분)이 현우(김수현 분)의 동네인 용두리로 피신한 가운데 그와 제대로 된 이별을 결심하는 모습이 그려졌다.&nbsp; 이날 그레이스 고(김주령 분)는 윤은성(박성훈 분), 모슬희(이미숙 분)의 지]]></content:encoded>
+            <title><![CDATA[편성만 수차례…2% 시청률 전전하던 '슈돌', 최민환→비와이 KBS 승부수 통할까 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240407080114840</link>
+            <guid>https://v.daum.net/v/20240407080114840</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:53 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=이소정 기자] 매주 화요일에 방송되던 KBS2 육아 관찰 예능 프로그램 '슈퍼맨이 돌아왔다'(이하 '슈돌')이 2년여만의 일요일로 편성을 바꾸고 새로운 출연진을 투입한다. 2%대 시청률을 반등시키려는 의도지만 전망이 마냥 밝지 않다. '슈돌'의 편성 변경은 이번이 처음이 아니기 때문이다. 저조한 시청률의 원인은 육아 예능에 대한 대중적 흥미도가]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["옛날 그 오빠 생각나"…'미녀와 순정남' 임수향, 첫사랑 지현우 알아볼까 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20240407065002327</link>
-            <guid>https://v.daum.net/v/20240407065002327</guid>
-            <pubDate>Sat, 06 Apr 2024 22:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 이이진 기자) '미녀와 순정남' 임수향이 어린 시절 첫사랑이었던 지현우를 알아볼까. 6일 방송된 KBS 2TV 주말드라마 '미녀와 순정남' 5회에서는 박도라(임수향 분)가 고필승(지현우)에게서 어린 시절 첫사랑이었던 고대충(문성현)을 떠올리는 모습이 그려졌다. 이날 박도라는 "혹시 우리 전에 어디서 본 적 있어요? 본 적 있죠"라며 물었고,]]></content:encoded>
+            <title><![CDATA["꼬붐아 노력할게!" 붐, 이런 모습 처음이야··아빠로 '레벨 업' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240407075017735</link>
+            <guid>https://v.daum.net/v/20240407075017735</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:53 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=최지연 기자] 방송인 붐이 2세 '꼬붐이'의 탄생을 자랑했다. 6일 방송된 tvN 예능프로그램 '놀라운 토요일'(이하 '놀토')에서는 '놀토 6주년 축제'로 진행된 가운데 붐이 2세 꼬붐이의 탯줄을 자르고 녹화에 참여해 환호를 받았다. 이날 붐은 뮨세윤이 지키는 레드카펫으로 달려왔다. 문세윤은 "나왔어요"라고 말하자&nbsp;붐은 "2.9kg로 공주님]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['7인의 부활' 이준, "모두 심지유의 얼굴 기억해 달라"…심지유 보호 위해 '가짜 영웅' 등극 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20240407063000170</link>
-            <guid>https://v.daum.net/v/20240407063000170</guid>
-            <pubDate>Sat, 06 Apr 2024 22:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[[SBS연예뉴스 | 김효정 에디터] 이준이 가짜 영웅이 되었다. 6일 방송된 SBS 금토 드라마 '7인의 부활'에서는 케이의 가짜 영웅 놀이에 맞선 민도혁의 모습이 그려졌다. 이날 방송에서 민도혁은 이휘소 얼굴을 하고 케이를 조롱했다. 케이와 금라희는 케이를 숨기기 위해 심준석에게 당한 척하기로 했다. 이에 케이와 금라희는 심준석을 잡으려다 놓쳤다고 했고,]]></content:encoded>
+            <title><![CDATA['놀뭐' 유재석, '호랑이 새끼' 하하 키웠다..행동 범위='손바닥 안' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240407074525699</link>
+            <guid>https://v.daum.net/v/20240407074525699</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:53 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=장우영 기자] ‘놀면 뭐하니?’ 유재석이 호랑이를 키운 걸까. 오랜 시간 호흡을 맞춘 하하가 유재석을 손바닥 안에 놓고 주물렀다. 6일 방송된 MBC ‘놀면 뭐하니?’에서는 새 금토드라마 ‘수사반장1958’ 주연배우 이제훈과 이동휘가 출연한 가운데 형사 1팀과 형사 2팀으로 나뉘어 서로가 숨긴 포상금을 찾기 위한 탐문 수사를 펼쳤다. 하하가]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[강성민 마늘 씹고 키스신에 임수향 따귀 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20240407060954052</link>
-            <guid>https://v.daum.net/v/20240407060954052</guid>
-            <pubDate>Sat, 06 Apr 2024 22:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[강성민이 임수향에게 키스신으로 복수하려 했다. 4월 6일 방송된 KBS 2TV 새 주말드라마 ‘미녀와 순정남’ 5회(극본 김사경/연출 홍석구)에서 박도라(임수향 분)는 원하던 대로 차봉수(강성민 분)와 조비비(원유진 분)를 갈라놨다. 박도라는 라이벌 조비비가 차봉수를 뺏길까봐 긴장해 자신에게 커피를 붓고 “네 엄마가 술 따라 배역 따낸 것 모르는 사람]]></content:encoded>
+            <title><![CDATA['이혼' 선우은숙, 유영재 언급 無…'동치미'서 리액션만 했다 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240407073503636</link>
+            <guid>https://v.daum.net/v/20240407073503636</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:53 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 두 번째 이혼을 알린 배우 선우은숙이 '동치미'에 출연했으나, 이혼을 언급하지 않았다.&nbsp; 선우은숙은 5일 소속사 스타잇엔터테인먼트를 통해 아나운서 유영재와의 이혼을 알렸다. 소속사는 "선우은숙과 유영재가 협의 이혼했다"면서 "사유는 성격 차이"라는 입장을 짧게 전했다.&nbsp; 이들은 지나 2022년 10월, 같은 종교를 두고 가까워져]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이영은 양대혁 술김에 하룻밤, 5천 다이아로 엮여 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20240407060943051</link>
-            <guid>https://v.daum.net/v/20240407060943051</guid>
-            <pubDate>Sat, 06 Apr 2024 22:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[이영은과 양대혁이 술김에 하룻밤을 보냈다. 4월 6일 방송된 KBS 2TV 새 주말드라마 ‘미녀와 순정남’ 5회(극본 김사경/연출 홍석구)에서 박도식(양대혁 분)과 고명동(이영은 분)은 다이아 반지 때문에 제대로 엮였다. 박도식은 연인에게 프러포즈하려 다이아 반지를 샀다가 차이고 한강으로 갔다. 박도식은 반지를 버리려 던졌고 그 반지가 고명동이 마시고]]></content:encoded>
+            <title><![CDATA[‘살림남2’ 이태곤, 박정철 딸 인형 비주얼에 ‘딸바보’ 예약 “나 닮은 딸 봤으면” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240407073219629</link>
+            <guid>https://v.daum.net/v/20240407073219629</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:53 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=임혜영 기자] 이태곤이 박정철의 딸을 보고 '딸바보'를 예약했다. 지난 6일 방송된 KBS 2TV '살림하는 남자들 시즌2'(이하 '살림남')에서는 이태곤이 박정철을 만나 속마음을 털어놓는 모습이 그려졌다. 20년차 배우 이태곤은 “호프집, 이삿짐센터, 공사장 알바도 했다. 스스로 돈을 벌고 싶었다. 자립심이 강했다”라며 온갖 일을 찾아 했다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임예진 “집 가진 유세” 며느리 윤유선에 분노, 차화연 찾아가 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20240407060930050</link>
-            <guid>https://v.daum.net/v/20240407060930050</guid>
-            <pubDate>Sat, 06 Apr 2024 22:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[임예진이 며느리 윤유선에게 분노하며 차화연을 찾아갔다. 4월 6일 방송된 KBS 2TV 새 주말드라마 ‘미녀와 순정남’ 5회(극본 김사경/연출 홍석구)에서 소금자(임예진 분)는 백미자(차화연 분)와 악연을 이어갔다. 고현철(이두일 분)은 아내 김선영(윤유선 분)에게 “내 고등학교 동창 명수 알지? 베트남에서 우리나라 중고 핸드폰이 불티가 난다고 한다.]]></content:encoded>
+            <title><![CDATA['돌싱' 안재현, 당당하게 '나혼산' 출격→"영끌해도 안돼" 노후 걱정 고백 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240407073008609</link>
+            <guid>https://v.daum.net/v/20240407073008609</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:53 GMT</pubDate>
+            <content:encoded><![CDATA[[마이데일리 = 박서연 기자] '돌싱' 배우 안재현이 혼자 사는 일상을 공개한다. 지난 5일 방송된 MBC '나 혼자 산다' 다음 주 예고편에는 안재현이 등장해 화제를 모았다. 앞서 안재현은 유튜브 '덜지니어스'에서 "'나 혼자 산다'에 너무 나가고 싶다"며 "나만큼 혼자 당당하게 사는 사람이 어딨냐"라고 말했던 바. 그런 안재현의 마음이 '나]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“네 아들 아니야” 이주빈 편지에 곽동연 오열 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20240407060912048</link>
-            <guid>https://v.daum.net/v/20240407060912048</guid>
-            <pubDate>Sat, 06 Apr 2024 22:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[곽동연이 아내 이주빈이 가출하며 남긴 편지를 보고 오열했다. 4월 6일 방송된 tvN 토일드라마 ‘눈물의 여왕’ 9회(극본 박지은/연출 장영우 김희원)에서 홍수철(곽동연 분)은 아내 천다혜(이주빈 분)에게 완전히 속을 사실을 편지를 보고 알았다. 천다혜는 홍수철에게 남긴 편지에 “잠시나마 네 아내였던 천다혜에 대해 말해줄게. 좀 무서울지도 몰라. 넌]]></content:encoded>
+            <title><![CDATA[최수종, 손준호♥︎김소현 보고 돌아가신 父 생각 “실례 무릅쓰고 울어” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240407072514585</link>
+            <guid>https://v.daum.net/v/20240407072514585</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:53 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=강서정 기자] ‘불후의 명곡’에&nbsp;손준호X김소현이 최수종의 눈물샘을 자극하며 우승 트로피를 품에 안았다.&nbsp;최수종은 이 무대에 돌아가신 아버지를 떠올리며 눈물을 쏟았다. 시청률 조사기관 닐슨코리아에 따르면&nbsp;‘불후의 명곡’ 652회는 전국&nbsp;4.5%를 기록하며 동시간 시청률&nbsp;1위를 차지했다.&nbsp;이는 무려&nbsp;66주&nbsp;1위 기록으로 ‘土 불후천하’를 굳건히]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[윤보미, 김지원 망해도 의리의 비서 ‘김수현 감시 내통’ (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20240407060859044</link>
-            <guid>https://v.daum.net/v/20240407060859044</guid>
-            <pubDate>Sat, 06 Apr 2024 22:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[윤보미가 김지원과 의리를 지켰다. 4월 6일 방송된 tvN 토일드라마 ‘눈물의 여왕’ 9회(극본 박지은/연출 장영우 김희원)에서 나비서(윤보미 분)는 아무도 모르게 홍해인(김지원 분)과 내통했다. 나비서는 홍해인 가족이 회사에서 쫓겨나자 대기발령 상태가 됐고 회사에서 인형 눈을 붙이며 소일거리 했다. 이어 나비서는 다른 직원들에게 홍해인과 전혀 연락하]]></content:encoded>
+            <title><![CDATA["약쟁이→이 새X"…채정안, 한유주 벗어던진 파격 멘트 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240407072502583</link>
+            <guid>https://v.daum.net/v/20240407072502583</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:53 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김미지 기자) 배우 채정안이 소탈한 매력을 드러냈다.&nbsp; 6일 방송된 MBC '전지적 참견 시점'(이하 '전참시')에는 채정안이 출연해 여전히 아름다운 일상을 공개했다.&nbsp; 이날 채정안은 오프닝부터 자신의 히트곡 '무정'과 '편지'에 맞춰 원조 테크노 전사의 춤 실력을 펼쳐 환호를 받았다. 또 거침없는 멘트로 놀라움을 자아내자 MC 송은이는 "내]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박성훈, 김지원 뇌종양 알고 母이미숙 뒤통수 김갑수 빼돌려 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20240407060849043</link>
-            <guid>https://v.daum.net/v/20240407060849043</guid>
-            <pubDate>Sat, 06 Apr 2024 22:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[박성훈이 김지원의 뇌종양을 알고 모친 이미숙과 분열했다. 4월 6일 방송된 tvN 토일드라마 ‘눈물의 여왕’ 9회(극본 박지은/연출 장영우 김희원)에서 윤은성(박성훈 분)은 홍해인(김지원 분)의 뇌종양 투병을 알았다. 모슬희(이미숙 분)는 홍만대(김갑수 분)를 쓰러트리고 권한을 위임받으며 홍해인 가족을 집과 회사에서 내쫓고 친아들 윤은성을 새 회장으로]]></content:encoded>
+            <title><![CDATA['불후' 최수종, 父 생각에 눈물..'초혼' 재해석 손준호X김소현 우승 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240407072043574</link>
+            <guid>https://v.daum.net/v/20240407072043574</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:53 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 이경호 기자] KBS 2TV '불후의 명곡'의 '명사특집 최수종 편'./사진=KBS 2TV '불후의 명곡''불후의 명곡'에 손준호X김소현이 최수종의 눈물샘을 자극하며 우승 트로피를 품에 안았다. 최수종은 이 무대에 돌아가신 아버지를 떠올리며 눈물을 쏟았다. 지난 6일 방송된 KBS 2TV '불후의 명곡' 652회는 닐슨코리아 전국 가구 기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['눈물의 여왕' 김수현, 高시절 첫사랑=김지원 "운명이네" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20240407060001865</link>
-            <guid>https://v.daum.net/v/20240407060001865</guid>
-            <pubDate>Sat, 06 Apr 2024 21:02:54 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 안윤지 기자] /사진=tvN '눈물의 여왕' 방송 캡처'눈물의 여왕' 배우 김수현의 첫 사랑이 알고 보니 김지원이었다. 6일 방송된 tvN 드라마 '눈물의 여왕'에서는 백현우(김수현 분)이 과거 첫사랑을 추억했다. 백현우의 집에서 머물게 된 홍해인(김지원 분)은 그의 서랍에 있던 MP3를 꺼내 들었다. 그러다 MP3가 자신이 고등학생 때]]></content:encoded>
+            <title><![CDATA['연매출 100억 CEO' 김준희 "빚 독촉에 극단적 생각도" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240407072007573</link>
+            <guid>https://v.daum.net/v/20240407072007573</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:53 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 가수 출신 CEO 김준희의 근황이 공개됐다.&nbsp; 6일 방송된 KBS 2TV '살림하는 남자들2'에서는 최경환의 아내 박여원이 피팅모델 경험을 바탕으로 의류 사업을 하고 싶다는 바람을 드러냈다. 이에 김지혜는 박여원에게 김준희를 소개해줬다.&nbsp; 김준희는 1990년대에 아이돌로 데뷔한 후, 2006년 의류브랜드를 출시하면서 CEO로 변]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[차은우, 母 목걸이 속 증거 발견→김남주, 범인=박혁권인 것 알았다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20240406233634965</link>
-            <guid>https://v.daum.net/v/20240406233634965</guid>
-            <pubDate>Sat, 06 Apr 2024 15:02:58 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 김수아 기자) 김남주와 차은우가 사고 날의 핵심 증거를 찾았다. 6일 방송된 MBC 금토 드라마 '원더풀 월드'에서는 은수현(김남주 분)과 권선율(차은우)이 건우(이준) 사고 날의 모든 진실을 알게되는 장면이 전파를 탔다. 이날 윤혜금(차수연)이 이사를 가는 것을 지켜보던 은수현은 윤혜금으로부터 건우가 사고 날 태블릿을 들고 나갔다는 사실을]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['하이드' 이보영, 이무생 찾는 이민재 속사정 알았다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20240406232430764</link>
-            <guid>https://v.daum.net/v/20240406232430764</guid>
-            <pubDate>Sat, 06 Apr 2024 15:02:58 GMT</pubDate>
-            <content:encoded><![CDATA[[TV리포트=이혜미 기자] ‘하이드’ 이보영이 이무생 찾기에 혈안이 된 이민재의 속사정을 알게 됐다. 6일 쿠팡플레이·JTBC ‘하이드’에선 문영(이보영 분)에 성재(이무생 분)를 찾아야 하는 이유를 털어놓는 진우(이민재 분)의 모습이 그려졌다. 이날 진우는 마강(홍서준 분)에게 성재의 생존 사실을 알렸다면서 “주 상무 알죠? 차성재 어디 있습니까? 추적이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["나도 모른다" 김수현, '이혼' 김지원 거처 함구··박성훈, 집착 시작 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20240406232319715</link>
-            <guid>https://v.daum.net/v/20240406232319715</guid>
-            <pubDate>Sat, 06 Apr 2024 15:02:58 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최지연 기자] '눈물의 여왕' 김수현과 김지원이 각각 갈등을 맞닥뜨렸다.&nbsp; 6일 방송된 tvN 토일드라마 ‘눈물의 여왕’(극본 박지은, 연출 장영우,김희원)에서는 현우(김수현 분)와&nbsp;해인(김지원 분)이 각각 위기를 맞는 모습이 그려졌다.&nbsp; 이날 해인의 가족들은 윤은성(박성훈 분)과 모슬희(이미숙 분)의 계략에 빠져 곤경에 처했다. 현우는 처가]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['7인의 부활' 죽다 살아난 이유비, 이정신과 약혼 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20240406232111687</link>
-            <guid>https://v.daum.net/v/20240406232111687</guid>
-            <pubDate>Sat, 06 Apr 2024 15:02:58 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 오수정 기자) '7인의 부활'에서 이유비가 이정신과 약혼했다.&nbsp; 6일 방송된 SBS 금토드라마 '7인의 부활' 4회에서는 매튜 리(엄기준 분)와 금라희(황정음)가 한모네(이유비)의 엄마 윤지숙(김현)까지 죽여버리는 모습이 그려졌다.&nbsp; 앞선 방송에서 한모네는 금라희의 계략에 빠져 매튜 리에게 죽을 뻔한 위기에 빠졌다. 하지만 한모네가 '세이브']]></content:encoded>
+            <title><![CDATA[최민환, 전처 율희에 솔직한 속마음 "제가 못하는 부분을 많이 해줘" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240407070602488</link>
+            <guid>https://v.daum.net/v/20240407070602488</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:53 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]KBS2 ‘슈퍼맨이 돌아왔다’ 최민환이 삼남매 재율 아윤 아린을 향한 애틋한 속마음을 고백해 눈길을 끈다. 2013년 첫 방송된 이래 10년간 국민의 사랑을 받고 있는 ‘슈퍼맨이 돌아왔다’(이하 ‘슈돌’)는 추성훈과 추사랑, 송일국과 삼둥이를 비롯해 이동국과 오남매, 샘 해밍턴과 윌벤 형제, 사유리와 젠, 김준호와 은우 정우]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["거의 수하였다" 이이경 폭로에…이동휘 "과장 심해" 발끈 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
@@ -1769,81 +1846,11 @@
             <content:encoded><![CDATA[(엑스포츠뉴스 김예은 기자) 이소라와 신동엽이 방송에서 또 한번 재회했다.&nbsp; 6일 공개된 쿠팡플레이 'SNL코리아 시즌5'에서는 모델 이소라가 호스트로 나섰다.&nbsp; 이날 이소라는 무대에 올라 "제가 'SNL'의 너무 오래된 팬이다. 이 자리에 서기까지 정말 오랜 시간이 걸렸다"면서 "초대해주신 신동엽 씨에게 감사 인사 드린다"고 덧붙였다.&nbsp; 이소라는 10년]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["日회사와 600억 계약→좋은 집 3채 계약" 마이진, 가짜뉴스에 분노 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240407063305223</link>
-            <guid>https://v.daum.net/v/20240407063305223</guid>
-            <pubDate>Sat, 06 Apr 2024 22:02:54 GMT</pubDate>
-            <content:encoded><![CDATA[[마이데일리 = 박서연 기자] 가수 마이진이 루머에 답했다.  6일 방송된 JTBC '아는 형님'에는 '현역가왕' TOP7 중 전유진, 마이진, 린, 박혜신이 게스트로 출연했다. 이날 이진호는 "마이진이 일본 어느 회사랑 600억을 계약했다더라"라고 말했다. 마이진은 "가짜뉴스"라고 답하며 가짜뉴스를 퍼뜨린 유튜버들을 향해 "나쁜 새X들"이라고 했]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['전참시' 조혜련 "54세에 오디션 봤다..떨려 죽는 줄" 고백 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240407063005176</link>
-            <guid>https://v.daum.net/v/20240407063005176</guid>
-            <pubDate>Sat, 06 Apr 2024 22:02:54 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 이예지 기자] /사진='전지적 참견 시점' 화면 캡처배우 채정안과 개그우먼 조혜련의 포복절도 일상이 공개됐다. 6일 오후 방송된 MBC 예능 프로그램 '전지적 참견 시점'에서는 관리 끝판왕 채정안의 일상과 대작 뮤지컬에 도전하는 조혜련의 모습이 교차하여 펼쳐졌다. 이날 방송에서 채정안은 두 손 가득 물건을 들고 발레 스튜디오를 찾았다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[빠니보틀, 천육백만 배우 공명 몰라봐 “죄송” 공개 사과 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240407061354087</link>
-            <guid>https://v.daum.net/v/20240407061354087</guid>
-            <pubDate>Sat, 06 Apr 2024 22:02:54 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이슬기 기자] 빠니보틀이 공명을 알아 보지 못해 웃음을 줬다. 4월 6일 방송된 ENA ‘지구마불 세계여행2’에서는 여행 크리에이터 3대장 빠니보틀, 원지, 곽튜브의 시즌2 여행이 계속됐다. 세 사람은 각각 공명, 김용명, 박준형과 함께 한 여행에 대해 이야기했다. 이날 공명은 빠니보틀을 만나기 위해 에티오피아로 향했다. 빠니보틀은 누가 오는지]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최대철 “딸 블랙핑크 제니 닮아” 인형 미모 감탄 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240407061324082</link>
-            <guid>https://v.daum.net/v/20240407061324082</guid>
-            <pubDate>Sat, 06 Apr 2024 22:02:54 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 배우 최대철이 딸의 미모를 자랑했다. 4월 6일 방송된 KBS 2TV 예능 '살림하는 남자들 시즌2'(이하 '살림남2') 340회 말미에서는 최대철 가족의 출연이 예고됐다. 새로운 살림남인 20년 차 배우 최대철은 매니저 없이 활동 중인 짠내나는 배우이면서, 딸에게는 팔불출 아빠였다. 이날 가족과 시간을 보내던 최대철은 "성은]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박서진, 부모에 200평 3층집+매출대박 가게 선물‥약속지킨 효자 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240407061244076</link>
-            <guid>https://v.daum.net/v/20240407061244076</guid>
-            <pubDate>Sat, 06 Apr 2024 22:02:54 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 트로트 가수 박서진이 효자의 면모를 드러냈다. 4월 6일 방송된 KBS 2TV 예능 '살림하는 남자들 시즌2'(이하 '살림남2') 340회에서는 많은 어려움을 이겨낸 박서진 가족이 13년 만에 특별한 가족 나들이에 나섰다. 이날 박서진 가족의 일상 영상에 삼천포에 있는 박서진 부모님의 집이 나오자 백지영은 "이 집이 서진 씨가]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[빚 7억 박여원, 64평 집 내놓은 ♥최경환에 분노 “좁혀가면 자녀 상처받아” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240407061214075</link>
-            <guid>https://v.daum.net/v/20240407061214075</guid>
-            <pubDate>Sat, 06 Apr 2024 22:02:54 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 전 야구선수 최경환이 독단적으로 집을 부동산에 내놓자 아내 박여원이 분노했다. 4월 6일 방송된 KBS 2TV 예능 '살림하는 남자들 시즌2'(이하 '살림남2') 340회에서는 최경환, 박여원이 경제적 문제로 부부싸움했다. 이날 식탁에 놓여 있는 관리비 고지서를 발견한 최경환은 매달 91만 원 정도 나오는 관리비에 충격받았다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[강남 CEO 이태곤 외제차로 출근, 활동중단에 작년 매출 뚝 심란 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240407061126068</link>
-            <guid>https://v.daum.net/v/20240407061126068</guid>
-            <pubDate>Sat, 06 Apr 2024 22:02:54 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서유나 기자] CEO로 변신한 배우 이태곤이 떨어진 매출을 보고받고는 활발한 방송 활동을 다짐했다. 4월 6일 방송된 KBS 2TV 예능 '살림하는 남자들 시즌2'(이하 '살림남2') 340회에서는 이태곤의 CEO 일상이 공개됐다. 이날 이태곤은 도로 한복판 운전을 하며 등장했다. 어김없이 눈길을 끈 건 그의 삐까뻔쩍한 차. 백지영은 "이 차]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유부남 김용명-원지, 단둘인데 케냐 호텔 한 침대 “그런 관계 아냐” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240407061059064</link>
-            <guid>https://v.daum.net/v/20240407061059064</guid>
-            <pubDate>Sat, 06 Apr 2024 22:02:54 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이슬기 기자] 김용명, 원지가 당혹스러운 상황을 마주했다. 4월 6일 방송된 ENA ‘지구마불 세계여행2’에서는 여행 크리에이터 3대장 빠니보틀, 원지, 곽튜브의 시즌2 여행이 계속됐다. 세 사람은 각각 공명, 김용명, 박준형과 함께 한 여행에 대해 이야기했다. 이날 김용명과 원지는 케나 여행에 나섰다. 자연 속 기린과 호흡할 수 있는 기린 호텔]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[빠니보틀, 충격 소매치기 실제상황 찍혔다 “따라오고 침 뱉고 순식간에” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240407061025055</link>
-            <guid>https://v.daum.net/v/20240407061025055</guid>
-            <pubDate>Sat, 06 Apr 2024 22:02:54 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이슬기 기자] 빠니보틀이 소매치기를 당했다. 4월 6일 방송된 ENA ‘지구마불 세계여행2’에서는 여행 크리에이터 3대장 빠니보틀, 원지, 곽튜브의 시즌2 여행이 계속됐다. 세 사람은 각각 공명, 김용명, 박준형과 함께 한 여행에 대해 이야기했다. 이날 빠니보틀과 공명은 에티오피아 ‘나라카드’ 미션에 따라 수리 부족을 만나러 갈 방법을 찾기 위해]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김병지 “19살 취업 후 부모님 생활비 드려, 15년째 月250” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240407060834041</link>
-            <guid>https://v.daum.net/v/20240407060834041</guid>
-            <pubDate>Sat, 06 Apr 2024 22:02:54 GMT</pubDate>
-            <content:encoded><![CDATA[김병지가 19살 이후로 부모님 생활비를 드린다고 말했다. 4월 6일 방송된 MBN ‘속풀이쇼 동치미’에서는 전 축구선수 김병지가 부모님께 드리는 생활비를 밝혔다. 김병지는 “저하고 누나 형 2남 1녀다. 3년 터울이다. 저 초등학교 졸업할 때 누나는 중학교, 형은 고등학교 졸업했다. 학비가 비쌌다. 형 누나들이 석 달에 한 번 학비 내는 걸로 스트레스]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[하석주 “고부갈등 탓 母 졸도, 종교문제 장롱 부숴 해결” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240407060824039</link>
-            <guid>https://v.daum.net/v/20240407060824039</guid>
-            <pubDate>Sat, 06 Apr 2024 22:02:54 GMT</pubDate>
-            <content:encoded><![CDATA[하석주가 고부갈등에 장롱을 부순 사연을 털어놨다. 4월 6일 방송된 MBN ‘속풀이쇼 동치미’에서는 전 축구선수 하석주가 심각했던 고부갈등을 고백했다. 하석주는 “종교적인 갈등이 그렇게 힘들고 어려울지 몰랐다. 집안 대대로 불교 집안이고 와이프만 유일하게 기독교다. 저도 결혼해서 교회 조금씩 나가니까 당연히 들어오면 교회 안 나가겠지 생각했는데 아니더]]></content:encoded>
+            <title><![CDATA[올해 칸에는 박찬욱·봉준호 없다? 예상되는 한국 영화는 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+            <link>https://v.daum.net/v/20240407073001601</link>
+            <guid>https://v.daum.net/v/20240407073001601</guid>
+            <pubDate>Sat, 06 Apr 2024 23:06:58 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=뉴스1) 정유진 기자 = 오는 5월 14일 개막하는 제77회 칸 국제영화제(이하 칸 영화제)가 한 달여 앞으로 다가왔다. 한국 영화는 2010년대 들어 거의 매년 빠짐없이 경쟁 부문과 그 밖의 섹션에 초청작을 배출해 왔으며, 올해도 부문에 관계 없이 칸 영화제에 초청을 받는 작품이 있을 것으로 기대를 모으고 있다. 우리나라 감독 중 칸 영화제와]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[디즈니 '스타워즈' 신작영화·'토이 스토리 5' 2026년 개봉 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
@@ -1914,20 +1921,6 @@
             <guid>https://v.daum.net/v/20240406085011366</guid>
             <pubDate>Sat, 06 Apr 2024 01:39:11 GMT</pubDate>
             <content:encoded><![CDATA[(서울=뉴스1) 장아름 기자 = 영화 '파묘'가 개봉 44일째 박스오피스 1위를 수성했다. 6일 영화진흥위원회 영화관입장권통합전산망의 집계에 따르면 '파묘'는 지난 5일 3만 4498명의 관객을 동원하며 누적관객수 69만 6711명을 기록, 박스오피스 1위를 지켰다. 앞서 '파묘'는 지난달 24일 개봉 32일 만에 1000만 관객을 돌파한 뒤에도 44일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['매드 맥스'부터 '조커'까지…애타게 기다린 속편이 온다 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-            <link>https://v.daum.net/v/20240406075506834</link>
-            <guid>https://v.daum.net/v/20240406075506834</guid>
-            <pubDate>Fri, 05 Apr 2024 23:03:06 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 오보람 기자 = 영화 팬들이 몇 년간 애타게 기다려온 할리우드 흥행작의 속편들이 잇따라 극장에 걸린다. 본편이 개봉 당시 열렬한 반응을 끌어낸 기념비적 작품들인 만큼 속편들도 관객의 기대를 한 몸에 받고 있다. 6일 영화계에 따르면 '매드 맥스: 분노의 도로'(이하 '분노의 도로')의 프리퀄(시간상 앞선 이야기를 다룬 속편)인 '퓨리오사:]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[힐링 에너지를 연주하는, ‘은하수’ (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-            <link>https://v.daum.net/v/20240406070302431</link>
-            <guid>https://v.daum.net/v/20240406070302431</guid>
-            <pubDate>Fri, 05 Apr 2024 23:03:06 GMT</pubDate>
-            <content:encoded><![CDATA[봄 극장가를 유쾌한 멜로디로 물들인다. 따뜻함과 다정함이 넘쳐난다. 투박하고 또 어설퍼서 더 정감있고 미소가 지어진다. 알면서도 즐길만한 소소한 매력부자. 빛을 쫓지만 늘 빚에만 쫓기며 번번히 오디션에 떨어지는 3인조 밴드의 좌절 없는 노빠꾸 도전기, 음악 영화 ‘은하수’(감독 최정한)다. 티격태격하지만 알바를 전전하면서도 서로를 다독이는, 오늘도 꿈을 향]]></content:encoded>
         </item>
     </channel>
 </rss>
