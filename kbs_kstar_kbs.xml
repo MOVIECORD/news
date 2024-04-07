@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Apr 2024 05:05:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Apr 2024 06:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사장님귀는당나귀귀] 김호중, ‘더 심포니’ 대망의 첫 리허설... 공연 목록만 ‘19곡’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=310953</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=310953</guid>
+            <pubDate>Sun, 07 Apr 2024 06:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=310953">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240407150531_66500b8862e6013443ffca728ec13bb0.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=310953">[사장님귀는당나귀귀] 김호중, ‘더 심포니’ 대망의 첫 리허설... 공연 목록만 ‘19곡’</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240407150531_66500b8862e6013443ffca728ec13bb0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[전국노래자랑] 경기 시흥시 편... "남희석 도플갱어 줄줄이 등판"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=310949</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240405185919_ad62b385fdf59dd038a7056b35ac442d_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뮤직뱅크] 홍지윤, 통통 튀는 매력 넘치는 트로트 무대 ‘가보자GO’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=310869</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=310869</guid>
-            <pubDate>Fri, 05 Apr 2024 10:02:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=310869">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240405183925_158ce4e44a6840b12d87feea81a7c6f8.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=310869">[뮤직뱅크] 홍지윤, 통통 튀는 매력 넘치는 트로트 무대 ‘가보자GO’</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240405183925_158ce4e44a6840b12d87feea81a7c6f8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
