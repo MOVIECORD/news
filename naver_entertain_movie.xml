@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-04-11T15:08:15.783Z</updated>
+    <updated>2024-04-11T16:03:59.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강릉 김진유 영화감독 '흐르는 여정' 제작]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=654&amp;aid=0000071602</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=654&amp;aid=0000071602"/>
+        <updated>2024-04-11T16:03:06.667Z</updated>
+        <content type="html"><![CDATA[강릉에서 활동하는 김진유 감독의 신작이 강원문화재단의 지원을 받아 제작된다. 강원문화재단 부설 강원영상위원회는 11일 재단 회의실에서 2024년 강원영상콘텐츠 창작지원사업 장·단편 선정작 지원을 위한 협약을 맺었다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[새영화]세월호 참사 후 10년 기록…진실·희망 향한 간절함 담아]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=087&amp;aid=0001037706</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012487444"/>
         <updated>2024-04-11T11:02:37.519Z</updated>
         <content type="html"><![CDATA[류승완 감독 새 영화 '베테랑2'가 칸영화제에 간다. '베테랑2'는 제77회 칸국제영화제 미드나잇 스크리닝(MIDNIGHT SCREENINGS) 부문에 초청됐다. 칸영화제는 11일 프랑스 파리 UGC노르망디 극장에서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류승완 '베테랑 2' 칸영화제 초청…韓영화 경쟁부문 불발]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014626601</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=001&amp;aid=0014626601"/>
-        <updated>2024-04-11T11:02:37.520Z</updated>
-        <content type="html"><![CDATA[미드나이트 스크리닝 부문…'주먹이 운다' 이후 19년 만 류승완 감독이 '베테랑 2'로 19년 만에 칸국제영화제 무대를 밟는다. 칸영화제 집행위원회는 11일(현지시간) 기자회견을 열어 '베테랑 2'를 다음 달 개막하]]></content>
     </entry>
 </feed>
