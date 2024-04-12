@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Apr 2024 22:06:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Apr 2024 23:04:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[불후의 명곡] 2024 보컬 퀸 특집... "최강 보컬 여신들이 몰려온다!"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=311637</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=311637</guid>
+            <pubDate>Fri, 12 Apr 2024 23:03:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=311637">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240412103952_c08eb4074c7f641b9db2dead618b9fe8.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=311637">[불후의 명곡] 2024 보컬 퀸 특집... "최강 보컬 여신들이 몰려온다!"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240412103952_c08eb4074c7f641b9db2dead618b9fe8.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[신상출시 편스토랑] 어남선생 류수영 레시피...집에 있는 재료로 지금 당장 만들 수 있는 ‘두부김치’ 끝판왕]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=311739</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%94%BC%EB%8F%84%20%EB%88%88%EB%AC%BC%EB%8F%84%20%EC%97%86%EC%9D%B4">일일드라마 피도 눈물도 없이</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240411214336_e27a51ee06ece4a01d4b7cfac5481489.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[피도 눈물도 없이] 하연주 속이기 위해 강도 자작극 벌인 이소연 “이래야 믿을 테니까”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=311480</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=311480</guid>
-            <pubDate>Thu, 11 Apr 2024 13:04:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=311480">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240411211552_8e8419a6a2378aed704cb204e577e8aa_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=311480">[피도 눈물도 없이] 하연주 속이기 위해 강도 자작극 벌인 이소연 “이래야 믿을 테니까”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%94%BC%EB%8F%84%20%EB%88%88%EB%AC%BC%EB%8F%84%20%EC%97%86%EC%9D%B4">일일드라마 피도 눈물도 없이</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240411211552_8e8419a6a2378aed704cb204e577e8aa_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
