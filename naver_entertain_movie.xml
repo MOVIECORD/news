@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-04-12T21:03:00.546Z</updated>
+    <updated>2024-04-12T22:06:41.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주말의 OTT] 국내 최초 고기 스릴러가 온다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012489460</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=003&amp;aid=0012489460"/>
+        <updated>2024-04-12T22:05:50.031Z</updated>
+        <content type="html"><![CDATA[4월 둘째주 디즈니+·넷플릭스 신작을 소개한다. 지배종(디즈니+) "더 이상의 피 흘리는 식탁은 없다." 국내 시리즈 최초로 인공 배양육이라는 소재를 다룬 '지배종'은 '비밀의 숲' 이수연 작가가 극본을 맡고 한효주]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['쿵푸팬더4' 주말도 책임진다...전체 영화 예매율 1위]]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=213&amp;aid=0001292117</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=108&amp;aid=0003227845"/>
         <updated>2024-04-12T10:02:48.926Z</updated>
         <content type="html"><![CDATA['범죄도시4'가 국내 개봉 전, 전 세계 164개국에 선판매되며 시리즈 최대 규모의 해외 판매를 기록하는 쾌거를 이루었다. '범죄도시4'는 괴물형사 '마석도'(마동석 분)가 대규모 온라인 불법 도박 조직을 움직이는]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유지태·김새벽, 제25회 전주국제영화제 경쟁부문 심사위원 선정]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005713642</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=018&amp;aid=0005713642"/>
-        <updated>2024-04-12T10:02:48.927Z</updated>
-        <content type="html"><![CDATA[배우 유지태, 김새벽이 오는 5월 개막할 제25회 전주국제영화제 심사위원에 선정됐다. 오는 5월 1일 개막을 앞둔 제25회 전주국제영화제(공동집행위원장 민성욱·정준호)는 감독, 배우, 영화평론가, 프로그래머 등 국내]]></content>
     </entry>
 </feed>
