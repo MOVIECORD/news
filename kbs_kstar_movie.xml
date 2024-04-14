@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Apr 2024 14:31:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Apr 2024 20:55:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['혹성탈출: 새로운 시대',  새로운 세계관... "세상의 주인이 바뀌었다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=311685</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=311685</guid>
+            <pubDate>Sun, 14 Apr 2024 20:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=311685">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240412140907_36ece5ace311aaf6abf7a7ae8c5f52ff.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=311685">'혹성탈출: 새로운 시대',  새로운 세계관... "세상의 주인이 바뀌었다" </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240412140907_36ece5ace311aaf6abf7a7ae8c5f52ff.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아름다운 다큐,  '땅에 쓰는 시'.. “겨울에 아름다워야 봄도 아름답고 여름도 아름다워”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=311337</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=311232">'삼식이 삼촌' 단체사진 찍습니다...  "혼돈의 시대, 성공을 부르는 이름"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240409092311_52f8d94bd278732a33e8137703f08e6d_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈가 솔로 월드투어 영화 ‘디-데이 더 파이널'.. 오늘 극장개봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=311331</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=311331</guid>
-            <pubDate>Wed, 10 Apr 2024 01:42:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=311331">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240410095921_c09912cfafd24360640fcfafdd23eb63.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=311331">슈가 솔로 월드투어 영화 ‘디-데이 더 파이널'.. 오늘 극장개봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240410095921_c09912cfafd24360640fcfafdd23eb63.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
