@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Apr 2024 22:06:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Apr 2024 00:32:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 ‘친정엄마’ 이효춘, KBS '아침마당' 출연]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=312011</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=312011</guid>
+            <pubDate>Tue, 16 Apr 2024 00:31:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=312011">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240416084727_5bde9e9edbc4470509cff530bbba1b8d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=312011">뮤지컬 ‘친정엄마’ 이효춘, KBS '아침마당' 출연</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%95%84%EC%B9%A8%EB%A7%88%EB%8B%B9">아침마당</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240416084727_5bde9e9edbc4470509cff530bbba1b8d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[멱살 한번 잡힙시다] 엎치락뒤치락... 서로의 약점 쥐고, 살기 오가는 한채아 VS 연우진 취조 현장]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=311995</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240414145401_bde22bfc8ef52f404a0986cbbf08b654.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사장님귀는당나귀귀] 김수미, 고향 군산 생가 방문 "눈물이 왈칵"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=311603</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=311603</guid>
-            <pubDate>Sat, 13 Apr 2024 16:03:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=311603">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240412101652_ff7d8ef18ad1242228db0e12c1965cb7_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=311603">[사장님귀는당나귀귀] 김수미, 고향 군산 생가 방문 "눈물이 왈칵"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80">사장님 귀는 당나귀 귀</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240412101652_ff7d8ef18ad1242228db0e12c1965cb7_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
