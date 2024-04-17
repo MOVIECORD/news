@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-04-17T11:03:54.684Z</updated>
+    <updated>2024-04-17T12:13:08.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비틀스 다큐 ‘렛 잇 비’ 54년 만에 다시 본다]]></title>
+        <id>https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003925226</id>
+        <link href="https://entertain.naver.com/movie/now/read?oid=022&amp;aid=0003925226"/>
+        <updated>2024-04-17T12:12:15.457Z</updated>
+        <content type="html"><![CDATA[5월 8일 ‘디즈니플러스’서 공개 마지막 앨범 녹음하는 과정 담아 전설적인 영국 4인조 밴드 비틀스가 마지막 앨범인 ‘렛 잇 비’(Let It Be)를 녹음하는 과정을 담은 다큐멘터리 영화가 54년 만에 다시 공개된]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[클리셰 로코에 액션까지 다 퍼주는 영화 '스턴트맨']]></title>
         <id>https://entertain.naver.com/movie/now/read?oid=030&amp;aid=0003199033</id>
@@ -172,12 +179,5 @@
         <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000052493"/>
         <updated>2024-04-17T08:08:59.663Z</updated>
         <content type="html"><![CDATA[스펭글러 가족은 고스트버스터즈의 본부에 정착해 고스트버스터즈의 명맥을 이어가는 중이다. 어느 날 평소 그들을 탐탁지 않게 생각한 시장이 가족 중 유일한 미성년자인 피비(매케나 그레이스)의 활동을 금지한다. 무기력한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[리뷰] ‘브레이브 온 파이어’, 감독이 진정 생태주의자라면 이 영화를 제작하지 말아야 했다]]></title>
-        <id>https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000052492</id>
-        <link href="https://entertain.naver.com/movie/now/read?oid=140&amp;aid=0000052492"/>
-        <updated>2024-04-17T08:08:59.664Z</updated>
-        <content type="html"><![CDATA[평범한 노동자 데이브(피터 파치넬리)는 중증 호흡기질환에 걸린 아버지 조지(랜스 헨릭슨)와 육상선수 꿈나무인 아들 클레이(아셔 에인), 둘째를 임신한 아내 사라(피오나 두리프)와 함께 살아간다. 단란해 보이는 데이브]]></content>
     </entry>
 </feed>
