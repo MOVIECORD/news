@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Apr 2024 21:05:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Apr 2024 22:03:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['혹성탈출: 새로운 시대' 새로운 주인공 '노아'의 성장 스토리]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=312473</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=312473</guid>
+            <pubDate>Fri, 19 Apr 2024 22:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=312473">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240420065746_d3cffd5dcbbe2a5bb39100aae5332af9.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=312473">'혹성탈출: 새로운 시대' 새로운 주인공 '노아'의 성장 스토리</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240420065746_d3cffd5dcbbe2a5bb39100aae5332af9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] 넷플릭스 ‘레벨 문’ 파트1&2.. “스타워즈와 7인의 사무라이의 레벨제로 조합물”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=312427</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=311679">영화 '차이콥스키의 아내' 5월 개봉... "아내 안토니나의 사랑"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240412135801_c8c8ee34eb4ed549ff952ed39649d54a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[홍콩영화금상장] 양조위, ‘골드핑거’로 6번째 남우주연상 수상.. 강대위,  홍금보 트로피]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=311955</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=311955</guid>
-            <pubDate>Mon, 15 Apr 2024 02:55:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=311955">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240415110923_27655abc0957cab2ce61e4c0dbb188bf_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=311955">[홍콩영화금상장] 양조위, ‘골드핑거’로 6번째 남우주연상 수상.. 강대위,  홍금보 트로피 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240415110923_27655abc0957cab2ce61e4c0dbb188bf_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
