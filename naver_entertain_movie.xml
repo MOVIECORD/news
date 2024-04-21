@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-04-21T14:06:39.259Z</updated>
+    <updated>2024-04-21T15:03:22.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[영화관의 변신은 무죄①] 콘텐츠→클라이밍·방탈출, 어디까지 즐겨봤니]]></title>
+        <id>https://m.entertain.naver.com/movie/article/629/0000282531</id>
+        <link href="https://m.entertain.naver.com/movie/article/629/0000282531"/>
+        <updated>2024-04-21T15:02:28.428Z</updated>
+        <content type="html"><![CDATA[콘서트·뮤지컬 실황 공연부터 스포츠 경기까지 상영 중 클라이밍·방탈출 등 공간 활용 폭 넓히며 복합문화시설로 거듭 극장은 코로나19로 관객들의 발길이 끊기면서 새로운 생존방식을 모색했다. 영화뿐만 아니라 여러 영상물]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘잠’ 유재선 ‘브뤼셀 영화제’ 신인감독상]]></title>
         <id>https://m.entertain.naver.com/movie/article/022/0003926155</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/movie/article/382/0001121029"/>
         <updated>2024-04-21T08:08:07.666Z</updated>
         <content type="html"><![CDATA[배우 임선우가 21일 서울 성동구 성수동 메가박스 성수점에서 열린 ‘60회 백상예술대상 구찌 임팩트 어워드 GUEST VISIT’ 포토월에서 포즈를 취하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[차트IS] ‘쿵푸팬더4’, 11일 연속 박스오피스 정상…올해 애니 첫 100만]]></title>
-        <id>https://m.entertain.naver.com/movie/article/241/0003345327</id>
-        <link href="https://m.entertain.naver.com/movie/article/241/0003345327"/>
-        <updated>2024-04-21T08:08:07.667Z</updated>
-        <content type="html"><![CDATA[개봉 이후 줄곧 박스오피스 1위를 유지 중인 ‘쿵푸팬더4’가 개봉 11일 만에 100만 관객 돌파에 성공했다. 21일 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 ‘쿵푸팬더4’는 전날인 20일 14만1456명]]></content>
     </entry>
 </feed>
