@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Apr 2024 00:30:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 01:44:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 '설계자'.. 설계자 강동원의 어시스트 이미숙-이현욱-탕준상]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=313250</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=313250</guid>
+            <pubDate>Thu, 25 Apr 2024 01:43:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=313250">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240425082004_a2627705e6d4ba81ed45b021d8c12373.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313250">영화 '설계자'.. 설계자 강동원의 어시스트 이미숙-이현욱-탕준상</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240425082004_a2627705e6d4ba81ed45b021d8c12373.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['혹성탈출: 새로운 시대' VFX제작진 내한 기자회견... "훨씬 더 사실적인 유인원 만날 것"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=313278</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=312812">[현장] 박찬욱 감독, HBO ‘동조자’ 시사회... "스파이, 고정간첩, CIA비밀요원, 그리고 쇼러너"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240422101733_1ab961a39204cc49d9326433acc904c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강동원, '설계자'로 돌아온다... "사고인가 살인인가"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=312753</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=312753</guid>
-            <pubDate>Mon, 22 Apr 2024 00:31:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=312753">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240422083607_b5be371d7fe81c783ad68fbb6265fdc2.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=312753">강동원, '설계자'로 돌아온다... "사고인가 살인인가" </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240422083607_b5be371d7fe81c783ad68fbb6265fdc2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
