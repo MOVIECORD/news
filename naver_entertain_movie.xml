@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-04-27T15:03:19.477Z</updated>
+    <updated>2024-04-27T16:05:21.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유니클로, ‘스튜디오 지브리’와 협업 컬렉션 출시]]></title>
+        <id>https://m.entertain.naver.com/movie/article/144/0000958498</id>
+        <link href="https://m.entertain.naver.com/movie/article/144/0000958498"/>
+        <updated>2024-04-27T16:04:35.013Z</updated>
+        <content type="html"><![CDATA[패션 브랜드 유니클로(UNIQLO)가 세계적인 애니메이션 제작사 스튜디오 지브리(Studio Ghibli)와 협업한 ‘스튜디오 지브리’ 컬렉션을 5월 31일출시한다. ‘이웃집 토토로’, ‘센과 치히로의 행방불명’,]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘범죄도시4’ 단 10시간 만에 200→300만 돌파]]></title>
         <id>https://m.entertain.naver.com/movie/article/408/0000221847</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/movie/article/144/0000958467"/>
         <updated>2024-04-27T08:08:55.528Z</updated>
         <content type="html"><![CDATA[배우 김민하가 ‘제11회 마리끌레르 영화제’에서 ‘레디언스상’을 수상했다. 27일 소속사 사람엔터테인먼트 측은 “배우 김민하가 지난 26일 CGV 용산아이파크몰에서 열린 ‘제11회 마리끌레르 영화제’에서 ‘레디언스상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제25회 전주국제영화제서 '오은하 시네마 파라디소' 등 공연 이벤트]]></title>
-        <id>https://m.entertain.naver.com/movie/article/421/0007507676</id>
-        <link href="https://m.entertain.naver.com/movie/article/421/0007507676"/>
-        <updated>2024-04-27T08:08:55.529Z</updated>
-        <content type="html"><![CDATA[제25회 전주국제영화제가 오는 5월 3일부터 6일까지 전주시 곳곳에서 관객과 시민을 위한 공연이벤트를 마련했다고 27일 밝혔다. 영화제 측에 따르면 전주 라운지 토크스테이지에선 '오은하 시네마 파라디소'가 진행된다.]]></content>
     </entry>
 </feed>
