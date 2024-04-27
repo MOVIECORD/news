@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-04-27T05:03:19.893Z</updated>
+    <updated>2024-04-27T06:10:21.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“참사 때마다 빨갱이 딱지 붙이는 거, 4·3이 시작이더라”]]></title>
+        <id>https://m.entertain.naver.com/movie/article/028/0002687182</id>
+        <link href="https://m.entertain.naver.com/movie/article/028/0002687182"/>
+        <updated>2024-04-27T06:09:25.454Z</updated>
+        <content type="html"><![CDATA[“사회적 참사를 겪은 이들이 자신의 피해를 이야기할 때마다 ‘빨갱이’라며 왜곡하고 폄훼하는 말이 잇달아 나오는데, 왜 그럴까 의문을 품으며 거슬러 올라가 보니 4·3에 이르게 되더라. 그때의 역사가 지금까지 반복되는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김민하, 마리끌레르 영화제 ‘레디언스상’ 수상]]></title>
         <id>https://m.entertain.naver.com/movie/article/057/0001814640</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/movie/article/008/0005031368"/>
         <updated>2024-04-27T01:41:34.682Z</updated>
         <content type="html"><![CDATA[마동석 주연의 영화 '범죄도시4'가 개봉 4일 만에 200만명 이상의 관객을 동원했다. 27일 영화진흥위원회 영화관입장권 통합전산망에 따르면 이날 오전 8시 기준 범죄도시4의 누적 관객수는 255만명을 넘어섰다. 범]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['범죄도시 4' 개봉 4일째 200만 관객…올 개봉작 최단 기간]]></title>
-        <id>https://m.entertain.naver.com/movie/article/001/0014655927</id>
-        <link href="https://m.entertain.naver.com/movie/article/001/0014655927"/>
-        <updated>2024-04-27T00:27:37.671Z</updated>
-        <content type="html"><![CDATA[마동석 주연의 액션 영화 '범죄도시 4'가 개봉 4일째인 27일 누적 관객 수 200만명을 돌파했다고 배급사 에이비오엔터테인먼트가 27일 밝혔다. 올해 개봉한 전체 영화 가운데 가장 빠른 속도로 200만 관객을 달성]]></content>
     </entry>
 </feed>
