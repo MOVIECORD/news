@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-04-27T08:09:47.822Z</updated>
+    <updated>2024-04-27T09:03:48.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[타이타닉호 최고 부자 탑승객 금시계 경매 나온다]]></title>
+        <id>https://m.entertain.naver.com/movie/article/277/0005411408</id>
+        <link href="https://m.entertain.naver.com/movie/article/277/0005411408"/>
+        <updated>2024-04-27T09:03:00.297Z</updated>
+        <content type="html"><![CDATA[1912년 타이타닉호 침몰로 사망한 미국 재계 거물 존 제이컵 애스터 4세가 남긴 금시계가 경매에 나온다. 26일(현지시간) 미국 CNN 방송에 따르면 타이타닉호 침몰 당시 애스터 4세가 차고 있던 금시계가 27일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김민하, ‘제 11회 마리끌레르 영화제’ 레디언스상 수상]]></title>
         <id>https://m.entertain.naver.com/movie/article/144/0000958467</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/movie/article/032/0003293064"/>
         <updated>2024-04-27T01:41:34.672Z</updated>
         <content type="html"><![CDATA[마동석 주연의 액션 영화 ‘범죄도시 4’가 극장가에서 독주를 이어가는 가운데 5월 개봉을 앞둔 할리우드 대작들이 홍보에 열을 올리고 있다. 27일 영화계에 따르면 개봉 4일째인 ‘범죄도시 4’가 누적 관객 수 200]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘범죄도시4’ 3일 만에 200만 돌파…강적 만난 외화들]]></title>
-        <id>https://m.entertain.naver.com/movie/article/005/0001691878</id>
-        <link href="https://m.entertain.naver.com/movie/article/005/0001691878"/>
-        <updated>2024-04-27T01:41:34.674Z</updated>
-        <content type="html"><![CDATA[영화 ‘범죄도시4’가 27일 오전 8시 누적 관객 수 200만명을 넘어섰다고 배급사 에이비오엔터테인먼트가 밝혔다. 영화는 개봉 하루 만에 100만 관객을 돌파한 데 이어 3일 만에 200만 관객들 돌파하는 기염을 토]]></content>
     </entry>
 </feed>
