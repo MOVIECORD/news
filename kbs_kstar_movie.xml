@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Apr 2024 20:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Apr 2024 22:05:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['삼식이 삼촌' 진기주, 지성과 이성을 겸비한 또 다른 얼굴]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=313232</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=313232</guid>
+            <pubDate>Sat, 27 Apr 2024 22:03:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=313232">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240425074937_7a339c4f473cf25a30c4e6834d431e1e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313232">'삼식이 삼촌' 진기주, 지성과 이성을 겸비한 또 다른 얼굴</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240425074937_7a339c4f473cf25a30c4e6834d431e1e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 '애비게일' 5월 개봉.. "완벽한 발레리나 뱀파이어 호러"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=313573</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=312787"> '모범택시' 박준우 감독 신작 '크래시'.. 5월 13일 디즈니플러스 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240422093131_9019d27052849716eb38baf5334b60d2_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니플러스 '쇼군' 오늘(23일) 10편 에피소드 전체 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=312984</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=312984</guid>
-            <pubDate>Tue, 23 Apr 2024 00:32:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=312984">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240423083300_3ece34b13afbb3647aa74043a3b22943.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=312984">디즈니플러스 '쇼군' 오늘(23일) 10편 에피소드 전체 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240423083300_3ece34b13afbb3647aa74043a3b22943.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
