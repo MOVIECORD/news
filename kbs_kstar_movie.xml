@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Apr 2024 20:04:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Apr 2024 21:07:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["기막힌 코미디" 영화 '드림 시나리오' 5월 개봉.. '인플루언스' 니콜라스 케이지]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=313256</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=313256</guid>
+            <pubDate>Sun, 28 Apr 2024 21:05:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=313256">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240425082501_2411f0f26a8b74d62a97da9a5bc7bce7.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313256"> "기막힌 코미디" 영화 '드림 시나리오' 5월 개봉.. '인플루언스' 니콜라스 케이지</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240425082501_2411f0f26a8b74d62a97da9a5bc7bce7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[SNL코리아] 패션왕, 나홀로 왕 '기안84']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=313656</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313061">롯데시네마 , 음향 특화관 '광음시네마' 수원관 오픈 ... "폭발적 사운드를 만나다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240424073830_7939699c0c0b3a131028038a06effd5c_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 '종말의 바보'.. "예정된 종말, 인간의 모습"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=313050</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=313050</guid>
-            <pubDate>Tue, 23 Apr 2024 23:03:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=313050">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240424072847_cf85a50539b250782ff9d0a77631b25f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313050">넷플릭스 '종말의 바보'.. "예정된 종말, 인간의 모습"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240424072847_cf85a50539b250782ff9d0a77631b25f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
