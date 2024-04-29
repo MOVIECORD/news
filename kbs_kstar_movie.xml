@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Apr 2024 08:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Apr 2024 11:08:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠팡플레이 '동조자' 오늘 3회.. 궁지에 몰린 ‘대위’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=313784</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=313784</guid>
+            <pubDate>Mon, 29 Apr 2024 11:06:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=313784">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240429182919_105427ded7806814b42caca4d49266cd.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313784">쿠팡플레이 '동조자' 오늘 3회.. 궁지에 몰린 ‘대위’</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240429182919_105427ded7806814b42caca4d49266cd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티빙 '나는 대놓고 신데렐라를 꿈꾼다' 대본 리딩 현장.. 표예진-이준영-김현진-송지우]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=313769</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313107">디플 '지배종' 5-6화, 오늘 공개.. "자작극인가? 테러인가?"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240424092934_7e7ee0da25cc496f3873d8eb19fa1fc7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["내 안에 너 있다" 역대급 케미 '데드풀과 울버린' 여름 개봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=313079</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=313079</guid>
-            <pubDate>Wed, 24 Apr 2024 00:31:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=313079">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240424080742_b8ec36a70380dcb9111e6d2d3e09b0a7.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313079">"내 안에 너 있다" 역대급 케미 '데드풀과 울버린' 여름 개봉  </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240424080742_b8ec36a70380dcb9111e6d2d3e09b0a7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
