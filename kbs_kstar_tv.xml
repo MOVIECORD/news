@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 May 2024 07:04:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 May 2024 08:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JTBC ‘비밀은 없어’, 오늘 첫 방송... "다양한 캐릭터, 지루할 틈이 없다”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=314045</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=314045</guid>
+            <pubDate>Wed, 01 May 2024 08:11:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=314045">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240501114402_fddb77bb37adc3c73c46e8f37aa6f988.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=314045">JTBC ‘비밀은 없어’, 오늘 첫 방송... "다양한 캐릭터, 지루할 틈이 없다”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240501114402_fddb77bb37adc3c73c46e8f37aa6f988.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[아빠하고 나하고] 박중훈과 삼남매 , 오유진과 할머니, 최민수&강주은]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=313720</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313418">여자)아이들 우기, '엠카운트다운'서 'FREAK' 무대 첫 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240426081609_56d13e8b93a323b9ec3e64b13f6569c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['7인의 부활' 윤종훈X조윤희, 선거운동 본격 돌입]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=313286</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=313286</guid>
-            <pubDate>Thu, 25 Apr 2024 21:05:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=313286">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240425091703_45108e70a02b5d943f90e00485563c0d.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313286">'7인의 부활' 윤종훈X조윤희, 선거운동 본격 돌입</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240425091703_45108e70a02b5d943f90e00485563c0d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
