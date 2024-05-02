@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 May 2024 03:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 07:06:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카라타 에리카  주연 '아침이 오면 공허해진다' 5월 개봉]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=314163</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=314163</guid>
+            <pubDate>Thu, 02 May 2024 07:05:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=314163">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240502123705_7f27ae320b4f70ae063f9c088ae1d987.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=314163">카라타 에리카  주연 '아침이 오면 공허해진다' 5월 개봉</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240502123705_7f27ae320b4f70ae063f9c088ae1d987.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[심바의 아버지, '무파사: 라이온 킹'  티저 포스터 공개.. 12월 극장 개봉]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=313942</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313566">영화 '그녀가 죽었다'..  "훔쳐 보는 변요한, 훔쳐 사는 신혜선"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240427082308_e59f02269845e834929465ef94111bdc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['삼식이 삼촌' 이규형, 피도 눈물도 없는 국회의원]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=313226</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=313226</guid>
-            <pubDate>Sat, 27 Apr 2024 00:27:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=313226">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240425074614_98b1e2f12e0f3b1ab13dc54edbc9663e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313226"> '삼식이 삼촌' 이규형, 피도 눈물도 없는 국회의원 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240425074614_98b1e2f12e0f3b1ab13dc54edbc9663e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
