@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 May 2024 21:04:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 May 2024 22:03:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['삼식이 삼촌' 티파니 영,  레이첼 정]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=314169</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=314169</guid>
+            <pubDate>Sun, 05 May 2024 22:01:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=314169">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240502124413_93e34139fd844b0c9ef31eba0df76301.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=314169">'삼식이 삼촌' 티파니 영,  레이첼 정</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240502124413_93e34139fd844b0c9ef31eba0df76301.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["빰빰 빠바밤~" 이정재, '스타워즈 데이' 해운대 입성]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=314563</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313892"> 한재림 감독 넷플릭스 시리즈 '더 에이트 쇼'... "8개의 층, 8개의 희비극"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240430135158_78dd3f68300437dca94465b928c74f12.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장] ‘그녀가 죽었다’ 시사회.. ‘관종악녀’ 신혜선 VS.  ‘관음변태’ 변요한  “전혀 공감할 수 없는 캐릭터를 연기했다!”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=313969</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=313969</guid>
-            <pubDate>Tue, 30 Apr 2024 08:08:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=313969">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240501063945_4251985db3f60fee2dd865256289a034.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=313969">[현장] ‘그녀가 죽었다’ 시사회.. ‘관종악녀’ 신혜선 VS.  ‘관음변태’ 변요한  “전혀 공감할 수 없는 캐릭터를 연기했다!”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240501063945_4251985db3f60fee2dd865256289a034.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
