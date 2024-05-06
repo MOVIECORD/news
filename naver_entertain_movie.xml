@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-05-06T14:04:55.346Z</updated>
+    <updated>2024-05-06T16:11:52.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[춘천 촬영 '빛과 몸' 전주서 상영]]></title>
+        <id>https://m.entertain.naver.com/movie/article/654/0000073839</id>
+        <link href="https://m.entertain.naver.com/movie/article/654/0000073839"/>
+        <updated>2024-05-06T16:10:55.454Z</updated>
+        <content type="html"><![CDATA[대한민국 1세대 마임이스트 유진규 주연의 장편영화 '빛과 몸'(감독 장권호)이 지난 2일과 4일 제25회 전주국제영화제 '코리안시네마' 부문에서 월드프리미어로 상영됐다. 유진규의 삶과 예술의 궤적을 담은 영화 3부작]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘범죄도시4’ 13일 만에 800만 관객 돌파]]></title>
         <id>https://m.entertain.naver.com/movie/article/022/0003930512</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/movie/article/396/0000675466"/>
         <updated>2024-05-06T06:10:44.923Z</updated>
         <content type="html"><![CDATA[손바닥도 마주쳐야 소리가 난다. ‘범죄도시‘ 시리즈의 파죽지세 흥행에는 마석도(마동석)에 비견할 만한 괴물 같은 빌런들이 있었기에 가능했다. 그리고 제작진은 시리즈를 거듭할 수록 영민한 선택으로 영화와 배우를 살린다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[최정아의 연예It수다] 마동석의 피땀눈물…‘범죄도시’ 1억 관객 향해 가자]]></title>
-        <id>https://m.entertain.naver.com/movie/article/396/0000675464</id>
-        <link href="https://m.entertain.naver.com/movie/article/396/0000675464"/>
-        <updated>2024-05-06T06:10:44.923Z</updated>
-        <content type="html"><![CDATA[대한민국 대표 범죄 액션 영화 ‘범죄도시’가 한국 시리즈물 최초로 1억 관객을 돌파를 향해 간다. ‘범죄도시4’가 개봉 13일째 오전 800만 관객을 돌파했다. 범죄도시4(허명행 감독)는 6일 영화관입장권 통합전산망]]></content>
     </entry>
 </feed>
