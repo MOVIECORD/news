@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-05-09T19:05:06.483Z</updated>
+    <updated>2024-05-09T20:04:20.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[13년 만에 한 작품, 김태용 감독·탕웨이 부부 “24시간 영화 얘기”]]></title>
+        <id>https://m.entertain.naver.com/movie/article/005/0001695037</id>
+        <link href="https://m.entertain.naver.com/movie/article/005/0001695037"/>
+        <updated>2024-05-09T20:03:29.166Z</updated>
+        <content type="html"><![CDATA[멀리 떨어진 곳으로 가면, 생의 시간이 다하면 헤어진다고 믿어왔던 관계들에 변화가 생긴다. 인공지능(AI) 기술은 더 이상 볼 수 없을 거라 여겼던 소중한 사람을 눈앞에 데려온다. 서로 안부를 묻고 이야기를 나눌 수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디오리진, 밀리언볼트와 IP 가치 제고 협약 “전략적 협력 통해 글로벌 공략 박차”]]></title>
         <id>https://m.entertain.naver.com/movie/article/144/0000960939</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/movie/article/140/0000052650"/>
         <updated>2024-05-09T10:08:31.258Z</updated>
         <content type="html"><![CDATA[- 태닝 사업을 시작한 계기는. = 대학교를 졸업한 뒤에 미용기기 회사의 에이에스 기사로 일하면서 수입 태닝기를 몇번 수리해봤다. 기계를 다루는 일에 능숙했던 터라 태닝기를 직접 만들어볼 수도 있겠단 생각이 들었다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기획] 적확한 피부색을 구현하다, 유니크 태닝 한남본점 소개와 최순철 대표 인터뷰]]></title>
-        <id>https://m.entertain.naver.com/movie/article/140/0000052649</id>
-        <link href="https://m.entertain.naver.com/movie/article/140/0000052649"/>
-        <updated>2024-05-09T10:08:31.260Z</updated>
-        <content type="html"><![CDATA[2004년 국내 최초 UV(자외선)·화이트 태닝기 제조 기업으로 문을 연 ‘디오에스앤유니크’는 해외 수입에 의존했던 태닝기를 자체적으로 설계·개발·제조해왔다. 현재 국내 태닝 전문점에 있는 태닝기 점유율의 60% 이]]></content>
     </entry>
 </feed>
