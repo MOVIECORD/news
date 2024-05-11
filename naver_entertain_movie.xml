@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-05-11T11:04:57.690Z</updated>
+    <updated>2024-05-11T12:11:28.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미 아카데미, 시상식 시청자 급감 속 5억달러 모금 캠페인]]></title>
+        <id>https://m.entertain.naver.com/movie/article/001/0014681427</id>
+        <link href="https://m.entertain.naver.com/movie/article/001/0014681427"/>
+        <updated>2024-05-11T12:10:37.165Z</updated>
+        <content type="html"><![CDATA[시청자 10년만에 4천400만→2천만명…"다양한 재정 기반 필요" 미국 아카데미(오스카) 시상식 시청자가 전 세계적으로 급감하고 있는 가운데 아카데미가 10일(현지시간) 5억달러(약 6천862억원) 규모의 모금 캠페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인간 생로랑' 수지, 걸친 것만 815만원…박보검과 시밀러룩 자랑]]></title>
         <id>https://m.entertain.naver.com/movie/article/312/0000661964</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/movie/article/109/0005074860"/>
         <updated>2024-05-10T11:03:10.648Z</updated>
         <content type="html"><![CDATA[故이선균의 유작, '행복의 나라'가 개봉을 확정했다. 영화 '행복의 나라'는 1979년 대통령 암살사건 재판에서 단 한번의 선고로 생사가 결정될 '박태주'를 살리기 위해 고군분투하는 변호사 '정인후'의 이야기를 그린]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[리뷰] '혹성탈출: 새로운 시대', 더 깊어진 눈으로 리더의 자질을 묻다]]></title>
-        <id>https://m.entertain.naver.com/movie/article/140/0000052669</id>
-        <link href="https://m.entertain.naver.com/movie/article/140/0000052669"/>
-        <updated>2024-05-10T11:03:10.649Z</updated>
-        <content type="html"><![CDATA[인류가 몰락하고 독수리를 기르며 살아가는 유인원 부족의 차기 지도자 노아(오언 티그)는 ‘결속의 식’에 필요한 독수리 알을 동료들과 찾아다니며 평화로운 나날을 보낸다. 그러나 곧 인간 소녀 노바 (프레이아 앨런)가]]></content>
     </entry>
 </feed>
