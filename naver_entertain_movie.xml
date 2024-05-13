@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-05-13T19:03:33.112Z</updated>
+    <updated>2024-05-13T20:04:06.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[칸국제영화제, 14일 개막···‘베테랑 2’ 월드프리미어]]></title>
+        <id>https://m.entertain.naver.com/movie/article/144/0000961574</id>
+        <link href="https://m.entertain.naver.com/movie/article/144/0000961574"/>
+        <updated>2024-05-13T20:03:23.685Z</updated>
+        <content type="html"><![CDATA[글로벌 시네필의 축제이자 큰 권위를 자랑하는 영화제인 ‘칸국제영화제’가 14일(현지시간) 프랑스 남부 도시 칸에서 개막한다. 올해 77회를 맞은 칸국제영화제는 개막작 ‘더 세컨드 액트’ 상영을 시작으로 12일간 열린]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['시네필의 축제' 칸영화제 개막…황금종려상은 누구에게]]></title>
         <id>https://m.entertain.naver.com/movie/article/001/0014685347</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/movie/article/009/0005302794"/>
         <updated>2024-05-13T09:10:35.228Z</updated>
         <content type="html"><![CDATA[덤덤해서 더 먹먹한..따뜻한 슬픔, 아름다운 추모 ‘잊지 않을게. 가만히 있지도 않을게.’ 멈춰있는 세월을 넘어 다시 피어나잔 약속이 담겼다. ‘2014년 4월 16일’을 기억하고 기록한다. 묵직한 감정을 덤덤하게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 트와이스 다현, 단숨에 주연까지...영화 '그 시절, 우리가 좋아했던 소녀' 韓리메이크]]></title>
-        <id>https://m.entertain.naver.com/movie/article/311/0001725880</id>
-        <link href="https://m.entertain.naver.com/movie/article/311/0001725880"/>
-        <updated>2024-05-13T09:10:35.231Z</updated>
-        <content type="html"><![CDATA[트와이스 다현이 '그 시절, 우리가 좋아했던 소녀' 한국판 주연으로 캐스팅됐다. 13일 엑스포츠뉴스 취재 결과, 대만 인기 영화 '그 시절, 우리가 좋아했던 소녀'가 국내에서 리메이크된다. 여기에 트와이스 다현이 한]]></content>
     </entry>
 </feed>
