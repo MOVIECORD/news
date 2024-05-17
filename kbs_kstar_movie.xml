@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 May 2024 01:47:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 May 2024 02:23:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라파엘로의 삶과 예술세계, 영화 '라파엘로. 예술의 군주' 29일 개봉]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=316121</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=316121</guid>
+            <pubDate>Fri, 17 May 2024 02:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=316121">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240517083006_569cf60817fcdb710fdf0fd452bb1877.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=316121">라파엘로의 삶과 예술세계, 영화 '라파엘로. 예술의 군주' 29일 개봉</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240517083006_569cf60817fcdb710fdf0fd452bb1877.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김준수(XIA) 콘서트 무비 '챕터 원 : 레크리에이션'.. 6월 롯데시네마 개봉]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=316108</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=315718">'삼식이 삼촌' 15일, 1-5화 공개... "난세(亂世)의 두 남자"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240514134905_17508820c74abf2268774139518f793b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 변요한,관찰하는 배우 (영화 ‘그녀가 죽었다’)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=315671</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=315671</guid>
-            <pubDate>Tue, 14 May 2024 01:44:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=315671">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240514093709_9547ba34f4d828d4b6dd176a6b42ac3c.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=315671">[인터뷰] 변요한,관찰하는 배우 (영화 ‘그녀가 죽었다’)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240514093709_9547ba34f4d828d4b6dd176a6b42ac3c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
