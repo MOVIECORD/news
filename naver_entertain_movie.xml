@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-05-19T07:04:00.792Z</updated>
+    <updated>2024-05-19T08:10:58.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘그녀가 죽었다’ 박스오피스 2위…누적 관객수 29만명]]></title>
+        <id>https://m.entertain.naver.com/movie/article/241/0003351235</id>
+        <link href="https://m.entertain.naver.com/movie/article/241/0003351235"/>
+        <updated>2024-05-19T08:10:08.701Z</updated>
+        <content type="html"><![CDATA[영화 ‘그녀가 죽었다’가 개봉 첫 주말 30만 관객을 돌파했다. 영화진흥위원회 영화관입장권 통합전산망 집계에 따르면 ‘그녀가 죽었다’는 토요일인 18일 9만8654명의 관객을 동원하며 일일 박스오피스 2위에 올랐다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[변요한 "난 깊이 있는 사람 아냐, 작품 통해 배운다" [D:인터뷰]]]></title>
         <id>https://m.entertain.naver.com/movie/article/119/0002831197</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/movie/article/609/0000855272"/>
         <updated>2024-05-18T23:06:28.807Z</updated>
         <content type="html"><![CDATA[칸(프랑스)=뉴스엔 정유진 기자] 제 77회 칸 국제영화제(Cannes Film Festival 2024/이하 칸 영화제) 경쟁부문에 초청된 자크 오디아르 감독의 신작 ‘에밀리아 페레즈’ 레드카펫이 5월 18일 오후]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알렉사 청, 블랙드레스로 칸 레드카펫[포토엔HD]]]></title>
-        <id>https://m.entertain.naver.com/movie/article/609/0000855271</id>
-        <link href="https://m.entertain.naver.com/movie/article/609/0000855271"/>
-        <updated>2024-05-18T23:06:28.808Z</updated>
-        <content type="html"><![CDATA[제 77회 칸 국제영화제(Cannes Film Festival 2024/이하 칸 영화제) 경쟁부문에 초청된 자크 오디아르 감독의 신작 ‘에밀리아 페레즈’ 레드카펫이 5월 18일 오후(이하 현지시간) 프랑스 칸 팔레]]></content>
     </entry>
 </feed>
