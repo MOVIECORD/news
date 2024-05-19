@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-05-19T09:07:24.920Z</updated>
+    <updated>2024-05-19T10:07:55.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[꿈 속 스타가 한순간에 악몽의 주인공으로]]></title>
+        <id>https://m.entertain.naver.com/movie/article/011/0004342462</id>
+        <link href="https://m.entertain.naver.com/movie/article/011/0004342462"/>
+        <updated>2024-05-19T10:07:09.979Z</updated>
+        <content type="html"><![CDATA[평범한 한 남성이 갑자기 전 세계 모든 사람들의 꿈에 등장해 순식간에 글로벌 스타가 된다. 남성은 인생 역전의 꿈에 부풀어 올랐지만, 하지만 그것도 잠시. 그가 등장하는 모든 사람들의 꿈이 악몽으로 변하고, 그는 순]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[분노의 ‘퓨리오사’…액션 강력하지만 통쾌함은 글쎄]]></title>
         <id>https://m.entertain.naver.com/movie/article/005/0001697022</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/movie/article/609/0000855274"/>
         <updated>2024-05-18T23:06:28.807Z</updated>
         <content type="html"><![CDATA[제 77회 칸 국제영화제(Cannes Film Festival 2024/이하 칸 영화제) 경쟁부문에 초청된 자크 오디아르 감독의 신작 ‘에밀리아 페레즈’ 레드카펫이 5월 18일 오후(이하 현지시간) 프랑스 칸 팔레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[극영화로 그려낸 세월호 참사의 아픔…'목화솜 피는 날']]></title>
-        <id>https://m.entertain.naver.com/movie/article/001/0014694407</id>
-        <link href="https://m.entertain.naver.com/movie/article/001/0014694407"/>
-        <updated>2024-05-18T23:06:28.807Z</updated>
-        <content type="html"><![CDATA[감정 절제로 깊은 울림 전달…박원상·우미화 뛰어난 연기 2014년 4월 16일 발생한 세월호 참사는 잊을 수 없지만, 10년이 흐르는 동안 기억이 점점 흐릿해져 가는 건 부정하기 어렵다. 세월호 참사의 기억이 끊임없]]></content>
     </entry>
 </feed>
