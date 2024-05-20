@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 May 2024 19:06:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2024 22:03:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['애콜라이트' 이정재와 함께 한다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=316600</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=316600</guid>
+            <pubDate>Mon, 20 May 2024 22:02:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=316600">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240520102423_567fec559da84b389870f28456808034_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=316600">'애콜라이트' 이정재와 함께 한다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240520102423_567fec559da84b389870f28456808034_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['지구를 지켜라!', 요르고스 란티모스 감독 리메이크.. 제목은 <부고니아>]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=316625</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=316009">[리뷰] ‘그녀가 죽었다’... “스토커와 인플루언서” (김세휘 감독, 변요한 신혜선 주연)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240516104047_a04bce06c07602eca4cefcc9a402d0c3_1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 '하이라키'.. 완벽한 질서를 뒤흔들 전학생이 온다,  6월 7일 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=315998</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=315998</guid>
-            <pubDate>Thu, 16 May 2024 00:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=315998">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240516090855_f5df892673b6976afe909924c492bffa.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=315998">넷플릭스 '하이라키'.. 완벽한 질서를 뒤흔들 전학생이 온다,  6월 7일 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240516090855_f5df892673b6976afe909924c492bffa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
