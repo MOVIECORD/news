@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-05-20T11:03:05.026Z</updated>
+    <updated>2024-05-20T12:14:18.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘삼식이 삼촌’ 4일 연속 한국 1위…일본→싱가포르 톱10 안착]]></title>
+        <id>https://v.daum.net/v/20240520200843408</id>
+        <link href="https://v.daum.net/v/20240520200843408"/>
+        <updated>2024-05-20T12:14:18.093Z</updated>
+        <content type="html"><![CDATA[디즈니 플러스 오리지널 시리즈 ‘삼식이 삼촌’이 글로벌 호응을 끌어내고 있다. 20일 OTT 순위 집계 사이트 플릭스패트롤에 따르면 ‘삼식이 삼촌’은 지난 15일 5화까지 공개 이후 4일 연속 디즈니 플러스 한국 TV쇼 및 전체 부문에서 부동의 1위를 이어가고 있다. 지난 17일 기준 일본에서 1위를 달성하고 홍콩, 대만, 싱가포르까지 톱10에 이름을 올]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘범죄도시4’, 전편 뛰어 넘었다…개봉 27일째 1069만 돌파]]></title>
         <id>https://v.daum.net/v/20240520192701863</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240520172242051"/>
         <updated>2024-05-20T10:10:38.313Z</updated>
         <content type="html"><![CDATA[[스포츠조선 안소윤 기자] 영화 '범죄도시4'가 개봉 27일째 누적 관객수 1069만 명을 돌파, '범죄도시3' 최종 스코어를 뛰어넘었다. 20일 영화진흥위원회 영화관입장권 통합전산망에 따르면, '범죄도시4'는 개봉 27일째인 이날 오후 4시 1069만 4671명을 돌파, 전편 '범죄도시3'의 최종 흥행 스코어인 1068만 2813명을 뛰어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팜유냥 이장우, '가필드' 열혈 홍보-ing…개봉 주말 무대인사 성료]]></title>
-        <id>https://v.daum.net/v/20240520172041990</id>
-        <link href="https://v.daum.net/v/20240520172041990"/>
-        <updated>2024-05-20T10:10:38.315Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 5월 극장가를 강타한 애니메이션 영화 ‘가필드 더 무비’가 지난 18일(토) 배우 이장우의 개봉 첫주말 무대인사를 성황리에 마쳤다. 세상에서 가장 유명한 고양이 ‘가필드’의 유쾌한 매력을 담은 ‘가필드 더 무비’가 개봉 주말 무대인사를 성료했다. 이번 무대인사는 지난 18일(토)과 19일(일) 양일간 CGV, 롯데시네마,]]></content>
     </entry>
 </feed>
