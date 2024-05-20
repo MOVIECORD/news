@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 May 2024 22:03:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2024 23:03:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KBS, KOBA2024에서 생성형 AI기술 ‘버티고 비전’ 최초 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=316682</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=316682</guid>
+            <pubDate>Mon, 20 May 2024 23:02:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=316682">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240521073429_c677bd730eb4d8891964961e7ec88afb.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=316682">KBS, KOBA2024에서 생성형 AI기술 ‘버티고 비전’ 최초 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240521073429_c677bd730eb4d8891964961e7ec88afb.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘미녀와 순정남’ 지현우, 지고지순 순애보]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=316665</link>
@@ -348,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%AF%B8%EB%85%80%EC%99%80%20%EC%88%9C%EC%A0%95%EB%82%A8">주말드라마 미녀와 순정남</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240519094048_f343dc7c755f4306cc07b491e308c4df_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['바다 건너 사랑' 이대호, 잠비아 음팡고 아이들에 도움의 손길 건네]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=316494</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=316494</guid>
-            <pubDate>Sun, 19 May 2024 00:31:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=316494">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240519085326_d5c3c07be89759dd36637c4d8c541836.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=316494">'바다 건너 사랑' 이대호, 잠비아 음팡고 아이들에 도움의 손길 건네</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%94%EB%8B%A4%20%EA%B1%B4%EB%84%88%20%EC%82%AC%EB%9E%91%202024">바다 건너 사랑 2024</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240519085326_d5c3c07be89759dd36637c4d8c541836.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
