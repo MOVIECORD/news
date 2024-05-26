@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-05-26T16:06:24.313Z</updated>
+    <updated>2024-05-26T19:06:39.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“AI가 만든 영화…기술적 제안 선택은 인간 몫, 창작주체 바뀌지 않아”]]></title>
+        <id>https://m.entertain.naver.com/movie/article/658/0000074517</id>
+        <link href="https://m.entertain.naver.com/movie/article/658/0000074517"/>
+        <updated>2024-05-26T19:05:45.654Z</updated>
+        <content type="html"><![CDATA[- 기획·편집·유통 등 전 과정 관여 - 인공지능 도입한 제작현장 분석 - “방대한 데이터 근거로 판단 도움 - 저작권 표기문제 등은 고민해야” 생성형 AI로 만든 영화·영상에 대한 관심이 영화계 화두로 떠올랐다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원빈, ‘태극기 휘날리며’ 재개봉 행사 불참 [연예뉴스 HOT]]]></title>
         <id>https://m.entertain.naver.com/movie/article/382/0001127926</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/movie/article/422/0000661747"/>
         <updated>2024-05-26T08:08:33.727Z</updated>
         <content type="html"><![CDATA[전 세계 영화인들이 주목하는 축제, 칸영화제가 막을 내렸습니다. 최고상인 황금종려상은 숀 베이커의 '아노라'인데요, 이번 영화제에서 한국 영화의 자리는 그 어느 때보다 좁았습니다. 신새롬 기자입니다. [기자] &lt;77]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[칸영화제 황금종려상에 미국 숀 베이커 감독 '아노라'(종합)]]></title>
-        <id>https://m.entertain.naver.com/movie/article/001/0014708140</id>
-        <link href="https://m.entertain.naver.com/movie/article/001/0014708140"/>
-        <updated>2024-05-26T08:08:33.729Z</updated>
-        <content type="html"><![CDATA['에밀리아 페레스' 감독상에 트랜스젠더 배우 등 4명 여우주연상 이란 탈출해 유럽 망명한 라술로프 감독 특별 각본상 오보람 이영재 기자 = 숀 베이커 감독의 미국 영화 '아노라'(Anora)가 25일(현지시간) 폐막]]></content>
     </entry>
 </feed>
