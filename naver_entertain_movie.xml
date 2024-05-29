@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-05-29T13:13:34.961Z</updated>
+    <updated>2024-05-29T14:05:45.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카더가든, 영화 ‘남은 인생 10년’ OST ‘이젠 안녕’ 발매!]]></title>
+        <id>https://m.entertain.naver.com/movie/article/144/0000964807</id>
+        <link href="https://m.entertain.naver.com/movie/article/144/0000964807"/>
+        <updated>2024-05-29T14:04:58.950Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 카더가든이 덤덤한 작별 인사를 노래로 전했다. 카더가든이 가창에 참여한 영화 ‘남은 인생 10년’의 컬래버레이션 프로젝트 음원 ‘이젠 안녕’이 29일 오후 6시 각종 온라인 음원사이트를 통해 발매가 됐다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['원더랜드' 박보검, 수지와 달달 듀엣송..직접 작사 참여까지]]></title>
         <id>https://m.entertain.naver.com/movie/article/112/0003700114</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/movie/article/241/0003353797"/>
         <updated>2024-05-29T10:09:40.601Z</updated>
         <content type="html"><![CDATA[디즈니 대표 애니메이션 ‘모아나’가 두 번째 이야기로 돌아온다. 수입·배급사 월트디즈니컴퍼니코리아는 ‘모아나2’의 11월 27일 극장 개봉 소식을 전하며 1차 티저 포스터를 공개했다. ‘모아나’는 제89회 아카데미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[칸 사로잡은 '파르테노페', 하반기 개봉…벌컨상 수상한 수작]]></title>
-        <id>https://m.entertain.naver.com/movie/article/416/0000305868</id>
-        <link href="https://m.entertain.naver.com/movie/article/416/0000305868"/>
-        <updated>2024-05-29T10:09:40.602Z</updated>
-        <content type="html"><![CDATA[이탈리아 거장 파올로 소렌티노의 신작 '파르테노페'가 올 하반기 국내 개봉한다. '파르테노페'는 1950년에 나폴리에서 태어난 주인공 '파르테노페'의 삶을 신화를 모티브로 그려낸 작품. '레옹', '다크나이트' 등의]]></content>
     </entry>
 </feed>
