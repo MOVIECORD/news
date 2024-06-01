@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-06-01T21:05:59.547Z</updated>
+    <updated>2024-06-01T22:03:33.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여름엔 날고 뛰고 웃기는 男男 콤비 영화들 [N초점]]]></title>
+        <id>https://m.entertain.naver.com/movie/article/421/0007576400</id>
+        <link href="https://m.entertain.naver.com/movie/article/421/0007576400"/>
+        <updated>2024-06-01T22:02:41.300Z</updated>
+        <content type="html"><![CDATA[본격적인 여름 성수기를 앞두고, 두 명의 남자 배우를 주축으로 해 이야기를 끌고 가는 영화들이 극장가에 출격한다. 극장에서의 흥행이 쉽지 않은 요즘, '파묘'와 '범죄도시4'의 뒤를 이어 관객들과의 소통에 성공하는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['정글의 왕 타잔'의 생을 살다 간 위대한 수영선수 [역사&오늘]]]></title>
         <id>https://m.entertain.naver.com/movie/article/421/0007576372</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/movie/article/047/0002435319"/>
         <updated>2024-06-01T01:57:20.856Z</updated>
         <content type="html"><![CDATA[1992년에 출판된 고 로버트 제임스 윌러 작가의 동명소설을 영화화한 클린트 이스트우드 감독의 영화 &lt;매디슨 카운티의 다리&gt;는 세계적으로 1억8200만 달러의 흥행성적을 기록했다(박스오피스 모조 기준). 프랑스의 영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화려한 K팝의 적나라한 그늘, 이 아이돌이 겪은 현실]]></title>
-        <id>https://m.entertain.naver.com/movie/article/047/0002435315</id>
-        <link href="https://m.entertain.naver.com/movie/article/047/0002435315"/>
-        <updated>2024-06-01T01:57:20.856Z</updated>
-        <content type="html"><![CDATA[힘내. 수시로 듣게 되는, 또 수없이 하게 되는 말이다. 한국인이 가장 많이 하는 말을 꼽으란 문제가 있다 치면, 힘내라는 말보다 더 많은 지지를 받는 선택지가 그리 많지 않을 정도다. 힘을 내란 말이 그토록 많이]]></content>
     </entry>
 </feed>
