@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jun 2024 04:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jun 2024 05:04:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -318,7 +318,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=317648</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=317648</guid>
             <pubDate>Wed, 29 May 2024 01:55:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=317648">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=317648">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240529093237_248089baf49124682cada0f3b7521e63.jpg" alt="대체 텍스트">
@@ -335,7 +335,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=317631</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=317631</guid>
             <pubDate>Wed, 29 May 2024 01:55:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=317631">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=317631">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240529083122_5ff65db56d8b3eeb5f36031b444035e7.jpg" alt="대체 텍스트">
@@ -1112,6 +1112,13 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/02/23/b095f93e-6839-4a52-b616-b9aa7d8a76c2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['모아나2' 티저, 하루 만에 '1억 7800만' 조회수...디즈니 역대 최다 기록 [할리웃통신] (네이버TV연예 ─ 영화)]]></title>
+            <link>https://m.entertain.naver.com/movie/article/213/0001296929</link>
+            <guid>https://m.entertain.naver.com/movie/article/213/0001296929</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:22 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '모아나 2'의 티저 예고편이 공개 24시간 만에 1억 7,800만 조회수를 기록하며, 역대급 기록을 세웠다. 30일(현지 시간), 월트 디즈니 컴퍼니는 공식 홈페이지를 통해 영화 '모아나 2' 티저 예고편 조]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[‘원더랜드’ 탕웨이-수지-박보검, 대세 배우 총출동…전체 예매율 1위! (네이버TV연예 ─ 영화)]]></title>
             <link>https://m.entertain.naver.com/movie/article/408/0000225373</link>
             <guid>https://m.entertain.naver.com/movie/article/408/0000225373</guid>
@@ -1256,7 +1263,7 @@
             <link>https://m.entertain.naver.com/movie/article/421/0007576372</link>
             <guid>https://m.entertain.naver.com/movie/article/421/0007576372</guid>
             <pubDate>Sat, 01 Jun 2024 21:05:10 GMT</pubDate>
-            <content:encoded><![CDATA[1984년 6월 2일, 미국의 수영선수 출신 영화배우 조니 와이즈뮬러가 출생했다. 그는 영화 타잔의 주인공으로 발탁되어 인상 깊은 연기를 펼치고 큰 인기를 얻었다. 와이즈뮬러는 헝가리 태생으로 3세 때에 부모를 따라]]></content:encoded>
+            <content:encoded><![CDATA[1904년 6월 2일, 미국의 수영선수 출신 영화배우 조니 와이즈뮬러가 출생했다. 그는 영화 타잔의 주인공으로 발탁되어 인상 깊은 연기를 펼치고 큰 인기를 얻었다. 와이즈뮬러는 헝가리 태생으로 3세 때에 부모를 따라]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[BS인터뷰] 사고는 조작 가능? 달에 우주기지?… INTJ 강동원의 ‘N모먼트’(스포有) (네이버TV연예 ─ 영화)]]></title>
@@ -1280,11 +1287,158 @@
             <content:encoded><![CDATA[그룹 소녀시대 멤버 겸 배우 윤아를 비롯한 유색인종 여성 참석자들에게 인종차별적 행위를 벌인 경호원을 막지 못한 제77회 칸 국제 영화제가 소송을 당했다. 30일(현지시간) 영국 BBC 방송에 따르면 우크라이나 출신]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[칸영화제 특집] 진지하고 비극적인 주제라면 노래와 춤으로, <에밀리아 페레즈> 자크 오디아르 감독 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://m.entertain.naver.com/movie/article/140/0000052837</link>
-            <guid>https://m.entertain.naver.com/movie/article/140/0000052837</guid>
-            <pubDate>Sat, 01 Jun 2024 11:07:38 GMT</pubDate>
-            <content:encoded><![CDATA[자크 오디아르 감독의 &lt;에밀리아 페레즈&gt;는 이번 칸영화제에서 심사위원상, 여우주연상(아드리아나 파스, 카를라 소피아 가스콘, 조이 살다나, 설리나 고메즈 공동 수상) 2관왕을 수상했다. 작품이 상영된 뒤로 기자들로부]]></content:encoded>
+            <title><![CDATA[“SBS 욕 먹고있어” 최화정, 4개월 뒤 28주년인데 ‘최파타’ 떠나는 이유[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/609/0000860738</link>
+            <guid>https://m.entertain.naver.com/now/article/609/0000860738</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:29 GMT</pubDate>
+            <content:encoded><![CDATA['최파타'를 떠나는 최화정이 "여러분 덕분에 27년 6개월을 이 자리에 있을 수 있었다"는 소감을 밝혔다. 6월 2일 SBS 파워FM '최화정의 파워타임'은 이날을 끝으로 27년간 지켜왔던 '최파타'를 떠나는 DJ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[SC이슈] 박위 “김기리에게 여자 소개시켜 주려 했다” 폭탄 고백 스튜디오 ‘술렁’ (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/076/0004151784</link>
+            <guid>https://m.entertain.naver.com/now/article/076/0004151784</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:29 GMT</pubDate>
+            <content:encoded><![CDATA[박위가 문지인과 결혼한 김기리에 여자를 소개시켜주려 했다는 폭탄 고백을 해 놀라움을 자아냈다. 3일 방송되는 SBS '동상이몽2-너는 내 운명'(이하 '동상이몽2')에는 스페셜 MC로 박위가 출연한다. 송지은과 10]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['히어로는 아닙니다만' 장기용, 천우희와의 행복 지킬까 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/018/0005754362</link>
+            <guid>https://m.entertain.naver.com/now/article/018/0005754362</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:29 GMT</pubDate>
+            <content:encoded><![CDATA[JTBC 토일드라마 ‘히어로는 아닙니다만’ 측은 10회 방송을 앞둔 2일 복귀주(장기용 분)의 행복과 위기가 교차하는 스틸컷을 공개했다. 2일 방송하는 JTBC 토일드라마‘ 히어로는 아닙니다만’. (사진=JTBC)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[박기량, 치어리더 최초 민속촌 특별무대 “고용주에게 120% 보여줘야”(당나귀귀) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/609/0000860737</link>
+            <guid>https://m.entertain.naver.com/now/article/609/0000860737</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:29 GMT</pubDate>
+            <content:encoded><![CDATA[치어리더 박기량이 행사의 여왕 자리를 노린다. 6월 2일 KBS 2TV ‘사장님 귀는 당나귀 귀’ 제작진에 따르면 이날 방송에서 박기량은 셀프 일자리 창출에 나선다. 박기량은 후배들에게 “고용주에게 120%를 보여줘]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[회귀 때마다 통하는 유재석...이번에도 척척박사 변신?(런닝맨) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/445/0000201984</link>
+            <guid>https://m.entertain.naver.com/now/article/445/0000201984</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:29 GMT</pubDate>
+            <content:encoded><![CDATA[과거 회귀 에피소드에서 유수의 활약을 펼쳤던 유재석이 다시 한번 엘리트 면모를 드러낸다. 2일 방송하는 SBS '런닝맨'에서 배우 지예은과 박주현이 게스트로 함께한 '짝꿍과 짭꿍 사이' 에피소드가 그려진다. 1900]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[박명수 "방송일 줄면 민속촌 거지·각설이 알바로 노후 대비" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/421/0007576907</link>
+            <guid>https://m.entertain.naver.com/now/article/421/0007576907</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:29 GMT</pubDate>
+            <content:encoded><![CDATA[방송인 박명수가 '민속촌 각설이' 아르바이트를 노후 대책으로 마련한다고 해 관심이 쏠린다. 2일 저녁 방송되는 KBS 2TV '사장님 귀는 당나귀 귀'(연출 안상은/이하 '사당귀')에서 박명수가 김숙, 박준형과 거지]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘졸업’ 정려원♥위하준, 세상 달콤한 모닝 이마 뽀뽀 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/144/0000965688</link>
+            <guid>https://m.entertain.naver.com/now/article/144/0000965688</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:29 GMT</pubDate>
+            <content:encoded><![CDATA[tvN ‘졸업’ 정려원, 위하준의 마음이 한층 깊어진다. tvN 토일드라마 ‘졸업’(연출 안판석, 극본 박경화, 제작 스튜디오드래곤·(주)제이에스픽쳐스)측은 8회 방송을 앞둔 2일, 서혜진(정려원 분) 집에 입성한]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['10월 결혼' 박위, 넘치는 사랑꾼 면모…"♥송지은, 첫 만남에 시크릿 춤 춰" ('동상이몽') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/312/0000664890</link>
+            <guid>https://m.entertain.naver.com/now/article/312/0000664890</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:29 GMT</pubDate>
+            <content:encoded><![CDATA[유튜버 박위가 송지은과의 연애담을 전했다. 3일(월) 방송되는 SBS ‘동상이몽2-너는 내 운명’(이하 ‘동상이몽2’)에는 스페셜 MC로 박위가 출연한다. 송지은과 10월 결혼을 앞두고 있는 박위는 최근 진행된 녹화]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['결혼 1주년' 손민수♥임라라, 근황 보니…배까지 '볼록' (조선의 사랑꾼) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/311/0001732599</link>
+            <guid>https://m.entertain.naver.com/now/article/311/0001732599</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:29 GMT</pubDate>
+            <content:encoded><![CDATA[‘조선의 사랑꾼’에서 결혼 1주년을 맞이한 ‘엔조이커플’ 임라라♥손민수가 ‘역대급 닭살’ 모먼트를 예고했다. 3일 방송될 TV조선 ‘조선의 사랑꾼’에는 임라라♥손민수 커플이 오랜만에 근황을 전한다. 지난해 5월 21]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘커넥션’ 이강욱, 의뭉스런 저 눈빛 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/144/0000965685</link>
+            <guid>https://m.entertain.naver.com/now/article/144/0000965685</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:29 GMT</pubDate>
+            <content:encoded><![CDATA[‘커넥션’ 이강욱이 예측불허한 충격 엔딩으로 시선을 싹쓸이했다. SBS ‘커넥션’(극본 이현, 연출 김문교)은 누군가에 의해 마약에 강제로 중독된 마약팀 에이스 형사가 친구의 죽음을 단서로 20년간 이어진 변질된 우]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['엔조이커플' 임라라♥손민수, 신혼 근황..돌연 울먹인 이유는? [조선의 사랑꾼] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/108/0003239802</link>
+            <guid>https://m.entertain.naver.com/now/article/108/0003239802</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:29 GMT</pubDate>
+            <content:encoded><![CDATA['조선의 사랑꾼'에서 결혼 1주년을 맞이한 '엔조이커플' 임라라♥손민수가 '역대급 닭살' 모먼트를 예고했다. 오는 3일 방송되는 '조선의 사랑꾼'에는 임라라♥손민수 커플이 오랜만에 근황을 전한다. 지난해 5월 21일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[문희준♥소율 딸 잼잼, '아이돌 DNA' 어디 안 가네…캠핑장서 댄스 엔진 가동('슈돌') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/312/0000664889</link>
+            <guid>https://m.entertain.naver.com/now/article/312/0000664889</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:29 GMT</pubDate>
+            <content:encoded><![CDATA[문희준과 소율이 자녀들이 '아이돌 DNA'를 뽐냈다. 2일 밤 9시 15분에 방송되는 '슈돌'에서 아빠 문희준과 희율 희우 남매는 사촌들과 함께 오랫동안 기다렸던 가족 캠핑을 떠난다. 특히 문희준은 무려 1년 동안]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['푹다행' 조식 역대급 위기에 붐 플랜비 가동...신메뉴 죽 정체는? (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/213/0001296928</link>
+            <guid>https://m.entertain.naver.com/now/article/213/0001296928</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:29 GMT</pubDate>
+            <content:encoded><![CDATA[‘푹 쉬면 다행이야’ 무인도 임직원들이 조식 시간을 놓칠 위기에서 붐이 ‘플랜비’를 발동한다. 3일 MBC 예능프로그램 ‘푹 쉬면 다행이야’에서는 ‘안CEO’ 안정환 없이 0.5성급 무인도를 운영하게 된 붐과 그가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[임라라♥손민수, 충격 근황 공개…결혼 1주년에 배불러 온 이유(조선의 사랑꾼) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/477/0000493707</link>
+            <guid>https://m.entertain.naver.com/now/article/477/0000493707</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:29 GMT</pubDate>
+            <content:encoded><![CDATA[TV조선 리얼 다큐예능 '조선의 사랑꾼'에서 결혼 1주년을 맞이한 '엔조이커플' 임라라 손민수가 '역대급 닭살' 모먼트가 공개된다. 3일 방송될 '조선의 사랑꾼'에는 임라라 손민수 커플이 오랜만에 근황을 전한다. 지]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘커넥션’ 지성, 안방 흔든 차력쇼 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/144/0000965683</link>
+            <guid>https://m.entertain.naver.com/now/article/144/0000965683</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:29 GMT</pubDate>
+            <content:encoded><![CDATA[‘커넥션’ 지성의 연기 차력쇼가 안방극장을 뒤흔들었다. 이번에도 믿고 보는 지성의 저력은 통했다. 그의 복귀작 SBS 금토드라마 ‘커넥션’의 4회 시청률은 전국 7.9%, 수도권 8.2%, 최고 9.8%(닐슨코리아]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[박위 "김기리에게 여자 소개시켜주려고…" 깜짝 고백 (동상이몽) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/311/0001732597</link>
+            <guid>https://m.entertain.naver.com/now/article/311/0001732597</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:29 GMT</pubDate>
+            <content:encoded><![CDATA[방송인 박위가 절친 김기리에게 여자를 소개시켜주려 했다고 고백했다. 3일 방송되는 SBS ‘동상이몽2-너는 내 운명’(이하 ‘동상이몽2’)에는 스페셜 MC로 박위가 출연한다. 송지은과 10월 결혼을 앞두고 있는 박위]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["충격" 이민우, 현관 비밀번호 잊은 母 패닉…치매검사 결과에 눈물 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/421/0007576878</link>
+            <guid>https://m.entertain.naver.com/now/article/421/0007576878</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:29 GMT</pubDate>
+            <content:encoded><![CDATA[가수 이민우가 날로 달라지는 부모님의 치매 증상을 보며 눈물을 흘린다. 지난 1일 방송된 KBS 2TV 예능 프로그램 '살림하는 남자들' 말미에 공개된 예고편에는 이민우의 가족 이야기가 담겼다. 이민우와 그의 아버지]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[위하준, 정려원 취중 은밀한 귓속말→ 모닝 뽀뽀(졸업) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/477/0000493705</link>
+            <guid>https://m.entertain.naver.com/now/article/477/0000493705</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:29 GMT</pubDate>
+            <content:encoded><![CDATA[tvN '졸업' 정려원, 위하준의 마음이 한층 깊어진다. 2일 오후 9시 20분 방송되는 tvN 토일드라마 '졸업'(극본 박경화, 연출 안판석) 8회에서는 서혜진(정려원) 집에 입성한 이준호(위하준)의 모습이 공개된]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[위하준, 정려원 집 찾아간 당돌한 연하남…은밀한 귓속말→이마 뽀뽀 ('졸업') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/312/0000664888</link>
+            <guid>https://m.entertain.naver.com/now/article/312/0000664888</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:29 GMT</pubDate>
+            <content:encoded><![CDATA[tvN '졸업' 정려원, 위하준의 마음이 한층 깊어진다. tvN 토일드라마 '졸업' 측은 8회 방송을 앞둔 2일, 서혜진(정려원 분) 집에 입성한 이준호(위하준 분)의 모습을 공개했다. 세상 달콤한 모닝 이마 뽀뽀가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['졸업' 위하준, 정려원 집 입성…'모닝 이마 뽀뽀'로 설렘↑ (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/018/0005754341</link>
+            <guid>https://m.entertain.naver.com/now/article/018/0005754341</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:29 GMT</pubDate>
+            <content:encoded><![CDATA[‘졸업’ 정려원, 위하준의 마음이 한층 깊어진다. tvN 토일드라마 ‘졸업’. (사진=tvN) tvN 토일드라마 ‘졸업’ 측은 8회 방송을 앞둔 2일 서혜진(정려원 분) 집에 입성한 이준호(위하준 분)의 모습을 공개]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[박위 "♥송지은, 화장기 없는 얼굴로 첫 만남…정말 좋았다" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/421/0007576873</link>
+            <guid>https://m.entertain.naver.com/now/article/421/0007576873</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:29 GMT</pubDate>
+            <content:encoded><![CDATA[유튜버 박위가 연인인 그룹 시크릿 출신 송지은과의 첫 만남을 전했다. 오는 3일 오후 방송되는 SBS 예능 '동상이몽2-너는 내 운명'(이하 '동상이몽2')에서는 스페셜 MC로 박위가 출연한다. 송지은과 오는 10월]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["사생활 단속 중요"…'졸업' 정려원 위하준 키스 후 달라진 모습 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/421/0007576871</link>
+            <guid>https://m.entertain.naver.com/now/article/421/0007576871</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:29 GMT</pubDate>
+            <content:encoded><![CDATA['졸업' 정려원 위하준이 더 가까워졌다. 지난 1일 방송된 tvN 토일드라마 '졸업'(극본 박경화/연출 안판석) 7회에서는 서혜진(정려원 분)과 이준호(위하준 분)의 '난로 키스' 후일담이 그려졌다. 마음을 고백한]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['세자가 사라졌다' 수호, 남경읍 고문 목격에 '울분' (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
@@ -1308,158 +1462,46 @@
             <content:encoded><![CDATA[2일 오후 6시 10분 방송되는 SBS '런닝맨'에서는 한층 더 강력해진 유재석의 추리 본능이 공개된다. 이날 방송은 '짝꿍과 짭꿍 사이' 편으로 가짜 '짭꿍' 속 진짜 '운명의 짝꿍' 한 쌍을 찾아야 하는 커플 레]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[취사 장교 백종원 앞 등장한 '천만 배우' 이도현...군악대 공연 공개(백패커2) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/445/0000201982</link>
-            <guid>https://m.entertain.naver.com/now/article/445/0000201982</guid>
-            <pubDate>Sun, 02 Jun 2024 04:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[취사 장교 백종원이 이끄는 '백패커2' 앞에 군 복무 중인 이도현이 등장한다. 2일 오후 7시 40분 첫 방송하는 tvN '백패커2(연출 신찬양)' 2회에서는 군대 특수보직 특집 1탄으로 공군 군악의장대대에 입성하는]]></content:encoded>
+            <title><![CDATA[위하준, ♥정려원 집 입성→모닝 이마 뽀뽀, 애정 깊어진다 (졸업) (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://m.entertain.naver.com/now/article/076/0004151783</link>
+            <guid>https://m.entertain.naver.com/now/article/076/0004151783</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:34 GMT</pubDate>
+            <content:encoded><![CDATA[정려원과 위하준, 서로를 향한 마음이 한층 깊어질 예정이다. tvN 토일드라마 '졸업'(연출 안판석, 극본 박경화, 제작 스튜디오드래곤·(주)제이에스픽쳐스)측은 8회 방송을 앞둔 2일, 서혜진(정려원 분) 집에 입성]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제로베이스원 장하오 ‘내 눈앞에 나타난 왕자님’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/609/0000860733</link>
-            <guid>https://m.entertain.naver.com/now/article/609/0000860733</guid>
-            <pubDate>Sun, 02 Jun 2024 04:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[제로베이스원(ZB1) 멤버 장하오와 리키가 6월 2일 오후 인천 중구 운서동 인천국제공항 제 2여객터미널을 통해 해외 일정 참석 차 중국 항저우로 출국하고 있다.]]></content:encoded>
+            <title><![CDATA[천우희♥장기용 로맨틱 팔베개+눈맞춤→충격 예지몽 '위기'[히어로는 아닙니다만] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://m.entertain.naver.com/now/article/108/0003239805</link>
+            <guid>https://m.entertain.naver.com/now/article/108/0003239805</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:34 GMT</pubDate>
+            <content:encoded><![CDATA[드라마 '히어로는 아닙니다만'에서 장기용이 다시 찾은 행복을 지킬 수 있을까. JTBC 토일드라마 '히어로는 아닙니다만'(연출 조현탁, 극본 주화미, 크리에이터 글Line&amp;강은경, 제작 글앤그림미디어·드라마하우스스튜]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제로베이스원 장하오 ‘찰나의 순간도 화보로 만드는 마법’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/609/0000860732</link>
-            <guid>https://m.entertain.naver.com/now/article/609/0000860732</guid>
-            <pubDate>Sun, 02 Jun 2024 04:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[제로베이스원(ZB1) 멤버 장하오와 리키가 6월 2일 오후 인천 중구 운서동 인천국제공항 제 2여객터미널을 통해 해외 일정 참석 차 중국 항저우로 출국하고 있다.]]></content:encoded>
+            <title><![CDATA['졸업' 위하준♥정려원 모닝 이마 뽀뽀 포착..설렘 지수 '폭발' (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://m.entertain.naver.com/now/article/108/0003239804</link>
+            <guid>https://m.entertain.naver.com/now/article/108/0003239804</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:34 GMT</pubDate>
+            <content:encoded><![CDATA[드라마 '졸업'에서 정려원, 위하준의 마음이 한층 깊어진다. tvN 토일드라마 '졸업'(연출 안판석, 극본 박경화, 제작 스튜디오드래곤·(주)제이에스픽쳐스) 제작진은 8회 방송을 앞둔 2일, 서혜진(정려원 분) 집에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘뒷광대’ 민희진은 자신의 떡밥을 얼마나 회수할 수 있을까?[이슈와치] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/609/0000860731</link>
-            <guid>https://m.entertain.naver.com/now/article/609/0000860731</guid>
-            <pubDate>Sun, 02 Jun 2024 04:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴진스 엄마 민희진 대표의 2차 기자회견은 순한 맛으로 평가받는다. 흥분과 분노, 회한과 결투 의지를 불태운 한 달 전 1차 회견의 강도와 충격이 워낙 셌던 탓이다. 이번엔 ‘개저씨’ ‘맞다이로 들어와’ 같은 날것]]></content:encoded>
+            <title><![CDATA[장기용, 다크모드 원상 복귀 “충격적 사건 벌어진다”(‘히어로’)[Oh!쎈 예고] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://m.entertain.naver.com/now/article/109/0005089290</link>
+            <guid>https://m.entertain.naver.com/now/article/109/0005089290</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:34 GMT</pubDate>
+            <content:encoded><![CDATA[‘히어로는 아닙니다만’ 장기용이 다시 찾은 행복을 지킬 수 있을까. JTBC 토일드라마 ‘히어로는 아닙니다만’(연출 조현탁, 극본 주화미, 크리에이터 글Line&amp;강은경) 측은 10회 방송을 앞둔 2일, 복귀주(장기용]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘삼식이 삼촌’ 송강호를 명배우로 만드는 말끝 발화법 [OTT 내비게이션⑱] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/119/0002835800</link>
-            <guid>https://m.entertain.naver.com/now/article/119/0002835800</guid>
-            <pubDate>Sun, 02 Jun 2024 04:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[이것은 어디까지나 개인적 일고(一考, 한 번 생각해 봄)이다. 작품이 좋으면 기본 줄거리와 캐릭터, 주제 의식, 미장센 외에도 여러 생각해볼 거리와 기회를 얻는다. 데뷔 35년 차 배우 송강호가 처음으로 선택한 드라]]></content:encoded>
+            <title><![CDATA[‘졸업’ 위하준, 정려원 집 입성? 취중 귓속말→모닝 이마 뽀뽀 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://m.entertain.naver.com/now/article/468/0001065379</link>
+            <guid>https://m.entertain.naver.com/now/article/468/0001065379</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:34 GMT</pubDate>
+            <content:encoded><![CDATA[tvN 토일드라마 ‘졸업’. 사진 | tvN 정려원, 위하준의 마음이 한층 깊어진다. tvN 토일드라마 ‘졸업’ 측은 8회 방송을 앞둔 2일, 서혜진(정려원 분) 집에 입성한 이준호(위하준 분)의 모습을 공개했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김숙 "일 줄면 민속촌서 거지 아르바이트"(사당귀) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/477/0000493702</link>
-            <guid>https://m.entertain.naver.com/now/article/477/0000493702</guid>
-            <pubDate>Sun, 02 Jun 2024 04:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[KBS2 '사장님 귀는 당나귀 귀'(사당귀) 박명수가 한국민속촌 각설이 아르바이트를 노후 대책으로 마련한다고 해 관심이 쏠린다. 2일 오후 4시 40분 방송되는 '사당귀'에서 박명수가 김숙, 박준형과 거지 트리오를]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최화정 “돌아가신 母, 라디오 놓지 말라 했는데‥” ‘최파타’ 막방에 눈물 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/609/0000860730</link>
-            <guid>https://m.entertain.naver.com/now/article/609/0000860730</guid>
-            <pubDate>Sun, 02 Jun 2024 04:10:00 GMT</pubDate>
-            <content:encoded><![CDATA['최파타'를 떠나는 최화정이 "돌아가신 엄마가 잘했다고 칭찬해 주셨을 것"이라며 눈물을 흘렸다. 6월 2일 SBS 파워FM '최화정의 파워타임'은 이날을 끝으로 27년간 지켜왔던 '최파타'를 떠나는 DJ 최화정의 마]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[제로베이스원 리키 ‘머리부터 발끝까지 올블랙’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/609/0000860729</link>
-            <guid>https://m.entertain.naver.com/now/article/609/0000860729</guid>
-            <pubDate>Sun, 02 Jun 2024 04:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[제로베이스원(ZB1) 멤버 장하오와 리키가 6월 2일 오후 인천 중구 운서동 인천국제공항 제 2여객터미널을 통해 해외 일정 참석 차 중국 항저우로 출국하고 있다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['라디오쇼' 한해 "남창희 닮은꼴? 개인적으로 좋아...그 핑계로 친해졌다" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/213/0001296927</link>
-            <guid>https://m.entertain.naver.com/now/article/213/0001296927</guid>
-            <pubDate>Sun, 02 Jun 2024 04:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[래퍼 한해가 닮은꼴 인연으로 남창희와 친해졌다고 밝혔다. 2일 KBS쿨FM ‘박명수의 라디오쇼’에선 11시 내고향 코너로 꾸며진 가운데 래퍼 한해와의 전화 토크가 펼쳐졌다. 근황에 대한 질문에 한해는 “사람들이 제가]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘커넥션’ 원조 ‘닥터’ 윤나무, 후속 ‘닥터’ 권율?..흥미진진! [김재동의 나무와 숲] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/109/0005089278</link>
-            <guid>https://m.entertain.naver.com/now/article/109/0005089278</guid>
-            <pubDate>Sun, 02 Jun 2024 04:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[1일 방송된 SBS 금토드라마 ‘커넥션’ 4회에선 박태진(권율 분)과 원종수(김경남 분)가 필오동 바이오산업단지 개발사업에 대해 이야기를 나누는 장면이 나온다. “혹시 외부에서 개인투자자나 자금 유입이 필요할 수도]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박위 "문지인 사귀던 김기리에게 여자 소개시켜 주려했다"(동상이몽) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/477/0000493700</link>
-            <guid>https://m.entertain.naver.com/now/article/477/0000493700</guid>
-            <pubDate>Sun, 02 Jun 2024 04:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[박위가 3일 오후 10시 10분 방송되는 SBS '동상이몽2-너는 내 운명'(이하 '동상이몽2')에 스페셜 MC로 출연한다. 송지은과 10월 결혼을 앞둔 박위는 이날 방송에서 김기리, 문지인 커플의 최측근으로 참여한]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[제로베이스원 리키 ‘美친 섹시 블랙’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/609/0000860728</link>
-            <guid>https://m.entertain.naver.com/now/article/609/0000860728</guid>
-            <pubDate>Sun, 02 Jun 2024 04:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[제로베이스원(ZB1) 멤버 장하오와 리키가 6월 2일 오후 인천 중구 운서동 인천국제공항 제 2여객터미널을 통해 해외 일정 참석 차 중국 항저우로 출국하고 있다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[제로베이스원 장하오 ‘탄성 자아내는 잘생김’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/609/0000860727</link>
-            <guid>https://m.entertain.naver.com/now/article/609/0000860727</guid>
-            <pubDate>Sun, 02 Jun 2024 04:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[제로베이스원(ZB1) 멤버 장하오와 리키가 6월 2일 오후 인천 중구 운서동 인천국제공항 제 2여객터미널을 통해 해외 일정 참석 차 중국 항저우로 출국하고 있다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[제로베이스원 리키 ‘뱀파이어 비주얼’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/609/0000860726</link>
-            <guid>https://m.entertain.naver.com/now/article/609/0000860726</guid>
-            <pubDate>Sun, 02 Jun 2024 04:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[제로베이스원(ZB1) 멤버 장하오와 리키가 6월 2일 오후 인천 중구 운서동 인천국제공항 제 2여객터미널을 통해 해외 일정 참석 차 중국 항저우로 출국하고 있다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[제로베이스원 장하오 ‘귀여운 하오 고냥이~’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/609/0000860725</link>
-            <guid>https://m.entertain.naver.com/now/article/609/0000860725</guid>
-            <pubDate>Sun, 02 Jun 2024 04:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[제로베이스원(ZB1) 멤버 장하오와 리키가 6월 2일 오후 인천 중구 운서동 인천국제공항 제 2여객터미널을 통해 해외 일정 참석 차 중국 항저우로 출국하고 있다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘엔조이커플’ 손민수, ♥임라라에 기습 키스 포착…왜 울먹였나(사랑꾼) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/609/0000860724</link>
-            <guid>https://m.entertain.naver.com/now/article/609/0000860724</guid>
-            <pubDate>Sun, 02 Jun 2024 04:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[결혼 1주년을 맞이한 ‘엔조이커플’ 임라라, 손민수가 행복한 일상을 공개한다. 임라라, 손민수 부부는 6월 3일 방송되는 TV CHOSUN ‘조선의 사랑꾼’에 출연한다. 지난해 5월 21일 성대한 결혼식을 올린 두]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최화정, 마지막 방송에 울컥 "이별 준비하며 많은 감정이 교차" [최파타] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/108/0003239790</link>
-            <guid>https://m.entertain.naver.com/now/article/108/0003239790</guid>
-            <pubDate>Sun, 02 Jun 2024 04:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 최화정이 마지막 라디오 방송의 오프닝을 열며 울컥했다. 2일 오후 방송된 SBS 파워FM '최화정의 파워타임'(이하 '최파타')에서는 최화정이 마지막 방송을 진행했다. 이날 방송은 녹화 방송으로 진행된다. 이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["첫 키스 장소 노래방?" 김종국, 父 폭로에 당황 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/003/0012582127</link>
-            <guid>https://m.entertain.naver.com/now/article/003/0012582127</guid>
-            <pubDate>Sun, 02 Jun 2024 04:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[댄스듀오 '터보' 출신의 김종국이 첫 키스 일화를 밝혔다. 2일 오후 9시 5분 방송되는 SBS TV 예능물 '미운 우리 새끼'에서 김종국과 배우 이동건, 개그맨 허경환, 그룹 '슈퍼주니어' 김희철 부자(父子)의 여]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘최파타’ 막방에 최화정 “27년 6개월, 사랑과 응원에 가슴 벅차” 울컥 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/609/0000860723</link>
-            <guid>https://m.entertain.naver.com/now/article/609/0000860723</guid>
-            <pubDate>Sun, 02 Jun 2024 04:10:00 GMT</pubDate>
-            <content:encoded><![CDATA['최파타'를 떠나는 최화정이 "여러분 덕분에 27년 6개월을 이 자리에 있었다"는 벅찬 소회를 전했다. 6월 2일 SBS 파워FM '최화정의 파워타임'은 이날을 끝으로 27년간 지켜왔던 '최파타'를 떠나는 DJ 최화]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['더 에이트 쇼' 문정희, 뜻밖의 성향 테스트 결과 [인터뷰] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/469/0000804559</link>
-            <guid>https://m.entertain.naver.com/now/article/469/0000804559</guid>
-            <pubDate>Sun, 02 Jun 2024 04:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[배우 문정희는 '더 에이트 쇼' 성향 테스트를 진행했다. 결과는 자신이 연기했던 5층도, 스스로를 돌아봤을 때 닮았다는 생각이 들었던 2, 3층도 아니었다. 바로 1층이었다. 실제 문정희와 무척이나 다른 성격의 5층]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['놀면 뭐하니?' 축제 최종 라인업 공개…샤이니∙데이식스∙강진 등 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/011/0004348174</link>
-            <guid>https://m.entertain.naver.com/now/article/011/0004348174</guid>
-            <pubDate>Sun, 02 Jun 2024 04:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[MBC '놀면 뭐하니?'가 축제 라인업을 완성했다. 1일 방송된 MBC '놀면 뭐하니?'에서는 '우리들의 축제' 최종 라인업이 공개됐다. 이에 따르면 강진, 김태우X꼬꼬스타, 다이나믹 듀오, 데이식스, 러블리즈, 레]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박위 “절친 김기리♥문지인 열애 전혀 몰랐다…여자 소개시켜줄뻔”(동상이몽) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/609/0000860722</link>
-            <guid>https://m.entertain.naver.com/now/article/609/0000860722</guid>
-            <pubDate>Sun, 02 Jun 2024 03:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[방송인 박위가 절친한 코미디언 김기리의 열애 관련 비화를 공개한다. 박위는 6월 3일 방송되는 SBS ‘동상이몽2-너는 내 운명’(이하 ‘동상이몽2’)에 스페셜 MC로 출연한다. 그룹 시크릿 출신 송지은과 10월 결]]></content:encoded>
+            <title><![CDATA[장기용♥천우희, 더 과감해졌다…침대 나란히 누워 로맨틱 팔베개(히어로는) (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://m.entertain.naver.com/now/article/609/0000860736</link>
+            <guid>https://m.entertain.naver.com/now/article/609/0000860736</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:34 GMT</pubDate>
+            <content:encoded><![CDATA[배우 장기용, 천우희가 극 중 더 과감해진다. JTBC 토일드라마 ‘히어로는 아닙니다만’ 측은 10회 방송을 앞둔 6월 2일 복귀주(장기용 분)의 행복과 위기가 교차하는 스틸컷을 공개했다. 생애 가장 행복했던 시간을]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[당돌해진 위하준, 정려원 집까지 찾아갔다…모닝 이마 뽀뽀까지(졸업) (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
@@ -1595,46 +1637,53 @@
             <content:encoded><![CDATA[유준이는 왜 언제 사망했나 1일 방송된 SBS '그것이 알고싶다'(이하 '그알')에서는 '다둥이네의 마지막 하루 - 8세 아동 사망 사건'이라는 부제로 아동학대 사건을 조명했다. 지난 4월 오전 119로 아이가 숨을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[IS인터뷰] ‘선업튀’ 감독X작가 “‘선재야’라고 불린 변우석에 화제성 실감”[종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://m.entertain.naver.com/now/article/241/0003354658</link>
-            <guid>https://m.entertain.naver.com/now/article/241/0003354658</guid>
-            <pubDate>Sun, 02 Jun 2024 01:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[“변우석이 영화제에서 ‘선재야’라고 불리는 영상을 봤어요. 배우와 캐릭터가 사랑받는 걸 보며 화제가 되고 있구나 알았죠.” 드라마 ‘선재 업고 튀어’의 제작진이 이례적인 흥행에 감사를 표했다. 최근 서울 종로구 한]]></content:encoded>
+            <title><![CDATA[위하준, ♥정려원 집 입성→모닝 이마 뽀뽀, 애정 깊어진다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20240602135024672</link>
+            <guid>https://v.daum.net/v/20240602135024672</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:59 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠조선 조민정 기자] 정려원과 위하준, 서로를 향한 마음이 한층 깊어질 예정이다. tvN 토일드라마 '졸업'(연출 안판석, 극본 박경화, 제작 스튜디오드래곤·(주)제이에스픽쳐스)측은 8회 방송을 앞둔 2일, 서혜진(정려원 분) 집에 입성한 이준호(위하준 분)의 모습을 공개했다. 세상 달콤한 모닝 이마 뽀뽀가 달라진 관계를 예고하며 설렘을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“밀어내지만 마세요”...위하준, 선 긋는 정려원에 직진 ‘남은 건 로맨스’ (졸업) (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://m.entertain.naver.com/now/article/410/0001002509</link>
-            <guid>https://m.entertain.naver.com/now/article/410/0001002509</guid>
-            <pubDate>Sun, 02 Jun 2024 01:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘졸업’ 정려원, 위하준이 마음의 속도를 맞춰가기 시작했다. 지난 1일 방송된 tvN 토일드라마 ‘졸업’에서는 서혜진(정려원 분)과 이준호(위하준 분)의 ‘난로 키스’ 후일담이 그려졌다. 마음을 고백한 이준호는 서혜]]></content:encoded>
+            <title><![CDATA['히어로는 아닙니다만' 장기용, 천우희와의 행복 지킬까 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20240602135015669</link>
+            <guid>https://v.daum.net/v/20240602135015669</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:59 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 장병호 기자] JTBC 토일드라마 ‘히어로는 아닙니다만’ 측은 10회 방송을 앞둔 2일 복귀주(장기용 분)의 행복과 위기가 교차하는 스틸컷을 공개했다. 2일 방송하는 JTBC 토일드라마‘ 히어로는 아닙니다만’. (사진=JTBC)생애 가장 행복했던 시간을 되찾으며 도다해(천우희 분)에게 청혼까지 한 복귀주. 행복한 한때를 보내는 모습과 대비되는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[IS인터뷰] 변우석 “9~15회 다시 찍고 싶어…감정표현 더 잘할 수 있어”[종합] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://m.entertain.naver.com/now/article/241/0003354655</link>
-            <guid>https://m.entertain.naver.com/now/article/241/0003354655</guid>
-            <pubDate>Sun, 02 Jun 2024 01:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[“후반부 대학생 때와 성인 초반의 모습들은 감정 표현이 좀 아쉽더라고요. 다시 찍고 싶어요.” 최근 종영한 tvN 월화드라마 ‘선재 업고 튀어’로 신드롬을 일으킨 배우 변우석의 설명이다. 영화 ‘늑대의 유혹’의 ‘강]]></content:encoded>
+            <title><![CDATA[천우희♥장기용 로맨틱 팔베개+눈맞춤→충격 예지몽 '위기' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20240602134754628</link>
+            <guid>https://v.daum.net/v/20240602134754628</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:59 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 윤상근 기자] /사진제공=JTBC 드라마 '히어로는 아닙니다만'에서 장기용이 다시 찾은 행복을 지킬 수 있을까. JTBC 토일드라마 '히어로는 아닙니다만'(연출 조현탁, 극본 주화미, 크리에이터 글Line&amp;강은경, 제작 글앤그림미디어·드라마하우스스튜디오·SLL) 제작진은 10회 방송을 앞둔 2일, 복귀주(장기용 분)의 행복과 위기가 교차하는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임수향, 차화연에 머리채 잡혔다...'분노 스위치' 켜진 이유? (순정남) (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://m.entertain.naver.com/now/article/415/0000028796</link>
-            <guid>https://m.entertain.naver.com/now/article/415/0000028796</guid>
-            <pubDate>Sun, 02 Jun 2024 01:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[임수향과 차화연이 팽팽한 신경전을 이어가며 갈등이 고조된다. 2일 저녁 7시 55분 방송되는 KBS 2TV 주말드라마 '미녀와 순정남' 22회에서는 백미자(차화연 분)가 김지영(임수향 분)에게 극한의 분노를 터트리는]]></content:encoded>
+            <title><![CDATA['졸업' 위하준♥정려원 모닝 이마 뽀뽀 포착..설렘 지수 '폭발' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20240602134412579</link>
+            <guid>https://v.daum.net/v/20240602134412579</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:59 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 윤상근 기자] /사진제공=tvN 드라마 '졸업'에서 정려원, 위하준의 마음이 한층 깊어진다. tvN 토일드라마 '졸업'(연출 안판석, 극본 박경화, 제작 스튜디오드래곤·(주)제이에스픽쳐스) 제작진은 8회 방송을 앞둔 2일, 서혜진(정려원 분) 집에 입성한 이준호(위하준 분)의 모습을 공개했다. 세상 달콤한 모닝 이마 뽀뽀가 달라진 관계를]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘우리, 집’ 김희선-이혜영, ‘김남희 사망 추정’에 ‘경악’ (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://m.entertain.naver.com/now/article/408/0000225357</link>
-            <guid>https://m.entertain.naver.com/now/article/408/0000225357</guid>
-            <pubDate>Sun, 02 Jun 2024 01:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[“우린 이제 한 팀” MBC 금토드라마 ‘우리, 집’ 김희선과 이혜영이 ‘김남희 사망 추정 엔딩’으로 충격을 선사했다. 지난 1일(토)에 방송된 MBC 금토드라마 ‘우리, 집’(기획 권성창 / 연출 이동현, 위득규]]></content:encoded>
+            <title><![CDATA[장기용, 다크모드 원상 복귀 “충격적 사건 벌어진다” (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20240602133345403</link>
+            <guid>https://v.daum.net/v/20240602133345403</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:59 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=강서정 기자] ‘히어로는 아닙니다만’&nbsp;장기용이 다시 찾은 행복을 지킬 수 있을까. JTBC&nbsp;토일드라마&nbsp;‘히어로는 아닙니다만’(연출 조현탁,&nbsp;극본 주화미,&nbsp;크리에이터 글Line&amp;강은경)&nbsp;측은&nbsp;10회 방송을 앞둔&nbsp;2일,&nbsp;복귀주(장기용 분)의 행복과 위기가 교차하는 스틸컷을 공개했다.&nbsp;생애 가장 행복했던 시간을 되찾으며 도다해(천우희 분)에게 청혼]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[스브스夜] '커넥션' 지성, 윤나무 사망 전 CCTV 영상 확인…권율-정유민, 내연 관계였다 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://m.entertain.naver.com/now/article/416/0000305940</link>
-            <guid>https://m.entertain.naver.com/now/article/416/0000305940</guid>
-            <pubDate>Sun, 02 Jun 2024 01:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤나무가 확인하고 간 CCTV 영상의 내용은 무엇일까? 1일 방송된 SBS 금토 드라마 '커넥션'에서는 점점 숨겨진 진실에 다가가는 장재경의 모습이 그려졌다. 이날 박태진은 박준서와 최지연의 집으로 향했다. 박태진의]]></content:encoded>
+            <title><![CDATA[위하준, 정려원 취중 은밀한 귓속말→ 모닝 뽀뽀 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20240602132141242</link>
+            <guid>https://v.daum.net/v/20240602132141242</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:59 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]tvN ‘졸업’ 정려원, 위하준의 마음이 한층 깊어진다. 2일 오후 9시 20분 방송되는 tvN 토일드라마 ‘졸업’(극본 박경화, 연출 안판석) 8회에서는 서혜진(정려원) 집에 입성한 이준호(위하준)의 모습이 공개된다. 세상 달콤한 모닝 이마 뽀뽀가 달라진 관계를 예고하며 설렘을 높인다. 지난 방송에서 서혜진은 마음이 복잡]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['졸업' 위하준, 정려원 집 입성…'모닝 이마 뽀뽀'로 설렘↑ (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20240602131753184</link>
+            <guid>https://v.daum.net/v/20240602131753184</guid>
+            <pubDate>Sun, 02 Jun 2024 05:03:59 GMT</pubDate>
+            <content:encoded><![CDATA[[이데일리 장병호 기자] ‘졸업’ 정려원, 위하준의 마음이 한층 깊어진다. tvN 토일드라마 ‘졸업’. (사진=tvN)tvN 토일드라마 ‘졸업’ 측은 8회 방송을 앞둔 2일 서혜진(정려원 분) 집에 입성한 이준호(위하준 분)의 모습을 공개했다. 세상 달콤한 ‘모닝 이마 뽀뽀’가 달라진 관계를 예고하며 설렘을 높인다. 지난 방송에서 서혜진은 마음이 복잡했다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[장기용♥천우희, 더 과감해졌다…침대 나란히 누워 로맨틱 팔베개 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
@@ -1693,53 +1742,95 @@
             <content:encoded><![CDATA[[OSEN=김재동 객원기자]&nbsp;1일 방송된 SBS 금토드라마 ‘커넥션’ 4회에선 박태진(권율 분)과 원종수(김경남 분)가 필오동 바이오산업단지 개발사업에 대해 이야기를 나누는 장면이 나온다. “혹시 외부에서 개인투자자나 자금 유입이 필요할 수도 있을 것 같은데”(박태진) “왜 누구 있어?(원종수)” “물어보면 의향은 있을 것 같아서”(박태진) “야, 최소]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘졸업’ 위하준, 선 긋는 정려원에 직진 “밀어내지만 마세요” (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20240602121333394</link>
-            <guid>https://v.daum.net/v/20240602121333394</guid>
-            <pubDate>Sun, 02 Jun 2024 04:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[“기억은 하고 계세요. 내가 선생님 좋아하는 거” tvN ‘졸업’ 정려원, 위하준이 마음의 속도를 맞춰가기 시작했다. 지난 1일 방송된 tvN 토일드라마 ‘졸업’(연출 안판석, 극본 박경화, 제작 스튜디오드래곤·(주)제이에스픽쳐스) 7회에서는 서혜진(정려원 분)과 이준호(위하준 분)의 '난로 키스' 후일담이 그려졌다. 마음을 고백한 이준호는 서혜진에게]]></content:encoded>
+            <title><![CDATA[박나래, 안양예고 2년 후배 오연서 앞 든든한 선배美 발산 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240602140330900</link>
+            <guid>https://v.daum.net/v/20240602140330900</guid>
+            <pubDate>Sun, 02 Jun 2024 05:04:03 GMT</pubDate>
+            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]개그우먼 박나래가 오직 정답을 향한 직진 본능으로 토요일 저녁을 불태웠다. 박나래는 1일 방송된 tvN ‘놀라운 토요일-초여름 특집’에서 드라마 ‘플레이어2’ 배우 송승헌, 오연서, 이시언, 태원석과 함께 받아쓰기에 도전했다. 이날 박나래는 문세윤과 함께 수박 분장을 하고 나와 시청자들의 시선을 고정시켰다. 지난주 수박 분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘히어로는 아닙니다만’ 장기용, 천우희에 청혼 입맞춤 “가족에 너도 포함” (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20240602112131401</link>
-            <guid>https://v.daum.net/v/20240602112131401</guid>
-            <pubDate>Sun, 02 Jun 2024 03:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[“지킬 거야. 그 가족에 너도 포함” ‘히어로는 아닙니다만’ 장기용이 천우희에게 청혼했다. 지난 1일 방송된 JTBC 토일드라마 ‘히어로는 아닙니다만’(연출 조현탁, 극본 주화미, 크리에이터 글Line&amp;강은경, 제작 글앤그림미디어·드라마하우스스튜디오·SLL) 9회에서는 복귀주(장기용 분)가 생애 가장 큰 행복, 복이나(박소이 분)가 태어난 시간을 되찾]]></content:encoded>
+            <title><![CDATA[‘탐정들의 영업비밀’ 아내, 신생아 두고 증발…데프콘 “전 남친이 납치?” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240602140133869</link>
+            <guid>https://v.daum.net/v/20240602140133869</guid>
+            <pubDate>Sun, 02 Jun 2024 05:04:03 GMT</pubDate>
+            <content:encoded><![CDATA[“부모님도 진짜가 아닐 듯” 채널A '탐정들의 영업비밀'의 실화 재구성 코너 '사건 수첩'에 프로파일러 표창원 교수가 출격, 범죄자의 심리를 날카롭게 분석한다. 6월 3일(월) 방송될 '탐정들의 영업비밀'에는 1세대 프로파일러 표창원 교수가 '사건수첩' 게스트로 출격, "제 삶이 추리다. 어렸을 때 셜록 홈즈 이야기에 매료돼서 '난 한국의 셜록 홈즈가]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["'선업튀' 올해 최고의 K드라마" 美 타임지도 호평 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20240602112020378</link>
-            <guid>https://v.daum.net/v/20240602112020378</guid>
-            <pubDate>Sun, 02 Jun 2024 03:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=연휘선 기자] 배우 변우석, 김혜윤의 히트작 '선재 업고 튀어'가 미국 타임지에서도 호평받았다.&nbsp; 최근&nbsp;미국 타임지에서는 "'선재 업고 튀어'가 지금까지 올해 최고의 K 드라마 피날레를 장식했다"라는 제목의 호평이 등장해 K콘텐츠 팬들의 이목을 끌었다.&nbsp; 타임지에 대중문화 콘텐츠들에&nbsp;대해 평론을 남겨온&nbsp;케이티 버트는 '선재 업고 튀어'에 대해]]></content:encoded>
+            <title><![CDATA[“SBS 욕 먹고있어” 최화정, 4개월 뒤 28주년인데 ‘최파타’ 떠나는 이유 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240602135832809</link>
+            <guid>https://v.daum.net/v/20240602135832809</guid>
+            <pubDate>Sun, 02 Jun 2024 05:04:03 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '최파타'를 떠나는 최화정이 "여러분 덕분에 27년 6개월을 이 자리에 있을 수 있었다"는 소감을 밝혔다. 6월 2일 SBS 파워FM '최화정의 파워타임'은 이날을 끝으로 27년간 지켜왔던 '최파타'를 떠나는 DJ 최화정의 마지막 방송으로 꾸며졌다. 주말인 이날 방송은 생방송 아닌 미리 해둔 녹음분으로 진행됐다. 1996년 11월]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['레몬뽕 흡입' 지성, 눈 뗄 수 없는 연기 차력쇼 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20240602111639313</link>
-            <guid>https://v.daum.net/v/20240602111639313</guid>
-            <pubDate>Sun, 02 Jun 2024 03:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=하수정 기자] ‘커넥션’ 지성의 연기 차력쇼가 안방극장을 뒤흔들었다. 이번에도 믿고 보는 지성의 저력은 통했다. 1일 방송된 그의 복귀작 SBS 금토드라마 ‘커넥션’의 4회 시청률은 전국 7.9%, 수도권 8.2%, 최고 9.8%(닐슨코리아 제공)를 기록, 매회 자체 최고 시청률을 경신하며 기분 좋은 상승세를 이어가고 있는 것이다. 극 중 지]]></content:encoded>
+            <title><![CDATA[장희진 "전혜빈, 절친이었는데…"…최근 관계 소원해진 이유는? (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240602135741800</link>
+            <guid>https://v.daum.net/v/20240602135741800</guid>
+            <pubDate>Sun, 02 Jun 2024 05:04:03 GMT</pubDate>
+            <content:encoded><![CDATA[배우 장희진이 동료 배우 전혜빈과 관계가 소원해진 사연을 공개한다. 2일 오후 방송되는 TV조선 '식객 허영만의 백반기행'에는 장희진이 게스트로 출연해 충북 단양으로 맛집을 찾아 떠난다. 이날 장희진은 '절친' 전혜빈과의 최근 관계에 대해 털어놓는다. 장희진은 "전혜빈과 뷰티 프로그램 MC로 연을 맺어 절친한 사이가 되었지만, 최근 관계가 소원해져]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘세자가 사라졌다’ 수호X홍예지, ‘로맨스 공조’…전진오 눈 떴다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20240602111131192</link>
-            <guid>https://v.daum.net/v/20240602111131192</guid>
-            <pubDate>Sun, 02 Jun 2024 03:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[“아바마마 소자 건입니다” MBN ‘세자가 사라졌다’ 수호가 홍예지와 ‘로맨스 공조’로 만든 해독제로 전진오가 의식을 되찾았다. 지난 1일(토) 방송된 MBN 주말 미니시리즈 ‘세자가 사라졌다’(극본 박철, 김지수/ 연출 김진만, 김상훈/ 제작 스튜디오 지담, 초록뱀미디어, ㈜슈퍼북) 15회에서 이건(수호)은 피습 당한 최명윤(홍예지)을 사이에 두고]]></content:encoded>
+            <title><![CDATA[박기량, 치어리더 최초 민속촌 특별무대 “고용주에게 120% 보여줘야” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240602134700613</link>
+            <guid>https://v.daum.net/v/20240602134700613</guid>
+            <pubDate>Sun, 02 Jun 2024 05:04:03 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 치어리더 박기량이 행사의 여왕 자리를 노린다. 6월 2일 KBS 2TV ‘사장님 귀는 당나귀 귀’ 제작진에 따르면 이날 방송에서 박기량은 셀프 일자리 창출에 나선다. 박기량은 후배들에게 “고용주에게 120%를 보여줘야 한다”며 본인이 담당하는 업무 외 일을 찾아서 하는 에너자이저의 면모를 아낌없이 발휘한다. 열정 120%를 쏟아내]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[레몬뽕에 중독된 지성이라니…‘커넥션’ 살린 연기 차력쇼 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20240602110733148</link>
-            <guid>https://v.daum.net/v/20240602110733148</guid>
-            <pubDate>Sun, 02 Jun 2024 03:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 배우 지성의 연기 차력쇼가 안방극장을 뒤흔들었다. 믿고 보는 지성의 저력은 이번에도 통했다. 6월 1일 방송된 그의 복귀작 SBS 금토드라마 ‘커넥션’ 4회 시청률은 전국 7.9%, 수도권 8.2%, 최고 9.8%(닐슨코리아 제공)를 기록했다. 매회 자체 최고 시청률을 경신하며 기분 좋은 상승세를 이어가고 있다. 극 중 지성은 마약]]></content:encoded>
+            <title><![CDATA[장혜진, 관록으로 빅나티 곡 훔쳤다 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240602134048523</link>
+            <guid>https://v.daum.net/v/20240602134048523</guid>
+            <pubDate>Sun, 02 Jun 2024 05:04:03 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=연휘선 기자] '송스틸러'에서 가요계 선후배 장혜진과 빅나티의 훈훈한 대결이 성사된다. 오늘(2일)&nbsp;방송될&nbsp;MBC&nbsp;예능 프로그램&nbsp;‘송스틸러’에서는 발라드의 여제 장혜진이 빅나티의&nbsp;‘사랑이라 믿었던 것들’을 스틸하며 시청자들의 마음속에 진한 울림을 안긴다. 대결에 앞서 장혜진은 함께 출연한 빅나티를 향해 팬심을 드러내 시작부터 훈훈한 기류를 형]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[차화연, 딸 알아봤나..임수향 머리채 잡고 폭주 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20240602110541110</link>
-            <guid>https://v.daum.net/v/20240602110541110</guid>
-            <pubDate>Sun, 02 Jun 2024 03:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=하수정 기자] 임수향과 차화연이 팽팽한 신경전을 이어가며 갈등이 고조된다. 오늘(2일) 저녁 7시 55분 방송되는 KBS 2TV 주말드라마 ‘미녀와 순정남’(극본 김사경/ 연출 홍석구, 홍은미/ 제작 래몽래인) 22회에서는 백미자(차화연 분)가 김지영(임수향 분)에게 극한의 분노를 터트리는 위기 상황이 펼쳐진다. 지난 방송에서 고필승(지현우]]></content:encoded>
+            <title><![CDATA['10월 결혼' 박위, 넘치는 사랑꾼 면모…"♥송지은, 첫 만남에 시크릿 춤 춰" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240602133802490</link>
+            <guid>https://v.daum.net/v/20240602133802490</guid>
+            <pubDate>Sun, 02 Jun 2024 05:04:03 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김세아 기자] 유튜버 박위가 송지은과의 연애담을 전했다.&nbsp; 3일(월)&nbsp;방송되는&nbsp;SBS ‘동상이몽2-너는 내 운명’(이하&nbsp;‘동상이몽2’)에는 스페셜&nbsp;MC로 박위가 출연한다.&nbsp; &nbsp; 송지은과&nbsp;10월 결혼을 앞두고 있는 박위는 최근 진행된 녹화에서 김기리♥문지인 커플의 최측근으로 참여해 눈길을 끌었다.&nbsp;박위는 송지은과 인연을 맺게 해준 장본인이 김기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['결혼 1주년' 손민수♥임라라, 근황 보니…배까지 '볼록' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240602133418413</link>
+            <guid>https://v.daum.net/v/20240602133418413</guid>
+            <pubDate>Sun, 02 Jun 2024 05:04:03 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자)&nbsp;‘조선의 사랑꾼’에서 결혼 1주년을 맞이한 ‘엔조이커플’ 임라라♥손민수가 ‘역대급 닭살’ 모먼트를 예고했다.&nbsp; 3일 방송될 TV조선 ‘조선의 사랑꾼’에는 임라라♥손민수 커플이 오랜만에 근황을 전한다. 지난해 5월 21일 성대한 결혼식을 올린 두 사람은 수많은 하객의 축복 속에 부부가 됐다.&nbsp; ‘조선의 사랑꾼’ 선공개 영상에는 결]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['엔조이커플' 임라라♥손민수, 신혼 근황..돌연 울먹인 이유는? (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240602133341401</link>
+            <guid>https://v.daum.net/v/20240602133341401</guid>
+            <pubDate>Sun, 02 Jun 2024 05:04:03 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 허지형 기자] /사진=TV조선 '조선의 사랑꾼''조선의 사랑꾼'에서 결혼 1주년을 맞이한 '엔조이커플' 임라라♥손민수가 '역대급 닭살' 모먼트를 예고했다. 오는 3일 방송되는 '조선의 사랑꾼'에는 임라라♥손민수 커플이 오랜만에 근황을 전한다. 지난해 5월 21일 성대한 결혼식을 올린 두 사람은 수많은 하객의 축복 속에 부부가 됐다. ']]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[문희준♥소율 딸 잼잼, '아이돌 DNA' 어디 안 가네…캠핑장서 댄스 엔진 가동 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240602133102377</link>
+            <guid>https://v.daum.net/v/20240602133102377</guid>
+            <pubDate>Sun, 02 Jun 2024 05:04:03 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자] 문희준과 소율이 자녀들이 '아이돌 DNA'를 뽐냈다. 2일 밤 9시 15분에 방송되는 '슈돌'에서 아빠 문희준과 희율 희우 남매는 사촌들과 함께 오랫동안 기다렸던 가족 캠핑을 떠난다. 특히 문희준은 무려 1년 동안 텐트 치는 법부터 캠핑 요리까지 모든 것을 영상으로 섭렵해 이날을 기대하며 실력 발휘를 꿈꿔왔다는 전언이다. 출발에]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[박위 "김기리에게 여자 소개시켜주려고…" 깜짝 고백 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240602132422281</link>
+            <guid>https://v.daum.net/v/20240602132422281</guid>
+            <pubDate>Sun, 02 Jun 2024 05:04:03 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 이창규 기자) 방송인 박위가 절친 김기리에게 여자를 소개시켜주려 했다고 고백했다. 3일 방송되는 SBS ‘동상이몽2-너는 내 운명’(이하 ‘동상이몽2’)에는 스페셜 MC로 박위가 출연한다. 송지은과 10월 결혼을 앞두고 있는 박위는 최근 진행된 녹화에서 김기리♥문지인 커플의 최측근으로 참여해 눈길을 끌었다. 박위는 송지은과 인연을 맺게 해준]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[위하준, 정려원 집 찾아간 당돌한 연하남…은밀한 귓속말→이마 뽀뽀 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240602132001222</link>
+            <guid>https://v.daum.net/v/20240602132001222</guid>
+            <pubDate>Sun, 02 Jun 2024 05:04:03 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김지원 기자] tvN '졸업' 정려원, 위하준의 마음이 한층 깊어진다. tvN 토일드라마 '졸업' 측은 8회 방송을 앞둔 2일, 서혜진(정려원 분) 집에 입성한 이준호(위하준 분)의 모습을 공개했다. 세상 달콤한 모닝 이마 뽀뽀가 달라진 관계를 예고하며 설렘을 높인다. 지난 방송에서 서혜진은 마음이 복잡했다. 이준호가 더 이상 제자가 아님을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘찐팬구역’ 윤박, 트윈스 구단 버스 들고 온 ‘광기찐팬’ “야구선수 꿈꿨다” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240602131232092</link>
+            <guid>https://v.daum.net/v/20240602131232092</guid>
+            <pubDate>Sun, 02 Jun 2024 05:04:03 GMT</pubDate>
+            <content:encoded><![CDATA[“트윈스 구단 버스를 2대 구입" 윤박이 ‘찐팬구역’ 사상 최초 구단 버스까지 대동한 팬심으로 스튜디오를 발칵 뒤집는다. 2039세대의 뜨거운 호응을 얻고 있는 ENA&amp;채널십오야 신규 예능 ‘찐팬구역’ (연출 박인석/작가 강윤정/제작 스튜디오 수파두파, 에그이즈커밍)은 ‘그깟 공놀이’에 인생을 걸고 사는 찐팬들의 처절한 응원기. 팬이 주인공이 되는 최]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[유재석, 유키피디아 재탄생…회귀 레이스서 업그레이드 추리 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
@@ -1756,95 +1847,11 @@
             <content:encoded><![CDATA[“곽튜브+중국=치트키” ‘지구마불 세계여행2’ 곽빠원과 여행파트너들이 3팀 3색 크리스마스를 즐겼다. 6월 1일 방송된 ENA ‘지구마불 세계여행2’(이하 ‘지구마불2’) 13회에서는 일본에 간 ‘도빠민’ 팀 빠니보틀과 김도훈, 미국에 간 ‘원 플러스 원’ 팀 원지와 원진아, 중국에 간 ‘꽉기영’ 팀 곽튜브와 강기영의 5라운드 여행 첫 번째 이야기가]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김숙 "일 줄면 민속촌서 거지 아르바이트" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240602124342797</link>
-            <guid>https://v.daum.net/v/20240602124342797</guid>
-            <pubDate>Sun, 02 Jun 2024 04:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[[스포티비뉴스=김원겸 기자]KBS2 ‘사장님 귀는 당나귀 귀’(사당귀) 박명수가 한국민속촌 각설이 아르바이트를 노후 대책으로 마련한다고 해 관심이 쏠린다. 2일 오후 4시 40분 방송되는 ‘사당귀’에서 박명수가 김숙, 박준형과 거지 트리오를 결성한다고 해 그 배경에 관심이 쏠린다. 이날 김숙은 한국민속촌 상설 행사가 VCR로 나오자 “나 지금 하는 일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최화정 “돌아가신 母, 라디오 놓지 말라 했는데‥” ‘최파타’ 막방에 눈물 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240602124158778</link>
-            <guid>https://v.daum.net/v/20240602124158778</guid>
-            <pubDate>Sun, 02 Jun 2024 04:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '최파타'를 떠나는 최화정이 "돌아가신 엄마가 잘했다고 칭찬해 주셨을 것"이라며 눈물을 흘렸다. 6월 2일 SBS 파워FM '최화정의 파워타임'은 이날을 끝으로 27년간 지켜왔던 '최파타'를 떠나는 DJ 최화정의 마지막 방송으로 꾸며졌다. 주말인 이날 방송은 생방송 아닌 미리 해둔 녹화로 진행됐다. 이날 최화정은 아버지를 주제로 한]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘최강야구’ 이대호, 옥수수밭 캐치볼?! 정근우 “적당히 해라” 발끈 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240602123632744</link>
-            <guid>https://v.daum.net/v/20240602123632744</guid>
-            <pubDate>Sun, 02 Jun 2024 04:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[‘최강 몬스터즈’의 2024 시즌 개별 성적이 적나라하게 공개된다. 3일(월) 방송되는 JTBC 예능 프로그램 ‘최강야구’ 84회에서는 ‘최강 몬스터즈’와 서울고의 승부가 펼쳐진다. 앞서 ‘최강 몬스터즈’는 고려대와 직관 경기에서 짜릿한 승리를 거두며 4전 4승의 기세를 이어갔다. 한층 더 여유로워진 분위기의 ‘최강 몬스터즈’는 편안한 출근길을 맞이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박나래, 팜유 다이어트 해도 분장은 못 끊어..인간 수박 등극 '폭소' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240602123543737</link>
-            <guid>https://v.daum.net/v/20240602123543737</guid>
-            <pubDate>Sun, 02 Jun 2024 04:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박소영 기자] 개그우먼&nbsp;박나래가 오직 정답을 향한 직진 본능으로 토요일 저녁을 불태웠다. 박나래는 지난 1일(어제) 방송된 tvN ‘놀라운 토요일-초여름 특집’에서 드라마 ‘플레이어2’의 배우 송승헌, 오연서, 이시언, 태원석과 함께 받아쓰기에 도전했다. 이날&nbsp;박나래는 문세윤과 함께 수박 분장을 하고 나와 시청자들의 시선을 고정시켰다. 지난주]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘여행 갈래’ 이효리, 연예계 활동 중 가장 힘들었던 시기 고백 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240602122932661</link>
-            <guid>https://v.daum.net/v/20240602122932661</guid>
-            <pubDate>Sun, 02 Jun 2024 04:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[“끌어안고 자 보고 싶다” 이효리가 연예계 활동 중 가장 힘들었던 시기를 고백한다. 오늘(2일) 방송되는 JTBC '엄마, 단둘이 여행 갈래?'에서는 바쁜 연예계 생활로 딸 역할을 하지 못했던 이효리가 태어나서 처음으로 엄마와 떠난 여행의 둘째 날이 공개된다. 둘째 날 여정에 앞서 경주 여행 첫날밤, 이효리의 제안으로 모녀는 함께 술잔을 기울이며 은]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['김수현 한식구' 이채민, 이 얼굴에 6개 대학 합격한 엄친아..'아형' 접수 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240602121849469</link>
-            <guid>https://v.daum.net/v/20240602121849469</guid>
-            <pubDate>Sun, 02 Jun 2024 04:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박소영 기자] 배우 이채민이 예능 새내기로 열정을 발산했다.&nbsp; 이채민은 지난 1일 방송된 JTBC '아는 형님'에&nbsp; 노정의, 김재원, 지혜원, 이원정과 함께 '하이라키'의 주신고 학생으로 출연해 다채로운 활약을 펼쳤다. 아형고를 환하게 밝히며 런웨이를 걷듯 등장한 이채민은 평소 농구를 좋아한다며 서장훈을 향한 팬심을 고백하는가 하면, '뮤직뱅]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최화정, 마지막 방송에 울컥 "이별 준비하며 많은 감정이 교차" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240602121645424</link>
-            <guid>https://v.daum.net/v/20240602121645424</guid>
-            <pubDate>Sun, 02 Jun 2024 04:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 허지형 기자] /사진=SBS 파워FM '최파타'방송인 최화정이 마지막 라디오 방송의 오프닝을 열며 울컥했다. 2일 오후 방송된 SBS 파워FM '최화정의 파워타임'(이하 '최파타')에서는 최화정이 마지막 방송을 진행했다. 이날 방송은 녹화 방송으로 진행된다. 이날 최화정은 "주말은 녹음 방송이라고 했지만, 오늘이 마지막이다. 이 감정을 뭐]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘엔조이커플’ 손민수, ♥임라라에 기습 키스 포착…왜 울먹였나 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240602121623421</link>
-            <guid>https://v.daum.net/v/20240602121623421</guid>
-            <pubDate>Sun, 02 Jun 2024 04:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 결혼 1주년을 맞이한 ‘엔조이커플’ 임라라, 손민수가 행복한 일상을 공개한다. 임라라, 손민수 부부는 6월 3일 방송되는 TV CHOSUN ‘조선의 사랑꾼’에 출연한다. 지난해 5월 21일 성대한 결혼식을 올린 두 사람은 수많은 하객의 축복 속에 부부가 됐다. ‘조선의 사랑꾼’ 선공개 영상에는 결혼식에서 꽃단장을 한 임라라, 손민수]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최화정, '최파타' 막방 오프닝부터 울컥 "제 목소리 들을 마지막 날" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240602121245385</link>
-            <guid>https://v.daum.net/v/20240602121245385</guid>
-            <pubDate>Sun, 02 Jun 2024 04:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박소영 기자] 최화정이 SBS 파워FM '최화정의 파워타임’ 마지막 방송 오프닝에서 울컥하고 말았다.&nbsp; 2일 방송된 ‘최화정의 파워타임’ 오프닝에서 최화정은 “좋은 이별이란 뭘까 점점 진지하게 고민하는 요즘”이라며 “그래도 이 정도면 됐다 싶은? 찜찜한 마음 하나 없이 웃으며 안녕하면 되는? 서로의 앞날을 응원하는 마음? 또 보자는 말로 다음]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘최파타’ 막방에 최화정 “27년 6개월, 사랑과 응원에 가슴 벅차” 울컥 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240602121025363</link>
-            <guid>https://v.daum.net/v/20240602121025363</guid>
-            <pubDate>Sun, 02 Jun 2024 03:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] '최파타'를 떠나는 최화정이 "여러분 덕분에 27년 6개월을 이 자리에 있었다"는 벅찬 소회를 전했다. 6월 2일 SBS 파워FM '최화정의 파워타임'은 이날을 끝으로 27년간 지켜왔던 '최파타'를 떠나는 DJ 최화정의 마지막 방송으로 꾸며졌다. 주말인 이날 방송은 생방송 아닌 미리 해둔 녹음분으로 진행됐다. 이날 오프닝에서 최화정]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['놀면 뭐하니?' 축제 최종 라인업 공개···샤이니∙데이식스∙강진 등 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240602120838342</link>
-            <guid>https://v.daum.net/v/20240602120838342</guid>
-            <pubDate>Sun, 02 Jun 2024 03:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[[서울경제] MBC '놀면 뭐하니?'가 축제 라인업을 완성했다. 1일 방송된 MBC '놀면 뭐하니?'에서는 '우리들의 축제' 최종 라인업이 공개됐다. 이에 따르면 강진, 김태우X꼬꼬스타, 다이나믹 듀오, 데이식스, 러블리즈, 레강평(스컬X하하), 샤이니, 오직목소리, 전파상사, 제시, 주우재X박진주 등이 '우리들의 축제'에 출연한다. 이날 방송된 '놀면]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박위 “절친 김기리♥문지인 열애 전혀 몰랐다…여자 소개시켜줄뻔” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240602120704330</link>
-            <guid>https://v.daum.net/v/20240602120704330</guid>
-            <pubDate>Sun, 02 Jun 2024 03:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 황혜진 기자] 방송인 박위가 절친한 코미디언 김기리의 열애 관련 비화를 공개한다. 박위는 6월 3일 방송되는 SBS ‘동상이몽2-너는 내 운명’(이하 ‘동상이몽2’)에 스페셜 MC로 출연한다. 그룹 시크릿 출신 송지은과 10월 결혼을 앞두고 있는 박위는 최근 진행된 녹화에서 김기리, 문지인 커플의 최측근으로 참여했다. 박위는 송지은과 인연을 맺게]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘최강야구’ 5연승 도전 전 개별 성적 공개..2024 시즌 ‘9푼이’ 누구? (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240602120046013</link>
-            <guid>https://v.daum.net/v/20240602120046013</guid>
-            <pubDate>Sun, 02 Jun 2024 03:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김채연 기자] ‘최강 몬스터즈’의 2024 시즌 개별 성적이 적나라하게 공개된다. 3일 방송되는 JTBC 예능 프로그램 ‘최강야구’ 84회에서는 ‘최강 몬스터즈’와 서울고의 승부가 펼쳐진다. 앞서 ‘최강 몬스터즈’는 고려대와 직관 경기에서 짜릿한 승리를 거두며 4전 4승의 기세를 이어갔다. 한층 더 여유로워진 분위기의 ‘최강 몬스터즈’는 편안한]]></content:encoded>
+            <title><![CDATA['모아나2' 티저, 하루 만에 '1억 7800만' 조회수...디즈니 역대 최다 기록 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+            <link>https://v.daum.net/v/20240602134846642</link>
+            <guid>https://v.daum.net/v/20240602134846642</guid>
+            <pubDate>Sun, 02 Jun 2024 05:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=한아름 기자] 영화 '모아나 2'의 티저 예고편이 공개 24시간 만에 1억 7,800만 조회수를 기록하며, 역대급 기록을 세웠다. 30일(현지 시간), 월트 디즈니 컴퍼니는 공식 홈페이지를 통해 영화 '모아나 2' 티저 예고편 조회수가 디즈니 역사상 최대 규모를 기록했다고 전했다. 영화 '모아나 2' 티저 예고편은 지난 29일 공개됐다. 예고편]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘원더랜드’ 탕웨이-수지-박보검, 대세 배우 총출동…전체 예매율 1위! (다음 연예 ─ 뉴스 ─ 영화)]]></title>
@@ -1943,13 +1950,6 @@
             <guid>https://v.daum.net/v/20240601182704546</guid>
             <pubDate>Sat, 01 Jun 2024 11:08:19 GMT</pubDate>
             <content:encoded><![CDATA[그룹 소녀시대 멤버 겸 배우 윤아를 비롯한 유색인종 여성 참석자들에게 인종차별적 행위를 벌인 경호원을 막지 못한 제77회 칸 국제 영화제가 소송을 당했다. 30일(현지시간) 영국 BBC 방송에 따르면 우크라이나 출신 모델인 사와 폰티이스카는 제77회 칸 국제 영화제 레드카펫에서 자신을 “난폭하게” 막아선 경호원 때문에 정신적, 육체적 피해를 봤다며 칸 국제]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘땅에 쓰는 시’ 1세대 조경가 정영선의 3가지 특별함 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-            <link>https://v.daum.net/v/20240601155001902</link>
-            <guid>https://v.daum.net/v/20240601155001902</guid>
-            <pubDate>Sat, 01 Jun 2024 08:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[[헤럴드경제 = 서병기 선임기자]국내 1세대 조경가 정영선의 사계절 이야기를 담은 다큐멘터리 ‘땅에 쓰는 시’가 잔잔하게 퍼져나가고 있다. 지난 4월 17일 개봉하고도 여전히 관객들이 찾고 있는 등 스테디셀러 조짐이다. 지난해 열린 제20회 EBS국제다큐영화제(‘EIDF2023’) 개막작이기도 한 ‘땅에 쓰는 시’는 국내 1세대 조경가 정영선(83)을 통해]]></content:encoded>
         </item>
     </channel>
 </rss>
