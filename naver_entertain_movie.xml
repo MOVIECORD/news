@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-06-02T16:06:23.056Z</updated>
+    <updated>2024-06-02T19:04:33.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[칸영화제 수상작은 재미 없는 웰메이드? 다 옛말이죠]]></title>
+        <id>https://m.entertain.naver.com/movie/article/658/0000075097</id>
+        <link href="https://m.entertain.naver.com/movie/article/658/0000075097"/>
+        <updated>2024-06-02T19:03:43.682Z</updated>
+        <content type="html"><![CDATA[- 작품성·재미 겸비한 알짜영화 - 위기맞은 장편영화계 새 활로 ‘영화제 수상작은 재미없다’는 공식이 깨지고 있다. 2019년 칸국제영화제 황금종려상을 받은 ‘기생충’(봉준호)을 포함해 최근 수년간 칸영화제 수상작들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[60년 대종상 최대 위기… “파산에 내분까지, 이대론 개최 어렵다”]]></title>
         <id>https://m.entertain.naver.com/movie/article/023/0003837996</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/movie/article/001/0014721974"/>
         <updated>2024-06-02T00:32:25.612Z</updated>
         <content type="html"><![CDATA[납치돼 차 트렁크에 갇힌 인플루언서 이야기…박주현 빼어난 연기 유튜버 유나(박주현 분)는 80만명의 구독자를 거느린 인플루언서다. 김치전을 만들어 먹는 걸 보여주는 '먹방'처럼 일상생활을 담은 영상으로 인기를 누린다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[리뷰] 수지X박보검 케미만? '원더랜드'가 던진 질문]]></title>
-        <id>https://m.entertain.naver.com/movie/article/108/0003239771</id>
-        <link href="https://m.entertain.naver.com/movie/article/108/0003239771"/>
-        <updated>2024-06-02T00:32:25.615Z</updated>
-        <content type="html"><![CDATA[AI(인공지능 서비스)는 우리에게 멀어 보일지 모르지만, '원더랜드'가 전한 이야기는 우리 모두에게 가깝게 다가올 듯하다. 내로라하는 배우들이 완성한 현실과 상상의 경계. 누구나 한 번쯤 꿈꾸는 서비스지만, 작품을]]></content>
     </entry>
 </feed>
