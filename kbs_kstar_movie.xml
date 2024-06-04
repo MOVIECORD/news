@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 02:26:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 05:13:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 탕웨이 “원더풀 라이프, 이것이 원더랜드이다”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=318458</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=318458</guid>
+            <pubDate>Tue, 04 Jun 2024 05:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=318458">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240604125424_c35aa9150f6ef39c2e724121920c307c.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=318458">[인터뷰] 탕웨이 “원더풀 라이프, 이것이 원더랜드이다”   </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240604125424_c35aa9150f6ef39c2e724121920c307c.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['애콜라이트' 제다이 이정재를 만난다... 제다이 연쇄살인사건 중심에 선 사제관계]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=318350</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=317826">티빙 '나는 대놓고 신데렐라를 꿈꾼다'.. "21세기 신(新)데렐라와 재벌 8세의 로맨스".. 오늘(31일) 첫 방송</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240530165211_56a6557c0bbf4b65e344b8b7344147d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['김준수 콘서트 무비 챕터 원 : 레크리에이션' 롯데시네마 무대인사 예정]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=317885</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=317885</guid>
-            <pubDate>Thu, 30 May 2024 23:03:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=317885">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240531075716_cd05836636e2e218270d6dfe937a8231.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=317885">'김준수 콘서트 무비 챕터 원 : 레크리에이션' 롯데시네마 무대인사 예정</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240531075716_cd05836636e2e218270d6dfe937a8231.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
