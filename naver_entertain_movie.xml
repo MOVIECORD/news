@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-06-06T16:09:17.550Z</updated>
+    <updated>2024-06-06T17:05:02.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“박보검과 열애설? 저야 감사하죠”]]></title>
+        <id>https://m.entertain.naver.com/movie/article/144/0000966751</id>
+        <link href="https://m.entertain.naver.com/movie/article/144/0000966751"/>
+        <updated>2024-06-06T17:04:22.346Z</updated>
+        <content type="html"><![CDATA[그만큼 잘 어울린다는 뜻 덕분에 연기가 더 재밌어져 질문 던져주고 소통 중요시하는 김태용 감독은 섬세한 연출 대가 ‘국민 첫사랑’ 수식어 부담? 앞으로도 계속 이어가고 싶네요 배우 수지가 모두가 기원하는 ‘열애설’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[변요한-신혜선 열연 ‘그녀가 죽었다’ 100만 돌파 “실관람객 호평”]]></title>
         <id>https://m.entertain.naver.com/movie/article/408/0000225772</id>
@@ -171,13 +178,6 @@
         <id>https://m.entertain.naver.com/movie/article/001/0014732505</id>
         <link href="https://m.entertain.naver.com/movie/article/001/0014732505"/>
         <updated>2024-06-06T08:10:12.937Z</updated>
-        <content type="html"><![CDATA[22대 국회가 개원한 가운데 정부가 영화 티켓값에 숨은 500원과 같은 부담금 18개를 폐지하기 위한 대규모 법안 개정 절차에 착수했다. 6일 정부에 따르면 기획재정부는 전날 '부담금 일괄 정비를 위한 22개 법률]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['영화 티켓값 500원 내리나']]></title>
-        <id>https://m.entertain.naver.com/movie/article/001/0014732504</id>
-        <link href="https://m.entertain.naver.com/movie/article/001/0014732504"/>
-        <updated>2024-06-06T08:10:12.939Z</updated>
         <content type="html"><![CDATA[22대 국회가 개원한 가운데 정부가 영화 티켓값에 숨은 500원과 같은 부담금 18개를 폐지하기 위한 대규모 법안 개정 절차에 착수했다. 6일 정부에 따르면 기획재정부는 전날 '부담금 일괄 정비를 위한 22개 법률]]></content>
     </entry>
 </feed>
