@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jun 2024 14:04:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2024 15:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뮤직뱅크] 청량+힙 감성 제대로...뉴진스, ‘How Sweet’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=318998</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=318998</guid>
+            <pubDate>Fri, 07 Jun 2024 15:08:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=318998">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240607235841_0669d2bb3384a3a1367f5737d5a11366_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=318998">[뮤직뱅크] 청량+힙 감성 제대로...뉴진스, ‘How Sweet’</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240607235841_0669d2bb3384a3a1367f5737d5a11366_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['지코의 아티스트' 오늘의 게스트.. 고영배, 김정민, 김경호, 수호, 황제성 (7일 오후 10시 KBS2TV)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=318988</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=MA1">MA1</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240605233649_8e911daea90a53d05a256742b7e02f0e.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MA1] 이제는 서바이벌이다! 첫 번째 경연 ‘원 아티스트 투 스테이지’ 본격 비교 경연 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=318612</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=318612</guid>
-            <pubDate>Wed, 05 Jun 2024 15:03:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=318612">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240605230936_7e2fe65be21dda8476fd84b79d845b55_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=318612">[MA1] 이제는 서바이벌이다! 첫 번째 경연 ‘원 아티스트 투 스테이지’ 본격 비교 경연 공개</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=MA1">MA1</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240605230936_7e2fe65be21dda8476fd84b79d845b55_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
