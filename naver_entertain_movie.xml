@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-06-09T19:04:29.476Z</updated>
+    <updated>2024-06-09T20:05:12.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윌 스미스의 화려한 귀환…'나쁜 녀석들 4' 전세계 흥행 성공]]></title>
+        <id>https://m.entertain.naver.com/movie/article/001/0014736281</id>
+        <link href="https://m.entertain.naver.com/movie/article/001/0014736281"/>
+        <updated>2024-06-09T20:03:59.278Z</updated>
+        <content type="html"><![CDATA[첫주 북미 5천600만달러 수입…NYT "영화팬들, '오스카 폭행' 용서한 셈" 임미나 특파원 = 배우 윌 스미스(55)가 '오스카 시상식 폭행' 사건으로 물의를 일으킨 지 2년여 만에 할리우드 정상급 배우로 화려하]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화와 다양한 문화 접목…영화의전당 인문학 강좌]]></title>
         <id>https://m.entertain.naver.com/movie/article/658/0000075596</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/movie/article/144/0000967111"/>
         <updated>2024-06-09T00:35:56.439Z</updated>
         <content type="html"><![CDATA[영화 ‘원더랜드’(감독 김태용)가 개봉 4일 내내 박스오피스 정상을 달리고 있다. 9일 영화진흥위원회 영화관입장권 통합전산망 집계결과 ‘원더랜드’는 전날 9만7982명이 관람해 1위를 차지했다. 누적관객수 39만58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[온더레코드]박보검 “배우로 다양한 삶을 사는 건 행운이죠”]]></title>
-        <id>https://m.entertain.naver.com/movie/article/277/0005429089</id>
-        <link href="https://m.entertain.naver.com/movie/article/277/0005429089"/>
-        <updated>2024-06-09T00:35:56.441Z</updated>
-        <content type="html"><![CDATA[배우 박보검(30)은 의외의 행보를 걷고 있다. 착실한 성품에 수려한 외모를 갖춘 그는 수백억 출연작 투자가 척척 되는 ‘톱배우’다. 대개 배우들은 제대하면 빠르게 달린다. 경제적 공백과 잊힐지도 모른다는 불안감에서]]></content>
     </entry>
 </feed>
