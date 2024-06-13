@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-06-13T16:11:41.200Z</updated>
+    <updated>2024-06-13T18:11:49.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[조재휘의 시네필] 홀로코스트서 발견하는 우리 시대의 비극]]></title>
+        <id>https://m.entertain.naver.com/movie/article/658/0000076053</id>
+        <link href="https://m.entertain.naver.com/movie/article/658/0000076053"/>
+        <updated>2024-06-13T18:10:59.232Z</updated>
+        <content type="html"><![CDATA[홀로코스트는 일종의 영화사(映畵史)이기도 하다. ‘밤과 안개’(1956)와 ‘쇼아’(1985), ‘쉰들러 리스트’(1993)와 ‘피아니스트’(2002), 그리고 ‘사울의 아들’(2015)까지, 이를 다루는 작품은 다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[13분 낚시 액션으로 관객 잡았네]]></title>
         <id>https://m.entertain.naver.com/movie/article/023/0003840197</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/movie/article/018/0005763320"/>
         <updated>2024-06-13T10:07:34.966Z</updated>
         <content type="html"><![CDATA[류승완 감독이 영화 ‘베테랑2’의 개봉을 앞둔 것에 이어, 차기작인 ‘휴민트’의 캐스팅 라인업을 마무리 짓고 본격 프로덕션에 도입한다. 특히 ‘밀수’, ‘모가디슈’를 통해 호흡한 조인성과 다시 한 번 의기투합한 가운]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하정우 여진구의 '하이재킹', 실화가 가진 힘과 울림 [D:현장]]]></title>
-        <id>https://m.entertain.naver.com/movie/article/119/0002839587</id>
-        <link href="https://m.entertain.naver.com/movie/article/119/0002839587"/>
-        <updated>2024-06-13T10:07:34.968Z</updated>
-        <content type="html"><![CDATA[여객기 납치극 실화가 '하이재킹'으로 스크린을 통해 생생하게 다시 태어났다. 13일 오후 서울 용산구 아이파크몰CGV 에서는 김성한 감독, 하정우, 여진구, 성동일, 채수빈이 참석한 가운데 영화 '하이재킹' 언론배급]]></content>
     </entry>
 </feed>
