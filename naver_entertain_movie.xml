@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-06-13T15:10:12.432Z</updated>
+    <updated>2024-06-13T16:11:41.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[13분 낚시 액션으로 관객 잡았네]]></title>
+        <id>https://m.entertain.naver.com/movie/article/023/0003840197</id>
+        <link href="https://m.entertain.naver.com/movie/article/023/0003840197"/>
+        <updated>2024-06-13T16:10:52.913Z</updated>
+        <content type="html"><![CDATA[극장 최초 10분대·티켓값 1000원 ‘1000원 영화’의 아이디어와 기획력이 관객의 호기심을 짜릿하게 낚았다. 배우 손석구의 일인극 ‘밤낚시’(감독 문병곤)가 잇따라 매진을 기록하고 있다. 개봉일인 14일은 젊은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[새영화]라일리 컨트롤 본부에 온 새 친구들]]></title>
         <id>https://m.entertain.naver.com/movie/article/087/0001050167</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/movie/article/119/0002839587"/>
         <updated>2024-06-13T10:07:34.968Z</updated>
         <content type="html"><![CDATA[여객기 납치극 실화가 '하이재킹'으로 스크린을 통해 생생하게 다시 태어났다. 13일 오후 서울 용산구 아이파크몰CGV 에서는 김성한 감독, 하정우, 여진구, 성동일, 채수빈이 참석한 가운데 영화 '하이재킹' 언론배급]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 음향의 공식과 틀을 벗어나, 최태영 음향감독에게 듣는 <존 오브 인터레스트>]]></title>
-        <id>https://m.entertain.naver.com/movie/article/140/0000052895</id>
-        <link href="https://m.entertain.naver.com/movie/article/140/0000052895"/>
-        <updated>2024-06-13T10:07:34.968Z</updated>
-        <content type="html"><![CDATA[최태영 음향감독은 &lt;더 문&gt;을 통해 소리가 존재할 수 없는 우주의 음향을 만들어냈다. 그는 &lt;옥자&gt; &lt;기생충&gt;에서 돌비애트모스 사운드를 적극적으로 실험했고, &lt;좋은 놈, 나쁜 놈, 이상한 놈&gt; &lt;모가디슈&gt; 등에서 음]]></content>
     </entry>
 </feed>
