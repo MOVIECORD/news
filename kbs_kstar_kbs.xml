@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 11:05:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 13:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뮤직뱅크] 케플러, 완전체로 더욱 완벽한 무대... ‘슈팅 스타’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=320006</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=320006</guid>
+            <pubDate>Fri, 14 Jun 2024 13:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=320006">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240614220427_a20e21c5bd294978b03b49324b8bdc94_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=320006">[뮤직뱅크] 케플러, 완전체로 더욱 완벽한 무대... ‘슈팅 스타’</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240614220427_a20e21c5bd294978b03b49324b8bdc94_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['지코의 아티스트' 고연차의 아티스트 출격.. "이승철, 선미, 고경표, 첸"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=320002</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=MA1">MA1</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240613000058_0917da7ead306a07c7e36705035388e4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MA1] 완벽 칼각으로 희열 선사한 샤이니 ‘Everybody’ 무대와 파워 퍼포먼스 ‘셜록’ 공연]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=319550</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=319550</guid>
-            <pubDate>Wed, 12 Jun 2024 15:05:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=319550">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240612234831_24ef326e933bc1156f00fcf73eba32c7_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=319550">[MA1] 완벽 칼각으로 희열 선사한 샤이니 ‘Everybody’ 무대와 파워 퍼포먼스 ‘셜록’ 공연</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=MA1">MA1</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240612234831_24ef326e933bc1156f00fcf73eba32c7_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
