@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-06-14T20:09:10.681Z</updated>
+    <updated>2024-06-14T21:03:51.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['인사이드 아웃2' 흥행 독주 계속]]></title>
+        <id>https://m.entertain.naver.com/movie/article/011/0004353522</id>
+        <link href="https://m.entertain.naver.com/movie/article/011/0004353522"/>
+        <updated>2024-06-14T21:03:04.896Z</updated>
+        <content type="html"><![CDATA[감정을 캐릭터화해 큰 호평을 받았은 디즈니·픽사 애니메이션 ‘인사이드 아웃’의 후속작 ‘인사이드 아웃 2’가 전작의 흥행 질주를 이어가고 있다. 14일 영화관입장권 통합전산망(KOBIS)에 따르면 ‘인사이드 아웃 2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘드라이브’ 박주현, 시크한 눈빛 [화보]]]></title>
         <id>https://m.entertain.naver.com/movie/article/382/0001131965</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/movie/article/445/0000206387"/>
         <updated>2024-06-14T10:05:49.277Z</updated>
         <content type="html"><![CDATA[밝고 순수한, 그러나 고민이 가득 담긴. 이번에도 '박보검스러운' 연기를 선보였던 영화 '원더랜드'다. 박보검은 '원더랜드'에서 우주비행사로 복원된 AI 태주와 의식불명 상태에서 깨어난 현실 태주 1인 2역을 연기했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 김성령,영화 ‘원더랜드’ 미공개 스틸컷 공개]]></title>
-        <id>https://m.entertain.naver.com/movie/article/144/0000968562</id>
-        <link href="https://m.entertain.naver.com/movie/article/144/0000968562"/>
-        <updated>2024-06-14T09:07:55.455Z</updated>
-        <content type="html"><![CDATA[‘원더랜드’ 배우 김성령의 변함없는 완벽 비주얼이 화제다. ‘원더랜드’(감독 김태용)는 죽은 사람을 인공지능으로 복원하는 영상통화 서비스 ‘원더랜드’를 통해 사랑하는 사람과 다시 만나는 이야기를 그린 영화로, 탕웨이]]></content>
     </entry>
 </feed>
