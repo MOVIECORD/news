@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-06-14T13:11:04.510Z</updated>
+    <updated>2024-06-14T14:03:46.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화관 찾는 하정우…'하이재킹', 흥행 예열 시작]]></title>
+        <id>https://m.entertain.naver.com/movie/article/469/0000806911</id>
+        <link href="https://m.entertain.naver.com/movie/article/469/0000806911"/>
+        <updated>2024-06-14T14:02:44.278Z</updated>
+        <content type="html"><![CDATA[배우 하정우가 영화관에서 관객들을 만난다. '하이재킹' 팀은 다양한 활동으로 흥행 예열을 시작했다. '하이재킹'이 오는 20일 오후 7시 30분 메가박스 코엑스에서 김성수 감독과 김성한 감독, 하정우가 함께하는 메가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["'꼬르륵' 소리 책임 못져"…'프렌치 수프', 공복 챌린지 상영회]]></title>
         <id>https://m.entertain.naver.com/movie/article/477/0000495954</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/movie/article/312/0000666622"/>
         <updated>2024-06-14T09:07:55.462Z</updated>
         <content type="html"><![CDATA[《김지원의 까까오톡》 까놓고, 까칠하게 하는 오늘의 이야기. 김지원 텐아시아 기자가 연예계 이슈를 까다로운 시선으로 비평합니다. 테이블은 화려하게 차려졌지만 파티는 밍밍하게 끝나버렸다. 영화 '원더랜드'가 호화 라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이혜영, 60대 킬러 변신…민규동 감독 ‘파과’로 스크린 복귀]]></title>
-        <id>https://m.entertain.naver.com/movie/article/241/0003357335</id>
-        <link href="https://m.entertain.naver.com/movie/article/241/0003357335"/>
-        <updated>2024-06-14T09:07:55.463Z</updated>
-        <content type="html"><![CDATA[‘우리, 집’ 배우 이혜영이 영화 ‘파과’(감독 민규동)의 주인공으로 캐스팅됐다. ‘파과’는 바퀴벌레 같은 인간들을 제거하는 일을 하며 평생을 살아온 전설의 킬러 조각에게 인생에 없던 지켜야 할 존재가 생기면서 복잡]]></content>
     </entry>
 </feed>
