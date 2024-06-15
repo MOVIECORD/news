@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-06-15T10:04:56.913Z</updated>
+    <updated>2024-06-15T11:04:56.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시드니영화제 한국문화의 밤]]></title>
+        <id>https://m.entertain.naver.com/movie/article/001/0014749191</id>
+        <link href="https://m.entertain.naver.com/movie/article/001/0014749191"/>
+        <updated>2024-06-15T11:04:08.537Z</updated>
+        <content type="html"><![CDATA[지난 14일 호주 시드니 시청에서 열린 제71회 시드니영화제(Sydney Film Festival) '한국문화의 밤: 놀자!'행사에서 한국영화 '괜찮아 괜찮아 괜찮아'의 김혜영 감독(가운데)이 윤선민 주 시드니 한국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[만삭 임산부 핏인데 510만원…안소희, 펑퍼짐 원피스에 허리 실종]]></title>
         <id>https://m.entertain.naver.com/movie/article/312/0000666736</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/movie/article/047/0002436747"/>
         <updated>2024-06-15T02:25:07.256Z</updated>
         <content type="html"><![CDATA[프로복싱 5체급 챔피언에 빛나는 플로이드 메이웨더는 현역 시절 50전50승27KO라는 완전무결한 전적을 만들고 은퇴한 복싱 역사상 최고의 테크니션이다. 특히 메이웨더는 상대의 펀치를 회피하는 '숄더롤'이라는 기술을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해도 뜨거웠던 무주... 그것에서 다시 만난 '둘리의 대모험']]></title>
-        <id>https://m.entertain.naver.com/movie/article/047/0002436746</id>
-        <link href="https://m.entertain.naver.com/movie/article/047/0002436746"/>
-        <updated>2024-06-15T02:25:07.256Z</updated>
-        <content type="html"><![CDATA[▲ 무주산골영화제 포스터 ⓒ 무주산골영화제 올해로 12회를 맞은 무주산골영화제다. 요즘 유행하는 표현을 빌리자면 '한 번도 안 온 사람은 있어도 한 번만 온 사람은 없다'는 영화제의 대표주자다. 극장 하나 없던 쇠락]]></content>
     </entry>
 </feed>
