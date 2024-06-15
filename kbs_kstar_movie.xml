@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 23:05:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jun 2024 00:33:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스 <돌풍>, 설경구 VS.김희애 ‘왕좌의 게임’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=319813</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=319813</guid>
+            <pubDate>Sat, 15 Jun 2024 00:31:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=319813">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240614134530_9a1ccca48505e8f9f2c58b23100060ef.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=319813">넷플릭스 &lt;돌풍&gt;, 설경구 VS.김희애 ‘왕좌의 게임’</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240614134530_9a1ccca48505e8f9f2c58b23100060ef.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘탈주’ 북한군 이제훈-홍사빈, 목숨을 건 동반탈주]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=319771</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=319473">박동희 감독 인터뷰..   “유튜브 시대, '손가락의 영화'이다” (영화 ‘드라이브’)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240612074451_fd0a01b49ae473006ed044de0186356e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[​넷플릭스 '돌풍'.. "대한민국 최고권력이 타겟이다"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=319464</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=319464</guid>
-            <pubDate>Tue, 11 Jun 2024 23:03:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=319464">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240612064122_d1c8206f555b251cfe25e2c5f5882417.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=319464">​넷플릭스 '돌풍'.. "대한민국 최고권력이 타겟이다"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240612064122_d1c8206f555b251cfe25e2c5f5882417.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
