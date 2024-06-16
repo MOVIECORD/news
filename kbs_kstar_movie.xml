@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jun 2024 21:05:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jun 2024 22:05:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['탈주' 리얼리티 프로덕션.. "탈주자와 추격자를 담은 카메라 워킹"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=319749</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=319749</guid>
+            <pubDate>Sun, 16 Jun 2024 22:04:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=319749">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240614163000_ea6e18714a22a092faa890af2f9e8f0d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=319749">'탈주' 리얼리티 프로덕션.. "탈주자와 추격자를 담은 카메라 워킹"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240614163000_ea6e18714a22a092faa890af2f9e8f0d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘언럭키 로맨스’ 대만스타 장첸(장진), 달달한 사랑꾼으로 변신]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=319799</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=319574">디즈니플러스  ‘화인가 스캔들’ 김하늘.. 화인가의 우아한 카리스마</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240613101359_2041c3a1fc0c02a5f8725ea219874a55.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['와일드 로봇' 10월 개봉.. 로봇 ‘로즈’와 야생 동물들의 특별한 우정]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=319520</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=319520</guid>
-            <pubDate>Wed, 12 Jun 2024 06:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=319520">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240612132433_a0e56afd4e6b77fe4c4f472474c28daf.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=319520">'와일드 로봇' 10월 개봉.. 로봇 ‘로즈’와 야생 동물들의 특별한 우정</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240612132433_a0e56afd4e6b77fe4c4f472474c28daf.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
