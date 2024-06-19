@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 06:11:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 07:07:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니+ '애콜라이트' 오늘 4회 공개..  "메이를 쫓아라"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=320758</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=320758</guid>
+            <pubDate>Wed, 19 Jun 2024 07:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=320758">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240619151059_7839c154a64bde14a30843eb259e4e33.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=320758">디즈니+ '애콜라이트' 오늘 4회 공개..  "메이를 쫓아라"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240619151059_7839c154a64bde14a30843eb259e4e33.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[옥택연, 일본영화 <그랑메종 파리> 캐스팅.. 기무라 타쿠야와 호흡]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=320751</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=319749">'탈주' 리얼리티 프로덕션.. "탈주자와 추격자를 담은 카메라 워킹"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240614163000_ea6e18714a22a092faa890af2f9e8f0d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘언럭키 로맨스’ 대만스타 장첸(장진), 달달한 사랑꾼으로 변신]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=319799</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=319799</guid>
-            <pubDate>Sat, 15 Jun 2024 23:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=319799">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240614171308_14a60efac2840c38de7963979a3fd63f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=319799"> ‘언럭키 로맨스’ 대만스타 장첸(장진), 달달한 사랑꾼으로 변신</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240614171308_14a60efac2840c38de7963979a3fd63f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
