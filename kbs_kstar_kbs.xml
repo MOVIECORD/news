@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jun 2024 22:04:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jun 2024 23:11:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['KBS파리올림픽' 박세리-전현무-조우종, 그리고 초특급 해설위원들]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=320913</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=320913</guid>
+            <pubDate>Thu, 20 Jun 2024 23:10:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=320913">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240621072043_a8c629c43b70a6bab04782b43fdb6333_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=320913">'KBS파리올림픽' 박세리-전현무-조우종, 그리고 초특급 해설위원들</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240621072043_a8c629c43b70a6bab04782b43fdb6333_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['편스토랑’ 장민호, MZ 플레이스 성수동 떴다]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=320884</link>
@@ -348,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EA%B7%B8%20%EC%BD%98%EC%84%9C%ED%8A%B8">개그 콘서트</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240619133203_9acc67d05c514f99b95bf4665811d309.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['MA1' 새 미션 무대 선공개.. ‘언포기븐' 퍼포먼스 시선강탈]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=320683</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=320683</guid>
-            <pubDate>Wed, 19 Jun 2024 01:54:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=320683">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240619101100_f584486987d277e32e306d0a6f703868_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=320683">'MA1' 새 미션 무대 선공개.. ‘언포기븐' 퍼포먼스 시선강탈</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=MA1">MA1</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240619101100_f584486987d277e32e306d0a6f703868_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
