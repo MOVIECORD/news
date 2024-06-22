@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-06-22T11:03:33.528Z</updated>
+    <updated>2024-06-22T12:11:40.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["영화 보다 갑자기 서성대도 OK"…전국 유일 '치매 영화관'은 다르다]]></title>
+        <id>https://m.entertain.naver.com/movie/article/011/0004356650</id>
+        <link href="https://m.entertain.naver.com/movie/article/011/0004356650"/>
+        <updated>2024-06-22T12:10:53.799Z</updated>
+        <content type="html"><![CDATA[‘영화는 세대를 넘어 꾸준히 사랑받아 온 귀중한 여가’라는 말이 있다. 특히 과거 이렇다 할 여가 문화가 없었던 어르신들에게 영화는 유일한 문화 생활이었다. 이처럼 추억의 산물이었던 영화 관람에 어려움을 겪는 노인들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["형보다 나은 아우".. '인사이드 아웃2' 300만 돌파... 최고 흥행작 '엘리멘탈'도 넘을까]]></title>
         <id>https://m.entertain.naver.com/movie/article/213/0001298894</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/movie/article/477/0000497408"/>
         <updated>2024-06-22T00:31:59.733Z</updated>
         <content type="html"><![CDATA[디즈니·픽사 애니메이션 영화 '인사이드 아웃'의 두 번째 이야기 '인사이드 아웃 2'가 개봉 11일째인 22일 300만 관객을 돌파했다. 13살이 된 '라일리'의 머릿속 감정 컨트롤 본부에 '불안', '당황', '따]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인사이드 아웃2', 300만 관객 동원...10일 연속 1위]]></title>
-        <id>https://m.entertain.naver.com/movie/article/417/0001009864</id>
-        <link href="https://m.entertain.naver.com/movie/article/417/0001009864"/>
-        <updated>2024-06-22T00:31:59.736Z</updated>
-        <content type="html"><![CDATA[디즈니·픽사 애니메이션 영화 '인사이드 아웃2'가 10일째 박스오피스 정상을 유지했다. 22일 영화진흥위원회 영화관 입장권 통합전산망 집계에 따르면 '인사이드 아웃 2'는 지난 21일 21만 4893명의 관객을 동원]]></content>
     </entry>
 </feed>
