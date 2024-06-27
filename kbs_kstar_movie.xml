@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jun 2024 05:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jun 2024 06:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김선호-고윤정, 넷플릭스 '이 사랑 통역 되나요?'  제작합니다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=321726</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=321726</guid>
+            <pubDate>Thu, 27 Jun 2024 06:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=321726">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240627144611_a9445f7dcf390d38d90db4f5fa23a149.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=321726">김선호-고윤정, 넷플릭스 '이 사랑 통역 되나요?'  제작합니다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240627144611_a9445f7dcf390d38d90db4f5fa23a149.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] '삼식이 삼촌' 신연식  감독... "천성과 관성, 그리고 신념과 혁명"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=321717</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=321265">극장에서 만난다 '피렌체와 우피치 미술관'.. 르네상스 불멸의 예술 작품과 숨겨진 비밀 이야기</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240624090727_28de00044cf4f0024f2a10ce46fe522a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['데드풀과 울버린' 데드풀의 새 직업? 중고차 딜러]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=321233</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=321233</guid>
-            <pubDate>Mon, 24 Jun 2024 00:31:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=321233">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240624082250_8ced24ac1ae446b7c1c109ba71d51a61.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=321233">'데드풀과 울버린' 데드풀의 새 직업? 중고차 딜러</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240624082250_8ced24ac1ae446b7c1c109ba71d51a61.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
