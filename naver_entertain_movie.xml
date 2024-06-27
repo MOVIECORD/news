@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-06-27T14:06:52.318Z</updated>
+    <updated>2024-06-27T15:07:02.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[새영화]쉿! 아무 소리도 내면 안 된다]]></title>
+        <id>https://m.entertain.naver.com/movie/article/087/0001053058</id>
+        <link href="https://m.entertain.naver.com/movie/article/087/0001053058"/>
+        <updated>2024-06-27T15:06:10.024Z</updated>
+        <content type="html"><![CDATA[이번 주 극장가에는 이 세상에서 모든 소리가 없어진 첫 번째 날을 담은 영화 ‘콰이어트 플레이스: 첫째 날’과 광활한 우주 속, 삶의 진리를 찾아 헤매는 평범한 사람들의 찬란한 이야기를 담은 멀티버스 코미디 ‘보통의]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['구룡성채: 무법지대 ' 예매 오픈 5분 만에 전석 매진 기록!]]></title>
         <id>https://m.entertain.naver.com/movie/article/408/0000227754</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/movie/article/438/0000065843"/>
         <updated>2024-06-27T08:13:12.192Z</updated>
         <content type="html"><![CDATA[셰익스피어의 문장보다 더 유명한 전설의 문구가 있다. “이 편지는 영국에서 최초로 시작되어 지구를 몇 바퀴 돌아 어쩌구..”하는 행운의 편지와 “저는 몇남 몇녀의 화목한 가정에서 태어나 다정하신 어머니와 엄격한 아버]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전도연X임지연 ‘리볼버’ 8월 개봉 확정[공식]]]></title>
-        <id>https://m.entertain.naver.com/movie/article/144/0000971574</id>
-        <link href="https://m.entertain.naver.com/movie/article/144/0000971574"/>
-        <updated>2024-06-27T08:13:12.193Z</updated>
-        <content type="html"><![CDATA[전도연·임지연 주연의 ‘리볼버’가 오는 8월 개봉한다. 27일 배급사 플러스엠엔터테인먼트는 오승욱 감독이 연출한 ‘리볼버’를 오는 8월 7일에 개봉한다고 밝혔다. ‘리볼버’는 모든 죄를 뒤집어쓰고 교도소에 들어갔던]]></content>
     </entry>
 </feed>
