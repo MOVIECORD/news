@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 20:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 21:03:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘불후의 명곡’ 2024 더 프렌즈 특집]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=322000</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=322000</guid>
+            <pubDate>Fri, 28 Jun 2024 21:02:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=322000">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240628110919_a4b3332950e7402e1ffd4764ec76cff2_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=322000">‘불후의 명곡’ 2024 더 프렌즈 특집 </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240628110919_a4b3332950e7402e1ffd4764ec76cff2_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[신상출시 편스토랑] “엄마 음식 얼마나 먹고 싶을까” 돌아가신 엄마 대신해 이정현 챙기는 시어머니]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=322203</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B0%9C%EA%B7%B8%20%EC%BD%98%EC%84%9C%ED%8A%B8">개그 콘서트</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240627081844_b407fa8c82f981c441c8f698acf0408d_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['MA1' 빅뱅 대전 승리는 태양 팀.. 학년 "바로 데뷔시켜도 돼요!"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=321609</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=321609</guid>
-            <pubDate>Thu, 27 Jun 2024 00:30:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=321609">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240627081152_a9af7ca0d02d8bae6a5e1720e54839be.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=321609"> 'MA1' 빅뱅 대전 승리는 태양 팀.. 학년 "바로 데뷔시켜도 돼요!"</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=MA1">MA1</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240627081152_a9af7ca0d02d8bae6a5e1720e54839be.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
