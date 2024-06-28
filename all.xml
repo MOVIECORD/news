@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 13:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 14:04:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240623071729_7aa6d20d4e728148ce0d712aeb15b732.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[뮤직뱅크] 라이즈, ‘Boom Boom Bass’ 청춘 그루브 살린 무대...에스파 꺾고 1위 (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=322175</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=322175</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=322175">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240628225438_c9dc8613e4bfe2a244eb0f4a88b44119.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=322175">[뮤직뱅크] 라이즈, ‘Boom Boom Bass’ 청춘 그루브 살린 무대...에스파 꺾고 1위</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240628225438_c9dc8613e4bfe2a244eb0f4a88b44119.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘더 시즌즈-지코의 아티스트’ 케이윌-츄-엔플라잉-TWS (28일 오후 10시 KBS 2TV) (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=322109</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=322109</guid>
@@ -1030,24 +1048,6 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240626221705_7e6f2e58b0a75193c5310e3bfb66adc3_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[2장1절] “우향우 정신!” 외치는 36년 근속 직원 애사심에 경외감 느끼는 장민호+장성규 (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=321561</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=321561</guid>
-            <pubDate>Wed, 26 Jun 2024 14:03:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=321561">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240626221216_86dfc8784b823f308041dd55dc0a6761.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=321561">[2장1절] “우향우 정신!” 외치는 36년 근속 직원 애사심에 경외감 느끼는 장민호+장성규</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=2%EC%9E%A5%201%EC%A0%88">2장 1절</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240626221216_86dfc8784b823f308041dd55dc0a6761.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[손석구 '밤낚시', BBC 'Talking Movies' 방영…K-콘텐츠 새로운 혁신 제시 (MBC 연예 ─ 영화)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/421798</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/421798</guid>
@@ -1287,179 +1287,214 @@
             <content:encoded><![CDATA[‘리볼버’ 포스터. 사진 | 플러스엠엔터테인먼트 ] 배우 지창욱이 영화 ‘리볼버’를 통해 또 다른 얼굴을 보여준다. ‘리볼버’는 모든 죄를 뒤집어쓰고 교도소에 들어갔던 전직 경찰 수영이 출소 후 오직 하나의 목적을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['우티' 박명수, 아침부터 헐벗은 채 등장…"너무 야해" 경악 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/421/0007631870</link>
-            <guid>https://m.entertain.naver.com/now/article/421/0007631870</guid>
-            <pubDate>Fri, 28 Jun 2024 13:09:50 GMT</pubDate>
-            <content:encoded><![CDATA['우티'로 변신한 박명수가 출연진을 경악하게 했다. 28일 오후 방송된 JTBC 예능 프로그램 '마이 네임 이즈 가브리엘'에서는 박명수가 '우티'의 삶을 살아 눈길을 끌었다. 그는 아침부터 헐벗은 채 등장해 충격을]]></content:encoded>
+            <title><![CDATA[츄 “롤모델 아이유, 제가 먼저 안아도 될까요?” 러브콜(지코의 아티스트) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/609/0000869910</link>
+            <guid>https://m.entertain.naver.com/now/article/609/0000869910</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:24 GMT</pubDate>
+            <content:encoded><![CDATA[츄가 아이유를 롤모델로 꼽으며 "제가 먼저 안아도 될까요?"라 러브콜을 보냈다. 6월 28일 방송된 KBS 2TV '더 시즌즈-지코의 아티스트'에 출연한 츄는 "닮고 싶은 롤모델이 있냐"는 질문에 "너무 오래 좋아했]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이정현 "시아버지, 결혼 전부터 내 팬...나도 없는 옛날 앨범 소장" (편스토랑) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/213/0001299579</link>
-            <guid>https://m.entertain.naver.com/now/article/213/0001299579</guid>
-            <pubDate>Fri, 28 Jun 2024 13:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이정현이 둘째 임신 소식을 시부모님에게 공개했다. 28일 KBS2TV ‘신상출시 편스토랑’에선 둘째를 임신한 이정현이 시부모님에게 둘째 임신 소식을 전하는 모습이 공개됐다. 손녀를 위해 각종 나물 반찬과 곰국을]]></content:encoded>
+            <title><![CDATA[최우식 꼰대력↑‥고민시에 “나만 보고 내 말만 듣고”(서진이네2) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/609/0000869909</link>
+            <guid>https://m.entertain.naver.com/now/article/609/0000869909</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:24 GMT</pubDate>
+            <content:encoded><![CDATA[최우식이 신입 인턴 고민시 앞에서 허세를 부렸다. 6월 28일 방송된 tvN ‘서진이네2’에는 이서진, 정유미, 박서준, 최우식, 고민시가 아이슬란드에 입성했다. 아이슬란드 레이캬비크에 있는 ‘서진뚝배기’ 식당에 도]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오승훈, 지하철 탔을 뿐인데...400억 대작 캐스팅됐다 ('삼식이 삼촌') [인터뷰②] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/312/0000668565</link>
-            <guid>https://m.entertain.naver.com/now/article/312/0000668565</guid>
-            <pubDate>Fri, 28 Jun 2024 13:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[배우 오승훈이 '삼식이 삼촌' 섭외 비화를 밝혔다. 28일 오후 서울 종로구 삼청동의 한 카페에서 디즈니+ '삼식이 삼촌'에 출연한 오승훈과 만나 이야기를 나눴다. '삼식이 삼촌'은 전쟁 중에도 하루 세끼를 반드시]]></content:encoded>
+            <title><![CDATA[라이즈 은석 ‘훈남의 정석’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/609/0000869908</link>
+            <guid>https://m.entertain.naver.com/now/article/609/0000869908</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:24 GMT</pubDate>
+            <content:encoded><![CDATA[라이즈(RIIZE) 멤버 쇼타로, 은석, 성찬, 원빈, 소희, 앤톤이 6월 28일 오후 서울 강서구 방화동 김포국제공항 국제선을 통해 MBC &lt;쇼! 음악중심&gt; in JAPAN 일정 참석 차 일본으로 출국하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박보검, '루리' 부모님 첫 만남에 눈물 파티…"지금도 울어" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/421/0007631859</link>
-            <guid>https://m.entertain.naver.com/now/article/421/0007631859</guid>
-            <pubDate>Fri, 28 Jun 2024 13:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[박보검이 '루리' 부모님을 만났다. 28일 오후 방송된 JTBC 예능 프로그램 '마이 네임 이즈 가브리엘'에서는 배우 박보검이 루리로 변신, 그의 부모님을 찾아가 감동을 줬다. 그는 아들 루리로 완벽히 변신해 부모님]]></content:encoded>
+            <title><![CDATA[안정환 "♥이혜원보다 하루 더 살고 싶어...장례 치르고 따라갈 것" (선 넘은 패밀리)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/311/0001742974</link>
+            <guid>https://m.entertain.naver.com/now/article/311/0001742974</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:24 GMT</pubDate>
+            <content:encoded><![CDATA[안정환이 남다른 사랑꾼 면모를 드러냈다. 28일 방송된 채널A '남의 나라 살아요 - 선 넘은 패밀리'(이하 '선 넘은 패밀리')에서는 독일 베를린으로 선 넘은 김애주-다니엘 함 부부의 일상이 공개됐다. 'K-콘텐츠]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['대리 승진' 최우식, 인턴 고민시 상사 등극 "오빠만 봐라. 내 말만 들으면 돼" ('서진이네2') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/312/0000668564</link>
-            <guid>https://m.entertain.naver.com/now/article/312/0000668564</guid>
-            <pubDate>Fri, 28 Jun 2024 13:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[최우식이 인턴에서 대리로 승진했다. 28일 방송된 tvN 예능 프로그램 '서진이네2'에서는 새로운 인사 발령이 이뤄졌다. 제작진은 이서진에게 최우식의 직급에 대해 물었다. 이에 이서진은 "우식이 인턴 할 만큼 했잖아]]></content:encoded>
+            <title><![CDATA[라이즈 원빈 ‘얼굴 선 하나하나가 다 그림’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/609/0000869907</link>
+            <guid>https://m.entertain.naver.com/now/article/609/0000869907</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:24 GMT</pubDate>
+            <content:encoded><![CDATA[라이즈(RIIZE) 멤버 쇼타로, 은석, 성찬, 원빈, 소희, 앤톤이 6월 28일 오후 서울 강서구 방화동 김포국제공항 국제선을 통해 MBC &lt;쇼! 음악중심&gt; in JAPAN 일정 참석 차 일본으로 출국하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이정현 "시아버지는 '원조 성덕', 내 팬이었다" [편스토랑] [별별TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/108/0003246380</link>
-            <guid>https://m.entertain.naver.com/now/article/108/0003246380</guid>
-            <pubDate>Fri, 28 Jun 2024 13:09:50 GMT</pubDate>
-            <content:encoded><![CDATA['신상출시 편스토랑'에서 가수 겸 배우 이정현이 시부모의 사랑을 한몸에 받는 며느리임을 자랑했다. 28일 오후 방송된 KBS 2TV 예능 프로그램 '신상출시 편스토랑'에는 이정현이 출연해 시부모에게 둘째 임신 소식을]]></content:encoded>
+            <title><![CDATA[라이즈 쇼타로 ‘셔츠에 넥타이로 여심 저격’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/609/0000869906</link>
+            <guid>https://m.entertain.naver.com/now/article/609/0000869906</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:24 GMT</pubDate>
+            <content:encoded><![CDATA[라이즈(RIIZE) 멤버 쇼타로, 은석, 성찬, 원빈, 소희, 앤톤이 6월 28일 오후 서울 강서구 방화동 김포국제공항 국제선을 통해 MBC &lt;쇼! 음악중심&gt; in JAPAN 일정 참석 차 일본으로 출국하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박보검, 취중진담에 1일 2눈물 "내가 인생 바꿨다고" (가브리엘)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/311/0001742962</link>
-            <guid>https://m.entertain.naver.com/now/article/311/0001742962</guid>
-            <pubDate>Fri, 28 Jun 2024 13:09:50 GMT</pubDate>
-            <content:encoded><![CDATA['가브리엘' 박보검이 뭉클한 감동을 선사했다. 28일 방송된 JTBC 'My name is 가브리엘'(이하 '가브리엘')에서는 아일랜드 더블린과 태국 치앙마이로 향한 박보검, 박명수의 본격 적응기가 그려졌다. 이날]]></content:encoded>
+            <title><![CDATA[라이즈 앤톤 ‘멋진 오빠 느낌 물씬’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/609/0000869905</link>
+            <guid>https://m.entertain.naver.com/now/article/609/0000869905</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:24 GMT</pubDate>
+            <content:encoded><![CDATA[라이즈(RIIZE) 멤버 쇼타로, 은석, 성찬, 원빈, 소희, 앤톤이 6월 28일 오후 서울 강서구 방화동 김포국제공항 국제선을 통해 MBC &lt;쇼! 음악중심&gt; in JAPAN 일정 참석 차 일본으로 출국하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[종합]남윤수, 진서연 이상형 지목→할머니가 인정한 '착한 남자'('편스토랑') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/312/0000668563</link>
-            <guid>https://m.entertain.naver.com/now/article/312/0000668563</guid>
-            <pubDate>Fri, 28 Jun 2024 13:09:50 GMT</pubDate>
-            <content:encoded><![CDATA['편스토랑' 남윤수가 할머니를 향한 애정을 표현했다. 28일 방송된 KBS 2TV 예능 ‘신상출시 편스토랑’에는 배우 남윤수가 할머니와 함께했다. 이날 남윤수는 187.7cm의 우월한 기럭지를 자랑했다. VCR을 지]]></content:encoded>
+            <title><![CDATA[츄 "롤모델은 아이유…제가 먼저 안아도 될까요?" 고백 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/421/0007631886</link>
+            <guid>https://m.entertain.naver.com/now/article/421/0007631886</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:24 GMT</pubDate>
+            <content:encoded><![CDATA[가수 츄가 '더 시즌즈-지코의 아티스트'에 출연해 가수 겸 배우 아이유를 롤모델로 꼽았다. 28일 오후 방송된 KBS 2TV 음악 프로그램 '더 시즌즈-지코의 아티스트'(이하 '아티스트')에서는 츄와 함께했다. 이날]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이정현 둘째 임신 소식에 시부모 깜짝…"고생했다, 우리 며느리" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/421/0007631856</link>
-            <guid>https://m.entertain.naver.com/now/article/421/0007631856</guid>
-            <pubDate>Fri, 28 Jun 2024 13:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[이정현이 시부모님께 둘째 임신 소식을 전했다. 28일 오후 방송된 KBS 2TV 예능 프로그램 '신상출시 편스토랑'에서는 가수 겸 배우 이정현이 가족과의 일상을 공개했다. 그는 시부모님을 집에 초대했다. 그전에 미리]]></content:encoded>
+            <title><![CDATA[라이즈 성찬 ‘팬들 바라보는 달달한 눈빛’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/609/0000869904</link>
+            <guid>https://m.entertain.naver.com/now/article/609/0000869904</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:24 GMT</pubDate>
+            <content:encoded><![CDATA[라이즈(RIIZE) 멤버 쇼타로, 은석, 성찬, 원빈, 소희, 앤톤이 6월 28일 오후 서울 강서구 방화동 김포국제공항 국제선을 통해 MBC &lt;쇼! 음악중심&gt; in JAPAN 일정 참석 차 일본으로 출국하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이정현 “의사 시父 내 팬, 내게도 없는 옛날 앨범 있어 감동”(편스토랑) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/609/0000869897</link>
-            <guid>https://m.entertain.naver.com/now/article/609/0000869897</guid>
-            <pubDate>Fri, 28 Jun 2024 13:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[이정현의 시부모가 며느리의 첫인상을 밝혔다. 6월 28일 방송된 KBS 2TV '신상출시 편스토랑'에서는 이정현이 남편과 함께 시부모에게 둘째 임신 사실을 알리는 모습이 담겼다. 이날 이정현은 집에 방문한 시부모를]]></content:encoded>
+            <title><![CDATA[알파고 "기무치라 말해도 김치는 한국 음식...케밥은 튀르키예가 원조" (선 넘은 패밀리) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/311/0001742972</link>
+            <guid>https://m.entertain.naver.com/now/article/311/0001742972</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:24 GMT</pubDate>
+            <content:encoded><![CDATA[알파고가 케밥의 원조가 튀르키예라고 주장했다. 28일 방송된 채널A '남의 나라 살아요 - 선 넘은 패밀리'(이하 '선 넘은 패밀리')에서는 독일 베를린으로 선 넘은 김애주-다니엘 함 부부의 일상이 공개됐다. 'K-]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[최우식, 新인턴 고민시에 "현장에서 욕 많이 먹어"...최 대리로 승진 (서진이네2)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/311/0001742957</link>
-            <guid>https://m.entertain.naver.com/now/article/311/0001742957</guid>
-            <pubDate>Fri, 28 Jun 2024 13:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[최우식이 고민시와 인연을 밝혔다. 28일 방송된 tvN '서진이네2'에서는 이서진, 정유미, 박서준, 최우식과 신입 인턴 고민시가 아이슬란드 1호 한식당 서진뚝배기를 오픈했다. 이서진, 정유미, 박서준, 최우식이 에]]></content:encoded>
+            <title><![CDATA[라이즈 소희 ‘힙한 멋짐’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/609/0000869903</link>
+            <guid>https://m.entertain.naver.com/now/article/609/0000869903</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:24 GMT</pubDate>
+            <content:encoded><![CDATA[라이즈(RIIZE) 멤버 쇼타로, 은석, 성찬, 원빈, 소희, 앤톤이 6월 28일 오후 서울 강서구 방화동 김포국제공항 국제선을 통해 MBC &lt;쇼! 음악중심&gt; in JAPAN 일정 참석 차 일본으로 출국하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이서진, 박서준 '이사'로 승진... 나영석 "무슨 회사가 이러냐" ('서진이네2') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/213/0001299578</link>
-            <guid>https://m.entertain.naver.com/now/article/213/0001299578</guid>
-            <pubDate>Fri, 28 Jun 2024 13:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[이서진의 '파격 승진' 방침에 직원들이 반발했다. 28일 밤 tvN '서진이네2'에서는 사장 이서진이 기존 직원들의 직급을 교통 정리하는 장면이 방송됐다. 제작진은 기존 멤버인 이서진, 박서준, 최우식, 정유미, 인]]></content:encoded>
+            <title><![CDATA[박보검, 루리 부모 만나 "母가 연극배우"→박명수, 바이크 실종에 '멘붕' ('가브리엘') [종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/213/0001299580</link>
+            <guid>https://m.entertain.naver.com/now/article/213/0001299580</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:24 GMT</pubDate>
+            <content:encoded><![CDATA[박보검이 루리의 부모와 만났다. 루리의 부모는 아들 루리 보검에 대해 “사랑스럽고 잘생겼다”라고 흐뭇해했다. 첫 장사에 나선 박명수는 스쿠터를 잃어버리고 위기를 맞았다. 28일 JTBC '마이 네임 이즈 가브리엘'(]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“바쁜데 언제?” 둘째 임신 이정현, 시부모에 ‘임밍아웃’ 성공‥“고맙다”(편스토랑) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/609/0000869896</link>
-            <guid>https://m.entertain.naver.com/now/article/609/0000869896</guid>
-            <pubDate>Fri, 28 Jun 2024 13:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[이정현이 시부모에게 서프라이즈로 둘째 임신 사실을 알렸다. 6월 28일 오후 방송된 KBS 2TV '신상출시 편스토랑'에서는 최근 둘째 임신을 밝힌 이정현의 일상이 담겼다. 태명은 '복덩이'라고. 이날 이정현은 집에]]></content:encoded>
+            <title><![CDATA[라이즈 성찬 ‘청바지에 흰티만 입어도 멋짐’[포토엔HD] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/609/0000869902</link>
+            <guid>https://m.entertain.naver.com/now/article/609/0000869902</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:24 GMT</pubDate>
+            <content:encoded><![CDATA[라이즈(RIIZE) 멤버 쇼타로, 은석, 성찬, 원빈, 소희, 앤톤이 6월 28일 오후 서울 강서구 방화동 김포국제공항 국제선을 통해 MBC &lt;쇼! 음악중심&gt; in JAPAN 일정 참석 차 일본으로 출국하고 있다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[4년 인턴 설움 최우식, 대리 파격 승진→박서준 이사 등극 “무슨 회사가‥”(서진이네2) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/609/0000869895</link>
-            <guid>https://m.entertain.naver.com/now/article/609/0000869895</guid>
-            <pubDate>Fri, 28 Jun 2024 13:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[최우식이 4년 간의 인턴 끝에 대리로 파격 승진했다. 6월 28일 방송된 tvN ‘서진이네2’에는 이서진이 직원들의 인사 발령을 진행했다. 4년 간 인턴이었던 최우식은 원하는 막내가 있냐는 질문에 “근데 그거보다도]]></content:encoded>
+            <title><![CDATA[지성, 권율에 경고 "네가 닥터냐? 곧 나한테 잡힌다"('커넥션') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/312/0000668568</link>
+            <guid>https://m.entertain.naver.com/now/article/312/0000668568</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:24 GMT</pubDate>
+            <content:encoded><![CDATA['커넥션' 지성이 권율의 범행을 확신했다. 28일 방송된 SBS 금토드라마 ‘커넥션’에서는 정재경(지성 분)이 박태진(권율 분)에게 경고했다. 이날 장재경은 자기 혼자 비밀번호를 알고 돈을 챙기려다 박태진에게 목이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이정현 "시아버지, 남편과 같은 의사…원래 제 팬이었다" 깜짝 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/421/0007631852</link>
-            <guid>https://m.entertain.naver.com/now/article/421/0007631852</guid>
-            <pubDate>Fri, 28 Jun 2024 13:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[이정현의 시부모님이 공개됐다. 28일 오후 방송된 KBS 2TV 예능 프로그램 '신상출시 편스토랑'에서는 가수 겸 배우 이정현이 가족과의 일상을 선보여 눈길을 끌었다. 이날 이정현은 시부모님을 집에 초대했고, 이 자]]></content:encoded>
+            <title><![CDATA[[종합]사회생활은 고민시처럼? 이서진, "최우식·뷔와 달라 미친 듯이 일해" '감탄' ('서진이네2') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/312/0000668567</link>
+            <guid>https://m.entertain.naver.com/now/article/312/0000668567</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:24 GMT</pubDate>
+            <content:encoded><![CDATA['서진이네2'가 아이슬란드에서 새로운 식당을 개업했다. 28일 방송된 tvN 예능 프로그램 '서진이네2'에서는 아이슬란드에서 한식을 준비하는 직원들의 모습이 그려졌다. 본격적인 '서진이네2' 개업에 앞서 나영석 PD]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박보검 잘생김에 母 흡족 “나 닮아서”→뽀뽀자국 남게 진한 환영(가브리엘) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/609/0000869894</link>
-            <guid>https://m.entertain.naver.com/now/article/609/0000869894</guid>
-            <pubDate>Fri, 28 Jun 2024 13:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[배우 박보검이 아일랜드에서 부모님의 환영을 받았다. 6월 28일 방송된 JTBC 예능 'My name is 가브리엘' 2회에서는 아일랜드 더블린에서 램파츠 합창단장 루리가 된 박보검의 모습이 그려졌다. 이날 박보검은]]></content:encoded>
+            <title><![CDATA[서인국♥안재현, 키스할까…케이윌, '월드게이' 3편 예고 "끝 아냐" (아티스트) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/311/0001742971</link>
+            <guid>https://m.entertain.naver.com/now/article/311/0001742971</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:24 GMT</pubDate>
+            <content:encoded><![CDATA[케이윌이 서인국과 안재현의 러브라인이 담긴 화제의 '월드 게이' 뮤직비디오 속편을 예고했다. 28일 KBS 2TV 예능 '더 시즌즈- 지코의 아티스트'(이하 '아티스트')에는 게스트로 가수 케이윌, 츄, 엔플라잉,]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘서진이네2’ 방탄소년단 뷔, 새 인턴에게 “느리면 안돼” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/241/0003361032</link>
-            <guid>https://m.entertain.naver.com/now/article/241/0003361032</guid>
-            <pubDate>Fri, 28 Jun 2024 13:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단 뷔가 새롭게 합류하는 인턴에게 조언을 전했다. 28일 첫 방송된 tvN ‘서진이네2’ 1회에서 방탄소년단 뷔가 등장했다. 뷔는 입대 10일 전 나영석 PD와 박서준을 만나 이야기를 나눴다. 뷔는 입대 소감]]></content:encoded>
+            <title><![CDATA[박명수 멘붕한 오토바이 분실 사건 전말 “김태호 PD 장난인 줄”(가브리엘)(종합) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/609/0000869901</link>
+            <guid>https://m.entertain.naver.com/now/article/609/0000869901</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:24 GMT</pubDate>
+            <content:encoded><![CDATA[방송인 박명수가 태국 시장에서 멘붕을 겪었다. 6월 28일 방송된 JTBC 예능 'My name is 가브리엘' 2회에서는 태국 치앙마이에서 35세 솜땀 장수 우티로 살아가는 박명수의 모습이 그려졌다. 이날 박명수는]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제로베이스원, 허걱~ 플러팅~❤️ 손키스(출국)[뉴스엔TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/609/0000869893</link>
-            <guid>https://m.entertain.naver.com/now/article/609/0000869893</guid>
-            <pubDate>Fri, 28 Jun 2024 13:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[가수 제로베이스원(ZEROBASEONE, ZB1) 멤버 박건욱, 김지웅, 한유진, 성한빈, 리키, 김규빈, 석매튜, 장하오, 김태래가 6월 28일 오후 MBC '쇼! 음악중심' in JAPAN 해외 공연 일정 차 서]]></content:encoded>
+            <title><![CDATA[케이윌 “‘월드 게이’ 서인국X안재현 도원결의, 이번으로 끝 아냐”(지코의 아티스트) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/609/0000869900</link>
+            <guid>https://m.entertain.naver.com/now/article/609/0000869900</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:24 GMT</pubDate>
+            <content:encoded><![CDATA[케이윌이 서인국과 안재현을 향해 "이번이 끝이 아니다"고 말하며 뮤직비디오 3편을 예고했다. 6월 28일 방송된 KBS 2TV '더 시즌즈-지코의 아티스트'에는 6년 만에 신곡을 낸 케이윌이 출연했다. 이날 케이윌은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박보검, '루리' 동기화 완료…"난 음악 하는 40살" 자기소개 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/421/0007631849</link>
-            <guid>https://m.entertain.naver.com/now/article/421/0007631849</guid>
-            <pubDate>Fri, 28 Jun 2024 13:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[박보검이 '루리'로 완벽하게 변신했다. 28일 오후 방송된 JTBC 예능 프로그램 '마이 네임 이즈 가브리엘'에서는 배우 박보검이 '루리'로 동기화한 가운데 부모님을 만나러 가 눈길을 끌었다. 그는 기차 안에서 공연]]></content:encoded>
+            <title><![CDATA['44세' 이정현, 시부모에 '둘째 임신' 깜짝 공개 "태명=복덩이" (편스토랑)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/311/0001742970</link>
+            <guid>https://m.entertain.naver.com/now/article/311/0001742970</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:24 GMT</pubDate>
+            <content:encoded><![CDATA['편스토랑' 이정현이 시부모님께 둘째 임신 사실을 공개했다. 28일 방송된 KBS 2TV '신상출시 편스토랑'(이하 '편스토랑')에서는 이정현이 남편과 함께 시부모님께 둘째 '복덩이(태명)'의 임신 소식을 전했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“데뷔 전 웨딩플래너” 고민시 반전 이력, 이서진이 반한 만렙 사회생활(서진이네2) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/609/0000869892</link>
-            <guid>https://m.entertain.naver.com/now/article/609/0000869892</guid>
-            <pubDate>Fri, 28 Jun 2024 13:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[이서진이 고민시의 사회생활에 감탄했다. 6월 28일 방송된 tvN ‘서진이네2’에는 고민시가 신입 인턴으로 등장했다. 한 자리에 모인 사장 이서진과 정유미, 박서준, 최우식은 고민시가 등장하자 깜짝 놀랐다. 고민시를]]></content:encoded>
+            <title><![CDATA[이서진, 고민시에 "이런 인턴 처음...요령 피우는 최우식·뷔와 달라" (서진이네2)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/311/0001742969</link>
+            <guid>https://m.entertain.naver.com/now/article/311/0001742969</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:24 GMT</pubDate>
+            <content:encoded><![CDATA[고민시가 신입 인턴으로 합류해 활약했다. 28일 방송된 tvN '서진이네2'에서는 이서진, 정유미, 박서준, 최우식과 신입 인턴 고민시가 아이슬란드 1호 한식당 서진뚝배기를 오픈했다. 이번 시즌 새롭게 합류하게 된]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박보검 "연습 끝나고 술 한잔, 주량 생길 듯"→절친들 고백에 눈물('가브리엘') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/312/0000668561</link>
-            <guid>https://m.entertain.naver.com/now/article/312/0000668561</guid>
-            <pubDate>Fri, 28 Jun 2024 13:09:50 GMT</pubDate>
-            <content:encoded><![CDATA['가브리엘' 박보검이 없던 주량이 생겼다. 28일 방송된 JTBC 'My name is 가브리엘' 에서는 타인의 삶을 사는 박보검이 눈물을 보였다. 아일랜드 더블린에서 합창단장 루리의 삶을 살게 된 박보검은 램파츠]]></content:encoded>
+            <title><![CDATA[데이식스 영케이, 멤버들 깜짝 음성편지에 1차 눈물 위기 “참 든든한 사람들” (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/609/0000869899</link>
+            <guid>https://m.entertain.naver.com/now/article/609/0000869899</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:24 GMT</pubDate>
+            <content:encoded><![CDATA[밴드 데이식스(DAY6) 멤버 영케이(Young K)가 멤버들의 깜짝 음성편지에 1차 눈물 위기를 맞이했다. 영케이는 6월 28일 KBS 쿨FM '데이식스의 키스 더 라디오'(이하 '데키라')에 출연했다. 이날 방송]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이서진, 인턴 고민시 보면서 역대급 보조개…“사회생활 잘하네”(‘서진이네2’) (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/468/0001072588</link>
-            <guid>https://m.entertain.naver.com/now/article/468/0001072588</guid>
-            <pubDate>Fri, 28 Jun 2024 13:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[tvN 예능 ‘서진이네2’. 사진|tvN ‘서진이네2’ 이서진이 새 인턴 고민시에게 보조개를 날렸다. 28일 오후 방송된 tvN 예능 ‘서진이네2’에서는 새로운 인턴으로 합류한 고민시의 모습이 담겼다. ‘서진이네’]]></content:encoded>
+            <title><![CDATA[[단독]전 연인 폭로에 더 커진 '허웅 리스크'..'돌싱포맨' 출연분 교체 [종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/108/0003246384</link>
+            <guid>https://m.entertain.naver.com/now/article/108/0003246384</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:24 GMT</pubDate>
+            <content:encoded><![CDATA[농구스타 허웅이 사생활 논란으로 결국 발목이 잡혔다. 허웅의 '신발 벗고 돌싱포맨' 출연분 방영이 잠정 보류된 것. 28일 스타뉴스 취재 결과, 허웅의 출연 여부로 관심이 쏠렸던 SBS 예능 프로그램 '신발 벗고 돌]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘살림남’ 박서진, 100일간 보디프로필→동생 효정, 20kg 감량 도전 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/144/0000971925</link>
-            <guid>https://m.entertain.naver.com/now/article/144/0000971925</guid>
-            <pubDate>Fri, 28 Jun 2024 13:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[오는 29일 방송되는 KBS 2TV ‘살림하는 남자들 시즌2’(이하 ‘살림남’)에서는 가수 박서진이 동생 효정과 함께 100일간 보디프로필 프로젝트에 도전하기로 결심한다. 얼마 전 부모님이 운영하는 건어물 가게에서]]></content:encoded>
+            <title><![CDATA[박보검 비주얼에 母, 진한 뽀뽀 자국 남겼다 "어릴 때부터 잘생겨" (가브리엘)[종합] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/311/0001742964</link>
+            <guid>https://m.entertain.naver.com/now/article/311/0001742964</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:24 GMT</pubDate>
+            <content:encoded><![CDATA['가브리엘' 박보검이 루리로 변신해 부모님을 만났다. 28일 방송된 JTBC 'My name is 가브리엘'(이하 '가브리엘')에서는 아일랜드 더블린과 태국 치앙마이로 향한 박보검, 박명수의 본격 적응기가 그려진다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[엔믹스, 매일 매일 시간분초단위로 예뻐지는 인형 비주얼 (출국)[뉴스엔TV] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/609/0000869891</link>
-            <guid>https://m.entertain.naver.com/now/article/609/0000869891</guid>
-            <pubDate>Fri, 28 Jun 2024 13:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[가수 엔믹스 릴리, 해원, 설윤, 규진, 지우, 배이가 6월 28일 오전 MBC '쇼! 음악중심' in JAPAN 해외 공연 일정 차 서울시 강서구 김포국제공항을 통해 일본 도쿄로 출국하고 있다. '쇼! 음악중심 i]]></content:encoded>
+            <title><![CDATA[[종합]이정현 "시아버지가 내 오랜 팬…2대가 의사, 일상대화도 의학적"('편스토랑') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/312/0000668566</link>
+            <guid>https://m.entertain.naver.com/now/article/312/0000668566</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:24 GMT</pubDate>
+            <content:encoded><![CDATA['편스토랑' 이정현의 시아버지가 성덕 인증을 했다. 28일 방송된 KBS 2TV 예능 ‘신상출시 편스토랑’에서는 배우 겸 가수 이정현이 남편과 함께 시부모님께 둘째 임신 소식을 깜짝 공개했다. 이날 이정현은 참외피클]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[최우식, '서진이네2' 대리로 파격 승진…박서준, 이사 등극 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/421/0007631847</link>
-            <guid>https://m.entertain.naver.com/now/article/421/0007631847</guid>
-            <pubDate>Fri, 28 Jun 2024 13:09:50 GMT</pubDate>
-            <content:encoded><![CDATA['서진이네2' 최우식이 인턴을 마치고 대리로 승진했다. 28일 오후 방송된 tvN 예능 프로그램 '서진이네2'에서는 새로운 조직도가 공개됐다. 고민시가 새로운 인턴으로 합류하며 '서진이네' 조직도의 변화가 생겼다.]]></content:encoded>
+            <title><![CDATA[걸그룹 리브하이 레아, '청담동 주식부자' 이희진과 결혼 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/003/0012636537</link>
+            <guid>https://m.entertain.naver.com/now/article/003/0012636537</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:24 GMT</pubDate>
+            <content:encoded><![CDATA[걸그룹 '리브하이' 출신 레아(31·박윤희)가 '청담동 주식부자' 이희진(37)과 결혼한 사실이 뒤늦게 알려졌다. 28일 일요시사 보도에 따르면, 레아와 이희진은 2021년 12월25일 서울 강남구 소재 한 호텔 예]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['커넥션' 윤나무, 죽기 전 권율·정유민 불륜 알고 있었다 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://m.entertain.naver.com/now/article/311/0001742975</link>
+            <guid>https://m.entertain.naver.com/now/article/311/0001742975</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:30 GMT</pubDate>
+            <content:encoded><![CDATA['커넥션'에서 전미도와 정유민이 만났다. 28일 방송된 SBS 금토드라마 '커넥션' 12회에서는 죽은 박준서(윤나무 분)의 아내 최지연(정유민)과 만난 오윤진(전미도)의 모습이 그려졌다. 이날 최지연이 먼저 오윤진을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[지성, 권율에 살벌한 경고 "너 곧 나한테 잡힌다" [커넥션] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://m.entertain.naver.com/now/article/108/0003246387</link>
+            <guid>https://m.entertain.naver.com/now/article/108/0003246387</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:30 GMT</pubDate>
+            <content:encoded><![CDATA['커넥션'에서 지성이 권율에게 살벌한 경고를 보냈다. 28일 오후 방송된 SBS 금토드라마 '커넥션' 11회에선 장재경(지성 분)이 박태진(권율 분)을 찾아 사건의 실마리를 찾아가는 모습이 그려졌다. 이날 방송에서]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[박근록, 지성 마약 중독하게 만든 닥터였나? 김경남에 마약 배달 ('커넥션') [Oh!쎈 포인트] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://m.entertain.naver.com/now/article/109/0005107219</link>
+            <guid>https://m.entertain.naver.com/now/article/109/0005107219</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:30 GMT</pubDate>
+            <content:encoded><![CDATA[지성에게 마약을 먹게 했던 닥터의 정체가 수면 위로 떠올랐다. 28일 방송된 SBS 금토드라마 '커넥션'에서 장재경(지성)을 레몬뽕에 중독 시켰던 일명 '닥터'의 정체가 정상의(박근록)으로 예상하게 해 눈길을 끌었다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['커넥션' 지성, 권율에 경고 "너 그러다 나한테 잡힌다" (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://m.entertain.naver.com/now/article/311/0001742967</link>
+            <guid>https://m.entertain.naver.com/now/article/311/0001742967</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:30 GMT</pubDate>
+            <content:encoded><![CDATA['커넥션'에서 지성이 권율에게 경고를 날렸다. 28일 방송된 SBS 금토드라마 '커넥션' 12회에서는 박태진(권율 분)과 만난 장재경(지성)의 모습이 그려졌다. 이날 장재경은 박태진의 사무실을 찾았다. 장재경은 박태]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘우리, 집’ 김희선, 남편&동생 동원한 ‘위험한 작전’ 정건주 잡았다! (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
+            <link>https://m.entertain.naver.com/now/article/408/0000227890</link>
+            <guid>https://m.entertain.naver.com/now/article/408/0000227890</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:30 GMT</pubDate>
+            <content:encoded><![CDATA[김희선이 가족들을 동원해 정건주를 잡았다. 6월 28일 방송된 MBC 금토드라마 ‘우리, 집’(기획 권성창 / 연출 이동현, 위득규 / 극본 남지연 / 제작 레드나인픽쳐스)에서 노영원(김희선)은 문태오(정건주)를 잡]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한채영, 최웅에 가스라이팅 "내 차에 끼어든 건 네 잘못" [스캔들] [별별TV] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
@@ -1602,39 +1637,39 @@
             <content:encoded><![CDATA['커넥션' 지성, 전미도, 정순원의 국밥 회동이다. SBS 금토드라마 '커넥션'(이현 극본, 김문교 연출)은 높은 중독성으로 시청자들에게 금단증상이 일어난다는 호평을 받으며 열광적인 반응을 받고 있다. K-콘텐츠 경]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[서현우 “단역부터 응원해준 송강호선배와 재회, 스토커 된듯 지켜봐”(삼식이삼촌)[EN:인터뷰②] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://m.entertain.naver.com/now/article/609/0000869793</link>
-            <guid>https://m.entertain.naver.com/now/article/609/0000869793</guid>
-            <pubDate>Fri, 28 Jun 2024 07:05:29 GMT</pubDate>
-            <content:encoded><![CDATA[(인터뷰 ①에서 계속) 배우 서현우가 송강호와 재회하게 된 소감을 전했다. 서현우는 6월 28일 서울 종로구 한 카페에서 진행된 디즈니+ '삼식이 삼촌'(각본/감독 신연식) 종영 인터뷰에서 '관상' 단역으로 만났던]]></content:encoded>
+            <title><![CDATA['커넥션' 윤나무, 죽기 전 권율·정유민 불륜 알고 있었다 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20240628225730666</link>
+            <guid>https://v.daum.net/v/20240628225730666</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:54 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 오수정 기자) '커넥션'에서 전미도와 정유민이 만났다.&nbsp; 28일 방송된 SBS 금토드라마 '커넥션' 12회에서는 죽은 박준서(윤나무 분)의 아내 최지연(정유민)과 만난 오윤진(전미도)의 모습이 그려졌다.&nbsp; 이날 최지연이 먼저 오윤진을 찾아왔다. 앞서 최지연은 죽은 남편 박준서의 핸드폰 비밀번호가 오윤진의 생일이라는 사실을 알고 큰 충격을 받았]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘삼식이삼촌’ 서현우 “실제 수도방위사령부 소속, 군인 자태 고민”[EN:인터뷰①] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://m.entertain.naver.com/now/article/609/0000869792</link>
-            <guid>https://m.entertain.naver.com/now/article/609/0000869792</guid>
-            <pubDate>Fri, 28 Jun 2024 07:05:29 GMT</pubDate>
-            <content:encoded><![CDATA[배우 서현우의 정한민은 어떻게 탄생됐을까. 서현우는 6월 28일 서울 종로구 한 카페에서 진행된 디즈니+ '삼식이 삼촌'(각본/감독 신연식) 종영 인터뷰에서 정한민이라는 인물을 분석하며 캐릭터를 빌드업해가는 과정을]]></content:encoded>
+            <title><![CDATA[지성, 권율에 살벌한 경고 "너 곧 나한테 잡힌다" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20240628225325618</link>
+            <guid>https://v.daum.net/v/20240628225325618</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:54 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 이예지 기자] /사진='커넥션' 화면 캡처'커넥션'에서 지성이 권율에게 살벌한 경고를 보냈다. 28일 오후 방송된 SBS 금토드라마 '커넥션' 11회에선 장재경(지성 분)이 박태진(권율 분)을 찾아 사건의 실마리를 찾아가는 모습이 그려졌다. 이날 방송에서 장재경은 박태진에게 "참고인 조사 나오라고 하면 안 나올까 봐 왔다. 그저께 밤에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김희선, 시어머니 한 방 먹였다…이혜영, 구치소 나와 아들 내연녀 추적 ('우리집') (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://m.entertain.naver.com/now/article/312/0000668505</link>
-            <guid>https://m.entertain.naver.com/now/article/312/0000668505</guid>
-            <pubDate>Fri, 28 Jun 2024 06:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[김희선과 이혜영이 ‘광기 빌런’ 연우를 추적하기 위한 ‘와신상담’ 추리 총공세를 펼친다. MBC 금토드라마 ‘우리, 집’은 자타 공인 대한민국 최고의 가정 심리 상담의인 노영원이 정체 모를 협박범에게 자신의 커리어와]]></content:encoded>
+            <title><![CDATA[박근록, 지성 마약 중독하게 만든 닥터였나? 김경남에 마약 배달 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20240628224054474</link>
+            <guid>https://v.daum.net/v/20240628224054474</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:54 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김예솔 기자] 지성에게 마약을 먹게 했던 닥터의 정체가 수면 위로 떠올랐다.&nbsp; 28일 방송된 SBS 금토드라마 '커넥션'에서 장재경(지성)을 레몬뽕에 중독 시켰던 일명 '닥터'의 정체가 정상의(박근록)으로 예상하게 해 눈길을 끌었다.&nbsp; 이날 공진욱(유희제)은 닥터에게 전화를 걸어 자신이 윤사장(백지원)을 죽였으며 중국으로 가는 배 편을 알아봐]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['삼식이삼촌' 서현우 "촬영장서 티파니와 눈빛 사인 주고받아" 고백 [인터뷰M] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://m.entertain.naver.com/now/article/408/0000227870</link>
-            <guid>https://m.entertain.naver.com/now/article/408/0000227870</guid>
-            <pubDate>Fri, 28 Jun 2024 06:13:58 GMT</pubDate>
-            <content:encoded><![CDATA['삼식이 삼촌' 서현우가 촬영 현장에서 티파니 영과 눈빛 사인을 주고 받은 이유를 들려줬다. 서현우는 28일 오후 서울 종로구 삼청동에 위치한 한 카페에서 iMBC연예와 만나 디즈니+ 오리지널 시리즈 '삼식이 삼촌']]></content:encoded>
+            <title><![CDATA['커넥션' 지성, 권율에 경고 "너 그러다 나한테 잡힌다" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20240628223317412</link>
+            <guid>https://v.daum.net/v/20240628223317412</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:54 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 오수정 기자) '커넥션'에서 지성이 권율에게 경고를 날렸다.&nbsp; 28일 방송된 SBS 금토드라마 '커넥션' 12회에서는 박태진(권율 분)과 만난 장재경(지성)의 모습이 그려졌다.&nbsp; 이날 장재경은 박태진의 사무실을 찾았다. 장재경은 박태진에게 "참고인 조사 나오라면 안 나올 것 같아서"라고 말해면서 살인 용의자 정윤호(이강욱)의 통과 기록을 내밀]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['삼식이 삼촌' 서현우 "좋은 의미로 송강호 스토커 된 것 같아" [인터뷰M] (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
-            <link>https://m.entertain.naver.com/now/article/408/0000227867</link>
-            <guid>https://m.entertain.naver.com/now/article/408/0000227867</guid>
-            <pubDate>Fri, 28 Jun 2024 06:13:58 GMT</pubDate>
-            <content:encoded><![CDATA['삼식이 삼촌' 서현우가 "송강호 선배님의 스토커가 된 것 같다"고 말해 눈길을 끌었다. 서현우는 28일 오후 서울 종로구 삼청동에 위치한 한 카페에서 iMBC연예와 만나 디즈니+ 오리지널 시리즈 '삼식이 삼촌'(극]]></content:encoded>
+            <title><![CDATA[‘우리, 집’ 김희선, 남편&동생 동원한 ‘위험한 작전’ 정건주 잡았다! (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20240628222333314</link>
+            <guid>https://v.daum.net/v/20240628222333314</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:54 GMT</pubDate>
+            <content:encoded><![CDATA[김희선이 가족들을 동원해 정건주를 잡았다. 6월 28일 방송된 MBC 금토드라마 ‘우리, 집’(기획 권성창 / 연출 이동현, 위득규 / 극본 남지연 / 제작 레드나인픽쳐스)에서 노영원(김희선)은 문태오(정건주)를 잡기 위해 남편 최재진(김남희)과 동생 노영민(황찬성), 노영민의 친구 박승재(한상조)를 동원했다. 도현(재찬)이 보낸 문자를 받고 집에 들]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[김희선, 시모 이혜영과 ‘광기’ 연우 잡는다…특급 총공세 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
@@ -1707,144 +1742,109 @@
             <content:encoded><![CDATA[[OSEN=연휘선 기자] 배우 김현진이 대놓고 스윗한 '소원남의 정석'다운 훈훈한 엔딩을 장식했다. 김현진은 최근 공개된 티빙 오리지널 시리즈 '나는 대놓고 신데렐라를 꿈꾼다'(크리에이터 백미경, 극본 유자, 연출 김민경, 약칭 '나대신꿈')에서 최연소 천만 영화감독 백도홍 역을 맡아 '직진남'의 로맨틱한 매력을 선보였다. 그는 극 중 캐릭터와 완벽 싱]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["남편 언제 묶어?" 정관수술 수다로 시작한 드라마 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20240628182035049</link>
-            <guid>https://v.daum.net/v/20240628182035049</guid>
-            <pubDate>Fri, 28 Jun 2024 10:08:39 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=연휘선 기자] ‘나는&nbsp;돈가스가 싫어요’ 김영재 감독과 노예리 작가가 첫 방송을 앞두고 심경을 밝혔다.&nbsp; 오는 7월&nbsp;5일&nbsp;첫 방송되는&nbsp;MBC 2부작 단편드라마&nbsp;'나는&nbsp;돈가스가 싫어요'는 옹화마을 카사노바 견&nbsp;'백구'의 중성화수술에 앞장섰던 이장이 하루아침에 정관수술을 하게 되면서 졸지에&nbsp;'백구'와 같은 신세가 되어버린 좌충우돌 휴먼 코미디 드라]]></content:encoded>
+            <title><![CDATA[박성광, ‘주식 사기’ 이희진 결혼식 사회…“당일 알게됐다” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240628230245853</link>
+            <guid>https://v.daum.net/v/20240628230245853</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[[스포츠서울 | 김현덕 기자] 코미디언 박성광이 이희진의 결혼식 사회를 맡은 것과 관련해 입장을 밝혔다. 28일 박성광 소속사 뭉친프로젝트는 “박성광은 2021년 본인 결혼식을 진행해 준 업체 관계자에게 급한 사회 부탁을 받았다”고 해명했다. 이어 “해당 결혼식 당일 인사도 없이 사회자석에 들어가 바로 진행, 식 중간에 신랑이 이희진씨인 것을 알게 됐]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['낮과 밤이 다른 그녀' 이정은, 한계 없는 연기력 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20240628181451906</link>
-            <guid>https://v.daum.net/v/20240628181451906</guid>
-            <pubDate>Fri, 28 Jun 2024 10:08:39 GMT</pubDate>
-            <content:encoded><![CDATA[이정은(사진=삼화네트웍스,SLL)[이데일리 스타in 최희재 기자] 배우 이정은이 ‘낮과 밤이 다른 그녀’를 통해 20대와 50대를 오가는 연기로 시청자를 사로잡고 있다. 이정은은 JTBC 새 토일드라마 ‘낮과 밤이 다른 그녀’에서 임순 역으로 열연을 펼치고 있다. 이정은은 낮에는 50대로 변하고 밤에는 20대로 돌아오는 본체 이미진(정은지 분)의 50대]]></content:encoded>
+            <title><![CDATA[츄 “롤모델 아이유, 제가 먼저 안아도 될까요?” 러브콜 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240628230036732</link>
+            <guid>https://v.daum.net/v/20240628230036732</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 츄가 아이유를 롤모델로 꼽으며 "제가 먼저 안아도 될까요?"라 러브콜을 보냈다. 6월 28일 방송된 KBS 2TV '더 시즌즈-지코의 아티스트'에 출연한 츄는 "닮고 싶은 롤모델이 있냐"는 질문에 "너무 오래 좋아했던 선배님이 계신다. 아이유 선배님이시다"고 말했다. 이어 "곡에 있는 메시지나 귀엽고 솔직한, 은유적인 표현들이 제게]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정려원, 스캔들 터졌지만 일은 일 사랑은 사랑..♥위하준 손 꼭 잡고 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20240628180616767</link>
-            <guid>https://v.daum.net/v/20240628180616767</guid>
-            <pubDate>Fri, 28 Jun 2024 09:09:24 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박소영 기자] tvN&nbsp;‘졸업’&nbsp;정려원,&nbsp;위하준이 시련 속 어떤 정답을 내놓을까. tvN&nbsp;토일드라마&nbsp;‘졸업’(연출&nbsp;안판석,&nbsp;극본&nbsp;박경화,&nbsp;제작&nbsp;스튜디오드래곤·(주)제이에스픽쳐스)&nbsp;측은&nbsp;15회&nbsp;방송을&nbsp;앞둔&nbsp;28일,&nbsp;이준호(위하준 분)와 우승희(김정영 분)의 아슬아슬한 맞대면을 포착했다.&nbsp;여기에 대치동 밤거리를 당당하게 거니는 서혜진(정려원 분)과]]></content:encoded>
+            <title><![CDATA[최우식 꼰대력↑‥고민시에 “나만 보고 내 말만 듣고” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240628225900672</link>
+            <guid>https://v.daum.net/v/20240628225900672</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 최우식이 신입 인턴 고민시 앞에서 허세를 부렸다. 6월 28일 방송된 tvN ‘서진이네2’에는 이서진, 정유미, 박서준, 최우식, 고민시가 아이슬란드에 입성했다. 아이슬란드 레이캬비크에 있는 ‘서진뚝배기’ 식당에 도착한 사장 이서진과 직원들은 생각보다 큰 홀과 주방 규모에 깜짝 놀랐다. 이서진은 “이걸 어떻게 감당하나”라고 말했]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['삼식이 삼촌' 서현우, '디즈니의 남자' 굳히기 들어간다 "이건 운명" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20240628180129658</link>
-            <guid>https://v.daum.net/v/20240628180129658</guid>
-            <pubDate>Fri, 28 Jun 2024 09:09:24 GMT</pubDate>
-            <content:encoded><![CDATA[디즈니+ '킬러들의 쇼핑몰'부터 '삼식이 삼촌'까지 연달아 선보인 배우 서현우가 강렬한 호연으로 국내외 시청자들에게 눈도장을 찍었다. 스스로를 '디즈니의 남자'라고 표현한 그는 여기서 멈추지 않겠다고 다짐했다. 서현우는 28일 오후 서울 종로구 삼청동에 위치한 한 카페에서 iMBC연예와 만나 디즈니+ 오리지널 시리즈 '삼식이 삼촌'(극본·연출 신연식)]]></content:encoded>
+            <title><![CDATA[안정환 "♥이혜원보다 하루 더 살고 싶어...장례 치르고 따라갈 것" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240628225706664</link>
+            <guid>https://v.daum.net/v/20240628225706664</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 노수린 기자) 안정환이 남다른 사랑꾼 면모를 드러냈다. 28일 방송된 채널A '남의 나라 살아요 - 선 넘은 패밀리'(이하 '선 넘은 패밀리')에서는 독일 베를린으로 선 넘은 김애주-다니엘 함 부부의 일상이 공개됐다. 'K-콘텐츠' 열혈 팬 다니엘 함은 최근 드라마 '눈물의 여왕'에 푹 빠져 있다고 고백했다. 이에 김애주-다니엘 함 부부는 드]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘7인의부활’ 심이영 ‘친절한 선주씨’ 주인공 된다 “출연 확정” (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20240628173928118</link>
-            <guid>https://v.daum.net/v/20240628173928118</guid>
-            <pubDate>Fri, 28 Jun 2024 09:09:24 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 박수인 기자] 배우 심이영이 일일드라마 주인공이 된다. 심이영 소속사 높은엔터테인먼트 측은 6월 28일 뉴스엔에 “‘친절한 선주씨’에 출연하는 것이 맞다"고 밝혔다. '친절한 선주씨'는 '용감무쌍 용수정' 후속으로 방영되는 MBC 새 일일드라마. '과거를 믿지 마세요', '무신', '모두 다 김치', '위대한 조강지처', '전생에 웬수들', '모]]></content:encoded>
+            <title><![CDATA[‘서진이네2’ 최우식, “4년 만에 인턴 탈출! 대리 승진의 감동 순간” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240628225703663</link>
+            <guid>https://v.daum.net/v/20240628225703663</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[대리로 승진한 최우식의 성장과, 박서준과 정유미의 승진을 통해 ‘서진이네’ 팀의 변화를 보여주었다. 28일 오후 방송된 tvN 예능 프로그램 ‘서진이네2’는 새로운 조직도 공개와 함께 흥미진진한 전개를 선보였다. 특히 이번 방송에서 인턴 최우식의 승진 이야기가 시청자들의 큰 관심을 끌었다. 고민시가 새로운 인턴으로 합류하면서 ‘서진이네’ 조직도는 새로운 변]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박명수, 태국 아내에 몸 가리며 내외 “남의 여자 앞에서” 민망 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240628220823118</link>
-            <guid>https://v.daum.net/v/20240628220823118</guid>
-            <pubDate>Fri, 28 Jun 2024 13:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 방송인 박명수가 태국 아내에게 내외했다. 6월 28일 방송된 JTBC 예능 'My name is 가브리엘' 2회에서는 태국 치앙마이에서 35세 솜땀 장수 우티로 살아가는 박명수의 모습이 그려졌다. 이날 소파에서 아침을 맞이한 박명수는 깨우는 아내와 서먹하게 아침 인사를 나눴다. 이때 모기장 안에 있는 박명수를 본 강민경은 "너무]]></content:encoded>
+            <title><![CDATA[박보검 또 울고 박명수 땀 뻘뻘, 같은 '가브리엘' 다른 느낌 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240628225438630</link>
+            <guid>https://v.daum.net/v/20240628225438630</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=연휘선 기자] ‘My name is 가브리엘’에서 박보검과 박명수과 전여 다른 타인의 삶을 보여줬다. 28일 방송된 JTBC 예능 프로그램 ‘My name is 가브리엘(마이 네임 이즈 가브리엘, 약칭 가브리엘)’에서는 지난주 첫 방송에 이어 배우 박보검과 코미디언 박명수의 이야기가 그려졌다.&nbsp; ‘가브리엘’은 아무도 나를 모르는 곳에서 세계]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["여성 생식기 도려내"…아산 트렁크 살인사건 범인 김일곤, 경악스러운 범행 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240628220629083</link>
-            <guid>https://v.daum.net/v/20240628220629083</guid>
-            <pubDate>Fri, 28 Jun 2024 13:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김예솔 기자] 참혹한 트렁크 살인 사건의 전말이 공개됐다.&nbsp; 28일 방송된 티캐스트 E채널 ‘용감한 형사들3’에서는 아산 트렁크 살인 사건으로 알려진 범죄자 김일곤의 사건의 뒷 이야기가 공개됐다.&nbsp; 송은이는 "범인은 자신의 복수를 완성하기 위해서 범인을 꾀어낼 미끼를 투척했다"라며 2015년 9월에 발생한 사건을 이야기했다. 흰색 SUV차량이]]></content:encoded>
+            <title><![CDATA[남윤수, 할머니에 대한 깊은 애정 공개… “어머니 같은 존재” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240628225404624</link>
+            <guid>https://v.daum.net/v/20240628225404624</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[남윤수가 ‘편스토랑’에서 할머니와의 따뜻한 이야기로 감동을 선사했다. KBS2 예능 프로그램 ‘신상출시 편스토랑’의 28일 방송에서는 MZ세대의 살림꾼 남윤수가 할머니와 함께 보내는 시간을 통해 깊은 애정을 공개하며 시청자들에게 감동을 선사했다. 남윤수는 깔끔하게 옷을 차려입고 누군가를 기다리는 장면에서부터 시작해, “그동안 쉬는 날이 별로 없어서 자주 못]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오승훈, 지하철 탔을 뿐인데...400억 대작 캐스팅됐다 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240628220102834</link>
-            <guid>https://v.daum.net/v/20240628220102834</guid>
-            <pubDate>Fri, 28 Jun 2024 13:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=이소정 기자] 배우 오승훈이 '삼식이 삼촌' 섭외 비화를 밝혔다. 28일 오후 서울 종로구 삼청동의 한 카페에서 디즈니+ '삼식이 삼촌'에 출연한 오승훈과 만나 이야기를 나눴다. '삼식이 삼촌'은 전쟁 중에도 하루 세끼를 반드시 먹인다는 삼식이 삼촌 송강호와 모두가 잘 먹고 잘사는 나라를 만들고자 했던 엘리트 청년 변요한(김산)이 혼돈의 시]]></content:encoded>
+            <title><![CDATA["첫 오픈날부터 만석" '서진이네2' 뚝배기 IN 아이슬란드 '문전성시' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240628225242607</link>
+            <guid>https://v.daum.net/v/20240628225242607</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김수형 기자] '서진이네2' 에서 배우 고민시가 첫 등장한 가운데, 아이슬란드 첫 오픈부터 만석으로 모두 당황했다.&nbsp; 28일 방송된 tvN 예능 '서진이네 시즌2' 가 첫방송, 고민시가 첫 출연했다.&nbsp; 10년 전, 곰탕집을 하고 싶다던 이서진이 드디어 뚝배기 집 오픈을 앞두고 제작진과 만났다. 이어 최우식과 박서준, 정유미도 도착했다. 최우식]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['대리 승진' 최우식, 인턴 고민시 상사 등극 "오빠만 봐라. 내 말만 들으면 돼" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240628215202660</link>
-            <guid>https://v.daum.net/v/20240628215202660</guid>
-            <pubDate>Fri, 28 Jun 2024 13:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조나연 기자] 최우식이 인턴에서 대리로 승진했다. 28일 방송된 tvN 예능 프로그램 '서진이네2'에서는 새로운 인사 발령이 이뤄졌다.&nbsp; &nbsp;제작진은 이서진에게 최우식의 직급에 대해 물었다. 이에 이서진은 "우식이 인턴 할 만큼 했잖아 이제"라며 승진을 발표했다.&nbsp; 최우식은 냉큼 "그럼 알아서 잘 제가 해보겠습니다"라고 말해 웃음을 안겼다. 다]]></content:encoded>
+            <title><![CDATA[알파고 "기무치라 말해도 김치는 한국 음식...케밥은 튀르키예가 원조" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240628224902572</link>
+            <guid>https://v.daum.net/v/20240628224902572</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 노수린 기자) 알파고가 케밥의 원조가 튀르키예라고 주장했다. 28일 방송된 채널A '남의 나라 살아요 - 선 넘은 패밀리'(이하 '선 넘은 패밀리')에서는 독일 베를린으로 선 넘은 김애주-다니엘 함 부부의 일상이 공개됐다. 'K-콘텐츠' 열혈 팬 다니엘 함은 최근 드라마 '눈물의 여왕'에 푹 빠져 있다고 고백했다. 이에 김애주-다니엘 함 부부]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이정현 "시아버지는 '원조 성덕', 내 팬이었다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240628215144659</link>
-            <guid>https://v.daum.net/v/20240628215144659</guid>
-            <pubDate>Fri, 28 Jun 2024 13:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 이예지 기자] /사진='편스토랑' 화면 캡처'신상출시 편스토랑'에서 가수 겸 배우 이정현이 시부모의 사랑을 한몸에 받는 며느리임을 자랑했다. 28일 오후 방송된 KBS 2TV 예능 프로그램 '신상출시 편스토랑'에는 이정현이 출연해 시부모에게 둘째 임신 소식을 전하는 모습이 그려졌다. 이날 방송에서 이정현은 시부모에게 "처음에 저를 소개받]]></content:encoded>
+            <title><![CDATA[지성, 권율에 경고 "네가 닥터냐? 곧 나한테 잡힌다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240628224401506</link>
+            <guid>https://v.daum.net/v/20240628224401506</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=김은정 기자] '커넥션' 지성이 권율의 범행을 확신했다. 28일 방송된 SBS 금토드라마 ‘커넥션’에서는 정재경(지성 분)이 박태진(권율 분)에게 경고했다. 이날 장재경은 &nbsp;자기 혼자 비밀번호를 알고 돈을 챙기려다 박태진에게 목이 졸린 오윤진(전미도 분)에게 "마약 사업으로 번 돈일 수도 있는데 욕심냈냐"고 타박했다. 윤진은 반성을 빛을 내]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박보검, 취중진담에 1일 2눈물 "내가 인생 바꿨다고" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240628215011642</link>
-            <guid>https://v.daum.net/v/20240628215011642</guid>
-            <pubDate>Fri, 28 Jun 2024 13:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 정민경 기자) '가브리엘' 박보검이 뭉클한 감동을 선사했다. 28일 방송된 JTBC 'My name is 가브리엘'(이하 '가브리엘')에서는 아일랜드 더블린과 태국 치앙마이로 향한 박보검, 박명수의 본격 적응기가 그려졌다.&nbsp; 이날 박보검은 '루리'로 완벽 변신해&nbsp;램파츠 단원들과 술잔을 기울였다. 단원들은 "루리 덕분에 삶이 바뀌었다"고 고백해]]></content:encoded>
+            <title><![CDATA[사회생활은 고민시처럼? 이서진, "최우식·뷔와 달라 미친 듯이 일해" '감탄' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240628224302491</link>
+            <guid>https://v.daum.net/v/20240628224302491</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=조나연 기자] '서진이네2'가 아이슬란드에서 새로운 식당을 개업했다.&nbsp; 28일 방송된 tvN 예능 프로그램 '서진이네2'에서는 아이슬란드에서 한식을 준비하는 직원들의 모습이 그려졌다. 본격적인 '서진이네2' 개업에 앞서 나영석 PD와 박서준은 '서진이네'에서 막내이자 인턴으로 활약한 BTS의 뷔를 찾아갔다. 입대 10일 전 뷔의 모습이 공개]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[남윤수, 진서연 이상형 지목→할머니가 인정한 '착한 남자' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240628214902632</link>
-            <guid>https://v.daum.net/v/20240628214902632</guid>
-            <pubDate>Fri, 28 Jun 2024 13:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김은정 기자] '편스토랑' 남윤수가 할머니를 향한 애정을 표현했다. 28일 방송된 KBS 2TV 예능 ‘신상출시 편스토랑’에는 배우 남윤수가 할머니와 함께했다. 이날 남윤수는 187.7cm의 우월한 기럭지를 자랑했다. VCR을 지켜보던 여성 출연자들은 "너무 착해요"라는 칭찬으로 팬심을 드러냈다. 특히 청소하는 모습을 본 진서연은 "내 이상형]]></content:encoded>
+            <title><![CDATA[서인국♥안재현, 키스할까…케이윌, '월드게이' 3편 예고 "끝 아냐" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240628224123475</link>
+            <guid>https://v.daum.net/v/20240628224123475</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 오승현 기자) 케이윌이 서인국과 안재현의 러브라인이 담긴 화제의 '월드 게이' 뮤직비디오 속편을 예고했다. 28일 KBS 2TV 예능 '더 시즌즈- 지코의 아티스트'(이하 '아티스트')에는 게스트로 가수 케이윌, 츄, 엔플라잉, TWS(투어스)가 출연했다. 이날 케이윌은 신곡 앨범을 소개하며 타이틀곡 '내게 어울릴 이별 노래가 없어'를 언급했]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이정현 “의사 시父 내 팬, 내게도 없는 옛날 앨범 있어 감동” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240628214544592</link>
-            <guid>https://v.daum.net/v/20240628214544592</guid>
-            <pubDate>Fri, 28 Jun 2024 13:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 이정현의 시부모가 며느리의 첫인상을 밝혔다. 6월 28일 방송된 KBS 2TV '신상출시 편스토랑'에서는 이정현이 남편과 함께 시부모에게 둘째 임신 사실을 알리는 모습이 담겼다. 이날 이정현은 집에 방문한 시부모를 향해 "저 처음 소개받고 어땠나"고 물었다. 그러자 시어머니는 "처음엔 예상 밖이긴 했다"고 했고, 시아버지는 "'결]]></content:encoded>
+            <title><![CDATA[박명수 멘붕한 오토바이 분실 사건 전말 “김태호 PD 장난인 줄” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240628224050473</link>
+            <guid>https://v.daum.net/v/20240628224050473</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 방송인 박명수가 태국 시장에서 멘붕을 겪었다. 6월 28일 방송된 JTBC 예능 'My name is 가브리엘' 2회에서는 태국 치앙마이에서 35세 솜땀 장수 우티로 살아가는 박명수의 모습이 그려졌다. 이날 박명수는 일어나자마자 바이크를 타고 므엉마이 시장으로 향했다. 아내가 태국어로 써준 솜땀 재료 구매 목록만이 박명수의 손에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["사회생활 너무 잘해!" 이서진, 新인턴 고민시 첫 합류에 '보조개' 만발 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240628214401571</link>
-            <guid>https://v.daum.net/v/20240628214401571</guid>
-            <pubDate>Fri, 28 Jun 2024 13:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김수형 기자] '서진이네2' 에서 고민시가 인턴으로 첫 등장, 이서진의 역대급 반응이 폭소를 안겼다.&nbsp; 28일 방송된 tvN 예능 '서진이네 시즌2' 가 첫방송됐다.&nbsp; 이서진이 드디어 뚝배기 집 오픈을 앞두고 제작진과 만났다. 이어 최우식과 박서준도 도착했다.&nbsp; 최우식은 "의자가 좀 많다"며 웃음, 실실 웃음을 지었다. 최우식은 갑자기 "다]]></content:encoded>
+            <title><![CDATA[케이윌 “‘월드 게이’ 서인국X안재현 도원결의, 이번으로 끝 아냐” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240628223723457</link>
+            <guid>https://v.daum.net/v/20240628223723457</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 케이윌이 서인국과 안재현을 향해 "이번이 끝이 아니다"고 말하며 뮤직비디오 3편을 예고했다. 6월 28일 방송된 KBS 2TV '더 시즌즈-지코의 아티스트'에는 6년 만에 신곡을 낸 케이윌이 출연했다. 이날 케이윌은 신곡인 '내게 어울릴 이별 노래가 없어'를 소개하며, 서인국과 안재현의 사랑 이야기로 화제인 뮤직비디오도 언급했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[최우식, 新인턴 고민시에 "현장에서 욕 많이 먹어"...최 대리로 승진 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240628214335569</link>
-            <guid>https://v.daum.net/v/20240628214335569</guid>
-            <pubDate>Fri, 28 Jun 2024 13:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[(엑스포츠뉴스 노수린 기자) 최우식이 고민시와 인연을 밝혔다. 28일 방송된 tvN '서진이네2'에서는 이서진, 정유미, 박서준, 최우식과 신입 인턴 고민시가 아이슬란드 1호 한식당 서진뚝배기를 오픈했다. 이서진, 정유미, 박서준, 최우식이 에그이즈커밍 사옥에서 모였다. '서진이네' 멤버들은 신입 인턴을 맞을 준비를 하며 들뜬 모습을 보였다. 최우식은 "힘]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박보검, “흑맥주 한 잔에 감동의 눈물샘 터졌다!” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240628214200557</link>
-            <guid>https://v.daum.net/v/20240628214200557</guid>
-            <pubDate>Fri, 28 Jun 2024 13:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[JTBC 예능 프로그램 ‘My name is 가브리엘’ 2회에서는 감동적인 순간이 연출되었다. 28일 방송에서는 더블린 합창단의 뒤풀이 현장이 그려졌다. 박보검은 아일랜드의 유명한 아이리시 펍을 방문하여 합창단원들과 감동적인 시간을 보냈다. 특히, 합창단원들이 “루리 덕분에 감사하고 행복해. 널 만난 순간부터 우린 널 사랑해”라고 애정 어린 말을 건네며,]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["내 이상형" 진서연, 아침 일찍 '이것' 하는 남윤수에 냅다 고백해 '눈길' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240628214023543</link>
-            <guid>https://v.daum.net/v/20240628214023543</guid>
-            <pubDate>Fri, 28 Jun 2024 13:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=최지연 기자] '편스토랑' 배우 진서연이 유리창 청소를 하는 남윤수를 '이상형'이라 불렀다. 28일&nbsp;방송된 KBS 2TV 예능 '신상출시 편스토랑'(이하 '편스토랑')에는 배우 남윤수가 출연해 먼지 하나도 용서치 않겠다는 모습으로 청소를 하는 모습이 그려져 눈길을 끌었다. 이날 남윤수는 잠에서 깨 유리창을 보고는 웃음을 보였다. 그의 깊은 보]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“바쁜데 언제?” 둘째 임신 이정현, 시부모에 ‘임밍아웃’ 성공‥“고맙다” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240628213713514</link>
-            <guid>https://v.daum.net/v/20240628213713514</guid>
-            <pubDate>Fri, 28 Jun 2024 13:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 배효주 기자] 이정현이 시부모에게 서프라이즈로 둘째 임신 사실을 알렸다. 6월 28일 오후 방송된 KBS 2TV '신상출시 편스토랑'에서는 최근 둘째 임신을 밝힌 이정현의 일상이 담겼다. 태명은 '복덩이'라고. 이날 이정현은 집에 방문한 시부모에게 임신 사실을 공개하겠다며 "아버님이 눈이 안 보이실 정도로 웃으며 좋아하시지 않을까?"라 기대했다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[4년 인턴 설움 최우식, 대리 파격 승진→박서준 이사 등극 “무슨 회사가‥” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240628213500487</link>
-            <guid>https://v.daum.net/v/20240628213500487</guid>
-            <pubDate>Fri, 28 Jun 2024 13:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 이하나 기자] 최우식이 4년 간의 인턴 끝에 대리로 파격 승진했다. 6월 28일 방송된 tvN ‘서진이네2’에는 이서진이 직원들의 인사 발령을 진행했다. 4년 간 인턴이었던 최우식은 원하는 막내가 있냐는 질문에 “근데 그거보다도 제가 지금 위치가 어떻게 되나”라며 만년 인턴 설움을 폭발했다. 최우식이 “제가 함부로 할 수 있는 사람인지. 주]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박보검 잘생김에 母 흡족 “나 닮아서”→뽀뽀자국 남게 진한 환영 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20240628213330471</link>
-            <guid>https://v.daum.net/v/20240628213330471</guid>
-            <pubDate>Fri, 28 Jun 2024 13:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 배우 박보검이 아일랜드에서 부모님의 환영을 받았다. 6월 28일 방송된 JTBC 예능 'My name is 가브리엘' 2회에서는 아일랜드 더블린에서 램파츠 합창단장 루리가 된 박보검의 모습이 그려졌다. 이날 박보검은 루리가 미리 짜놓은 일정대로 루리의 부모님 집에 방문했다. 꽃다발을 사들고 방문한 박보검은 어머니에게 진한 환영을]]></content:encoded>
+            <title><![CDATA['44세' 이정현, 시부모에 '둘째 임신' 깜짝 공개 "태명=복덩이" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20240628223625445</link>
+            <guid>https://v.daum.net/v/20240628223625445</guid>
+            <pubDate>Fri, 28 Jun 2024 14:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[(엑스포츠뉴스 정민경 기자) '편스토랑' 이정현이 시부모님께 둘째 임신 사실을 공개했다. 28일 방송된 KBS 2TV '신상출시 편스토랑'(이하 '편스토랑')에서는 이정현이 남편과 함께 시부모님께 둘째 '복덩이(태명)'의 임신 소식을 전했다. 먼저 남윤수는 이날 할머니와 함께 화기애애한 하루를 즐겼다. 남윤수는 맞벌이하는 부모님을 대신해 할머니의 손에 자랐]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['엄마 된' 손예진·'서울의 봄' 김성수 감독, 'BIFAN' 빛낼 영화계 별들 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
