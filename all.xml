@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jun 2024 17:03:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jun 2024 19:03:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -352,7 +352,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=321665</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=321665</guid>
             <pubDate>Fri, 28 Jun 2024 01:56:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=321665">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=321665">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240627082621_a20f369e2fff7cfac0a612440769ccc2_1.jpg" alt="대체 텍스트">
@@ -369,7 +369,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=321746</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=321746</guid>
             <pubDate>Thu, 27 Jun 2024 21:04:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=321746">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=321746">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240627150116_4afb12059ffacd6ca0ed2d04fda7168f.jpg" alt="대체 텍스트">
@@ -386,7 +386,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=321655</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=321655</guid>
             <pubDate>Thu, 27 Jun 2024 00:30:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=321655">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=321655">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240627082415_a9634daaf7fe18f40dead8a7f1b38022.jpg" alt="대체 텍스트">
@@ -1111,6 +1111,13 @@
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/06/07/818241f6-c575-44fa-a2ae-dad20bbb9e46.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[日 국민배우 야쿠쇼 "'퍼펙트 데이즈'로 배우 삶에 용기 얻었죠" (네이버TV연예 ─ 영화)]]></title>
+            <link>https://m.entertain.naver.com/movie/article/001/0014778707</link>
+            <guid>https://m.entertain.naver.com/movie/article/001/0014778707</guid>
+            <pubDate>Sun, 30 Jun 2024 19:03:06 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 앞두고 국내 언론 인터뷰…"영화 강국 한국 관객 반응 궁금" 일본의 국민배우로 통하는 야쿠쇼 고지(68)는 일본을 넘어 세계적으로 연기력을 인정받은 관록의 배우다. 그에게 세계적인 명성을 가져다준 영화는 스오]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[완벽한 날이란 없다, 몸부림치며 살아갈 뿐 (네이버TV연예 ─ 영화)]]></title>
             <link>https://m.entertain.naver.com/movie/article/023/0003843366</link>
             <guid>https://m.entertain.naver.com/movie/article/023/0003843366</guid>
@@ -1279,11 +1286,25 @@
             <content:encoded><![CDATA[디즈니·픽사 애니메이션 영화 '인사이드 아웃 2'가 개봉 18일 만에 500만 관객 고지를 밟았다. 영화관입장권 통합전산망에 따르면 '인사이드 아웃2'는 전날 누적 관객 수 500만명을 돌파하며 전편 '인사이드 아웃]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['어른이' 울린 픽사의 마법…'인사이드 아웃 2' 500만 돌파 (네이버TV연예 ─ 영화)]]></title>
-            <link>https://m.entertain.naver.com/movie/article/001/0014778561</link>
-            <guid>https://m.entertain.naver.com/movie/article/001/0014778561</guid>
-            <pubDate>Sun, 30 Jun 2024 08:08:35 GMT</pubDate>
-            <content:encoded><![CDATA[디즈니·픽사 애니메이션 영화 '인사이드 아웃 2'가 개봉 18일 만에 500만 관객 고지를 밟았다. 영화관입장권 통합전산망에 따르면 '인사이드 아웃2'는 전날 누적 관객 수 500만명을 돌파하며 전편 '인사이드 아웃]]></content:encoded>
+            <title><![CDATA[최지우 "김태희와 육아템 공유…딸끼리 1살 차이" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/003/0012638119</link>
+            <guid>https://m.entertain.naver.com/now/article/003/0012638119</guid>
+            <pubDate>Sun, 30 Jun 2024 19:03:12 GMT</pubDate>
+            <content:encoded><![CDATA[배우 최지우(49)가 아들 욕심을 드러냈다. 지난달 30일 방송된 KBS 2TV 예능물 '슈퍼맨이 돌아왔다'에서 최지우는 개그우먼 안영미, 전 펜싱선수 김준호, 래퍼 비와이 등과 함께 각자 아들과 딸에 대한 로망을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[오늘의 채널A]후배들과 69년 연기 인생 돌아본 이순재 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/020/0003573632</link>
+            <guid>https://m.entertain.naver.com/now/article/020/0003573632</guid>
+            <pubDate>Sun, 30 Jun 2024 19:03:12 GMT</pubDate>
+            <content:encoded><![CDATA[현역 최고령 배우 이순재가 배우 임동진과 소유진, 가수 김희철을 초대한다. 백내장 수술 후 시력 회복도 되기 전에 드라마 촬영을 강행하고 부모님이 돌아가셨을 때도 관객과의 약속을 지키기 위해 무대에 섰던 그의 69년]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[세븐틴, K팝 가수 최초 英 글래스턴베리 무대에 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
+            <link>https://m.entertain.naver.com/now/article/020/0003573607</link>
+            <guid>https://m.entertain.naver.com/now/article/020/0003573607</guid>
+            <pubDate>Sun, 30 Jun 2024 19:03:12 GMT</pubDate>
+            <content:encoded><![CDATA[아이돌 그룹 세븐틴이 한국 가수 중 처음으로 영국 글래스턴베리 페스티벌 무대에 섰다. 글래스턴베리는 1970년에 시작돼 세계에서 가장 오래된 음악 페스티벌로, 많은 음악가에게 ‘꿈의 무대’로 꼽힌다. 세븐틴은 지난달]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[TV조선] 부모님의 깜짝 선물 (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
@@ -1438,27 +1459,6 @@
             <guid>https://m.entertain.naver.com/now/article/421/0007633709</guid>
             <pubDate>Sun, 30 Jun 2024 14:04:10 GMT</pubDate>
             <content:encoded><![CDATA[김준호가 평생 양압기를 착용하고 자야한다는 소식을 듣고 충격에 빠졌다. 30일 오후 방송된 SBS 예능 프로그램 '미운 우리 새끼(이하 '미우새')'에는 장나라가 패널로 출연해 재미를 더했다. 이날 김준호와 김승수는]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[종합]장나라 "♥6살 연하남편에 먼저 좋아한다 고백…애정신 불편해해"('미우새') (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/312/0000668684</link>
-            <guid>https://m.entertain.naver.com/now/article/312/0000668684</guid>
-            <pubDate>Sun, 30 Jun 2024 14:04:10 GMT</pubDate>
-            <content:encoded><![CDATA['미우새' 장나라가 6살 연하남편과의 연애사를 공개했다. 30일 방송된 SBS '미운 우리 새끼'에는 최강 동안 미모를 자랑하는 배우 장나라가 출연했다. 이날 장나라는 등장과 함께 8번의 꾸벅 인사로 눈길을 끌었다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['미스롯데 출신' 62세 안문숙 역대급 미모..임원희와 핑크빛?[미우새] (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/108/0003246691</link>
-            <guid>https://m.entertain.naver.com/now/article/108/0003246691</guid>
-            <pubDate>Sun, 30 Jun 2024 14:04:10 GMT</pubDate>
-            <content:encoded><![CDATA['미운 우리 새끼'에서 안문숙이 맞선녀로 등장했다. 선우용녀는 이날 이상민 임원희 김종국을 향해 중매를 서주겠다고 등장했다. 선우용녀는 소개녀에 대해 "미인대회 출신이고 음식 솜씨가 좋다"라며 "여자 쪽에서 재력도]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[장나라, 애정신에 남편 질투? "촬영 감독이라 더 불편해해" (네이버 TV연예 ─ 최신뉴스 ─ 방송)]]></title>
-            <link>https://m.entertain.naver.com/now/article/421/0007633707</link>
-            <guid>https://m.entertain.naver.com/now/article/421/0007633707</guid>
-            <pubDate>Sun, 30 Jun 2024 13:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[배우 장나라가 촬영 감독인 남편이 애정신을 봤을 때의 반응을 언급했다. 30일 오후 방송된 SBS 예능 프로그램 '미운 우리 새끼(이하 '미우새')'에는 장나라가 패널로 출연해 재미를 더했다. 이날 신동엽은 장나라에]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[미녀와 순정남] 지현우 ”날 버렸다고요?＂...‘친모=이일화’ 사실 알게 됐다 (네이버 TV연예 ─ 최신뉴스 ─ 드라마)]]></title>
@@ -1846,6 +1846,13 @@
             <content:encoded><![CDATA[[스타뉴스 | 윤상근 기자] /사진=SBS '미운 우리 새끼' 배우 장나라가 6세 연하 남편과의 알콩달콩 신혼 스토리를 전했다. 장나라는 30일 방송된 SBS '미운 우리 새끼' 400회 특집 스페셜 MC로 나서며 꿀 떨어지는 달달한 신혼 생활을 공개했다. 이날 장나라는 "1981년생이라 김희철보다 2살 위고 허경환과 동갑"이라며 동안 비결로 영양제]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[日 국민배우 야쿠쇼 "'퍼펙트 데이즈'로 배우 삶에 용기 얻었죠" (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+            <link>https://v.daum.net/v/20240701030009248</link>
+            <guid>https://v.daum.net/v/20240701030009248</guid>
+            <pubDate>Sun, 30 Jun 2024 19:03:47 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 이영재 기자 = 일본의 국민배우로 통하는 야쿠쇼 고지(68)는 일본을 넘어 세계적으로 연기력을 인정받은 관록의 배우다. 그에게 세계적인 명성을 가져다준 영화는 스오 마사유키 감독의 '쉘 위 댄스'(2000)다. 국내에선 이마무라 쇼헤이 감독의 '우나기'(1999)와 구로사와 기요시 감독의 '큐어'(1997)로도 그를 기억하는 사람이 많다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[이제훈X구교환의 '탈주', '인사이드 아웃' 독주 막을까... 예매율 1위 등극 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
             <link>https://v.daum.net/v/20240701003800788</link>
             <guid>https://v.daum.net/v/20240701003800788</guid>
@@ -1942,13 +1949,6 @@
             <guid>https://v.daum.net/v/20240630165100750</guid>
             <pubDate>Sun, 30 Jun 2024 08:09:26 GMT</pubDate>
             <content:encoded><![CDATA[영화 ‘하이재킹’(감독 김성한)이 100만 관객을 돌파했다. 30일 영화진흥위원회 영화관입장권 통합전산망 집계결과 ‘하이재킹’은 이날 오전 10시 기준 누적 관객수 100만 406명을 기록하며 100만 고지를 넘었다. ‘하이재킹’은 1971년 대한민국 상공, 여객기가 공중 납치되면서 벌어지는 극한의 상황을 담은 영화. 이는 한국 영화 경쟁작들은 물론, 대형]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['하이재킹' 100만 고지 넘었다 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-            <link>https://v.daum.net/v/20240630163407512</link>
-            <guid>https://v.daum.net/v/20240630163407512</guid>
-            <pubDate>Sun, 30 Jun 2024 08:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[[티브이데일리 최하나 기자] ‘하이재킹’이 100만 관객을 돌파했다. 지난 21일 개봉된 영화 ‘하이재킹’(감독 김성한)은 1971년 대한민국 상공, 여객기가 공중 납치되면서 벌어지는 극한의 상황을 담은 작품이다. ‘하이재킹’이 100만 관객을 달성하며 흥행 열기를 이어가고 있다. 영화진흥위원회 통합전산망에 따르면 ‘하이재킹’은 30일 오전 10시 기준]]></content:encoded>
         </item>
     </channel>
 </rss>
