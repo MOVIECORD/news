@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-06-30T10:05:57.544Z</updated>
+    <updated>2024-06-30T11:03:25.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[명령어 입력하자 ‘4초 영화’ 뚝딱…부산서 AI영화제 열린다]]></title>
+        <id>https://m.entertain.naver.com/movie/article/658/0000077331</id>
+        <link href="https://m.entertain.naver.com/movie/article/658/0000077331"/>
+        <updated>2024-06-30T11:02:44.531Z</updated>
+        <content type="html"><![CDATA[- 콘퍼런스·제작 워크숍 등도 진행 부산에서 ‘AI 영화’를 통한 전 세계 창작자들의 소통의 장이 마련된다. 영화의전당은 지난 27일 오후 부산 해운대구 영화의전당 라이브러리에서 기자 간담회를 열고 오는 12월 6~]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개봉 D-3 ‘탈주’, ‘인사이드 아웃2’ 제치고 예매율 1위]]></title>
         <id>https://m.entertain.naver.com/movie/article/009/0005327084</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/movie/article/109/0005107934"/>
         <updated>2024-06-30T08:08:35.692Z</updated>
         <content type="html"><![CDATA[배우 하정우 주연 영화 '하이재킹'(김성한 감독)이 100만 관객을 돌파했다. 1971년 대한민국 상공, 여객기가 공중 납치되면서 벌어지는 극한의 상황을 담은 '하이재킹'이 100만 관객을 달성했다. 영화진흥위원회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세대 대통합 한 ‘인사이드 아웃2’, 1편도 넘었다…한국영화 ‘울상’]]></title>
-        <id>https://m.entertain.naver.com/movie/article/382/0001134955</id>
-        <link href="https://m.entertain.naver.com/movie/article/382/0001134955"/>
-        <updated>2024-06-30T08:08:35.692Z</updated>
-        <content type="html"><![CDATA[애니메이션 영화 ‘인사이드 아웃2’가 극장가를 독식하며 500만 관객을 돌파했다. 사춘기를 소재 삼은 영화는 전 세대의 공감을 자아내며 1편의 성적까지 뛰어넘었고, 전 세계에서도 1조1928억 원의 흥행 수입을 올리]]></content>
     </entry>
 </feed>
