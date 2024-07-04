@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jul 2024 07:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jul 2024 08:11:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[독립영화관] ‘함진아비’.. 한공주의 복수  (5일 밤 11:30 KBS1)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=322784</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=322784</guid>
+            <pubDate>Thu, 04 Jul 2024 08:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=322784">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240704164303_9c66eafbd69127d198aa969546470592.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=322784">[독립영화관] ‘함진아비’.. 한공주의 복수  (5일 밤 11:30 KBS1)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8F%85%EB%A6%BD%EC%98%81%ED%99%94%EA%B4%80">독립영화관</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240704164303_9c66eafbd69127d198aa969546470592.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[드라마 '스캔들'  ‘극과 극 텐션’ 흥미 자극]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=322764</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%95%98%EC%9D%B4%EC%97%94%EB%93%9C%20%EC%86%8C%EA%B8%88%EC%9F%81%EC%9D%B4">하이엔드 소금쟁이</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240702224032_1abcaf5e85147cc2685918ba335ef33c_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[하이엔드 소금쟁이] 부동산 부자 꿈꾸는 폭소클럽 김쌤, 20년째 거주 중 행운의 집 팔까 말까?]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=322570</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=322570</guid>
-            <pubDate>Tue, 02 Jul 2024 14:04:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=322570">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240702223441_01fa2556bee441a69cc7395cb61ba203_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=322570">[하이엔드 소금쟁이] 부동산 부자 꿈꾸는 폭소클럽 김쌤, 20년째 거주 중 행운의 집 팔까 말까?</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%95%98%EC%9D%B4%EC%97%94%EB%93%9C%20%EC%86%8C%EA%B8%88%EC%9F%81%EC%9D%B4">하이엔드 소금쟁이</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240702223441_01fa2556bee441a69cc7395cb61ba203_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
