@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-07-05T20:08:23.191Z</updated>
+    <updated>2024-07-05T21:07:36.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주말의 OTT]김하늘·비 막장 도파민 스캔들이 온다]]></title>
+        <id>https://m.entertain.naver.com/movie/article/003/0012650562</id>
+        <link href="https://m.entertain.naver.com/movie/article/003/0012650562"/>
+        <updated>2024-07-05T21:06:55.469Z</updated>
+        <content type="html"><![CDATA[7월 첫 째주 디즈니+·넷플릭스·왓챠 신작을 소개한다. 화인가 스캔들(디즈니+) 이 시리즈는 대한민국 상위 1% 화인가를 둘러싼 상속 전쟁으로 인해 생명을 위협 받는 나우재단 이사장 완수와 경호원 도윤이 화인가의 비]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Actor Son Ye-jin opens second chapter in career with Bifan retrospective]]></title>
         <id>https://m.entertain.naver.com/movie/article/640/0000055988</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/movie/article/241/0003362973"/>
         <updated>2024-07-05T11:03:00.761Z</updated>
         <content type="html"><![CDATA[그룹 체리블렛 출신 배우 허지원이 새 영화 ‘‘너’가 되는 순간’에 출연한다. ‘‘너’가 되는 순간’은 불안정한 고용과 생계 문제를 홀로 감당하는 25살의 사회초년생 은정(허지원)이 상처를 가진 17살의 고등학생 도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손예진 “아이 낳고 2년…행복과 가치관 달라졌죠”[BIFAN]]]></title>
-        <id>https://m.entertain.naver.com/movie/article/144/0000973509</id>
-        <link href="https://m.entertain.naver.com/movie/article/144/0000973509"/>
-        <updated>2024-07-05T09:08:42.324Z</updated>
-        <content type="html"><![CDATA[“아이를 낳고 2년 가까이 키우면서 일상의 소중함을 알게 됐어요. 예전엔 일이 전부였고, 그 속에서 고군분투했죠. 일과 자신을 따로 분리하지 못했죠. 그런데 요즘은 단순하게도 아이가 이유식을 한 끼 잘 먹어도 너무]]></content>
     </entry>
 </feed>
