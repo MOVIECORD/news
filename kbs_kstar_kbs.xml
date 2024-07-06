@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Jul 2024 21:06:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jul 2024 22:03:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['1박 2일' 파리올림픽 KBS 해설진과 복불복 맞대결]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=323185</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=323185</guid>
+            <pubDate>Sat, 06 Jul 2024 22:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=323185">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240707065439_93ac9d42612969d267a02865b96a6766.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=323185">'1박 2일' 파리올림픽 KBS 해설진과 복불복 맞대결</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240707065439_93ac9d42612969d267a02865b96a6766.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[미녀와 순정남] 이일화, 남편 박상원에 “당신 속였다...나 나쁜 여자”...‘친자’ 지현우 사실 밝힐까]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=323151</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240705233229_1bbc176605c6b11a41a654576315705e_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뮤직뱅크] 라이즈, ‘Boom Boom Bass’... 청춘 그루브 담은 퍼포먼스]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=323003</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=323003</guid>
-            <pubDate>Fri, 05 Jul 2024 15:03:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=323003">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240705232748_7320f0b548b4e2a587294eaf9440343d_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=323003">[뮤직뱅크] 라이즈, ‘Boom Boom Bass’... 청춘 그루브 담은 퍼포먼스</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240705232748_7320f0b548b4e2a587294eaf9440343d_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
