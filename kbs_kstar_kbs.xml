@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jul 2024 22:03:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jul 2024 23:04:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['인간극장' ‘괜찮아요, 옥경 씨’...알츠하이머 아내와 함께 걷는 법 (8일~12일 오전 7시 50분 KBS1)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=323269</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=323269</guid>
+            <pubDate>Sun, 07 Jul 2024 23:03:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=323269">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240708074043_aa090122c6018d48eeab0b52081d0d6f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=323269">'인간극장' ‘괜찮아요, 옥경 씨’...알츠하이머 아내와 함께 걷는 법 (8일~12일 오전 7시 50분 KBS1)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%B8%EA%B0%84%EA%B7%B9%EC%9E%A5">인간극장</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240708074043_aa090122c6018d48eeab0b52081d0d6f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[미녀와 순정남] 김혜선, 이일화 ‘아기 사진=지현우’ 사실 알게 됐다...혼외자 사실 밝히나]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=323248</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240706221420_90159048431721cb60136c38444b49a7_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KBS '팝업상륙작전‘ 첫 방송... 하석진과 도쿄 라멘 맛집 (6일 밤 10:35 KBS2)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=323087</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=323087</guid>
-            <pubDate>Sat, 06 Jul 2024 00:31:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=323087">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240706074623_67d6e5710e73bf14f4ad80f37d93bd4f.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=323087">KBS '팝업상륙작전‘ 첫 방송... 하석진과 도쿄 라멘 맛집 (6일 밤 10:35 KBS2)</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%8C%9D%EC%97%85%EC%83%81%EB%A5%99%EC%9E%91%EC%A0%84">팝업상륙작전</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240706074623_67d6e5710e73bf14f4ad80f37d93bd4f.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
