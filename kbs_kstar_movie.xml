@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jul 2024 20:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jul 2024 21:04:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 월드투어 콘서트 무비 '[BORN PINK] IN CINEMAS'.. 메인 예고편 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=323796</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=323796</guid>
+            <pubDate>Fri, 12 Jul 2024 21:02:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=323796">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240712220039_1c86fe16a886ab0f27bb00bf8a11835d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=323796">블랙핑크 월드투어 콘서트 무비 '[BORN PINK] IN CINEMAS'.. 메인 예고편 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240712220039_1c86fe16a886ab0f27bb00bf8a11835d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['그녀의 취미생활' 하명미 감독 신작 <한란>, 김향기 캐스팅]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=323790</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=323377">‘2023 영탁 단독 콘서트 : 탁쇼2’.. 18일 CGV 단독개봉</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240709082448_ca9c95e0705aa8c8550ca78e6fc46349.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밀레니엄 걸즈 핫 데뷔.. 영화 '빅토리' 8월 개봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=322854</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=322854</guid>
-            <pubDate>Mon, 08 Jul 2024 23:03:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=322854">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240705075011_872a64ebb176b96818e083c9f636ab86.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=322854">밀레니엄 걸즈 핫 데뷔.. 영화 '빅토리' 8월 개봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240705075011_872a64ebb176b96818e083c9f636ab86.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

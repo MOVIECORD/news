@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-07-12T20:12:59.103Z</updated>
+    <updated>2024-07-12T21:04:08.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블랙핑크 월드투어 콘서트 무비 '[BORN PINK] IN CINEMAS'.. 메인 예고편 공개]]></title>
+        <id>https://m.entertain.naver.com/movie/article/438/0000066195</id>
+        <link href="https://m.entertain.naver.com/movie/article/438/0000066195"/>
+        <updated>2024-07-12T21:03:19.209Z</updated>
+        <content type="html"><![CDATA[데뷔 8주년을 맞이해 서울 고척 스카이돔에서 피날레를 장식한 [BORN PINK] 월드 투어의 현장과 블랙핑크의 독보적인 퍼포먼스를 생생하게 담은 공연 실황 영화 가 뜨거웠던 공연장의 열기를 실감케 하는 메인 예고편]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부산 영도서 '국제해양영화제' 열린다]]></title>
         <id>https://m.entertain.naver.com/movie/article/003/0012664205</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/movie/article/609/0000874862"/>
         <updated>2024-07-12T08:10:43.619Z</updated>
         <content type="html"><![CDATA['탈주'가 개봉 10일만에 100만 관객을 돌파했다. 7월 12일 영화진흥위원회 통합전산망 집계에 따르면, 이날 영화 '탈주'(감독 이종필)가 누적 관객 100만 명을 돌파했다. '탈주'는 내일을 위한 탈주를 시작한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신현지, 스크린 진출…'탈주' 유랑민 단원으로 강렬한 임팩트]]></title>
-        <id>https://m.entertain.naver.com/movie/article/311/0001748037</id>
-        <link href="https://m.entertain.naver.com/movie/article/311/0001748037"/>
-        <updated>2024-07-12T08:10:43.624Z</updated>
-        <content type="html"><![CDATA[모델 신현지가 영화 '탈주'(감독 이종필)를 한층 빛냈다. '탈주'는 내일을 위한 탈주를 시작한 북한병사 규남(이제훈 분)과 오늘을 지키기 위해 규남을 쫓는 보위부 장교 현남(구교환)의 목숨을 건 추격전을 그린 영화]]></content>
     </entry>
 </feed>
