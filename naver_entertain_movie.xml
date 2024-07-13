@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-07-13T02:31:24.107Z</updated>
+    <updated>2024-07-13T03:08:40.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['인사이드 아웃2', '엘리멘탈' 제치고 역대 애니메이션 흥행 TOP3]]></title>
+        <id>https://m.entertain.naver.com/movie/article/421/0007660776</id>
+        <link href="https://m.entertain.naver.com/movie/article/421/0007660776"/>
+        <updated>2024-07-13T03:07:53.449Z</updated>
+        <content type="html"><![CDATA[영화 '인사이드 아웃 2'(감독 켈시 만)가 누적 관객수 730만명을 돌파, 국내 개봉 역대 픽사 애니메이션 흥행 1위에 올랐다. 영화관입장권 통합전산망에 따르면 '인사이드 아웃 2'는 13일 오전 7시 누적관객수]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[故 이선균 '탈출', 개봉 첫날 박스오피스 1위]]></title>
         <id>https://m.entertain.naver.com/movie/article/018/0005789015</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/movie/article/117/0003850644"/>
         <updated>2024-07-13T00:31:36.099Z</updated>
         <content type="html"><![CDATA[희망과 동심 그리고 다양한 감정들이 통했다. 애니메이션 '인사이드 아웃2'가 '엘리멘탈'을 넘어서며 국내 개봉 역대 애니메이션 흥행 TOP3를 기록했다. '인사이드 아웃 2'는 13살이 된 ‘라일리'의 머릿속 감정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["故 이선균, '관객들이 많이 보는 게 중요하지' 바랄 듯"…'탈출' 김태곤 감독의 바람[TEN인터뷰]]]></title>
-        <id>https://m.entertain.naver.com/movie/article/312/0000670509</id>
-        <link href="https://m.entertain.naver.com/movie/article/312/0000670509"/>
-        <updated>2024-07-13T00:31:36.099Z</updated>
-        <content type="html"><![CDATA["선균 형도 바랄 것 같은 게, '관객들이 많이 보는 게 중요하지 뭐가 중요해?' 할 것 같아요. 홍보든 뭐든 열심히 해야겠다 생각했어요." 이선균의 유작 중 하나인 영화 '탈출: 프로젝트 사일런스'(이하 '탈출')]]></content>
     </entry>
 </feed>
