@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Jul 2024 21:03:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jul 2024 22:03:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['인간극장' ‘우린 요트에서 살아요’...481일간 요트 세계 여행기]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=323839</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=323839</guid>
+            <pubDate>Sun, 14 Jul 2024 22:02:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=323839">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240713063542_edb558acf916662ddbff166fa73933a4.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=323839">  '인간극장' ‘우린 요트에서 살아요’...481일간 요트 세계 여행기  </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%B8%EA%B0%84%EA%B7%B9%EC%9E%A5">인간극장</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240713063542_edb558acf916662ddbff166fa73933a4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[미녀와 순정남] 해고 당한 지현우, 드라마 스태프와 시위 “고윤 물러나라”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=324120</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240713222113_cd8adbcbd1a4249085c05ff573d9e64a_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[불후의 명곡] ‘다산의 상징’ 김지선, ‘서준맘’과 한팀으로...“아이 2명은 이미 대학생”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=323940</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=323940</guid>
-            <pubDate>Sat, 13 Jul 2024 13:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=323940">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240713220218_d74c97c93737bab5c006cb696f9333db.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=323940">[불후의 명곡] ‘다산의 상징’ 김지선, ‘서준맘’과 한팀으로...“아이 2명은 이미 대학생”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240713220218_d74c97c93737bab5c006cb696f9333db.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
