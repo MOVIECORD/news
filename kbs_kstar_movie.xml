@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jul 2024 04:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jul 2024 06:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] ‘탈출:프로젝트 사일런스’..  위기탈출 넘버원. 정무적 판단]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=324450</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=324450</guid>
+            <pubDate>Wed, 17 Jul 2024 06:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=324450">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240717132247_6bd4e6d5da6378eb9268c821983d8a6c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=324450">[리뷰] ‘탈출:프로젝트 사일런스’..  위기탈출 넘버원. 정무적 판단</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240717132247_6bd4e6d5da6378eb9268c821983d8a6c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['명탐정 코난: 100만 달러의 펜타그램' 오늘 개봉.. 코난-괴도키드와 함께 홋카이도 하코다테 추리여행]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=324448</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=323979">'데드풀과 울버린'  흥미진진 프로덕션 비하인드 대공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240714062231_f9ee167364bbf2871b6497db670709c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["담력테스트는 극장에서" 공포영화 '늘봄가든' 8월 개봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=323914</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=323914</guid>
-            <pubDate>Sun, 14 Jul 2024 10:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=323914">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240713185108_6a1eb15289ae0d4131cd2ae1a385831b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=323914">"담력테스트는 극장에서" 공포영화 '늘봄가든' 8월 개봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240713185108_6a1eb15289ae0d4131cd2ae1a385831b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
