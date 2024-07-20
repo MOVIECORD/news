@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-07-20T13:08:45.766Z</updated>
+    <updated>2024-07-20T14:07:28.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이성민·이희준 '핸섬가이즈', 손익분기점 넘고 150만 돌파]]></title>
+        <id>https://m.entertain.naver.com/movie/article/003/0012678521</id>
+        <link href="https://m.entertain.naver.com/movie/article/003/0012678521"/>
+        <updated>2024-07-20T14:06:34.257Z</updated>
+        <content type="html"><![CDATA[영화 '핸섬가이즈'가 150만 관객을 돌파했다. 20일 영화진흥위원회 영화관입장권 통합전산망에 따르면, '핸섬가이즈'는 이날 오후4시 누적관객 150만843명을 모았다. 이는 지난 8일 100만 관객 돌파, 지난 1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘하이재킹’ 올해 한국 영화 박스오피스 3위 등극 “기적 같은 실화”]]></title>
         <id>https://m.entertain.naver.com/movie/article/408/0000230069</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/movie/article/408/0000230004"/>
         <updated>2024-07-20T00:31:18.485Z</updated>
         <content type="html"><![CDATA[영화 '파일럿'으로 '엑시트' '뺑반' 이후 5년 만에 스크린으로 돌아온 배우 조정석을 만났다. 조정석은 스타 파일럿 '한정우'로 하루아침에 실직자가 된 이후 '한정미'라는 이름으로 여장을 하고 재취업에 성공한 인물]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['탈주' 이틀 연속 1위…누적관객 161만 돌파 [Nbox]]]></title>
-        <id>https://m.entertain.naver.com/movie/article/421/0007675407</id>
-        <link href="https://m.entertain.naver.com/movie/article/421/0007675407"/>
-        <updated>2024-07-20T00:31:18.485Z</updated>
-        <content type="html"><![CDATA[영화 '탈주'(감독 이종필)가 박스오피스 정상 탈환 후 이틀 연속 그 자리를 지켰다. 20일 영화진흥위원회 영화관 입장권 통합전산망 집계에 따르면 '탈주'는 지난 19일 하루 동안 7만 9827명의 관객을 동원하며]]></content>
     </entry>
 </feed>
