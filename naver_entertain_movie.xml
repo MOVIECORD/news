@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-07-21T10:04:11.767Z</updated>
+    <updated>2024-07-21T11:03:01.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[픽사 애니 영화 ‘인사이드 아웃2’, 800만 돌파 [연예뉴스 HOT]]]></title>
+        <id>https://m.entertain.naver.com/movie/article/382/0001139846</id>
+        <link href="https://m.entertain.naver.com/movie/article/382/0001139846"/>
+        <updated>2024-07-21T11:02:11.730Z</updated>
+        <content type="html"><![CDATA[픽사 애니메이션 영화 ‘인사이드 아웃2’가 800만 관객을 돌파했다. 21일 영화관입장권통합전산망에 따르면 ‘인사이드 아웃 2’는 상영 40일째인 이날 11시 기준 누적 관객 수 800만1512명을 기록했다. 이에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송강호 만난 日야쿠쇼 고지 "한일, 영화로 좋은 교류 이어가길"]]></title>
         <id>https://m.entertain.naver.com/movie/article/001/0014819766</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/movie/article/011/0004369270"/>
         <updated>2024-07-21T05:04:59.584Z</updated>
         <content type="html"><![CDATA[정지은 영화 기자와 함께 영화 이슈에 관한 수다를 나눕니다. '무비이슈다' 콘서트 실황 영화가 극장가를 찾아오는 가운데 단단한 팬덤들이 코로나 팬데믹 이후 무너져가던 극장 관람 문화를 조금씩 일으켰다. 일명 '대세']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인사이드 아웃2' 800만명 넘겼다]]></title>
-        <id>https://m.entertain.naver.com/movie/article/003/0012679031</id>
-        <link href="https://m.entertain.naver.com/movie/article/003/0012679031"/>
-        <updated>2024-07-21T05:04:59.585Z</updated>
-        <content type="html"><![CDATA[애니메이션 영화 '인사이드 아웃2'가 800만 관객 고지를 밟았다. 월트디즈니컴퍼니코리아와 영화진흥위원회에 따르면, '인사이드 아웃2'는 21일 공개 40일만에 누적 관객수 800만명을 넘어섰다. 전날까지 관객수는]]></content>
     </entry>
 </feed>
