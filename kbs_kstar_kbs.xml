@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jul 2024 00:36:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jul 2024 02:37:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['1박 2일', 연정훈·나인우의 라스트 댄스.."멤버들과 시청자 분들 응원 덕분"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=325078</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=325078</guid>
+            <pubDate>Mon, 22 Jul 2024 02:36:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=325078">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240722093458_3ae6b7884b7fecf3626622e38d40b477.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=325078">'1박 2일', 연정훈·나인우의 라스트 댄스.."멤버들과 시청자 분들 응원 덕분"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240722093458_3ae6b7884b7fecf3626622e38d40b477.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘슈퍼맨이 돌아왔다’ 준범, 첫 어린이집 등원]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=325056</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240720222810_ae978356df3c985af8ff3eecf0d9b733_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[불후의 명곡] ‘김문정 편’ 포문을 여는 괴물 보컬...손승연 – The Winner Takes It All]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=324918</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=324918</guid>
-            <pubDate>Sat, 20 Jul 2024 13:07:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=324918">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240720220703_7161f0415c839c1e08460c7d2fa93244_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=324918">[불후의 명곡] ‘김문정 편’ 포문을 여는 괴물 보컬...손승연 – The Winner Takes It All</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240720220703_7161f0415c839c1e08460c7d2fa93244_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
