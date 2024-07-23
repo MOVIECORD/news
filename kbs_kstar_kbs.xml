@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jul 2024 22:08:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jul 2024 23:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['2장1절'  올림픽공원에서 만나는 '우리 동네 국가대표']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=325301</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=325301</guid>
+            <pubDate>Tue, 23 Jul 2024 23:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=325301">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240724075729_12101439a5d866f39c49f58552b7e003.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=325301">'2장1절'  올림픽공원에서 만나는 '우리 동네 국가대표'</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=2%EC%9E%A5%201%EC%A0%88">2장 1절</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240724075729_12101439a5d866f39c49f58552b7e003.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[하이엔드 소금쟁이] ‘아이돌 맘’이 꿈인 사연자의 헉!소리 나는 월 260만 원 아이돌 지원비]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=325277</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240721221432_7523d605aaf1318afc4f7866dd872dfd.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[1박2일] 연정훈-나인우 마지막 여행 ‘눈물바다’...나인우 옆에서 조용히 눈물 훔치는 문세윤]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=324954</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=324954</guid>
-            <pubDate>Sun, 21 Jul 2024 13:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=324954">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240721220148_2f4967d5ef475950fc45705338606ca8_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=324954">[1박2일] 연정훈-나인우 마지막 여행 ‘눈물바다’...나인우 옆에서 조용히 눈물 훔치는 문세윤</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240721220148_2f4967d5ef475950fc45705338606ca8_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
