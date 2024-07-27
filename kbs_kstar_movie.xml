@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Jul 2024 20:07:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jul 2024 21:05:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스 예능 집속탄 예고.. "인플루언스, 요리, 좀비, 럭비, 코미디, 그리고 기안84"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=325604</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=325604</guid>
+            <pubDate>Sat, 27 Jul 2024 21:04:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=325604">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240727212915_3e3fc84208899b62045d2ac5aab2f237_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=325604">넷플릭스 예능 집속탄 예고.. "인플루언스, 요리, 좀비, 럭비, 코미디, 그리고 기안84"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240727212915_3e3fc84208899b62045d2ac5aab2f237_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['폭군',  추격액션 스릴러.. 박훈정 감독의 미쟝센이 살아있다]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=325551</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=325158">'폭군' 초인 유전자 배달사고.. "국가와 민족을 위해, 수습하라!"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240722170150_4ea9335c7ad8c2fa599a71046e161f92.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] ‘이매큘레이트’.. 시드니 스위드의 ‘성스러운 피’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=325147</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=325147</guid>
-            <pubDate>Mon, 22 Jul 2024 08:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=325147">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240722163735_3ef0911d014868cf456fca360261d84b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=325147">[리뷰] ‘이매큘레이트’.. 시드니 스위드의 ‘성스러운 피’ </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240722163735_3ef0911d014868cf456fca360261d84b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
