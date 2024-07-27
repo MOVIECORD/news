@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.naver.com/movie</id>
     <title>네이버TV연예 ─ 영화</title>
-    <updated>2024-07-27T10:05:39.372Z</updated>
+    <updated>2024-07-27T12:15:04.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[밀양 성폭행 사건 다룬 '한공주', 새롭게 알려진 진실]]></title>
+        <id>https://m.entertain.naver.com/movie/article/047/0002441249</id>
+        <link href="https://m.entertain.naver.com/movie/article/047/0002441249"/>
+        <updated>2024-07-27T12:14:22.046Z</updated>
+        <content type="html"><![CDATA[잊힌 줄만 알았던 사건이 수면 위로 모습을 드러냈다. 경남 밀양 여중생 집단성폭행 사건 이야기다. 20년 전인 2004년 경상남도 밀양시에서 발생한 이 사건은 인면수심이란 말이 꼭 어울리는 참극이다. 44명의 고등학]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[현장EN:]영화인들, 불공정 문제 해법 찾기 위해 '연대' 나선다]]></title>
         <id>https://m.entertain.naver.com/movie/article/079/0003921422</id>
@@ -172,12 +179,5 @@
         <link href="https://m.entertain.naver.com/movie/article/445/0000220112"/>
         <updated>2024-07-26T11:06:57.194Z</updated>
         <content type="html"><![CDATA[영화 '마야'가 오는 8월 개봉을 확정하고 음산한 분위기로 시선을 집중시키는 티저 포스터를 공개했다. 영화 '마야'는 메콩강 깊은 물속에서 사람들을 홀려 삼켜버리는 마야의 비밀을 찾는 엄마와 딸의 이야기를 그린 샤머]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트랜스포머 ONE' 9월 개봉확정..옵티머스 프라임·메가트론의 과거(공식)]]></title>
-        <id>https://m.entertain.naver.com/movie/article/112/0003711447</id>
-        <link href="https://m.entertain.naver.com/movie/article/112/0003711447"/>
-        <updated>2024-07-26T10:08:08.745Z</updated>
-        <content type="html"><![CDATA['트랜스포머 ONE'의 2차 포스터가 공개됐다. 영화 '트랜스포머' 시리즈의 신작 '트랜스포머 ONE'은 '트랜스포머' 시리즈에서 가장 사랑받는 주역 캐릭터인 '옵티머스 프라임'과 '메가트론'의 과거 이야기를 다루는]]></content>
     </entry>
 </feed>
