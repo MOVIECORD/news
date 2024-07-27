@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Jul 2024 22:04:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jul 2024 23:06:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플TV+ K팝 다큐멘터리.. ‘웰컴 투 케이팝: 아이돌 이야기’ 8월 30일 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=325645</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=325645</guid>
+            <pubDate>Sat, 27 Jul 2024 23:04:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=325645">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240728072204_53ee961458c99aee268dd998de956288.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=325645">애플TV+ K팝 다큐멘터리.. ‘웰컴 투 케이팝: 아이돌 이야기’ 8월 30일 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240728072204_53ee961458c99aee268dd998de956288.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['빅토리'.. "치얼 업~  너는 뛰고 우리는 응원한다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=325621</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=325206">'52헤르츠 고래들' 8월 개봉... “딱 한 명 내 목소리를 들어주는 사람이 있었어”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240723080855_46e7a60d07a09a50e0923d68afae342d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['프로이트의 라스트 세션' 8월 개봉.. 정신분석학자 프로이트 VS. 소설가 C.S. 루이스]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=325062</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=325062</guid>
-            <pubDate>Mon, 22 Jul 2024 23:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=325062">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240722091127_1dac311ce3ddd5b668fc30f053af8148.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=325062"> '프로이트의 라스트 세션' 8월 개봉.. 정신분석학자 프로이트 VS. 소설가 C.S. 루이스</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240722091127_1dac311ce3ddd5b668fc30f053af8148.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
