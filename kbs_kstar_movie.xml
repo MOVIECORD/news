@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jul 2024 21:03:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jul 2024 22:05:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['혹성탈출: 새로운 시대'  디즈니플러스 8월 2일 공개... "세상의 주인이 바뀌었다!”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=325768</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=325768</guid>
+            <pubDate>Tue, 30 Jul 2024 22:04:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=325768">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240730081717_20f2b30693fb08b133b13f98cee49b79.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=325768">'혹성탈출: 새로운 시대'  디즈니플러스 8월 2일 공개... "세상의 주인이 바뀌었다!”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240730081717_20f2b30693fb08b133b13f98cee49b79.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[EBS국제다큐영화제, K-DOCS와 함께 하는 다큐여행.. “극장+TV+전용OTT”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=325854</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=325621">'빅토리'.. "치얼 업~  너는 뛰고 우리는 응원한다" </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240728065650_377c7e50a361a5055130620fbcc6c472.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['에이리언: 로물루스' 할리우드 역대급 우주스릴러 탄생]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=325615</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=325615</guid>
-            <pubDate>Sat, 27 Jul 2024 22:02:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=325615">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240728064934_41877c4079062b21d8461e976796496c.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=325615">'에이리언: 로물루스' 할리우드 역대급 우주스릴러 탄생</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240728064934_41877c4079062b21d8461e976796496c.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
