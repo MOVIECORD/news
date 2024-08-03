@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Aug 2024 23:03:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Aug 2024 00:32:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스 '크로스'.. 액션+코미디, 주연+조연 완벽앙상블]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=326036</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=326036</guid>
+            <pubDate>Sat, 03 Aug 2024 00:30:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=326036">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240802082513_8fd58c3b27dc28c062fc11c1da0bd8e7.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=326036">넷플릭스 '크로스'.. 액션+코미디, 주연+조연 완벽앙상블 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240802082513_8fd58c3b27dc28c062fc11c1da0bd8e7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["제26회 서울국제여성영화제, 8월 22일 개막합니다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=326100</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=325768">'혹성탈출: 새로운 시대'  디즈니플러스 8월 2일 공개... "세상의 주인이 바뀌었다!”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240730081717_20f2b30693fb08b133b13f98cee49b79.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EBS국제다큐영화제, K-DOCS와 함께 하는 다큐여행.. “극장+TV+전용OTT”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=325854</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=325854</guid>
-            <pubDate>Tue, 30 Jul 2024 09:07:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=325854">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240730164547_231eeeb689c55b911006a82aa9b2071f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=325854">EBS국제다큐영화제, K-DOCS와 함께 하는 다큐여행.. “극장+TV+전용OTT”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240730164547_231eeeb689c55b911006a82aa9b2071f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
