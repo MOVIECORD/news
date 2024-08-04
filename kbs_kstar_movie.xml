@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Aug 2024 22:03:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Aug 2024 23:04:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 임지연 “에브리띵,  좋았어요"  (영화 '리볼버')]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=326238</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=326238</guid>
+            <pubDate>Sun, 04 Aug 2024 23:03:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=326238">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240805080000_32d6db509792243aaf8d24cef98c4362.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=326238">[인터뷰] 임지연 “에브리띵,  좋았어요"  (영화 '리볼버')</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240805080000_32d6db509792243aaf8d24cef98c4362.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["장전 완료!" '리볼버' 172개국 해외 선판매 완료]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=326132</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=325882">티빙 '우씨왕후'  왕후의 사투 "이제부터 스스로 살아남아야 한다!"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240731082216_308116567661868c271c61a6996617ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['노 웨이 아웃:더 룰렛' 오늘 1,2화 공개..  "형사와 악당, 룰렛과 보상금"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=325875</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=325875</guid>
-            <pubDate>Wed, 31 Jul 2024 00:26:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=325875">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240731081526_a43a662ca81fe1c8fdbc271151091240.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=325875">'노 웨이 아웃:더 룰렛' 오늘 1,2화 공개..  "형사와 악당, 룰렛과 보상금"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240731081526_a43a662ca81fe1c8fdbc271151091240.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
