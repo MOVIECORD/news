@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Aug 2024 12:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Aug 2024 13:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니 '무파사: 라이온 킹' 12월 개봉.. “내가 널 지켜줄게, 내 형제”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=326700</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=326700</guid>
+            <pubDate>Sat, 10 Aug 2024 13:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=326700">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240810212414_a8e85d1f22ed197f24a9dbd6663130b4_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=326700">디즈니 '무파사: 라이온 킹' 12월 개봉.. “내가 널 지켜줄게, 내 형제”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240810212414_a8e85d1f22ed197f24a9dbd6663130b4_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['리볼버' 지창욱-이정재 메가토크 진행.. "병든 황제 앤디.. 석용은 수영을 사랑했다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=326677</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=326340">[리뷰] ‘빅토리’ 응원은 시시한 삶도 춤추게 한다 (박범수 감독, 8월 14일 개봉)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240806123258_a89cd439262ed26d7f7b055fb43ca79b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '풍기' 8월 개봉..  유쾌한 컨츄리 라이프]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=326291</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=326291</guid>
-            <pubDate>Tue, 06 Aug 2024 00:33:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=326291">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240806075426_10eb9020866fd25f5a3aa74fba1673f5.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=326291">영화 '풍기' 8월 개봉..  유쾌한 컨츄리 라이프</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240806075426_10eb9020866fd25f5a3aa74fba1673f5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
