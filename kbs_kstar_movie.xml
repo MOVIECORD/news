@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Aug 2024 22:05:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Aug 2024 23:07:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 조아람 “차근차근, 씩씩하게, 최선을 다해” (영화 ‘빅토리’)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=326791</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=326791</guid>
+            <pubDate>Sun, 11 Aug 2024 23:06:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=326791">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240812074324_1d08a45b93214751c21432d875844cee.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=326791">[인터뷰] 조아람 “차근차근, 씩씩하게, 최선을 다해” (영화 ‘빅토리’)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240812074324_1d08a45b93214751c21432d875844cee.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['폭군' 차승원-김선호-김강우, "누가 차지하는가? 폭군을"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=326753</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=326436">티빙 '우씨왕후' 이제부터 스스로 살아남아야 한다!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240808083854_eea6d43ddc3cd06590f6786afd5b4505.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['손해 보기 싫어서'.. 손해 보기 싫은 신민아-피해 주기 싫은 김영대]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=326383</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=326383</guid>
-            <pubDate>Thu, 08 Aug 2024 00:35:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=326383">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240807083512_6008f7a22974d1fcde05aad30d0f586e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=326383">'손해 보기 싫어서'.. 손해 보기 싫은 신민아-피해 주기 싫은 김영대</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240807083512_6008f7a22974d1fcde05aad30d0f586e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
