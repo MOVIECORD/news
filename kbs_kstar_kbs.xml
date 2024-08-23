@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Aug 2024 07:09:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2024 08:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] ‘애프터썬’ 아버지와 딸과 비디오테이프 (KBS독립영화관)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=328340</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=328340</guid>
+            <pubDate>Fri, 23 Aug 2024 08:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=328340">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240823110630_e0fcc427f5c9bf7ddf569359c5045b10.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=328340">[리뷰] ‘애프터썬’ 아버지와 딸과 비디오테이프 (KBS독립영화관)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8F%85%EB%A6%BD%EC%98%81%ED%99%94%EA%B4%80">독립영화관</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240823110630_e0fcc427f5c9bf7ddf569359c5045b10.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['다리미 패밀리' 최태준, 청렴 세탁소 알바생 차태웅]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=328084</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=2%EC%9E%A5%201%EC%A0%88">2장 1절</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240821215311_9c41e5370757b29683ae04e2764cda0d_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[2장1절] 야구의 도시 ‘광주’ 도착한 장민호+장성규 2장스~ 깡! 터지는 웃음 홈런 장전★]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=328020</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=328020</guid>
-            <pubDate>Wed, 21 Aug 2024 13:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=328020">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240821215102_ebee049cbc2bdc6137f0b8560b17d59d_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=328020">[2장1절] 야구의 도시 ‘광주’ 도착한 장민호+장성규 2장스~ 깡! 터지는 웃음 홈런 장전★</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=2%EC%9E%A5%201%EC%A0%88">2장 1절</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240821215102_ebee049cbc2bdc6137f0b8560b17d59d_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
