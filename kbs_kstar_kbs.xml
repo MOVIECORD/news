@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Aug 2024 14:05:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Aug 2024 15:04:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[1박2일] 너무 힘들어서 배고픔을 잊은 이준...하루 만에 얼굴까지 핼쑥~]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=328505</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=328505</guid>
+            <pubDate>Sun, 25 Aug 2024 15:03:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=328505">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240825231535_d1a40e77f0523aa510378253bf4579df.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=328505">[1박2일] 너무 힘들어서 배고픔을 잊은 이준...하루 만에 얼굴까지 핼쑥~</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240825231535_d1a40e77f0523aa510378253bf4579df.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[1박2일] ‘뉴페이스’ 이준-조세호, 용돈만 탈 수 있다면...단돈 200원을 위한 처절한 몸부림]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=328501</link>
@@ -346,24 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240824072424_e9ac08c0a5c1abc77a21b6deefdc8a73.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘완벽한 가족’ 미스터리 퀸 윤세아, 하나부터 열까지 수상하다]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=328401</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=328401</guid>
-            <pubDate>Fri, 23 Aug 2024 23:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=328401">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240824074742_6b308398a8155db5ca896042cb1c8f6c_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=328401">‘완벽한 가족’ 미스터리 퀸 윤세아, 하나부터 열까지 수상하다</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%99%84%EB%B2%BD%ED%95%9C%20%EA%B0%80%EC%A1%B1">수목드라마 완벽한 가족</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240824074742_6b308398a8155db5ca896042cb1c8f6c_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
