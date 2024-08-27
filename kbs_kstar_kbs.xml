@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Aug 2024 07:08:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Aug 2024 08:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KBS, ‘교제살인’ 집중 조명.. ' 시사기획 창’  죽거나 헤어지거나 (27일 오후 10시 KBS 1TV)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=328710</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=328710</guid>
+            <pubDate>Tue, 27 Aug 2024 08:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=328710">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240827164615_6019eeaaa0cd396a5a497230969ae40c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=328710">KBS, ‘교제살인’ 집중 조명.. ' 시사기획 창’  죽거나 헤어지거나 (27일 오후 10시 KBS 1TV)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%9C%EC%82%AC%EA%B8%B0%ED%9A%8D%20%EC%B0%BD">시사기획 창</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240827164615_6019eeaaa0cd396a5a497230969ae40c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['완벽한 가족'  오해와 의심, 점점 조여오는 압박]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=328684</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240826023934_ea31417d449c2b2650022e47d775408d_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[1박2일] 너무 힘들어서 배고픔을 잊은 이준...하루 만에 얼굴까지 핼쑥~]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=328505</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=328505</guid>
-            <pubDate>Sun, 25 Aug 2024 15:03:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=328505">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240825231535_d1a40e77f0523aa510378253bf4579df.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=328505">[1박2일] 너무 힘들어서 배고픔을 잊은 이준...하루 만에 얼굴까지 핼쑥~</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240825231535_d1a40e77f0523aa510378253bf4579df.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
