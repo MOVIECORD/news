@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Sep 2024 20:09:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Sep 2024 22:09:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국방송대상 대상 '극장판 고래와 나'.. 극장 개봉]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=329624</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=329624</guid>
+            <pubDate>Tue, 03 Sep 2024 22:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=329624">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240903084311_36770d02343918f8f6ede66f9da5dc30.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=329624"> 한국방송대상 대상 '극장판 고래와 나'.. 극장 개봉</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240903084311_36770d02343918f8f6ede66f9da5dc30.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[29번째 부산국제영화제, 넷플릭스 작품 '전,란'으로  막을 연다]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=329682</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=329174">[인터뷰] 고민시  “아무도 없는 펜션에서.... 살인을 저지르다” (넷플릭스 '아무도 없는 숲속에서')</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240830095030_18af8e765adf82feb7ac0370deaaf55f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘파친코2'  노아를 찾아온 뜻밖의 인물.. 오늘 에피소드2 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=329168</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=329168</guid>
-            <pubDate>Fri, 30 Aug 2024 00:33:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=329168">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240830085547_8ad11684a57cb8aec84be512043050ce.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=329168">‘파친코2'  노아를 찾아온 뜻밖의 인물.. 오늘 에피소드2 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240830085547_8ad11684a57cb8aec84be512043050ce.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
