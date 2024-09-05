@@ -4,15 +4,32 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Sep 2024 00:35:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Sep 2024 03:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제16회 DMZ국제다큐멘터리영화제 , 26일 임진각평화누리에서 개막]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=330028</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=330028</guid>
+            <pubDate>Thu, 05 Sep 2024 03:08:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=330028">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240905100604_a7b50772e23a8d7cfa0231d0131fc855.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=330028">제16회 DMZ국제다큐멘터리영화제 , 26일 임진각평화누리에서 개막</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240905100604_a7b50772e23a8d7cfa0231d0131fc855.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['경성크리처2'  캐릭터 스틸.. 박서준X한소희X이무생X배현성]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=329983</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=329983</guid>
             <pubDate>Thu, 05 Sep 2024 00:33:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=329983">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=329983">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240905091334_ac3872dd1707aeec751d64f9c63e454b.jpg" alt="대체 텍스트">
@@ -29,7 +46,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=329905</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=329905</guid>
             <pubDate>Thu, 05 Sep 2024 00:33:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=329905">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=329905">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240905085513_392c66dac85493e55bd18ed704f0e802.jpg" alt="대체 텍스트">
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=329082">'요네즈 켄시' 공연실황 '요네즈 켄시 2023 투어 / 공상'.. CGV 상영</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240830082330_c07d428deb882c25cffda9a4e2db52da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['SNL KOREA' 전종서, 신들린 코미디 본능]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=329454</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=329454</guid>
-            <pubDate>Sun, 01 Sep 2024 23:04:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=329454">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240902075511_51817a1cbc38f95fe635d9a709088272.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=329454">'SNL KOREA' 전종서, 신들린 코미디 본능</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240902075511_51817a1cbc38f95fe635d9a709088272.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
