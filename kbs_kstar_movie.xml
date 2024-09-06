@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Sep 2024 04:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Sep 2024 05:09:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플TV+ 다큐멘터리 '마지막 해녀들'..  “숨 막히게 아름다운 다큐멘터리”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=330174</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=330174</guid>
+            <pubDate>Fri, 06 Sep 2024 05:08:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=330174">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240906134830_f5a8a7be661486f0db8c46385d892f2a.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=330174">애플TV+ 다큐멘터리 '마지막 해녀들'..  “숨 막히게 아름다운 다큐멘터리”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240906134830_f5a8a7be661486f0db8c46385d892f2a.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 손현주 배우 “명품배우, 명품연기, 명품인터뷰” (드라마 ‘유어 아너’)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=330154</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=329682">29번째 부산국제영화제, 넷플릭스 작품 '전,란'으로  막을 연다</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240903160736_cf82bc373a64e1fce71020d2d155fff3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['베테랑2' 황정민-정해인 액션, IMAX로도 본다]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=329630</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=329630</guid>
-            <pubDate>Tue, 03 Sep 2024 00:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=329630">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240903084825_2b9bae05e25bfae55f122b02ce224e47.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=329630">'베테랑2' 황정민-정해인 액션, IMAX로도 본다</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240903084825_2b9bae05e25bfae55f122b02ce224e47.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
