@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Sep 2024 22:06:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Sep 2024 23:09:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[롯데시네마,  프리미어리그 '토트넘 vs 아스널' 경기 생중계]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=330462</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=330462</guid>
+            <pubDate>Mon, 09 Sep 2024 23:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=330462">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240909111954_d40105fc13ac0ca5b8b4197247af0797.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=330462">롯데시네마,  프리미어리그 '토트넘 vs 아스널' 경기 생중계 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240909111954_d40105fc13ac0ca5b8b4197247af0797.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] '베테랑2' 액션 장인 류승완의  응징록 시즌2]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=330489</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=329755">곽선영-권유리-이설 주연 &lt;침범&gt;부산국제영화제 상영</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240904080643_24e4a25722e87ddb44a9ffd40c820929.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고양이의 눈부신 모험담 '플로우' 부산국제영화제 상영]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=329897</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=329897</guid>
-            <pubDate>Fri, 06 Sep 2024 23:03:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=329897">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240905084924_4f67837ee956c0294af5d8009a579b8d_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=329897">고양이의 눈부신 모험담 '플로우' 부산국제영화제 상영</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240905084924_4f67837ee956c0294af5d8009a579b8d_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
