@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Sep 2024 03:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Sep 2024 05:14:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[플레이브 팬 콘서트 ‘Hello Asterum! Encore’ 라이브뷰잉...롯데시네마, 10월 6일  진행]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=330457</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=330457</guid>
+            <pubDate>Mon, 09 Sep 2024 05:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=330457">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240909111652_2fa168bae440d752e9352156eb99c6da.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=330457">플레이브 팬 콘서트 ‘Hello Asterum! Encore’ 라이브뷰잉...롯데시네마, 10월 6일  진행</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240909111652_2fa168bae440d752e9352156eb99c6da.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["왕아맥 리뉴얼" CGV, 전국 4개 IMAX관 새롭게 선봬]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=330472</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=329899">'괴기열차 ' 부산국제영화제 ‘미드나잇 패션’ 상영</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240905084129_734b1b662dd891e8a10600762e43e623.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부산국제영화제 '뉴 커런츠' & '지석' 선정작 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=329891</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=329891</guid>
-            <pubDate>Fri, 06 Sep 2024 22:03:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=329891">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240905090325_b671a3bc25ab08957a08b22b30fe68b5.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=329891">부산국제영화제 '뉴 커런츠' &amp; '지석' 선정작 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240905090325_b671a3bc25ab08957a08b22b30fe68b5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
