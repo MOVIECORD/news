@@ -4,15 +4,33 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Sep 2024 23:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 00:36:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘불후의 명곡’ 아티스트 이승철 편...  천상계 보컬 총출동]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=331690</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=331690</guid>
+            <pubDate>Fri, 20 Sep 2024 00:35:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=331690">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240920092811_2d8740756734e111f03483ab7aebb674.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=331690">‘불후의 명곡’ 아티스트 이승철 편...  천상계 보컬 총출동</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240920092811_2d8740756734e111f03483ab7aebb674.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KBS 새 수목드라마 '개소리' 김용건X이수경, 애틋한 부녀 관계]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=331464</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=331464</guid>
             <pubDate>Thu, 19 Sep 2024 22:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=331464">	<span class="img-box">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=331464">	<span class="img-box ww">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240919073318_3a7d0f5492880004ba1bc518a11e8336.jpg" alt="대체 텍스트">
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%B6%94%EC%84%9D%ED%8A%B9%EC%A7%91%EC%87%BC%20%EC%9D%B4%EC%B0%AC%EC%9B%90%EC%9D%98%20%EC%84%A0%EB%AC%BC">추석특집쇼 이찬원의 선물</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240918100953_a91f614fe9f7ecb8643a0a05f3678a12.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KBS대기획 '딴따라 JYP'..박진영 데뷔 30주년 역대급 무대]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=331418</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=331418</guid>
-            <pubDate>Tue, 17 Sep 2024 23:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=331418">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240918063724_97b30350cc352ba1d245eeeedf474ea4.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=331418"> KBS대기획 '딴따라 JYP'..박진영 데뷔 30주년 역대급 무대</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=KBS%EB%8C%80%EA%B8%B0%ED%9A%8D%20%3C%EB%94%B4%EB%94%B0%EB%9D%BC%20JYP%20%EB%B0%95%EC%A7%84%EC%98%81%3E">KBS대기획 &lt;딴따라 JYP 박진영&gt;</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240918063724_97b30350cc352ba1d245eeeedf474ea4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
