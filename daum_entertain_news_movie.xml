@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-09-22T09:12:44.648Z</updated>
+    <updated>2024-09-22T10:10:52.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대전특수영상영화제 폐막...영예의 대상에 '하이재킹']]></title>
+        <id>https://v.daum.net/v/20240922183124016</id>
+        <link href="https://v.daum.net/v/20240922183124016"/>
+        <updated>2024-09-22T10:10:52.269Z</updated>
+        <content type="html"><![CDATA[대전시와 대전정보문화산업진흥원은 20일부터 22일까지 3일간 KAIST와 원도심 일원에서 ‘2024 제6회 대전특수영상영화제’(Daejeon Special FX Festival)를 개최했다고 밝혔다. 레드카펫, 특수영상 어워즈(기술상 6개 부문 11명, 연기상 6개 부문 9명), 시민 상영회(GV 코멘터리), 특수영상 체험, 심포지엄, OST 커버 공연]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“영화에서라도 정의 구현”…‘베테랑2’·‘무도실무관’, 악인 처단 액션물 인기]]></title>
         <id>https://v.daum.net/v/20240922171832256</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240922091506444"/>
         <updated>2024-09-22T00:42:14.834Z</updated>
         <content type="html"><![CDATA[(서울=뉴스1) 고승아 기자 = 배우 김우빈(35)이 '무도실무관'이 됐다. 이번 촬영을 통해 무도실무관을 알았다는 그는 일상 속 영웅들을 알게 됐다며 남다른 소회를 전했다. 그러면서 영화 속 이정도처럼 자신도 하루하루 행복을 찾아가고 있다며 웃어 보였다. 김우빈은 최근 서울 종로구 삼청로에 위치한 한 카페에서 넷플릭스 영화 '무도실무관'(감독 김주환)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하정우, 대전OTT영화제 연기 대상…‘하이재킹’ 작품상 수상 영광]]></title>
-        <id>https://v.daum.net/v/20240922090332299</id>
-        <link href="https://v.daum.net/v/20240922090332299"/>
-        <updated>2024-09-22T00:42:14.835Z</updated>
-        <content type="html"><![CDATA[배우 하정우와 그의 출연작 ‘하이재킹’이 ‘대전오버더탑 어워즈’(이하 ‘대전 OTT 어워즈’) 주인공이 됐다. 21일 오후 대전 카이스트 본원 대강당에서는 ‘대전 OTT 어워즈’가 개최됐다. 이 행사는 20일부터 22일까지 카이스트 및 대전 원도심 일원에서 개최되는 ‘2024 대전특수영상영화제’ 부대행사로, 배우에게 수여하는 연기상 부문과 작품에게 수여하]]></content>
     </entry>
 </feed>
