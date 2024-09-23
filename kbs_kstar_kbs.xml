@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Sep 2024 22:07:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 23:08:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘메소드 클럽’ 이수근, 스탠팅 코미디... 옹골찬 희극인의 삶]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=332094</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=332094</guid>
+            <pubDate>Mon, 23 Sep 2024 23:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=332094">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240924074841_78685021fd6f66ea60bb67e11702984e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=332094">‘메소드 클럽’ 이수근, 스탠팅 코미디... 옹골찬 희극인의 삶</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%A9%94%EC%86%8C%EB%93%9C%20%ED%81%B4%EB%9F%BD">메소드 클럽</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240924074841_78685021fd6f66ea60bb67e11702984e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['다리미 패밀리'  이원종-신정윤-이규호 특별출연]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=331979</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240923072708_12db6f83830e042a72ed33070fd8518a_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[1박2일] 말과 행동이 다른 이준, 폐가 방탈출... 귀신은 안 무섭지만 소리는 지른다]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=331916</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=331916</guid>
-            <pubDate>Sun, 22 Sep 2024 22:05:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=331916">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240923065758_105dd3889db169d5e5d4d1341d8a26e7_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=331916">[1박2일] 말과 행동이 다른 이준, 폐가 방탈출... 귀신은 안 무섭지만 소리는 지른다</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240923065758_105dd3889db169d5e5d4d1341d8a26e7_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
