@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Sep 2024 22:10:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Sep 2024 23:10:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[개소리] 코미디부터 미스터리까지 흥미진진... 이순재, "너의 소리가 들려!"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=332439</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=332439</guid>
+            <pubDate>Wed, 25 Sep 2024 23:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=332439">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240926080843_b87f340c8d9552a422757d00c845ad77.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=332439">[개소리] 코미디부터 미스터리까지 흥미진진... 이순재, "너의 소리가 들려!"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EA%B0%9C%EC%86%8C%EB%A6%AC">수목드라마 개소리</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240926080843_b87f340c8d9552a422757d00c845ad77.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['한국인의 밥상' 쉼, 그리고 맛의 느낌표... 최불암 휴가, 김민자 내레이터]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=332341</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B3%BC%ED%95%99%EC%88%98%EC%82%AC%EB%8C%80%20%EC%8A%A4%EB%AA%A8%ED%82%B9%20%EA%B1%B4">과학수사대 스모킹 건</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240924225827_7fb64228769ffd8b610af2b8e7643f7e_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[하이엔드 소금쟁이] 보이스피싱 6억 빚에 180도 뒤바뀐 일상... “3년 안에 전세금 7천만 원 필요”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=332224</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=332224</guid>
-            <pubDate>Tue, 24 Sep 2024 14:07:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=332224">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240924225500_906a585418a1c91fea319ad682ecb66d.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=332224">[하이엔드 소금쟁이] 보이스피싱 6억 빚에 180도 뒤바뀐 일상... “3년 안에 전세금 7천만 원 필요”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%95%98%EC%9D%B4%EC%97%94%EB%93%9C%20%EC%86%8C%EA%B8%88%EC%9F%81%EC%9D%B4">하이엔드 소금쟁이</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240924225500_906a585418a1c91fea319ad682ecb66d.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
