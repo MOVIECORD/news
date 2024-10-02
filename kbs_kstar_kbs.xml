@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Oct 2024 05:10:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 06:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KBS '뉴스9' 9월에도 시청자수·시청률 압도적 1위]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=333242</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=333242</guid>
+            <pubDate>Wed, 02 Oct 2024 06:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=333242">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241002143158_03433b1072d4c78cff39c24d4c5240b3_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=333242">KBS '뉴스9' 9월에도 시청자수·시청률 압도적 1위</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241002143158_03433b1072d4c78cff39c24d4c5240b3_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['개소리'  이순재, 다시 한번 탐정 DNA 풀가동..  ‘시니어벤져스’의 기막힌 공조 수사]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=333106</link>
@@ -348,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%B1%ED%81%AC%EB%A1%9C%EC%9C%A0">싱크로유</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240930223728_d654de118a9b69463b8175f946ea31a8.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[싱크로유] 진화화는 AI에 추리단 혼비백산, “애드리브까지 똑같아...!”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=332991</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=332991</guid>
-            <pubDate>Mon, 30 Sep 2024 14:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=332991">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240930221437_2a9f4928220fc7a629ab9e9114e37e11.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=332991">[싱크로유] 진화화는 AI에 추리단 혼비백산, “애드리브까지 똑같아...!”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%B1%ED%81%AC%EB%A1%9C%EC%9C%A0">싱크로유</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240930221437_2a9f4928220fc7a629ab9e9114e37e11.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
