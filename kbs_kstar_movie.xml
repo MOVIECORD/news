@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Oct 2024 02:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 04:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] '타인의 삶' 동독 슈타지, 도청을 하다 인간의 소리를 듣다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=333231</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=333231</guid>
+            <pubDate>Wed, 02 Oct 2024 04:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=333231">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241002112608_b6ba0c356ca726cb0b3b9532f3215795.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=333231">[리뷰] '타인의 삶' 동독 슈타지, 도청을 하다 인간의 소리를 듣다</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241002112608_b6ba0c356ca726cb0b3b9532f3215795.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제29회 부산국제영화제, 오늘 개막... 네이버TV 생중계]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=333214</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=332808">“정말로 난, 살인자가 아닙니다!”..  다큐멘터리  '프리 철수 리' 에미상 수상</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240929163513_c2088390edd505bee794637dd009e874.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["6시간 후 너는 죽는다!"  정재현·박주현·곽시양의 미스터리 추리극]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=332799</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=332799</guid>
-            <pubDate>Sun, 29 Sep 2024 09:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=332799">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240929162557_14d6c86ff7ff3c4d2f1963c769e2018d_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=332799">"6시간 후 너는 죽는다!"  정재현·박주현·곽시양의 미스터리 추리극</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20240929162557_14d6c86ff7ff3c4d2f1963c769e2018d_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
