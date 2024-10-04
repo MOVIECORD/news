@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Oct 2024 21:09:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 22:08:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘불후의 명곡’ 국군의 날 특집... 이도현 스페셜 MC]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=333474</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=333474</guid>
+            <pubDate>Fri, 04 Oct 2024 22:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=333474">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241005070154_51b8773f77fab62316e8bc45470dfb35.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=333474"> ‘불후의 명곡’ 국군의 날 특집... 이도현 스페셜 MC</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241005070154_51b8773f77fab62316e8bc45470dfb35.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['다리미 패밀리'  환상의 연기 호흡 .. 1~2회 비하인드 영상]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=333111</link>
@@ -347,24 +365,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=333297">장도연, "응원합니다".. KBS '서울대야구부'... ‘머리는 수재, 운동은 꼴찌’  만년 꼴찌 서울대 야구부</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241002163743_76ac860c2fd85d95233126afc8aca397.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['다큐 인사이트' UHD화질로 만나는 ‘빙하의 시그널’ (3일 밤 9시 40분 KBS 1TV)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=333276</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=333276</guid>
-            <pubDate>Wed, 02 Oct 2024 20:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=333276">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241002161910_8116b10a85f352d86f5db34c463145a5.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=333276"> '다큐 인사이트' UHD화질로 만나는 ‘빙하의 시그널’ (3일 밤 9시 40분 KBS 1TV)</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8B%A4%ED%81%90%20%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8">다큐 인사이트</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241002161910_8116b10a85f352d86f5db34c463145a5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
