@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Oct 2024 23:08:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Oct 2024 00:42:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘불후의 명곡’ 국군의 날 특집.. "늠름, 위엄, 감동"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=333588</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=333588</guid>
+            <pubDate>Sun, 06 Oct 2024 00:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=333588">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241006085132_c7487f0d5cc1fec87a09572a020ea5de.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=333588">‘불후의 명곡’ 국군의 날 특집.. "늠름, 위엄, 감동"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241006085132_c7487f0d5cc1fec87a09572a020ea5de.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드라마 '개소리' 현장 메이킹 영상 공개.. "활기차게, 꼼꼼하게!"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=333583</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241005013026_c1c893ba3b60ad81fcb6023b03b3cf85_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[뮤직뱅크] 미미로즈, 흔들림 없는 매력...‘흔들리지 않고 피는 꽃이 어딨어’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=333414</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=333414</guid>
-            <pubDate>Fri, 04 Oct 2024 16:09:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=333414">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241005010904_6d1cfe65cc9b6371e2f2d225d06c2cec_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=333414">[뮤직뱅크] 미미로즈, 흔들림 없는 매력...‘흔들리지 않고 피는 꽃이 어딨어’</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241005010904_6d1cfe65cc9b6371e2f2d225d06c2cec_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
