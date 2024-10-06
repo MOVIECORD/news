@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Oct 2024 20:11:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Oct 2024 21:06:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['서울대 야구부-우리 한 번만 이겨보자'...  "2승 2무 386패" (7일 밤 10시 10분 KBS 2TV)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=333292</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=333292</guid>
+            <pubDate>Sun, 06 Oct 2024 21:05:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=333292">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241002163454_8f6d1a883fd96582fe5d805d9a454fd3.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=333292">'서울대 야구부-우리 한 번만 이겨보자'...  "2승 2무 386패" (7일 밤 10시 10분 KBS 2TV)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241002163454_8f6d1a883fd96582fe5d805d9a454fd3.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[다리미 패밀리] 김영옥-박인환, ‘5만원 가득 돈 가방’ 발견...“남의 돈이야” 애써 외면]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=333621</link>
@@ -348,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241005235523_b3ad38fb821f86bdb6c6eaa1413bf1e8_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[불후의 명곡] 스페셜 MC 이도현과 함께하는 ‘국군의 날’ 특집...“현재 MC병으로 활동”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=333507</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=333507</guid>
-            <pubDate>Sat, 05 Oct 2024 15:05:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=333507">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241005234526_bdc19af89b15aae1d62c5910e39fa4f2_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=333507">[불후의 명곡] 스페셜 MC 이도현과 함께하는 ‘국군의 날’ 특집...“현재 MC병으로 활동”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241005234526_bdc19af89b15aae1d62c5910e39fa4f2_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
