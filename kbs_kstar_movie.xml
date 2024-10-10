@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Oct 2024 21:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2024 22:10:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<극장판 고래와 나> 한지민-박해수 목소리로 만나는 고래 이야기]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=333973</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=333973</guid>
+            <pubDate>Thu, 10 Oct 2024 22:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=333973">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241008092209_79ae8b8f529d94d5ed5872adf277a645.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=333973"> &lt;극장판 고래와 나&gt; 한지민-박해수 목소리로 만나는 고래 이야기</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241008092209_79ae8b8f529d94d5ed5872adf277a645.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장] 넷플릭스 ‘전,란’ “전쟁과 반란, 왕과 백성, 무인과 노비”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=334240</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=334001">&lt;너의 색&gt; 부산국제영화제 GV 성료</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241008093624_9b50f99a76a31f267f5fdf881d90c57d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <대도시의 사랑법> 이상이-곽동연-주종혁-이유진 특별출연]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=333978</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=333978</guid>
-            <pubDate>Tue, 08 Oct 2024 02:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=333978">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241008092507_97272d5bfd099373a6889d26cd685c11.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=333978">영화 &lt;대도시의 사랑법&gt; 이상이-곽동연-주종혁-이유진 특별출연</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241008092507_97272d5bfd099373a6889d26cd685c11.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
