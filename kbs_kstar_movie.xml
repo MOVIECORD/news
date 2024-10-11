@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Oct 2024 21:09:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Oct 2024 22:08:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['하우치' 11월 개봉.. 첫사랑의 기억을 소환하는 로맨스]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=333989</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=333989</guid>
+            <pubDate>Fri, 11 Oct 2024 22:07:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=333989">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241008093139_2121880849b0dc68309e8b23a4fface6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=333989">'하우치' 11월 개봉.. 첫사랑의 기억을 소환하는 로맨스</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241008093139_2121880849b0dc68309e8b23a4fface6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] ‘전,란’..  전쟁과 반란, 양인과 노비, 왕과 백성, 넷플릭스와 영화관]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=334421</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=334006">PGK(한국영화프로듀서조합), 국제공동제작 핫라인 오픈</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241008093831_02d6aceda4b9d3e3f0bd2e9e80eb15a1_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 '오징어 게임'   복습..  시즌1 리워치 예고편 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=333898</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=333898</guid>
-            <pubDate>Tue, 08 Oct 2024 22:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=333898">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241008085723_e487e9faaaf08ef4b763d87c7925a001.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=333898">넷플릭스 '오징어 게임'   복습..  시즌1 리워치 예고편 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241008085723_e487e9faaaf08ef4b763d87c7925a001.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
