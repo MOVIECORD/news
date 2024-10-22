@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Oct 2024 03:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Oct 2024 05:10:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 심은경 “연기를 하기 위해서는, 연습과 노력 뿐” (더 킬러스)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=335654</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=335654</guid>
+            <pubDate>Tue, 22 Oct 2024 05:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=335654">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241022132832_9f2dec6601bdd7e0ed9ed8f825d62e92.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=335654">[인터뷰] 심은경 “연기를 하기 위해서는, 연습과 노력 뿐” (더 킬러스)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241022132832_9f2dec6601bdd7e0ed9ed8f825d62e92.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 윤수익 감독 “겨울 양양 바다, 서핑을 하다 감정의 파고를 만나다” (영화 ‘폭설’)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=335644</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=335120">[인터뷰] 고봉수 감독, “세종시민이 만든 영화 ‘빚가리’,  영화를 만들 때가 제일 행복합니다.”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241017162236_fd9f6d80e8c438f4cff460fbb1431777.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[영화리뷰] ‘빚가리’ 고달픈 인생, 달콤한 순간 (고봉수 감독)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=335126</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=335126</guid>
-            <pubDate>Thu, 17 Oct 2024 08:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=335126">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241017163317_fe94661a67407cf31ce6bb707286fee1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=335126">[영화리뷰] ‘빚가리’ 고달픈 인생, 달콤한 순간 (고봉수 감독)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241017163317_fe94661a67407cf31ce6bb707286fee1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
