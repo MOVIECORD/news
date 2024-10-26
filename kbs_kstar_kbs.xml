@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Oct 2024 20:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Oct 2024 22:10:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남보라와 함께 하는 '아주 史적인 여행'.. 경북 김천]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=335917</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=335917</guid>
+            <pubDate>Sat, 26 Oct 2024 22:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=335917">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241024155230_2fcab7d196716dd4f9b157ace9700cb5.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=335917">남보라와 함께 하는 '아주 史적인 여행'.. 경북 김천 </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%95%84%EC%A3%BC%20%EC%82%AC%EC%A0%81%EC%9D%B8%20%EC%97%AC%ED%96%89">아주 사적인 여행</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241024155230_2fcab7d196716dd4f9b157ace9700cb5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KBS 새 수목드라마 '페이스미' 성형외과 의사 3인방, 수술 준비 완료]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=336089</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241025235050_fc498d6cbe6710dd04e58f2b82cdb32e_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[뮤직뱅크] 최예나, 중독성 강한 상큼 매력 무대...‘네모네모’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=336024</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=336024</guid>
-            <pubDate>Fri, 25 Oct 2024 15:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=336024">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241025234331_e2aa12888e5a1083b4b009501241b5aa_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=336024">[뮤직뱅크] 최예나, 중독성 강한 상큼 매력 무대...‘네모네모’ </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241025234331_e2aa12888e5a1083b4b009501241b5aa_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
