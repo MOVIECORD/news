@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Oct 2024 08:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Oct 2024 10:11:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고준희 'SNL 코리아' 쥐락펴락 단발 매력]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=336249</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=336249</guid>
+            <pubDate>Sun, 27 Oct 2024 10:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=336249">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241027174525_c42ac4405c2dfd4a557806fb6e884af9_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=336249">고준희 'SNL 코리아' 쥐락펴락 단발 매력</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241027174525_c42ac4405c2dfd4a557806fb6e884af9_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[곽경택 감독 '소방관' 12월 개봉.. "2001년 홍제동 화재참사, 히어로"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=336226</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=335644">[인터뷰] 윤수익 감독 “겨울 양양 바다, 서핑을 하다 감정의 파고를 만나다” (영화 ‘폭설’)</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241022104908_f7d4de01f7933a643658a8594dbd4986.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] ‘폭설’.. 그 겨울, 가장 차가웠던 바다 (윤수익 감독)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=335635</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=335635</guid>
-            <pubDate>Tue, 22 Oct 2024 02:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=335635">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241022104004_6d0673d59417a7a2d0565e406e0aff61.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=335635">[리뷰] ‘폭설’.. 그 겨울, 가장 차가웠던 바다 (윤수익 감독)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241022104004_6d0673d59417a7a2d0565e406e0aff61.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
