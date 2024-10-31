@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Oct 2024 00:38:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Oct 2024 03:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["New 앵커" 'KBS 뉴스9' 최문종 기자, 'KBS 뉴스광장' 김나나 기자]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=336811</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=336811</guid>
+            <pubDate>Thu, 31 Oct 2024 03:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=336811">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241031114827_11f21d49049f6c48e26f1d9d2eca8757.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=336811">"New 앵커" 'KBS 뉴스9' 최문종 기자, 'KBS 뉴스광장' 김나나 기자</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241031114827_11f21d49049f6c48e26f1d9d2eca8757.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘페이스미’  이이경, “한우진은 옆집 오빠 같은 매력 넘치는 캐릭터”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=336663</link>
@@ -347,24 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A0%84%EC%84%A4%EC%9D%98%20%EC%B7%A8%EC%82%AC%EB%B3%91">전설의 취사병</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241029215800_b27858559b1158af44783adb00025cd0_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[전설의 취사병] 보양식을 주제로 한 육군 누룽지탕 VS 해군 삼계죽 전투 요리]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=336522</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=336522</guid>
-            <pubDate>Tue, 29 Oct 2024 13:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=336522">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241029214903_b021003aba9501e206b1dce9193005c9_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=336522">[전설의 취사병] 보양식을 주제로 한 육군 누룽지탕 VS 해군 삼계죽 전투 요리</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A0%84%EC%84%A4%EC%9D%98%20%EC%B7%A8%EC%82%AC%EB%B3%91">전설의 취사병</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241029214903_b021003aba9501e206b1dce9193005c9_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
