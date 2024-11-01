@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Nov 2024 06:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 07:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["뮤지션 꽃이 피었습니다!"  적재, nov (노브), 존박, 에스파 출격 (이영지의 레인보우)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=336971</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=336971</guid>
+            <pubDate>Fri, 01 Nov 2024 07:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=336971">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241101123015_e97a12a03ec2b321a706a441fd98e7bb_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=336971">"뮤지션 꽃이 피었습니다!"  적재, nov (노브), 존박, 에스파 출격 (이영지의 레인보우)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8D%94%20%EC%8B%9C%EC%A6%8C%EC%A6%88">더 시즌즈</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241101123015_e97a12a03ec2b321a706a441fd98e7bb_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김재중 육아좌절  “동방예의지국, 밥상예절 중요” (신상출시 편스토랑)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=336879</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8A%A4%EC%BA%94%EB%93%A4">일일드라마 스캔들</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241030213903_ba2e4db9642e60df3db562241b3aed88_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[스캔들] 최웅 불법 스폰 계약서 손에 쥔 이시은, 전전긍긍 한채영에 통쾌한 복수]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=336704</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=336704</guid>
-            <pubDate>Wed, 30 Oct 2024 13:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=336704">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241030212805_866b6aada99dc1a46126ffe183d6b47d.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=336704">[스캔들] 최웅 불법 스폰 계약서 손에 쥔 이시은, 전전긍긍 한채영에 통쾌한 복수</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8A%A4%EC%BA%94%EB%93%A4">일일드라마 스캔들</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241030212805_866b6aada99dc1a46126ffe183d6b47d.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
