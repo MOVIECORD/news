@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Nov 2024 13:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Nov 2024 14:09:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[슈퍼맨이 돌아왔다] 제철 대하 맛에 취한 은우+정우! 군침 싹~도는 새우 먹방]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=337604</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=337604</guid>
+            <pubDate>Wed, 06 Nov 2024 14:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=337604">	<span class="img-box">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241106222648_f99c3406616a1309e92ad1944681d90b_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=337604">[슈퍼맨이 돌아왔다] 제철 대하 맛에 취한 은우+정우! 군침 싹~도는 새우 먹방</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241106222648_f99c3406616a1309e92ad1944681d90b_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[슈퍼맨이 돌아왔다] 대하 특집이라고 했잖아요… 대하 잃고 재미도 잃은 김준호 삼부자]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=337599</link>
@@ -345,24 +363,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%B1%ED%81%AC%EB%A1%9C%EC%9C%A0">싱크로유</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241104231309_4dbc4d63671e1d16486cfb25a60c55c6_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[싱크로유] 퀸 디바 특집~ 역대급 난이도! 인순이X인순이 듀엣 ‘거위의 꿈’ 무대]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=337316</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=337316</guid>
-            <pubDate>Mon, 04 Nov 2024 14:08:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=337316">	<span class="img-box">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241104230129_f19bddd6dc746525b21e5444fb16c17b_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=337316">[싱크로유] 퀸 디바 특집~ 역대급 난이도! 인순이X인순이 듀엣 ‘거위의 꿈’ 무대</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%B1%ED%81%AC%EB%A1%9C%EC%9C%A0">싱크로유</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241104230129_f19bddd6dc746525b21e5444fb16c17b_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
