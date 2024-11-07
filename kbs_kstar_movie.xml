@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Nov 2024 00:40:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 02:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] 연소일기  "소년아, 절대 포기하지 마! "]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=337682</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=337682</guid>
+            <pubDate>Thu, 07 Nov 2024 02:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=337682">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241107103754_ec93074ed233cea48dd5341c294ba18d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=337682">[리뷰] 연소일기  "소년아, 절대 포기하지 마! "</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241107103754_ec93074ed233cea48dd5341c294ba18d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["수상한 가족"  쿠팡플레이 '가족계획' .. 배두나, 류승범, 백윤식, 로몬, 이수현]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=337674</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=337201">"진선규니까 가능!"  'SNL코리아' 파격 '메소드' 코미디 연기</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241104075914_0ff0095def7de256e1d7ba9c8ca6712a_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["김윤석, 만두를 빚다" 영화 '대가족'..  자영업자 변신, 공감 코미디 도전]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=337195</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=337195</guid>
-            <pubDate>Sun, 03 Nov 2024 23:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=337195">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241104075420_7cca3b842d6462bff34abb4ea904765f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=337195">"김윤석, 만두를 빚다" 영화 '대가족'..  자영업자 변신, 공감 코미디 도전</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241104075420_7cca3b842d6462bff34abb4ea904765f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
