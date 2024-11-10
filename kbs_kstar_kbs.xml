@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Nov 2024 13:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Nov 2024 14:06:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[1박2일] 단독 공개(?) 남창희 결혼설 터졌다! 조세호 이어 품절남 합류?]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=337924</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=337924</guid>
+            <pubDate>Sun, 10 Nov 2024 14:05:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=337924">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241110225949_97fc4c08e5e043f4702a91c13b31e274_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=337924">[1박2일] 단독 공개(?) 남창희 결혼설 터졌다! 조세호 이어 품절남 합류?</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=1%EB%B0%95%202%EC%9D%BC">1박 2일</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241110225949_97fc4c08e5e043f4702a91c13b31e274_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[1박 2일] '조세호 절친' 남창희.. "모르는데 어떻게 가요"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=337895</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241108212946_fab689faadea09bb5a44b235336c0348_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[뮤직뱅크] ITZY, ‘Imaginary Friend’ 무대...새로운 매력 발산]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=337750</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=337750</guid>
-            <pubDate>Fri, 08 Nov 2024 13:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=337750">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241108211856_c29724391ffa92a4dcecbecfa8ef9b9b_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=337750">[뮤직뱅크] ITZY, ‘Imaginary Friend’ 무대...새로운 매력 발산</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241108211856_c29724391ffa92a4dcecbecfa8ef9b9b_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
