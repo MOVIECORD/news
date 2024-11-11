@@ -1,8 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://enews.imbc.com/Search?searchText=%EC%98%81%ED%99%94</id>
-    <title>MBC 연예 ─ 영화</title>
-    <updated>2024-11-11T10:10:01.901Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://enews.imbc.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>MBC 연예 ─ 영화</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 11 Nov 2024 11:03:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[칸영화제 초청받은 '구룡성채: 무법지대' 오늘 극장동시 IPTV & VOD 서비스 시작]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/435838</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/435838</guid>
+            <pubDate>Mon, 11 Nov 2024 11:02:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/435838" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/11/05/d3468a86-292b-48d0-9443-eb7556518d83.gif" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">칸<font color="red">영화</font>제 초청받은 '구룡성채: 무법지대' 오늘 극장동시 IPTV &amp; VOD 서비스 시작</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/11/05/d3468a86-292b-48d0-9443-eb7556518d83.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA['보통의 가족' 허진호 감독 "멜로보다 사회문제에 질문 던지는영화 하고 싶어" [인터뷰M]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/433174</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/433174</guid>
+            <pubDate>Mon, 11 Nov 2024 11:02:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/433174" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/10/11/dac208c3-b146-4d42-bbaa-12f7250e6b0b.jpg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">'보통의 가족' 허진호 감독 "멜로보다 사회문제에 질문 던지는<font color="red">영화</font> 하고 싶어" [인터뷰M]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/10/11/dac208c3-b146-4d42-bbaa-12f7250e6b0b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수현 "삭발도, 그보다 더한 뭐든지 변신을 위해선 다 할수 있다" [인터뷰M]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/433077</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/433077</guid>
+            <pubDate>Mon, 11 Nov 2024 11:02:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/433077" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/10/10/4ad8de60-e7bc-4109-b061-995fbc5795db.jpg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">수현 "삭발도, 그보다 더한 뭐든지 변신을 위해선 다 할수 있다" [인터뷰M]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/10/10/4ad8de60-e7bc-4109-b061-995fbc5795db.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['보통의 가족' 장동건 "오랜만에 현실적인 캐릭터 연기하니 속이 후련" [인터뷰M]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/431946</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/431946</guid>
+            <pubDate>Mon, 11 Nov 2024 11:02:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/431946" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/10/01/e2d5368e-a33b-42b1-9624-490c265d9366.jpg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">'보통의 가족' 장동건 "오랜만에 현실적인 캐릭터 연기하니 속이 후련" [인터뷰M]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/10/01/e2d5368e-a33b-42b1-9624-490c265d9366.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김고은×노상현의 '대도시의 사랑법' 열띤 입소문으로 흥행 상승세]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/432441</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/432441</guid>
+            <pubDate>Mon, 11 Nov 2024 11:02:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/432441" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/10/05/97af41bc-87fc-4c27-9c7b-45101a7f832d.jpg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">김고은×노상현의 '대도시의 사랑법' 열띤 입소문으로 흥행 상승세</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/10/05/97af41bc-87fc-4c27-9c7b-45101a7f832d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['더 킬러스' 심은경→장현성, 부산국제영화제 레드카펫 행사 성료]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/432183</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/432183</guid>
+            <pubDate>Mon, 11 Nov 2024 11:02:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/432183" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/10/03/a3aca0c3-e697-4f23-8b70-f74e12903eb8.jpg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">'더 킬러스' 심은경→장현성, 부산국제<font color="red">영화</font>제 레드카펫 행사 성료</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/10/03/a3aca0c3-e697-4f23-8b70-f74e12903eb8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['베테랑2' 전체 예매율 1위 탈환…'조커: 폴리 아 되' 꺾었다]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/432151</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/432151</guid>
+            <pubDate>Mon, 11 Nov 2024 11:02:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/432151" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/10/03/969bcd1e-753c-46fc-9bd0-acb0ddf6637c.jpg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">'베테랑2' 전체 예매율 1위 탈환…'조커: 폴리 아 되' 꺾었다</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/10/03/969bcd1e-753c-46fc-9bd0-acb0ddf6637c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['대도시의 사랑법' 이언희 감독 "미친 듯 간절하게 찾아낸 노상현" [인터뷰M]]]></title>
+            <link>http://enews.imbc.com/News/RetrieveNewsInfo/432122</link>
+            <guid>http://enews.imbc.com/News/RetrieveNewsInfo/432122</guid>
+            <pubDate>Mon, 11 Nov 2024 11:02:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/432122" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/10/03/c3c3aa44-0bb5-444a-bfde-e34022c9448d.jpg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">'대도시의 사랑법' 이언희 감독 "미친 듯 간절하게 찾아낸 노상현" [인터뷰M]</p>        </div>    </a>]]></content:encoded>
+            <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/10/03/c3c3aa44-0bb5-444a-bfde-e34022c9448d.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
