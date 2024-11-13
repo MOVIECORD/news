@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Nov 2024 02:10:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Nov 2024 04:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘강남 비-사이드’ 조우진- 지창욱 본격 공조 시작... 오늘 3,4화 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=338267</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=338267</guid>
+            <pubDate>Wed, 13 Nov 2024 04:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=338267">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241113123341_5c8725e3c757fcea8e475393b09e157e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=338267">‘강남 비-사이드’ 조우진- 지창욱 본격 공조 시작... 오늘 3,4화 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241113123341_5c8725e3c757fcea8e475393b09e157e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["영원한 오빠"  '남진 라이브 콘서트 무비' 오늘 개봉]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=338257</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=337682">[리뷰] 연소일기  "소년아, 절대 포기하지 마! "</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241107103754_ec93074ed233cea48dd5341c294ba18d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["수상한 가족"  쿠팡플레이 '가족계획' .. 배두나, 류승범, 백윤식, 로몬, 이수현]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=337674</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=337674</guid>
-            <pubDate>Thu, 07 Nov 2024 00:39:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=337674">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241107082949_5d163f09384006fccc72850519636e07.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=337674">"수상한 가족"  쿠팡플레이 '가족계획' .. 배두나, 류승범, 백윤식, 로몬, 이수현</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241107082949_5d163f09384006fccc72850519636e07.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
