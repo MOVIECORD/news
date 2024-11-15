@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Nov 2024 11:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Nov 2024 12:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["뮤지션 꽃이 피었습니다! ".. 레이니, 비비지, 키코, 코요태, 2am  (이영지의 레인보우)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=338703</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=338703</guid>
+            <pubDate>Fri, 15 Nov 2024 12:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=338703">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241115202417_6e386c56f0c3c4582dad73d4c88151fe.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=338703">"뮤지션 꽃이 피었습니다! ".. 레이니, 비비지, 키코, 코요태, 2am  (이영지의 레인보우)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241115202417_6e386c56f0c3c4582dad73d4c88151fe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김재중, “아버지와 요리, LA갈비찜”  (신상출시 편스토랑)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=338660</link>
@@ -348,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241113221608_dcbbdfd6bb9aa058a3071b73fc640dbf_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[슈퍼맨이 돌아왔다] 237억 골프 황제 박인비의 든든한 육아 만렙 남편 남기협]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=338325</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=338325</guid>
-            <pubDate>Wed, 13 Nov 2024 13:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=338325">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241113221240_637d71e1b6d98b4dfe9f7e3466820afb_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=338325">[슈퍼맨이 돌아왔다] 237억 골프 황제 박인비의 든든한 육아 만렙 남편 남기협</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241113221240_637d71e1b6d98b4dfe9f7e3466820afb_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
