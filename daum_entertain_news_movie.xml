@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-11-24T12:16:02.335Z</updated>
+    <updated>2024-11-24T13:17:20.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 영화 관객 평균 31편 관람…  OTT·TV·극장 등 순 많이 봤다]]></title>
+        <id>https://v.daum.net/v/20241124212316786</id>
+        <link href="https://v.daum.net/v/20241124212316786"/>
+        <updated>2024-11-24T13:17:20.002Z</updated>
+        <content type="html"><![CDATA[지난해 영화 관객은 평균 31.4편을 본 것으로 조사됐다. 극장에서 본 작품은 평균 11.1편, 이외 방법으로 본 영화는 20.3편으로 2022년 각각 10.2편, 16.5편보다 소폭 증가했다. 영화진흥위원회는 이런 내용을 담은 ‘2023년 영화소비자 행태조사’ 보고서를 최근 발표했다. 이번 조사는 14~69세 남녀 중 지난해 1년간 영화를 1편 이상 본]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['모아나2' 개봉 전부터 '위키드' '글래디에이터Ⅱ' 꺾고 전체예매율 1위 등극]]></title>
         <id>https://v.daum.net/v/20241124182743170</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241124134227212"/>
         <updated>2024-11-24T05:09:07.383Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 박정민이 '하얼빈'의 독립군으로 돌아온다. 12월 25일 개봉하는 영화 '하얼빈'(감독 우민호)은 1909년, 하나의 목적을 위해 하얼빈으로 향하는 이들과 이를 쫓는 자들 사이의 숨 막히는 추적과 의심을 그린 작품. 박정민은 극 중 장군 안중근(현빈)의 결정을 늘 지지하는 충직한 동지 우덕순 역할을 맡아 그간의 쌓아온 내공을 아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘위키드’ 4일 연속 1위…주말 관객수 2.5배↑]]></title>
-        <id>https://v.daum.net/v/20241124132106953</id>
-        <link href="https://v.daum.net/v/20241124132106953"/>
-        <updated>2024-11-24T05:09:07.383Z</updated>
-        <content type="html"><![CDATA[[동아닷컴]  ‘위키드’ 4일 연속 1위…주말 관객수 2.5배↑ [DA:박스] ‘위키드’ 열풍이 시작됐다. ‘위키드’(수입/배급: 유니버설 픽쳐스)가 전 세계 최초 개봉한 대한민국에서 4일 연속 박스오피스 1위에 올랐다. 더불어 주말 토요일 관객수가 개봉일 8만4931명 및 전날 금요일 관객수 9만852명보다 무려 2.5배 이상 급증한 일일 관객수 21만]]></content>
     </entry>
 </feed>
