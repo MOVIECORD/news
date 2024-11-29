@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Nov 2024 00:41:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2024 02:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["한국독립영화, 반백년의 축제" 제50회 서울독립영화제 개막]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=340476</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=340476</guid>
+            <pubDate>Fri, 29 Nov 2024 02:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=340476">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241129095027_aeafbb17c530d21a4a2718557f69007e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=340476">"한국독립영화, 반백년의 축제" 제50회 서울독립영화제 개막</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241129095027_aeafbb17c530d21a4a2718557f69007e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[볼빨간 박지현..  영화 ‘동화지만 청불입니다’ 1월 개봉]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=340346</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=339854"> 서현진×공유 특별한 만남, 넷플릭스  &lt;트렁크&gt; 제작발표회... "기간제 부부의 미스터리 멜로"  </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241126194525_24fc6c097a02ffd70af3962905bb9285.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 박이웅 감독 "아침바다 갈매기는 금빛을 싣고...."]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=339837</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=339837</guid>
-            <pubDate>Tue, 26 Nov 2024 06:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339837">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241126115256_aa80daba1c1cc104f43f78c645b05297.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=339837">[인터뷰] 박이웅 감독 "아침바다 갈매기는 금빛을 싣고...." </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241126115256_aa80daba1c1cc104f43f78c645b05297.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
