@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Dec 2024 00:42:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Dec 2024 02:24:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대한'독립영화'만세... 서울독립영화제, 독립영화 베스트 100선 공개.. <송환>, <소풍>]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=340756</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=340756</guid>
+            <pubDate>Mon, 02 Dec 2024 02:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=340756">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241202105446_488d44c886e9d3522765b03d73f49c15.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=340756">대한'독립영화'만세... 서울독립영화제, 독립영화 베스트 100선 공개.. &lt;송환&gt;, &lt;소풍&gt;</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241202105446_488d44c886e9d3522765b03d73f49c15.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“매일 밤, 그들은 빛을 찾는다”... '조명가게'를 찾는 11인의 이야기]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=340748</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=340360">RM 다큐멘터리 영화 'RM: Right People, Wrong Place'.. 12월 5일 CGV단독개봉</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241129091042_692c20c41adf8ec1c76425ec52019389_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송중기 ‘보고타’.. 희망 없는 땅, 새로운 기회의 도시로]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=340372</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=340372</guid>
-            <pubDate>Fri, 29 Nov 2024 00:39:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=340372">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241129085839_20f70eba8117a0dafa72ac0381f847a0_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=340372">송중기 ‘보고타’.. 희망 없는 땅, 새로운 기회의 도시로</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241129085839_20f70eba8117a0dafa72ac0381f847a0_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
