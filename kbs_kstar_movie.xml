@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Dec 2024 20:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Dec 2024 21:11:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['수퍼 소닉3', 사상 최강 라이벌 섀도우 등장]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=339933</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=339933</guid>
+            <pubDate>Mon, 02 Dec 2024 21:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=339933">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241127153859_f7ceaf163561c32d2110c8349936b8cf.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=339933">'수퍼 소닉3', 사상 최강 라이벌 섀도우 등장 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241127153859_f7ceaf163561c32d2110c8349936b8cf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대한'독립영화'만세... 서울독립영화제, 독립영화 베스트 100선 공개.. <송환>, <소풍>]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=340756</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=340358">‘피의 게임 시즌3’, 6·7회서 첫 팀 대결…장동민 vs 홍진호 리벤지 매치 성사</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241129091154_c8db8ab9ed3997644631f2322c648937_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RM 다큐멘터리 영화 'RM: Right People, Wrong Place'.. 12월 5일 CGV단독개봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=340360</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=340360</guid>
-            <pubDate>Fri, 29 Nov 2024 00:39:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=340360">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241129091042_692c20c41adf8ec1c76425ec52019389_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=340360">RM 다큐멘터리 영화 'RM: Right People, Wrong Place'.. 12월 5일 CGV단독개봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241129091042_692c20c41adf8ec1c76425ec52019389_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
