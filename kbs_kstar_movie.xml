@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Dec 2024 19:06:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 21:10:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CGV, IMAX 마스터피스 기획전 개최]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=341719</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=341719</guid>
+            <pubDate>Mon, 09 Dec 2024 21:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=341719">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241209100738_b54881a644d783b76439888fab08b460_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=341719">CGV, IMAX 마스터피스 기획전 개최</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241209100738_b54881a644d783b76439888fab08b460_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["움베르토 에코의 광활한 서재".. 다큐멘터리 '움베르토 에코. 세계의 도서관' 11일 개봉]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=341785</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=341212">디즈니+ '무빙' , MBC 지상파로! </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241205092241_a9f9cf4a90e5f3da87db83cd6697d0e6.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["런, 포레스트 런!" ..  '포레스트 검프'  롯데시네마 4K 리마스터링 버전 상영]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=341207</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=341207</guid>
-            <pubDate>Thu, 05 Dec 2024 00:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=341207">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241205084648_f2b27f7a0312136a8e377f788bd953c2.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=341207">"런, 포레스트 런!" ..  '포레스트 검프'  롯데시네마 4K 리마스터링 버전 상영</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241205084648_f2b27f7a0312136a8e377f788bd953c2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
