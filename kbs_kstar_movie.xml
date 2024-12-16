@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Dec 2024 23:10:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Dec 2024 00:43:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] ‘대가족’  영광의 가문 (양우석 감독, 김윤석  이승기)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=342603</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=342603</guid>
+            <pubDate>Mon, 16 Dec 2024 00:42:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=342603">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241216091848_ac33510f106fec0092beff9fba4ea508.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=342603">[리뷰] ‘대가족’  영광의 가문 (양우석 감독, 김윤석  이승기)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241216091848_ac33510f106fec0092beff9fba4ea508.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["평범하지만, 통증을 못 느낍니다"  무통증 액션 영화 '노보케인'... 내년 3월 개봉]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=342572</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=342020"> 드림웍스 '와일드 로봇' 골든글로브 4개 부문 노미네이트</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241211070214_8ff3e6b18d7417de6e40b345c28b74a1_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['씽 씽' 글든글로브, 필름 인디펜던트 스피릿 어워드 노미네이트]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=341987</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=341987</guid>
-            <pubDate>Wed, 11 Dec 2024 23:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=341987">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241211061934_1a65cbeac4122dabdc504984eb88f725.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=341987">'씽 씽' 글든글로브, 필름 인디펜던트 스피릿 어워드 노미네이트</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241211061934_1a65cbeac4122dabdc504984eb88f725.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
