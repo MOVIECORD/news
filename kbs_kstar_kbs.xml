@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Dec 2024 22:09:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 02:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['수상한 그녀'  1,2회 연속 방송.. "내 이름은 오두리"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=342812</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=342812</guid>
+            <pubDate>Wed, 18 Dec 2024 02:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=342812">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241218083103_7330d4e0aae5b68ff6bcf1ac19997d24.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=342812">'수상한 그녀'  1,2회 연속 방송.. "내 이름은 오두리"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%88%98%EC%83%81%ED%95%9C%20%EA%B7%B8%EB%85%80">수목드라마 수상한 그녀</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241218083103_7330d4e0aae5b68ff6bcf1ac19997d24.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“재이가 내 말을 알아들어”  박수홍, 초보 육아에 ‘행복 허언증’ 대폭발]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=342712</link>
@@ -345,24 +363,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8F%99%EB%AC%BC%EC%9D%80%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">동물은 훌륭하다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241216235607_da15e19d227ec350900a4678ef95f1ee_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[동물은 훌륭하다] 할머니만 공격하는 거위 ‘나리’와 ‘달래’의 생후 16시간에 얽힌 사연]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=342656</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=342656</guid>
-            <pubDate>Mon, 16 Dec 2024 15:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=342656">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241216233714_4a7c840d940129a146f8b583189264bc.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=342656">[동물은 훌륭하다] 할머니만 공격하는 거위 ‘나리’와 ‘달래’의 생후 16시간에 얽힌 사연</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8F%99%EB%AC%BC%EC%9D%80%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">동물은 훌륭하다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241216233714_4a7c840d940129a146f8b583189264bc.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
