@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Dec 2024 22:10:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Dec 2024 00:40:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘KBS연예대상’ ‘37개월’ 은우에서 김종민까지 "슈퍼노바~"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=342955</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=342955</guid>
+            <pubDate>Thu, 19 Dec 2024 00:39:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=342955">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241219083118_3e2969a6b6155bc19daac7ea22f1a205.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=342955">‘KBS연예대상’ ‘37개월’ 은우에서 김종민까지 "슈퍼노바~"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=2024%20KBS%20%EC%97%B0%EC%98%88%EB%8C%80%EC%83%81">2024 KBS 연예대상</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241219083118_3e2969a6b6155bc19daac7ea22f1a205.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[“무슨 일 날지 몰라”   '화산, 인간' 과테말라 활화산의 두려운 비밀]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=342707</link>
@@ -348,23 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8B%A0%EB%8D%B0%EB%A0%90%EB%9D%BC%20%EA%B2%8C%EC%9E%84">일일드라마 신데렐라 게임</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241217210431_6bb1da6c6da298dbd4106b66ba10adf1_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['셀럽병사의 비밀'  아돌프 히틀러 ‘왼손의 비밀’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=342700</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=342700</guid>
-            <pubDate>Tue, 17 Dec 2024 13:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=342700">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241217111956_276435c73c13dce7ed545f5ebddcda11_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=342700">'셀럽병사의 비밀'  아돌프 히틀러 ‘왼손의 비밀’</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241217111956_276435c73c13dce7ed545f5ebddcda11_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
