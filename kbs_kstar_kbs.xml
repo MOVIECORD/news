@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Dec 2024 07:03:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Dec 2024 08:12:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘2024 KBS 연예대상’  시청자가 뽑은 최고의 프로그램상은?]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=343317</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=343317</guid>
+            <pubDate>Sat, 21 Dec 2024 08:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=343317">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241221162217_7ae217cc97ef5d12dd691e42eb258bae.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=343317">‘2024 KBS 연예대상’  시청자가 뽑은 최고의 프로그램상은?</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=2024%20KBS%20%EC%97%B0%EC%98%88%EB%8C%80%EC%83%81">2024 KBS 연예대상</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241221162217_7ae217cc97ef5d12dd691e42eb258bae.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['2024 KBS 가요대축제' ..  K-POP 세대 대통합의 장...역대급 컬래버+레전드 무대 향연]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=343300</link>
@@ -345,24 +363,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%88%98%EC%83%81%ED%95%9C%20%EA%B7%B8%EB%85%80">수목드라마 수상한 그녀</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241219001948_c2ace6438f4f61f94583b766fcf66e21_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[수상한 그녀] 데뷔 직전 사라진 메인 멤버 에밀리 사태로 일생일대 위기 빠진 프로듀서 진영]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=342884</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=342884</guid>
-            <pubDate>Wed, 18 Dec 2024 16:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=342884">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241219001551_2d7bf77355bbdc194057a431ce5692c8_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=342884">[수상한 그녀] 데뷔 직전 사라진 메인 멤버 에밀리 사태로 일생일대 위기 빠진 프로듀서 진영</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%88%98%EC%83%81%ED%95%9C%20%EA%B7%B8%EB%85%80">수목드라마 수상한 그녀</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241219001551_2d7bf77355bbdc194057a431ce5692c8_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
