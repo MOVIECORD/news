@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Dec 2024 20:09:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Dec 2024 21:06:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엄지원-안재욱, 주말드라마 '독수리 오형제를 부탁해']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=343386</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=343386</guid>
+            <pubDate>Sun, 22 Dec 2024 21:05:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=343386">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241222095402_3202e9855976984d81e5bccf88530836.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=343386">엄지원-안재욱, 주말드라마 '독수리 오형제를 부탁해'</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8F%85%EC%88%98%EB%A6%AC%20%EC%98%A4%ED%98%95%EC%A0%9C%EB%A5%BC%20%EB%B6%80%ED%83%81%ED%95%B4">주말드라마 독수리 오형제를 부탁해</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241222095402_3202e9855976984d81e5bccf88530836.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[다리미 패밀리] 어머니 박지영에 수갑을 채우는 김현준 “내가 경찰인데 내 생각 안 해봤어?”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=343435</link>
@@ -346,24 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241221204000_66cc6d8fd639a08860290c6c41f8071e_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[불후의 명곡] 불후에 뜬 ‘수학의 신’ 정승제....앨범까지 낸 노래 열정 부자]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=343326</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=343326</guid>
-            <pubDate>Sat, 21 Dec 2024 16:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=343326">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241221203325_a505a37698c17fc47d7611ce47e57abf.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=343326">[불후의 명곡] 불후에 뜬 ‘수학의 신’ 정승제....앨범까지 낸 노래 열정 부자</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241221203325_a505a37698c17fc47d7611ce47e57abf.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
