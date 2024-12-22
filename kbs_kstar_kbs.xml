@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Dec 2024 22:09:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Dec 2024 23:07:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['세차JANG', 뷰티 유튜버 이사배 등장]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=343475</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=343475</guid>
+            <pubDate>Sun, 22 Dec 2024 23:06:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=343475">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241223073647_8b52e4c2a66cd1f49186276cce01eeab_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=343475"> '세차JANG', 뷰티 유튜버 이사배 등장</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%84%B8%EC%B0%A8JANG">세차JANG</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241223073647_8b52e4c2a66cd1f49186276cce01eeab_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엄지원-안재욱, 주말드라마 '독수리 오형제를 부탁해']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=343386</link>
@@ -346,24 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241221205617_1260d8428f84168e1bc1afa023dcb8bf.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[불후의 명곡] 육중완밴드와 ‘서울의 달’ 무대 정승제....“앞으로 겸손하게 살겠다”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=343330</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=343330</guid>
-            <pubDate>Sat, 21 Dec 2024 16:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=343330">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241221204000_66cc6d8fd639a08860290c6c41f8071e_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=343330">[불후의 명곡] 육중완밴드와 ‘서울의 달’ 무대 정승제....“앞으로 겸손하게 살겠다”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241221204000_66cc6d8fd639a08860290c6c41f8071e_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
