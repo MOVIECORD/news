@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2024-12-23T14:09:18.178Z</updated>
+    <updated>2024-12-23T15:10:00.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지금을 관통해서 더 뜨거운 '하얼빈']]></title>
+        <id>https://v.daum.net/v/20241224000013542</id>
+        <link href="https://v.daum.net/v/20241224000013542"/>
+        <updated>2024-12-23T15:10:00.099Z</updated>
+        <content type="html"><![CDATA[1909년 하나의 목표를 향해 달려간 독립군들의 여정이 2024년에 던지는 메시지 [더팩트｜박지윤 기자] 대한민국 국민이라면 모두가 다 알고 있을, 이토 히로부미를 척결한 안중근 장군과 그와 함께 하나의 목표를 향해 발걸음을 내디딘 독립군들의 이야기다. 역사가 곧 스포일러가 되는 작품이지만 그럼에도 손에 땀을 쥐게 되고 가슴 한 켠이 뜨거워지는 '하얼빈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['하얼빈' 개봉 전부터 사전예매 50만 대박... 위기의 한국영화 구원되나]]></title>
         <id>https://v.daum.net/v/20241223211930340</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241223173602636"/>
         <updated>2024-12-23T09:12:47.803Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] 짱구로 돌아오는 정우가 영화 연출에도 도전한다. 소속사 BH엔터테인먼트는 12월 23일 뉴스엔에 "정우가 영화 '오디션 109'(가제)를 통해 영화 감독 데뷔한다"고 밝혔다. 영화 '오디션 109'는 지난 2009년 개봉한 정우 주연 영화 '바람'의 후속편으로, 성인이 된 짱구가 서울로 상경한 후 벌어지는 이야기를 담은 작품이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이희준, 자기계발 중독자…일하러 콜롬비아 갔는데 "살사 배워"]]></title>
-        <id>https://v.daum.net/v/20241223173402560</id>
-        <link href="https://v.daum.net/v/20241223173402560"/>
-        <updated>2024-12-23T09:12:47.804Z</updated>
-        <content type="html"><![CDATA[[텐아시아=김지원 기자] 이희준이 영화 '보고타: 마지막 기회의 땅' 출연 이유를 밝혔다. 23일 서울 소격동의 한 카페에서 영화 '보고타: 마지막 기회의 땅'(이하 '보고타')에 출연한 배우 이희준을 만났다. '보고타'는 IMF 직후, 새로운 희망을 품고 지구 반대편 콜롬비아 보고타로 향한 국희(송중기 분)가 보고타 한인 사회의 실세 수영(이희준 분]]></content>
     </entry>
 </feed>
