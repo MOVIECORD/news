@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Dec 2024 00:38:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Dec 2024 02:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["나문희가 다섯" A.I가 만든 무한 캐릭터 변신... <나야, 문희> 오늘 개봉]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=343518</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=343518</guid>
+            <pubDate>Tue, 24 Dec 2024 02:10:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=343518">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241224103426_ccf78588d4866dfcec6c8714aa849e01.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=343518">"나문희가 다섯" A.I가 만든 무한 캐릭터 변신... &lt;나야, 문희&gt; 오늘 개봉</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241224103426_ccf78588d4866dfcec6c8714aa849e01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 우민호 감독 “신념의 안중근, 독립군의 아우라” (영화 ‘하얼빈’)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=343535</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=342961">[리뷰] 하얼빈.. “1909년 10월 26일, 안중근이 이등박문을 총으로 척결하였다”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241219094817_077251e80b43d33e6420128b8ddccb99.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['픽사의 숨결, 한국인의 손길'..  픽사 '드림 프로덕션']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=342922</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=342922</guid>
-            <pubDate>Mon, 23 Dec 2024 14:07:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=342922">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241219075725_b903ad4c028ad060e26aab512fe222b3_1.jpeg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=342922">'픽사의 숨결, 한국인의 손길'..  픽사 '드림 프로덕션'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241219075725_b903ad4c028ad060e26aab512fe222b3_1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
