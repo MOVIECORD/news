@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Dec 2024 22:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Dec 2024 23:09:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부산의 시네마테크에서 만나는  '김용 - 알랭 들롱의 오래된 영화들']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=343955</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=343955</guid>
+            <pubDate>Thu, 26 Dec 2024 23:07:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=343955">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241227072824_80a7e5a128219aa9a3e05e03c38e7df9.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=343955">부산의 시네마테크에서 만나는  '김용 - 알랭 들롱의 오래된 영화들'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241227072824_80a7e5a128219aa9a3e05e03c38e7df9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] ‘오징어게임 2’ 업라이징 게임 (황동혁 감독,2024)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=343881</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=343518">"나문희가 다섯" A.I가 만든 무한 캐릭터 변신... &lt;나야, 문희&gt; 오늘 개봉</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241224103426_ccf78588d4866dfcec6c8714aa849e01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 우민호 감독 “신념의 안중근, 독립군의 아우라” (영화 ‘하얼빈’)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=343535</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=343535</guid>
-            <pubDate>Tue, 24 Dec 2024 00:36:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=343535">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241224082939_8a9cfe95382bbbb59119a67909db811e.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=343535">[인터뷰] 우민호 감독 “신념의 안중근, 독립군의 아우라” (영화 ‘하얼빈’)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241224082939_8a9cfe95382bbbb59119a67909db811e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
