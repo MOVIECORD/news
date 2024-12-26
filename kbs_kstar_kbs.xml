@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Dec 2024 00:37:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Dec 2024 02:10:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홍진희 이경애 , "같이 삽시다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=343860</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=343860</guid>
+            <pubDate>Thu, 26 Dec 2024 02:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=343860">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241226093849_97ff9ac45560617c69988b8e3e6aca13_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=343860">홍진희 이경애 , "같이 삽시다" </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%203">박원숙의 같이 삽시다 3</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241226093849_97ff9ac45560617c69988b8e3e6aca13_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['독수리 오형제를 부탁해' 박준금-김준배-최병모-배해선 캐스팅]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=343392</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8B%A0%EB%8D%B0%EB%A0%90%EB%9D%BC%20%EA%B2%8C%EC%9E%84">일일드라마 신데렐라 게임</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241224222345_493d27fdbc808ad5ee3ade5259605fd5_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[신데렐라 게임] 두바이 계약건 치하하며 한그루에게 옷 선물하는 나영희]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=343592</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=343592</guid>
-            <pubDate>Tue, 24 Dec 2024 13:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=343592">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241224220935_35baf99b06fa45458946f9da8f9a42f3_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=343592">[신데렐라 게임] 두바이 계약건 치하하며 한그루에게 옷 선물하는 나영희</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8B%A0%EB%8D%B0%EB%A0%90%EB%9D%BC%20%EA%B2%8C%EC%9E%84">일일드라마 신데렐라 게임</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241224220935_35baf99b06fa45458946f9da8f9a42f3_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
