@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Dec 2024 22:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Dec 2024 23:10:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['수상한 그녀'  혼란에 빠진 정지소]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=344200</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=344200</guid>
+            <pubDate>Tue, 31 Dec 2024 23:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=344200">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241231085616_eb46bd54f88dbc7caffb3cc0c2e8e17f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344200">'수상한 그녀'  혼란에 빠진 정지소</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%88%98%EC%83%81%ED%95%9C%20%EA%B7%B8%EB%85%80">수목드라마 수상한 그녀</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241231085616_eb46bd54f88dbc7caffb3cc0c2e8e17f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신데렐라 게임] 비리 경찰 매수해 최상 휴대폰에 위치 추적 앱 설치 의뢰하는 지수원]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=344221</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8B%A4%EB%A6%AC%EB%AF%B8%20%ED%8C%A8%EB%B0%80%EB%A6%AC">주말드라마 다리미 패밀리</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241228233751_c03912720a3aeb09d3a79b81cb770038_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[다리미 패밀리] 김현준 ”절도 발각 시간 문제“...박지영 ”할머니 수술 끝나면 자수할게“]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=344095</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=344095</guid>
-            <pubDate>Sat, 28 Dec 2024 16:08:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=344095">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241228231242_cfaca0635d0a501dc37cc7812cf54b36_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344095">[다리미 패밀리] 김현준 ”절도 발각 시간 문제“...박지영 ”할머니 수술 끝나면 자수할게“</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8B%A4%EB%A6%AC%EB%AF%B8%20%ED%8C%A8%EB%B0%80%EB%A6%AC">주말드라마 다리미 패밀리</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241228231242_cfaca0635d0a501dc37cc7812cf54b36_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
