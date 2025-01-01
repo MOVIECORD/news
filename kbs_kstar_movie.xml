@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jan 2025 22:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jan 2025 23:09:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] ‘왓 이프’ 시즌3.. “황동혁이 감독했다면...”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=344347</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=344347</guid>
+            <pubDate>Wed, 01 Jan 2025 23:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=344347">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250102073636_58fed723d5c345b42f3972d1e22be556.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344347">[리뷰] ‘왓 이프’ 시즌3.. “황동혁이 감독했다면...”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250102073636_58fed723d5c345b42f3972d1e22be556.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['뉴토피아' 지수, 좀비떼도 막지 못할 직진 본능]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=344023</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=343972">권상우, '히트' 웹툰작가로 다시 컴백.. '히트맨2'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241227081145_ba5558bc77ff67199123f80cf018a073.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['애니멀 킹덤'   원인불명 바이러스,  주목할만한 판타지.. 1월 극장개봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=343797</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=343797</guid>
-            <pubDate>Fri, 27 Dec 2024 22:07:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=343797">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241226071906_b4318eafad0a232f6b0ae82dc50763ab.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=343797">'애니멀 킹덤'   원인불명 바이러스,  주목할만한 판타지.. 1월 극장개봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241226071906_b4318eafad0a232f6b0ae82dc50763ab.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
