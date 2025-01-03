@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jan 2025 22:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jan 2025 23:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['동네 한 바퀴' 마음에 담다 – 경상북도 안동시]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=344439</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=344439</guid>
+            <pubDate>Fri, 03 Jan 2025 23:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=344439">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250103080833_ca759d9f21cc2e0b4a9d7cf859dcd5df.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344439">'동네 한 바퀴' 마음에 담다 – 경상북도 안동시 </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8F%99%EB%84%A4%20%ED%95%9C%20%EB%B0%94%ED%80%B4">동네 한 바퀴</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250103080833_ca759d9f21cc2e0b4a9d7cf859dcd5df.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KBS 인공지능 버티고 기술, 일본NHK ‘홍백가합전’ 제작 참여]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=344511</link>
@@ -346,24 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%88%98%EC%83%81%ED%95%9C%20%EA%B7%B8%EB%85%80">수목드라마 수상한 그녀</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250101230749_d9da7164cd7051a31331134083515c3f_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[슈퍼맨이 돌아왔다] “공룡 무서워~ 오지 말라고 해” 움직이는 공룡 선물에 질색하는 은우]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=344320</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=344320</guid>
-            <pubDate>Wed, 01 Jan 2025 13:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=344320">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250101215647_369a39a70d4395687257b19e27c7065f_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344320">[슈퍼맨이 돌아왔다] “공룡 무서워~ 오지 말라고 해” 움직이는 공룡 선물에 질색하는 은우</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250101215647_369a39a70d4395687257b19e27c7065f_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
