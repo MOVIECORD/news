@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jan 2025 23:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jan 2025 00:37:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[다큐ON] 올해도 잘 부탁해.. 새벽을 여는 사람을 찾아서 (4일 밤10시 25분 KBS1)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=344444</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=344444</guid>
+            <pubDate>Sat, 04 Jan 2025 00:36:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=344444">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250103081324_8e80828a0c68f92c96d7b56fb2f35dcd_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344444">[다큐ON] 올해도 잘 부탁해.. 새벽을 여는 사람을 찾아서 (4일 밤10시 25분 KBS1)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8B%A4%ED%81%90%20%EC%98%A8">다큐 온</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250103081324_8e80828a0c68f92c96d7b56fb2f35dcd_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['동네 한 바퀴' 마음에 담다 – 경상북도 안동시]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=344439</link>
@@ -346,24 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%88%98%EC%83%81%ED%95%9C%20%EA%B7%B8%EB%85%80">수목드라마 수상한 그녀</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250101231002_0f2988fa349d4c22676df6599c2af949_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[수상한 그녀] 낯선 여자에게서 엄마가 보인다… 아침밥 챙기는 정지소에 짜증 쏘아붙이는 서영희]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=344325</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=344325</guid>
-            <pubDate>Wed, 01 Jan 2025 14:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=344325">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250101230749_d9da7164cd7051a31331134083515c3f_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344325">[수상한 그녀] 낯선 여자에게서 엄마가 보인다… 아침밥 챙기는 정지소에 짜증 쏘아붙이는 서영희</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%88%98%EC%83%81%ED%95%9C%20%EA%B7%B8%EB%85%80">수목드라마 수상한 그녀</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250101230749_d9da7164cd7051a31331134083515c3f_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
