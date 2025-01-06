@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jan 2025 03:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jan 2025 04:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오컬트 무비  '검은 수녀들' .. "몰입감, 디테일, 완성도"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=344761</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=344761</guid>
+            <pubDate>Mon, 06 Jan 2025 04:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=344761">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250106130010_f969b79afd804b867661323ec04b8d61.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344761">오컬트 무비  '검은 수녀들' .. "몰입감, 디테일, 완성도"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250106130010_f969b79afd804b867661323ec04b8d61.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['캡틴 아메리카: 브레이브 뉴 월드' 뉴 캡틴, 안소니 마키]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=344738</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=343988">뉴페이스 문우진, 악령에 사로잡히다..  영화 '검은 수녀들'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241227083020_5ddd08e7093f4e967e3a3c30b14307ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로마 4대 대성당, 스크린으로 만난다... '성 베드로 대성당과 로마 교황청 대성당들']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=344189</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=344189</guid>
-            <pubDate>Wed, 01 Jan 2025 00:42:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=344189">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241231075012_5d06e79ed00a4b73cf43fddc034784c3.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344189">로마 4대 대성당, 스크린으로 만난다... '성 베드로 대성당과 로마 교황청 대성당들'</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20241231075012_5d06e79ed00a4b73cf43fddc034784c3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
