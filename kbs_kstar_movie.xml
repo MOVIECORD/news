@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jan 2025 23:10:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jan 2025 00:39:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김남길 "소설 속 이야기가 벌어졌다!" ... 영화 '브로큰']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=344950</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=344950</guid>
+            <pubDate>Wed, 08 Jan 2025 00:37:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=344950">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250108090043_c02a8f0ca056e700ecec9b7288967b1a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344950">김남길 "소설 속 이야기가 벌어졌다!" ... 영화 '브로큰'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250108090043_c02a8f0ca056e700ecec9b7288967b1a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주지훈, 신의 손 되다.. 넷플릭스 '중증외상센터' 1월 24일 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=344846</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344567">'페라리' 마이클 만 감독 + 할리우드 최고 배우들의 열정 </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250105071634_d996e69a61e553129b0ad12690d9b30e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['사일런트 러브'  세상에서 가장 슬픈 사랑 이야기. .. 목소리와 빛을 잃은 두 사람]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=344266</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=344266</guid>
-            <pubDate>Sat, 04 Jan 2025 00:35:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=344266">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250101182637_2c6b2fe918d3b318b13f1969f2c42232.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344266">'사일런트 러브'  세상에서 가장 슬픈 사랑 이야기. .. 목소리와 빛을 잃은 두 사람</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250101182637_2c6b2fe918d3b318b13f1969f2c42232.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
