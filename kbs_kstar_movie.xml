@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jan 2025 20:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jan 2025 21:08:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['중증외상센터'  중증외상팀을 심폐소생하라!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=345143</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345143</guid>
+            <pubDate>Thu, 09 Jan 2025 21:07:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345143">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250109175257_6453d7afde3c740e9c98b517641641b7.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345143">'중증외상센터'  중증외상팀을 심폐소생하라!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250109175257_6453d7afde3c740e9c98b517641641b7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해리슨 포드  "한 솔로, 인디아너 존스, 그리고, 로스 미국 대통령"... 캡틴 아메리카: 브레이브 뉴 월드]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=345123</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344738">'캡틴 아메리카: 브레이브 뉴 월드' 뉴 캡틴, 안소니 마키</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250106112411_c9bbd06eeb44a9206b4732fb1a77dbf0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[김혜수-정성일-주종혁  '트리거' 예고편 공개.. "카메라로 나쁜 놈들 까발리러 왔다!"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=344716</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=344716</guid>
-            <pubDate>Mon, 06 Jan 2025 02:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=344716">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250106104354_e9a58da1cf02a501659480f6f275e3e3.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344716">김혜수-정성일-주종혁  '트리거' 예고편 공개.. "카메라로 나쁜 놈들 까발리러 왔다!"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250106104354_e9a58da1cf02a501659480f6f275e3e3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
