@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jan 2025 08:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jan 2025 09:10:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여에스더-홍혜걸, 각집살이 애정행각.. '박원숙의 같이 삽시다']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=345100</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345100</guid>
+            <pubDate>Thu, 09 Jan 2025 09:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345100">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250109090327_838f114d7d0eb0ce1ac5b44c64501929.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345100">여에스더-홍혜걸, 각집살이 애정행각.. '박원숙의 같이 삽시다'</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%203">박원숙의 같이 삽시다 3</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250109090327_838f114d7d0eb0ce1ac5b44c64501929.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["이찬원 김연자 진성 박서진까지..."… KBS트롯대잔치, 최정상 트로트 가수 총출동]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=345117</link>
@@ -345,24 +363,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B3%BC%ED%95%99%EC%88%98%EC%82%AC%EB%8C%80%20%EC%8A%A4%EB%AA%A8%ED%82%B9%20%EA%B1%B4">과학수사대 스모킹 건</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250108002207_3ad66b199bc49e37b683596573a84449_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[스모킹 건] 타인의 납치 사건에서 시작된 콘크리트 알몸 암매장 사건의 전말]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=344896</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=344896</guid>
-            <pubDate>Tue, 07 Jan 2025 16:26:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=344896">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250108002106_c2bb3af91eb7110645099c02559bb334_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344896">[스모킹 건] 타인의 납치 사건에서 시작된 콘크리트 알몸 암매장 사건의 전말</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B3%BC%ED%95%99%EC%88%98%EC%82%AC%EB%8C%80%20%EC%8A%A4%EB%AA%A8%ED%82%B9%20%EA%B1%B4">과학수사대 스모킹 건</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250108002106_c2bb3af91eb7110645099c02559bb334_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
