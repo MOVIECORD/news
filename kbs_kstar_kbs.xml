@@ -4,7 +4,7 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jan 2025 21:04:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jan 2025 22:04:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,24 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%88%98%EC%83%81%ED%95%9C%20%EA%B7%B8%EB%85%80">수목드라마 수상한 그녀</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250111082709_16fbef1a67f88553753ca73db212071d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인간극장] 목사님은 트로트를 좋아해.. ‘하나님의 뽕짝가수’ 구자억 목사]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=345322</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345322</guid>
+            <pubDate>Sun, 12 Jan 2025 22:03:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345322">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250110163703_277c9d87cb6466801a9ba4db11fa915c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345322">[인간극장] 목사님은 트로트를 좋아해.. ‘하나님의 뽕짝가수’ 구자억 목사</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%B8%EA%B0%84%EA%B7%B9%EC%9E%A5">인간극장</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250110163703_277c9d87cb6466801a9ba4db11fa915c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마광숙이 된 엄지원..  “재밌는 대본과 나와 닮은 캐릭터에 끌려”]]></title>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8B%A4%EB%A6%AC%EB%AF%B8%20%ED%8C%A8%EB%B0%80%EB%A6%AC">주말드라마 다리미 패밀리</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250111225647_8e1a97d2790526f877a4d5d37bbe0a56_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[다리미 패밀리] 김혜은 “내 돈 여기 있다” ... 경찰과 산에 묻힌 돈 100억 확인]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=345471</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345471</guid>
-            <pubDate>Sat, 11 Jan 2025 14:03:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345471">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250111223640_5da6d029976a820324d193bef9195cd7_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345471">[다리미 패밀리] 김혜은 “내 돈 여기 있다” ... 경찰과 산에 묻힌 돈 100억 확인</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8B%A4%EB%A6%AC%EB%AF%B8%20%ED%8C%A8%EB%B0%80%EB%A6%AC">주말드라마 다리미 패밀리</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250111223640_5da6d029976a820324d193bef9195cd7_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
