@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jan 2025 08:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jan 2025 09:08:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['콘크리트 사파리' 1부 동물원 잔혹사 (12일 오후 9시 40분 KBS 1TV)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=345503</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345503</guid>
+            <pubDate>Sun, 12 Jan 2025 09:07:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345503">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250112171054_504196ef922d2116ec738828b855d717.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345503">'콘크리트 사파리' 1부 동물원 잔혹사 (12일 오후 9시 40분 KBS 1TV)</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B8%B8%20%EC%9E%83%EC%9D%80%20%EC%95%BC%EC%83%9D%EB%8F%99%EB%AC%BC%20%27%EC%BD%98%ED%81%AC%EB%A6%AC%ED%8A%B8%20%EC%82%AC%ED%8C%8C%EB%A6%AC%27">길 잃은 야생동물 '콘크리트 사파리'</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250112171054_504196ef922d2116ec738828b855d717.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김종민, "저 장가갑니다!"  (1박2일)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=345496</link>
@@ -346,24 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250111070051_9a181f1acfd690a489fda4a710da168d_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[걸어서 세계속으로] 마카오의 매력.. 동서양의 완벽한 어울림]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=345247</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345247</guid>
-            <pubDate>Fri, 10 Jan 2025 22:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345247">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250110072547_7f12d20c58edd992dd787d568afc45bc.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345247">[걸어서 세계속으로] 마카오의 매력.. 동서양의 완벽한 어울림</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B1%B8%EC%96%B4%EC%84%9C%20%EC%84%B8%EA%B3%84%EC%86%8D%EC%9C%BC%EB%A1%9C">걸어서 세계속으로</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250110072547_7f12d20c58edd992dd787d568afc45bc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
