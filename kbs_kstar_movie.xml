@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jan 2025 22:04:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jan 2025 23:08:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 조유리 “222번 준희와 333번 명기, 그리고 뱃속의 아기” (넷플릭스 ‘오징어게임2’)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=345542</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345542</guid>
+            <pubDate>Sun, 12 Jan 2025 23:07:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345542">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250113072632_6225c616c0db6728936e9836d9f7623a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345542">[인터뷰] 조유리 “222번 준희와 333번 명기, 그리고 뱃속의 아기” (넷플릭스 ‘오징어게임2’)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250113072632_6225c616c0db6728936e9836d9f7623a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고아라, 셀러브리티 공주 화리 변신.. 티빙  '춘화연애담']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=345235</link>
@@ -80,7 +97,7 @@
             <link>https://kstar.kbs.co.kr/list_view.html?idx=345258</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=345258</guid>
             <pubDate>Sun, 12 Jan 2025 07:07:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345258">	<span class="img-box ww">
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345258">	<span class="img-box hh">
 		<span class="img-thum">
 			<span class="img-center">
 				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250110073838_2d721cb9bf3d851649b5a5ad0ea0b50b_1.jpg" alt="대체 텍스트">
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344829">골든글로브 각본상 수상작 '콘클라베' 상반기 개봉 예정</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250107092005_3ad786a43797a179796f11555a47be09.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 이정재  “내가 시즌에서 살아남을 상인가” (넷플릭스 오징어게임2)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=344855</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=344855</guid>
-            <pubDate>Sun, 12 Jan 2025 07:07:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=344855">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250107134225_941013e614c6d9d98ab28f97f0450e82.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344855">[인터뷰] 이정재  “내가 시즌에서 살아남을 상인가” (넷플릭스 오징어게임2)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250107134225_941013e614c6d9d98ab28f97f0450e82.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
