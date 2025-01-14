@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jan 2025 20:10:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2025 21:08:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['스페이스 공감' 페퍼톤스, 한국대중음악 명반 100]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=345229</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345229</guid>
+            <pubDate>Tue, 14 Jan 2025 21:07:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345229">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250110071401_9425af44a91604314aa6194de338fd8a_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345229"> '스페이스 공감' 페퍼톤스, 한국대중음악 명반 100</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250110071401_9425af44a91604314aa6194de338fd8a_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['로코퀸' 이세영, 23년 첫사랑 지강희 (모텔 캘리포니아)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=345579</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344692">'톡파원 25시' 타쿠야, 도야마를 가다</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250106101813_cba527662027252a82dd265e4dc77dea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['별들에게 물어봐' 2회..  이민호, 커맨더 공효진과 손잡고 환상의 호흡]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=344755</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=344755</guid>
-            <pubDate>Mon, 06 Jan 2025 04:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=344755">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250106124011_b7865e740cb4f50216333ee91268bc12.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=344755">'별들에게 물어봐' 2회..  이민호, 커맨더 공효진과 손잡고 환상의 호흡 </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250106124011_b7865e740cb4f50216333ee91268bc12.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
