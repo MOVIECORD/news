@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jan 2025 23:08:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2025 00:38:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] ‘노스페라투’  드라큘라는 오늘 밤 잠들지 않는다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=345713</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345713</guid>
+            <pubDate>Tue, 14 Jan 2025 00:37:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345713">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250114091819_63b85e8f67f89a92766e1b50c325852d.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345713">[리뷰] ‘노스페라투’  드라큘라는 오늘 밤 잠들지 않는다 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250114091819_63b85e8f67f89a92766e1b50c325852d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수지-이진욱-유지태-금새록,  영화 '실연당한 사람들을 위한 모임'  캐스팅]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=345684</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345077">'검은 수녀들'..  금기를 깨는 수녀, 고통받는 부마자</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250109081132_cf11147e0a3bb2ff0a6bd941bf41b537.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[플러스엠 시나리오 공모전 시상식 .. '진주, 귀고리를 한 소녀' 대상]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=345047</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345047</guid>
-            <pubDate>Sun, 12 Jan 2025 07:07:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345047">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250109074237_b73ed84321be445b2b6a1359be8f807a_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345047">플러스엠 시나리오 공모전 시상식 .. '진주, 귀고리를 한 소녀' 대상</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250109074237_b73ed84321be445b2b6a1359be8f807a_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
