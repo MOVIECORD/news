@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jan 2025 23:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jan 2025 00:37:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 최승현 "놉!  빨주노초~, I'm a legend 타노스" (넷플릭스 ‘오징어게임2’)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=345899</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345899</guid>
+            <pubDate>Thu, 16 Jan 2025 00:35:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345899">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250116085411_f4a44fb20bf39ae0ee4577d84a071c6b.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345899">[인터뷰] 최승현 "놉!  빨주노초~, I'm a legend 타노스" (넷플릭스 ‘오징어게임2’) </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250116085411_f4a44fb20bf39ae0ee4577d84a071c6b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비브라늄 슈트 장착, 샘 윌슨=뉴 캡틴 아메리카.. '브레이브 뉴 월드']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=345777</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345399">'더 폴' 타셈 감독  "CG없이 인생영화 만들기" </a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250111073416_d2a7d67379c7d4f3b0d556ca48e0232f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['타오르는 여인의 초상' 다시 타오른다.. 롯데시네마 특별 상영]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=345258</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345258</guid>
-            <pubDate>Sun, 12 Jan 2025 07:07:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345258">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250110073838_2d721cb9bf3d851649b5a5ad0ea0b50b_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345258">'타오르는 여인의 초상' 다시 타오른다.. 롯데시네마 특별 상영</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250110073838_2d721cb9bf3d851649b5a5ad0ea0b50b_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
