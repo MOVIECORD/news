@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jan 2025 02:07:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 03:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[민규동 감독 신작 '파과' 베를린국제영화제 공식 초청]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=346080</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=346080</guid>
+            <pubDate>Fri, 17 Jan 2025 03:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=346080">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250117112238_1dad6f7f68d3629755ff8ffaed0a275a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=346080">민규동 감독 신작 '파과' 베를린국제영화제 공식 초청</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250117112238_1dad6f7f68d3629755ff8ffaed0a275a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['브루탈리스트'  2월 개봉... "모든 프레임이 영화적 걸작"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=346075</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345567">윤은경 감독 '세입자' 컬러 버전  공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250113093335_a194853e7a18ad3fff0145a4a099225f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["특별한 점 있나요?"  오징어 게임' 시즌2 스페셜포스터]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=345561</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345561</guid>
-            <pubDate>Mon, 13 Jan 2025 00:40:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345561">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250113092716_9145d566929fe25ce33c5c2268bf0464_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345561">"특별한 점 있나요?"  오징어 게임' 시즌2 스페셜포스터</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250113092716_9145d566929fe25ce33c5c2268bf0464_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
