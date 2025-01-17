@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jan 2025 04:11:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 05:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안재욱, 순정남 '한동석'...  “단숨에 읽을 정도로 재밌는 대본”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=346131</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=346131</guid>
+            <pubDate>Fri, 17 Jan 2025 05:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=346131">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250117133031_a0c2c4efa906635baafed5be2dbc62ea.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=346131">안재욱, 순정남 '한동석'...  “단숨에 읽을 정도로 재밌는 대본”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8F%85%EC%88%98%EB%A6%AC%205%ED%98%95%EC%A0%9C%EB%A5%BC%20%EB%B6%80%ED%83%81%ED%95%B4%21">주말드라마 독수리 5형제를 부탁해!</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250117133031_a0c2c4efa906635baafed5be2dbc62ea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진영->정지소 “절대 너 다치게 안 하니까”  (수상한 그녀)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=346040</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250115221545_b1a9285eabe09ec604259630cb14f5ee_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[슈퍼맨이 돌아왔다] 시우 동생 ‘땡콩이’ 탄생! 둘째 낳고 21일 만에 방송 출연한 슈퍼 엄마 혜림]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=345866</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345866</guid>
-            <pubDate>Wed, 15 Jan 2025 13:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345866">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250115220840_79cbf7353e72298e244d94b17efb4288_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345866">[슈퍼맨이 돌아왔다] 시우 동생 ‘땡콩이’ 탄생! 둘째 낳고 21일 만에 방송 출연한 슈퍼 엄마 혜림</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250115220840_79cbf7353e72298e244d94b17efb4288_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
