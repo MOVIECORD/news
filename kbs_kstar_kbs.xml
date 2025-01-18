@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jan 2025 22:06:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jan 2025 23:05:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상앨범 산] 옛이야기와 함께 걷다 – 함양 삼봉산, 금대산]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=346093</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=346093</guid>
+            <pubDate>Sat, 18 Jan 2025 23:04:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=346093">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250117122131_e41e4cd2b3cd616362cb198fbecdd9af.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=346093">[영상앨범 산] 옛이야기와 함께 걷다 – 함양 삼봉산, 금대산</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%81%EC%83%81%EC%95%A8%EB%B2%94%20%EC%82%B0">영상앨범 산</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250117122131_e41e4cd2b3cd616362cb198fbecdd9af.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[다리미 패밀리] 김정현, 금새록과 헤어질 다짐->키스->무너지는 결심 ‘무한반복’]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=346331</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250117220236_448ce063d7eff213f5cb10cdf22f1887_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[뮤직뱅크] 전국민 위로송으로 역주행 인기몰이...황가람 ‘나는 반딧불’ 무대]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=346222</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=346222</guid>
-            <pubDate>Sat, 18 Jan 2025 12:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=346222">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250117214315_f02296c68b620dbfccd5d05d5e321aea.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=346222">[뮤직뱅크] 전국민 위로송으로 역주행 인기몰이...황가람 ‘나는 반딧불’ 무대</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250117214315_f02296c68b620dbfccd5d05d5e321aea.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
