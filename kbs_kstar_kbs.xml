@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jan 2025 20:09:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jan 2025 21:05:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이준영X정은지, 헬스클럽에서 만나다... KBS 드라마 '24시 헬스클럽']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=346151</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=346151</guid>
+            <pubDate>Sun, 19 Jan 2025 21:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=346151">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250117135305_2463d30dfd8d9369ed630a23189b0ab4.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=346151">이준영X정은지, 헬스클럽에서 만나다... KBS 드라마 '24시 헬스클럽'</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250117135305_2463d30dfd8d9369ed630a23189b0ab4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[다리미 패밀리] 세탁소 식구 전부 체포하는 김선경...김정현 “나도 공범”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=346411</link>
@@ -348,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8B%A4%EB%A6%AC%EB%AF%B8%20%ED%8C%A8%EB%B0%80%EB%A6%AC">주말드라마 다리미 패밀리</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250118224532_ea8c8785bcfebdd84d34df87b55421b8_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[불후의 명곡] ‘차세대 국민엄마’ 정영주, 김해숙 위한 노래...‘내 하나의 사람은 가고’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=346315</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=346315</guid>
-            <pubDate>Sat, 18 Jan 2025 14:02:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=346315">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250118223459_5efba119e494b7b021736b5f801cadbd_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=346315">[불후의 명곡] ‘차세대 국민엄마’ 정영주, 김해숙 위한 노래...‘내 하나의 사람은 가고’</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250118223459_5efba119e494b7b021736b5f801cadbd_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
