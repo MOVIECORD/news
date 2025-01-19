@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jan 2025 22:04:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jan 2025 23:05:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] '스타워즈: 스켈레톤 크루'  멀고 먼 우주 저 너머, 보물행성이 있었느니... (디즈니플러스)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=346379</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=346379</guid>
+            <pubDate>Sun, 19 Jan 2025 23:03:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=346379">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250119133225_88a714b2bc3894035a4df18250e40b1e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=346379">[리뷰] '스타워즈: 스켈레톤 크루'  멀고 먼 우주 저 너머, 보물행성이 있었느니... (디즈니플러스)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250119133225_88a714b2bc3894035a4df18250e40b1e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“첫사랑의 기억을 깨우다” ... 영화. '첫 번째 키스'  2월 개봉]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=346416</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345839">"열혈피디 김혜수의 직진 카메라"...  디즈니플러스 '트리거' 오늘 시작</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250115093540_05891a81876912ecb158f93119bb80de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플TV+ 스릴러 ‘프라임 타겟’, 1월 22일 전 세계 동시 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=345771</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345771</guid>
-            <pubDate>Wed, 15 Jan 2025 00:36:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345771">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250115090458_ee20c744c0c24b941df6a5b29c604d21.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345771">  애플TV+ 스릴러 ‘프라임 타겟’, 1월 22일 전 세계 동시 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250115090458_ee20c744c0c24b941df6a5b29c604d21.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
