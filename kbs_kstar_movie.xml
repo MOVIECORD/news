@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jan 2025 23:05:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 00:38:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 '검은 수녀들'.. "금지된 의식, 살아나는 공포"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=346438</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=346438</guid>
+            <pubDate>Mon, 20 Jan 2025 00:37:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=346438">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250120081200_33c19117b4f38943d4ac0bcdbf7e50f6.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=346438">영화 '검은 수녀들'.. "금지된 의식, 살아나는 공포"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250120081200_33c19117b4f38943d4ac0bcdbf7e50f6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] '스타워즈: 스켈레톤 크루'  멀고 먼 우주 저 너머, 보물행성이 있었느니... (디즈니플러스)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=346379</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345777"> 비브라늄 슈트 장착, 샘 윌슨=뉴 캡틴 아메리카.. '브레이브 뉴 월드'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250115090155_7ea542d0030a13051f075f9168610ebd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["열혈피디 김혜수의 직진 카메라"...  디즈니플러스 '트리거' 오늘 시작]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=345839</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=345839</guid>
-            <pubDate>Wed, 15 Jan 2025 00:36:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=345839">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250115093540_05891a81876912ecb158f93119bb80de.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=345839">"열혈피디 김혜수의 직진 카메라"...  디즈니플러스 '트리거' 오늘 시작</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250115093540_05891a81876912ecb158f93119bb80de.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
