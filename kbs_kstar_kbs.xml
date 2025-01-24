@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jan 2025 11:03:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jan 2025 12:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[추적 60분] 사기가 된 예술, 갤러리K 아트테크]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=346957</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=346957</guid>
+            <pubDate>Fri, 24 Jan 2025 12:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=346957">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250124083735_be51b14f9ec39829679033f1d229ba49.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=346957">[추적 60분] 사기가 된 예술, 갤러리K 아트테크</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%B6%94%EC%A0%81%2060%EB%B6%84">추적 60분</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250124083735_be51b14f9ec39829679033f1d229ba49.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이영지의 레인보우] 뮤지션 꽃이 피었습니다- 딕펑스 JAMIE 민니 완선&슬기 박진영]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=347010</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%88%98%EC%83%81%ED%95%9C%20%EA%B7%B8%EB%85%80">수목드라마 수상한 그녀</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250123004314_eeec6b9d39055e8efa9d384e0d7562f2_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[수상한 그녀] 차화연이 생모라는 사실 알고도 7년 동안 비밀 지켰던 진영]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=346776</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=346776</guid>
-            <pubDate>Wed, 22 Jan 2025 16:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=346776">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250123002428_0dc8aa2aba11187cf92010c49bf9c623_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=346776">[수상한 그녀] 차화연이 생모라는 사실 알고도 7년 동안 비밀 지켰던 진영</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%88%98%EC%83%81%ED%95%9C%20%EA%B7%B8%EB%85%80">수목드라마 수상한 그녀</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250123002428_0dc8aa2aba11187cf92010c49bf9c623_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
