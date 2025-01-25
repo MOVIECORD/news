@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jan 2025 08:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jan 2025 09:07:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[동네 한 바퀴] 푸른 기운 가득하다 - 강월 영월군 편]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=346969</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=346969</guid>
+            <pubDate>Sat, 25 Jan 2025 09:06:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=346969">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250124084325_71f39db8df819af872837d6836f36b17.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=346969">[동네 한 바퀴] 푸른 기운 가득하다 - 강월 영월군 편 </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8F%99%EB%84%A4%20%ED%95%9C%20%EB%B0%94%ED%80%B4">동네 한 바퀴</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250124084325_71f39db8df819af872837d6836f36b17.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[다리미 패밀리] 김정현, 김혜은에게 청렴세탁소를 부탁해]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=347135</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8F%85%EC%88%98%EB%A6%AC%205%ED%98%95%EC%A0%9C%EB%A5%BC%20%EB%B6%80%ED%83%81%ED%95%B4%21">주말드라마 독수리 5형제를 부탁해!</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250123154506_e4e1d14b70bdde4a8967bcf7b4c94520.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[수상한 그녀 종영] ★기적은 이루어진다★ 소멸 후 1년 만에 재회한 정지소♥진영, 감동 엔딩~]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=346908</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=346908</guid>
-            <pubDate>Thu, 23 Jan 2025 16:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=346908">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250124001938_c4e02b843625a0e13a285259861e8e6b_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=346908">[수상한 그녀 종영] ★기적은 이루어진다★ 소멸 후 1년 만에 재회한 정지소♥진영, 감동 엔딩~</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%88%98%EC%83%81%ED%95%9C%20%EA%B7%B8%EB%85%80">수목드라마 수상한 그녀</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250124001938_c4e02b843625a0e13a285259861e8e6b_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
