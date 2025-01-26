@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jan 2025 10:06:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jan 2025 11:03:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[금새록, ‘다리미 패밀리’ 종영소감..  “실감나지 않지만 다림이 안녕”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=347258</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=347258</guid>
+            <pubDate>Sun, 26 Jan 2025 11:02:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=347258">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250126200208_d2a70bad2b4f495d2c62000cbef84edb.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=347258"> 금새록, ‘다리미 패밀리’ 종영소감..  “실감나지 않지만 다림이 안녕”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8B%A4%EB%A6%AC%EB%AF%B8%20%ED%8C%A8%EB%B0%80%EB%A6%AC">주말드라마 다리미 패밀리</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250126200208_d2a70bad2b4f495d2c62000cbef84edb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[당나귀 귀] 박명수, 배구 캐스터 도전.. “참으로 어처구니없는 일이 아닐 수 없습니다”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=347152</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EA%B1%B8%EC%96%B4%EC%84%9C%20%EC%84%B8%EA%B3%84%EC%86%8D%EC%9C%BC%EB%A1%9C">걸어서 세계속으로</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250125061846_c3d2ea3f5da6403c7b64ae599b410dca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신상출시 편스토랑] 요리 가운 속에 숨어있던 이상우의 퍼펙트 바디...과감한 상의 탈의]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=347087</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=347087</guid>
-            <pubDate>Fri, 24 Jan 2025 20:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=347087">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250125045152_7bc7503d3ef65eac3a24abf1d6cf22f4_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=347087">[신상출시 편스토랑] 요리 가운 속에 숨어있던 이상우의 퍼펙트 바디...과감한 상의 탈의</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상출시 편스토랑</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250125045152_7bc7503d3ef65eac3a24abf1d6cf22f4_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
