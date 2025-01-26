@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jan 2025 22:04:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jan 2025 23:06:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KBS, 설날 맞이 특집 방송… "트롯대잔치, 특집 예능과 다큐까지"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=346981</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=346981</guid>
+            <pubDate>Sun, 26 Jan 2025 23:05:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=346981">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250124084857_48b16fd358837a1f7c8693ce9fb14220.jpeg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=346981"> KBS, 설날 맞이 특집 방송… "트롯대잔치, 특집 예능과 다큐까지"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250124084857_48b16fd358837a1f7c8693ce9fb14220.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[다리미 패밀리] 가족들 출소...김정현-금새록 재결합 ‘꽉 막힌 해피엔딩’]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=347290</link>
@@ -348,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250125213047_ad88c1c7ae93ea3c46c480cdd4313e71.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[불후의 명곡] 은가은×박현호 예비부부 환상호흡 무대...“이찬원, 결혼식 사회·축가·혼수 무한지원”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=347175</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=347175</guid>
-            <pubDate>Sat, 25 Jan 2025 12:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=347175">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250125210847_5bbe6eb6df236f49c15c9bdfb306ec60_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=347175">[불후의 명곡] 은가은×박현호 예비부부 환상호흡 무대...“이찬원, 결혼식 사회·축가·혼수 무한지원”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250125210847_5bbe6eb6df236f49c15c9bdfb306ec60_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
