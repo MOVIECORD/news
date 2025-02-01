@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Feb 2025 13:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Feb 2025 14:04:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[불후의 명곡] ‘연봉 237억원의 사나이’ 김병현 “햄버거 가게 폐업...엄청난 고생 중”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=348060</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=348060</guid>
+            <pubDate>Sat, 01 Feb 2025 14:03:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348060">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250201222112_9e567ca9996e20d739923a29f66ec12f_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=348060">[불후의 명곡] ‘연봉 237억원의 사나이’ 김병현 “햄버거 가게 폐업...엄청난 고생 중”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250201222112_9e567ca9996e20d739923a29f66ec12f_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[불후의 명곡] 죽음의 문턱에서 살아돌아온 고명환, 개그맨->작가...한강과 베스트작가상 공동 수상]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=348056</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%203">박원숙의 같이 삽시다 3</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250130232944_01651827272a81b762d8042f4d9f2577_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[박원숙의 같이 삽시다] 경연 우승 후 코로나19로 생계 막막해진 가수 정수연 “우승이 원망스러웠다”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=347728</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=347728</guid>
-            <pubDate>Thu, 30 Jan 2025 15:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=347728">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250130231229_4d60fb9d3f897bedbc75e7bc4b919086_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=347728">[박원숙의 같이 삽시다] 경연 우승 후 코로나19로 생계 막막해진 가수 정수연 “우승이 원망스러웠다”</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%203">박원숙의 같이 삽시다 3</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250130231229_4d60fb9d3f897bedbc75e7bc4b919086_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
