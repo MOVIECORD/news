@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Feb 2025 19:03:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Feb 2025 20:09:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[동물은 훌륭하다] 공룡은 멸종되지 않았다!?]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=347956</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=347956</guid>
+            <pubDate>Sun, 02 Feb 2025 20:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=347956">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250131153615_7cb71bd5f40d8c6a42a2d008b117061a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=347956">[동물은 훌륭하다] 공룡은 멸종되지 않았다!?</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8F%99%EB%AC%BC%EC%9D%80%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">동물은 훌륭하다</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250131153615_7cb71bd5f40d8c6a42a2d008b117061a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[독수리 5형제를 부탁해!] 결혼 열흘 만에 새신랑 이필모 사망...혼자 된 엄지원]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=348160</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250201220919_0b0cdf93e13124e3b5a5a5e6694349fb_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[불후의 명곡] ‘배우->무속인’ 이건주, 트로트 앨범 낸 노래 실력...‘세월이 가면’ 열창]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=348052</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=348052</guid>
-            <pubDate>Sat, 01 Feb 2025 13:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348052">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250201220011_68ec84c9e84e5383a267b74ea71a7ef2_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=348052">[불후의 명곡] ‘배우-&gt;무속인’ 이건주, 트로트 앨범 낸 노래 실력...‘세월이 가면’ 열창</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250201220011_68ec84c9e84e5383a267b74ea71a7ef2_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
