@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Feb 2025 23:09:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 00:38:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KBS '모던코리아', 로테르담 국제영화제 초청]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=348827</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=348827</guid>
+            <pubDate>Fri, 07 Feb 2025 00:37:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348827">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250207093306_2dd573a8b06ef7e2b33ed984d1688f85.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=348827">KBS '모던코리아', 로테르담 국제영화제 초청</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250207093306_2dd573a8b06ef7e2b33ed984d1688f85.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘편스토랑’ 이상우 "배추, 직접 심습니다"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=348780</link>
@@ -345,24 +362,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%82%A5%ED%82%A5%ED%82%A5%ED%82%A5">수목드라마 킥킥킥킥</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250205230501_e4e754387217bcbb8ae533dd90976ce0_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[슈퍼맨이 돌아왔다] 돌잔치도 자급자족! 아들 시우 위해 방어 해체쇼 준비한 장동민]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=348553</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=348553</guid>
-            <pubDate>Wed, 05 Feb 2025 14:08:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348553">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250205221536_aa4802a5a679a4b985935dc33807e16c.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=348553">[슈퍼맨이 돌아왔다] 돌잔치도 자급자족! 아들 시우 위해 방어 해체쇼 준비한 장동민</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250205221536_aa4802a5a679a4b985935dc33807e16c.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
