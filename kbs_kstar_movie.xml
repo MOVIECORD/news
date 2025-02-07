@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Feb 2025 00:38:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 02:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['폭싹 속았수다' 아이유-박보검 "수고 많으셨습니다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=348834</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=348834</guid>
+            <pubDate>Fri, 07 Feb 2025 02:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348834">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250207094523_1143e4da478ae88c39838738fb3a4d27.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=348834">'폭싹 속았수다' 아이유-박보검 "수고 많으셨습니다"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250207094523_1143e4da478ae88c39838738fb3a4d27.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['선의의 경쟁' 정수빈 "악으로 깡으로 슬기롭게..우슬기"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=348798</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=348440">쿠팡플레이, 손흥민 출전 카라바오컵 4강 및 FA컵 4라운드 생중계</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250205104505_fcc7f5378e0ae0e070170a4b11b70261.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘캡틴 아메리카: 브레이브 뉴 월드’ 새로운 캡틴 샘 윌슨의 비상]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=348438</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=348438</guid>
-            <pubDate>Wed, 05 Feb 2025 02:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348438">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250205103750_c5920f4e56007a80de5508ec4f297a01.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=348438">‘캡틴 아메리카: 브레이브 뉴 월드’ 새로운 캡틴 샘 윌슨의 비상</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250205103750_c5920f4e56007a80de5508ec4f297a01.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

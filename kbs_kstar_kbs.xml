@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Feb 2025 00:38:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 02:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['불후의 명곡'  심수봉-송가인의 새해 연가]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=348847</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=348847</guid>
+            <pubDate>Fri, 07 Feb 2025 02:10:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348847">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250207100918_d5e6669ec475c63711714c54a65b23c4.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=348847">'불후의 명곡'  심수봉-송가인의 새해 연가</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1">불후의 명곡</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250207100918_d5e6669ec475c63711714c54a65b23c4.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KBS '모던코리아', 로테르담 국제영화제 초청]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=348827</link>
@@ -344,24 +362,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%82%A5%ED%82%A5%ED%82%A5%ED%82%A5">수목드라마 킥킥킥킥</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250205232015_7caccb95cac26db57b00583d2e3c86e7.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[킥킥킥킥] 손절 후 10년 만에 입맞춤 재회한 지진희+이규형의 사연은?!]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=348558</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=348558</guid>
-            <pubDate>Wed, 05 Feb 2025 14:08:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348558">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250205230501_e4e754387217bcbb8ae533dd90976ce0_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=348558">[킥킥킥킥] 손절 후 10년 만에 입맞춤 재회한 지진희+이규형의 사연은?!</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%82%A5%ED%82%A5%ED%82%A5%ED%82%A5">수목드라마 킥킥킥킥</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250205230501_e4e754387217bcbb8ae533dd90976ce0_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
