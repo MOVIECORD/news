@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Feb 2025 06:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 07:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] ‘검은 수녀들’ 구마의 길, 연대의 힘 (송혜교 전여빈 주연,2025)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=349248</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=349248</guid>
+            <pubDate>Mon, 10 Feb 2025 07:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=349248">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250210152315_aa4a7f395d04bd66e33e5ecea469d298_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=349248">[리뷰] ‘검은 수녀들’ 구마의 길, 연대의 힘 (송혜교 전여빈 주연,2025)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250210152315_aa4a7f395d04bd66e33e5ecea469d298_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["노희경 작가, 송혜교, 공유" 넷플릭스 '천천히 강렬하게​' 제작 확정]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=349221</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=348834">'폭싹 속았수다' 아이유-박보검 "수고 많으셨습니다"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250207094523_1143e4da478ae88c39838738fb3a4d27.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['선의의 경쟁' 정수빈 "악으로 깡으로 슬기롭게..우슬기"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=348798</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=348798</guid>
-            <pubDate>Fri, 07 Feb 2025 00:36:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348798">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250207085821_1be32cb4a6f2c3d54abd5bf3f5d1e971.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=348798">'선의의 경쟁' 정수빈 "악으로 깡으로 슬기롭게..우슬기"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250207085821_1be32cb4a6f2c3d54abd5bf3f5d1e971.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
