@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Feb 2025 22:08:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2025 23:09:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고통을 못 느끼는 남자, '노보케인' 3월 12일 개봉]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=349458</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=349458</guid>
+            <pubDate>Tue, 11 Feb 2025 23:07:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=349458">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250212080016_d78b686f3d5e265353a1a3340c2d6a38.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=349458">고통을 못 느끼는 남자, '노보케인' 3월 12일 개봉 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250212080016_d78b686f3d5e265353a1a3340c2d6a38.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 '사랑은 사라지지 않는다' 26일 극장 개봉]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=349360</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=349018">이혜리, ‘선의의 경쟁’서 반전 매력.. 완벽한 1등의 숨겨진 얼굴</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250208211750_f8a419e845b6c50c3df831cd7290f81f.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['선의의 경쟁' 오우리, "고민 많은 고3, 비밀을 간직한 '최경'"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=348810</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=348810</guid>
-            <pubDate>Sat, 08 Feb 2025 16:07:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=348810">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250207091404_c7897ea3539bde0e979eaa3f4108a6f5.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=348810"> '선의의 경쟁' 오우리, "고민 많은 고3, 비밀을 간직한 '최경'"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250207091404_c7897ea3539bde0e979eaa3f4108a6f5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
