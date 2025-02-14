@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Feb 2025 16:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 17:06:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뮤직뱅크] 1위 후보 아이브 vs 아이브...‘레블하트’로 1위]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=349961</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=349961</guid>
+            <pubDate>Fri, 14 Feb 2025 17:05:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=349961">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250215011134_1a7049fc238140b0c2d3c6119b6dbb30_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=349961">[뮤직뱅크] 1위 후보 아이브 vs 아이브...‘레블하트’로 1위 </a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250215011134_1a7049fc238140b0c2d3c6119b6dbb30_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["박보검의 계절이 온다"... '더 시즌즈' 차기 진행자 낙점]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=349957</link>
@@ -345,24 +363,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%82%B4%EB%A6%BC%ED%95%98%EB%8A%94%20%EB%82%A8%EC%9E%90%EB%93%A4">살림하는 남자들</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250213092418_e192336d00cf88e3f889aff2754a71a6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최예나-은찬(템페스트) 드라마 도전... 시트콤 '빌런의 나라' 합류]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=349569</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=349569</guid>
-            <pubDate>Wed, 12 Feb 2025 20:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=349569">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250212132522_2a98fbc3367c955f916873569943b348.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=349569">최예나-은찬(템페스트) 드라마 도전... 시트콤 '빌런의 나라' 합류</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%B9%8C%EB%9F%B0%EC%9D%98%20%EB%82%98%EB%9D%BC">수목드라마 빌런의 나라</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250212132522_2a98fbc3367c955f916873569943b348.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
