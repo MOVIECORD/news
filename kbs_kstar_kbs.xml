@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Feb 2025 22:06:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 23:09:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뮤직뱅크] 블링원의 화사한 매력 '버블검']]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=349996</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=349996</guid>
+            <pubDate>Fri, 14 Feb 2025 23:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=349996">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250215075236_13ef87ea38383625ad6eb4c9acd7cdf4.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=349996">[뮤직뱅크] 블링원의 화사한 매력 '버블검'</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250215075236_13ef87ea38383625ad6eb4c9acd7cdf4.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[불후의 명곡] 심수봉&송가인의 새해 연가 2부]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=349946</link>
@@ -346,24 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%82%A5%ED%82%A5%ED%82%A5%ED%82%A5">수목드라마 킥킥킥킥</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250213233442_17f691c4d2de2556711623e2a5422354_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[킥킥킥킥] 대문자 T 이민재 선긋기에 전소영 발끈 “저 마음에 안 들죠?”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=349836</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=349836</guid>
-            <pubDate>Thu, 13 Feb 2025 15:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=349836">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250213232421_7fdd016647b36d5ce4c15c187442f26f_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=349836">[킥킥킥킥] 대문자 T 이민재 선긋기에 전소영 발끈 “저 마음에 안 들죠?” </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%82%A5%ED%82%A5%ED%82%A5%ED%82%A5">수목드라마 킥킥킥킥</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250213232421_7fdd016647b36d5ce4c15c187442f26f_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

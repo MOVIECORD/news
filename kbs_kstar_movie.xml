@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Feb 2025 22:06:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 23:09:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['히트맨2' 히트다 히트...  1편 넘어선 240만 관객]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=350001</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=350001</guid>
+            <pubDate>Fri, 14 Feb 2025 23:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=350001">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250215075857_6c4ebb8b5c84d0a3b85cffaf52a9a7ef_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=350001">'히트맨2' 히트다 히트...  1편 넘어선 240만 관객</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250215075857_6c4ebb8b5c84d0a3b85cffaf52a9a7ef_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['뉴토피아' 오늘 3화 공개.. "A타워도, 강남 스트리트도 좀비 천지!"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=349930</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=349372">"미키 또 미키"  봉준호 감독 [미키 17]</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250211085858_294ed57b6b4fe611b17a262112cc6ee8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안야 테일러 조이 X 마일스 텔러의 치열한 생존기 ‘더 캐니언’.. 애플tv+ 14일 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=349366</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=349366</guid>
-            <pubDate>Tue, 11 Feb 2025 00:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=349366">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250211085340_07fbf3d4f211c43dccf0d73d649689ca.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=349366">안야 테일러 조이 X 마일스 텔러의 치열한 생존기 ‘더 캐니언’.. 애플tv+ 14일 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250211085340_07fbf3d4f211c43dccf0d73d649689ca.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
