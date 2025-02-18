@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Feb 2025 19:03:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2025 20:10:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘킥킥킥킥’ 지진희-이규형, "앙숙이지만 케미가 좋습니다"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=350403</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=350403</guid>
+            <pubDate>Tue, 18 Feb 2025 20:09:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=350403">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250218153004_4a8455c02adab9e1096d27fbff6c9320.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=350403">‘킥킥킥킥’ 지진희-이규형, "앙숙이지만 케미가 좋습니다"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%82%A5%ED%82%A5%ED%82%A5%ED%82%A5">수목드라마 킥킥킥킥</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250218153004_4a8455c02adab9e1096d27fbff6c9320.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스모킹 건] 변호사, 투자가 모든 신분이 가짜였던 용의자… 피해자 돈 탕진하고 입막음 위해 살해 계획]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=350469</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8B%A0%EB%8D%B0%EB%A0%90%EB%9D%BC%20%EA%B2%8C%EC%9E%84">일일드라마 신데렐라 게임</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250217211931_bdbc867d2090c733a5c30a8dae4b2cc4_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[신데렐라 게임] 입양 가정 조사 중 아동학대 신고받고 출동한 경찰, 한그루 결백 확인 후 박리원 피의자 지목]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=350289</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=350289</guid>
-            <pubDate>Mon, 17 Feb 2025 12:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=350289">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250217205240_8d8f0e9ec6d13937dbbf4b777b0b3bfb_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=350289">[신데렐라 게임] 입양 가정 조사 중 아동학대 신고받고 출동한 경찰, 한그루 결백 확인 후 박리원 피의자 지목</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8B%A0%EB%8D%B0%EB%A0%90%EB%9D%BC%20%EA%B2%8C%EC%9E%84">일일드라마 신데렐라 게임</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250217205240_8d8f0e9ec6d13937dbbf4b777b0b3bfb_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
