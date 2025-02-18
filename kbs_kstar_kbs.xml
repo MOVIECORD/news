@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Feb 2025 06:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2025 07:10:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['셀럽병사의 비밀' 이 멤버 이대로..  시즌2!]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=350413</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=350413</guid>
+            <pubDate>Tue, 18 Feb 2025 07:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=350413">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250218153321_9d1b5f2c5c941005952a5863a950eb1d_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=350413">'셀럽병사의 비밀' 이 멤버 이대로..  시즌2!</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250218153321_9d1b5f2c5c941005952a5863a950eb1d_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[셀럽병사의 비밀] 김현식과 유재하.. "11월 1일의 슬픔"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=350251</link>
@@ -348,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8F%85%EC%88%98%EB%A6%AC%205%ED%98%95%EC%A0%9C%EB%A5%BC%20%EB%B6%80%ED%83%81%ED%95%B4%21">주말드라마 독수리 5형제를 부탁해!</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250216230306_1461b7acb621f5e9f003711d4960e036_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[오래된 만남 추구] 인연 여행 첫날밤, 얽히고설킨 관계]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=350147</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=350147</guid>
-            <pubDate>Sun, 16 Feb 2025 13:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=350147">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250216210855_36ada0543cf8879c64181b5a7c5cf835_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=350147">[오래된 만남 추구] 인연 여행 첫날밤, 얽히고설킨 관계</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A4%EB%9E%98%EB%90%9C%20%EB%A7%8C%EB%82%A8%20%EC%B6%94%EA%B5%AC">오래된 만남 추구</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250216210855_36ada0543cf8879c64181b5a7c5cf835_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
