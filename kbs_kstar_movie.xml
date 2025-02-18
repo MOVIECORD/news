@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Feb 2025 22:09:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2025 23:09:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[픽사 시리즈 '모두의 리그: 이기거나 지거나'... "우리 팀원들 정말 대견해~"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=350502</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=350502</guid>
+            <pubDate>Tue, 18 Feb 2025 23:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=350502">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250219074601_191a1551259594dca227c0fa2492031c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=350502">픽사 시리즈 '모두의 리그: 이기거나 지거나'... "우리 팀원들 정말 대견해~"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250219074601_191a1551259594dca227c0fa2492031c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘신들린 연애2’, 쿠팡플레이에서도 본다]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=350369</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=349867">'솔로지옥'.. 시즌5 만든다</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250214065348_d6ce38bdb5ff44f00d92228e62af08be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['카라바조. 영혼과 피' .. 초고화질로 만나는 바로크 예술]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=349861</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=349861</guid>
-            <pubDate>Thu, 13 Feb 2025 22:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=349861">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250214064451_f025716a331992272d2a4630800955df.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=349861">'카라바조. 영혼과 피' .. 초고화질로 만나는 바로크 예술</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250214064451_f025716a331992272d2a4630800955df.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
