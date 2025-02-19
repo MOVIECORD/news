@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Feb 2025 11:04:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 12:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,24 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250214063238_2d8d9d78d0f0f0020c41c46a1ad6b961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['킥킥킥킥' 지진희, "MZ와 소통합니다" (KBS연예 ─ KBS)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=350485</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=350485</guid>
+            <pubDate>Wed, 19 Feb 2025 12:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=350485">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250219073024_fffd8c727f5c341ebf3d6048a0b3971f_1.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=350485">'킥킥킥킥' 지진희, "MZ와 소통합니다"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%82%A5%ED%82%A5%ED%82%A5%ED%82%A5">수목드라마 킥킥킥킥</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250219073024_fffd8c727f5c341ebf3d6048a0b3971f_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[나영석, '이영지 레인보우' 마지막 무대 응원 (KBS연예 ─ KBS)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=350525</link>
             <guid>https://kstar.kbs.co.kr/list_view.html?idx=350525</guid>
@@ -1029,24 +1047,6 @@
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250217232923_0cd44ec5f0861b2a6a9a00f41e3efa92_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[동물은 훌륭하다] 극단적 선택까지 고민하게 만든 역대급 입질견 ‘다롱이’ (KBS연예 ─ KBS)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=350314</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=350314</guid>
-            <pubDate>Mon, 17 Feb 2025 15:09:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=350314">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250217231848_6252706aac2096dd063d226bd06bb4d0_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=350314">[동물은 훌륭하다] 극단적 선택까지 고민하게 만든 역대급 입질견 ‘다롱이’</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8F%99%EB%AC%BC%EC%9D%80%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">동물은 훌륭하다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250217231848_6252706aac2096dd063d226bd06bb4d0_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA['말할 수 없는 비밀' 한국 영화 박스오피스 1위 기록! (MBC 연예 ─ 영화)]]></title>
             <link>http://enews.imbc.com/News/RetrieveNewsInfo/449197</link>
             <guid>http://enews.imbc.com/News/RetrieveNewsInfo/449197</guid>
@@ -1109,6 +1109,34 @@
             <pubDate>Thu, 23 Jan 2025 07:09:04 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/News/RetrieveNewsInfo/445436" style="height: 241.116px;">        <img src="//talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/01/21/597eafbc-6d34-42fd-8731-09021bac9eef.jpg" alt="">        <div class="text-box">            <span class="label"> 한국영화</span>            <p class="summary">'검은 수녀들' 전여빈 "강동원 주변에만 꽃이 날리고 조명이 켜진 듯" [<font color="red">영화</font>人]</p>        </div>    </a>]]></content:encoded>
             <enclosure url="http://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/01/21/597eafbc-6d34-42fd-8731-09021bac9eef.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박리원, 한그루·최상 관계 질투.."날 사랑하지 않는 것 같아" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20250219210739317</link>
+            <guid>https://v.daum.net/v/20250219210739317</guid>
+            <pubDate>Wed, 19 Feb 2025 12:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 정은채 기자] /사진='신데렐라 게임' 방송화면 캡쳐'신데렐라 게임'에서 박리원이 최상의 흔들리는 마음을 눈치챘다. 19일 방송된 KBS 2TV 일일 드라마 '신데렐라 게임'에서는 윤세영(박리원 분)이 구하나(한그루 분)와 황진구(최상 분)의 관계를 질투하는 장면이 그려졌다. 이날 최명지(지수원 분)는 하나 때문에 불안해하는 세영을 위해]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['신데렐라 게임' 박리원, 한그루 '가짜 딸' 사실 알았다.."쫓아낼 것" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20250219202941823</link>
+            <guid>https://v.daum.net/v/20250219202941823</guid>
+            <pubDate>Wed, 19 Feb 2025 12:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 정은채 기자] /사진='신데렐라 게임' 방송화면 캡쳐'신데렐라 게임'에서 박리원이 한그루가 나영희의 친딸이 아니란 사실을 알게 됐다. 19일 방송된 KBS 2TV 일일 드라마 '신데렐라 게임'에서는 윤세영(박리원 분)이 구하나(한그루 분)가 신여진(나영희 분)의 진짜 딸이 아니란 사실을 알게 됐다. 이날 최명지(지수원 분)는 하나 때문에]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[박리원, 한그루=가짜딸 진실 알았다... "비참하게 쫓아낼 것" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20250219202930822</link>
+            <guid>https://v.daum.net/v/20250219202930822</guid>
+            <pubDate>Wed, 19 Feb 2025 12:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[[TV리포트=이혜미 기자] ‘신데렐라 게임’ 박리원이 한그루의 정체를 알고 다시금 그를 괴롭히고자 나섰다. 19일 KBS 2TV ‘신데렐라 게임’에선 하나(한그루 분)가 여진(나영희 분)의 가짜 딸 임을 알고 노골적으로 그를 괴롭히는 세영(박리원 분)의 모습이 그려졌다. 이날 세영은 명지(지수원 분)를 통해 유진이 이미 세상을 떠났으며 은총이 그의 아들임을]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['신혼' 걸스데이 소진, 여전히 풋풋해 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
+            <link>https://v.daum.net/v/20250219201247607</link>
+            <guid>https://v.daum.net/v/20250219201247607</guid>
+            <pubDate>Wed, 19 Feb 2025 12:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=오세진 기자] 걸스데이 소진이 자신만의 깜찍한 소녀 패션을 자랑했다. 19일 소진은 자신의 소셜 계정에 "에히미현에서 보낸 시간을 다음 유튜브와 화보, 지금 '소진스럽'에서 확인하세요"라는 글귀와 함께 여러 장의 사진을 공개했다. 비단 외국이라는 부분 때문에 소진의 사진이 이색적인 것은 아니었다. 소진은 도트 무늬의 버건디 셔츠와 진한 붉은]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["김혜수, 무서울 수밖에"…주종혁에게 '트리거' 오소룡이란 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
@@ -1188,137 +1216,123 @@
             <content:encoded><![CDATA[[이데일리 스타in 김가영 기자] 배우 서강준이 극과 극 이중생활에 나선다. 서강준은 오는 21일 첫 방송되는 MBC 새 금토드라마 ‘언더커버 하이스쿨’을 통해 국정원 요원과 고등학생을 넘나드는 정해성 역을 맡았다. ‘언더커버 하이스쿨’은 고종 황제의 사라진 금괴의 행방을 쫓기 위해 고등학생으로 위장 잠입한 국정원 요원의 좌충우돌 N차 고딩 활약기를 담은]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['하이퍼나이프' 설경구, 데뷔 이후 첫 의사 도전 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20250219181623059</link>
-            <guid>https://v.daum.net/v/20250219181623059</guid>
-            <pubDate>Wed, 19 Feb 2025 10:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[[이데일리 스타in 김가영 기자] 디즈니+의 2025년 최초 오리지널 메디컬 스릴러로 주목받고 있는 ‘하이퍼나이프’에서 최고의 신경외과 의사 ‘최덕희’ 역으로 돌아온 설경구의 독보적인 카리스마가 담긴 스틸이 공개됐다. ‘불한당: 나쁜 놈들의 세상’, ‘킹메이커’, ‘길복순’, ‘보통의 가족’ 등 장르를 넘나들며 압도적인 연기력으로 사랑받아온 설경구가 데뷔]]></content:encoded>
+            <title><![CDATA[신동엽, 100억 빚 고백→♥선혜윤 “내가 벌면 돼” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20250219211348388</link>
+            <guid>https://v.daum.net/v/20250219211348388</guid>
+            <pubDate>Wed, 19 Feb 2025 12:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[선혜윤 PD가 신동엽의 100억 빚에 의연한 모습을 보였다. 19일 오후 유튜브 채널 ‘형수는 케이윌’에 ‘동엽신의 최최최측근이 말하는 모든 사건의 전말’이라는 제목의 영상이 공개됐다. 방송인 신동엽의 아내인 선혜윤 PD가 게스트로 출연해 남다른 입담을 뽐냈다. 이날 케이윌이 “결혼 초에 큰 위기를 겪었다고?”라며 과거 신동엽이 사업 투자에 실패해 1]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['라이딩 인생' 전혜진, 바쁘다 바빠 대치맘 일상 (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20250219181522021</link>
-            <guid>https://v.daum.net/v/20250219181522021</guid>
-            <pubDate>Wed, 19 Feb 2025 10:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[[이데일리 스타in 최희재 기자] ‘라이딩 인생’ 전혜진이 대치동을 누빈다. (사진=지니 TV 오리지널)오는 3월 3일 첫 공개되는 지니 TV 오리지널 드라마 ‘라이딩 인생’(연출 김철규/극본 성윤아 조원동/기획 KT스튜디오지니/제작 베티앤크리에이터스)은 딸의 ‘7세 고시’를 앞둔 열혈 워킹맘 정은이 엄마 지아에게 학원 라이딩을 맡기며 벌어지는 3대 모녀]]></content:encoded>
+            <title><![CDATA['천재 10살' 김연아 "성적 안 좋으면 새벽까지 울어..이듬해 1등" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20250219210807323</link>
+            <guid>https://v.daum.net/v/20250219210807323</guid>
+            <pubDate>Wed, 19 Feb 2025 12:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 김노을 기자] /사진=tvN 방송화면10세 천재 바이올리니스트 김연아가 남다른 연습 벌레 면모를 자랑했다. 19일 방송된 tvN 예능 프로그램 '유 퀴즈 온 더 블럭'에는 로마 공항 연주로 조회수 1.6억 뷰를 달성한 화제의 영상 속 주인공인 바이올린 천재 김연아가 출연했다. 이날 유재석은 10세 김연아에 대해 "전 세계 어린이들 중 1등]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['원경' 이현욱 "노출 논란, 차주영·이이담이 더 속상했을 것" (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20250219180146556</link>
-            <guid>https://v.daum.net/v/20250219180146556</guid>
-            <pubDate>Wed, 19 Feb 2025 09:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이현욱이 '원경' 속 노출신에 대한 솔직한 생각을 밝혔다. 이현욱은 19일 오후 서울 강남구 모처의 한 카페에서 iMBC연예와 진행한 tvN·티빙 오리지널 드라마 '원경'(극본 이영미·연출 김상호) 종영 기념 인터뷰에서 "나 역시 '원경'의 베드신이 논란이 된 부분에 대해선 걱정했지만, 차주영과 이이담이 더 속상했을 것"이라고 말했다. '원경'은]]></content:encoded>
+            <title><![CDATA[박수홍, 김준호와 사돈되나 “딸 재이와 정우 잘 어울려, 양가 식사라도” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20250219210630308</link>
+            <guid>https://v.daum.net/v/20250219210630308</guid>
+            <pubDate>Wed, 19 Feb 2025 12:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 유경상 기자] 박수홍이 김준호의 아들 정우를 사위로 탐냈다. 2월 19일 방송된 KBS 2TV ‘슈퍼맨이 돌아왔다’ (이하 ‘슈돌’)에서는 펜싱선수 김준호와 아들 정우가 운동 데이트를 했다. 김준호는 20개월 아들 정우가 운동신경이 있는 것 같다며 함께 운동을 하러 갔다. 정우는 첫 물구나무서기에 성공한 데 이어 철봉 매달리기도 14초를 기록]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김종민, 예비신부 위해 프러포즈 반지 쇼핑…3캐럿 다이아에 '깜짝' (다음 연예 ─ 뉴스 ─ 드라마)]]></title>
-            <link>https://v.daum.net/v/20250219175320259</link>
-            <guid>https://v.daum.net/v/20250219175320259</guid>
-            <pubDate>Wed, 19 Feb 2025 09:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[[이데일리 스타in 김가영 기자] ‘4월의 신랑’ 김종민이 예비신부를 위한 프러포즈 반지 쇼핑에 나선다. 19일 방송하는 채널A ‘요즘 남자 라이프-신랑수업(이하 ‘신랑수업’)’ 151회에서는 4월 결혼을 앞둔 김종민이 코요태 빽가의 도움으로 예물숍에서 프러포즈 반지를 알아보는가 하면, 경제 전문가를 만나 경제 개념을 바로 세우는 하루가 펼쳐진다. 이날]]></content:encoded>
+            <title><![CDATA['68세' 전성애 "지인 이름 기억 안나" 고지혈증→치매 위험 '충격' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20250219210609305</link>
+            <guid>https://v.daum.net/v/20250219210609305</guid>
+            <pubDate>Wed, 19 Feb 2025 12:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=유수연 기자] 배우 전성애가 건강 고민에 대해 털어놨다. 19일 방송된 TV조선 ‘퍼펙트 라이프’에서는 전성애가 출연한 가운데,&nbsp;고지혈증, 당뇨 전단계, 퇴행성 관절염, 치매 가족력이라는 몸 상태가 공개됐다. 전성애는 '치매 가족력'에 대해 "저희&nbsp;엄마가 84세에 돌아가셨는데, 80대 초반에 치매 진단을 받으셨다. 원래는 주로 오빠랑 살았는데]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['SNL' 지예은, 신동엽 배신하고 유재석 라인?... "친구 같은 선배가 편해" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20250219200005408</link>
-            <guid>https://v.daum.net/v/20250219200005408</guid>
-            <pubDate>Wed, 19 Feb 2025 11:04:19 GMT</pubDate>
-            <content:encoded><![CDATA[(MHN스포츠 곽예진 인턴기자) 예능계의 떠오르는 스타 지예은이 두 전설의 MC, 신동엽과 유재석 중 고백한 마음을 전한다. 19일, 방송될 MBC '라디오스타'는 김남일, 곽범, 지예은, 정호철, 신규진이 출연하는 '라이징 루키 비키잖아' 특집으로 꾸며진다.&nbsp; 방송에 앞서 공개된 영상 속&nbsp;김국진은 지예은에게 "신동엽이 낳고, 유재석이 키운 지]]></content:encoded>
+            <title><![CDATA[유재석, 딸 나은보다 4살 많은 천재 바이올리니스트에 감탄 “격조 있어” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20250219210602297</link>
+            <guid>https://v.daum.net/v/20250219210602297</guid>
+            <pubDate>Wed, 19 Feb 2025 12:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 서유나 기자] 방송인 유재석이 바이올리니스트 김연아 양의 성숙한 분위기에 깜짝 놀랐다. 2월 19일 방송된 tvN 예능 '유 퀴즈 온 더 블럭'(이하 '유퀴즈') 281회에는 조회수 1억 6천만 뷰의 주인공 10살 천재 바이올리니스트 김연아 양이 게스트로 출연했다. 2014년생 만 10세인 김연아 양은 지난 2023년 9월 19일 9세의 나이에]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[손담비, "'나혼산' 할 때 비혼주의, ♥이규혁 만나 이렇게 될 줄 몰랐다" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20250219195829392</link>
-            <guid>https://v.daum.net/v/20250219195829392</guid>
-            <pubDate>Wed, 19 Feb 2025 11:04:19 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=김예솔 기자] 손담비가 남편 이규혁에 대한 이야기를 꺼냈다.&nbsp; 19일, 유튜브 채널 '담비손 DambiXon'에서는 '빛과그림자, 동백꽃 필 무렵, 손담비 배우생활' 제목의 영상이 공개됐다.&nbsp; 손담비는 드라마 '동백꽃 필 무렵'을 이야기했다. 손담비는 "다시 태어나도 내가 이런 캐릭터를 맡을 수 있을까 싶었다. 대본에 완벽한 캐릭터 설명이 있]]></content:encoded>
+            <title><![CDATA[박수홍, 김준호 子 사위로 탐냈다..“딸 재이랑 잘 어울려, 양가 만나자” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20250219210259247</link>
+            <guid>https://v.daum.net/v/20250219210259247</guid>
+            <pubDate>Wed, 19 Feb 2025 12:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박하영 기자] ‘슈퍼맨이 돌아왔다’ 박수홍이 김준호 아들을 사위로 탐냈다. 19일 방송된&nbsp;KBS 2TV 예능 ‘슈퍼맨이 돌아왔다’(이하 ‘슈돌’)에서는 ‘우리 잘 자라고 있어요’ 편으로 꾸며진 가운데 김준호와 아들 정우가 체육관을 찾은 모습이 그려졌다. 이날 체육관을 찾은 김준호, 정우 부자는 선수촌을 방불케 하는 분위기 속 물구나무서기, 철]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[남윤수 "차은우=고등학교 동기..함께 얼굴로 양대 산맥" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20250219195414327</link>
-            <guid>https://v.daum.net/v/20250219195414327</guid>
-            <pubDate>Wed, 19 Feb 2025 11:04:19 GMT</pubDate>
-            <content:encoded><![CDATA[[스타뉴스 | 정은채 기자] /사진='나래식' 방송화면 캡쳐'나래식'에서 배우 남윤수가 가수 겸 배우 차은우와 함께 '한림예고 비주얼 양대 산맥'이었다고 밝혔다. 19일 공개된 유튜브 채널 '나래식'에는 '남윤수 | "집에 안 가도 될 것 같아요~ 샷다 내려!" | 댄스 신고식, 대도시의 사랑법, 키스신, 이상형, 밀라노 패션쇼'라는 제목의 영상이 게재됐]]></content:encoded>
+            <title><![CDATA[전성애, 치매 가족력 우려 "깜빡깜빡..동료 이름도 안 떠올라" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20250219210204238</link>
+            <guid>https://v.daum.net/v/20250219210204238</guid>
+            <pubDate>Wed, 19 Feb 2025 12:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 김나연 기자] 전성애 / 사진=TV CHOSUN 퍼펙트 라이프배우 전성애가 치매 가족력에 대해 밝히며 우려를 표했다. 19일 방송된 TV CHOSUN '퍼펙트 라이프'에는 전성애가 출연해 다양한 이야기를 나눴다. 전성애는 남편 장광과의 첫 만남에 대해 "연극을 하면서 처음 만났다. 무대 뒤에서 다음 장면을 기다렸는데 장소가 좁아서 의도치]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘31세’ 채수빈, 결혼 걱정 “이상형=믿을 수 있는 사람..외형 중요 NO” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20250219194922255</link>
-            <guid>https://v.daum.net/v/20250219194922255</guid>
-            <pubDate>Wed, 19 Feb 2025 11:04:19 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박하영 기자] 배우 채수빈이 이상형을 고백했다. 19일 유튜브 채널 ‘이용진 유튜브’에는 ‘타로 보고 단단히 삐진 채수빈의 용타로점 결과는?’이라는 제목의 영상이 업로드됐다. 이날 채수빈은 이상형에 대해 묻자 “나쁜 남자 안 좋아한다. 일단 똑똑해야 한다. 믿을 수 있어야 한다. 왜냐면 저희 아빠 공부 진짜 잘했는데 IQ가 진짜 높으신데 EQ]]></content:encoded>
+            <title><![CDATA['30대' 서강준, 돈값 할 자신 없다더니…완벽한 교복 핏 자랑 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20250219210102225</link>
+            <guid>https://v.daum.net/v/20250219210102225</guid>
+            <pubDate>Wed, 19 Feb 2025 12:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=이소정 기자] 1993년생 서강준이 안방극장을 사로잡기 위한 출격 준비를 마쳤다. 서강준은 전역 후 첫 복귀작으로 '언더커버 하이스쿨'을 택했다. 오는 21일(금) 밤 9시 50분 첫 방송 예정인 MBC 새 금토드라마 '언더커버 하이스쿨'은 지난 18일(오늘) 서강준의 무한한 변신이 담겨 있는 스틸을 공개했다. 앞서 서강준은 웹예능 '짠한형']]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세븐틴 부승관, 정치인과 엮였다…"팬들 안 좋아할 것" 우려 목소리 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20250219194602213</link>
-            <guid>https://v.daum.net/v/20250219194602213</guid>
-            <pubDate>Wed, 19 Feb 2025 11:04:19 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김지원 기자] 명태균, 슈퍼추경 등 탄핵 정국 속 가장 뜨거운 현안을 두고 토론이 펼쳐진다.&nbsp;더불어민주당 부승찬 의원은 세븐틴 부승관과 의외의 연결고리에 대해 언급한다. 19일 저녁 8시 50분에 방송되는 JTBC '특집 썰전'은 유승민 전 국민의힘 의원과 이철희 전 청와대 정무수석의 '현안 토론'과 더불어민주당 부승찬 의원, 국민의힘 김상욱]]></content:encoded>
+            <title><![CDATA["열 살인데 기품 있어" 유재석·조세호, 감탄한 바이올리니스트 김연아 등장 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20250219210052224</link>
+            <guid>https://v.daum.net/v/20250219210052224</guid>
+            <pubDate>Wed, 19 Feb 2025 12:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=김예솔 기자] 바이올리니스트 김연아가 등장했다.&nbsp; 19일 방송된 tvN '유 퀴즈 온 더 블럭'에서는 아름다운 선율로 세계를 사로 잡은 10살 바이올리니스트 김연아가 등장했다.&nbsp; 유재석은 열 살이라는 말에 "2014년에 태어난 거다"라고 말했다. 김연아는 피겨 전 국가대표 김연아와 동명이인인 것에 대해 "김연아 선수처럼 훌륭하고 유명한 사람]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오연수, 美서 아들 뒷바라지→집 공개 "고환율 시대라 힘들어" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20250219194201135</link>
-            <guid>https://v.daum.net/v/20250219194201135</guid>
-            <pubDate>Wed, 19 Feb 2025 11:04:19 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=조나연 기자] 배우 오연수가 미국 유학 중인 아들과의 근황을 전했다. 18일 유튜브 채널 '오연수'에는 "다시 미국으로 이사(?) 여기서도 집순이"라는 제목의 영상이 올라왔다. 공개된 영상에서 오연수는 "이민 수준으로 짐을 싸서 왔다"며 미국에서 유학 중인 아들의 집을 공개했다. 그는 "이제 재대 후 복학하는 둘째 혼자 있을 집이다"고 소개했]]></content:encoded>
+            <title><![CDATA[신수지가 또? '미스트롯3' 이어 '미스쓰리랑'에서도 벗었다 신발 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20250219205915193</link>
+            <guid>https://v.daum.net/v/20250219205915193</guid>
+            <pubDate>Wed, 19 Feb 2025 12:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박소영 기자] '미스쓰리랑'&nbsp;태권도부터 리듬체조까지 다채로운 트롯 무대가 쏟아진다. 2월&nbsp;19일 방송되는&nbsp;TV CHOSUN '미스쓰리랑'은 자기 관리 끝판왕 게스트들과 함께하는&nbsp;'9988'&nbsp;특집으로 꾸며진다.&nbsp;트로트 귀재 강진,&nbsp;전 축구선수 정대세,&nbsp;전 스피드스케이팅선수 모태범,&nbsp;전 리듬체조선수 신수지가 스페셜 게스트로 출격해 열혈 시청자들의]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[채수빈, 악역 욕심 드러냈다 “이미지랑 반대되는 역할 하고파” (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20250219194105127</link>
-            <guid>https://v.daum.net/v/20250219194105127</guid>
-            <pubDate>Wed, 19 Feb 2025 11:04:19 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=박하영 기자] 배우 채수빈이 악역을 하고 싶다고 고백했다.&nbsp; 19일 유튜브 채널 ‘이용진 유튜브’에는 ‘타로 보고 단단히 삐진 채수빈의 용타로점 결과는?’이라는 제목의 영상이 업로드됐다. 이날 채수빈은 "앞으로 어떤 작품을 해야지 좋은 배우가 될지?"라고 물었다. 이용진은 타로점 결과를 보더니 "카드로 봤을 때 출연지니 많이 나오는 작품일수록]]></content:encoded>
+            <title><![CDATA[정용진 회장 손절에 인종차별 논란까지..곽범 "욕심 버리지 못해" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20250219205501140</link>
+            <guid>https://v.daum.net/v/20250219205501140</guid>
+            <pubDate>Wed, 19 Feb 2025 12:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[[스타뉴스 | 윤성열 기자] 곽범 /사진=뉴스1 개그맨 곽범이 남다른 개그 욕심을 드러낸다. 19일 오후 방송될 MBC 예능 프로그램 '라디오스타'(기획 강영선, 연출 김명엽·황윤상)는 김남일, 곽범, 지예은, 정호철, 신규진이 출연하는 '라이징 루키 비키잖아' 특집으로 꾸며진다. 각종 패러디와 성대모사 등으로 화제를 모은 곽범은 그동안 '라디오스타']]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[선혜윤 PD "♥신동엽과 결혼 반대한 엄마, 머리띠 매고 앓아누워" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20250219193154966</link>
-            <guid>https://v.daum.net/v/20250219193154966</guid>
-            <pubDate>Wed, 19 Feb 2025 11:04:19 GMT</pubDate>
-            <content:encoded><![CDATA[선혜윤 PD가 방송인 신동엽과의 결혼을 어머니가 반대했었다고 털어놨다. 19일 유튜브 채널 '형수는 케이윌'의 웹 예능 '아는 형수'에는 방송인 신동엽 아내로도 잘 알려진 선혜윤 MBC 예능국 PD가 출연해 가수 케이윌과 이야기를 나눴다. 이 영상에서 선혜윤 PD는 신동엽과의 러브스토리와 결혼 비하인드를 털어놨다. 선혜윤 PD는 "동기 PD가 후배 여]]></content:encoded>
+            <title><![CDATA[김준호 子 정우, 국대 DNA 제대로 물려받았다..물구나무서기 성공 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20250219205432137</link>
+            <guid>https://v.daum.net/v/20250219205432137</guid>
+            <pubDate>Wed, 19 Feb 2025 12:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=박하영 기자] ‘슈퍼맨이 돌아왔다’ 김준호 아들 정우가 아빠 유전자를 닮아 남다른 운동 신경을 뽐냈따. 19일 방송된&nbsp;KBS 2TV 예능 ‘슈퍼맨이 돌아왔다’(이하 ‘슈돌’)에서는 ‘우리 잘 자라고 있어요’ 편으로 꾸며진 가운데 김준호와 아들 정우가 체육관을 찾은 모습이 그려졌다. 이날 김준호는 “정우가 확실히 몸으로 하는 걸 좋아하고 또 운]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[백종원, 몸이 10개라도 모자라…♥소유진 절친의 어머니 칠순까지 챙겨 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20250219193008943</link>
-            <guid>https://v.daum.net/v/20250219193008943</guid>
-            <pubDate>Wed, 19 Feb 2025 11:04:19 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=류예지 기자]‘신랑수업’ 심진화가 어머니의 칠순 잔치에서 감동의 눈물을 쏟는다. 19일(수) 밤 9시 30분 방송하는 채널A ‘요즘 남자 라이프-신랑수업(이하 ‘신랑수업’)’ 151회에서는 ‘연애부장’ 심진화가 남편 김원효의 기획으로 어머니 모르게 ‘서프라이즈 칠순 잔치’를 준비하는 현장이 펼쳐진다. 이날 심진화와 김원효는 ‘고향’ 경북 청송]]></content:encoded>
+            <title><![CDATA[김준호 아들 정우도 선수촌 가나, 철봉 매달리기 14초 우승 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20250219205417134</link>
+            <guid>https://v.daum.net/v/20250219205417134</guid>
+            <pubDate>Wed, 19 Feb 2025 12:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스엔 유경상 기자] 김준호 아들 정우가 국가대표 운동선수 DNA를 입증했다. 2월 19일 방송된 KBS 2TV ‘슈퍼맨이 돌아왔다’ (이하 ‘슈돌’)에서는 펜싱선수 김준호와 아들 20개월 정우가 운동 데이트를 했다. 김준호는 “정우가 확실히 몸으로 하는 걸 좋아하고 운동신경도 있는 것 같고 겁도 없는 것 같아서 정우와 단둘이 데이트를 해보려고 한다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['4월 새신랑' 김종민, 예비신부 위한 프러포즈 반지 쇼핑...가격 듣고 '당황' (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20250219193004939</link>
-            <guid>https://v.daum.net/v/20250219193004939</guid>
-            <pubDate>Wed, 19 Feb 2025 11:04:19 GMT</pubDate>
-            <content:encoded><![CDATA[(MHN스포츠 김수민 인턴기자)&nbsp;김종민이 결혼 준비 과정에서 현실적인 경제 고민에 직면했다. 19일 방송되는&nbsp;채널A '요즘 남자 라이프-신랑수업' 151회에서는 결혼을 앞둔 코요태 김종민이 멤버 빽가의 도움으로 프러포즈 반지를 준비하는 모습이 그려진다.&nbsp; 이날 김종민은 날렵한 턱선을 위해 '신랑 관리'를 받은 뒤, 예물숍으로 향한다. 함께한 빽]]></content:encoded>
+            <title><![CDATA[전성애, 치매 가족력 有 "같이 출연한 배우 이름 기억 안 나" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20250219204401016</link>
+            <guid>https://v.daum.net/v/20250219204401016</guid>
+            <pubDate>Wed, 19 Feb 2025 12:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[[텐아시아=조나연 기자] 배우 전성애가 치매 가족력이 있다고 밝혔다. 19일 방송된&nbsp;TV CHOSUN '퍼펙트 라이프'에서는 전성애가 출연해 건강 고민을 털어놨다. 이날 방송에서 전성애는 "고지혈증, 당뇨 전 단계, 퇴행성 관절염, 치매 가족력이 있다"고 밝혔다.&nbsp; 치매 가족력에 대해 전성애는 "우리 엄마가 84세에 돌아가셨는데 80살 초반에 치매 진]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['미자 엄마' 전성애, ♥장광과 이혼 위기 없었던 이유 있었다…"친정母 치매였는데" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20250219191302617</link>
-            <guid>https://v.daum.net/v/20250219191302617</guid>
-            <pubDate>Wed, 19 Feb 2025 11:04:19 GMT</pubDate>
-            <content:encoded><![CDATA[[텐아시아=김지원 기자] 배우 전성애가 남편 장광에게 고마운 마음을 전한다. 19일 오후 8시 방송되는 TV CHOSUN '퍼펙트 라이프'에서 전성애가 출연한다. '퍼펙트 라이프'를 찾은 전성애는 남편 장광의 콧구멍에 손가락을 집어넣으며 장난치고 있는 귀여운(?) 셀카를 공개해 웃음을 자아냈다. 케미 넘치는 투샷에 MC 현영이 "스킨십은 자주 하시냐"라]]></content:encoded>
+            <title><![CDATA["아직도 뽀뽀한다"..전성애, ♥장광과 이혼 위기 없었던 이유 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
+            <link>https://v.daum.net/v/20250219203842924</link>
+            <guid>https://v.daum.net/v/20250219203842924</guid>
+            <pubDate>Wed, 19 Feb 2025 12:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[[OSEN=유수연 기자] 배우 전성애가 남편 장광과의 여전한 애정을 자랑했다. 19일 방송된 TV조선 ‘퍼펙트 라이프’에서는 전성애가 출연한 가운데, 장광과의 알콩달콩한 커플샷이 공개돼 눈길을 끌었다. 이를 본 현영은 "스킨십은 자주 하는 편인가"라고 궁금해했고, 전성애는 "너무 궁금해하지 마라"라며 부끄러워했다. 이어 '최근 뽀뽀는 언제 했냐'라는 질]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['솔로지옥4' 국동호, 게이설 적극 해명 "저는 확실한 이성애자" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20250219185009078</link>
-            <guid>https://v.daum.net/v/20250219185009078</guid>
-            <pubDate>Wed, 19 Feb 2025 10:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=유수연 기자] 국동호가 '게이설'에 대해 해명했다. 지난 18일, '솔로지옥4' 출연자 박해린이 직접 운영하고 있는 유튜브 채널 '뭐해린?'에는 "솔로지옥4 비하인드"라는 제목의 영상이 게재됐다. 공개된 영상에는 게스트로 국동호와 정유진이 출연한 가운데, 촬영 당시 비하인드에 대한 이야기를 나누기 시작했다. 그러던 중, 박해린은 "못다 한 이]]></content:encoded>
+            <title><![CDATA[‘그 시절, 우리가 좋아했던 소녀’를 우리도 사랑할 수 있을까 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+            <link>https://v.daum.net/v/20250219210749320</link>
+            <guid>https://v.daum.net/v/20250219210749320</guid>
+            <pubDate>Wed, 19 Feb 2025 12:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[영화 ‘그 시절, 우리가 좋아했던 소녀’를 우리도 좋아할 수 있을까. 19일 서울 용산구 CGV아이파크몰에서는 ‘그 시절, 우리가 좋아했던 소녀’ 언론·배급 시사회 및 기자간담회를 진행했다. 이 자리에는 그룹 트와이스 다현, B1A4 진영 그리고 조영명 감독이 참석했다. ‘그 시절, 우리가 좋아했던 소녀’는 선아(다현)’에게 고백하기까지 수많은 날을]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[차주영, '더 글로리'→'원경' 연기 여정 공개...금수저 소문 진실은? (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20250219184509964</link>
-            <guid>https://v.daum.net/v/20250219184509964</guid>
-            <pubDate>Wed, 19 Feb 2025 10:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[(MHN스포츠 강예진 인턴기자) 최근 드라마 '원경'에서 열연을 펼친 배우 차주영이 진솔한 이야기를 꺼냈다. 19일 오후 8시 45분 방송되는 tvN 예능프로그램 '유 퀴즈 온 더 블럭'(이하 '유 퀴즈') 281회에는 '화제성 1등' 특집이 펼쳐진다. 이날 세계를 사로잡은 바이올리니스트 김연아, 50년간 암과의 전쟁을 펼치고 있는 김의신 박사,]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이혜정, 며느리 '뒷조사'?…"이게 부모 마음" 폭탄 발언 나온 이유 (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20250219184116844</link>
-            <guid>https://v.daum.net/v/20250219184116844</guid>
-            <pubDate>Wed, 19 Feb 2025 10:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[요리연구가 이혜정이 며느리가 아들의 흠을 잡는다면 며느리 뒷조사를 할 것이라고 폭탄 발언을 했다. 오는 22일 방송되는 MBN 예능 프로그램 '속풀이쇼 동치미'에서는 '어머니, 아들 반품 좀 해주세요!'라는 주제로 이야기를 나눈다. 선공개 영상 속 이혜정은 얼마 전 사위가 딸의 급한 성격에 대해 토로한 적이 있다며 이야기를 시작했다. 이혜정은 "얼마]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[선혜윤 PD "남편 신동엽 7일 7음주 몰라…사업으로 100억 빚 떠안아" (다음 연예 ─ 뉴스 ─ 예능)]]></title>
-            <link>https://v.daum.net/v/20250219181123892</link>
-            <guid>https://v.daum.net/v/20250219181123892</guid>
-            <pubDate>Wed, 19 Feb 2025 10:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=장우영 기자] 방송인 신동엽의 아내 선혜윤 PD가 결혼 생활에 대해 밝혔다. 19일 케이윌의 유튜브 채널 ‘형수는 케이윌’에는 ‘동엽신의 최최최측근이 말하는 모든 사건의 전말 (빚 100억, 슈퍼마켙, 결혼 반대)’라는 제목의 영상이 공개됐다. 선혜윤 PD와 케이윌의 인연은 방송 사고에서 시작됐다. 선혜윤 PD는 “리허설 때 케이윌이 1등으로]]></content:encoded>
+            <title><![CDATA['D.P.' 신용범, '1만 킬로미터' 탈북 청년→세계적인 인권 변호사 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
+            <link>https://v.daum.net/v/20250219210610306</link>
+            <guid>https://v.daum.net/v/20250219210610306</guid>
+            <pubDate>Wed, 19 Feb 2025 12:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[[티브이데일리 최하나 기자] 신예 신용범이 영화 ‘1만 킬로미터’ 주연으로 캐스팅됐다. 신용범이 출연을 확정 지은 영화 ‘1만 킬로미터’는 탈북 청년 김단이 중국과 동남아를 거쳐 한국에 정착한 뒤 세계적인 인권 변호사로 성장하는 실화 바탕의 이야기를 그린다. 극 중 신용범은 탈북 청년 진혁 역을 맡아, 극한의 시련을 넘어 세계적인 인권 변호사로 성장하는 인]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘그 시절, 우리가 좋아했던 소녀’, 다현·진영의 슴슴한 첫사랑 로맨스 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
@@ -1410,20 +1424,6 @@
             <guid>https://v.daum.net/v/20250219191359633</guid>
             <pubDate>Wed, 19 Feb 2025 11:04:23 GMT</pubDate>
             <content:encoded><![CDATA[없던 첫사랑의 기억도 소환한다. 향수를 건드리는 로맨스 영화, 진영과 트와이스 다현의 한국 리메이크판 ‘그 시절, 우리가 좋아했던 소녀’다. 19일 오후 서울 용산구 CGV용산아이파크몰에서는 영화 ‘그 시절, 우리가 좋아했던 소녀’ 언론시사회 및 기자간담회가 진행됐다. 이 자리에는 배우 진영, 트와이스 다현과 조영명 감독이 참석했다. 작품은 선아(다현]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["서로에게 실제로 설레"..'그 시절' 진영♥다현, 대만 원작 안 부러운 케미 (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-            <link>https://v.daum.net/v/20250219191342631</link>
-            <guid>https://v.daum.net/v/20250219191342631</guid>
-            <pubDate>Wed, 19 Feb 2025 11:04:23 GMT</pubDate>
-            <content:encoded><![CDATA[[OSEN=하수정 기자] '그 시절, 우리가 좋아했던 소녀' 진영, 다현이 첫사랑의 풋풋함을 안고 스크린에 찾아온다. 원작과는 또 다른 매력이다. 19일 오후 서울 CGV 용산아이파크몰에서는 영화 '그 시절, 우리가 좋아했던 소녀'의 언론시사회가 진행됐다. 이 자리에는 주연 배우 진영, 다현, 조영명 감독 등이 참석했다.&nbsp; '그 시절, 우리가 좋아했던]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘그시절’ 다현 “스크린 데뷔, 트와이스 멤버들도 응원” (다음 연예 ─ 뉴스 ─ 영화)]]></title>
-            <link>https://v.daum.net/v/20250219190901521</link>
-            <guid>https://v.daum.net/v/20250219190901521</guid>
-            <pubDate>Wed, 19 Feb 2025 10:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[‘그 시절, 우리가 좋아했던 소녀’로 스크린에 데뷔한 다현이 트와이스 멤버들 반응을 전했다. 19일 오후 서울 CGV 용산 아이파크몰에서 영화 ‘그 시절, 우리가 좋아했던 소녀’ 시사회 및 간담회가 열렸다. 조영명 감독과 배우 진영, 트와이스 다현이 참석했다. 다현은 “첫 영화 데뷔작인데 너무 떨리고 설레는 마음으로 21일을 기다리고 있다”고 말했다. 또]]></content:encoded>
         </item>
     </channel>
 </rss>
