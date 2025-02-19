@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Feb 2025 20:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 21:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[한국인의 밥상] 생선 애, "애타도록 맛있다!"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=350530</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=350530</guid>
+            <pubDate>Wed, 19 Feb 2025 21:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=350530">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250219123840_d15a8de50a141f05f6182891c61c24e8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=350530">[한국인의 밥상] 생선 애, "애타도록 맛있다!"</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%95%9C%EA%B5%AD%EC%9D%B8%EC%9D%98%20%EB%B0%A5%EC%83%81">한국인의 밥상</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250219123840_d15a8de50a141f05f6182891c61c24e8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[킥킥킥킥] 인공지능 배신 충격으로 폐인 된 지진희 “저희가 진짜예요!” 직원들의 진심 어린 위로]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=350579</link>
@@ -348,24 +366,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%85%80%EB%9F%BD%EB%B3%91%EC%82%AC%EC%9D%98%20%EB%B9%84%EB%B0%80">셀럽병사의 비밀</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250218225600_a2b90ed66a94f7c552f4071ff34aff4a_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[셀럽병사의 비밀] 11월 1일, 3년 차이로 같은 날 사망한 김현식과 유재하]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=350444</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=350444</guid>
-            <pubDate>Tue, 18 Feb 2025 14:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=350444">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250218225102_94977a6c4d5bd7d8090c7b8683aa2245_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=350444">[셀럽병사의 비밀] 11월 1일, 3년 차이로 같은 날 사망한 김현식과 유재하</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%85%80%EB%9F%BD%EB%B3%91%EC%82%AC%EC%9D%98%20%EB%B9%84%EB%B0%80">셀럽병사의 비밀</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250218225102_94977a6c4d5bd7d8090c7b8683aa2245_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
