@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Feb 2025 02:16:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 03:19:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다큐 '여성국극 끊어질듯 이어지고 사라질듯 영원하다'…3월 극장 개봉]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=351204</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=351204</guid>
+            <pubDate>Mon, 24 Feb 2025 03:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=351204">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250224090908_91ac0e92ef712e53c96dc2440cf01e2c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=351204">다큐 '여성국극 끊어질듯 이어지고 사라질듯 영원하다'…3월 극장 개봉</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250224090908_91ac0e92ef712e53c96dc2440cf01e2c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] ‘그 시절 우리가 좋아했던 소녀’...  그 시절 우리가 좋아했던 영화  (진영, 다현 주연)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=351358</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=350629">'그 시절, 우리가 좋아했던 소녀'...  그 시절, 우리들의 케미</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250220085310_590dbbcba4ba01e37a32498254324c19.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[제로베이스원, 첫 월드투어 콘서트 실황 영화 3월 CGV 개봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=350644</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=350644</guid>
-            <pubDate>Thu, 20 Feb 2025 07:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=350644">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250220154522_09bbbb86eed2f1296b8433cf2141736b.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=350644">제로베이스원, 첫 월드투어 콘서트 실황 영화 3월 CGV 개봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250220154522_09bbbb86eed2f1296b8433cf2141736b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
