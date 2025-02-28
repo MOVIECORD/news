@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Feb 2025 22:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 23:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여성국극의 예술혼, “끊어질듯 이어지고 사라질듯 영원하다”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=351814</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=351814</guid>
+            <pubDate>Fri, 28 Feb 2025 23:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=351814">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250227083346_413b4ee3aa8e5f8c2e8b215ba91532b3_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=351814">여성국극의 예술혼, “끊어질듯 이어지고 사라질듯 영원하다”</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250227083346_413b4ee3aa8e5f8c2e8b215ba91532b3_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['뉴토피아'  상상초월 본격 좀비 액션 펼쳐진다... 오늘 5화 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=352106</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=351523">[리뷰] ‘더 캐니언’ 밸런타인데이에 만난 변종 크리처의 반격</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250225100434_83b93f7ec6fc471bc3bfafe17940d228_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 사카모토 유지 각본가.. '첫 번째 키스' 서면 인터뷰]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=351518</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=351518</guid>
-            <pubDate>Tue, 25 Feb 2025 00:37:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=351518">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250225092822_1cd8e38cc3062aad5f2eb57d55bd0514.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=351518">[인터뷰] 사카모토 유지 각본가.. '첫 번째 키스' 서면 인터뷰</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250225092822_1cd8e38cc3062aad5f2eb57d55bd0514.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
