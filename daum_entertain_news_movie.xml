@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-02-28T20:10:17.429Z</updated>
+    <updated>2025-02-28T21:08:50.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[길해연, 영화 '침범' 출연]]></title>
+        <id>https://v.daum.net/v/20250301060202581</id>
+        <link href="https://v.daum.net/v/20250301060202581"/>
+        <updated>2025-02-28T21:08:49.463Z</updated>
+        <content type="html"><![CDATA[[스타뉴스 | 김수진 기자] 길해연/사진제공=저스트엔터테인먼트배우 길해연의 열혈 연기 행보는 계속된다. 소속사 저스트 엔터테인먼트에 따르면 길해연은 영화 '침범'에 출연한다. '침범'은 기이한 행동을 하는 딸 소현으로 인해 일상이 붕괴되고 있는 영은과 그로부터 20년 뒤 과거의 기억을 잃은 민이 해영을 마주하며 벌어지는 균열을 그린 심리 파괴 스릴러다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[곽시양, 싸이코패스서 '멍뭉美' 변신...팔색조 매력 발산 중]]></title>
         <id>https://v.daum.net/v/20250228190101892</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250228152724110"/>
         <updated>2025-02-28T07:10:33.870Z</updated>
         <content type="html"><![CDATA[[SBS 연예뉴스 | 김지혜 기자] "오늘 에스프레소를 7잔이나 마셨더니, X카스 10병 먹은 중학생같이 흥분된 상태입니다" 봉준호 감독은 여느 때와 마찬가지로 가벼운 위트로 어색한 인터뷰장의 분위기를 깼다. '기생충' 이후 6년, 국내 기자들 앞에 서는 그의 마음도, 그를 맞는 기자들의 감회도 남달랐다. 이번엔 할리우드 영화다. 미국 대형 스튜디오 워너브]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미키 17' 개봉 기념 일러스트 포스터 공개…최지수 작가 협업]]></title>
-        <id>https://v.daum.net/v/20250228152623070</id>
-        <link href="https://v.daum.net/v/20250228152623070"/>
-        <updated>2025-02-28T07:10:33.874Z</updated>
-        <content type="html"><![CDATA[[이데일리 스타in 김보영 기자] 28일 바로 오늘 개봉하며 영화 팬들의 뜨거운 관심을 모으는 봉준호 감독의 신작 ‘미키 17’이 일러스트레이터 최지수 작가와 협업한 스페셜 일러스트 포스터를 이날 공개했다. ‘미키 17’은 위험한 일에 투입되는 소모품(익스펜더블)으로, 죽으면 다시 프린트되는 ‘미키’(로버트 패틴슨 분)가 17번째 죽음의 위기를 겪던 중]]></content>
     </entry>
 </feed>
