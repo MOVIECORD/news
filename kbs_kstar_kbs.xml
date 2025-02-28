@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Feb 2025 10:10:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 11:08:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['짠신영' 장신영, 폭설 뚫고 알뜰 장보기]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=352069</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=352069</guid>
+            <pubDate>Fri, 28 Feb 2025 11:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=352069">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250228085334_89c39e471c6aecc965e6fd8afd4d300a.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=352069">'짠신영' 장신영, 폭설 뚫고 알뜰 장보기</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상출시 편스토랑</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250228085334_89c39e471c6aecc965e6fd8afd4d300a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[독립영화관] 박수남 감독 다큐 ‘침묵’..  기록한다, 기억한다, 분노한다]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=352112</link>
@@ -344,24 +362,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%82%A5%ED%82%A5%ED%82%A5%ED%82%A5">수목드라마 킥킥킥킥</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250227005113_806b0da7e91dc3a3abd997e2b73c6628.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[킥킥킥킥] 김은호와 하룻밤 보낸 뒤 슬럼프에서 벗어난 19금 소설 작가 전혜연]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=351763</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=351763</guid>
-            <pubDate>Wed, 26 Feb 2025 16:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=351763">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250227004057_4e843c25eb008a34b7d19dfeedab67e1_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=351763">[킥킥킥킥] 김은호와 하룻밤 보낸 뒤 슬럼프에서 벗어난 19금 소설 작가 전혜연</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%82%A5%ED%82%A5%ED%82%A5%ED%82%A5">수목드라마 킥킥킥킥</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250227004057_4e843c25eb008a34b7d19dfeedab67e1_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
