@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Mar 2025 22:06:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Mar 2025 23:09:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KBS 창립 52주년,  AI 활용 방송 혁신 선보인다]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=352152</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=352152</guid>
+            <pubDate>Sat, 01 Mar 2025 23:08:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=352152">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250301085154_a73803a69000b9cf945e00dcdbe7d55e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=352152">KBS 창립 52주년,  AI 활용 방송 혁신 선보인다 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250301085154_a73803a69000b9cf945e00dcdbe7d55e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['1박 2일' 라면 요리 대결... 딘딘, 백종원에게 SOS]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=352315</link>
@@ -346,24 +363,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상출시 편스토랑</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250301010151_0bafcae71fe5f2579d9235de10ebe680.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[신상출시 편스토랑] ‘살림의 여왕’ 장신영, 밑반찬도 뚝딱...겉바속촉 ‘애호박돈가스’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=352192</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=352192</guid>
-            <pubDate>Fri, 28 Feb 2025 16:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=352192">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250301005201_c0d60993eb62eb7996721fbef48caeb4.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=352192">[신상출시 편스토랑] ‘살림의 여왕’ 장신영, 밑반찬도 뚝딱...겉바속촉 ‘애호박돈가스’ </a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8B%A0%EC%83%81%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91">신상출시 편스토랑</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250301005201_c0d60993eb62eb7996721fbef48caeb4.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
