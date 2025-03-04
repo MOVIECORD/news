@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Mar 2025 00:40:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 02:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로버트 해리스 원작 '콘클라베',  아카데미 각색상 수상]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=352661</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=352661</guid>
+            <pubDate>Tue, 04 Mar 2025 02:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=352661">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250304111414_6cfccd4a00c0edba91b89b13dc046fe3.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=352661">로버트 해리스 원작 '콘클라베',  아카데미 각색상 수상</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250304111414_6cfccd4a00c0edba91b89b13dc046fe3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘환승연애, 또 다른 시작’ 후반부 돌입]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=352601</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=351820">영화 ‘백수아파트’..   백세아파트를 사수하라!</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250227083512_4607a12bbdd3708d44f573fb81fe9c5e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] '백수아파트’ 대동단결 아파트 ‘백수’결사대 (경수진 고규필 주연, 이루다 감독)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=351991</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=351991</guid>
-            <pubDate>Mon, 03 Mar 2025 15:09:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=351991">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250227154130_9fa4a4b2386aebd3973f1e3b71d6963f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=351991">[리뷰] '백수아파트’ 대동단결 아파트 ‘백수’결사대 (경수진 고규필 주연, 이루다 감독)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250227154130_9fa4a4b2386aebd3973f1e3b71d6963f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
