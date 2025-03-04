@@ -4,9 +4,26 @@
         <title>KBS연예 ─ TVs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Mar 2025 08:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 09:10:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘벌거벗은 세계사’ 오스만 제국 600년의 흥망성쇠]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=352689</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=352689</guid>
+            <pubDate>Tue, 04 Mar 2025 09:09:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=352689">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250304172552_d8d31a070b9d7e9b03477360471f95ed_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=352689">‘벌거벗은 세계사’ 오스만 제국 600년의 흥망성쇠</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250304172552_d8d31a070b9d7e9b03477360471f95ed_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[건축탐구 집] 실용성과 감성, 함께하지만 독립적인 주택]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=352609</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=351966">‘보물섬’ 박형식 vs 허준호, 피할 수 없는 맞대결</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250227143504_8d90357e7be46bdbec153e91c144079e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘식스센스:시티투어’ 이선빈-강태오 부산 핫플 찾기]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=351956</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=351956</guid>
-            <pubDate>Mon, 03 Mar 2025 15:09:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=351956">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250227143130_524e4b76f27d79e41e342420e8617fb4_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=351956">‘식스센스:시티투어’ 이선빈-강태오 부산 핫플 찾기</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250227143130_524e4b76f27d79e41e342420e8617fb4_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
