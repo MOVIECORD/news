@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Mar 2025 07:10:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 08:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["CJ ENM, 영화 계속 합니다"..  영화사업부장에 정현주 선임]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=353347</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=353347</guid>
+            <pubDate>Fri, 07 Mar 2025 08:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=353347">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250307161842_d7c3ed9043b7175ec4f7470ddae504ab_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353347">"CJ ENM, 영화 계속 합니다"..  영화사업부장에 정현주 선임</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250307161842_d7c3ed9043b7175ec4f7470ddae504ab_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["명화를 품다"..  '프라도 위대한 미술관', 3월 19일 개봉 확정]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=353326</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=352754">레트로 SF ‘귀신들’ 4월 개봉. .. 이요원X강찬희X정경호</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250304213927_6858081e72385a35e93e785a5fe6f686.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[“장국영의 열화청춘을 메가박스 스크린으로 본다”.. ‘메가 온리’ 론칭]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=352811</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=352811</guid>
-            <pubDate>Tue, 04 Mar 2025 21:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=352811">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250304215334_a74ce3b29b6b4315572bbdcf677b55ee_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=352811">“장국영의 열화청춘을 메가박스 스크린으로 본다”.. ‘메가 온리’ 론칭</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250304215334_a74ce3b29b6b4315572bbdcf677b55ee_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
