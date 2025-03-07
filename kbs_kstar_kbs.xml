@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Mar 2025 05:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 06:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["또박또박, 공정하게.."  KBS 뉴스 주요 앵커 일부 교체]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=353197</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=353197</guid>
+            <pubDate>Fri, 07 Mar 2025 06:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=353197">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250307144228_33b7f057d28dd83e40a4848c6b5b13a5.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353197">"또박또박, 공정하게.."  KBS 뉴스 주요 앵커 일부 교체</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250307144228_33b7f057d28dd83e40a4848c6b5b13a5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“형제의 우애” 주말극 ‘독수리 5형제를 부탁해!’]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=353036</link>
@@ -346,24 +363,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250305232840_46a6ff01171d0252e3e1014a625db957.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[슈퍼맨이 돌아왔다] 빙판에서 만난 빙어 친구 ‘빙순이’, “보내줄래” 방생 천사 지우~♥]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=352936</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=352936</guid>
-            <pubDate>Wed, 05 Mar 2025 14:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=352936">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250305230710_ae2113e9b952c4c1b50c1b2c7f6535fc.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=352936">[슈퍼맨이 돌아왔다] 빙판에서 만난 빙어 친구 ‘빙순이’, “보내줄래” 방생 천사 지우~♥</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250305230710_ae2113e9b952c4c1b50c1b2c7f6535fc.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
