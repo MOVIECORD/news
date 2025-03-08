@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Mar 2025 10:03:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Mar 2025 11:02:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 '남으로 가는 길' 4월 개봉.. 실화바탕 로드 액션무비... 4월 극장 개봉]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=353257</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=353257</guid>
+            <pubDate>Sat, 08 Mar 2025 11:01:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=353257">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250307152316_48e7b8c242304b055be2bec1e3dfe9a1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353257">영화 '남으로 가는 길' 4월 개봉.. 실화바탕 로드 액션무비... 4월 극장 개봉</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250307152316_48e7b8c242304b055be2bec1e3dfe9a1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다큐멘터리 ‘당골’ 3월 개봉... 전통과 공포의 만남]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=353041</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=352781">‘데어데블: 본 어게인’ 5일 공개... "거침없다, 데어데블"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250304214554_3497e3deeadf3b741ae8ee46ee030966_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 범죄스릴러 시리즈 '악연', 4월 4일 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=352722</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=352722</guid>
-            <pubDate>Tue, 04 Mar 2025 21:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=352722">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250304213009_cb0f69fddb802bdaf84d39d3c9761d43.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=352722">넷플릭스 범죄스릴러 시리즈 '악연', 4월 4일 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250304213009_cb0f69fddb802bdaf84d39d3c9761d43.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
