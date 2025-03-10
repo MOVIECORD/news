@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Mar 2025 19:04:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 20:10:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['간니발' 시즌2, "마을의 비밀, 괴물의 정체".. 19일 디즈니플러스 공개]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=353535</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=353535</guid>
+            <pubDate>Mon, 10 Mar 2025 20:08:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=353535">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250309082931_a2e97bc987edaabd4e89ff7450f33071.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353535">'간니발' 시즌2, "마을의 비밀, 괴물의 정체".. 19일 디즈니플러스 공개</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250309082931_a2e97bc987edaabd4e89ff7450f33071.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[버추얼 아이돌 ‘리:레볼루션’ 첫 콘서트, 롯데시네마 라이브뷰잉]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=353834</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353252">‘선의의 경쟁’ 피날레..  이혜리X정수빈, 열린 결말로 종영</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250307151846_66d1802dc80e20523da875ba9a521a8e_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감동 애니 '플로우', 라트비아 첫  아카데미상 수상]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=353220</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=353220</guid>
-            <pubDate>Fri, 07 Mar 2025 06:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=353220">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250307145431_15fb0b98745ab6a6c2e92a9fc3fe5b2a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353220">감동 애니 '플로우', 라트비아 첫  아카데미상 수상</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250307145431_15fb0b98745ab6a6c2e92a9fc3fe5b2a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
