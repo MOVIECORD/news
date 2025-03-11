@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Mar 2025 06:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 07:09:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘왕좌의 게임’, 쿠팡플레이로 본다... HBO,  Max , WB픽쳐스 콘텐츠 대기 중]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=354024</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=354024</guid>
+            <pubDate>Tue, 11 Mar 2025 07:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=354024">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250311160628_473023f7e80a18ebc1f885843054fab4.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=354024">‘왕좌의 게임’, 쿠팡플레이로 본다... HBO,  Max , WB픽쳐스 콘텐츠 대기 중</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250311160628_473023f7e80a18ebc1f885843054fab4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2025 프랑스영화주간, 4월 4일 개막... 정수정 홍보대사 선정]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=353844</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353326">"명화를 품다"..  '프라도 위대한 미술관', 3월 19일 개봉 확정</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250307160740_a79b537144b336510eb866fc78d8a366.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['백설공주' 레이첼 지글러 OST공개... "Waiting On A Wish"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=353315</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=353315</guid>
-            <pubDate>Fri, 07 Mar 2025 07:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=353315">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250307160404_117e451b81d1fc03df22de93c349c7a2_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353315">'백설공주' 레이첼 지글러 OST공개... "Waiting On A Wish" </a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250307160404_117e451b81d1fc03df22de93c349c7a2_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
