@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Mar 2025 23:09:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 00:40:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피날레 앞둔 '킥킥킥킥' 관전 포인트]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=354148</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=354148</guid>
+            <pubDate>Wed, 12 Mar 2025 00:39:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=354148">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250312090631_8b2eef7cc6f61a6c4df4816982a7df5f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=354148">피날레 앞둔 '킥킥킥킥' 관전 포인트</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%82%A5%ED%82%A5%ED%82%A5%ED%82%A5">수목드라마 킥킥킥킥</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250312090631_8b2eef7cc6f61a6c4df4816982a7df5f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[독수리5형제] 엄지원 “내 인생은 내가 결정한다!”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=354042</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8B%A0%EB%8D%B0%EB%A0%90%EB%9D%BC%20%EA%B2%8C%EC%9E%84">일일드라마 신데렐라 게임</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250310222035_cccc55840cec0fc8adb668e05b0f3d61.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[신데렐라 게임] 사과할 생각 없는 나영희에 복수심 폭발하는 한그루]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=353869</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=353869</guid>
-            <pubDate>Mon, 10 Mar 2025 13:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=353869">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250310215733_499652a79d2b70d2b5734d5c38cbf629_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353869">[신데렐라 게임] 사과할 생각 없는 나영희에 복수심 폭발하는 한그루</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%8B%A0%EB%8D%B0%EB%A0%90%EB%9D%BC%20%EA%B2%8C%EC%9E%84">일일드라마 신데렐라 게임</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250310215733_499652a79d2b70d2b5734d5c38cbf629_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
