@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Mar 2025 02:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 03:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["부산 인심 직이재?" 강말금에 ‘폭싹 속았수다’]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=354227</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=354227</guid>
+            <pubDate>Wed, 12 Mar 2025 03:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=354227">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250312120505_9b62951af64d8e723309a3aa653cee75_1.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=354227">"부산 인심 직이재?" 강말금에 ‘폭싹 속았수다’ </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250312120505_9b62951af64d8e723309a3aa653cee75_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["안돼! 박정민이 좀비가 된다고?'.. 반전의 반전 '뉴토피아']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=354222</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353574">넷플릭스 ‘영 어덜트 호러’ 시리즈  ‘기리고’ 캐스팅 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250309121748_334dc2fda9fbdf4383fa158555f4b3b0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유승호X김동욱 단편영화 ‘3일’.. CGV 단독 개봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=353247</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=353247</guid>
-            <pubDate>Sun, 09 Mar 2025 21:02:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=353247">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250307151616_d7bb7eed59e60db04822fea00d9f04bf.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353247">유승호X김동욱 단편영화 ‘3일’.. CGV 단독 개봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250307151616_d7bb7eed59e60db04822fea00d9f04bf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
