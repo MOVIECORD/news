@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Mar 2025 09:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 10:10:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장] ‘빌런의 나라’ 제작발표회... “유치하고 사랑스러운 시트콤”]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=354274</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=354274</guid>
+            <pubDate>Wed, 12 Mar 2025 10:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=354274">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250312183244_66a3e6a240e8c39794b7905d3e4e192c.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=354274">[현장] ‘빌런의 나라’ 제작발표회... “유치하고 사랑스러운 시트콤”</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EC%8B%9C%ED%8A%B8%EC%BD%A4%20%EB%B9%8C%EB%9F%B0%EC%9D%98%20%EB%82%98%EB%9D%BC">수목시트콤 빌런의 나라</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250312183244_66a3e6a240e8c39794b7905d3e4e192c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘슈돌' 오종혁, 딸 로지 위해 김밥 도전]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=354205</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8F%99%EB%AC%BC%EC%9D%80%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">동물은 훌륭하다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250310230602_e97ffd95c3ee4821bac268661ea07154_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[동물은 훌륭하다] 앵무새<구관조를 뛰어넘는 흉내쟁이 최고봉 ‘라이어 버드’]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=353879</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=353879</guid>
-            <pubDate>Mon, 10 Mar 2025 14:08:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=353879">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250310224734_7bd2c18c64eeafe04ac23a8632ccfbda_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=353879">[동물은 훌륭하다] 앵무새&lt;구관조를 뛰어넘는 흉내쟁이 최고봉 ‘라이어 버드’</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%8F%99%EB%AC%BC%EC%9D%80%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4">동물은 훌륭하다</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250310224734_7bd2c18c64eeafe04ac23a8632ccfbda_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
