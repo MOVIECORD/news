@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Mar 2025 02:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 03:24:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘하이퍼 나이프’   박은빈-설경구,  "예측불가 메디컬 스토리"  (제작발표회 현장)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=354937</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=354937</guid>
+            <pubDate>Mon, 17 Mar 2025 03:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=354937">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250317115951_9248dfb5365a66f15589284fa8c56a5f.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=354937">‘하이퍼 나이프’   박은빈-설경구,  "예측불가 메디컬 스토리"  (제작발표회 현장)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250317115951_9248dfb5365a66f15589284fa8c56a5f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[리뷰] ‘하이퍼 나이프’ 청출어람청어람 박은빈 (1,2화 프리뷰)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=354915</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=354430"> 세븐틴 월드투어 '라잇 히어' .. 4월 CGV 개봉</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250313150804_82512a3ce2bffdf95e4e3e2caa5e2bb2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라미 말릭 '아마추어' .. 프로페셔널 CIA암호해독가, 복수에 나서다]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=354231</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=354231</guid>
-            <pubDate>Thu, 13 Mar 2025 07:08:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=354231">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250312122627_8956a5636f66db161041635cd24fe5aa_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=354231">라미 말릭 '아마추어' .. 프로페셔널 CIA암호해독가, 복수에 나서다</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250312122627_8956a5636f66db161041635cd24fe5aa_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
