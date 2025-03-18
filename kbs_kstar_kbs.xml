@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Mar 2025 22:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 23:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['빌런의 나라' 19일 첫 방송... "시트콤의 신기원"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=355089</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=355089</guid>
+            <pubDate>Tue, 18 Mar 2025 23:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=355089">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250319073343_49115d815d2bfaa53efd5b272077e5d5.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=355089">'빌런의 나라' 19일 첫 방송... "시트콤의 신기원"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250319073343_49115d815d2bfaa53efd5b272077e5d5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['대운을 잡아라' 1차 티저 영상 공개]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=355087</link>
@@ -348,23 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%88%98%EB%AA%A9%EC%8B%9C%ED%8A%B8%EC%BD%A4%20%EB%B9%8C%EB%9F%B0%EC%9D%98%20%EB%82%98%EB%9D%BC">수목시트콤 빌런의 나라</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250316202214_9c73f7e66794586c35ae2531fb5d91dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KBS Joy드라마 '디어엠' .. "무보정 노필터 청춘로맨스"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=354335</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=354335</guid>
-            <pubDate>Sun, 16 Mar 2025 20:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=354335">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250313083658_2d0f61e032804f9f5a6b48c4b956dfd0.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=354335">KBS Joy드라마 '디어엠' .. "무보정 노필터 청춘로맨스"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250313083658_2d0f61e032804f9f5a6b48c4b956dfd0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
