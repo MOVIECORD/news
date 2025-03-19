@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Mar 2025 23:11:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 00:42:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제23회 피렌체 한국영화제, 나홍진 감독·황정민 배우 특별 초청]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=355248</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=355248</guid>
+            <pubDate>Wed, 19 Mar 2025 00:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=355248">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250319081613_95654b496e610eec408a25c177deddb2.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=355248">제23회 피렌체 한국영화제, 나홍진 감독·황정민 배우 특별 초청</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250319081613_95654b496e610eec408a25c177deddb2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연상호 신작  ‘계시록’ 제작보고회.. "판타지 배제, 심리 스릴러 집중"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=355213</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=354813">레이첼 지글러 '백설공주'..  수지로 패치.. "간절한 소원(Waiting On A Wish)" 음원 공개</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250316082512_c5330e39cee49bc67fab9e32fa111e97.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['허식당' 포스터 공개.. “어서오시오! 백반 맛집 허식당이오”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=354243</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=354243</guid>
-            <pubDate>Sat, 15 Mar 2025 23:07:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=354243">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250313091452_3aa750a9407af47fd9458802e1057b96.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=354243">'허식당' 포스터 공개.. “어서오시오! 백반 맛집 허식당이오”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250313091452_3aa750a9407af47fd9458802e1057b96.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
