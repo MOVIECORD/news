@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Mar 2025 22:09:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 23:09:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['독수리 5형제를 부탁해!' 최대철의 분노... 22일 15회 방송]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=355762</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=355762</guid>
+            <pubDate>Fri, 21 Mar 2025 23:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=355762">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250322080137_8cf76e1a1649c33c8a39fd471afc9578.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=355762">'독수리 5형제를 부탁해!' 최대철의 분노... 22일 15회 방송</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%A3%BC%EB%A7%90%EB%93%9C%EB%9D%BC%EB%A7%88%20%EB%8F%85%EC%88%98%EB%A6%AC%205%ED%98%95%EC%A0%9C%EB%A5%BC%20%EB%B6%80%ED%83%81%ED%95%B4%21">주말드라마 독수리 5형제를 부탁해!</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250322080137_8cf76e1a1649c33c8a39fd471afc9578.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[신상출시 편스토랑] 장신영, 동네 육아동지 친구들과 끈끈한 우정 “당신들이 있어 버텼습니다”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=355757</link>
@@ -347,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%203">박원숙의 같이 삽시다 3</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250320215824_36971288220ee1cc25ab51982f75fe6c_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[박원숙의 같이 삽시다] 김청, “엄마처럼 살지 말아야지” 기구했던 친모+외할머니 사연 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=355509</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=355509</guid>
-            <pubDate>Thu, 20 Mar 2025 13:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=355509">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250320215209_95c9c6c508e79b2b1100c1b0c2d6e47b_1.png" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=355509">[박원숙의 같이 삽시다] 김청, “엄마처럼 살지 말아야지” 기구했던 친모+외할머니 사연 공개</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%203">박원숙의 같이 삽시다 3</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250320215209_95c9c6c508e79b2b1100c1b0c2d6e47b_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
