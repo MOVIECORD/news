@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Mar 2025 23:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 00:41:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 김형주 감독.. “사각의 바둑판, 영화에 인생을 담다” (영화 ‘승부’)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=356123</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=356123</guid>
+            <pubDate>Tue, 25 Mar 2025 00:39:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=356123">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250325084150_74f08daf41a9f92f63ceaf1444c14daa.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=356123">[인터뷰] 김형주 감독.. “사각의 바둑판, 영화에 인생을 담다” (영화 ‘승부’)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250325084150_74f08daf41a9f92f63ceaf1444c14daa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["얕보지 마라!" 라미 말렉의 정교한 복수 '아마추어']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=356115</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=355083">"아마추어, 알고보면 프로페셔널".. 라미 말렉, 암호해독가의 복수</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250321102733_c58517512ee3abe1a34de93457c4408d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡플레이 대공세.. '왕좌의 게임' '듄: 프로퍼시' 등 HBO 화제작 대거 공개]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=355630</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=355630</guid>
-            <pubDate>Fri, 21 Mar 2025 02:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=355630">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250321094859_1cf106e914f951e0b6473cfd3929d6b2.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=355630">쿠팡플레이 대공세.. '왕좌의 게임' '듄: 프로퍼시' 등 HBO 화제작 대거 공개</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250321094859_1cf106e914f951e0b6473cfd3929d6b2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
