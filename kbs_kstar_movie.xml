@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Mar 2025 03:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 04:12:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오컬트 호러 '공포특급' 시사회 현장]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=356303</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=356303</guid>
+            <pubDate>Wed, 26 Mar 2025 04:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=356303">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250326130602_4e568b4cc6302065aba8ef839b874648.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=356303">오컬트 호러 '공포특급' 시사회 현장</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250326130602_4e568b4cc6302065aba8ef839b874648.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 연상호 감독 “보고 싶은 것만 보는 사람들”  (넷플릭스 '계시록')]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=356283</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=355686">J-호러 거장들의 만남, 영화 '사유리'  4월 개봉</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250321101800_6b342ae6a8c3f77460dfedcf6c5436c6_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '야당', 강하늘 유해진 박해준 등 연기파 배우 총출동]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=355681</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=355681</guid>
-            <pubDate>Sat, 22 Mar 2025 00:38:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=355681">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250321101552_fe97667226f911089ceb5ae09c9a226a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=355681">영화 '야당', 강하늘 유해진 박해준 등 연기파 배우 총출동</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250321101552_fe97667226f911089ceb5ae09c9a226a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
