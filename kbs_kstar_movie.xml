@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Mar 2025 02:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2025 03:25:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리뷰] ‘로비’  비즈니스의 완성은 골프장에서 이뤄진다 (하정우 감독)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=356501</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=356501</guid>
+            <pubDate>Thu, 27 Mar 2025 03:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=356501">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250327112510_62e6ba4a6b0d9d9986a28f78d6467cd0.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=356501">[리뷰] ‘로비’  비즈니스의 완성은 골프장에서 이뤄진다 (하정우 감독) </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250327112510_62e6ba4a6b0d9d9986a28f78d6467cd0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 박보검 “봄에는 ‘폭싹’, 여름에는 ‘굿보이’ 겨울에는 ‘응팔’.. 가을에는 그냥 박보검”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=356481</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=355940">최명빈, 영화 '캐리어를 끄는 소녀'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250324074020_fed27cc837437f0e0c342ed798091ebf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[월드시리즈 다큐, 28일 애플tv+공개... "LA 다저스 vs 뉴욕 양키스"]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=355101</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=355101</guid>
-            <pubDate>Sun, 23 Mar 2025 21:05:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=355101">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250318123546_b231ecd30a4f3c7a9cdecfef69acc352.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=355101">  월드시리즈 다큐, 28일 애플tv+공개... "LA 다저스 vs 뉴욕 양키스"</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250318123546_b231ecd30a4f3c7a9cdecfef69acc352.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
