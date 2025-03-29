@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Mar 2025 23:09:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Mar 2025 00:40:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘썬더볼츠*’ 이 멤버, '어벤져스: 둠스데이' 리멤버]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=356712</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=356712</guid>
+            <pubDate>Sat, 29 Mar 2025 00:39:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=356712">	<span class="img-box ww">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250329081130_4d0bb5dfe6103bc67d1afdc0712588ed.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=356712">‘썬더볼츠*’ 이 멤버, '어벤져스: 둠스데이' 리멤버</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250329081130_4d0bb5dfe6103bc67d1afdc0712588ed.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김강훈, 어린 승부사 이창호.. "고수가 바둑 두는데, 하수는 좀~~"]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=356670</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=356179">김성철, 미스터리 킬러 ‘투우’.. 영화 '파과'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250325182943_efda3c00cd374dae6502614afdef7fab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['안도르' 시즌2, 내달 공개... “힘을 합치지 않으면 우린 끝장이에요”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=356171</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=356171</guid>
-            <pubDate>Tue, 25 Mar 2025 23:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=356171">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250325183739_e4cd27e4e1a6e9de2c2461f612accb02_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=356171">'안도르' 시즌2, 내달 공개... “힘을 합치지 않으면 우린 끝장이에요”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250325183739_e4cd27e4e1a6e9de2c2461f612accb02_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
