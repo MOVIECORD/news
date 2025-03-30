@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Mar 2025 20:09:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Mar 2025 21:09:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스 '악연' 김남길 특별출연.. 신민아의 동료의사]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=356780</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=356780</guid>
+            <pubDate>Sun, 30 Mar 2025 21:08:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=356780">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250330080145_bc844e23ef2d07e2f20659c761c4aca5.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=356780">넷플릭스 '악연' 김남길 특별출연.. 신민아의 동료의사 </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250330080145_bc844e23ef2d07e2f20659c761c4aca5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현영-김지완  영화 '하루 또 하루' 4월 개봉..  위로 같은 하루의 이야기]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=356532</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=356265">'대환장 기안장' 4월 8일 오픈... "주인장 마음대로...기안적 사고!"</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250326075008_b0e9065d191bfcd96a8d31b7eec501a6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['네모난 스크린, 네모난 캐릭터"  '마인크래프트 무비'  4월 개봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=356257</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=356257</guid>
-            <pubDate>Tue, 25 Mar 2025 23:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=356257">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250326073757_6642c954b952271ba6ac2b012fda062f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=356257">'네모난 스크린, 네모난 캐릭터"  '마인크래프트 무비'  4월 개봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250326073757_6642c954b952271ba6ac2b012fda062f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
