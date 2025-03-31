@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://entertain.daum.net/news/movie</id>
     <title>다음 연예 ─ 뉴스 ─ 영화</title>
-    <updated>2025-03-31T12:17:21.565Z</updated>
+    <updated>2025-03-31T13:21:22.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://entertain.daum.net/news/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['인어공주'보다 망했다... 3700억 들인 '백설공주', 디즈니에 최악 손실 안기나]]></title>
+        <id>https://v.daum.net/v/20250331220800245</id>
+        <link href="https://v.daum.net/v/20250331220800245"/>
+        <updated>2025-03-31T13:21:21.349Z</updated>
+        <content type="html"><![CDATA[[TV리포트=이혜미 기자] 과도한 PC주의로 개봉 전부터 잡음을 냈던 디즈니 실사 영화 '백설공주'가 개봉 2주차에 박스오피스 2위로 내려앉으며 흥행에 실패했다. 30일(현지시각) AP통신은 글로벌 박스오피스 집계 업체인 컴스코어 자료를 인용해 '백설공주'가 개봉 2주차 주말 북미 극장가에서 1420만(한화 200억 원)의 티켓 수입을 기록했다고 보도했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[짜릿한 스릴+폭발적 액션…강하늘X유해진 영화 '야당', 스틸 전격 공개]]></title>
         <id>https://v.daum.net/v/20250331210007200</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20250331163642523"/>
         <updated>2025-03-31T08:14:33.473Z</updated>
         <content type="html"><![CDATA[[뉴스엔 배효주 기자] '승부'가 개봉주 주말 전체 박스오피스 1위를 차지했다. 3월 31일 영화진흥위원회 통합전산망 집계에 따르면, 영화 '승부'(감독 김형주)가 개봉주 누적 관객 70만838명을 기록하며 박스오피스 1위에 등극했다. 이에 따라 '승부'는 2025년 한국 영화 최고 흥행작 '히트맨2'의 개봉주 누적 관객(60만4,875명)을 가뿐히 뛰]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑과 이해로 오늘도 살아 보렵니다]]></title>
-        <id>https://v.daum.net/v/20250331161500525</id>
-        <link href="https://v.daum.net/v/20250331161500525"/>
-        <updated>2025-03-31T08:14:33.473Z</updated>
-        <content type="html"><![CDATA[[김남정 기자] '장례지도사'는 장례의 절차와 관련된 모든 업무를 총괄하는 일을 담당한다. 고인과 유가족을 위해 고인의 인생을 숭고하게 마무리할 수 있게 도와주는 직업이다. 특별한 직업이자 선뜻 내켜 하지 않는 직업이기도 하다. 중국 영화 &lt;인생 대사&gt;는 한 사람의 생에서 가장 큰 대사인 죽음과 이승에서의 마지막을 숭고하게 마무리하는 장례지도사로 거듭나는]]></content>
     </entry>
 </feed>
