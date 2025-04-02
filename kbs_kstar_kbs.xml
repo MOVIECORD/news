@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Apr 2025 20:11:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Apr 2025 21:09:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이미도X이승우 "어서 오세요, 헬스클럽"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=356603</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=356603</guid>
+            <pubDate>Wed, 02 Apr 2025 21:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=356603">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250328085936_d2119903d68b66c4053085f4c85b99d8.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=356603">이미도X이승우 "어서 오세요, 헬스클럽" </a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250328085936_d2119903d68b66c4053085f4c85b99d8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[빌런의 나라] “애인 있어요?” 첫사랑 노민우 플러팅에 싱글인 척 연기하는 소유진]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=357221</link>
@@ -348,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%85%80%EB%9F%BD%EB%B3%91%EC%82%AC%EC%9D%98%20%EB%B9%84%EB%B0%80">셀럽병사의 비밀</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250401225144_b8659d4d8441b26f5f19ca4779c89e0b_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['옥탑방의 재벌?' 김종국, 아끼고 아껴 1000억 說]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=357036</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=357036</guid>
-            <pubDate>Tue, 01 Apr 2025 02:30:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=357036">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250401101655_6ae360d5ba3e762ffb5afb8c88672e4a.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=357036">'옥탑방의 재벌?' 김종국, 아끼고 아껴 1000억 說</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4">옥탑방의 문제아들</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250401101655_6ae360d5ba3e762ffb5afb8c88672e4a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
