@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Apr 2025 08:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Apr 2025 09:09:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[흥행 '승부' 100만 돌파.. "백만감사"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=357521</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=357521</guid>
+            <pubDate>Sat, 05 Apr 2025 09:07:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=357521">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250405172138_9bf0411bdc17bfd2dbcbc16f71dbc136.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=357521">흥행 '승부' 100만 돌파.. "백만감사"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250405172138_9bf0411bdc17bfd2dbcbc16f71dbc136.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["하정우는 로비 중" SNL코리아 출격]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=357509</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=356886">JIFF2025 '코리안시네마' 선정작 발표</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250331110913_09b4770711595ffd6770a3d771457f07.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[다르덴 형제 '자전거 탄 소년' 개봉....“사랑의 페달을 함께 밟아줄 사람이 나타났다”]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=356879</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=356879</guid>
-            <pubDate>Mon, 31 Mar 2025 02:26:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=356879">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250331105222_57e832191dd1c2010242a158699d7e8f.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=356879">다르덴 형제 '자전거 탄 소년' 개봉....“사랑의 페달을 함께 밟아줄 사람이 나타났다”</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250331105222_57e832191dd1c2010242a158699d7e8f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
