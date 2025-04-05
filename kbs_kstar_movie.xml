@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Apr 2025 02:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Apr 2025 03:24:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["하정우는 로비 중" SNL코리아 출격]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=357509</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=357509</guid>
+            <pubDate>Sat, 05 Apr 2025 03:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=357509">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250405112658_f7f9b5a99054c620aaacef8247c5be23.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=357509">"하정우는 로비 중" SNL코리아 출격</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250405112658_f7f9b5a99054c620aaacef8247c5be23.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마리아 칼라스와 그의 곁을 지키는 조력자들.. 영화 '마리아']]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=357482</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=356879">다르덴 형제 '자전거 탄 소년' 개봉....“사랑의 페달을 함께 밟아줄 사람이 나타났다”</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250331105222_57e832191dd1c2010242a158699d7e8f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[리뷰] ‘승부’ 스승과 제자, 흑백의 운명을 두다  (김형주 감독, 이병헌 주연,2025)]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=356867</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=356867</guid>
-            <pubDate>Mon, 31 Mar 2025 00:42:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=356867">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250331091937_66809ed845a358008c4f170b17bf4038.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=356867">[리뷰] ‘승부’ 스승과 제자, 흑백의 운명을 두다  (김형주 감독, 이병헌 주연,2025)</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250331091937_66809ed845a358008c4f170b17bf4038.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
