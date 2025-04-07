@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Apr 2025 23:08:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 00:42:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['제로베이스원 팬콘서트' 19일 CGV 생중계]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=357708</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=357708</guid>
+            <pubDate>Mon, 07 Apr 2025 00:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=357708">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250407083808_cc6e1569cd41f254d304833c3be5947e.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=357708">'제로베이스원 팬콘서트' 19일 CGV 생중계</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250407083808_cc6e1569cd41f254d304833c3be5947e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 하정우 감독. '로비의 달인, 세 번째 감독수업'  (‘로비’)]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=357664</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=356952">"벗어날 수 없다"  얽히고설킨 6인의 '악연'  넷플릭스 제작발표회</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250331171139_b3e7f67481005aac3d6d57c6d530e199.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘꽁꽁 숨겼수다’ 김선호... 반짝이는 작품, 히든카드 박충섭]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=356912</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=356912</guid>
-            <pubDate>Mon, 31 Mar 2025 04:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=356912">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250331130557_fc8dcc3eaa1b844b28362504cbebb001.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=356912">‘꽁꽁 숨겼수다’ 김선호... 반짝이는 작품, 히든카드 박충섭</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250331130557_fc8dcc3eaa1b844b28362504cbebb001.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
