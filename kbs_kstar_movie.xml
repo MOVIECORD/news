@@ -4,9 +4,26 @@
         <title>KBS연예 ─ 영화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Apr 2025 21:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 22:10:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['아마추어' 라미 말렉 - 제임스 하위스 감독 화상 기자간담회.. “100% 엔터테인먼트"]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=358093</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=358093</guid>
+            <pubDate>Wed, 09 Apr 2025 22:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=358093">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250410065332_41e31975176814e5518164560d787743.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=358093">'아마추어' 라미 말렉 - 제임스 하위스 감독 화상 기자간담회.. “100% 엔터테인먼트"</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250410065332_41e31975176814e5518164560d787743.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“올해 최고의 애니메이션” '달팽이의 회고록' 4월 30일 개봉]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=357945</link>
@@ -329,23 +346,6 @@
 		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=357482">마리아 칼라스와 그의 곁을 지키는 조력자들.. 영화 '마리아'</a></span>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250405073954_dd28e13cabfff548b2777f61ce55f67c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['류이치 사카모토: 플레잉 디 오케스트라 2014' 롯데시네마 단독개봉]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=357405</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=357405</guid>
-            <pubDate>Fri, 04 Apr 2025 03:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=357405">	<span class="img-box ww">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250404120347_fd625f0069556191d21fdc6c4a92e5c9.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=357405">'류이치 사카모토: 플레잉 디 오케스트라 2014' 롯데시네마 단독개봉</a></span>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250404120347_fd625f0069556191d21fdc6c4a92e5c9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
