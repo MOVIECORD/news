@@ -4,9 +4,26 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Apr 2025 22:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 23:11:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정은지X이다은, '찐' 현실 자매 (24시 헬스클럽)]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=358026</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=358026</guid>
+            <pubDate>Thu, 10 Apr 2025 23:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=358026">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250409091229_b25c21d2b5a98622f7f7572a4f408f91.jpg" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=358026">정은지X이다은, '찐' 현실 자매 (24시 헬스클럽)</a></span>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250409091229_b25c21d2b5a98622f7f7572a4f408f91.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[빌런의 나라] 박영규 도움 요청 보이스 피싱으로 오해하는 오나라 “어쩜 목소리가 똑같니?”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=358188</link>
@@ -348,24 +365,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4">슈퍼맨이 돌아왔다</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250409213712_8ba7d40259584de7834d37a588205876_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['생로병사의 비밀' 당뇨병 전단계의 위험 경고]]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=357935</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=357935</guid>
-            <pubDate>Wed, 09 Apr 2025 05:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=357935">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250409074848_a038bdf4fa770268531b3a2ab71644b7_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=357935">'생로병사의 비밀' 당뇨병 전단계의 위험 경고</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%83%9D%EB%A1%9C%EB%B3%91%EC%82%AC%EC%9D%98%20%EB%B9%84%EB%B0%80">생로병사의 비밀</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250409074848_a038bdf4fa770268531b3a2ab71644b7_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
