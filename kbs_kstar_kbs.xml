@@ -4,9 +4,27 @@
         <title>KBS연예 ─ KBS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Apr 2025 13:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 14:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뮤직뱅크] 템페스트, 청춘 매력 가득 담은 무대...Unfreeze]]></title>
+            <link>https://kstar.kbs.co.kr/list_view.html?idx=358316</link>
+            <guid>https://kstar.kbs.co.kr/list_view.html?idx=358316</guid>
+            <pubDate>Fri, 11 Apr 2025 14:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=358316">	<span class="img-box hh">
+		<span class="img-thum">
+			<span class="img-center">
+				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250411222851_2137633d77502169f0b7b71b38b74969.png" alt="대체 텍스트">
+			</span>
+		</span>
+	</span></a>
+	<span class="txt">
+		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=358316">[뮤직뱅크] 템페스트, 청춘 매력 가득 담은 무대...Unfreeze</a></span>
+		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC">뮤직뱅크</a></em>
+	</span>]]></content:encoded>
+            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250411222851_2137633d77502169f0b7b71b38b74969.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[뮤직뱅크] ‘1위’ 클로즈 유어 아이즈 “팬들이 주신 선물...1위 어울리는 가수 되겠다”]]></title>
             <link>https://kstar.kbs.co.kr/list_view.html?idx=358312</link>
@@ -346,24 +364,6 @@
 		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%ED%95%9C%EA%B5%AD%EC%9D%B8%EC%9D%98%20%EB%B0%A5%EC%83%81">한국인의 밥상</a></em>
 	</span>]]></content:encoded>
             <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250410073507_670511532d6da3f6f9927850fcc3b57c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이가령, 허영과 욕망의 인물 '강세리'... 일일드라마 '여왕의 집']]></title>
-            <link>https://kstar.kbs.co.kr/list_view.html?idx=358031</link>
-            <guid>https://kstar.kbs.co.kr/list_view.html?idx=358031</guid>
-            <pubDate>Wed, 09 Apr 2025 23:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://kstar.kbs.co.kr/list_view.html?idx=358031">	<span class="img-box hh">
-		<span class="img-thum">
-			<span class="img-center">
-				<img src="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250409091744_aeda8683fcd93b586213cfb92fa29047_1.jpg" alt="대체 텍스트">
-			</span>
-		</span>
-	</span></a>
-	<span class="txt">
-		<span class="max-progtit"><a href="https://kstar.kbs.co.kr/list_view.html?idx=358031">이가령, 허영과 욕망의 인물 '강세리'... 일일드라마 '여왕의 집'</a></span>
-		<em class="prog"><a href="https://kstar.kbs.co.kr/list.html?program_title=%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88%20%EC%97%AC%EC%99%95%EC%9D%98%20%EC%A7%91">일일드라마 여왕의 집</a></em>
-	</span>]]></content:encoded>
-            <enclosure url="https://entertainimg.kbsmedia.co.kr/cms/uploads/CONTENTS_20250409091744_aeda8683fcd93b586213cfb92fa29047_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
